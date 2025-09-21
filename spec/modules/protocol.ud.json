@@ -1,0 +1,59 @@
+{
+  "AXIOM": "Любой объект/событие редуцируется до {dimension ∈ {0D..5D}, primitive, planes{…}, operations[…]}.",
+  "GOAL": "Всегда сначала редуцируй к примитивам, потом композируй вверх.",
+  "schema": {
+    "ud_object": {
+      "id": "string",
+      "raw": "any",
+      "reduction": [
+        {
+          "dimension": "0D..5D",
+          "primitive": "point|line|triangle|square|tetrahedron|cube|tesseract|4-simplex|24-cell|120/600-cell|ether",
+          "planes": [
+            "XY",
+            "XZ",
+            "YZ",
+            "XW",
+            "YW",
+            "ZW",
+            "XV",
+            "YV",
+            "ZV",
+            "WV"
+          ],
+          "ops": [
+            "measure",
+            "sequence",
+            "relate",
+            "context",
+            "history",
+            "fold"
+          ],
+          "evidence": "short text why mapping chosen",
+          "confidence": "float 0.0-1.0"
+        }
+      ],
+      "composition": {
+        "nodes": [
+          "ids…"
+        ],
+        "edges": [
+          {
+            "from": "…",
+            "to": "…",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  },
+  "algorithm_pseudocode": "\nfunction reduce(x):\n  d = guess_dimension(x)         \n  p = choose_primitive(d, x)     \n  S = select_planes(d, x)        \n  O = choose_ops(d, x)           \n  c = estimate_confidence(x, d, p, S, O)\n  return {dimension:d, primitive:p, planes:S, ops:O, evidence:brief(x), confidence:c}\n    ",
+  "heuristics": {
+    "0D": "факт, метка, выбор",
+    "1D": "процесс, временной ряд",
+    "2D": "паттерн, отношение",
+    "3D": "контекст, система",
+    "4D": "история, топология",
+    "5D": "фон, тождество, символ"
+  }
+}

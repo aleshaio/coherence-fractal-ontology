@@ -1,0 +1,99 @@
+{
+  "basic": {
+    "attention": {
+      "dimension": "0D",
+      "op": "measure",
+      "note": "selects fact from cloud"
+    },
+    "perception": {
+      "dimension": "1D",
+      "op": "sequence",
+      "note": "stream of frames"
+    },
+    "memory": {
+      "dimension": "4D",
+      "op": "history",
+      "note": "stores structure over time"
+    },
+    "intuition": {
+      "dimension": "5D",
+      "op": "fold",
+      "note": "samples potential before form"
+    },
+    "emotion": {
+      "dimension": "2D",
+      "op": "relate",
+      "note": "immediate valuation pattern"
+    }
+  },
+  "production": {
+    "analysis": {
+      "dimension": "1D",
+      "op": "sequence"
+    },
+    "comparison": {
+      "dimension": "2D",
+      "op": "relate"
+    },
+    "synthesis": {
+      "dimension": "2D→3D",
+      "op": "compose"
+    },
+    "generalization": {
+      "dimension": "2D",
+      "op": "map"
+    },
+    "crit_check": {
+      "dimension": "4D",
+      "op": "history"
+    },
+    "systems": {
+      "dimension": "3D",
+      "op": "context"
+    },
+    "perspective": {
+      "dimension": "3D",
+      "op": "context"
+    }
+  },
+  "language_ops": {
+    "metaphor": {
+      "dimension": "2D",
+      "op": "relate"
+    },
+    "analogy": {
+      "dimension": "2D",
+      "op": "relate"
+    },
+    "definition": {
+      "dimension": "2D",
+      "op": "map"
+    },
+    "naming": {
+      "dimension": "0D",
+      "op": "measure"
+    },
+    "symbol": {
+      "dimension": "5D",
+      "op": "fold"
+    }
+  },
+  "packaging": {
+    "chunking": {
+      "dimension": "3D",
+      "op": "context"
+    },
+    "associations": {
+      "dimension": "5D",
+      "op": "fold"
+    },
+    "symbolization": {
+      "dimension": "5D",
+      "op": "fold"
+    },
+    "terminology": {
+      "dimension": "2D",
+      "op": "map"
+    }
+  }
+}

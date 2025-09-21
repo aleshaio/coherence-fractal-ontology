@@ -1,0 +1,61 @@
+{
+  "causal_linear": {
+    "label": "Причинно‑следственное",
+    "view_of_future": "Straight corridor: steps → result",
+    "blind_spot": "Ignores parallel slices",
+    "dimension_bias": [
+      "1D",
+      "3D"
+    ],
+    "archetype_examples": [
+      "Новатор",
+      "Инспектор",
+      "Политик",
+      "Гуманист"
+    ]
+  },
+  "dialectic_algorithmic": {
+    "label": "Диалектико‑алгоритмическое",
+    "view_of_future": "Play: tension → conflict → resolution",
+    "blind_spot": "Sees one storyline at a time",
+    "dimension_bias": [
+      "2D",
+      "4D"
+    ],
+    "archetype_examples": [
+      "Дипломат",
+      "Наставник",
+      "Критик",
+      "Администратор"
+    ]
+  },
+  "holographic_panoramic": {
+    "label": "Голографико‑панорамное",
+    "view_of_future": "System already laid out; we traverse it",
+    "blind_spot": "Confuses stitched model with full 4D panorama",
+    "dimension_bias": [
+      "3D",
+      "4D"
+    ],
+    "archetype_examples": [
+      "Аналитик",
+      "Лидер",
+      "Хранитель",
+      "Советчик"
+    ]
+  },
+  "vortical_synergetic": {
+    "label": "Вихревое‑синергетическое",
+    "view_of_future": "Flow/vortex to be steered",
+    "blind_spot": "Feels dynamics but not full structure",
+    "dimension_bias": [
+      "4D"
+    ],
+    "archetype_examples": [
+      "Энтузиаст",
+      "Лирик",
+      "Предприниматель",
+      "Мастер"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "discipline": "neuroscience",
+  "fundamental": true,
+  "geometric_view": "Cognition = 4D tesseract memory with 1D/2D processing streams; symbols are 5D folds.",
+  "key_planes": [
+    "XW",
+    "YW",
+    "ZW",
+    "XY"
+  ],
+  "primitives": [
+    "line",
+    "square",
+    "tesseract",
+    "ether"
+  ],
+  "ops": [
+    "sequence",
+    "relate",
+    "history",
+    "fold"
+  ],
+  "observables": [
+    "phase_coupling",
+    "connectome_topology",
+    "population_codes",
+    "temporal_sequences"
+  ],
+  "controls": [
+    "basis_rotation(stimuli)",
+    "rhythmic_drive",
+    "structural_plasticity",
+    "attention_measurement"
+  ]
+}

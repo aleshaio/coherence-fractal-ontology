@@ -1,0 +1,54 @@
+{
+  "discipline": "energy_fusion",
+  "fundamental": true,
+  "geometric_view": "Fusion cross‑section optimized via 4D form control inferred from 3D projections of ion/molecular states.",
+  "key_planes": [
+    "XW",
+    "YW",
+    "ZW",
+    "XZ"
+  ],
+  "primitives": [
+    "line",
+    "square",
+    "cube",
+    "tesseract"
+  ],
+  "ops": [
+    "measure",
+    "sequence",
+    "relate",
+    "context",
+    "history",
+    "transform"
+  ],
+  "observables": [
+    "ion_phase_space",
+    "resonant_orbits",
+    "microfield_topology",
+    "reaction_channels"
+  ],
+  "controls_hypotheses": [
+    {
+      "name": "geometric_resonance_tuning",
+      "fundamental": true,
+      "idea": "Shape external fields to match 4D connectivity of reacting pairs to raise overlap probability."
+    },
+    {
+      "name": "defect_topology_guidance",
+      "fundamental": true,
+      "idea": "Use lattice/defect geometry to channel energy and transiently confine trajectories (lattice-assisted)."
+    },
+    {
+      "name": "basis_rotation_protocols",
+      "fundamental": true,
+      "idea": "Cycle measurement/drive bases (XW↔YW↔ZW) to steer populations into favorable states."
+    },
+    {
+      "name": "multi-scale_feedback",
+      "fundamental": false,
+      "idea": "Close loops across diagnostics→control to maintain desired 4D form under fluctuations."
+    }
+  ],
+  "safety_note": "This is a high-level geometric control hypothesis; no operational parameters are specified."
+}

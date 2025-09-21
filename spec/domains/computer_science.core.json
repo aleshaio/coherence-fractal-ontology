@@ -1,0 +1,40 @@
+{
+  "discipline": "computer_science",
+  "fundamental": false,
+  "geometric_view": "Data→0D, programs→1D, data structures→2D/3D, systems→3D, logs/models→4D; compression/symbols→5D folds.",
+  "key_planes": [
+    "XY",
+    "XW",
+    "YW",
+    "ZW"
+  ],
+  "primitives": [
+    "point",
+    "line",
+    "square",
+    "cube",
+    "tesseract",
+    "ether"
+  ],
+  "ops": [
+    "measure",
+    "sequence",
+    "relate",
+    "context",
+    "history",
+    "fold"
+  ],
+  "observables": [
+    "latency",
+    "throughput",
+    "loss",
+    "generalization",
+    "compression"
+  ],
+  "controls": [
+    "architecture_geometry",
+    "memory_topology",
+    "protocols(4-simplex)",
+    "training_curriculum(XW)"
+  ]
+}

@@ -180,3 +180,11 @@ _"The geometry that governs all things"_
 _September 21, 2025_
 
 ---
+---
+
+# Beyond 4D — The 5D Singularity
+
+**5D = 0 (Ether, Absolute).** It is the closure contour of the system.  
+It yields planes **XV, YV, ZV, WV**, where *potential* replaces *difference*.  
+At this level infinite multiplications and nestings compensate: **∞ × … / ∞ = 1**.  
+In practice: 5D provides the **identity background** upon which 0D–4D appear as local perturbations.

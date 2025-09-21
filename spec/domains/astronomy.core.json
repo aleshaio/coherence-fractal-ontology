@@ -1,0 +1,31 @@
+{
+  "discipline": "astronomy_cosmology",
+  "fundamental": true,
+  "geometric_view": "Gravity = geometry; galaxies/planets are 3D volumes with 4D evolutionary connectivity; dark sector as 5D background.",
+  "key_planes": [
+    "XZ",
+    "XW",
+    "YW"
+  ],
+  "primitives": [
+    "cube",
+    "tesseract",
+    "ether"
+  ],
+  "ops": [
+    "context",
+    "history",
+    "fold"
+  ],
+  "observables": [
+    "orbital_architectures",
+    "large_scale_structure",
+    "lensing_signatures",
+    "cosmic_background"
+  ],
+  "controls": [
+    "initial_condition_geometry",
+    "feedback_loops",
+    "resonance_captures"
+  ]
+}

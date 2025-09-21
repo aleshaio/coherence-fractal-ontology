@@ -1,0 +1,13 @@
+{
+  "types": {
+    "projection": "lifting structure from lower to higher dimension (e.g., line→plane)",
+    "resonance": "locking patterns across dimensions (e.g., 2D form ↔ 4D narrative)",
+    "closure": "return paths that fold directions into identity (4D→5D)"
+  },
+  "edge_schema": {
+    "from_dim": "0D..5D",
+    "to_dim": "0D..5D",
+    "kind": "projection|resonance|closure",
+    "note": "string description"
+  }
+}
