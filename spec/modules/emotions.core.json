@@ -1,0 +1,96 @@
+{
+  "module": "Emotions & Psyche Map",
+  "version": "1.0",
+  "emotions": [
+    {
+      "name": "Trust",
+      "dimension": "1D",
+      "primitive": "line",
+      "planes": [
+        "YW"
+      ],
+      "ops": [
+        "relate",
+        "sequence"
+      ],
+      "signature": "shortest path between two points"
+    },
+    {
+      "name": "Fear",
+      "dimension": "2D",
+      "primitive": "square",
+      "planes": [
+        "XY",
+        "ZW"
+      ],
+      "ops": [
+        "relate",
+        "measure"
+      ],
+      "signature": "closed perimeter / defensive boundary"
+    },
+    {
+      "name": "Love",
+      "dimension": "2D",
+      "primitive": "circle",
+      "planes": [
+        "XY",
+        "YW"
+      ],
+      "ops": [
+        "relate",
+        "compose"
+      ],
+      "signature": "inclusion, continuity"
+    },
+    {
+      "name": "Anger",
+      "dimension": "1D",
+      "primitive": "line",
+      "planes": [
+        "XW"
+      ],
+      "ops": [
+        "sequence"
+      ],
+      "signature": "impulse toward change"
+    },
+    {
+      "name": "Joy",
+      "dimension": "3D",
+      "primitive": "cube",
+      "planes": [
+        "YZ"
+      ],
+      "ops": [
+        "context"
+      ],
+      "signature": "expansion of available volume"
+    },
+    {
+      "name": "Shame",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "planes": [
+        "XY"
+      ],
+      "ops": [
+        "map"
+      ],
+      "signature": "misaligned projection to social plane"
+    },
+    {
+      "name": "Calm",
+      "dimension": "5D",
+      "primitive": "ether",
+      "planes": [
+        "XV",
+        "ZV"
+      ],
+      "ops": [
+        "fold"
+      ],
+      "signature": "identity with field, low gradients"
+    }
+  ]
+}

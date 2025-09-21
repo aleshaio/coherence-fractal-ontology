@@ -1,0 +1,66 @@
+{
+  "module": "Primitives Glossary",
+  "version": "1.0",
+  "primitives": [
+    {
+      "name": "point",
+      "dimension": "0D",
+      "function": "difference, address"
+    },
+    {
+      "name": "line",
+      "dimension": "1D",
+      "function": "process, causality"
+    },
+    {
+      "name": "triangle",
+      "dimension": "2D",
+      "function": "minimal rigidity, relation"
+    },
+    {
+      "name": "square",
+      "dimension": "2D",
+      "function": "tessellation, protocol"
+    },
+    {
+      "name": "circle",
+      "dimension": "2D",
+      "function": "inclusion, closure"
+    },
+    {
+      "name": "tetrahedron",
+      "dimension": "3D",
+      "function": "focused structure"
+    },
+    {
+      "name": "cube",
+      "dimension": "3D",
+      "function": "container, system"
+    },
+    {
+      "name": "tesseract",
+      "dimension": "4D",
+      "function": "contextual memory (history+structure)"
+    },
+    {
+      "name": "4-simplex",
+      "dimension": "4D",
+      "function": "minimal protocol"
+    },
+    {
+      "name": "24-cell",
+      "dimension": "4D",
+      "function": "multi-process coordination"
+    },
+    {
+      "name": "120/600-cell",
+      "dimension": "4D",
+      "function": "global fabric"
+    },
+    {
+      "name": "ether",
+      "dimension": "5D",
+      "function": "identity fold/background"
+    }
+  ]
+}
