@@ -23,7 +23,7 @@ They scale from **quanta and molecules** to **psyche and civilizations**.
 - **`/examples/`** — worked reductions and fixtures  
 - **`/docs/`** — human-readable guides (EN + translations)  
 - **`/papers/`** — whitepaper and formatted PDFs  
-- **`/legal/`** — license (MIT)  
+- **`/legal/`** — license (MIT + declaration)  
 
 ---
 
