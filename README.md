@@ -1,4 +1,4 @@
-#<img width="960" height="770" alt="the-sword" src="https://github.com/user-attachments/assets/a43af21c-6730-4371-b50a-44d9ec86906a" />
+<img width="960" height="770" alt="the-sword" src="https://github.com/user-attachments/assets/a43af21c-6730-4371-b50a-44d9ec86906a" />
 
  Coordinate Grid of Reality
 
