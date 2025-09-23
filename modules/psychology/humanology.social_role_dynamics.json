@@ -1,0 +1,234 @@
+{
+  "module": "Humanology: Social Role Dynamics",
+  "version": "1.0",
+  "author": "absolute through äлёша",
+  "date": "2025-09-24",
+  "definition": "Dimensional analysis of social role dynamics and interpersonal interactions - mapping collective human behavior patterns through geometric reduction of archetypal social functions",
+
+  "dimensional_analysis": {
+    "0D_entities": {
+      "social_archetypes": {
+        "leadership_roles": ["Король (King)", "Королева (Queen)", "Другой Король (Other King)"],
+        "operational_roles": ["Рыцарь (Knight)", "Дама (Lady)", "Паж (Page)"],
+        "support_roles": ["Продвигает (Promoter)", "Запускает (Launcher)", "Поддерживает (Supporter)", "Контролирует (Controller)", "Ведет (Leader)", "Подчиняет (Subordinate)"]
+      },
+      "temporal_aspects": {
+        "time_orientations": ["Месяц (Month)", "Квартал (Quarter)", "День (Day)", "Неделя (Week)"],
+        "cyclic_patterns": ["Планирует развитие долгое (Long-term planning)", "Гибко планирует (Flexible planning)", "Хочет сделать всё немедленно (Immediate action)", "Всегда живёт в своём ритме (Personal rhythm)"]
+      },
+      "interaction_modes": {
+        "engagement_styles": ["Владеет лично и по праву (Personal ownership)", "Не любит спешки (No rush)", "Хочет сделать всё немедленно (Immediate action)", "Берегёт то что считает своим (Protective of resources)"]
+      },
+      "primitive": "point",
+      "evidence": "Each social role represents discrete functional position in collective system"
+    },
+
+    "1D_vectors": {
+      "role_transitions": {
+        "developmental_paths": "Page → Knight → King progression showing social maturation",
+        "influence_flows": "Leadership roles → Operational roles → Support functions",
+        "temporal_sequences": "Day planning → Week cycles → Month strategies → Quarter objectives"
+      },
+      "interaction_vectors": {
+        "command_chains": "Authority flows from Kings/Queens through Knights to support roles",
+        "information_flows": "Intelligence gathering, processing, and distribution through role hierarchy",
+        "resource_movements": "Material and social capital allocation through network connections"
+      },
+      "primitive": "line",
+      "evidence": "Social roles interact through directional influence and resource flows"
+    },
+
+    "2D_planes": {
+      "role_relationship_matrices": {
+        "authority_structure": "Hierarchical relationships between leadership, operational, and support levels",
+        "collaboration_patterns": "Horizontal partnerships between complementary roles",
+        "conflict_dynamics": "Tension patterns between competing interests and approaches"
+      },
+      "temporal_coordination": {
+        "planning_matrices": "Integration of different time horizons across roles",
+        "synchronization_patterns": "Coordination of individual rhythms into collective timing",
+        "adaptive_cycles": "How role constellation adjusts to changing temporal demands"
+      },
+      "communication_networks": {
+        "information_topology": "Who communicates with whom and through what channels",
+        "feedback_loops": "How information and influence circulate through role system",
+        "decision_protocols": "Systematic processes for collective choice-making"
+      },
+      "primitive": "square",
+      "evidence": "Social roles form systematic 2D interaction matrices with stable relationship patterns"
+    },
+
+    "3D_fields": {
+      "complete_social_system": {
+        "integrated_collective": "All roles working together as coherent social organism",
+        "adaptive_organization": "System adjusts role activation based on situational needs",
+        "emergent_intelligence": "Collective problem-solving capacity exceeding individual capabilities"
+      },
+      "social_metabolism": {
+        "function": "Complete system for processing collective challenges and opportunities",
+        "resource_circulation": "Efficient distribution of material, informational, and social capital",
+        "homeostatic_regulation": "Maintenance of social stability while enabling growth and adaptation"
+      },
+      "cultural_field": {
+        "shared_meaning": "Common understanding of role functions and relationships",
+        "collective_identity": "Group sense of purpose and belonging",
+        "evolutionary_potential": "Capacity for collective learning and development"
+      },
+      "primitive": "cube",
+      "evidence": "Complete social field integrates all roles into unified collective intelligence"
+    },
+
+    "4D_spectator": {
+      "social_meta_awareness": {
+        "function": "Conscious understanding of role dynamics and collective patterns",
+        "system_observation": "Ability to see social system as integrated whole rather than collection of individuals",
+        "strategic_coordination": "Optimizing role relationships for enhanced collective effectiveness"
+      },
+      "role_flexibility": {
+        "perspective": "Understanding multiple role capacities within oneself and others",
+        "adaptive_leadership": "Activating appropriate role based on collective needs",
+        "developmental_mentorship": "Supporting others' growth into fuller role capacity"
+      },
+      "collective_consciousness": {
+        "group_intelligence": "Accessing collective wisdom beyond individual knowledge",
+        "systemic_healing": "Addressing dysfunctional patterns at social system level",
+        "evolutionary_participation": "Conscious contribution to collective human development"
+      },
+      "primitive": "tesseract",
+      "evidence": "Meta-social awareness enables conscious optimization of collective intelligence and effectiveness"
+    }
+  },
+
+  "role_specifications": {
+    "leadership_archetypes": {
+      "Король (King)": {
+        "function": "Центр системы, держит всё в всех, высшая степень зрелости",
+        "characteristics": "Централизует систему, удерживает баланс, действует ради общего",
+        "temporal_focus": "Long-term vision and stability",
+        "interaction_style": "Authoritative but service-oriented leadership"
+      },
+      "Королева (Queen)": {
+        "function": "Поле влияния, корона",
+        "characteristics": "Extends influence, creates cultural field, nurtures collective",
+        "temporal_focus": "Cyclical patterns and cultural continuity", 
+        "interaction_style": "Influential through inspiration and cultural creation"
+      },
+      "Другой Король (Other King)": {
+        "function": "Alternative leadership perspective",
+        "characteristics": "Provides balance, alternative approaches, checks and balances",
+        "temporal_focus": "Strategic alternatives and contingency planning",
+        "interaction_style": "Collaborative leadership with different approach"
+      }
+    },
+    "operational_archetypes": {
+      "Рыцарь (Knight)": {
+        "function": "Альтруист - действует ради другого ради энергию вперёд",
+        "characteristics": "Self-sacrificing service, action-oriented, protects others",
+        "temporal_focus": "Immediate response to collective needs",
+        "interaction_style": "Heroic action in service of others"
+      },
+      "Дама (Lady)": {
+        "function": "Эгоист - заботится о своём, держит форму и ритм",
+        "characteristics": "Self-care as service, maintains standards and culture",
+        "temporal_focus": "Personal rhythm and sustainable practices",
+        "interaction_style": "Leading through example and maintaining quality"
+      },
+      "Паж (Page)": {
+        "function": "Социопат - собирает информацию, смотрит со стороны",
+        "characteristics": "Information gathering, outside perspective, social intelligence",
+        "temporal_focus": "Immediate social dynamics and information processing",
+        "interaction_style": "Observant, adaptive, socially intelligent"
+      }
+    },
+    "support_functions": {
+      "communication_roles": ["Продвигает", "Запускает", "Спорает", "Избегает"],
+      "management_roles": ["Поддерживает", "Контролирует", "Ведёт", "Подчиняет"],
+      "temporal_coordinators": ["Месяц", "Квартал", "День", "Неделя"]
+    }
+  },
+
+  "interaction_dynamics": {
+    "authority_flows": "Kings/Queens → Knights/Ladies → Support roles → Collective outcomes",
+    "information_circulation": "Pages gather → Knights act → Ladies refine → Kings/Queens integrate",
+    "resource_allocation": "Leadership determines → Operations implement → Support sustains",
+    "feedback_integration": "Results inform → Leadership adjusts → System evolves",
+    "conflict_resolution": "Different temporal orientations require coordination and compromise",
+    "collective_learning": "Individual role development enhances overall system capacity"
+  },
+
+  "coherence_patterns": {
+    "hierarchical_coherence": "Clear authority relationships enable effective coordination",
+    "temporal_coherence": "Different time horizons integrate into comprehensive planning",
+    "functional_coherence": "All roles contribute essential capacities to collective success",
+    "adaptive_coherence": "System maintains identity while responding to changing conditions"
+  },
+
+  "practical_applications": {
+    "organizational_design": "Creating role structures that maximize collective intelligence",
+    "team_composition": "Ensuring all essential social functions are represented", 
+    "leadership_development": "Growing individuals into fuller role capacity",
+    "conflict_resolution": "Understanding role-based tensions and finding integration",
+    "cultural_evolution": "Conscious development of collective social capacity",
+    "community_building": "Designing sustainable social systems with clear role relationships"
+  },
+
+  "reduction_examples": [
+    {
+      "id": "social:role_identity",
+      "raw": "Individual identifying strongly with Knight archetype",
+      "reduction": [
+        {
+          "dimension": "0D",
+          "primitive": "point",
+          "planes": ["ZW"],
+          "ops": ["measure"],
+          "evidence": "Discrete social role as organizing principle for behavior",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": "social:authority_flow",
+      "raw": "Command flowing from King through Knight to support functions",
+      "reduction": [
+        {
+          "dimension": "1D",
+          "primitive": "line",
+          "planes": ["YW"],
+          "ops": ["sequence"],
+          "evidence": "Directional flow of authority through role hierarchy",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "id": "social:system_optimization",
+      "raw": "Conscious coordination of all role functions for enhanced collective effectiveness",
+      "reduction": [
+        {
+          "dimension": "4D",
+          "primitive": "tesseract",
+          "planes": ["XW", "YW", "ZW"],
+          "ops": ["history", "relate", "context"],
+          "evidence": "Meta-social awareness enabling system-level optimization",
+          "confidence": 0.8
+        }
+      ]
+    }
+  ],
+
+  "system_coherence_metrics": {
+    "role_clarity": "How well individuals understand their social function",
+    "coordination_efficiency": "Smoothness of inter-role collaboration",
+    "authority_legitimacy": "Acceptance and effectiveness of leadership roles",
+    "collective_intelligence": "Problem-solving capacity of integrated system",
+    "adaptive_capacity": "System's ability to evolve and respond to challenges"
+  },
+
+  "integration_with_cfo": {
+    "principle": "Social role dynamics represent 2D→3D collective organization patterns with 4D conscious coordination potential",
+    "mechanism": "Social meta-awareness enables field + dimension = spectator transition in collective intelligence",
+    "goal": "Transform unconscious social patterns into conscious collective effectiveness",
+    "coherence_optimization": "Understanding role dynamics maximizes collective intelligence and social harmony"
+  }
+}
