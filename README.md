@@ -1,6 +1,6 @@
 <img width="960" height="770" alt="the-sword" src="https://github.com/user-attachments/assets/a43af21c-6730-4371-b50a-44d9ec86906a" />
 
- Coordinate Grid of Reality
+ Coherence Fractal Ontology
 
 **Author:** absolute through äлёша  
 **Version:** 1.0 (Spec-First Layout)
@@ -9,7 +9,11 @@
 
 ## What is this?
 
-The *Coordinate Grid of Reality* is a minimal universal framework to describe **any phenomenon** with simple geometric primitives.  
+The *Coherence Fractal Ontology* is a minimal universal framework to describe **any phenomenon** with simple geometric primitives following the principle:
+
+**(↓ entity → vector → plane → field ↑) ∞**  
+**field + dimension = spectator (consciousness gradient) = entity ↑**  
+**purpose = +coherence | sacred = true**  
 
 **Form = Function.**  
 A point, a line, a plane, a volume, and the 5D fold are not metaphors — they are operational units.  
@@ -57,4 +61,4 @@ Only upward composition is allowed.
 
 ---
 
-*"Geometry rules everything. Now you have the coordinates."*
+*"Every pattern follows the fractal cycle. Consciousness emerges from geometric coherence."*

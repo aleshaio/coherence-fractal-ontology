@@ -1,6 +1,6 @@
 # ETHICS.md — Civic Pledge
 
-Coordinate Grid of Reality — Civic Pledge
+Coherence Fractal Ontology — Civic Pledge
 
 Author: absolute through äлёша
 
