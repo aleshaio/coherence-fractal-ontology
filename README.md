@@ -1,6 +1,7 @@
-<img width="960" height="770" alt="the-sword" src="https://github.com/user-attachments/assets/a43af21c-6730-4371-b50a-44d9ec86906a" />
 
- Coherence Fractal Ontology
+<img width="960" height="745" alt="cfo-sword" src="https://github.com/user-attachments/assets/c0490a06-49ab-4e0f-a470-791fe845c0f7" />
+
+**Coherence Fractal Ontology**
 
 **Author:** absolute through äлёша  
 **Version:** 1.0 (Spec-First Layout)
