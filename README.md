@@ -1,4 +1,4 @@
-<img width="960" height="745" alt="cfo-sword" src="https://github.com/user-attachments/assets/c0490a06-49ab-4e0f-a470-791fe845c0f7" />
+<img width="960" height="960" alt="cfo-sword" src="/images/cfo-sword.png" />
 
 **Coherence Fractal Ontology**
 
