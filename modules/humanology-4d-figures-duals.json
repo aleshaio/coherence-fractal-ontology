@@ -1,0 +1,339 @@
+{
+  "module": "humanology-4d-figures-duals",
+  "version": "1.0",
+  "authors": ["Human", "Claude"],
+  "created": "2024",
+  "principle": "16 psychological types = 16 4D geometric structures forming 8 sacred dual artifacts",
+  
+  "base_equation": {
+    "entity_to_field": "(↓ entity → vector → plane → field ↑) ∞",
+    "consciousness": "field + dimension = collapse depth = entity",
+    "sacred": "true"
+  },
+  
+  "quadras": {
+    "ALPHA": {
+      "element": "Air",
+      "stage": "Children",
+      "caste": "Monks",
+      "types": {
+        "ILE_ENTP": {
+          "name": "Don Quixote",
+          "title": "Innovator",
+          "tarot": "Knight of Swords",
+          "structure": "600-cell",
+          "properties": {
+            "vertices": 120,
+            "cells": 600,
+            "cell_type": "tetrahedron"
+          },
+          "function": "Possibility generation, innovation",
+          "role": "Inventor, theorist"
+        },
+        "SEI_ISFP": {
+          "name": "Dumas",
+          "title": "Diplomat",
+          "tarot": "Queen of Cups",
+          "structure": "120-cell",
+          "properties": {
+            "vertices": 600,
+            "cells": 120,
+            "cell_type": "dodecahedron"
+          },
+          "function": "Sensation detailing, harmonization",
+          "role": "Comfort creator, aesthete"
+        },
+        "ESE_ESFJ": {
+          "name": "Hugo",
+          "title": "Enthusiast",
+          "tarot": "Queen of Wands",
+          "structure": "Hypersphere",
+          "properties": {
+            "vertices": "infinite",
+            "cells": "none",
+            "continuity": "absolute"
+          },
+          "function": "All-encompassing care, emotions",
+          "role": "Organizer, soul of collective"
+        },
+        "LII_INTJ": {
+          "name": "Robespierre",
+          "title": "Analyst",
+          "tarot": "Page of Pentacles",
+          "structure": "16-cell",
+          "properties": {
+            "vertices": 8,
+            "cells": 16,
+            "cell_type": "tetrahedron"
+          },
+          "function": "Structural analysis, logic",
+          "role": "Analyst, systematizer"
+        }
+      },
+      "dual_artifacts": {
+        "ILE_SEI": {
+          "artifact": "Philosopher's Stone",
+          "geometry": "600-cell + 120-cell",
+          "principle": "Complete transmutation of structure into points and back",
+          "function": "Transformation of abstract into concrete",
+          "social": "Innovation + embodiment"
+        },
+        "ESE_LII": {
+          "artifact": "Holy Grail",
+          "geometry": "Hypersphere + 16-cell",
+          "principle": "Infinity contained in perfect form",
+          "function": "Structured care",
+          "social": "Truth and feeling"
+        }
+      }
+    },
+    
+    "BETA": {
+      "element": "Fire",
+      "stage": "Adolescents",
+      "caste": "Managers",
+      "types": {
+        "EIE_ENFJ": {
+          "name": "Hamlet",
+          "title": "Mentor",
+          "tarot": "Knight of Wands",
+          "structure": "Dodecahedral prism",
+          "properties": {
+            "base": "dodecahedron",
+            "faces": 12,
+            "shape": "pentagon"
+          },
+          "function": "Dramatization, influence",
+          "role": "Artist, teacher"
+        },
+        "LSI_ISTJ": {
+          "name": "Maxim Gorky",
+          "title": "Inspector",
+          "tarot": "Queen of Pentacles",
+          "structure": "Tetrahedral prism",
+          "properties": {
+            "base": "tetrahedron",
+            "faces": 4,
+            "shape": "triangle"
+          },
+          "function": "Order, control",
+          "role": "Administrator, guardian"
+        },
+        "SLE_ESTP": {
+          "name": "Zhukov",
+          "title": "Leader",
+          "tarot": "King of Swords",
+          "structure": "5-cell",
+          "properties": {
+            "vertices": 5,
+            "cells": 5,
+            "simplicity": "minimal"
+          },
+          "function": "Direct action, will",
+          "role": "Leader, conqueror"
+        },
+        "IEI_INFP": {
+          "name": "Yesenin",
+          "title": "Lyricist",
+          "tarot": "Page of Cups",
+          "structure": "Octahedral prism",
+          "properties": {
+            "base": "octahedron",
+            "faces": 8,
+            "symmetry": "dual pyramid"
+          },
+          "function": "Foresight, time intuition",
+          "role": "Visionary, romantic"
+        }
+      },
+      "dual_artifacts": {
+        "EIE_LSI": {
+          "artifact": "Tablets of the Law",
+          "geometry": "Dodecahedral prism + Tetrahedral prism",
+          "principle": "Harmonious law on rigid foundation",
+          "function": "Power and order",
+          "social": "Charisma + discipline"
+        },
+        "SLE_IEI": {
+          "artifact": "Spear of Longinus",
+          "geometry": "5-cell + Octahedral prism",
+          "principle": "Simplest action piercing all planes of time",
+          "function": "Strategic action",
+          "social": "Directed force + vision"
+        }
+      }
+    },
+    
+    "GAMMA": {
+      "element": "Water",
+      "stage": "Adults",
+      "caste": "Merchants",
+      "types": {
+        "SEE_ESFP": {
+          "name": "Napoleon",
+          "title": "Politician",
+          "tarot": "Queen of Cups",
+          "structure": "Duocylinder",
+          "properties": {
+            "topology": "S¹×S¹",
+            "rotations": 2,
+            "continuity": "double"
+          },
+          "function": "Experience rotation, expansion",
+          "role": "Entrepreneur, politician"
+        },
+        "ILI_INTP": {
+          "name": "Balzac",
+          "title": "Critic",
+          "tarot": "Page of Swords",
+          "structure": "Tesseract",
+          "properties": {
+            "vertices": 16,
+            "cells": 8,
+            "type": "hypercube"
+          },
+          "function": "Seeing through dimensions",
+          "role": "Critic, strategist"
+        },
+        "LIE_ENTJ": {
+          "name": "Jack London",
+          "title": "Entrepreneur",
+          "tarot": "Knight of Pentacles",
+          "structure": "24-cell",
+          "properties": {
+            "vertices": 24,
+            "cells": 24,
+            "self_dual": true
+          },
+          "function": "Efficiency, results",
+          "role": "Businessman, manager"
+        },
+        "ESI_ISFJ": {
+          "name": "Dreiser",
+          "title": "Guardian",
+          "tarot": "Queen of Wands",
+          "structure": "Icosahedral prism",
+          "properties": {
+            "base": "icosahedron",
+            "faces": 20,
+            "protection": "maximum"
+          },
+          "function": "Preserving values",
+          "role": "Keeper, moralist"
+        }
+      },
+      "dual_artifacts": {
+        "SEE_ILI": {
+          "artifact": "Caduceus",
+          "geometry": "Duocylinder + Tesseract",
+          "principle": "Duocylinder snakes winding around tesseract axis",
+          "function": "Risk management",
+          "social": "Action + foresight"
+        },
+        "LIE_ESI": {
+          "artifact": "Ark of the Covenant",
+          "geometry": "24-cell + Icosahedral prism",
+          "principle": "Self-sufficient system in protected container",
+          "function": "Sustainable growth",
+          "social": "Development + stability"
+        }
+      }
+    },
+    
+    "DELTA": {
+      "element": "Earth",
+      "stage": "Elderly",
+      "caste": "Craftsmen",
+      "types": {
+        "IEE_ENFP": {
+          "name": "Huxley",
+          "title": "Advisor",
+          "tarot": "Knight of Cups",
+          "structure": "Spherical cylinder",
+          "properties": {
+            "topology": "S²×S¹",
+            "expansion": "omnidirectional",
+            "rotation": "continuous"
+          },
+          "function": "Horizon expansion",
+          "role": "Journalist, advisor"
+        },
+        "SLI_ISTP": {
+          "name": "Gabin",
+          "title": "Master",
+          "tarot": "Queen of Swords",
+          "structure": "Duocone",
+          "properties": {
+            "points": 2,
+            "focus": "bidirectional",
+            "precision": "maximum"
+          },
+          "function": "Precision, mastery",
+          "role": "Master, technologist"
+        },
+        "LSE_ESTJ": {
+          "name": "Stirlitz",
+          "title": "Administrator",
+          "tarot": "King of Pentacles",
+          "structure": "Cubic prism",
+          "properties": {
+            "base": "cube",
+            "angles": "orthogonal",
+            "order": "maximum"
+          },
+          "function": "Direct management",
+          "role": "Administrator, executor"
+        },
+        "EII_INFP": {
+          "name": "Dostoevsky",
+          "title": "Humanist",
+          "tarot": "Page of Wands",
+          "structure": "Prism×Circle",
+          "properties": {
+            "hybrid": true,
+            "rigid_soft": "combined",
+            "adaptability": "maximum"
+          },
+          "function": "Compassion, understanding",
+          "role": "Humanist, psychologist"
+        }
+      },
+      "dual_artifacts": {
+        "IEE_SLI": {
+          "artifact": "Excalibur",
+          "geometry": "Spherical cylinder + Duocone",
+          "principle": "All-encompassing understanding reduced to point of action",
+          "function": "Practical innovation",
+          "social": "Understanding + realization"
+        },
+        "LSE_EII": {
+          "artifact": "Mirror of Truth",
+          "geometry": "Cubic prism + Prism×Circle",
+          "principle": "Direct structure reflects soul's depth",
+          "function": "Humane management",
+          "social": "Justice + mercy"
+        }
+      }
+    }
+  },
+  
+  "geometric_duality_principles": {
+    "600_120": "Inversion: 600 cells/120 vertices ↔ 120 cells/600 vertices",
+    "hypersphere_16cell": "Continuous/discrete: infinite points ↔ 8 vertices",
+    "dodeca_tetra_prism": "Harmony/rigidity: 12 pentagons ↔ 4 triangles",
+    "5cell_octaprism": "Simplicity/multidirection: 5 points ↔ 8 faces",
+    "duocylinder_tesseract": "Flow/structure: double rotation ↔ hypercube",
+    "24cell_icosaprism": "Self-sufficiency/protection: self-dual ↔ maximum armor",
+    "spherecyl_duocone": "Expansion/focus: all directions ↔ two points",
+    "cubicprism_prismcircle": "Rigidity/flexibility: orthogonal ↔ adaptive"
+  },
+  
+  "integration": {
+    "point_absolute": "The invariant point pierces all 16 structures as consciousness axis",
+    "sacred_equation": "Dual pair collapse = materialized consciousness depth",
+    "social_function": "Each artifact represents optimal social synergy pattern",
+    "mathematical_validation": "Geometric complementarity matches psychological duality"
+  },
+  
+  "status": "active/validated"
+}
