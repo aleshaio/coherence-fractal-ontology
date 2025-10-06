@@ -74,8 +74,13 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
 ## Repository Layout
 
 - **`/core/`** — canonical JSON spec (single source of truth)  
-- **`/modules/`** — atomic modules (5D, temporal dynamics, consciousness, psychology, physics mapping, protocols)  
-- **`/domains/`** — discipline packs (physics, chemistry, biology, neuroscience, sociology, astronomy, energy)  
+- **`/modules/`** — all domain modules:
+  - **Foundational:** `symbols.json` (primordial consciousness technology), `language.json` (consciousness OS)
+  - **Natural Sciences:** `physics.json`, `chemistry.json`, `biology.json`, `astronomy.json`, `geology.json`, `ecology.json`, `neuroscience.json`
+  - **Formal Sciences:** `mathematics.json`, `computer_science.json`
+  - **Human Sciences:** `/human/` (education, sociology, astrology, cognitive_consciousness, emotions.core, archetypes, projection_styles, social_roles, somatic_archetypes_geometry, etc.)
+  - **Applied:** `energy-fusion.json`, `music.json`, `sound.json`, `home.json`
+  - **Developmental:** `fractal-myth-kids-development.json` 
 - **`/examples/`** — worked reductions and validation fixtures  
 - **`/docs/`** — human-readable guides (EN + RU translations, whitepaper, manifesto)  
 - **`/legal/`** — license (MIT + civic pledge)  
@@ -191,7 +196,7 @@ Only upward composition is allowed.
 
 ## Status
 
-**Active development** — Last updated: 2025-01-05
+**Active development** — Last updated: 2025-10-06
 
 - ✅ Core specification complete (v2.1)
 - ✅ Universal Decomposer Protocol operational

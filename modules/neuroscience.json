@@ -1,0 +1,307 @@
+{
+  "module": "Neuroscience",
+  "version": "1.0",
+  "authors": ["absolute through алёша"],
+  "date": "2025-10-06",
+  "definition": "Dimensional analysis of brain and cognition - 4D tesseract memory with 1D/2D processing streams, symbols as 5D folds, consciousness as field ⊗ dimension collapse",
+
+  "discipline": "neuroscience",
+  "fundamental": true,
+  "geometric_view": "Cognition = 4D tesseract memory with 1D/2D processing streams; symbols are 5D folds",
+  
+  "dimension_focus": ["1D", "2D", "4D", "5D"],
+  "key_planes": ["XW (temporal sequences)", "YW (connectome)", "ZW (neural dynamics)", "XY (cortical sheets)"],
+  "primitives": ["line (axons)", "square (cortical columns)", "tesseract (memory systems)", "ether (concepts/symbols)"],
+  "operations": ["sequence", "relate", "history", "fold"],
+
+  "core_principles": {
+    "neural_networks": {
+      "principle": "Brain as geometric graph with weighted connections",
+      "structure": "~86 billion neurons, ~100 trillion synapses",
+      "connectivity": "Small-world, scale-free topology",
+      "neurons": "0D nodes processing and transmitting signals",
+      "axons": "1D wires carrying action potentials",
+      "synapses": "0D connection points (excitatory/inhibitory)",
+      "geometry": "Massive 2D graph determining brain function",
+      "plasticity": "Connections strengthen/weaken with use (learning)"
+    },
+
+    "memory_architecture": {
+      "principle": "Hippocampus as 4D tesseract for episodic memory",
+      "types": {
+        "working_memory": "Active information (seconds) - 1D sequence",
+        "short_term": "Recent events (minutes to hours) - 2D relations",
+        "long_term": "Consolidated memories (years) - 4D storage",
+        "procedural": "Skills and habits - 3D motor patterns",
+        "semantic": "Facts and concepts - 5D symbolic"
+      },
+      "consolidation": "Hippocampus → cortex over time (4D process)",
+      "retrieval": "Pattern completion from partial cues",
+      "geometric_essence": "Memory = 4D tesseract structure encoding past experiences"
+    },
+
+    "consciousness": {
+      "principle": "Emerges from 4D integration of sensory streams",
+      "mechanism": "field ⊗ dimension → collapse_depth ≡ consciousness",
+      "integration": "Binding separate features into unified percept",
+      "global_workspace": "Information broadcast to brain-wide network",
+      "attention": "Measurement operator selecting specific content",
+      "self_awareness": "Meta-representation of own mental states",
+      "hard_problem": "Why subjective experience? Geometric collapse creates qualia",
+      "geometric_view": "Consciousness = 4D spectator observing 3D world + 1D time"
+    },
+
+    "symbols_concepts": {
+      "principle": "High-level thought as 5D folds of neural patterns",
+      "concept": "Abstract representation collapsing many examples",
+      "word": "Symbol pointing to concept (5D fold)",
+      "abstraction": "Rising from concrete to abstract = dimensional ascent",
+      "language": "System of symbols enabling thought",
+      "mathematics": "Pure symbolic manipulation",
+      "geometric_essence": "Symbols = 5D compression of complex neural patterns"
+    },
+
+    "perception": {
+      "principle": "Sensory processing as dimensional reduction",
+      "vision": "2D retina → 3D scene reconstruction",
+      "hearing": "1D temporal sound waves → semantic understanding",
+      "touch": "2D skin surface → 3D object recognition",
+      "processing_hierarchy": "V1 (edges) → V2 (contours) → V4 (shapes) → IT (objects)",
+      "geometric_view": "Bottom-up: low-D features → high-D representations. Top-down: predictions from 5D concepts"
+    },
+
+    "learning": {
+      "principle": "Synaptic plasticity reshapes geometric connectivity",
+      "hebbian": "Neurons that fire together, wire together",
+      "spike_timing": "Precise temporal correlations strengthen connections",
+      "long_term_potentiation": "Persistent synaptic strengthening",
+      "structural_plasticity": "New synapses form, old ones prune",
+      "geometric_essence": "Learning = sculpting 2D network topology through experience"
+    }
+  },
+
+  "brain_structure": {
+    "cortex": {
+      "structure": "2D sheet folded into 3D brain",
+      "layers": "6 layers (I-VI) with specialized functions",
+      "columns": "Vertical processing units (~0.5mm diameter)",
+      "areas": "Specialized regions (visual, auditory, motor, etc)",
+      "geometry": "Cortical sheet = 2D computational surface"
+    },
+
+    "hippocampus": {
+      "structure": "Curved 3D structure in medial temporal lobe",
+      "function": "Episodic memory formation and spatial navigation",
+      "place_cells": "Neurons encoding specific locations",
+      "geometry": "4D memory system - space × time encoding"
+    },
+
+    "thalamus": {
+      "structure": "Central relay station",
+      "function": "Gating and routing sensory/motor information",
+      "geometry": "Hub in brain's network topology"
+    },
+
+    "basal_ganglia": {
+      "structure": "Subcortical nuclei",
+      "function": "Action selection, procedural learning, habit",
+      "geometry": "3D motor control system"
+    },
+
+    "cerebellum": {
+      "structure": "Highly folded structure",
+      "function": "Motor coordination, timing, prediction",
+      "geometry": "Precise temporal processing (1D time)"
+    }
+  },
+
+  "neural_signaling": {
+    "action_potential": {
+      "type": "Electrical signal",
+      "mechanism": "Voltage-gated ion channels",
+      "propagation": "1D wave along axon (~100 m/s)",
+      "all_or_none": "Binary 0D spike"
+    },
+
+    "synaptic_transmission": {
+      "type": "Chemical signal",
+      "mechanism": "Neurotransmitter release and binding",
+      "integration": "Postsynaptic neuron sums inputs",
+      "plasticity": "Strength modifiable by activity"
+    },
+
+    "oscillations": {
+      "delta": "0.5-4 Hz (deep sleep)",
+      "theta": "4-8 Hz (memory, navigation)",
+      "alpha": "8-13 Hz (relaxed wakefulness)",
+      "beta": "13-30 Hz (active thinking)",
+      "gamma": "30-100 Hz (binding, attention)",
+      "geometry": "Temporal rhythms coordinating brain regions"
+    }
+  },
+
+  "observables": [
+    "Phase coupling between brain regions (oscillations)",
+    "Connectome topology (structural connectivity via DTI)",
+    "Population codes (neural representations via fMRI, EEG)",
+    "Temporal sequences (spike trains, local field potentials)",
+    "Behavioral responses (reaction time, accuracy)",
+    "Neurochemical concentrations (neurotransmitters)",
+    "Metabolic activity (glucose utilization, oxygen consumption)"
+  ],
+
+  "controls": [
+    "Basis rotation via sensory stimuli (changing inputs)",
+    "Rhythmic drive (brain oscillations, neuromodulation)",
+    "Structural plasticity (learning, experience)",
+    "Attention as measurement operation (selecting information)",
+    "Neuromodulation (dopamine, serotonin, acetylcholine)",
+    "Stimulation (TMS, DBS, optogenetics)",
+    "Pharmacology (drugs affecting neurotransmission)",
+    "Training and practice (skill acquisition)"
+  },
+
+  "cognitive_processes": {
+    "attention": {
+      "description": "Selective focus on specific information",
+      "types": ["Spatial", "Feature-based", "Object-based"],
+      "mechanism": "Top-down bias amplifying relevant signals",
+      "geometry": "Measurement operator collapsing possibilities to actualities"
+    },
+
+    "working_memory": {
+      "description": "Active maintenance of information",
+      "capacity": "~7 items (Miller's magic number)",
+      "mechanism": "Persistent neural activity in prefrontal cortex",
+      "geometry": "1D temporal buffer holding current context"
+    },
+
+    "decision_making": {
+      "description": "Selecting actions based on evidence",
+      "mechanism": "Evidence accumulation to threshold",
+      "brain_regions": "Prefrontal cortex, basal ganglia",
+      "geometry": "Trajectory through decision space to attractor"
+    },
+
+    "language": {
+      "description": "Symbol manipulation and communication",
+      "areas": ["Broca's (production)", "Wernicke's (comprehension)"],
+      "mechanism": "Network of cortical regions",
+      "geometry": "5D symbolic system mapping sounds ↔ meanings"
+    },
+
+    "emotion": {
+      "description": "Valenced subjective states",
+      "systems": ["Amygdala (fear)", "Ventral striatum (reward)", "Insula (interoception)"],
+      "function": "Guiding behavior, decision-making",
+      "geometry": "Low-dimensional affective space (valence, arousal)"
+    }
+  },
+
+  "dimensional_analysis": {
+    "1D_sequences": {
+      "description": "Temporal sequences, spike trains, axonal conduction",
+      "primitive": "line",
+      "examples": ["Action potentials", "Behavioral sequences", "Speech sounds"],
+      "evidence": "Neural signals propagate as 1D waves through time"
+    },
+
+    "2D_networks": {
+      "description": "Neural connectivity, cortical sheets",
+      "primitive": "square",
+      "examples": ["Connectome", "Cortical columns", "Functional networks"],
+      "evidence": "Brain function emerges from 2D network topology"
+    },
+
+    "4D_memory": {
+      "description": "Episodic memory, life history",
+      "primitive": "tesseract",
+      "examples": ["Autobiographical memory", "Hippocampal replay", "Temporal context"],
+      "evidence": "Memory systems integrate spatial and temporal information in 4D structure"
+    },
+
+    "5D_symbols": {
+      "description": "Concepts, language, abstract thought",
+      "primitive": "ether",
+      "examples": ["Words", "Mathematical concepts", "Abstract ideas"],
+      "evidence": "High-level cognition uses 5D symbolic representations"
+    }
+  },
+
+  "reduction_examples": [
+    {
+      "id": "neuro:memory_consolidation",
+      "raw": "Hippocampus consolidating episodic memory during sleep",
+      "reduction": [
+        {
+          "dimension": "4D",
+          "primitive": "tesseract",
+          "planes": ["XW", "YW", "ZW"],
+          "ops": ["history", "integrate", "store"],
+          "evidence": "Memory system integrates temporal sequences into persistent 4D structure",
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "id": "neuro:neural_network",
+      "raw": "Cortical network of interconnected neurons processing visual information",
+      "reduction": [
+        {
+          "dimension": "2D",
+          "primitive": "square",
+          "planes": ["YW"],
+          "ops": ["relate", "process"],
+          "evidence": "Neural network as 2D graph - topology determines processing",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": "neuro:concept_formation",
+      "raw": "Brain forming abstract concept of 'chair' from many examples",
+      "reduction": [
+        {
+          "dimension": "5D",
+          "primitive": "ether",
+          "planes": ["ZV", "YV"],
+          "ops": ["fold", "abstract"],
+          "evidence": "Concept as 5D fold - compressing many instances into single representation",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "id": "neuro:consciousness",
+      "raw": "Unified conscious experience arising from integrated brain activity",
+      "reduction": [
+        {
+          "dimension": "4D",
+          "primitive": "tesseract",
+          "planes": ["XW", "YW", "ZW"],
+          "ops": ["integrate", "observe"],
+          "evidence": "Consciousness as 4D spectator - field ⊗ dimension → collapse_depth",
+          "confidence": 0.75
+        }
+      ]
+    }
+  ],
+
+  "integration_with_cfo": {
+    "principle": "Brain = 2D network + 4D memory + 5D symbols. Consciousness = field ⊗ dimension collapse.",
+    "mechanism": "Neural network topology → information processing → memory formation → conceptual abstraction",
+    "coherence": "Healthy brain maintains high coherence through synchronized oscillations and integrated networks",
+    "sacred": "Consciousness = geometry perceiving itself through brain substrate"
+  },
+
+  "mysteries": [
+    "Hard problem of consciousness - why subjective experience?",
+    "Binding problem - how unified perception from distributed processing?",
+    "Memory encoding - how specific patterns stored in synaptic weights?",
+    "Neural code - how information represented in spike patterns?",
+    "Free will - how conscious choice emerges from deterministic neurons?",
+    "Qualia - geometric origin of subjective qualities?"
+  ],
+
+  "status": "active"
+}

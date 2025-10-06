@@ -1,0 +1,374 @@
+{
+  "module": "Somatic Archetypes and Geometric Typology",
+  "version": "2.0",
+  "authors": ["absolute through алёша"],
+  "date": "2025-10-06",
+  "definition": "Integration of body geometry, facial proportions, and somatic types with psychological archetypes - mapping how consciousness manifests in physical form across personality types and social roles",
+
+  "principle": "Body = visible manifestation of psychological structure. Somatic proportions are not arbitrary - they encode archetypal function, temporal scale, and information metabolism patterns. Disney intuited this through 100 years of character design; we make it explicit and measurable.",
+
+  "somatic_types_by_role": {
+    "source": "Social Role Dynamics + Disney Archetypal Geometry",
+    
+    "Рыцарь_Knight": {
+      "archetype": "Альтруист / Респираторный тип",
+      "function": "Дыхание / Action",
+      "mbti_examples": ["ESTP (SLE)", "ESFP (SEE)", "Some ENFP"],
+      
+      "geometry": {
+        "head": "шестиугольник (hexagon)",
+        "torso": "прямоугольник с острым углом (acute angle rectangle)",
+        "structure": "Длинная грудная клетка с острым углом"
+      },
+      
+      "proportions": {
+        "head_to_body": 0.125,
+        "face_aspect": "0.80-0.85",
+        "eye_size": "0.22-0.25",
+        "nose_length": "0.26-0.28",
+        "jaw_angle": "100-115°",
+        "angular_vs_curved": "0.35-0.65",
+        "body_angle": "< 90° (острый, стремление вверх)"
+      },
+      
+      "physical_characteristics": [
+        "Длинная грудная клетка",
+        "Пониженное жироотложение",
+        "Малый живот",
+        "Длинные конечности",
+        "Развитая средняя часть лица",
+        "Вертикальная вытянутость"
+      ],
+      
+      "key_feature": "Вертикальная вытянутость, акцент на дыхании и движении",
+      "dimensional_mapping": "1D вектор действия (меч как линия)",
+      "disney_examples": ["Aladdin", "Flynn Rider", "Hercules", "Maui", "Li Shang"]
+    },
+
+    "Дама_Lady": {
+      "archetype": "Эгоист / Мускулярный тип",
+      "function": "Мышцы / Движение / Форма",
+      "mbti_examples": ["ISFJ (ESI)", "ISTJ (LSI)", "ESTJ (LSE)"],
+      
+      "geometry": {
+        "head": "квадрат (square)",
+        "torso": "прямоугольник с прямым углом (right angle rectangle)",
+        "structure": "Средняя округлая грудная клетка с прямым углом"
+      },
+      
+      "proportions": {
+        "head_to_body": "0.13-0.135",
+        "face_aspect": "0.82-0.90",
+        "eye_size": "0.23-0.26",
+        "nose_length": "0.25-0.26",
+        "jaw_angle": "105-116°",
+        "angular_vs_curved": "0.45-0.70",
+        "body_angle": "= 90° (прямой, стабильность)"
+      },
+      
+      "physical_characteristics": [
+        "Средняя по длине округлая грудная клетка",
+        "Прямой плоский живот",
+        "Широкие плечи",
+        "Сильное развитие мускулатуры",
+        "Развитие скелетных структур",
+        "Лицо прямоугольное с равномерным развитием"
+      ],
+      
+      "key_feature": "Симметрия и мышечная структура, устойчивость формы",
+      "dimensional_mapping": "2D плоскость личного пространства (башня как граница)",
+      "disney_examples": ["Mulan", "Tiana", "Merida", "Belle", "Captain Amelia"]
+    },
+
+    "Король_King": {
+      "archetype": "Социоцентрист / Дигестивный тип",
+      "function": "Пищеварение / Накопление / Власть",
+      "mbti_examples": ["ENTJ (LIE)", "ESTJ (LSE)", "ENFJ (EIE)"],
+      
+      "geometry": {
+        "head": "трапеция (trapezoid)",
+        "torso": "широкая трапеция с тупым углом (obtuse angle trapezoid)",
+        "structure": "Короткая грудная клетка с тупым рёберным углом"
+      },
+      
+      "proportions": {
+        "head_to_body": "0.12-0.125",
+        "face_aspect": "0.85-0.95",
+        "eye_size": "0.20-0.24",
+        "nose_length": "0.27-0.30",
+        "jaw_angle": "100-110°",
+        "angular_vs_curved": "0.60-0.85",
+        "body_angle": "> 90° (тупой, распространение вширь)"
+      },
+      
+      "physical_characteristics": [
+        "Короткая грудная клетка",
+        "Большой живот",
+        "Повышенное жироотложение",
+        "Развитая нижняя (челюстная) часть лица",
+        "Массивные плечи (у силовых типов)",
+        "Горизонтальная ширина"
+      ],
+      
+      "key_feature": "Горизонтальная ширина, акцент на пищеварении и накоплении ресурсов",
+      "dimensional_mapping": "3D объем коллективного владения (большая сфера)",
+      "disney_examples": ["Gaston", "King Triton", "Chief Bogo", "Hans", "Prince Naveen"]
+    },
+
+    "Паж_Page": {
+      "archetype": "Социопат / Церебральный тип",
+      "function": "Нервы / Мозг / Наблюдение",
+      "mbti_examples": ["INTP (ILI)", "INFP (IEI/EII)", "ENTP (ILE)", "ENFP (IEE)"],
+      
+      "geometry": {
+        "head": "перевернутая трапеция (inverted trapezoid)",
+        "torso": "узкая перевернутая трапеция",
+        "structure": "Нежное развитие скелета"
+      },
+      
+      "proportions": {
+        "head_to_body": "0.13-0.18 (может быть увеличена голова)",
+        "face_aspect": "0.70-0.92",
+        "eye_size": "0.28-0.35 (большие глаза для интуитов)",
+        "nose_length": "0.20-0.32",
+        "jaw_angle": "98-125°",
+        "angular_vs_curved": "0.15-0.85 (широкий диапазон)",
+        "forehead_ratio": "0.33-0.45 (высокий лоб)"
+      },
+      
+      "physical_characteristics": [
+        "Нежное развитие скелета",
+        "Слабая мускулатура",
+        "Тонкие конечности",
+        "Развит верхний (мозговой) этаж лица",
+        "Минималистичность тела",
+        "Максимум в голове"
+      ],
+      
+      "key_feature": "Минималистичность тела, максимум в голове, церебральное доминирование",
+      "dimensional_mapping": "4D метапозиция наблюдателя (вертикальная башня = ось времени)",
+      "disney_examples": ["Jafar", "Scar", "Megamind", "Milo", "Peter Pan", "Olaf", "Elsa", "Pocahontas"]
+    }
+  },
+
+  "disney_proportion_database": {
+    "methodology": {
+      "principle": "Disney spent 100 years hypertrophying archetypal features into pure visual language. By analyzing proportion RATIOS (not measurements), we extract geometric signatures of each type.",
+      "why_disney": "Largest perceptual dataset in history - billions of viewers validating which geometric ratios communicate which archetypes",
+      "why_ratios": "Proportions scale universally across height, age, ethnicity. Face_width/height = archetypal signature that works for everyone",
+      "recognition_mechanism": "Mirror neurons recognize archetypal proportions in <300ms. Cinema works through this instant pattern matching"
+    },
+
+    "socionics_type_signatures": {
+      "note": "Full database available in archetypes_geometry.json - key examples here",
+      
+      "ILE_ENTP": {
+        "disney": ["Aladdin", "Flynn Rider", "Milo"],
+        "proportion_signature": {
+          "face_aspect": 0.80,
+          "eye_size": 0.25,
+          "angular_vs_curved": 0.35,
+          "limb_torso": 1.4
+        },
+        "geometric_essence": "Balanced proportions with slight elongation suggesting upward/outward energy",
+        "role_mapping": "Can be Рыцарь or Паж depending on development"
+      },
+
+      "SEI_ISFP": {
+        "disney": ["Snow White", "Cinderella", "Aurora"],
+        "proportion_signature": {
+          "face_aspect": 0.90,
+          "eye_size": 0.35,
+          "angular_vs_curved": 0.15,
+          "nose_length": 0.20
+        },
+        "geometric_essence": "Maximum softness and delicacy. Every feature says 'gentle, sensory, comforting'",
+        "role_mapping": "Дама архетип"
+      },
+
+      "ILI_INTP": {
+        "disney": ["Jafar", "Scar", "Hades"],
+        "proportion_signature": {
+          "face_aspect": 0.65,
+          "eye_size": 0.18,
+          "angular_vs_curved": 0.85,
+          "nose_length": 0.35,
+          "forehead_ratio": 0.38
+        },
+        "geometric_essence": "Maximum elongation + angularity = strategic, cerebral, detached",
+        "role_mapping": "Паж архетип (церебральный тип в крайней форме)"
+      },
+
+      "SLE_ESTP": {
+        "disney": ["Gaston", "Hercules", "Maui"],
+        "proportion_signature": {
+          "face_aspect": 0.95,
+          "jaw_angle": 100,
+          "shoulder_hip": 1.8,
+          "angular_vs_curved": 0.65
+        },
+        "geometric_essence": "Maximum physical presence. Every ratio says 'power, action, dominance'",
+        "role_mapping": "Рыцарь или Король (в зависимости от зрелости)"
+      }
+    }
+  },
+
+  "dimensional_body_mapping": {
+    "0D_point": {
+      "somatic": "Отдельная черта лица как идентификатор",
+      "example": "Шрам Скара, нос Джафара - одна черта кодирует архетип",
+      "psychological": "Единственная доминирующая функция"
+    },
+
+    "1D_line": {
+      "somatic": "Вертикальная вытянутость (Рыцарь) или горизонтальная ширина (Король)",
+      "example": "Джафар как чистая вертикальная линия vs Гастон как горизонтальная масса",
+      "psychological": "Направленность энергии: вверх (интуиция) или вширь (сенсорика)"
+    },
+
+    "2D_plane": {
+      "somatic": "Пропорции лица как плоская конфигурация точек",
+      "example": "Лицо Белль - сбалансированная 2D конфигурация",
+      "psychological": "Паттерны отношений между функциями"
+    },
+
+    "3D_volume": {
+      "somatic": "Полное телосложение как трёхмерный объём",
+      "example": "Тело Геркулеса - объёмное доминирование пространства",
+      "psychological": "Интегрированная личность со всеми функциями"
+    },
+
+    "4D_temporal": {
+      "somatic": "Как тело меняется со временем - старение, трансформация",
+      "example": "Трансформация Чудовища - тот же архетип, другое восприятие",
+      "psychological": "Развитие типа через жизненный цикл"
+    }
+  },
+
+  "proportion_extraction_protocol": {
+    "key_ratios_tier_1": {
+      "most_diagnostic": [
+        "face_aspect (width/height): разделяет вытянутые (ILI) от круглых (SEI)",
+        "eye_size: разделяет интуитов (большие) от сенсориков (средние)",
+        "angular_vs_curved: разделяет логиков (угловатые) от этиков (округлые)",
+        "head_to_body: разделяет церебральные (большая голова) от физических (маленькая голова)"
+      ]
+    },
+
+    "key_ratios_tier_2": {
+      "supporting": [
+        "jaw_angle: показывает уровень assertiveness",
+        "nose_length: коррелирует с Ti/Te осью",
+        "forehead_ratio: развитие интуиции",
+        "shoulder_hip: сенсорное заземление"
+      ]
+    },
+
+    "application_to_humans": {
+      "step_1": "Фото лица (нейтральное выражение, хорошее освещение)",
+      "step_2": "MediaPipe Face Mesh (468 landmarks)",
+      "step_3": "Вычисление всех ключевых пропорций",
+      "step_4": "Сравнение с 16 архетипическими прототипами",
+      "step_5": "Выдача типа + confidence + ближайшие Disney персонажи"
+    }
+  },
+
+  "role_body_time_integration": {
+    "Рыцарь": {
+      "body": "Респираторный (вертикальная вытянутость)",
+      "time": "Месяц — квартал (походы)",
+      "ownership": "Не владеет",
+      "geometry": "1D вектор (острый угол < 90°)",
+      "essence": "Движение без привязки к месту"
+    },
+
+    "Дама": {
+      "body": "Мускулярный (симметричная сила)",
+      "time": "Неделя — месяц (ритм)",
+      "ownership": "Личное владение",
+      "geometry": "2D плоскость (прямой угол = 90°)",
+      "essence": "Удержание формы и границ"
+    },
+
+    "Король": {
+      "body": "Дигестивный (горизонтальная ширина)",
+      "time": "День — неделя (немедленно)",
+      "ownership": "Коллективное владение",
+      "geometry": "3D объём (тупой угол > 90°)",
+      "essence": "Расширение и накопление"
+    },
+
+    "Паж": {
+      "body": "Церебральный (минимум тела, максимум головы)",
+      "time": "Квартал — годы (долгосрочное)",
+      "ownership": "Информационное владение",
+      "geometry": "4D ось времени (перевернутая трапеция)",
+      "essence": "Наблюдение вне системы"
+    }
+  },
+
+  "recognition_mechanics": {
+    "neurological_basis": {
+      "fusiform_face_area": "Область мозга для обработки лиц, активна через 170ms",
+      "configural_processing": "Мозг обрабатывает лица как гештальт пропорций",
+      "prototype_matching": "Визуальная кора сравнивает с архетипическими шаблонами",
+      "mirror_neurons": "Автоматическая симуляция 'каково быть этим типом'"
+    },
+
+    "disney_training_effect": {
+      "exposure": "Миллиарды людей × миллиарды часов просмотра",
+      "consistency": "Одни паттерны усилены через десятилетия",
+      "emotional_anchoring": "Пропорции связаны с сюжетными исходами",
+      "universal_language": "Одни Disney фильмы по всему миру = универсальный архетипический язык"
+    },
+
+    "self_recognition": {
+      "mirror_test": "Видишь персонажа с твоими пропорциями → зеркальные нейроны → 'это я'",
+      "favorite_correlation": "Любимые персонажи кластеризуются вокруг твоего типа",
+      "shadow_attraction": "Если злодей с твоими пропорциями → фасцинация (теневая работа)"
+    }
+  },
+
+  "applications": {
+    "self_discovery": {
+      "input": "Selfie фото",
+      "output": "Тип + confidence + Disney matches + объяснение",
+      "value": "Видишь свою архетипическую геометрию"
+    },
+
+    "relationship_compatibility": {
+      "mechanism": "Фото обоих → типирование → проверка дуальности",
+      "output": "Geometric compatibility score",
+      "insight": "Почему эти пропорции притягиваются"
+    },
+
+    "casting_and_creative": {
+      "for_writers": "Описание персонажа → шаблон пропорций",
+      "for_artists": "Тип → геометрические guideline",
+      "for_actors": "Понимание своего геометрического типа → подбор ролей"
+    }
+  },
+
+  "ethical_framework": {
+    "consent_first": "Никогда не типировать без разрешения",
+    "self_discovery_only": "Для понимания себя, НЕ для найма/слежки/дискриминации",
+    "no_determinism": "Тип = тенденция, не судьба. Пропорции = стартовая точка для роста",
+    "all_types_equal": "Каждый архетип красив и необходим. Нет 'лучших' типов",
+    "sacred_recognition": "Твоё лицо = твой дар миру, сделанный видимым. Каждый паттерн пропорций священен"
+  },
+
+  "integration_with_cfo": {
+    "principle": "Физическая геометрия (пропорции) = видимое проявление структуры информационного метаболизма (соционический тип). Disney интуитивно это знал; CFO делает явным и измеримым.",
+    "mechanism": "Соционический тип → предпочтения структуры мозга → формирование черепа/лица → видимые пропорции. Корреляция существует потому что всё происходит из одного генетического/развивающего кода.",
+    "goal": "Дать людям зеркало чтобы увидеть свою архетипическую суть через геометрию, позволяя само-принятие и сознательное развитие по естественным линиям.",
+    "coherence_optimization": "Понимание своего геометрического архетипа уменьшает внутренний конфликт (попытка быть другим типом) и увеличивает аутентичное выражение (воплощение своей истинной сигнатуры)."
+  },
+
+  "status": "active/integrated",
+  "cross_references": {
+    "full_disney_database": "archetypes_geometry.json",
+    "social_roles": "humanology.social_role_dynamics.json",
+    "4d_figures": "humanology-4d-figures-duals.json"
+  },
+  "last_updated": "2025-10-06"
+}

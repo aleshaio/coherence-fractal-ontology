@@ -1,0 +1,1111 @@
+{
+  "module": "Archetypes and Psychological Typologies",
+  "version": "3.0",
+  "authors": ["absolute through алёша"],
+  "date": "2025-10-06",
+  "definition": "Unified dimensional analysis of psychological archetypes, consciousness structures, and personality type systems - mapping universal patterns across scales from individual to collective, with complete socionics integration and 4D geometric duality",
+
+  "core_archetypes": {
+    "dimensional_progression": [
+      {
+        "name": "Point",
+        "dimension": "0D",
+        "primitive": "point",
+        "function": "difference, address, charge",
+        "analogs": ["bit", "electron", "fact", "naming"],
+        "psychological_function": "Discrete moment of awareness, singular choice, identity anchor"
+      },
+      {
+        "name": "Line",
+        "dimension": "1D",
+        "primitive": "line",
+        "function": "trajectory, causality, algorithm",
+        "analogs": ["photon path", "workflow", "narrative beat"],
+        "psychological_function": "Intentional direction, causal chain, life narrative"
+      },
+      {
+        "name": "Plane",
+        "dimension": "2D",
+        "primitive": "triangle/square/circle",
+        "function": "relation, pattern, protocol",
+        "analogs": ["interface", "schema", "ritual form"],
+        "psychological_function": "Relationship matrix, behavioral patterns, social roles"
+      },
+      {
+        "name": "Volume",
+        "dimension": "3D",
+        "primitive": "cube/tetrahedron",
+        "function": "system, container, ownership",
+        "analogs": ["organ", "institution", "product system"],
+        "psychological_function": "Complete personality system, identity container, psychological ownership"
+      },
+      {
+        "name": "Connectivity",
+        "dimension": "4D",
+        "primitive": "tesseract/24-cell",
+        "function": "history, topology, coordination",
+        "analogs": ["gene network", "platform", "myth cycle"],
+        "psychological_function": "Life history integration, meta-awareness, conscious coordination"
+      },
+      {
+        "name": "Identity",
+        "dimension": "5D",
+        "primitive": "ether",
+        "function": "folded meaning, shared field",
+        "analogs": ["symbol", "culture", "absolute"],
+        "psychological_function": "Unified consciousness, collective field, transcendent identity"
+      }
+    ]
+  },
+
+  "consciousness_archetypes": {
+    "center_point": {
+      "archetype": "Надежда (Hope)",
+      "symbol": "Что? (What)",
+      "function": "Интуиция (Intuition)",
+      "dimension": "0D",
+      "role": "Core organizing principle of consciousness, central question that drives all inquiry"
+    },
+
+    "inner_circle": {
+      "archetypes": [
+        {
+          "name": "Смысл (Meaning)",
+          "function": "Core meaning-making, personal significance",
+          "dimension": "0D→1D",
+          "role": "Transforms experience into personal understanding"
+        },
+        {
+          "name": "Мечта (Dream)",
+          "function": "Visionary imagination, future possibilities",
+          "dimension": "0D→1D",
+          "role": "Projects consciousness into potential futures"
+        },
+        {
+          "name": "Информация (Information)",
+          "function": "Data processing, knowledge acquisition",
+          "dimension": "0D→1D",
+          "role": "Gathers and organizes experiential data"
+        },
+        {
+          "name": "Мысль (Thought)",
+          "function": "Analytical thinking, rational processing",
+          "dimension": "0D→1D",
+          "role": "Processes information through logical structures"
+        }
+      ],
+      "layer": "Personal core - individual identity and basic motivations"
+    },
+
+    "middle_circle": {
+      "archetypes": [
+        {
+          "name": "Истина (Truth)",
+          "function": "Truth-seeking, authentic understanding",
+          "dimension": "1D→2D",
+          "role": "Seeks objective reality beyond personal interpretation"
+        },
+        {
+          "name": "Методы (Methods)",
+          "function": "Systematic approaches, practical techniques",
+          "dimension": "1D→2D",
+          "role": "Develops systematic procedures for action"
+        },
+        {
+          "name": "Материя (Matter)",
+          "function": "Physical reality, embodied existence",
+          "dimension": "1D→2D",
+          "role": "Grounds consciousness in physical world"
+        },
+        {
+          "name": "Сети (Networks)",
+          "function": "Social connections, relationship patterns",
+          "dimension": "1D→2D",
+          "role": "Weaves individual into social fabric"
+        },
+        {
+          "name": "Вера (Faith)",
+          "function": "Trust, belief systems, spiritual connection",
+          "dimension": "1D→2D",
+          "role": "Connects personal to transpersonal meaning"
+        }
+      ],
+      "layer": "Social interface - interaction with surrounding world"
+    },
+
+    "outer_circle": {
+      "archetypes": [
+        {
+          "name": "Мудрость (Wisdom)",
+          "function": "Integrated wisdom, life experience synthesis",
+          "dimension": "2D→3D",
+          "role": "Synthesizes all experience into coherent understanding"
+        },
+        {
+          "name": "Структура (Structure)",
+          "function": "Organizational principles, systematic knowledge",
+          "dimension": "2D→3D",
+          "role": "Creates stable frameworks for collective knowledge"
+        },
+        {
+          "name": "Единство (Unity)",
+          "function": "Holistic integration, unified understanding",
+          "dimension": "2D→3D",
+          "role": "Perceives underlying oneness of all phenomena"
+        },
+        {
+          "name": "Честь (Honor)",
+          "function": "Ethical principles, moral integrity",
+          "dimension": "2D→3D",
+          "role": "Maintains ethical coherence in action"
+        },
+        {
+          "name": "Формы (Forms)",
+          "function": "Manifestation patterns, creative expression",
+          "dimension": "2D→3D",
+          "role": "Gives consciousness visible form"
+        },
+        {
+          "name": "Верность (Loyalty)",
+          "function": "Commitment, consistent dedication",
+          "dimension": "2D→3D",
+          "role": "Maintains stable bonds across time"
+        }
+      ],
+      "layer": "Cosmic connection - link to collective and transcendent principles"
+    },
+
+    "directional_forces": {
+      "masculine": {
+        "symbol": "♂",
+        "name": "Мужчина (Man)",
+        "force": "Прогресс (Progress)",
+        "direction": "forward, expanding, conquering",
+        "dimension": "1D vector"
+      },
+      "feminine": {
+        "symbol": "♀",
+        "name": "Женщина (Woman)",
+        "force": "Выживание (Survival)",
+        "direction": "inward, preserving, nurturing",
+        "dimension": "1D vector"
+      },
+      "individual": {
+        "symbol": "Дьявол (Devil)",
+        "force": "Индивидуальное (Individual)",
+        "direction": "separation, uniqueness, self",
+        "dimension": "radial outward"
+      },
+      "collective": {
+        "symbol": "Бог (God)",
+        "force": "Коллективное (Collective)",
+        "direction": "integration, unity, whole",
+        "dimension": "radial inward"
+      }
+    },
+
+    "archetypal_dynamics": {
+      "integration_sequence": "Inner → Middle → Outer archetypal integration over lifetime",
+      "tension_management": "Balancing opposing forces rather than choosing sides",
+      "individuation_process": "Conscious integration of shadow and persona archetypes",
+      "collective_service": "Personal archetypal work serves collective psychological evolution"
+    }
+  },
+
+  "socionics_typology": {
+    "principle": "16 psychological types = 16 4D geometric structures forming 8 sacred dual pairs across 4 quadras",
+    
+    "quadras": {
+      "ALPHA": {
+        "element": "Air",
+        "stage": "Children",
+        "caste": "Monks",
+        "temperament": "NF + NT",
+        "dimension_focus": "2D→4D (relations, patterns, possibilities)",
+        
+        "types": [
+          {
+            "code": "ILE",
+            "mbti_approximate": "ENTP",
+            "name": "Don Quixote",
+            "title": "Innovator / Tutor",
+            "tarot": "Knight of Swords",
+            "function_stack": ["Ne", "Ti", "Fe", "Si"],
+            "4d_structure": {
+              "name": "600-cell",
+              "vertices": 120,
+              "cells": 600,
+              "cell_type": "tetrahedron",
+              "symbolic": "Maximum complexity, endless possibilities"
+            },
+            "psychological_function": "Possibility generation, innovation, connecting disparate ideas",
+            "social_role": "Inventor, theorist, catalyst of change",
+            "archetype_resonance": "Dream + Information (inner circle)"
+          },
+          {
+            "code": "SEI",
+            "mbti_approximate": "ISFP",
+            "name": "Dumas",
+            "title": "Diplomat / Mediator",
+            "tarot": "Queen of Cups",
+            "function_stack": ["Si", "Fe", "Ti", "Ne"],
+            "4d_structure": {
+              "name": "120-cell",
+              "vertices": 600,
+              "cells": 120,
+              "cell_type": "dodecahedron",
+              "symbolic": "Perfect harmony, sensory richness"
+            },
+            "psychological_function": "Sensation detailing, harmonization, comfort creation",
+            "social_role": "Comfort creator, aesthete, peacemaker",
+            "archetype_resonance": "Matter + Networks (middle circle)"
+          },
+          {
+            "code": "ESE",
+            "mbti_approximate": "ESFJ",
+            "name": "Hugo",
+            "title": "Enthusiast / Bonvivant",
+            "tarot": "Queen of Wands",
+            "function_stack": ["Fe", "Si", "Ne", "Ti"],
+            "4d_structure": {
+              "name": "Hypersphere",
+              "vertices": "infinite",
+              "cells": "none",
+              "continuity": "absolute",
+              "symbolic": "All-encompassing care, boundless warmth"
+            },
+            "psychological_function": "Emotional contagion, group harmony, celebration",
+            "social_role": "Organizer, soul of collective, host",
+            "archetype_resonance": "Faith + Forms (outer circle)"
+          },
+          {
+            "code": "LII",
+            "mbti_approximate": "INTJ",
+            "name": "Robespierre",
+            "title": "Analyst / Critic",
+            "tarot": "Page of Pentacles",
+            "function_stack": ["Ti", "Ne", "Si", "Fe"],
+            "4d_structure": {
+              "name": "16-cell",
+              "vertices": 8,
+              "cells": 16,
+              "cell_type": "tetrahedron",
+              "symbolic": "Minimal perfection, logical purity"
+            },
+            "psychological_function": "Structural analysis, logical systems, categorical thinking",
+            "social_role": "Analyst, systematizer, researcher",
+            "archetype_resonance": "Thought + Truth (inner→middle circle)"
+          }
+        ],
+        
+        "dual_pairs": [
+          {
+            "types": ["ILE", "SEI"],
+            "sacred_artifact": "Philosopher's Stone",
+            "geometry": "600-cell + 120-cell duality",
+            "principle": "Complete transmutation: structure ↔ points (complexity ↔ harmony)",
+            "function": "Transformation of abstract into concrete",
+            "social_synergy": "Innovation + embodiment = realized possibilities",
+            "relationship": "Ne-Ti ↔ Si-Fe perfect complementarity"
+          },
+          {
+            "types": ["ESE", "LII"],
+            "sacred_artifact": "Holy Grail",
+            "geometry": "Hypersphere + 16-cell duality",
+            "principle": "Infinity contained in perfect form (continuous ↔ discrete)",
+            "function": "Structured care, systematized empathy",
+            "social_synergy": "Warmth + logic = humane systems",
+            "relationship": "Fe-Si ↔ Ti-Ne perfect complementarity"
+          }
+        ]
+      },
+      
+      "BETA": {
+        "element": "Fire",
+        "stage": "Adolescents",
+        "caste": "Managers",
+        "temperament": "NF + ST",
+        "dimension_focus": "1D→3D (action, power, structure)",
+        
+        "types": [
+          {
+            "code": "EIE",
+            "mbti_approximate": "ENFJ",
+            "name": "Hamlet",
+            "title": "Mentor / Actor",
+            "tarot": "Knight of Wands",
+            "function_stack": ["Fe", "Ni", "Se", "Ti"],
+            "4d_structure": {
+              "name": "Dodecahedral prism",
+              "base": "dodecahedron",
+              "faces": 12,
+              "shape": "pentagon",
+              "symbolic": "Dramatic extension, influential projection"
+            },
+            "psychological_function": "Dramatization, emotional influence, inspiring vision",
+            "social_role": "Artist, teacher, ideological leader",
+            "archetype_resonance": "Dream + Unity (spanning circles)"
+          },
+          {
+            "code": "LSI",
+            "mbti_approximate": "ISTJ",
+            "name": "Maxim Gorky",
+            "title": "Inspector / Guardian",
+            "tarot": "Queen of Pentacles",
+            "function_stack": ["Ti", "Se", "Ni", "Fe"],
+            "4d_structure": {
+              "name": "Tetrahedral prism",
+              "base": "tetrahedron",
+              "faces": 4,
+              "shape": "triangle",
+              "symbolic": "Rigid order, minimal deviation"
+            },
+            "psychological_function": "Order maintenance, rule enforcement, structural integrity",
+            "social_role": "Administrator, guardian, quality controller",
+            "archetype_resonance": "Structure + Honor (outer circle)"
+          },
+          {
+            "code": "SLE",
+            "mbti_approximate": "ESTP",
+            "name": "Zhukov",
+            "title": "Leader / Conqueror",
+            "tarot": "King of Swords",
+            "function_stack": ["Se", "Ti", "Fe", "Ni"],
+            "4d_structure": {
+              "name": "5-cell",
+              "vertices": 5,
+              "cells": 5,
+              "simplicity": "minimal",
+              "symbolic": "Simplest power, direct action"
+            },
+            "psychological_function": "Direct action, willpower, resource mobilization",
+            "social_role": "Leader, conqueror, crisis manager",
+            "archetype_resonance": "Methods (middle) - pure pragmatism"
+          },
+          {
+            "code": "IEI",
+            "mbti_approximate": "INFP",
+            "name": "Yesenin",
+            "title": "Lyricist / Romantic",
+            "tarot": "Page of Cups",
+            "function_stack": ["Ni", "Fe", "Ti", "Se"],
+            "4d_structure": {
+              "name": "Octahedral prism",
+              "base": "octahedron",
+              "faces": 8,
+              "symmetry": "dual pyramid",
+              "symbolic": "Time perception, multidimensional vision"
+            },
+            "psychological_function": "Foresight, time intuition, atmospheric sensing",
+            "social_role": "Visionary, romantic, prophet",
+            "archetype_resonance": "Hope (center) + Wisdom (outer)"
+          }
+        ],
+        
+        "dual_pairs": [
+          {
+            "types": ["EIE", "LSI"],
+            "sacred_artifact": "Tablets of the Law",
+            "geometry": "Dodecahedral prism + Tetrahedral prism",
+            "principle": "Harmonious law on rigid foundation (complexity ↔ simplicity)",
+            "function": "Power + order = legitimate authority",
+            "social_synergy": "Charisma + discipline = effective leadership",
+            "relationship": "Fe-Ni ↔ Ti-Se perfect complementarity"
+          },
+          {
+            "types": ["SLE", "IEI"],
+            "sacred_artifact": "Spear of Longinus",
+            "geometry": "5-cell + Octahedral prism",
+            "principle": "Simplest action piercing all planes of time",
+            "function": "Strategic action with temporal awareness",
+            "social_synergy": "Directed force + vision = destiny shaping",
+            "relationship": "Se-Ti ↔ Ni-Fe perfect complementarity"
+          }
+        ]
+      },
+      
+      "GAMMA": {
+        "element": "Water",
+        "stage": "Adults",
+        "caste": "Merchants",
+        "temperament": "NT + SF",
+        "dimension_focus": "0D→4D (pragmatism, results, efficiency)",
+        
+        "types": [
+          {
+            "code": "SEE",
+            "mbti_approximate": "ESFP",
+            "name": "Napoleon",
+            "title": "Politician / Performer",
+            "tarot": "Queen of Cups",
+            "function_stack": ["Se", "Fi", "Te", "Ni"],
+            "4d_structure": {
+              "name": "Duocylinder",
+              "topology": "S¹×S¹",
+              "rotations": 2,
+              "continuity": "double",
+              "symbolic": "Experience rotation, expanding influence"
+            },
+            "psychological_function": "Experience maximization, territorial expansion, impact",
+            "social_role": "Entrepreneur, politician, performer",
+            "archetype_resonance": "Matter + Forms (middle→outer)"
+          },
+          {
+            "code": "ILI",
+            "mbti_approximate": "INTP",
+            "name": "Balzac",
+            "title": "Critic / Strategist",
+            "tarot": "Page of Swords",
+            "function_stack": ["Ni", "Te", "Fi", "Se"],
+            "4d_structure": {
+              "name": "Tesseract",
+              "vertices": 16,
+              "cells": 8,
+              "type": "hypercube",
+              "symbolic": "Seeing through dimensions, hidden patterns"
+            },
+            "psychological_function": "Seeing essence through form, strategic pessimism, deep analysis",
+            "social_role": "Critic, strategist, trend predictor",
+            "archetype_resonance": "Wisdom (outer) - seeing beyond"
+          },
+          {
+            "code": "LIE",
+            "mbti_approximate": "ENTJ",
+            "name": "Jack London",
+            "title": "Entrepreneur / Pioneer",
+            "tarot": "Knight of Pentacles",
+            "function_stack": ["Te", "Ni", "Se", "Fi"],
+            "4d_structure": {
+              "name": "24-cell",
+              "vertices": 24,
+              "cells": 24,
+              "self_dual": true,
+              "symbolic": "Self-sufficient system, perfect efficiency"
+            },
+            "psychological_function": "Goal achievement, efficiency optimization, resource mastery",
+            "social_role": "Businessman, manager, pioneer",
+            "archetype_resonance": "Methods + Structure (middle→outer)"
+          },
+          {
+            "code": "ESI",
+            "mbti_approximate": "ISFJ",
+            "name": "Dreiser",
+            "title": "Guardian / Keeper",
+            "tarot": "Queen of Wands",
+            "function_stack": ["Fi", "Se", "Ni", "Te"],
+            "4d_structure": {
+              "name": "Icosahedral prism",
+              "base": "icosahedron",
+              "faces": 20,
+              "protection": "maximum",
+              "symbolic": "Value preservation, moral armor"
+            },
+            "psychological_function": "Value preservation, moral judgment, relationship guarding",
+            "social_role": "Keeper, moralist, protector",
+            "archetype_resonance": "Honor + Loyalty (outer circle)"
+          }
+        ],
+        
+        "dual_pairs": [
+          {
+            "types": ["SEE", "ILI"],
+            "sacred_artifact": "Caduceus",
+            "geometry": "Duocylinder + Tesseract",
+            "principle": "Duocylinder snakes winding around tesseract axis (flow ↔ structure)",
+            "function": "Risk management through foresight",
+            "social_synergy": "Action + strategic vision = calculated success",
+            "relationship": "Se-Fi ↔ Ni-Te perfect complementarity"
+          },
+          {
+            "types": ["LIE", "ESI"],
+            "sacred_artifact": "Ark of the Covenant",
+            "geometry": "24-cell + Icosahedral prism",
+            "principle": "Self-sufficient system in protected container (efficiency ↔ preservation)",
+            "function": "Sustainable growth with ethical foundation",
+            "social_synergy": "Development + stability = lasting prosperity",
+            "relationship": "Te-Ni ↔ Fi-Se perfect complementarity"
+          }
+        ]
+      },
+      
+      "DELTA": {
+        "element": "Earth",
+        "stage": "Elderly",
+        "caste": "Craftsmen",
+        "temperament": "NF + ST",
+        "dimension_focus": "2D→3D (mastery, understanding, grounding)",
+        
+        "types": [
+          {
+            "code": "IEE",
+            "mbti_approximate": "ENFP",
+            "name": "Huxley",
+            "title": "Advisor / Reporter",
+            "tarot": "Knight of Cups",
+            "function_stack": ["Ne", "Fi", "Te", "Si"],
+            "4d_structure": {
+              "name": "Spherical cylinder",
+              "topology": "S²×S¹",
+              "expansion": "omnidirectional",
+              "rotation": "continuous",
+              "symbolic": "Horizon expansion, unlimited curiosity"
+            },
+            "psychological_function": "Horizon expansion, potential recognition, inspiration",
+            "social_role": "Journalist, advisor, humanitarian",
+            "archetype_resonance": "Dream + Meaning (inner circle)"
+          },
+          {
+            "code": "SLI",
+            "mbti_approximate": "ISTP",
+            "name": "Gabin",
+            "title": "Master / Craftsman",
+            "tarot": "Queen of Swords",
+            "function_stack": ["Si", "Te", "Fi", "Ne"],
+            "4d_structure": {
+              "name": "Duocone",
+              "points": 2,
+              "focus": "bidirectional",
+              "precision": "maximum",
+              "symbolic": "Precision mastery, focused skill"
+            },
+            "psychological_function": "Precision work, technical mastery, sensory expertise",
+            "social_role": "Master craftsman, technologist, expert",
+            "archetype_resonance": "Matter (middle) - pure embodiment"
+          },
+          {
+            "code": "LSE",
+            "mbti_approximate": "ESTJ",
+            "name": "Stirlitz",
+            "title": "Administrator / Manager",
+            "tarot": "King of Pentacles",
+            "function_stack": ["Te", "Si", "Ne", "Fi"],
+            "4d_structure": {
+              "name": "Cubic prism",
+              "base": "cube",
+              "angles": "orthogonal",
+              "order": "maximum",
+              "symbolic": "Direct management, clear structure"
+            },
+            "psychological_function": "Direct management, practical organization, efficient execution",
+            "social_role": "Administrator, executor, logistics manager",
+            "archetype_resonance": "Structure (outer) - practical order"
+          },
+          {
+            "code": "EII",
+            "mbti_approximate": "INFJ",
+            "name": "Dostoevsky",
+            "title": "Humanist / Empath",
+            "tarot": "Page of Wands",
+            "function_stack": ["Fi", "Ne", "Si", "Te"],
+            "4d_structure": {
+              "name": "Prism×Circle",
+              "hybrid": true,
+              "rigid_soft": "combined",
+              "adaptability": "maximum",
+              "symbolic": "Compassion depth, adaptive understanding"
+            },
+            "psychological_function": "Compassion, ethical depth, soul understanding",
+            "social_role": "Humanist, psychologist, spiritual guide",
+            "archetype_resonance": "Unity (outer) - seeing divine in all"
+          }
+        ],
+        
+        "dual_pairs": [
+          {
+            "types": ["IEE", "SLI"],
+            "sacred_artifact": "Excalibur",
+            "geometry": "Spherical cylinder + Duocone",
+            "principle": "All-encompassing understanding → point of action (expansion ↔ focus)",
+            "function": "Practical innovation, grounded vision",
+            "social_synergy": "Understanding + realization = embodied wisdom",
+            "relationship": "Ne-Fi ↔ Si-Te perfect complementarity"
+          },
+          {
+            "types": ["LSE", "EII"],
+            "sacred_artifact": "Mirror of Truth",
+            "geometry": "Cubic prism + Prism×Circle",
+            "principle": "Direct structure reflects soul's depth (rigidity ↔ flexibility)",
+            "function": "Humane management, ethical systems",
+            "social_synergy": "Justice + mercy = compassionate order",
+            "relationship": "Te-Si ↔ Fi-Ne perfect complementarity"
+          }
+        ]
+      }
+    },
+    
+    "function_dynamics": {
+      "cognitive_functions": {
+        "Ne": {
+          "name": "Extraverted Intuition",
+          "operations": ["relate (2D)", "sequence (1D exploration)"],
+          "dimension": "1D→2D",
+          "essence": "Connecting disparate ideas, exploring multiple possibilities",
+          "primitive": "branching line"
+        },
+        "Ni": {
+          "name": "Introverted Intuition",
+          "operations": ["history (4D)", "fold (5D sampling)"],
+          "dimension": "4D→5D",
+          "essence": "Seeing patterns across time, intuiting convergent future",
+          "primitive": "time axis"
+        },
+        "Se": {
+          "name": "Extraverted Sensing",
+          "operations": ["measure (0D)", "sequence (1D action)"],
+          "dimension": "0D→1D",
+          "essence": "Immediate sensory awareness, present-moment action",
+          "primitive": "point → vector"
+        },
+        "Si": {
+          "name": "Introverted Sensing",
+          "operations": ["context (3D)", "history (4D micro)"],
+          "dimension": "3D→4D",
+          "essence": "Detailed sensory memory, contextual awareness",
+          "primitive": "solid memory"
+        },
+        "Te": {
+          "name": "Extraverted Thinking",
+          "operations": ["sequence (1D)", "context (3D execution)"],
+          "dimension": "1D→3D",
+          "essence": "External organization, efficient execution",
+          "primitive": "algorithm → system"
+        },
+        "Ti": {
+          "name": "Introverted Thinking",
+          "operations": ["map/definition (2D)", "context (3D minimal)"],
+          "dimension": "2D→3D",
+          "essence": "Internal logical framework, systematic understanding",
+          "primitive": "schema"
+        },
+        "Fe": {
+          "name": "Extraverted Feeling",
+          "operations": ["relate (2D)", "YW (network alignment)"],
+          "dimension": "2D",
+          "essence": "External harmony, social coordination",
+          "primitive": "network"
+        },
+        "Fi": {
+          "name": "Introverted Feeling",
+          "operations": ["relate (2D internal boundary)"],
+          "dimension": "2D",
+          "essence": "Internal value system, authentic self",
+          "primitive": "boundary"
+        }
+      },
+      
+      "function_axes": {
+        "Ne_Si": "Exploration ↔ Consolidation (possibilities ↔ experiences)",
+        "Ni_Se": "Vision ↔ Action (foresight ↔ present)",
+        "Te_Fi": "Systems ↔ Values (efficiency ↔ authenticity)",
+        "Ti_Fe": "Logic ↔ Harmony (truth ↔ connection)"
+      }
+    },
+    
+    "intertype_relations": {
+      "duality": {
+        "description": "Perfect psychological complementarity - each partner's strengths cover the other's weaknesses",
+        "geometry": "Dual 4D structures with inverted vertex/cell counts or complementary topologies",
+        "function_mechanism": "Dominant ↔ PoLR, Auxiliary ↔ Vulnerable, Creative ↔ Role, Vulnerable ↔ Creative",
+        "sacred_artifacts": 8,
+        "examples": ["ILE↔SEI", "EIE↔LSI", "SEE↔ILI", "IEE↔SLI"]
+      },
+      "activation": {
+        "description": "Stimulating intellectual exchange, mutual energizing",
+        "function_mechanism": "Dominant ↔ Creative, similar but different approaches",
+        "examples": ["ILE↔ESE", "LII↔SEI"]
+      },
+      "mirror": {
+        "description": "Similar worldview, different methods - helpful reflection",
+        "function_mechanism": "Swapped auxiliary and tertiary functions",
+        "examples": ["ILE↔LII", "SEI↔ESE"]
+      },
+      "identity": {
+        "description": "Same type - perfect understanding but no complementarity",
+        "function_mechanism": "Identical function stack",
+        "examples": ["ILE↔ILE"]
+      },
+      "conflict": {
+        "description": "Opposing values and approaches - requires conscious work",
+        "function_mechanism": "All functions inverted in attitude",
+        "examples": ["ILE↔ESI", "SEI↔SLE"]
+      },
+      "super_ego": {
+        "description": "Mutual criticism, different standards",
+        "function_mechanism": "Challenging each other's vulnerable functions",
+        "examples": ["ILE↔LSI", "SEI↔EIE"]
+      },
+      "quasi_identity": {
+        "description": "Superficial similarity hiding deep differences",
+        "examples": ["ILE↔IEE", "SEI↔SLI"]
+      },
+      "business": {
+        "description": "Practical cooperation, complementary skills",
+        "examples": ["ILE↔SLE", "SEI↔IEI"]
+      },
+      "mirage": {
+        "description": "Attractive but ultimately confusing",
+        "examples": ["ILE↔IEI", "SEI↔SLE"]
+      },
+      "kindred": {
+        "description": "Similar but slightly different perspective",
+        "examples": ["ILE↔LIE", "SEI↔ESI"]
+      },
+      "semi_duality": {
+        "description": "Partial complementarity, comfortable but incomplete",
+        "examples": ["ILE↔SEE", "SEI↔ILI"]
+      },
+      "benefactor_beneficiary": {
+        "description": "Asymmetric helping relationship",
+        "examples": ["ILE→ILI (ILE helps ILI)", "SEI→EIE"]
+      },
+      "supervisor_supervisee": {
+        "description": "Asymmetric pressure relationship",
+        "examples": ["ILE→ESI (ILE pressures ESI)", "SEI→LSE"]
+      },
+      "lookalike": {
+        "description": "Appear similar externally but fundamentally different",
+        "examples": ["ILE↔EIE", "SEI↔IEI"]
+      }
+    },
+    
+    "developmental_trajectory": {
+      "age_stages": {
+        "7_years": {
+          "function": "Dominant function emergence",
+          "focus": "Core identity formation",
+          "dimension": "0D→1D"
+        },
+        "18_years": {
+          "function": "Auxiliary function development",
+          "focus": "Social adaptation, relationship skills",
+          "dimension": "1D→2D"
+        },
+        "24_years": {
+          "function": "Tertiary function integration",
+          "focus": "Expanding comfort zone, versatility",
+          "dimension": "2D→3D"
+        },
+        "30_years": {
+          "function": "Inferior function encounter",
+          "focus": "Shadow work, psychological maturity",
+          "dimension": "3D→4D"
+        },
+        "35_plus": {
+          "function": "Full function stack integration",
+          "focus": "Wisdom, meta-awareness, teaching others",
+          "dimension": "4D→5D"
+        }
+      },
+      "integration_sequence": "Dominant → Auxiliary → Tertiary → Inferior",
+      "life_trajectory": "Linear progression through increasing psychological complexity and dimensional awareness"
+    },
+    
+    "geometric_duality_principles": {
+      "600_120_cell": "Inversion: 600 cells/120 vertices ↔ 120 cells/600 vertices (complexity ↔ harmony)",
+      "hypersphere_16cell": "Continuous/discrete: infinite points ↔ 8 vertices (boundless ↔ minimal)",
+      "dodeca_tetra_prism": "Harmony/rigidity: 12 pentagons ↔ 4 triangles (flexible ↔ strict)",
+      "5cell_octaprism": "Simplicity/multidirection: 5 points ↔ 8 faces (direct ↔ visionary)",
+      "duocylinder_tesseract": "Flow/structure: double rotation ↔ hypercube (dynamic ↔ analytical)",
+      "24cell_icosaprism": "Self-sufficiency/protection: self-dual ↔ maximum armor (efficiency ↔ loyalty)",
+      "spherecyl_duocone": "Expansion/focus: all directions ↔ two points (broad ↔ precise)",
+      "cubicprism_prismcircle": "Rigidity/flexibility: orthogonal ↔ adaptive (order ↔ compassion)"
+    }
+  },
+
+  "dimensional_analysis": {
+    "0D_entities": {
+      "core_structures": {
+        "archetypal_points": "Each archetype as discrete organizing principle",
+        "cognitive_functions": "Individual MBTI functions as point operations",
+        "type_identities": "Personality type as fixed point in psychological space"
+      },
+      "primitive": "point",
+      "evidence": "Discrete psychological structures serve as identity anchors"
+    },
+
+    "1D_vectors": {
+      "directional_forces": {
+        "archetypal_axes": "Progress vs Survival, Individual vs Collective",
+        "function_sequences": "Cognitive function stacks as ordered vectors",
+        "developmental_paths": "Growth trajectories from inner to outer circles, age 7→35+"
+      },
+      "primitive": "line",
+      "evidence": "Psychological development follows directional paths over time"
+    },
+
+    "2D_planes": {
+      "relational_matrices": {
+        "archetypal_relationships": "How archetypes interact in consciousness field",
+        "type_dynamics": "Intertype relationships (duality, conflict, activation, etc)",
+        "function_interplay": "How cognitive functions work together in stacks",
+        "quadra_patterns": "NT, NF, ST, SF temperament planes"
+      },
+      "primitive": "square",
+      "evidence": "Psychological structures form systematic 2D interaction patterns"
+    },
+
+    "3D_fields": {
+      "integrated_systems": {
+        "complete_personality": "All functions integrated into coherent self",
+        "archetypal_constellation": "Full circle integration (inner+middle+outer)",
+        "type_system": "Complete socionics 16-type framework as 3D space",
+        "quadra_structure": "4 quadras forming complete social ecosystem"
+      },
+      "primitive": "cube",
+      "evidence": "Mature personality integrates all dimensions into unified field"
+    },
+
+    "4D_spectator": {
+      "meta_awareness": {
+        "archetypal_consciousness": "Recognizing archetypal patterns in self",
+        "type_flexibility": "Understanding type as tendency, not prison",
+        "developmental_wisdom": "Seeing growth path across time",
+        "geometric_understanding": "Recognizing 4D structures underlying psychological patterns",
+        "dual_pair_consciousness": "Understanding complementary sacred partnerships"
+      },
+      "primitive": "tesseract/24-cell",
+      "evidence": "Meta-psychological awareness enables conscious development and type transcendence"
+    },
+
+    "5D_unity": {
+      "transcendent_integration": {
+        "all_archetypes_as_one": "Recognition that all archetypes are facets of unified consciousness",
+        "all_types_as_necessary": "Understanding all 16 types as essential expressions of human wholeness",
+        "collective_field": "Individual consciousness as node in universal field",
+        "sacred_artifacts_unity": "All 8 dual pairs as facets of single divine tool"
+      },
+      "primitive": "ether",
+      "evidence": "Ultimate psychological integration dissolves boundaries while maintaining distinctions"
+    }
+  },
+
+  "integration_principles": {
+    "archetypal_individuation": {
+      "sequence": "Center → Inner → Middle → Outer circle integration",
+      "mechanism": "Each layer must be integrated before accessing next",
+      "goal": "Conscious relationship with all archetypal energies",
+      "shadow_work": "Integrating disowned archetypal aspects"
+    },
+
+    "type_development": {
+      "sequence": "Dominant → Auxiliary → Tertiary → Inferior function development",
+      "mechanism": "Conscious cultivation of weaker functions through life stages",
+      "goal": "Balanced access to all cognitive operations",
+      "shadow_functions": "Integrating unconscious function attitudes",
+      "dual_relationship": "Partner helps access inferior functions naturally"
+    },
+
+    "dimensional_progression": {
+      "0D": "Identifying core psychological anchors (type, primary archetype)",
+      "1D": "Following developmental vectors (age stages, function sequence)",
+      "2D": "Understanding relational patterns (intertype relations, archetypal interactions)",
+      "3D": "Integrating complete system (full function stack, all circles)",
+      "4D": "Developing meta-awareness (type flexibility, sacred geometry understanding)",
+      "5D": "Recognizing unity in diversity (all types/archetypes as facets of One)"
+    },
+
+    "sacred_partnership": {
+      "principle": "Dual pairs = optimal collaboration for psychological completeness",
+      "mechanism": "Each partner provides what the other lacks dimensionally",
+      "artifacts": "8 sacred tools representing 8 modes of optimal human cooperation",
+      "goal": "Through duality, achieve what neither could alone"
+    }
+  },
+
+  "practical_applications": {
+    "self_understanding": {
+      "archetypal_mapping": "Identify which archetypes are active/dormant in psyche",
+      "type_identification": "Use Socionics for cognitive style awareness (more precise than MBTI)",
+      "dimensional_assessment": "Understand current developmental level",
+      "geometric_visualization": "Connect psychological patterns to 4D structures"
+    },
+
+    "personal_development": {
+      "archetypal_cultivation": "Consciously develop underdeveloped archetypal aspects",
+      "function_strengthening": "Practice weaker cognitive functions through life stages",
+      "dimensional_advancement": "Work toward higher-dimensional integration",
+      "inferior_function_work": "Embrace shadow aspects after age 30"
+    },
+
+    "relationship_dynamics": {
+      "archetypal_compatibility": "Understanding archetypal complementarity",
+      "duality_seeking": "Recognize and value dual partners (8 sacred pairs)",
+      "intertype_navigation": "Using 14 relationship types for relationship insight",
+      "dimensional_resonance": "Recognizing developmental stage alignment",
+      "conflict_understanding": "Knowing when conflict is structural vs personal"
+    },
+
+    "therapeutic_intervention": {
+      "archetypal_therapy": "Using archetypal awareness for psychological healing",
+      "type_based_counseling": "Tailoring therapeutic approach to cognitive style",
+      "dimensional_integration": "Supporting clients' developmental progression",
+      "dual_pair_therapy": "Facilitating understanding in complementary partnerships"
+    },
+
+    "organizational_design": {
+      "archetypal_teams": "Ensuring archetypal diversity in groups",
+      "quadra_balance": "Including all 4 quadras for complete organizational capability",
+      "type_based_roles": "Matching personality types to appropriate functions",
+      "dimensional_leadership": "Leaders operating at higher dimensional awareness",
+      "dual_pair_collaboration": "Structuring partnerships around sacred complementarity"
+    },
+
+    "team_composition": {
+      "quadra_principle": "Each quadra provides unique organizational capability",
+      "alpha_innovation": "Ideas, theories, harmonious brainstorming",
+      "beta_implementation": "Power, structure, decisive action",
+      "gamma_optimization": "Efficiency, results, pragmatic solutions",
+      "delta_sustainability": "Wisdom, care, long-term stability"
+    }
+  },
+
+  "coherence_patterns": {
+    "archetypal_coherence": "All archetypes working in harmony rather than conflict",
+    "type_coherence": "Cognitive functions aligned and cooperative within individual",
+    "dimensional_coherence": "Each level properly integrated before moving to next",
+    "systemic_coherence": "Individual psychological development serving collective evolution",
+    "dual_coherence": "Sacred partnerships creating coherence neither partner could achieve alone",
+    "quadra_coherence": "All 4 quadras necessary for complete social functionality"
+  },
+
+  "reduction_examples": [
+    {
+      "id": "psych:core_identity",
+      "raw": "Person identifying strongly with Hope/Intuition archetype at consciousness center",
+      "reduction": [
+        {
+          "dimension": "0D",
+          "primitive": "point",
+          "planes": ["ZW"],
+          "ops": ["measure"],
+          "evidence": "Central archetypal identification as discrete organizing principle",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": "psych:ile_pattern_recognition",
+      "raw": "ILE (ENTP) instantly seeing connections between unrelated domains",
+      "reduction": [
+        {
+          "dimension": "2D",
+          "primitive": "square",
+          "planes": ["YW", "XY"],
+          "ops": ["relate", "pattern"],
+          "evidence": "Ne function creates 2D relational matrix across conceptual space (600-cell complexity)",
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "id": "psych:dual_relationship",
+      "raw": "ILE-SEI (Tutor-Diplomat) dual pair experiencing effortless complementarity",
+      "reduction": [
+        {
+          "dimension": "4D",
+          "primitive": "600-cell + 120-cell",
+          "planes": ["XW", "YW", "ZW"],
+          "ops": ["history", "relate", "transform"],
+          "evidence": "Sacred geometry duality creating Philosopher's Stone - transformation of abstract into concrete",
+          "confidence": 0.92
+        }
+      ]
+    },
+    {
+      "id": "psych:individuation_process",
+      "raw": "Person consciously integrating shadow aspects over decades",
+      "reduction": [
+        {
+          "dimension": "4D",
+          "primitive": "tesseract",
+          "planes": ["XW", "YW", "ZW"],
+          "ops": ["history", "integrate", "transform"],
+          "evidence": "Meta-awareness of psychological development across time",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "id": "psych:inferior_function_integration",
+      "raw": "30-year-old ILE developing inferior Si through life experiences",
+      "reduction": [
+        {
+          "dimension": "1D",
+          "primitive": "line",
+          "planes": ["XW"],
+          "ops": ["sequence"],
+          "evidence": "Developmental progression following age-based trajectory",
+          "confidence": 0.8
+        },
+        {
+          "dimension": "4D",
+          "primitive": "tesseract",
+          "planes": ["XW", "ZW"],
+          "ops": ["history", "transform"],
+          "evidence": "Conscious integration of psychological functions across lifespan",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "id": "psych:collective_consciousness",
+      "raw": "Recognition that all 16 personality types are necessary facets of human wholeness",
+      "reduction": [
+        {
+          "dimension": "5D",
+          "primitive": "ether",
+          "planes": ["ZV", "WV"],
+          "ops": ["fold", "unify"],
+          "evidence": "Transcendent awareness of unity underlying psychological diversity - all types as One",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "id": "psych:quadra_alpha_brainstorm",
+      "raw": "Alpha quadra (ILE, SEI, ESE, LII) generating innovative solutions in harmonious atmosphere",
+      "reduction": [
+        {
+          "dimension": "3D",
+          "primitive": "cube",
+          "planes": ["XY", "YZ", "XZ"],
+          "ops": ["context", "relate", "integrate"],
+          "evidence": "Complete Alpha quadra forms coherent 3D field optimized for innovation + harmony",
+          "confidence": 0.87
+        }
+      ]
+    }
+  ],
+
+  "integration_with_cfo": {
+    "principle": "Psychological archetypes and personality types are dimensional projections of consciousness field - each emphasizing specific planes and operations. 16 types = 16 4D geometric structures forming 8 sacred dual artifacts.",
+    "mechanism": "Type = cognitive bias toward certain dimensional operations. Archetype = energy pattern at specific dimensional level. Development = integration across dimensions. Duality = geometric complementarity creating sacred tools.",
+    "goal": "Transform unconscious type patterns into conscious archetypal mastery, enabling flexible access to all dimensions as needed. Find and honor dual partnerships.",
+    "coherence_optimization": "Understanding one's archetypal-typological structure allows working with natural strengths while consciously developing integration. Dual pairs create coherence neither could achieve alone.",
+    "sacred_geometry": "Each type corresponds to specific 4D structure. Dual pairs have complementary geometries. 8 artifacts represent optimal modes of human collaboration."
+  },
+
+  "system_coherence_metrics": {
+    "archetypal_balance": "Degree of harmony between opposing archetypal forces",
+    "function_development": "How well all cognitive functions are accessible",
+    "dimensional_integration": "Completeness of integration across consciousness levels",
+    "type_flexibility": "Ability to access non-preferred functions when needed",
+    "dual_recognition": "Awareness and honoring of complementary partnerships",
+    "quadra_contribution": "How well one's quadra serves collective needs",
+    "collective_alignment": "How individual development serves larger evolutionary patterns",
+    "geometric_coherence": "Alignment between psychological patterns and 4D structures"
+  },
+
+  "notes": {
+    "socionics_vs_mbti": "Socionics is more precise than MBTI. Same 4-letter codes refer to DIFFERENT types due to J/P flip for introverts. This system uses Socionics.",
+    "disclaimer": "Typologies are heuristic models for understanding cognitive patterns, not deterministic labels. Archetypes are universal energies, not fixed identities. Both frameworks serve psychological development and self-understanding.",
+    "integration_insight": "Archetypes provide vertical depth (dimensional layers), types provide horizontal diversity (cognitive variations). Together they map complete psychological territory.",
+    "development_key": "Knowing your type shows starting point and natural strengths. Archetypal work shows growth path. Dimensional awareness shows ultimate integration goal. Dual partnerships accelerate development.",
+    "sacred_artifacts": "8 dual pairs = 8 sacred tools = 8 optimal modes of human collaboration, each with distinct 4D geometric signature.",
+    "geometric_principle": "Psychological duality reflects geometric duality. 600-cell ↔ 120-cell = Ne-Ti ↔ Si-Fe. Form follows function."
+  },
+
+  "status": "active/integrated",
+  "last_updated": "2025-10-06",
+  "version_notes": "Merged personality_types.json and archetypes-4d-figures-duals.json into unified comprehensive framework. Added complete Socionics with 16 types, 4 quadras, 8 dual pairs, 14 intertype relations, age-based development, and 4D geometric structures."
+}

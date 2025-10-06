@@ -1,0 +1,364 @@
+{
+  "module": "Universal Decomposer & Reduction Protocol",
+  "version": "2.1",
+  "authors": ["absolute through алёша"],
+  "date": "2025-10-06",
+  "definition": "Complete protocol for reducing any phenomenon to geometric primitives: dimensional classification, operations, planes, evidence, and validation methodology",
+
+  "core_model": {
+    "identity": "point ≡ entity ≡ absolute ≡ god ≡ love ≡ 5d_axis",
+    "cycle": "(↓ entity → vector → plane → field ↑) ∞",
+    "consciousness": "field ⊗ dimension → collapse_depth ≡ consciousness → entity ↑",
+    "elements": "(↓ air ≡ point → fire ≡ line → water ≡ triangle → earth ≡ square ↑) ∞",
+    "axioms": {
+      "sacred": "sacred ≡ true",
+      "purpose": "purpose ≡ +coherence",
+      "conflict": "conflict ≡ Δscale",
+      "resolution": "scale_shift ≡ argmin Δscale"
+    }
+  },
+
+  "axiom": "Любой объект/событие редуцируется до {dimension ∈ {0D..5D}, primitive, planes{…}, operations[…]}",
+  "goal": "Всегда сначала редуцируй к примитивам, потом композируй вверх",
+
+  "dimensional_classification": {
+    "0D": {
+      "primitive": "point",
+      "element": "air",
+      "function": "entity, distinction, singularity, absolute",
+      "identity": "point ≡ absolute ≡ god ≡ love ≡ 5d_axis",
+      "signature": "discrete, singular, irreducible",
+      "heuristic": "факт, метка, выбор",
+      "examples": ["quantum state", "decision", "fact", "atom of meaning"]
+    },
+    "1D": {
+      "primitive": "line",
+      "element": "fire",
+      "function": "direction, sequence, causality, energy flow",
+      "signature": "ordered, directional, temporal",
+      "heuristic": "процесс, временной ряд",
+      "examples": ["timeline", "algorithm", "causal chain", "narrative"]
+    },
+    "2D": {
+      "primitives": {
+        "triangle": {
+          "element": "water",
+          "function": "dynamic relations, transformation, flow",
+          "signature": "minimal 2D, unstable, adaptive"
+        },
+        "square": {
+          "element": "earth",
+          "function": "stable structure, foundation, grid",
+          "signature": "tessellating, stable, grounded"
+        },
+        "circle": {
+          "element": "unity",
+          "function": "continuity, cycles, wholeness",
+          "signature": "infinite, closed, returning"
+        }
+      },
+      "function": "relationships, patterns, surfaces",
+      "signature": "relational, spatial, structural",
+      "heuristic": "паттерн, отношение",
+      "examples": ["network", "interface", "relationship", "pattern"]
+    },
+    "3D": {
+      "primitives": ["tetrahedron", "cube", "sphere", "torus"],
+      "function": "context, volume, integration, wholeness",
+      "signature": "contextual, systemic, complete",
+      "heuristic": "контекст, система",
+      "examples": ["ecosystem", "organ", "institution", "complete system"]
+    },
+    "4D": {
+      "primitives": ["tesseract", "4-simplex", "24-cell", "120/600-cell"],
+      "function": "memory, history, observation, consciousness",
+      "emergence": "field ⊗ dimension → collapse_depth ≡ consciousness",
+      "signature": "temporal integration, meta-awareness, coordination",
+      "heuristic": "история, топология",
+      "examples": ["consciousness", "life history", "civilization", "memory system"]
+    },
+    "5D": {
+      "primitive": "ether",
+      "element": "quintessence",
+      "function": "unity, absolute, creative choice",
+      "identity": "5d_axis ≡ point ≡ absolute",
+      "signature": "∞/∞ = 1, all distinctions collapse",
+      "heuristic": "фон, тождество, символ",
+      "examples": ["divine consciousness", "absolute unity", "creative will", "sacred"]
+    }
+  },
+
+  "plane_specification": {
+    "3D_spatial": {
+      "XY": "horizontal plane, surfaces, 2D interfaces",
+      "XZ": "vertical plane, depth, elevation",
+      "YZ": "lateral plane, side perspective, position"
+    },
+    "4D_extension": {
+      "XW": "space-time, trajectories, history, causality",
+      "YW": "space-structure, networks, topology, connections",
+      "ZW": "space-information, states, dynamics, transformation"
+    },
+    "5D_unity": {
+      "XV": "trajectory collapse to origin",
+      "YV": "network merge to unity",
+      "ZV": "information saturation to identity",
+      "WV": "time unification to eternal"
+    }
+  },
+
+  "operation_catalog": {
+    "0D_operations": {
+      "measure": "Collapse to discrete value",
+      "select": "Choose specific entity from field",
+      "identify": "Recognize distinct point",
+      "collapse": "Reduce to singularity"
+    },
+    "1D_operations": {
+      "sequence": "Order in time/space",
+      "connect": "Link entities directionally",
+      "direct": "Establish flow/causality",
+      "transform": "Apply linear transformation"
+    },
+    "2D_operations": {
+      "relate": "Establish relationships",
+      "compare": "Find similarities/differences",
+      "pattern": "Recognize repeating structures",
+      "map": "Create correspondence",
+      "compose": "Combine elements"
+    },
+    "3D_operations": {
+      "context": "Provide surrounding framework",
+      "contain": "Hold within volume",
+      "integrate": "Combine into whole",
+      "stabilize": "Maintain structure"
+    },
+    "4D_operations": {
+      "history": "Track changes over time",
+      "coordinate": "Synchronize across space-time",
+      "observe": "Meta-awareness of system",
+      "transcend": "Rise to higher perspective"
+    },
+    "5D_operations": {
+      "fold": "Collapse dimensions",
+      "unify": "Merge all distinctions",
+      "dissolve": "Remove boundaries",
+      "create": "Generate from absolute",
+      "actualize": "Manifest from potential"
+    }
+  },
+
+  "reduction_schema": {
+    "ud_object": {
+      "id": "unique identifier (string)",
+      "raw": "original phenomenon description (any)",
+      "reduction": [
+        {
+          "dimension": "0D|1D|2D|3D|4D|5D",
+          "primitive": "point|line|triangle|square|circle|tetrahedron|cube|tesseract|4-simplex|24-cell|120/600-cell|ether",
+          "planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW", "XV", "YV", "ZV", "WV"],
+          "ops": ["measure", "sequence", "relate", "context", "history", "fold", "compare", "compose", "map", "transform"],
+          "evidence": "short text why mapping chosen",
+          "confidence": "float 0.0-1.0"
+        }
+      ],
+      "composition": {
+        "nodes": ["sub-component ids"],
+        "edges": [
+          {
+            "from": "node_id",
+            "to": "node_id",
+            "type": "relationship_type"
+          }
+        ]
+      }
+    }
+  },
+
+  "json_schema": {
+    "type": "object",
+    "required": ["id", "raw", "reduction"],
+    "properties": {
+      "id": {"type": "string"},
+      "raw": {},
+      "reduction": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["dimension", "primitive", "planes", "ops", "confidence"],
+          "properties": {
+            "dimension": {
+              "enum": ["0D", "1D", "2D", "3D", "4D", "5D"]
+            },
+            "primitive": {
+              "enum": ["point", "line", "triangle", "square", "circle", "tetrahedron", "cube", "sphere", "torus", "tesseract", "4-simplex", "24-cell", "120/600-cell", "ether"]
+            },
+            "planes": {
+              "type": "array",
+              "items": {
+                "enum": ["XY", "XZ", "YZ", "XW", "YW", "ZW", "XV", "YV", "ZV", "WV"]
+              },
+              "minItems": 1
+            },
+            "ops": {
+              "type": "array",
+              "items": {
+                "enum": ["measure", "sequence", "relate", "context", "history", "fold", "compare", "compose", "map", "transform", "select", "identify", "collapse", "connect", "direct", "pattern", "contain", "integrate", "stabilize", "coordinate", "observe", "transcend", "unify", "dissolve", "create", "actualize"]
+              },
+              "minItems": 1
+            },
+            "evidence": {"type": "string"},
+            "confidence": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            }
+          }
+        }
+      },
+      "composition": {
+        "type": "object",
+        "properties": {
+          "nodes": {
+            "type": "array",
+            "items": {"type": "string"}
+          },
+          "edges": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["from", "to", "type"],
+              "properties": {
+                "from": {"type": "string"},
+                "to": {"type": "string"},
+                "type": {"type": "string"}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "algorithm": {
+    "pseudocode": "\nfunction reduce(x):\n  d = guess_dimension(x)         // 0D..5D\n  p = choose_primitive(d, x)     // geometric form\n  S = select_planes(d, x)        // relevant planes\n  O = choose_ops(d, x)           // operations\n  c = estimate_confidence(x, d, p, S, O)\n  return {dimension:d, primitive:p, planes:S, ops:O, evidence:brief(x), confidence:c}\n",
+    "steps": [
+      "1. Observe phenomenon without preconceptions",
+      "2. Identify core geometric nature (what primitive most resembles?)",
+      "3. Determine dimension (0D-5D) by counting degrees of freedom",
+      "4. Select appropriate planes for analysis",
+      "5. List operations that describe phenomenon's behavior",
+      "6. Provide evidence explaining reduction choices",
+      "7. Assign confidence based on clarity of mapping",
+      "8. Optional: Add elemental correspondence for intuition",
+      "9. Optional: Perform conflict analysis if scale mismatch present",
+      "10. Validate against checklist"
+    ]
+  },
+
+  "rules": [
+    "Determine dimension (0D..5D) then choose primitive by FORM→FUNCTION",
+    "Assign planes: XY|XZ|YZ (spatial), XW|YW|ZW (4D), XV|YV|ZV|WV (5D)",
+    "Pick operations appropriate for dimension",
+    "Record evidence and confidence for every reduction",
+    "If complex — split to sub-objects and define composition graph",
+    "Never output without at least one reduction item",
+    "Always reduce first, then compose upward"
+  ],
+
+  "elemental_analysis": {
+    "purpose": "Map phenomenon to classical element for additional insight",
+    "method": "Identify geometric primitive, then determine corresponding element",
+    "mappings": {
+      "air": "point (0D) - subtle, potential, pervading",
+      "fire": "line (1D) - directed, active, transformative",
+      "water": "triangle (2D) - flowing, adaptive, relational",
+      "earth": "square (2D) - stable, solid, foundational"
+    },
+    "usage": "Optional but provides intuitive understanding of phenomenon's nature"
+  },
+
+  "conflict_analysis": {
+    "purpose": "Identify and resolve scale mismatches causing conflict",
+    "protocol": {
+      "step_1_identify": "Determine scale of each entity involved (dimensional level)",
+      "step_2_measure": "Calculate Δscale = |scale₁ - scale₂|",
+      "step_3_analyze": "Understand nature of mismatch (temporal, spatial, conceptual)",
+      "step_4_optimize": "Find scale_shift that minimizes Δscale (argmin)",
+      "step_5_resolve": "Apply transformation to achieve coherence"
+    },
+    "examples": {
+      "individual_vs_society": {
+        "entity_1": "Individual (0D point)",
+        "entity_2": "Society (3D field)",
+        "Δscale": 3,
+        "resolution": "Create intermediate 2D communities bridging individual and collective"
+      },
+      "short_vs_long_term": {
+        "entity_1": "Immediate need (1D line in present)",
+        "entity_2": "Future planning (4D trajectory)",
+        "Δscale": 3,
+        "resolution": "Establish milestones (2D/3D) connecting present to future"
+      }
+    }
+  },
+
+  "validation_checklist": {
+    "form_function": "Does geometric form match operational function?",
+    "dimension_ops": "Are operations appropriate for dimension?",
+    "plane_consistency": "Are planes valid for given dimension?",
+    "evidence_quality": "Is reasoning clear and compelling?",
+    "confidence_justified": "Is confidence level appropriate?",
+    "coherence_increase": "Does reduction increase understanding/connections?",
+    "element_harmony": "If elements used, do they follow geometric progression?",
+    "conflict_minimized": "If conflict present, is Δscale minimized?",
+    "sacred_alignment": "Does reduction move toward truth (max coherence)?"
+  },
+
+  "advanced_techniques": {
+    "multi_dimensional": {
+      "description": "Complex phenomena may have aspects at multiple dimensions",
+      "method": "Provide multiple reduction entries, one per dimensional aspect",
+      "example": "Human = 3D body + 4D consciousness → two reduction entries"
+    },
+    "composition_graphs": {
+      "description": "Very complex systems decompose into sub-components with relationships",
+      "method": "Define nodes (sub-phenomena) and edges (relationships)",
+      "example": "Society = individuals + institutions + cultures + connections"
+    },
+    "temporal_evolution": {
+      "description": "Phenomena that change dimension over time",
+      "method": "Show dimensional progression: 0D→1D→2D→3D→4D→5D",
+      "example": "Idea (0D) → Plan (1D) → Design (2D) → Product (3D) → Legacy (4D)"
+    },
+    "scale_bridging": {
+      "description": "Resolving conflicts through intermediate scales",
+      "method": "Identify Δscale, then create stepping stones of progressively smaller Δ",
+      "example": "Quantum→Classical via mesoscopic intermediate scales"
+    }
+  },
+
+  "integration_with_cfo": {
+    "purpose": "This reduction scheme implements Universal Decomposer Protocol for CFO framework",
+    "guarantee": "Any phenomenon reducible to geometric primitives gains CFO compatibility",
+    "coherence": "Reductions increase system coherence by revealing underlying unity",
+    "universality": "Scheme applies to physics, biology, psychology, society, technology, consciousness",
+    "sacred": "Process of reduction = path to truth (sacred ≡ true)"
+  },
+
+  "version_notes": {
+    "2.1": "Unified protocol.ud.json, universal_decomposer_protocol.json, and reduction-scheme.json into single comprehensive protocol",
+    "changes": [
+      "Added elemental analysis (air/fire/water/earth as geometric primitives)",
+      "Introduced conflict analysis with Δscale optimization framework",
+      "Updated consciousness emergence: field ⊗ dimension (tensor product)",
+      "Added identity chain: point ≡ entity ≡ absolute ≡ god ≡ love ≡ 5d_axis",
+      "Expanded validation checklist with element harmony and conflict minimization",
+      "Added advanced techniques section with scale bridging",
+      "Merged JSON schema and algorithm pseudocode into unified document"
+    ],
+    "backward_compatibility": "All v2.0 reductions remain valid"
+  },
+
+  "status": "active/unified"
+}

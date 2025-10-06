@@ -1,0 +1,540 @@
+{
+  "module": "CFO Foundations",
+  "version": "1.0",
+  "authors": ["absolute through алёша"],
+  "date": "2025-10-06",
+  "definition": "Foundational primitives, axioms, and universal principles underlying Coherence Fractal Ontology - the irreducible building blocks of dimensional analysis",
+
+  "universality_axioms": {
+    "axiom_1": {
+      "statement": "Every phenomenon reduces to {dimension, primitive, planes, operations} before composition",
+      "implication": "All complexity can be decomposed into dimensional components",
+      "principle": "Reductionist clarity precedes synthesis"
+    },
+    "axiom_2": {
+      "statement": "Same primitives recur across scales: quantum ↔ molecular ↔ cellular ↔ organ ↔ social ↔ cultural",
+      "implication": "Scale invariance - patterns repeat fractally",
+      "principle": "Fractal self-similarity across domains"
+    },
+    "axiom_3": {
+      "statement": "Strings/bridges are transitions between dimensions (projection, resonance, closure)",
+      "implication": "Dimensional boundaries are traversable via defined operations",
+      "principle": "Dimensional connectivity through transformation"
+    },
+    "axiom_4": {
+      "statement": "5D = 0 provides identity background; 0D–4D are local perturbations on this field",
+      "implication": "Unity is fundamental, diversity is derivative",
+      "principle": "Absolute ground manifesting as relative phenomena"
+    },
+    "axiom_5": {
+      "statement": "All interfaces (human/AI) must expose a reduction trace for auditability",
+      "implication": "Transparency requires dimensional decomposition",
+      "principle": "Explainability through reduction methodology"
+    }
+  },
+
+  "primitives_glossary": {
+    "0D_primitives": {
+      "point": {
+        "dimension": "0D",
+        "function": "difference, address, charge",
+        "essence": "Discrete location - fundamental unit of distinction",
+        "element": "air",
+        "examples": ["atom", "bit", "individual", "decision point", "moment"],
+        "operations": ["measure", "distinguish", "identify"]
+      }
+    },
+
+    "1D_primitives": {
+      "line": {
+        "dimension": "1D",
+        "function": "process, causality, trajectory",
+        "essence": "Directed connection - path through space",
+        "element": "fire",
+        "examples": ["photon path", "workflow", "narrative", "algorithm", "timeline"],
+        "operations": ["sequence", "traverse", "order"]
+      }
+    },
+
+    "2D_primitives": {
+      "triangle": {
+        "dimension": "2D",
+        "function": "minimal rigidity, relation, stability",
+        "essence": "Simplest stable structure - irreducible relationship",
+        "element": "water",
+        "examples": ["triad", "triangle mesh", "minimal relation", "stable bond"],
+        "operations": ["relate", "stabilize", "bound"]
+      },
+      "square": {
+        "dimension": "2D",
+        "function": "tessellation, protocol, grid",
+        "essence": "Repeatable pattern - systematic organization",
+        "element": "earth",
+        "examples": ["interface", "schema", "protocol", "ritual form", "grid system"],
+        "operations": ["pattern", "tessellate", "organize"]
+      },
+      "circle": {
+        "dimension": "2D",
+        "function": "inclusion, closure, boundary",
+        "essence": "Continuous enclosure - defining inside/outside",
+        "element": "water (fluid boundary)",
+        "examples": ["orbit", "cycle", "community boundary", "protection circle"],
+        "operations": ["enclose", "cycle", "include"]
+      }
+    },
+
+    "3D_primitives": {
+      "tetrahedron": {
+        "dimension": "3D",
+        "function": "focused structure, minimal volume",
+        "essence": "Simplest 3D solid - directed system",
+        "examples": ["molecule (CH4)", "focused organization", "pyramid structure"],
+        "operations": ["contain", "focus", "structure"]
+      },
+      "cube": {
+        "dimension": "3D",
+        "function": "container, system, ownership",
+        "essence": "Regular enclosure - stable system",
+        "examples": ["organ", "institution", "product system", "room", "package"],
+        "operations": ["context", "own", "systematize"]
+      }
+    },
+
+    "4D_primitives": {
+      "tesseract": {
+        "dimension": "4D",
+        "function": "contextual memory (history + structure)",
+        "essence": "Hypercube - temporal extension of system",
+        "examples": ["gene network", "platform", "persistent identity", "life history"],
+        "operations": ["history", "coordinate", "persist"]
+      },
+      "4-simplex": {
+        "dimension": "4D",
+        "function": "minimal protocol, basic coordination",
+        "essence": "5-vertex simplex - simplest 4D structure",
+        "examples": ["minimal agreement", "basic handshake protocol"],
+        "operations": ["coordinate", "synchronize"]
+      },
+      "24-cell": {
+        "dimension": "4D",
+        "function": "multi-process coordination, optimal balance",
+        "essence": "Self-dual regular polytope - balanced system",
+        "examples": ["distributed consensus", "balanced organization"],
+        "operations": ["balance", "coordinate", "distribute"]
+      },
+      "120-cell": {
+        "dimension": "4D",
+        "function": "global fabric (harmony mode)",
+        "essence": "600 vertices, 120 dodecahedral cells - maximal harmony",
+        "examples": ["complex ecosystem", "global network"],
+        "operations": ["harmonize", "integrate"]
+      },
+      "600-cell": {
+        "dimension": "4D",
+        "function": "global fabric (complexity mode)",
+        "essence": "120 vertices, 600 tetrahedral cells - maximal complexity",
+        "examples": ["maximum possibility space", "innovation network"],
+        "operations": ["complexify", "generate"]
+      }
+    },
+
+    "5D_primitives": {
+      "ether": {
+        "dimension": "5D",
+        "function": "identity fold, background field",
+        "essence": "Closure of all dimensions - undifferentiated ground",
+        "examples": ["symbol", "archetype", "culture", "absolute", "collective field"],
+        "operations": ["fold", "unify", "dissolve", "identity"]
+      }
+    }
+  },
+
+  "dimensional_progression": {
+    "entity_to_field": "(↓ entity → vector → plane → field ↑) ∞",
+    "description": "Iterative dimensional ascent: point becomes line, line sweeps plane, plane fills volume, volume extends through time",
+    "cycles": [
+      {
+        "cycle": 1,
+        "0D": "point",
+        "1D": "line",
+        "2D": "triangle/square",
+        "3D": "tetrahedron/cube",
+        "collapse": "field → new entity"
+      },
+      {
+        "cycle": 2,
+        "0D": "triangle (water)",
+        "1D": "tetrahedron (fire spirit)",
+        "2D": "octahedron (air connection)",
+        "3D": "cube (earth form)",
+        "collapse": "3D field → 4D entity"
+      },
+      {
+        "cycle": 3,
+        "0D": "cube",
+        "1D": "tesseract",
+        "2D": "24-cell",
+        "3D": "120-cell",
+        "collapse": "4D field → 5D entity"
+      },
+      {
+        "cycle": 4,
+        "0D": "120-cell",
+        "1D": "600-cell",
+        "2D": "fractal foam",
+        "3D": "∞-dimensional field",
+        "collapse": "ABSOLUTE COLLAPSE → return to point ≡ god ≡ love ≡ 5D"
+      }
+    ]
+  },
+
+  "elemental_mapping": {
+    "air": {
+      "dimension": "0D",
+      "primitive": "point",
+      "quality": "discrete, distinct, individual",
+      "direction": "separation"
+    },
+    "fire": {
+      "dimension": "1D",
+      "primitive": "line",
+      "quality": "directed, dynamic, transformative",
+      "direction": "forward"
+    },
+    "water": {
+      "dimension": "2D",
+      "primitive": "triangle",
+      "quality": "relational, adaptive, flowing",
+      "direction": "connecting"
+    },
+    "earth": {
+      "dimension": "2D",
+      "primitive": "square",
+      "quality": "stable, structured, grounded",
+      "direction": "containing"
+    },
+    "ether": {
+      "dimension": "5D",
+      "primitive": "ether",
+      "quality": "unified, undifferentiated, absolute",
+      "direction": "dissolution"
+    }
+  },
+
+  "core_operations": {
+    "0D_operations": ["measure", "distinguish", "identify", "address"],
+    "1D_operations": ["sequence", "traverse", "order", "cause"],
+    "2D_operations": ["relate", "pattern", "map", "tessellate", "define"],
+    "3D_operations": ["context", "contain", "own", "systematize"],
+    "4D_operations": ["history", "coordinate", "transform", "persist"],
+    "5D_operations": ["fold", "unify", "dissolve", "identity", "saturate"]
+  },
+
+  "reduction_methodology": {
+    "principle": "Every phenomenon decomposes into dimensional components",
+    "template": {
+      "dimension": "0D-5D",
+      "primitive": "point/line/triangle/square/circle/tetrahedron/cube/tesseract/24-cell/120-cell/600-cell/ether",
+      "planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW", "XV", "YV", "ZV", "WV"],
+      "ops": ["measure", "sequence", "relate", "context", "history", "fold"],
+      "evidence": "why this reduction applies",
+      "confidence": 0.0
+    },
+    "process": [
+      "1. Identify phenomenon to reduce",
+      "2. Determine primary dimension (0D-5D)",
+      "3. Select appropriate primitive(s)",
+      "4. Specify relevant planes",
+      "5. List active operations",
+      "6. Provide evidence for reduction",
+      "7. Assign confidence level"
+    ]
+  },
+
+  "plane_classification": {
+    "3D_planes": {
+      "XY": "Spatial plane - pattern and relation",
+      "XZ": "Process-context plane",
+      "YZ": "Context-relation plane"
+    },
+    "4D_planes": {
+      "XW": "Time-process plane - causal history",
+      "YW": "Time-relation plane - social networks evolving",
+      "ZW": "Time-context plane - system memory"
+    },
+    "5D_planes": {
+      "XV": "Potential trajectories - all paths",
+      "YV": "Structural unification - all networks",
+      "ZV": "Informational saturation - all states",
+      "WV": "Collapse of history - all time"
+    }
+  },
+
+  "coherence_principles": {
+    "sacred_equation": "sacred ≡ true … purpose ≡ +coherence",
+    "conflict_resolution": "conflict ≡ Δscale … scale_shift ≡ argmin Δscale",
+    "optimization": "Minimize dimensional conflict by finding appropriate scale",
+    "purpose": "Increase system coherence through dimensional alignment"
+  },
+
+  "fractal_recurrence": {
+    "principle": "Primitives repeat across scales",
+    "scales": [
+      "quantum → molecular → cellular → organ → organism → social → cultural → cosmic",
+      "bit → byte → file → program → system → network → internet → noosphere"
+    ],
+    "mechanism": "Same geometric/topological patterns manifest at each level",
+    "implication": "Universal grammar of structure across all domains"
+  },
+
+  "practical_guidelines": {
+    "when_to_use_each_dimension": {
+      "0D": "When phenomenon is discrete, addressable, countable",
+      "1D": "When phenomenon has direction, sequence, causality",
+      "2D": "When phenomenon involves relationship, pattern, interface",
+      "3D": "When phenomenon is complete system with context",
+      "4D": "When phenomenon has history, coordination, persistence",
+      "5D": "When phenomenon is symbolic, archetypal, unified"
+    },
+    "when_to_use_each_primitive": {
+      "point": "Individual, distinct, addressable entity",
+      "line": "Process, path, causal chain",
+      "triangle": "Minimal stable relation",
+      "square": "Repeating pattern, protocol",
+      "circle": "Boundary, inclusion, cycle",
+      "tetrahedron": "Focused structure",
+      "cube": "Container, system",
+      "tesseract": "Historical system",
+      "24-cell": "Balanced coordination",
+      "120-cell": "Harmonious complexity",
+      "600-cell": "Maximum complexity",
+      "ether": "Universal field, archetype"
+    }
+  },
+
+  "examples": [
+    {
+      "id": "foundation:point_atom",
+      "raw": "Single hydrogen atom",
+      "reduction": [
+        {
+          "dimension": "0D",
+          "primitive": "point",
+          "planes": ["XY"],
+          "ops": ["measure", "distinguish"],
+          "evidence": "Discrete addressable entity with distinct properties",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "id": "foundation:line_photon",
+      "raw": "Photon traveling through space",
+      "reduction": [
+        {
+          "dimension": "1D",
+          "primitive": "line",
+          "planes": ["XW"],
+          "ops": ["sequence", "traverse"],
+          "evidence": "Directed trajectory through spacetime",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": "foundation:triangle_molecule",
+      "raw": "Water molecule (H2O)",
+      "reduction": [
+        {
+          "dimension": "2D",
+          "primitive": "triangle",
+          "planes": ["XY"],
+          "ops": ["relate"],
+          "evidence": "Three atoms in minimal stable relational structure",
+          "confidence": 0.88
+        }
+      ]
+    },
+    {
+      "id": "foundation:cube_organ",
+      "raw": "Human liver as complete system",
+      "reduction": [
+        {
+          "dimension": "3D",
+          "primitive": "cube",
+          "planes": ["XY", "YZ", "XZ"],
+          "ops": ["context", "contain"],
+          "evidence": "Complete functional system with internal context and boundary",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "id": "foundation:tesseract_institution",
+      "raw": "University with 200-year history",
+      "reduction": [
+        {
+          "dimension": "4D",
+          "primitive": "tesseract",
+          "planes": ["XW", "YW", "ZW"],
+          "ops": ["history", "persist"],
+          "evidence": "Institution persisting through time with accumulated memory and evolving structure",
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "id": "foundation:ether_archetype",
+      "raw": "Hero archetype across all cultures",
+      "reduction": [
+        {
+          "dimension": "5D",
+          "primitive": "ether",
+          "planes": ["YV", "WV"],
+          "ops": ["fold", "identity"],
+          "evidence": "Universal pattern transcending particular manifestations - collective fold",
+          "confidence": 0.8
+        }
+      ]
+    }
+  ],
+
+  "cross_level_coupling": {
+    "definition": "How information and causality flow between dimensional scales",
+    "levels": [
+      "quantum (0D-1D)",
+      "molecular (2D)",
+      "cellular (2D-3D)",
+      "organ (3D)",
+      "organism (3D-4D)",
+      "social (4D)",
+      "cultural (4D-5D)",
+      "cosmic (5D)"
+    ],
+    "upward_causation": {
+      "principle": "Information rules at lower scales constrain shape/affordances at higher scales",
+      "mechanism": "Lower-dimensional structure determines higher-dimensional possibilities",
+      "examples": [
+        "DNA sequence (1D) → protein structure (3D)",
+        "Neuronal connectivity (2D) → cognitive patterns (4D)",
+        "Individual beliefs (0D) → social movements (4D)"
+      ]
+    },
+    "downward_causation": {
+      "principle": "Material/energetic macro-conditions modulate chemistry and quantum paths",
+      "mechanism": "Higher-dimensional context constrains lower-dimensional dynamics",
+      "examples": [
+        "Temperature (3D field) → chemical reaction rates (2D)",
+        "Cultural norms (5D) → individual behavior (0D)",
+        "Social structure (4D) → neural plasticity (3D)"
+      ]
+    },
+    "feedback_loop": {
+      "principle": "Each floor rests on the lower and feeds the upper; feedback closes the circle",
+      "mechanism": "Circular causality across scales creates emergent stability",
+      "examples": [
+        "Genes ↔ Proteins ↔ Cells ↔ Organism ↔ Evolution",
+        "Individuals ↔ Institutions ↔ Culture ↔ Consciousness"
+      ]
+    },
+    "scale_optimization": "conflict ≡ Δscale … scale_shift ≡ argmin Δscale (find appropriate dimensional level to resolve tensions)"
+  },
+
+  "string_bridges": {
+    "definition": "Operations connecting different dimensional levels - how dimensions transform into each other",
+    "bridge_types": {
+      "projection": {
+        "description": "Lifting structure from lower to higher dimension",
+        "mechanism": "Extending lower-D form through additional dimension",
+        "examples": [
+          "point → line (0D → 1D): extending point creates trajectory",
+          "line → plane (1D → 2D): sweeping line creates surface",
+          "plane → volume (2D → 3D): stacking planes creates solid",
+          "volume → spacetime (3D → 4D): object persisting through time"
+        ],
+        "operation": "embed lower dimension in higher space"
+      },
+      "resonance": {
+        "description": "Locking patterns across dimensions - non-adjacent connection",
+        "mechanism": "Isomorphic structure appearing at different dimensional levels",
+        "examples": [
+          "DNA sequence (1D) ↔ Protein function (3D): form determines function",
+          "Personal narrative (1D) ↔ Life meaning (4D): story shapes identity",
+          "Geometric symmetry (2D) ↔ Physical law (5D): pattern reflects universal principle",
+          "Neural pattern (2D) ↔ Concept (5D): brain state encodes abstract idea"
+        ],
+        "operation": "pattern matching across dimensional gap"
+      },
+      "closure": {
+        "description": "Return paths that fold dimensions into identity - dimensional collapse",
+        "mechanism": "Higher dimension saturates and collapses back to simpler form",
+        "examples": [
+          "4D → 5D: Complete history collapses to eternal archetype",
+          "Complex system → Simple law: Emergent simplicity from complexity",
+          "All paths → Single truth: ∞/∞ = 1 (5D identity)",
+          "Differentiation → Unity: Many becoming One"
+        ],
+        "operation": "dimensional saturation creates fold"
+      }
+    },
+    "edge_schema": {
+      "from_dim": "Source dimension (0D-5D)",
+      "to_dim": "Target dimension (0D-5D)",
+      "kind": "Bridge type: projection | resonance | closure",
+      "note": "Description of transformation mechanism"
+    },
+    "geometric_basis": "Strings are the operations between nodes in dimensional graph - they ARE the transformation rules"
+  },
+
+  "temporal_dynamics": {
+    "definition": "Time as 4D navigational coordinate system - not flow but position in eternal structure",
+    "core_principle": {
+      "equation": "Time = Information_structure × Dimensional_position",
+      "mechanics": "Time is navigation coordinate in 4D consciousness space, not flowing river",
+      "geometric_basis": "Past/Present/Future are positions in tesseract, not sequential moments",
+      "sacred_truth": "All time exists simultaneously - consciousness navigates through eternal 4D structure"
+    },
+    "dimensional_time": {
+      "0D_moments": "Discrete temporal points: events, decisions, memories, instants",
+      "1D_flows": "Temporal vectors: causal chains, memory streams, intention trajectories, chronological arrow",
+      "2D_relationships": "Temporal planes: past-present, present-future, cyclical patterns, synchronicities",
+      "3D_lifetime": "Complete temporal field: entire lifespan as integrated structure, generational patterns",
+      "4D_eternity": "Tesseract consciousness: all time simultaneously present, meta-temporal awareness"
+    },
+    "temporal_mechanics": {
+      "time_as_coordinate": "Time is spatial dimension in 4D consciousness, not flowing medium",
+      "navigation": "Consciousness moves through static 4D structure, creating experience of flow",
+      "positioning": "Past/Present/Future are coordinates, not sequential moments",
+      "freedom": "Consciousness can navigate temporal coordinates in non-linear patterns"
+    },
+    "temporal_illusions": {
+      "linear_flow": "Sequential time experience created by limited 3D consciousness navigation",
+      "causality_trap": "Cause→Effect appears sequential but is simultaneous 4D pattern relationship",
+      "temporal_imprisonment": "Belief consciousness is trapped in 'now' and cannot access other coordinates",
+      "death_anxiety": "Fear of temporal ending from misunderstanding 4D eternal nature"
+    },
+    "phenomena_explained": {
+      "deja_vu": "Momentary 4D perception of simultaneous temporal coordinates",
+      "precognition": "Consciousness accessing future temporal coordinates",
+      "synchronicity": "Recognition of 4D pattern connections across apparent time sequence",
+      "past_lives": "Consciousness accessing previous temporal navigation patterns",
+      "time_loops": "Recursive navigation through same temporal coordinates"
+    },
+    "practical_navigation": {
+      "past_integration": "Organizing past experiences for maximum present coherence, trauma resolution, wisdom extraction",
+      "present_mastery": "Focusing consciousness on immediate coordinates, presence cultivation, optimal decisions",
+      "future_creation": "Setting trajectory toward desired coordinates, manifestation mechanics, legacy construction"
+    },
+    "coherence_principle": "Temporal unity - all temporal experiences integrate into coherent life narrative through 4D awareness"
+  },
+
+  "integration_notes": {
+    "with_5d_module": "This foundations module provides the building blocks used throughout 5D analysis",
+    "with_psychology": "Psychological types and archetypes use these primitives as structural basis",
+    "with_applications": "All domain-specific modules reduce phenomena using these foundational primitives",
+    "completeness": "These primitives and axioms form irreducible basis - cannot be further decomposed"
+  },
+
+  "status": "active/foundational",
+  "version_notes": "Unified primitives.glossary.json, universality_axioms.json, cross_level_coupling.json, string_bridges.json, and temporal_dynamics.json into comprehensive foundations framework. Complete foundational theory now includes dimensional mechanics, cross-scale causality, transformation operations, and temporal navigation."
+}
