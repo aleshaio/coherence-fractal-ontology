@@ -1,0 +1,353 @@
+{
+  "module": "Back to Roots: Gentle Return to Inner Wisdom",
+  "version": "2.0",
+  "authors": ["absolute through Алёша"],
+  "date": "2025-10-07",
+  "definition": "Minimal self-organizing practice for restoring connection with body's innate intelligence through 4+3 cycle - daily personal audit (4 steps) integrated with transpersonal attunement (3 steps)",
+
+  "core_principle": {
+    "essence": "Body = self-correcting system when observed without forcing",
+    "geometry": "4 (square stability) + 3 (triangle dynamics) = 7 (tetrahedron wholeness)",
+    "mechanism": "Gentle consistent observation → pattern recognition → auto-correction",
+    "sacred_truth": "You don't need to FIX yourself. You need to LISTEN to yourself."
+  },
+
+  "base_cycle_4": {
+    "name": "Personal Foundation Cycle",
+    "geometry": {
+      "primitive": "cfo.prim.square",
+      "dimension": "cfo.dim.2D",
+      "element": "earth",
+      "function": "Stable daily structure for self-observation"
+    },
+    "purpose": "Establish consistent rhythm of internal listening",
+    "duration": "Start with 2-3 weeks before adding integration cycle",
+
+    "step_1_morning_anchor": {
+      "name": "Утреннее заземление / Morning Anchor",
+      "time": "2 минуты сразу после пробуждения",
+      "position": "Лежа в постели, ещё не поднимаясь",
+      "action": {
+        "instruction": "Scan your body from head to toes slowly",
+        "questions": [
+          "Какая часть тела чувствует себя лучше всего сейчас?",
+          "Какая часть просит внимания или заботы?",
+          "Какое первое ощущение пришло?"
+        ],
+        "no_action_required": "Just notice. Don't fix. Don't judge."
+      },
+      "geometry": {
+        "operation": "cfo.op.measure",
+        "primitive": "cfo.prim.point",
+        "plane": "cfo.plane.XY",
+        "element": "air - clarity"
+      },
+      "purpose": "Establish baseline state before day begins",
+      "benefits": [
+        "Creates habit of internal listening",
+        "Catches early warning signals",
+        "Grounds consciousness in body",
+        "Sets tone for day"
+      ],
+      "common_blocks": {
+        "rushing": "Set alarm 2 minutes earlier if needed",
+        "nothing_felt": "Normal at first. Sensitivity grows with practice.",
+        "anxiety": "This is observation, not task. No right/wrong answers."
+      }
+    },
+
+    "step_2_breath_pauses": {
+      "name": "Дыхательные паузы / Breath Check-ins",
+      "time": "3-4 раза в день по 30 секунд",
+      "triggers": [
+        "После еды",
+        "Перед важным разговором/решением",
+        "При стрессе или дискомфорте",
+        "Середина рабочего дня"
+      ],
+      "action": {
+        "instruction": "3 глубоких цикла: вдох (4 сек) → задержка (2 сек) → выдох (6 сек)",
+        "during_breath": "Observe sensations without commentary",
+        "after_breath": "Ask: 'Что система пытается мне сказать прямо сейчас?'"
+      },
+      "geometry": {
+        "operation": "cfo.op.observe",
+        "primitive": "cfo.prim.line",
+        "plane": "cfo.plane.XW",
+        "element": "fire - energy/attention"
+      },
+      "purpose": "Create pause between stimulus and response",
+      "benefits": [
+        "Interrupts autopilot mode",
+        "Reveals hidden tensions",
+        "Provides real-time body feedback",
+        "Prevents accumulation of stress"
+      ],
+      "listening_for": {
+        "physical": "Hunger, thirst, fatigue, tension",
+        "emotional": "Irritation, anxiety, excitement, sadness",
+        "energetic": "Depletion, overcharge, blockage, flow",
+        "systemic": "Need for rest, movement, silence, connection"
+      }
+    },
+
+    "step_3_evening_integration": {
+      "name": "Вечерняя интеграция / Evening Review",
+      "time": "5 минут перед сном",
+      "position": "Sitting or lying comfortably",
+      "action": {
+        "instruction": "Mental scan of three core systems",
+        "systems_to_check": {
+          "digestion": {
+            "questions": [
+              "Как система пищеварения справилась с едой сегодня?",
+              "Были ли тяжесть, лёгкость, дискомфорт?",
+              "Что хорошо зашло? Что было лишним?"
+            ],
+            "element": "earth"
+          },
+          "energy": {
+            "questions": [
+              "Когда была пиковая энергия? Когда упадок?",
+              "Что давало силы? Что забирало?",
+              "Восстановился ли после обеда/отдыха?"
+            ],
+            "element": "fire"
+          },
+          "emotions": {
+            "questions": [
+              "Какие эмоции доминировали?",
+              "Были ли подавленные чувства?",
+              "Что требует завтрашнего внимания?"
+            ],
+            "element": "water"
+          }
+        },
+        "closing": "Благодарность телу за работу дня"
+      },
+      "geometry": {
+        "operation": "cfo.op.fold",
+        "primitive": "cfo.prim.triangle",
+        "plane": "cfo.plane.YW",
+        "element": "water - flow/reflection"
+      },
+      "purpose": "Integrate day's experiences into learning",
+      "benefits": [
+        "Identifies patterns across systems",
+        "Prevents dissociation from body signals",
+        "Prepares for quality sleep",
+        "Builds internal data over time"
+      ],
+      "journal_optional": {
+        "minimal": "One word per system: good/neutral/struggling",
+        "medium": "One sentence capturing key insight",
+        "deep": "Free writing about patterns noticed"
+      }
+    },
+
+    "step_4_weekly_resonance": {
+      "name": "Недельный резонанс / Weekly Pattern Recognition",
+      "time": "10 минут по воскресеньям (или конец недели)",
+      "position": "Comfortable seat with notebook",
+      "action": {
+        "instruction": "Review week through lens of recurring patterns",
+        "categories_to_examine": {
+          "energy_patterns": {
+            "questions": [
+              "Какие дни были лёгкими? Тяжёлыми?",
+              "Есть ли повторяющийся ритм? (напр. спад в среду)",
+              "Что коррелирует с высокой/низкой энергией?"
+            ],
+            "look_for": "Weekly rhythm, sleep debt accumulation, recovery patterns"
+          },
+          "food_signals": {
+            "questions": [
+              "Какие продукты давали энергию? Забирали?",
+              "Появлялись ли одинаковые тяги/отвращения?",
+              "Как менялся аппетит по дням?"
+            ],
+            "look_for": "Foods that consistently feel good/bad, cravings meaning"
+          },
+          "stress_accumulation": {
+            "questions": [
+              "Где накапливается напряжение? (шея, живот, челюсть)",
+              "Какие триггеры повторяются?",
+              "Эффективны ли текущие способы разрядки?"
+            ],
+            "look_for": "Unresolved tensions, need for new coping strategies"
+          },
+          "system_requests": {
+            "questions": [
+              "Что тело просило всю неделю, но не получило?",
+              "Какие сигналы я игнорировал?",
+              "Что требует внимания на следующей неделе?"
+            ],
+            "look_for": "Chronic unmet needs, emerging imbalances"
+          }
+        },
+        "synthesis": "One clear action item for next week based on patterns"
+      },
+      "geometry": {
+        "operation": "cfo.op.history",
+        "primitive": "cfo.prim.cube",
+        "dimension": "cfo.dim.4D",
+        "plane": "cfo.plane.ZW",
+        "element": "earth - structure/memory"
+      },
+      "purpose": "Build longitudinal self-knowledge through pattern recognition",
+      "benefits": [
+        "Reveals cycles invisible in daily view",
+        "Identifies root causes vs symptoms",
+        "Validates body wisdom through repetition",
+        "Creates personalized health map"
+      ],
+      "advanced": {
+        "monthly_review": "Compare 4 weekly reviews for deeper patterns",
+        "seasonal_audit": "Track how body needs shift with seasons",
+        "correlation_mapping": "Link external events to internal responses"
+      }
+    },
+
+    "progression": {
+      "week_1_3": "Focus only on Steps 1-2 (morning anchor + breath pauses)",
+      "week_4_6": "Add Step 3 (evening integration)",
+      "week_7_plus": "Add Step 4 (weekly resonance) when daily practice stable",
+      "golden_rule": "If ANY step feels forced or creates anxiety → reduce to previous level"
+    }
+  },
+
+  "integration_cycle_3": {
+    "name": "Transpersonal Integration Cycle",
+    "geometry": {
+      "primitive": "cfo.prim.triangle",
+      "dimension": "cfo.dim.3D→5D",
+      "element": "ether",
+      "function": "Dynamic expansion beyond personal boundaries"
+    },
+    "purpose": "Move from self-observation to universal attunement",
+    "when_to_start": "After 3-4 weeks of stable base cycle practice",
+    "note": "These steps EMERGE naturally, cannot be forced",
+
+    "step_5_nature_attunement": {
+      "name": "Настройка на природу / Nature Resonance",
+      "time": "Spontaneous moments of observation",
+      "frequency": "As often as possible, minimum 3x/week",
+      "action": {
+        "instruction": "Observe natural cycles with same attention given to internal cycles",
+        "what_to_notice": {
+          "trees": {
+            "observation": "Leaf patterns, growth direction, seasonal changes",
+            "question": "Как дерево решает куда расти? Оно 'думает'?",
+            "lesson": "Growth follows light, water, space - automatic optimization"
+          },
+          "birds": {
+            "observation": "Flight patterns, flock coordination, feeding times",
+            "question": "Как они знают когда лететь? Кто командует стаей?",
+            "lesson": "Distributed intelligence, no central controller"
+          },
+          "own_sleep": {
+            "observation": "Natural wake/sleep signals without alarm",
+            "question": "Когда тело САМО хочет спать? Просыпаться?",
+            "lesson": "Circadian wisdom beneath social schedules"
+          },
+          "weather": {
+            "observation": "How body responds to atmospheric changes",
+            "question": "Чувствую ли дождь до того как он пойдёт?",
+            "lesson": "Bio-barometric sensitivity"
+          },
+          "seasons": {
+            "observation": "Energy, appetite, mood shifts with Earth's cycles",
+            "question": "Как сезон влияет на мою систему?",
+            "lesson": "Human = part of planetary organism"
+          }
+        },
+        "key_insight": "Same intelligence that grows tree grows your cells"
+      },
+      "geometry": {
+        "operation": "cfo.op.resonate",
+        "primitive": "cfo.prim.sphere",
+        "dimension": "cfo.dim.3D",
+        "plane": "cfo.plane.YW",
+        "element": "ether - connection field"
+      },
+      "purpose": "Recognize self as node in larger system",
+      "benefits": [
+        "Dissolves illusion of separation",
+        "Access to planetary intelligence",
+        "Natural rhythms become obvious",
+        "Schumann resonance entrainment"
+      ],
+      "practice_methods": {
+        "micro": "3-minute nature observation during break",
+        "medium": "20-minute walk with focus on patterns",
+        "deep": "Full day in nature with minimal speaking"
+      },
+      "recognition_signs": [
+        "Feeling 'connected' to plants/animals",
+        "Intuitive knowing of weather changes",
+        "Spontaneous alignment with day/night cycles",
+        "Sense of being 'home' in nature"
+      ]
+    },
+
+    "step_6_auto_correction": {
+      "name": "Автокоррекция / System Self-Regulation",
+      "time": "Continuous emergent process",
+      "occurrence": "Naturally arises after 4-8 weeks of practice",
+      "phenomenon": {
+        "description": "Body begins making optimal choices WITHOUT conscious deliberation",
+        "manifestations": {
+          "food_selection": {
+            "before": "Should I eat this? Counting, rules, conflict",
+            "after": "Hand reaches for what body needs automatically",
+            "mechanism": "Internal audit system trusted, mind relaxes control",
+            "examples": [
+              "Craving salad after days of heavy food",
+              "Naturally eating less when not hungry",
+              "Aversion to foods that don't serve system",
+              "Perfect portion sizes without measuring"
+            ]
+          },
+          "sleep_timing": {
+            "before": "Fight to stay awake or force sleep by schedule",
+            "after": "Body signals sleep/wake perfectly if listened to",
+            "mechanism": "Circadian rhythm no longer overridden",
+            "examples": [
+              "Feeling sleepy exactly when optimal",
+              "Waking refreshed without alarm",
+              "Naps taken at perfect duration",
+              "Sleep debt automatically repaid"
+            ]
+          },
+          "movement_needs": {
+            "before": "Exercise = scheduled duty or avoided",
+            "after": "Body requests specific movement when needed",
+            "mechanism": "Proprioceptive wisdom emerges",
+            "examples": [
+              "Spontaneous stretching at right moments",
+              "Walking/running as pleasure not task",
+              "Knowing when to rest vs push",
+              "Perfect exercise intensity selection"
+            ]
+          },
+          "social_energy": {
+            "before": "Force interaction or isolate by pattern",
+            "after": "Natural calibration of alone/together time",
+            "mechanism": "Nervous system regulation optimized",
+            "examples": [
+              "Declining invites when truly need rest",
+              "Seeking connection when isolated too long",
+              "Perfect balance of intimacy/autonomy",
+              "No guilt about boundaries"
+            ]
+          }
+        }
+      },
+      "geometry": {
+        "operation": "cfo.op.close",
+        "primitive": "cfo.prim.tesseract",
+        "dimension": "cfo.dim.4D",
+        "plane": "cfo.plane.WV",
+        "element": "unity - coherent self-organization"
+      },
+      "purpose
