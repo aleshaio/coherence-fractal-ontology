@@ -253,7 +253,6 @@ MIT License + Civic Pledge
 @software{coherence_fractal_ontology,
   author = {absolute through äлёша},
   title = {Coherence Fractal Ontology: Universal Geometric Framework of Reality},
-  year = {2025},
   version = {2.1},
   url = {https://github.com/[repository-url]}
 }
