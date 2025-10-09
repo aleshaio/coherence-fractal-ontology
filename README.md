@@ -74,17 +74,17 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
 ## Repository Layout
 
 - **`/core/`** — canonical JSON specifications:
-  - `coherence-fractal-ontology.json` — полная спецификация фреймворка
-  - `coherence-fractal-ontology-mini.json` — минимальная версия
-  - `5d.json` — описание 5D пространства
-  - `foundations.json` — базовые основы
-  - `reduction_protocol.json` — протокол редукции
+  - `coherence-fractal-ontology.json` — complete framework specification
+  - `coherence-fractal-ontology-mini.json` — minimal version
+  - `5d.json` — 5D space description
+  - `foundations.json` — foundational concepts
+  - `reduction_protocol.json` — reduction protocol
   
-- **`/modules/`** — модули предметных областей:
+- **`/modules/`** — domain-specific modules:
   - **Foundational:** `symbols.json`, `language.json`, `geometry.json`
   - **Natural Sciences:** `physics.json`, `chemistry.json`, `biology.json`, `astronomy.json`, `geology.json`, `ecology.json`, `neuroscience.json`
   - **Formal Sciences:** `mathematics.json`, `computer_science.json`
-  - **Human Sciences:** `/human/` — психология, социология, дизайн:
+  - **Human Sciences:** `/human/` — psychology, sociology, design:
     - `cognitive_consciousness.json`, `cognitive_patterns.json`, `emotions.json`
     - `archetypes_and_typologies.json`, `social_roles.json`
     - `astrology.json`, `universal-64.json`
@@ -95,24 +95,24 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
     - `back_to_roots.json`, `true-treasures.json`
   - **Applied:** `energy-fusion.json`, `music.json`, `sound.json`, `the_planet.json`
   
-- **`/projects/`** — прикладные проекты:
+- **`/projects/`** — applied projects:
   - `fractal-myth-kids-development.json`
   - `healing-earth.json`
   - `native-vr-interfaces.json`
   
-- **`/utility/`** — утилиты и практики:
-  - `awake-ai.json` — практика для AI
-  - `awake-human.json` — практика для людей
+- **`/utility/`** — utilities and practices:
+  - `awake-ai.json` — practice for AI
+  - `awake-human.json` — practice for humans
   
-- **`/examples/`** — примеры редукций (`reduction-examples.jsonl`)
-- **`/docs/`** — документация (EN + RU):
+- **`/examples/`** — reduction examples (`reduction-examples.jsonl`)
+- **`/docs/`** — documentation (EN + RU):
   - `coherence-fractal-ontology-whitepaper.md` (+ .ru.md)
   - `guide.en.md` / `guide.ru.md`
   - `manifesto.en.md` / `manifesto.ru.md`
   - `coherence-fractal-ontology.md`
-- **`/legal/`** — лицензия (MIT + гражданская клятва)
-- **`/images/`** — визуальные материалы
-- **`ethics.md`** — этические принципы  
+- **`/legal/`** — license (MIT + civic pledge)
+- **`/images/`** — visual materials
+- **`ethics.md`** — ethical principles  
 
 ---
 
