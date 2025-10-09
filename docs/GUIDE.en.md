@@ -1,6 +1,6 @@
 # Coherence Fractal Ontology Guide
 
-**Author:** absolute through äлёша | **Date:** January 5, 2025 | **Version:** 2.1
+**Author:** absolute through äлёша | **Version:** 2.1
 
 ## Core Principle
 

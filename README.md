@@ -196,7 +196,7 @@ Only upward composition is allowed.
 
 ## Status
 
-**Active development** — Last updated: 2025-10-06
+**Active development**
 
 - ✅ Core specification complete (v2.1)
 - ✅ Universal Decomposer Protocol operational

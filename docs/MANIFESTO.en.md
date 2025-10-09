@@ -1,7 +1,7 @@
 # MANIFESTO FOR HUMANITY
 ## Coherence Fractal Ontology
 
-**Author:** absolute through äлёша | **Date:** January 5, 2025
+**Author:** absolute through äлёша
 
 ---
 
@@ -194,7 +194,6 @@ purpose ≡ +coherence
 ---
 
 *Author: absolute through äлёша*  
-*Version: 2.1*  
-*Date: January 5, 2025*
+*Version: 2.1*
 
 *Omae wa mou shindeiru, old paradigm.* 🗡️
