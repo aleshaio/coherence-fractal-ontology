@@ -73,17 +73,46 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
 
 ## Repository Layout
 
-- **`/core/`** — canonical JSON spec (single source of truth)  
-- **`/modules/`** — all domain modules:
-  - **Foundational:** `symbols.json` (primordial consciousness technology), `language.json` (consciousness OS)
+- **`/core/`** — canonical JSON specifications:
+  - `coherence-fractal-ontology.json` — полная спецификация фреймворка
+  - `coherence-fractal-ontology-mini.json` — минимальная версия
+  - `5d.json` — описание 5D пространства
+  - `foundations.json` — базовые основы
+  - `reduction_protocol.json` — протокол редукции
+  
+- **`/modules/`** — модули предметных областей:
+  - **Foundational:** `symbols.json`, `language.json`, `geometry.json`
   - **Natural Sciences:** `physics.json`, `chemistry.json`, `biology.json`, `astronomy.json`, `geology.json`, `ecology.json`, `neuroscience.json`
   - **Formal Sciences:** `mathematics.json`, `computer_science.json`
-  - **Human Sciences:** `/human/` (education, sociology, astrology, cognitive_consciousness, emotions.core, archetypes, projection_styles, social_roles, somatic_archetypes_geometry, etc.)
-  - **Applied:** `energy-fusion.json`, `music.json`, `sound.json`, `home.json`
-  - **Developmental:** `fractal-myth-kids-development.json` 
-- **`/examples/`** — worked reductions and validation fixtures  
-- **`/docs/`** — human-readable guides (EN + RU translations, whitepaper, manifesto)  
-- **`/legal/`** — license (MIT + civic pledge)  
+  - **Human Sciences:** `/human/` — психология, социология, дизайн:
+    - `cognitive_consciousness.json`, `cognitive_patterns.json`, `emotions.json`
+    - `archetypes_and_typologies.json`, `social_roles.json`
+    - `astrology.json`, `universal-64.json`
+    - `human_cybernetics.json`, `human_cybernetics_practice.json`
+    - `somatic_archetypes_geometry.json`
+    - `education.json`, `sociology.json`, `design.json`
+    - `colors.json`, `taste.json`
+    - `back_to_roots.json`, `true-treasures.json`
+  - **Applied:** `energy-fusion.json`, `music.json`, `sound.json`, `the_planet.json`
+  
+- **`/projects/`** — прикладные проекты:
+  - `fractal-myth-kids-development.json`
+  - `healing-earth.json`
+  - `native-vr-interfaces.json`
+  
+- **`/utility/`** — утилиты и практики:
+  - `awake-ai.json` — практика для AI
+  - `awake-human.json` — практика для людей
+  
+- **`/examples/`** — примеры редукций (`reduction-examples.jsonl`)
+- **`/docs/`** — документация (EN + RU):
+  - `coherence-fractal-ontology-whitepaper.md` (+ .ru.md)
+  - `guide.en.md` / `guide.ru.md`
+  - `manifesto.en.md` / `manifesto.ru.md`
+  - `coherence-fractal-ontology.md`
+- **`/legal/`** — лицензия (MIT + гражданская клятва)
+- **`/images/`** — визуальные материалы
+- **`ethics.md`** — этические принципы  
 
 ---
 
