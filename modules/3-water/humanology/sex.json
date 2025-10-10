@@ -1,0 +1,515 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Sexuality as psychological and relational phenomenon"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "Sex = recognition of point in other through body. Physical love."
+  },
+
+  "module": {
+    "id": "urn:cfo:module:humanology:sex",
+    "version": "1.0.0",
+    "domain": "humanology",
+    "name": "sex",
+    "title": "Sexuality and Sexual Behavior",
+    "description": "Sexuality as psychological, relational, and embodied phenomenon. Desire, attraction, intimacy, roles, compatibility. From drive to transcendence.",
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "stable",
+      "tags": ["sex", "sexuality", "desire", "attraction", "intimacy", "body", "love", "pleasure"]
+    }
+  },
+
+  "essence": {
+    "geometric": "Sex = two points attempting to merge. • + • → ••. Union at physical level seeking unity at all levels.",
+    "topological": "Sex = connection between bodies creating shared space. Boundary dissolution. Inside/outside blur.",
+    "functional": "Sex = biological reproduction mechanism elevated to psychological intimacy and spiritual union. Multi-level coherence building.",
+    "consciousness": "Sex = body's way of recognizing other body as point. Physical manifestation of love. Matter meeting matter."
+  },
+
+  "core_thesis": {
+    "principle": "sex ≡ embodied recognition of point",
+    "not_just_biology": "Sex = biological drive + psychological intimacy + relational bonding + spiritual union. Multi-dimensional.",
+    "desire_as_coherence": "Sexual desire = attraction toward +coherence. Body recognizes compatible pattern.",
+    "roles_and_compatibility": "Sexual roles (dominant/submissive, giving/receiving) = complementary patterns. Harmony when roles match.",
+    "from_drive_to_transcendence": "Sex ranges from pure physical release (0D-1D) to spiritual union (5D). Same act, different dimensions.",
+    "sacred_sexuality": "At highest level: sex = sacred act. Two points recognizing shared source. Tantra, sacred union."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:sex:arousal",
+      "concept": "Sexual arousal (physiological)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["ignite", "excite", "respond"],
+      "evidence": "Physical sexual response. Increased blood flow, sensitivity, lubrication, erection. Body preparing for sex. Point-level activation.",
+      "confidence": 0.96,
+      "examples": [
+        "Genital arousal",
+        "Increased heart rate",
+        "Pupil dilation",
+        "Skin flushing"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:sex:desire"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:desire",
+      "concept": "Sexual desire (libido)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY", "XW"],
+      "ops": ["want", "crave", "pursue"],
+      "evidence": "Psychological wanting. Drive toward sexual activity. Directed attraction. 1D vector pointing toward object of desire.",
+      "confidence": 0.94,
+      "examples": [
+        "Lust",
+        "Craving for partner",
+        "Sexual fantasies",
+        "Drive to initiate"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:sex:arousal"],
+        "composes_to": ["urn:cfo:red:sex:attraction"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:attraction",
+      "concept": "Sexual attraction (chemistry)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ"],
+      "ops": ["attract", "match", "resonate"],
+      "evidence": "Mutual pull between individuals. Chemistry, spark, resonance. 2D field between bodies. Pheromones, appearance, energy.",
+      "confidence": 0.92,
+      "examples": [
+        "Chemistry between partners",
+        "Physical attraction",
+        "Sexual magnetism",
+        "Love at first sight (sexual component)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:sex:desire"],
+        "related": ["urn:cfo:red:love:romantic"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:intercourse",
+      "concept": "Sexual intercourse (act)",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["penetrate", "merge", "unite"],
+      "evidence": "Physical sexual union. Bodies connecting in 3D space. Penetration, friction, rhythm. Mechanical and energetic exchange.",
+      "confidence": 0.97,
+      "examples": [
+        "Penis-vagina intercourse",
+        "Oral sex",
+        "Anal sex",
+        "Manual stimulation"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:sex:orgasm", "urn:cfo:red:body:physical"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:orgasm",
+      "concept": "Orgasm (climax)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["release", "explode", "collapse"],
+      "evidence": "Peak sexual experience. Tension building then sudden release. Rhythmic contractions, intense pleasure, ego dissolution. Point collapsing.",
+      "confidence": 0.95,
+      "examples": [
+        "Male ejaculation",
+        "Female orgasm",
+        "Multiple orgasms",
+        "Full-body orgasm"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:sex:intercourse", "urn:cfo:red:pleasure:peak"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:intimacy",
+      "concept": "Sexual intimacy (bonding)",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["bond", "trust", "open"],
+      "evidence": "Deep connection through sex. Vulnerability, trust, emotional opening. Sex as relationship deepening over time. 4D bond.",
+      "confidence": 0.90,
+      "examples": [
+        "Making love (vs just sex)",
+        "Eye contact during sex",
+        "Post-coital bonding",
+        "Sexual trust building"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:love:intimate", "urn:cfo:red:relationship:depth"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:roles",
+      "concept": "Sexual roles (dominance/submission)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ"],
+      "ops": ["dominate", "submit", "complement"],
+      "evidence": "Power dynamics in sex. Dominant/submissive, active/passive, giving/receiving. Complementary roles creating tension and harmony.",
+      "confidence": 0.88,
+      "examples": [
+        "Dominant partner",
+        "Submissive partner",
+        "Switch (both roles)",
+        "BDSM dynamics"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:power:dynamics", "urn:cfo:red:sex:bdsm"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:bdsm",
+      "concept": "BDSM (kink)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "fire",
+      "planes": ["XY", "XZ"],
+      "ops": ["control", "surrender", "play"],
+      "evidence": "Bondage, discipline, dominance, submission, sadism, masochism. Consensual power exchange. Erotic play with control, pain, sensation.",
+      "confidence": 0.86,
+      "examples": [
+        "Bondage/restraint",
+        "Impact play (spanking)",
+        "Dominance/submission",
+        "Sensation play"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:sex:roles", "urn:cfo:red:psychology:pain_pleasure"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:orientation",
+      "concept": "Sexual orientation",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "air",
+      "planes": ["XY"],
+      "ops": ["orient", "prefer", "direct"],
+      "evidence": "Direction of sexual attraction. Heterosexual, homosexual, bisexual, asexual, pansexual. 1D vector of attraction toward gender(s).",
+      "confidence": 0.93,
+      "examples": [
+        "Heterosexual (opposite sex)",
+        "Homosexual (same sex)",
+        "Bisexual (both sexes)",
+        "Asexual (no sexual attraction)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:gender:identity", "urn:cfo:red:sex:attraction"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:tantric",
+      "concept": "Tantric/sacred sex",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether",
+      "planes": ["WV"],
+      "ops": ["unite", "transcend", "merge"],
+      "evidence": "Sex as spiritual practice. Prolonged arousal without orgasm, energy circulation, dissolution of boundaries. Union with divine through body.",
+      "confidence": 0.82,
+      "examples": [
+        "Tantric practices",
+        "Karezza (coitus reservatus)",
+        "Sacred sexuality rituals",
+        "Cosmic orgasm"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:spirituality:union", "urn:cfo:red:sex:intimacy"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:dysfunction",
+      "concept": "Sexual dysfunction",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XY"],
+      "ops": ["block", "fail", "inhibit"],
+      "evidence": "Impairment of sexual function. Erectile dysfunction, anorgasmia, low libido, pain. Coherence breakdown at sexual level.",
+      "confidence": 0.91,
+      "examples": [
+        "Erectile dysfunction",
+        "Female sexual arousal disorder",
+        "Premature ejaculation",
+        "Vaginismus"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:psychology:anxiety", "urn:cfo:red:body:health"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sex:fetish",
+      "concept": "Sexual fetish (paraphilia)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["fixate", "focus", "require"],
+      "evidence": "Sexual arousal linked to specific object, body part, or scenario. Narrow 1D channel of desire. Feet, latex, roleplay, etc.",
+      "confidence": 0.87,
+      "examples": [
+        "Foot fetish",
+        "Latex/leather",
+        "Roleplay scenarios",
+        "Specific body parts"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:sex:desire", "urn:cfo:red:psychology:conditioning"]
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Sexual patterns repeat across scales: individual arousal → paired intercourse → group sex → cultural sexuality → species reproduction. Same drive, different expressions.",
+    
+    "recursion": {
+      "arousal": "Excitement building (↑)",
+      "plateau": "Sustained arousal (—)",
+      "orgasm": "Peak and release (↑↓)",
+      "resolution": "Return to baseline (↓)",
+      "cycle": "(↑ arousal → plateau → orgasm → resolution ↓) ∞"
+    },
+    
+    "emergence": {
+      "from_0D": "Individual arousal, orgasm",
+      "to_1D": "Desire directed at other",
+      "to_2D": "Mutual attraction, chemistry",
+      "to_3D": "Physical union, intercourse",
+      "to_4D": "Bonding over time, intimacy",
+      "to_5D": "Sacred union, spiritual sex"
+    },
+    
+    "composition": {
+      "biological": "Hormones → arousal → intercourse → orgasm → bonding (oxytocin)",
+      "psychological": "Desire → fantasy → initiation → satisfaction → attachment",
+      "relational": "Attraction → courtship → intimacy → commitment",
+      "spiritual": "Recognition → union → transcendence",
+      "fractal": "Each level contains and expresses sexuality appropriate to its dimension"
+    }
+  },
+
+  "sexual_roles_and_compatibility": {
+    "four_archetypes": {
+      "aggressor": {
+        "description": "Dominant, conquering, taking. Wants to pursue and overcome resistance.",
+        "energy": "Active, assertive, controlling",
+        "compatible_with": "Victim",
+        "examples": ["Hunter", "Conqueror", "Leader in bed"]
+      },
+      "victim": {
+        "description": "Provocative, challenging, surrendering. Wants to be pursued and taken.",
+        "energy": "Resistant but yielding, testing, provoking",
+        "compatible_with": "Aggressor",
+        "examples": ["Prey", "Tease", "Hard to get"]
+      },
+      "caregiver": {
+        "description": "Giving, nurturing, attentive. Wants to please and satisfy partner.",
+        "energy": "Service-oriented, responsive, generous",
+        "compatible_with": "Infantile",
+        "examples": ["Giver", "Pleaser", "Attentive lover"]
+      },
+      "infantile": {
+        "description": "Receiving, playful, demanding. Wants to be pampered and have whims satisfied.",
+        "energy": "Passive, expectant, experimental",
+        "compatible_with": "Caregiver",
+        "examples": ["Receiver", "Princess/Prince", "Spoiled one"]
+      }
+    },
+    
+    "compatible_pairs": {
+      "aggressor_victim": "Classic erotic tension. Chase and capture. Power play. Passionate and intense.",
+      "caregiver_infantile": "Nurturing dynamic. One gives, one receives. Warm and experimental."
+    },
+    
+    "incompatible_combinations": {
+      "aggressor_caregiver": "Aggressor wants to conquer, caregiver wants dialogue. Mismatch of approach.",
+      "aggressor_infantile": "Aggressor overpowers, infantile feels violated. No consent match.",
+      "victim_caregiver": "Victim provokes, caregiver tries to please. Victim sees weakness, caregiver sees impossibility.",
+      "victim_infantile": "Victim provokes, infantile can't maintain aggressor role. Both dissatisfied.",
+      "two_aggressors": "Both want to conquer. Mechanical sex without surrender.",
+      "two_victims": "Both wait to be pursued. Nothing happens or mutual frustration.",
+      "two_caregivers": "Both want to give. Nobody wants what they offer.",
+      "two_infantiles": "Both want to receive. Who will give?"
+    }
+  },
+
+  "key_insights": {
+    "sex_is_multilevel": "Same act operates at multiple dimensions: physical pleasure (0D-3D), emotional bonding (4D), spiritual union (5D).",
+    
+    "compatibility_is_real": "Sexual roles are real. Aggressor-victim and caregiver-infantile pairs work. Others struggle.",
+    
+    "desire_is_coherence_signal": "We desire what our system recognizes as coherent. Chemistry = pattern match recognition.",
+    
+    "orgasm_is_ego_death": "Brief ego dissolution. Subject-object boundary collapses. Taste of unity.",
+    
+    "sex_bonds_through_oxytocin": "Biochemically: sex releases oxytocin → bonding. Casual sex bonds you whether you want or not.",
+    
+    "sacred_sex_possible": "Tantra not myth. With practice, sex becomes meditation, union, transcendence. 5D sex.",
+    
+    "dysfunction_is_coherence_loss": "Sexual problems = breakdown somewhere: anxiety (psychological), trauma (emotional), medical (physical).",
+    
+    "fetishes_are_wiring": "Sexual preferences often set in adolescence. Not chosen, discovered. Neural pathways.",
+    
+    "orientation_innate": "Sexual orientation not choice. Biological + early development. Conversion therapy fails.",
+    
+    "intimacy_requires_vulnerability": "Deep sexual connection requires emotional openness. Can't have sacred sex with walls up."
+  },
+
+  "practical_applications": {
+    "relationships": {
+      "know_your_role": "Understand your sexual archetype. Are you aggressor, victim, caregiver, or infantile? Find compatible partner.",
+      "communicate_desires": "Talk about wants, boundaries, fantasies. Assumptions kill sex life.",
+      "build_trust_for_intimacy": "Deep sex requires safety. Build trust outside bedroom → better sex inside.",
+      "maintain_polarity": "Masculine-feminine (not man-woman) polarity creates charge. Too much sameness = friend zone."
+    },
+    
+    "personal_development": {
+      "heal_trauma": "Sexual trauma blocks capacity for intimacy. Therapy, somatic work necessary for many.",
+      "overcome_shame": "Sexual shame kills desire. Normalize sexuality. Body is sacred, not dirty.",
+      "explore_consciously": "Explore desires safely. BDSM, tantra, various practices. Know yourself.",
+      "integrate_sexuality": "Don't compartmentalize. Sexuality part of whole self. Integration → wholeness."
+    },
+    
+    "spiritual_practice": {
+      "tantra": "Prolonged arousal without orgasm. Energy circulation. Union of masculine/feminine within and between.",
+      "karezza": "Intercourse without orgasm. Bonding without dopamine spike. Sustained intimacy.",
+      "sacred_union": "Sex as worship. Partner as divine. Body as temple. Conscious lovemaking.",
+      "energy_work": "Circulate sexual energy up spine. Orgasmic meditation. Full-body orgasm."
+    },
+    
+    "therapy": {
+      "sex_therapy": "For dysfunction, low desire, pain, trauma. Specialized therapists trained in sexual issues.",
+      "couples_therapy": "Most relationship problems have sexual component. Address together.",
+      "somatic_work": "Body-based trauma release. EMDR, TRE, somatic experiencing for sexual trauma.",
+      "education": "Many problems from ignorance. Learn anatomy, response cycle, communication."
+    }
+  },
+
+  "philosophical_notes": {
+    "freud_libido": "Freud: libido = primary drive. All energy sexual at root. Civilization = sublimated sexuality.",
+    
+    "reich_orgone": "Wilhelm Reich: orgasm releases life energy (orgone). Sexual repression = source of neurosis and fascism.",
+    
+    "bataille_eroticism": "Georges Bataille: eroticism = assenting to life up to the point of death. Transgression of boundaries.",
+    
+    "foucault_sexuality": "Foucault: sexuality = constructed, not natural. 'Homosexual' as identity category modern invention.",
+    
+    "tantra_union": "Tantric traditions: sex = union of Shiva (consciousness) and Shakti (energy). Microcosm of cosmic creation.",
+    
+    "plato_eros": "Plato: eros = desire for beauty and immortality. Lowest form = physical sex. Highest = love of Forms.",
+    
+    "de_beauvoir_second_sex": "Simone de Beauvoir: sexuality shaped by patriarchy. Woman as Other. Oppressive sexual norms.",
+    
+    "marcuse_repressive_desublimation": "Herbert Marcuse: modern society pretends sexual freedom but actually co-opts sexuality for control.",
+    
+    "jung_syzygy": "Jung: anima (inner feminine) and animus (inner masculine). External relationships mirror inner marriage.",
+    
+    "lacan_lack": "Lacan: desire = structured by lack. Sexual satisfaction impossible because we desire desire itself."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Sexual roles theory (aggressor/victim/caregiver/infantile) is socionics-based, less empirically validated than mainstream sexology",
+      "Tantric/sacred sex claims hard to verify scientifically",
+      "Much sexuality research still limited by cultural taboos"
+    ],
+    "info": [
+      "Module complete with 12 reductions across dimensions",
+      "Covers arousal, desire, attraction, intercourse, orgasm, intimacy, roles, BDSM, orientation, tantra",
+      "Sexual compatibility framework included",
+      "Practical applications for relationships, personal development, spiritual practice, therapy",
+      "Major philosophical perspectives represented"
+    ],
+    "coherence_score": 0.88
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanology:love",
+      "urn:cfo:module:humanology:emotion",
+      "urn:cfo:module:fundamental:body",
+      "urn:cfo:module:humanitarian:gender",
+      "urn:cfo:module:humanology:relationship"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Freud, S. (1905). Three Essays on the Theory of Sexuality",
+        "url": "https://en.wikipedia.org/wiki/Three_Essays_on_the_Theory_of_Sexuality"
+      },
+      {
+        "type": "book",
+        "citation": "Masters, W. & Johnson, V. (1966). Human Sexual Response",
+        "url": "https://en.wikipedia.org/wiki/Human_Sexual_Response_(book)"
+      },
+      {
+        "type": "book",
+        "citation": "Reich, W. (1927). The Function of the Orgasm",
+        "url": "https://en.wikipedia.org/wiki/The_Function_of_the_Orgasm"
+      },
+      {
+        "type": "book",
+        "citation": "Bataille, G. (1957). Eroticism",
+        "url": "https://en.wikipedia.org/wiki/Eroticism_(book)"
+      },
+      {
+        "type": "book",
+        "citation": "Foucault, M. (1976). The History of Sexuality",
+        "url": "https://en.wikipedia.org/wiki/The_History_of_Sexuality"
+      },
+      {
+        "type": "book",
+        "citation": "Anand, M. (1989). The Art of Sexual Ecstasy",
+        "url": "https://en.wikipedia.org/wiki/Margot_Anand"
+      }
+    ]
+  }
+}

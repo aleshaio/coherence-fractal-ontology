@@ -1,0 +1,512 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Memory as dimensional storage and retrieval system"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "Memory = time folded into present. Past accessible as dimension."
+  },
+
+  "module": {
+    "id": "urn:cfo:module:humanitarian:memory",
+    "version": "1.0.0",
+    "domain": "humanitarian",
+    "name": "memory",
+    "title": "Memory Systems",
+    "description": "Memory as dimensional storage: information persisting through time. Individual, collective, and universal memory architectures.",
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "stable",
+      "tags": ["memory", "time", "storage", "retrieval", "consciousness", "history", "archive"]
+    }
+  },
+
+  "essence": {
+    "geometric": "Memory = 4D structure. Time folded back into present. Past accessible as perpendicular dimension to now.",
+    "topological": "Memory = network with temporal edges. Each node = moment. Connections = associations across time.",
+    "functional": "Storage and retrieval of information across temporal distance. Pattern preservation through change.",
+    "consciousness": "Memory = consciousness extended through time. Self = continuity of memory. No memory = no self."
+  },
+
+  "core_thesis": {
+    "principle": "memory ≡ 4D tesseract",
+    "mechanism": "Information encoded at moment M persists and remains accessible at moment M+t through dimensional storage",
+    "encoding": "Collapse of experience (∞D) → pattern (nD) → storage substrate",
+    "retrieval": "Pattern reactivation → reconstruction of experience",
+    "forgetting": "Decay, interference, or inaccessibility of stored patterns",
+    "types": "Sensory (0D), working (1D), episodic (4D), semantic (3D), procedural (1D), collective (5D)"
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:memory:sensory",
+      "concept": "Sensory memory (iconic, echoic)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XW"],
+      "ops": ["measure", "hold"],
+      "evidence": "Brief (milliseconds to seconds) retention of sensory impression. Single moment held. Not yet integrated into sequence.",
+      "confidence": 0.94,
+      "examples": [
+        "Visual persistence after flash",
+        "Echo of sound just heard",
+        "Touch sensation lingering",
+        "Taste on tongue"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:memory:working"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:working",
+      "concept": "Working memory (short-term)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XW"],
+      "ops": ["sequence", "maintain", "manipulate"],
+      "evidence": "Active maintenance of information for immediate use. Sequence of 7±2 items. Linear buffer in present moment.",
+      "confidence": 0.96,
+      "examples": [
+        "Phone number just told",
+        "Sentence being read",
+        "Mental calculation",
+        "Following instructions"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:memory:sensory"],
+        "composes_to": ["urn:cfo:red:memory:episodic"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:episodic",
+      "concept": "Episodic memory (autobiographical)",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["history", "contextualize", "relive"],
+      "evidence": "Memory of specific events in personal past. Full spatiotemporal context. 'Mental time travel' - revisiting 3D moment at different W coordinate.",
+      "confidence": 0.93,
+      "examples": [
+        "First day of school",
+        "Wedding day",
+        "Conversation yesterday",
+        "Where you were when 9/11 happened"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:memory:working"],
+        "related": ["urn:cfo:red:consciousness:narrative_self"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:semantic",
+      "concept": "Semantic memory (knowledge)",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["contain", "categorize", "relate"],
+      "evidence": "General knowledge independent of personal context. Facts, concepts, meanings. 3D conceptual space without 4D temporal tags.",
+      "confidence": 0.95,
+      "examples": [
+        "Paris is capital of France",
+        "Concept of 'justice'",
+        "How car works",
+        "Mathematical theorems"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:memory:episodic"],
+        "related": ["urn:cfo:red:language:semantics"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:procedural",
+      "concept": "Procedural memory (skills)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY", "XW"],
+      "ops": ["sequence", "automate", "execute"],
+      "evidence": "Memory for how to do things. Motor sequences, habits. Linear execution chains. Often unconscious.",
+      "confidence": 0.94,
+      "examples": [
+        "Riding bicycle",
+        "Touch typing",
+        "Playing instrument",
+        "Driving car"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:learning:skill_acquisition"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:consolidation",
+      "concept": "Memory consolidation",
+      "dimension": "xD",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW"],
+      "ops": ["stabilize", "integrate", "compress"],
+      "evidence": "Process of transferring memory from temporary to permanent storage. Happens over hours to years. Often during sleep. Dimensional transition.",
+      "confidence": 0.89,
+      "examples": [
+        "Sleep-dependent consolidation",
+        "Spaced repetition effects",
+        "Gradual schema formation",
+        "Systems consolidation (hippocampus → cortex)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:sleep:memory_processing"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:forgetting",
+      "concept": "Forgetting (decay, interference)",
+      "dimension": "xD",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XW"],
+      "ops": ["decay", "interfere", "lose"],
+      "evidence": "Loss of accessibility to stored information. Passive decay over time or active interference from other memories. Dimensional collapse.",
+      "confidence": 0.91,
+      "examples": [
+        "Name forgotten over years",
+        "Old phone number",
+        "Childhood details lost",
+        "Retroactive interference"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:entropy:information_loss"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:recognition",
+      "concept": "Recognition (familiarity)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XW"],
+      "ops": ["measure", "match", "signal"],
+      "evidence": "Point-to-point comparison. This moment matches stored pattern. Binary: familiar vs novel. Immediate, automatic.",
+      "confidence": 0.93,
+      "examples": [
+        "Face recognition",
+        "Déjà vu",
+        "Word familiarity",
+        "Place recognition"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:memory:recall"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:recall",
+      "concept": "Recall (retrieval)",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["reconstruct", "navigate", "retrieve"],
+      "evidence": "Active reconstruction of past event. Mental time travel. Navigation through 4D memory space to target moment.",
+      "confidence": 0.92,
+      "examples": [
+        "Remembering conversation",
+        "Free recall test",
+        "Reminiscing",
+        "Eyewitness testimony"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:memory:recognition"],
+        "related": ["urn:cfo:red:memory:episodic"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:flashbulb",
+      "concept": "Flashbulb memory",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW", "WV"],
+      "ops": ["capture", "preserve", "mark"],
+      "evidence": "Vivid, detailed memory of emotionally significant event. Enhanced encoding. Often historically important moments. 4D→5D due to collective significance.",
+      "confidence": 0.88,
+      "examples": [
+        "9/11 attacks",
+        "Kennedy assassination",
+        "Personal trauma",
+        "Birth of child"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:emotion:arousal", "urn:cfo:red:history:collective_memory"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:collective",
+      "concept": "Collective memory",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether",
+      "planes": ["WV"],
+      "ops": ["unify", "transmit", "preserve"],
+      "evidence": "Shared memory across individuals and generations. Cultural memory. Transcends individual consciousness. Universal patterns.",
+      "confidence": 0.87,
+      "examples": [
+        "Cultural myths",
+        "Historical narratives",
+        "Religious traditions",
+        "National identity"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:history:4d_navigation", "urn:cfo:red:culture:transmission"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:false",
+      "concept": "False memory (confabulation)",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW"],
+      "ops": ["construct", "distort", "create"],
+      "evidence": "Memory of event that never happened or happened differently. Reconstruction artifact. Pattern matching error in 4D space.",
+      "confidence": 0.90,
+      "examples": [
+        "Mandela effect",
+        "Implanted memories",
+        "Confabulation in amnesia",
+        "Misinformation effect"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:memory:recall", "urn:cfo:red:perception:construction"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:memory:muscle",
+      "concept": "Muscle memory",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["sequence", "automate", "embody"],
+      "evidence": "Procedural memory stored in motor cortex and cerebellum. Linear execution sequence. Body remembers pattern without conscious thought.",
+      "confidence": 0.92,
+      "examples": [
+        "Piano fingering",
+        "Basketball shot",
+        "Dance moves",
+        "Martial arts kata"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:memory:procedural", "urn:cfo:red:body:motor_control"]
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Memory systems repeat at all scales: molecular (protein folding), neural (synaptic plasticity), individual (personal memory), collective (culture), universal (archetypes).",
+    
+    "recursion": {
+      "encoding": "Experience → pattern extraction → storage (↓)",
+      "maintenance": "Pattern held in substrate (—)",
+      "retrieval": "Cue → pattern reactivation → reconstruction (↑)",
+      "cycle": "(↓ encode → store → retrieve ↑) ∞"
+    },
+    
+    "emergence": {
+      "from_0D": "Single sensation (sensory memory)",
+      "to_1D": "Sequence of sensations (working memory, procedural)",
+      "to_2D": "Network of associations (semantic networks)",
+      "to_3D": "Conceptual space (knowledge)",
+      "to_4D": "Temporal narrative (episodic, autobiographical)",
+      "to_5D": "Collective memory (culture, archetypes)"
+    },
+    
+    "composition": {
+      "bottom_up": "Sensory moments → working sequences → episodic events → semantic knowledge → collective memory",
+      "top_down": "Collective schemas shape semantic categories shape episodic encoding shape working memory priorities",
+      "fractal": "Memory structure at each level mirrors whole: encode-store-retrieve pattern"
+    }
+  },
+
+  "memory_architectures": {
+    "biological": {
+      "molecular": "Protein synthesis, DNA methylation (chemical memory)",
+      "synaptic": "LTP/LTD, synaptic strength (neural memory)",
+      "network": "Distributed patterns across brain regions",
+      "consolidation": "Hippocampus → cortex transfer over time"
+    },
+    
+    "cognitive": {
+      "atkinson_shiffrin": "Sensory → Short-term → Long-term flow model",
+      "working_memory": "Baddeley model: phonological loop, visuospatial sketchpad, episodic buffer, central executive",
+      "levels_of_processing": "Deeper processing = better retention",
+      "encoding_specificity": "Context at encoding aids retrieval"
+    },
+    
+    "computational": {
+      "associative": "Hopfield networks, content-addressable memory",
+      "semantic": "Word embeddings, knowledge graphs",
+      "episodic": "Temporal databases, event logs",
+      "hierarchical": "Memory hierarchies: cache → RAM → disk → archive"
+    },
+    
+    "cultural": {
+      "oral_tradition": "Stories, songs, rituals preserving history",
+      "written": "Books, documents, archives",
+      "digital": "Databases, internet, distributed storage",
+      "collective": "Museums, monuments, commemorations"
+    }
+  },
+
+  "key_insights": {
+    "memory_is_reconstruction": "We don't retrieve memories like files. We reconstruct them each time. Explains false memories.",
+    
+    "forgetting_is_adaptive": "Perfect memory would be curse. Forgetting = filtering noise, extracting patterns, preventing interference.",
+    
+    "emotion_enhances_memory": "Emotionally arousing events better remembered. Amygdala modulates hippocampal consolidation.",
+    
+    "context_dependent": "Retrieval easier in context similar to encoding. State-dependent, mood-congruent memory.",
+    
+    "sleep_consolidates": "Sleep (especially REM and slow-wave) crucial for memory consolidation. Replays and integrates.",
+    
+    "memory_as_time_machine": "Episodic memory = mental time travel. Unique to humans (and maybe some animals). Allows planning.",
+    
+    "collective_transcends_individual": "Cultural memory persists beyond individual lifetimes. Society = distributed memory system.",
+    
+    "memory_defines_self": "Personal identity = narrative continuity through episodic memory. Amnesia = identity loss.",
+    
+    "recognition_faster_than_recall": "Easier to recognize than generate. Different retrieval mechanisms. Different dimensions."
+  },
+
+  "practical_applications": {
+    "learning": {
+      "spaced_repetition": "Distribute practice over time. Exploits consolidation dynamics.",
+      "elaborative_encoding": "Deep processing. Connect to existing knowledge. Increases retrieval paths.",
+      "retrieval_practice": "Testing enhances learning more than re-reading. Strengthens retrieval pathways.",
+      "sleep": "Consolidate new learning with good sleep. Don't skip sleep before exam."
+    },
+    
+    "therapy": {
+      "trauma": "EMDR, exposure therapy work with reconsolidation. Update traumatic memories.",
+      "amnesia": "Errorless learning, external aids, procedural learning when episodic fails.",
+      "alzheimers": "Semantic memory preserved longer. Emotion and music access deep memories.",
+      "ptsd": "Flashbulb memories too vivid. Reconsolidation interventions."
+    },
+    
+    "technology": {
+      "ai_memory": "Episodic buffers, working memory, long-term knowledge bases. Mirror human architecture.",
+      "databases": "Indexing = retrieval optimization. Caching = working memory. Archives = long-term.",
+      "search": "Recognition vs recall. Google exploits recognition (easier) than pure recall.",
+      "life_logging": "Digital memory augmentation. External episodic memory."
+    },
+    
+    "society": {
+      "history": "Collective memory shapes national identity. What we remember = who we are.",
+      "justice": "Eyewitness testimony unreliable. False memory implications for legal system.",
+      "education": "Understanding memory → better pedagogy. Work with brain, not against it.",
+      "commemoration": "Monuments, museums, ceremonies maintain collective memory."
+    }
+  },
+
+  "philosophical_notes": {
+    "memory_and_time": "Memory makes past accessible in present. Folds time into 4D structure. Without memory, only eternal now.",
+    
+    "self_as_narrative": "Personal identity = story we tell ourselves. Based on episodic memory. Different memories = different self.",
+    
+    "collective_soul": "Culture = collective memory. Society's 'soul' = what it remembers and forgets. Shapes future.",
+    
+    "forgetting_as_death": "Total amnesia = psychological death. Self depends on continuity of memory. Who are you without your past?",
+    
+    "false_memories_reality": "If memory constructs reality, and memories can be false, how certain is our reality? Epistemological problem.",
+    
+    "eternal_recurrence": "Nietzsche: if forced to relive life identically, would you? Memory makes answer meaningful. Without memory, eternal recurrence trivial.",
+    
+    "proust_madeleine": "Involuntary memory triggered by sensory cue. Sudden access to 4D past. Time regained.",
+    
+    "akashic_records": "Esoteric concept: universal memory. All events recorded in 5D field. Collective memory taken to limit."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Collective memory (5D) less empirically measurable than individual memory"
+    ],
+    "info": [
+      "Module complete with 13 reductions across dimensions",
+      "Covers individual and collective memory",
+      "Biological, cognitive, computational, cultural architectures included",
+      "Practical applications for learning, therapy, technology, society",
+      "Coherence with neuroscience literature"
+    ],
+    "coherence_score": 0.92
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanitarian:history",
+      "urn:cfo:module:humanology:consciousness",
+      "urn:cfo:module:fundamental:time",
+      "urn:cfo:module:humanology:learning",
+      "urn:cfo:module:humanitarian:culture"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Schacter, D. L. (2001). The Seven Sins of Memory",
+        "url": "https://en.wikipedia.org/wiki/The_Seven_Sins_of_Memory"
+      },
+      {
+        "type": "book",
+        "citation": "Tulving, E. (1983). Elements of Episodic Memory",
+        "url": "https://en.wikipedia.org/wiki/Endel_Tulving"
+      },
+      {
+        "type": "book",
+        "citation": "Baddeley, A. (2007). Working Memory, Thought, and Action",
+        "url": "https://en.wikipedia.org/wiki/Alan_Baddeley"
+      },
+      {
+        "type": "book",
+        "citation": "Kandel, E. R. (2006). In Search of Memory",
+        "url": "https://en.wikipedia.org/wiki/In_Search_of_Memory"
+      },
+      {
+        "type": "book",
+        "citation": "Proust, M. (1913). In Search of Lost Time",
+        "url": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+      },
+      {
+        "type": "paper",
+        "citation": "Halbwachs, M. (1950). The Collective Memory",
+        "url": "https://en.wikipedia.org/wiki/Maurice_Halbwachs"
+      }
+    ]
+  }
+}

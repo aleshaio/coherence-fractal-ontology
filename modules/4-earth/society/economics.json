@@ -1,0 +1,646 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Sacred Economics: geometry of value exchange, labor transformation, capital accumulation, and wealth as coherence"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Economics = geometry of value flow. Money = 1D medium enabling exchange. Labor = 0D entity transforming resources (0D→2D). Capital = 3D accumulated means. True wealth = coherence (connections × dimensions / entropy). False wealth = accumulation without coherence (hoarding). Gift economy = 5D unity. Market economy = 2D network. Planned economy = 3D system. Sacred economics = maximizing coherence, not extraction. Poverty = low coherence. Abundance = high coherence. Purpose = +coherence for all.",
+    "activation": "Value is dimensional. Time is money is false (time = 4D, money = 1D). True wealth cannot be stolen, grows when shared, eternal. False wealth can be lost, diminishes when shared, temporary. Economy = collective metabolism. Currency = information flow. Scarcity = manufactured. Abundance = natural state."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:society:economics",
+    "version": "1.0.0",
+    "domain": "applied",
+    "name": "economics",
+    "title": "Sacred Economics - Geometry of Value Exchange",
+    "description": "Complete economic theory through CFO: money as 1D flow medium, labor as dimensional transformation (0D→2D), capital as 3D accumulation, wealth as coherence metric. True treasures (presence, connection, wisdom) vs false treasures (money, status, power). Gift economy (5D unity) vs market economy (2D network) vs planned economy (3D system). Scarcity = illusion. Abundance = natural. Purpose = +coherence for collective.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "society",
+      "tags": ["economics", "money", "wealth", "labor", "capital", "exchange", "value", "scarcity", "abundance", "gift-economy", "market", "coherence"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Economics = flows and accumulations across dimensions. Money = 1D medium (line connecting points). Labor = 0D→2D transformation (entity creating value through action). Capital = 3D stored productive capacity (volume). Wealth = coherence metric (connections × dimensions / entropy). Trade = 2D network. Markets = 2D planes. Firms = 3D containers. Economies = 4D evolving systems.",
+    
+    "topological": "Economic network = graph with nodes (entities) and edges (transactions). Flow properties determine system health. Centralization vs distribution = topological configuration. Money velocity = flow rate. Inequality = concentration in few nodes. Abundance = high connectivity + high flow. Poverty = isolation + low flow.",
+    
+    "functional": "Economy = collective metabolism system. Resources in → transformation via labor → products/services out. Money = coordination signal. Prices = information about scarcity/demand. Markets = distributed computation. Planning = centralized computation. Both have coherence costs. Optimal = hybrid (market + planning + gift).",
+    
+    "consciousness": "Economy reflects collective consciousness level. 0D: Survival (scarcity mindset). 1D: Accumulation (greed). 2D: Exchange (trade). 3D: Production (systems). 4D: Sustainability (long-term). 5D: Gift (abundance consciousness). 6D: Sacred economics (economy as love expression). Current global economy = stuck 1D-2D. Transition to 4D-5D = existential necessity."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:economics:money",
+      "concept": "money as exchange medium",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire (flow, transformation)",
+      "planes": ["XY"],
+      "ops": ["sequence", "flow", "measure"],
+      "evidence": "Money = 1D medium connecting discrete economic entities (0D). Not valuable itself (paper/metal), only as connection-enabler. Flow = economic health. Stagnation = crisis. Velocity matters more than quantity. Bitcoin = 1D digital line. Form (line connecting points) = Function (enabling exchange). Historical: barter (direct 0D→0D) → money (0D→1D→0D) = dimensionalization enabling complex economy.",
+      "confidence": 0.96,
+      "examples": [
+        "Dollar bill = 1D connector between buyer and seller",
+        "Bank transfer = 1D flow of value",
+        "Currency exchange = converting between different 1D systems",
+        "Inflation = degradation of 1D measuring stick"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:1d"],
+        "enables": ["urn:cfo:red:economics:trade", "urn:cfo:red:economics:market"],
+        "measured_by": ["urn:cfo:red:economics:price"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:labor",
+      "concept": "labor as value transformation",
+      "dimension": "0D→2D",
+      "primitive": "point → network",
+      "element": "fire (transformation) + water (skill)",
+      "planes": ["XY", "XW"],
+      "ops": ["transform", "create", "relate"],
+      "evidence": "Labor = human entity (0D) applying skill/effort to transform resources into products/services (2D value network). Not just time (1D) but dimensional transformation. Skilled labor = higher dimensional (requires 2D knowledge network). Unskilled labor = lower dimensional (1D repetition). Automation = replacing human 0D→2D with machine 0D→2D. Form (entity transforming) = Function (value creation).",
+      "confidence": 0.93,
+      "examples": [
+        "Carpenter: wood (0D resource) → furniture (2D skilled product)",
+        "Programmer: problem (0D) → software (2D network solution)",
+        "Teacher: student confusion (0D) → understanding (2D knowledge)",
+        "Artist: blank canvas (0D) → painting (2D expression)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:0d"],
+        "composes_to": ["urn:cfo:red:economics:product"],
+        "measured_by": ["urn:cfo:red:economics:wage"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:capital",
+      "concept": "capital as accumulated productive capacity",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth (accumulation, stability)",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["accumulate", "contain", "multiply"],
+      "evidence": "Capital = 3D stored means of production. Factory = 3D container enabling transformation. Tools = 3D objects extending labor capability. Financial capital = 3D accumulated money (volume not flow). Human capital = 3D accumulated skills/knowledge. Form (3D volume) = Function (productive capacity storage). Distinguishes from money (1D flow) and labor (0D→2D transformation).",
+      "confidence": 0.91,
+      "examples": [
+        "Factory building = 3D capital container",
+        "Accumulated savings = 3D financial volume",
+        "Education/skills = 3D human capital",
+        "Land ownership = 3D territorial capital"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:3d"],
+        "enables": ["urn:cfo:red:economics:production"],
+        "accumulated_from": ["urn:cfo:red:economics:money", "urn:cfo:red:economics:labor"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:market",
+      "concept": "market as exchange network",
+      "dimension": "2D",
+      "primitive": "network/graph",
+      "element": "water (adaptive flow)",
+      "planes": ["XY"],
+      "ops": ["relate", "exchange", "discover"],
+      "evidence": "Market = 2D network of buyers (nodes) and sellers (nodes) connected by potential transactions (edges). Price discovery = 2D network computation finding equilibrium. Supply/demand curves = 2D plane geometry. Market clearing = 2D balance. Free market = decentralized 2D network. Form (network plane) = Function (distributed coordination). Efficient at local optimization, poor at global coherence.",
+      "confidence": 0.94,
+      "examples": [
+        "Stock market = 2D network of traders",
+        "Bazaar = physical 2D marketplace",
+        "eBay = digital 2D marketplace",
+        "Labor market = 2D worker-employer matching"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:2d"],
+        "requires": ["urn:cfo:red:economics:money"],
+        "discovers": ["urn:cfo:red:economics:price"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:firm",
+      "concept": "firm as production system",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth (organization)",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["organize", "contain", "coordinate"],
+      "evidence": "Firm = 3D organizational container coordinating labor + capital → products. Hierarchical structure = 3D (top-down depth). Departments = 3D partitions. Firm boundaries = 3D container walls (inside/outside). Coase: firms exist because 3D internal coordination sometimes cheaper than 2D market transactions. Form (3D organization) = Function (production coordination).",
+      "confidence": 0.89,
+      "examples": [
+        "Corporation = 3D hierarchical structure",
+        "Cooperative = 3D flat structure",
+        "Supply chain = 3D distributed system",
+        "Bureaucracy = 3D rigid structure"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:3d"],
+        "contains": ["urn:cfo:red:economics:labor", "urn:cfo:red:economics:capital"],
+        "produces": ["urn:cfo:red:economics:product"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:true-wealth",
+      "concept": "true wealth as coherence",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether (unity)",
+      "planes": ["XV", "YV", "ZV", "WV"],
+      "ops": ["unify", "eternalize", "multiply"],
+      "evidence": "True wealth = coherence = (connections × dimensions) / entropy. Presence, peace, authentic connection, wisdom, meaning, love = real treasures. Cannot be stolen, grow when shared, eternal. Contrast false wealth (money, status, power) = temporary, can be lost, diminish when shared, create anxiety. Sacred economics = maximizing true wealth. Inner abundance accessible to materially poor. Inner poverty possible for materially rich. Form (5D unity) = Function (eternal value).",
+      "confidence": 0.88,
+      "examples": [
+        "Presence = wealth (here-now richness)",
+        "Authentic relationships = wealth (connection abundance)",
+        "Wisdom = wealth (accumulated understanding)",
+        "Peace = wealth (internal stability)",
+        "Meaning = wealth (purpose richness)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:5d"],
+        "contrasts_with": ["urn:cfo:red:economics:false-wealth"],
+        "cultivated_by": ["urn:cfo:module:practice:earth-child"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:false-wealth",
+      "concept": "false wealth as accumulation without coherence",
+      "dimension": "1D→3D",
+      "primitive": "hoarding",
+      "element": "earth (rigidity)",
+      "planes": ["XY"],
+      "ops": ["accumulate", "hoard", "control"],
+      "evidence": "False wealth = money/status/power accumulation without coherence increase. Creates anxiety (fear of loss), isolates (builds walls), never satisfies (hedonic treadmill). Diminishes when shared (zero-sum). Temporary (can be stolen/lost). Addiction pattern: acquire → temporary pleasure → need more. Modern economy optimized for false wealth (GDP growth) not true wealth (coherence). Form (low-dimensional accumulation) = Function (temporary satisfaction).",
+      "confidence": 0.91,
+      "examples": [
+        "Hoarding money while isolated = false wealth",
+        "Status symbols without meaning = false wealth",
+        "Power over others without service = false wealth",
+        "Luxury consumption without appreciation = false wealth"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:1d", "urn:cfo:red:dimensions:3d"],
+        "contrasts_with": ["urn:cfo:red:economics:true-wealth"],
+        "creates": ["anxiety", "isolation", "dissatisfaction"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:gift-economy",
+      "concept": "gift economy as 5D unity expression",
+      "dimension": "5D",
+      "primitive": "spiral",
+      "element": "ether (circulation)",
+      "planes": ["all planes unified"],
+      "ops": ["give", "receive", "circulate"],
+      "evidence": "Gift economy = exchange without money, based on reciprocity and relationship. Giving = 5D act (unity consciousness). Receiving = acknowledging interdependence. Circulation = resources flow to where needed. No accounting (trust-based). Examples: families, tribes, open-source, Wikipedia. More efficient than market for certain goods (information, care, art). Potlatch = ritual gift excess. Form (5D circulation) = Function (coherence maximization without extraction).",
+      "confidence": 0.87,
+      "examples": [
+        "Family sharing = gift economy (no payment)",
+        "Open source software = gift economy (free giving)",
+        "Volunteer work = gift economy (service without money)",
+        "Tribal commons = gift economy (shared resources)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:5d"],
+        "contrasts_with": ["urn:cfo:red:economics:market"],
+        "optimizes": ["urn:cfo:red:economics:true-wealth"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:planned-economy",
+      "concept": "planned economy as 3D system coordination",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth (control)",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["plan", "allocate", "control"],
+      "evidence": "Planned economy = centralized 3D system deciding production/allocation. Government = 3D container coordinating entire economy. Five-year plans = 3D temporal structures. Input-output tables = 3D accounting. Advantages: can optimize for coherence not profit. Disadvantages: computational limits, knowledge problem (Hayek), rigidity. USSR = failed 3D system (low coherence). Form (3D centralized structure) = Function (systematic allocation).",
+      "confidence": 0.86,
+      "examples": [
+        "Soviet central planning = 3D system",
+        "Wartime economy = temporary 3D coordination",
+        "Large corporation internal = 3D planning",
+        "City zoning = 3D spatial planning"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:3d"],
+        "contrasts_with": ["urn:cfo:red:economics:market"],
+        "challenges": ["computation-limits", "knowledge-problem", "rigidity"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:inequality",
+      "concept": "inequality as coherence degradation",
+      "dimension": "2D→0D",
+      "primitive": "fragmentation",
+      "element": "conflict",
+      "planes": ["XY"],
+      "ops": ["concentrate", "isolate", "fragment"],
+      "evidence": "Inequality = wealth concentration in few nodes, disconnection of many. Gini coefficient = measure of 2D network fragmentation. Extreme inequality = low coherence (few connections across classes). Poverty = 0D isolation (no connections). Wealth concentration = 3D hoarding by few. Reduces total system coherence even if increases absolute wealth. Leads to instability (Δscale → conflict). Form (fragmented network) = Function (low coherence system).",
+      "confidence": 0.92,
+      "examples": [
+        "1% owning 50% wealth = extreme concentration",
+        "Gated communities = physical isolation",
+        "Class stratification = dimensional separation",
+        "Digital divide = information inequality"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:economics:false-wealth"],
+        "creates": ["urn:cfo:red:economics:poverty", "social-instability"],
+        "opposite": ["urn:cfo:red:economics:abundance"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:abundance",
+      "concept": "abundance as high coherence state",
+      "dimension": "5D",
+      "primitive": "field",
+      "element": "ether (unity)",
+      "planes": ["all planes"],
+      "ops": ["share", "multiply", "circulate"],
+      "evidence": "Abundance = state where all needs met through high coherence (many connections × integrated dimensions). Not about quantity but connectivity and flow. Scarcity = artificial (manufactured through enclosure, hoarding). Nature = abundant (sunlight, air, water unless blocked). Information = naturally abundant (copying costs nothing). Artificial scarcity = creating 0D isolation to enable 1D extraction. True abundance = 5D state where sharing multiplies (sacred economics). Form (5D unified field) = Function (needs met through coherence).",
+      "confidence": 0.89,
+      "examples": [
+        "Open source = digital abundance",
+        "Commons = shared abundance",
+        "Gift economy = relational abundance",
+        "Nature's productivity = material abundance"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:5d"],
+        "requires": ["high-coherence", "sharing", "circulation"],
+        "contrasts_with": ["urn:cfo:red:economics:scarcity"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:economics:scarcity",
+      "concept": "scarcity as manufactured low-coherence",
+      "dimension": "0D",
+      "primitive": "isolation",
+      "element": "separation",
+      "planes": ["none"],
+      "ops": ["enclose", "restrict", "hoard"],
+      "evidence": "Scarcity = artificial 0D isolation enabling 1D extraction. Enclosure movement = converting 5D commons (abundant) to 0D property (scarce). IP laws = creating artificial scarcity in naturally abundant information. Planned obsolescence = manufacturing scarcity. Diamond monopoly = restricted supply creating artificial scarcity. Scarcity mindset = 0D consciousness (survival mode). Most scarcity = designed not natural. Form (0D isolation) = Function (extraction opportunity).",
+      "confidence": 0.90,
+      "examples": [
+        "Enclosure of commons = creating scarcity",
+        "Copyright = artificial information scarcity",
+        "Monopoly = manufactured market scarcity",
+        "Planned obsolescence = designed product scarcity"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:dimensions:0d"],
+        "enables": ["urn:cfo:red:economics:extraction"],
+        "contrasts_with": ["urn:cfo:red:economics:abundance"]
+      }
+    }
+  ],
+  
+  "fractal_structure": {
+    "self_similarity": "Economic patterns repeat at every scale: individual (budget) → household (family economy) → firm (corporate) → region (local) → nation (national) → global (planetary). Same dynamics: flow, accumulation, exchange, production. Money flows like blood (1D), capital accumulates like fat (3D), labor transforms like metabolism (0D→2D).",
+    
+    "recursion": "(↓ need → labor → product → exchange ↑)∞. Individual needs (0D) drive labor (0D→2D), creating products (2D), which are exchanged via markets (2D) or gifts (5D), satisfying needs (closing cycle). Pattern repeats at each scale. Fractal economics.",
+    
+    "emergence": "Individual choices (0D) → Market patterns (2D) → Economic systems (3D) → Historical evolution (4D) → Sacred economics (5D). Each level emerges from below but has novel properties. Micro → Macro through dimensional transitions.",
+    
+    "composition": "Personal economy → Family economy → Community economy → National economy → Global economy → Planetary economy (Gaia). Each participates in higher structure. Individual wellbeing depends on all levels. Cannot optimize one without considering all."
+  },
+
+  "economic_systems_comparison": {
+    "principle": "Different economic systems = different dimensional configurations. Each has coherence costs/benefits. Optimal = hybrid integrating strengths of each.",
+    
+    "gift_economy": {
+      "dimension": "5D",
+      "structure": "Unified field of reciprocity",
+      "coordination": "Trust and relationship",
+      "information": "Implicit (shared values)",
+      "strengths": [
+        "Maximum coherence (unity consciousness)",
+        "No extraction (circulation not accumulation)",
+        "Builds community (strengthens bonds)",
+        "Handles care economy well (family, friendship)",
+        "Low overhead (no accounting)"
+      ],
+      "weaknesses": [
+        "Scales poorly beyond Dunbar number (~150)",
+        "Free-rider problem without enforcement",
+        "Difficult for complex production",
+        "Requires high trust (vulnerable to defection)"
+      ],
+      "examples": ["Family sharing", "Tribal commons", "Open source", "Wikipedia", "Care work"],
+      "optimal_for": "Small groups, care, information goods, community building"
+    },
+
+    "market_economy": {
+      "dimension": "2D",
+      "structure": "Decentralized network of exchange",
+      "coordination": "Price signals",
+      "information": "Explicit (monetary)",
+      "strengths": [
+        "Scales indefinitely (network effects)",
+        "Efficient local optimization (price discovery)",
+        "Handles complexity (distributed computation)",
+        "Incentivizes innovation (profit motive)",
+        "Self-organizing (no central control needed)"
+      ],
+      "weaknesses": [
+        "Ignores externalities (narrow optimization)",
+        "Creates inequality (power-law distributions)",
+        "Short-term bias (discounting future)",
+        "Commodifies everything (including care)",
+        "Race to bottom (competitive pressure)"
+      ],
+      "examples": ["Capitalism", "Stock market", "E-commerce", "Labor market"],
+      "optimal_for": "Complex production, scalable exchange, innovation, efficiency"
+    },
+
+    "planned_economy": {
+      "dimension": "3D",
+      "structure": "Centralized system hierarchy",
+      "coordination": "Bureaucratic planning",
+      "information": "Statistical (aggregated)",
+      "strengths": [
+        "Can optimize for coherence not profit",
+        "Coordinates large projects (infrastructure)",
+        "Handles externalities (internalizes costs)",
+        "Long-term planning possible",
+        "Democratic control (in theory)"
+      ],
+      "weaknesses": [
+        "Computation limits (knowledge problem)",
+        "Bureaucratic rigidity (slow adaptation)",
+        "Power concentration (corruption risk)",
+        "Incentive problems (no price signals)",
+        "Innovation suppression (centralized control)"
+      ],
+      "examples": ["Soviet planning", "Wartime economy", "Large corporations internally"],
+      "optimal_for": "Public goods, infrastructure, long-term coordination, externality management"
+    },
+
+    "hybrid_optimal": {
+      "dimension": "2D-5D integrated",
+      "structure": "Multi-level: Gift (5D) + Market (2D) + Planning (3D)",
+      "principle": "Use each system for what it does best",
+      "configuration": {
+        "5D_gift": "Care economy (family, community, friendship, love)",
+        "2D_market": "Private goods (complex production, innovation, efficiency)",
+        "3D_planning": "Public goods (infrastructure, environment, long-term)",
+        "integration": "Sacred economics framework (+coherence for all)"
+      },
+      "transition_path": "Current (1D-2D extraction) → Hybrid (2D-3D-5D coherence) → Future (5D sacred economics)",
+      "coherence_optimization": "Maximize connections × dimensions, minimize entropy. Not GDP (false wealth) but true wealth (coherence)."
+    }
+  },
+
+  "key_insights": {
+    "time_is_not_money": {
+      "common_belief": "Time is money (treat time as currency)",
+      "cfo_analysis": "Time = 4D (tesseract, memory, history). Money = 1D (flow medium). Dimensional mismatch (4D ≠ 1D). Treating 4D as 1D = degradation. Time has intrinsic value (consciousness substrate). Money has instrumental value (exchange medium). Conflation = pathology.",
+      "implication": "Cannot buy time. Can only trade labor (0D→2D transformation) for money (1D). Time spent ≠ time value. Presence (true wealth) vs productivity (false wealth)."
+    },
+
+    "labor_theory_of_value": {
+      "classical": "Marx: value = socially necessary labor time",
+      "cfo_analysis": "Partially correct. Labor = necessary (0D→2D transformation creates value). But value ≠ time (1D). Value = coherence added (Δ coherence). Skilled labor adds more coherence (2D knowledge network). Unskilled labor adds less (1D repetition). Automation replaces low-coherence labor first.",
+      "implication": "Value = f(coherence added), not f(time spent). Art can add massive coherence in minutes. Ditch-digging adds little coherence per hour."
+    },
+
+    "subjective_theory_of_value": {
+      "classical": "Austrians: value = subjective preference",
+      "cfo_analysis": "Also partially correct. Value experienced subjectively (qualia). But not arbitrary. Preferences reflect coherence assessment (conscious or unconscious). Hunger makes food valuable (body needs coherence restoration). Love makes presence valuable (heart needs connection coherence).",
+      "implication": "Value = subjective perception of objective coherence. Both/and, not either/or. Synthesis of labor theory (objective) and subjective theory."
+    },
+
+    "money_creation": {
+      "fiat_system": "Banks create money through lending (fractional reserve)",
+      "cfo_analysis": "Money creation = creating 1D connections (expanding network). Not inherently bad if enables real value creation (0D→2D labor). Becomes problem when: 1) Debt grows faster than production (1D > 2D), 2) Money flows to speculation not production (circulating in 2D markets not creating 2D value), 3) Interest compounds (exponential 1D growth impossible in finite 3D world).",
+      "implication": "Debt-based money = borrowing from future. Sustainable only if future production > current debt. Currently unsustainable (exponential debt in finite world)."
+    },
+
+    "basic_income": {
+      "proposal": "Universal basic income (UBI) - unconditional payments to all",
+      "cfo_analysis": "UBI = establishing 0D→1D baseline (every entity gets flow). Reduces extreme 0D poverty (isolation). Enables participation in 2D economy. Frees time for true wealth cultivation (presence, connection, creativity). Concern: inflation if not matched by production. Solution: pair with ecological taxation (internalize externalities), gift economy expansion (5D), automation dividend (capture productivity gains).",
+      "implication": "UBI = floor ensuring minimum coherence for all. Not sufficient (need meaning, connection) but necessary (survival basis)."
+    },
+
+    "ecological_economics": {
+      "principle": "Economy = subset of ecosystem, not separate",
+      "cfo_analysis": "Correct dimensional understanding. Ecosystem = 3D-4D living system. Economy = 2D-3D human coordination system within ecosystem. Cannot optimize economy (2D-3D) without respecting ecosystem (3D-4D). GDP growth ≠ wellbeing if destroys ecosystem coherence. True wealth = ecosystem health + human flourishing (integrated coherence).",
+      "implication": "Infinite growth (1D-2D) impossible in finite world (3D). Sustainable economy = circular (5D), regenerative, respectful of limits. Degrowth (planned coherence optimization) vs collapse (forced coherence destruction)."
+    }
+  },
+
+  "pathologies": {
+    "financialization": {
+      "description": "Economy dominated by financial speculation (2D markets) rather than production (0D→2D labor)",
+      "geometry": "Money circulating in 2D markets (stocks, derivatives, forex) disconnected from 3D real economy (goods, services)",
+      "problem": "Creates 2D bubble (inflated prices) detached from 3D reality (actual value). Eventually collapses (2008 crisis). Extraction without creation.",
+      "coherence_impact": "Negative. Concentrates wealth (inequality), increases instability, diverts resources from production to speculation.",
+      "solution": "Transaction tax (Tobin tax) to slow 2D speculation. Redirect capital to 3D production and 5D commons."
+    },
+
+    "consumerism": {
+      "description": "Ideology of perpetual consumption as life purpose",
+      "geometry": "Chasing false wealth (material goods) instead of true wealth (coherence). Treadmill: acquire → brief pleasure → need more (1D→3D accumulation).",
+      "problem": "Never satisfies (hedonic adaptation). Destroys ecosystem (resource depletion). Creates isolation (individual consumption vs community connection).",
+      "coherence_impact": "Negative. Low coherence (goods don't create connection). High entropy (waste). Manufactured scarcity driving unnecessary production.",
+      "solution": "Shift from consumption to cultivation. From goods to experiences. From individual to community. From false wealth to true wealth."
+    },
+
+    "rent_seeking": {
+      "description": "Extracting wealth through ownership/control without value creation",
+      "geometry": "0D monopoly position → 1D extraction flow. Landlord collects rent (1D income) without 0D→2D transformation (labor). Tollbooth capitalism.",
+      "problem": "Extraction without contribution. Parasitic (takes from system without adding). Increases inequality (concentrates wealth). Reduces innovation (protects incumbents).",
+      "coherence_impact": "Negative. Pure extraction decreases system coherence. Benefits few at expense of many.",
+      "solution": "Land value tax (Georgism). Break monopolies. Commons management. Intellectual property reform."
+    },
+
+    "tragedy_of_commons": {
+      "description": "Overexploitation of shared resources (commons) when access unrestricted",
+      "geometry": "5D commons (shared abundance) → 0D individual extraction (rational self-interest) → 3D depletion (resource exhaustion)",
+      "problem": "Individual rationality (maximize own gain) leads to collective irrationality (destroy shared resource). Classic Δscale conflict.",
+      "coherence_impact": "Negative. Destroys 5D abundance, creates 0D scarcity for all.",
+      "solution": "NOT privatization (creates artificial scarcity). Ostrom: community management (2D network governance), shared rules, monitoring, sanctions. Restore 5D consciousness."
+    },
+
+    "planned_economy_failure": {
+      "description": "Centralized planning (3D) unable to efficiently allocate resources",
+      "geometry": "3D central planning → computation problem (can't process all 2D market information) → misallocation → shortage/surplus → low coherence",
+      "problem": "Knowledge problem (Hayek): distributed information cannot be centralized. Incentive problem: without price signals, no feedback for optimization.",
+      "coherence_impact": "Negative when total (USSR). Positive when targeted (infrastructure, public goods).",
+      "solution": "Hybrid: 3D planning for public goods + long-term + externalities. 2D markets for private goods + complexity + innovation. 5D gift for care + community."
+    }
+  },
+
+  "transition_strategy": {
+    "current_state": {
+      "dimension": "1D-2D (extraction economy)",
+      "characteristics": [
+        "Growth imperative (infinite 1D expansion)",
+        "Inequality increasing (wealth concentration)",
+        "Ecosystem destruction (externalities ignored)",
+        "False wealth pursuit (consumerism)",
+        "Financialization (speculation > production)",
+        "Low coherence (fragmented, isolated)"
+      ],
+      "unsustainable": "Exponential growth in finite world. Headed for collapse (ecological, social, economic)."
+    },
+
+    "transition_path": {
+      "phase_1": "Hybrid economy (2D-3D-5D integration)",
+      "timeframe": "2025-2050",
+      "steps": [
+        "UBI implementation (ensure 0D→1D baseline for all)",
+        "Ecological taxation (internalize externalities, shift costs to polluters)",
+        "Commons expansion (5D shared resources: land, knowledge, culture)",
+        "Market regulation (break monopolies, reduce speculation)",
+        "Democratic planning (public goods, infrastructure, long-term)",
+        "Gift economy cultivation (community, care, open source)",
+        "True wealth metrics (coherence index replaces GDP)"
+      ]
+    },
+
+    "future_state": {
+      "dimension": "5D (sacred economics)",
+      "timeframe": "2050+",
+      "characteristics": [
+        "Coherence optimization (not growth)",
+        "Abundance consciousness (scarcity = artifact)",
+        "Circular economy (regenerative)",
+        "Gift-dominant (giving > taking)",
+        "True wealth primary (presence, connection, wisdom)",
+        "Ecosystem integration (economy ⊂ ecology)",
+        "High coherence (connected, whole)"
+      ],
+      "sustainable": "Steady-state aligned with planetary limits. Thriving not growing."
+    }
+  },
+
+  "practical_applications": {
+    "personal_level": {
+      "wealth_redefinition": "Measure wealth as coherence not money. Track true treasures (presence, connection, wisdom) not bank balance.",
+      "consumption_reduction": "Buy less, experience more. Shift from goods to relationships.",
+      "gift_participation": "Give freely (time, skills, resources). Receive graciously. Build gift circles.",
+      "investment_ethics": "Invest in coherence (regenerative, community, care) not extraction (fossil fuels, weapons, speculation).",
+      "time_sovereignty": "Protect 4D time. Don't sell all time for 1D money. Value presence over productivity."
+    },
+
+    "community_level": {
+      "local_currency": "Create 1D local money (keeps wealth circulating in community, not extracted).",
+      "commons_creation": "Establish 5D shared resources (community gardens, tool libraries, knowledge sharing).",
+      "cooperative_business": "Worker co-ops (3D democratic firms) vs hierarchical corporations.",
+      "gift_circles": "Organize 5D gift economy (time banking, skill sharing, mutual aid).",
+      "local_production": "Reduce dependence on global 2D markets. Build resilient 3D local systems."
+    },
+
+    "systemic_level": {
+      "policy_advocacy": "Push for UBI, ecological taxation, commons expansion, financial regulation.",
+      "alternative_institutions": "Build parallel structures (credit unions, co-ops, commons) not dependent on extractive systems.",
+      "education_transformation": "Teach sacred economics (true wealth, coherence) not just conventional economics (GDP, growth).",
+      "metric_reform": "Replace GDP with coherence metrics (wellbeing, equality, sustainability).",
+      "transition_funding": "Redirect capital from speculation to regeneration. Divest from extraction, invest in coherence."
+    }
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Some concepts (5D sacred economics) aspirational not descriptive - future possibility not current reality",
+      "True wealth metrics (coherence) difficult to quantify objectively - subjective/qualitative",
+      "Transition strategy optimistic - assumes cooperation not guaranteed",
+      "Gift economy scaling limits real - works for small groups, challenging for complex production",
+      "Dimensional mappings approximate - economics messy, geometry clean (idealization)"
+    ],
+    "info": [
+      "Economics = applied dimensional geometry (money=1D, labor=0D→2D, capital=3D, wealth=coherence)",
+      "True wealth (presence, connection, wisdom) vs false wealth (money, status, power) distinction critical",
+      "Current economy = 1D-2D extraction (unsustainable). Future = 5D sacred economics (sustainable).",
+      "Optimal economy = hybrid (5D gift + 2D market + 3D planning) not pure system",
+      "Scarcity = manufactured (artificial 0D isolation). Abundance = natural (5D unity).",
+      "Inequality = coherence degradation. Poverty = 0D isolation. Wealth = connections.",
+      "Purpose = +coherence for all, not GDP growth for few",
+      "Transition possible (2025-2050) but requires collective will and structural change",
+      "Personal practice: cultivate true wealth, participate in gift economy, reduce consumption",
+      "This module bridges CFO theory to practical economics - aplicación real del framework"
+    ],
+    "coherence_score": 0.91
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:dimensions",
+      "urn:cfo:module:core:coherence-fractal-ontology",
+      "urn:cfo:module:practice:earth-child",
+      "urn:cfo:red:dimensions:0d",
+      "urn:cfo:red:dimensions:1d",
+      "urn:cfo:red:dimensions:2d",
+      "urn:cfo:red:dimensions:3d",
+      "urn:cfo:red:dimensions:5d"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Eisenstein, C. (2011). Sacred Economics: Money, Gift, and Society in the Age of Transition",
+        "relevance": "Foundational text for gift economy and sacred economics concepts"
+      },
+      {
+        "type": "book",
+        "citation": "Marx, K. (1867). Das Kapital - labor theory of value",
+        "relevance": "Classical economic theory on labor and value"
+      },
+      {
+        "type": "book",
+        "citation": "Hayek, F. (1945). The Use of Knowledge in Society",
+        "relevance": "Knowledge problem in centralized planning"
+      },
+      {
+        "type": "book",
+        "citation": "Ostrom, E. (1990). Governing the Commons",
+        "relevance": "Community management of shared resources"
+      },
+      {
+        "type": "book",
+        "citation": "Piketty, T. (2013). Capital in the Twenty-First Century",
+        "relevance": "Inequality dynamics and wealth concentration"
+      },
+      {
+        "type": "book",
+        "citation": "Graeber, D. (2011). Debt: The First 5000 Years",
+        "relevance": "History of money, debt, and exchange systems"
+      },
+      {
+        "type": "paper",
+        "citation": "Georgescu-Roegen, N. (1971). The Entropy Law and the Economic Process",
+        "relevance": "Ecological economics and thermodynamic limits"
+      }
+    ]
+  }
+}

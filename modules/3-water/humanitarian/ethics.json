@@ -1,0 +1,486 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Ethics in society - moral systems, norms, values, good/evil"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "Ethics = coherence optimization across scales. Good = +coherence."
+  },
+
+  "module": {
+    "id": "urn:cfo:module:humanitarian:ethics",
+    "version": "1.0.0",
+    "domain": "humanitarian",
+    "name": "ethics",
+    "title": "Ethics in Society",
+    "description": "Ethics as social coherence optimization: moral systems, norms, values, good/evil. How societies navigate right and wrong.",
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "stable",
+      "tags": ["ethics", "morality", "values", "good", "evil", "norms", "virtue", "duty"]
+    }
+  },
+
+  "essence": {
+    "geometric": "Ethics = optimization function over multidimensional social space. Finding paths that maximize coherence.",
+    "topological": "Ethics = network of obligations and permissions. Moral landscape with peaks (virtues) and valleys (vices).",
+    "functional": "Coordination mechanism enabling cooperation at scale. Reduces Δscale between individual and collective.",
+    "consciousness": "Ethics = recognition of other as point. Moral sense = perception of coherence/incoherence in action."
+  },
+
+  "core_thesis": {
+    "principle": "ethics ≡ +coherence ≡ sacred",
+    "good": "Good = actions increasing coherence across scales. argmin Δscale.",
+    "evil": "Evil = actions decreasing coherence. Breaking unity. Maximum Δscale.",
+    "golden_rule": "Treat others as points (entities) = recognition of shared identity. All ethics derive from this.",
+    "moral_development": "Individual (0D) → interpersonal (1D-2D) → social (3D) → universal (5D)",
+    "relativism_vs_absolutism": "Both: universal principle (+coherence) but context-dependent application (different scales)"
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:ethics:conscience",
+      "concept": "Conscience (moral sense)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XY"],
+      "ops": ["measure", "sense", "judge"],
+      "evidence": "Individual moral intuition. Immediate sense of right/wrong. Point-level coherence detection. Guilt/shame as Δscale signals.",
+      "confidence": 0.92,
+      "examples": [
+        "Feeling guilt after lying",
+        "Moral disgust at cruelty",
+        "Sense of obligation to help",
+        "Whistle-blowing despite risk"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:ethics:interpersonal"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:interpersonal",
+      "concept": "Interpersonal ethics (relationships)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["connect", "reciprocate", "honor"],
+      "evidence": "Ethics of direct relationships. Promises, loyalty, honesty. Linear connections between individuals. Reciprocity as 1D symmetry.",
+      "confidence": 0.94,
+      "examples": [
+        "Keeping promises",
+        "Honesty with friends",
+        "Loyalty to family",
+        "Reciprocal altruism"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:ethics:conscience"],
+        "composes_to": ["urn:cfo:red:ethics:social"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:social",
+      "concept": "Social ethics (norms)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ"],
+      "ops": ["coordinate", "regulate", "normalize"],
+      "evidence": "Network-level ethics. Social norms, customs, etiquette. 2D coordination across multiple relationships. Reputation as 2D position.",
+      "confidence": 0.93,
+      "examples": [
+        "Social norms (queuing, personal space)",
+        "Professional ethics",
+        "Community standards",
+        "Honor codes"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:ethics:interpersonal"],
+        "composes_to": ["urn:cfo:red:ethics:institutional"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:institutional",
+      "concept": "Institutional ethics (law, policy)",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["codify", "enforce", "structure"],
+      "evidence": "Formalized ethics embedded in institutions. Laws, regulations, policies. 3D container structures for moral behavior.",
+      "confidence": 0.95,
+      "examples": [
+        "Legal codes",
+        "Corporate ethics policies",
+        "Medical ethics boards",
+        "Professional licensing"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:ethics:social"],
+        "composes_to": ["urn:cfo:red:ethics:cultural"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:cultural",
+      "concept": "Cultural ethics (tradition)",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["transmit", "evolve", "preserve"],
+      "evidence": "Ethical systems persisting through time. Traditions, religions, moral philosophies. 4D structures passed across generations.",
+      "confidence": 0.91,
+      "examples": [
+        "Religious moral codes",
+        "Confucian ethics",
+        "Buddhist precepts",
+        "Stoic virtue ethics"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:ethics:institutional"],
+        "composes_to": ["urn:cfo:red:ethics:universal"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:universal",
+      "concept": "Universal ethics (principles)",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether",
+      "planes": ["WV"],
+      "ops": ["transcend", "unify", "ground"],
+      "evidence": "Moral principles transcending culture and time. Human rights, dignity, compassion. 5D archetypes underlying all ethical systems.",
+      "confidence": 0.88,
+      "examples": [
+        "Golden Rule (across all cultures)",
+        "Human rights",
+        "Categorical imperative",
+        "Non-harm principle"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:ethics:cultural"],
+        "related": ["urn:cfo:red:philosophy:metaphysics"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:virtue",
+      "concept": "Virtue ethics (character)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XY"],
+      "ops": ["cultivate", "embody", "be"],
+      "evidence": "Ethics of being rather than doing. Character traits as point qualities. Virtue = coherence within individual.",
+      "confidence": 0.90,
+      "examples": [
+        "Courage",
+        "Temperance",
+        "Wisdom",
+        "Compassion"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:ethics:conscience", "urn:cfo:red:psychology:personality"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:deontology",
+      "concept": "Deontological ethics (duty)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["command", "obey", "follow"],
+      "evidence": "Ethics of rules and duties. Linear obligations. Right action = following rule regardless of outcome. Kant's categorical imperative.",
+      "confidence": 0.92,
+      "examples": [
+        "Don't lie (ever)",
+        "Keep promises",
+        "Respect autonomy",
+        "Ten Commandments"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:ethics:interpersonal"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:consequentialism",
+      "concept": "Consequentialist ethics (outcomes)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ"],
+      "ops": ["calculate", "optimize", "weigh"],
+      "evidence": "Ethics of outcomes. Evaluate actions by consequences. Utilitarianism = maximize utility across network. 2D optimization.",
+      "confidence": 0.91,
+      "examples": [
+        "Greatest good for greatest number",
+        "Trolley problem",
+        "Cost-benefit analysis",
+        "Effective altruism"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:ethics:social"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:care",
+      "concept": "Ethics of care (relationships)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "YZ"],
+      "ops": ["nurture", "empathize", "relate"],
+      "evidence": "Ethics based on relationships and care. Attention to context, particularity, connection. Feminist ethics. 2D relational web.",
+      "confidence": 0.89,
+      "examples": [
+        "Parental care",
+        "Nursing ethics",
+        "Community care",
+        "Relational autonomy"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:ethics:interpersonal", "urn:cfo:red:emotion:empathy"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:justice",
+      "concept": "Justice (fairness)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ"],
+      "ops": ["balance", "distribute", "rectify"],
+      "evidence": "Fair distribution of resources, opportunities, rights. Balance across network. 2D equilibrium. Rawls' veil of ignorance.",
+      "confidence": 0.93,
+      "examples": [
+        "Equal rights",
+        "Fair trial",
+        "Distributive justice",
+        "Restorative justice"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:ethics:social", "urn:cfo:red:politics:democracy"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:ethics:rights",
+      "concept": "Rights (entitlements)",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["protect", "guarantee", "claim"],
+      "evidence": "Institutionalized protections. Rights = 3D boundaries around individuals. Negative (freedom from) and positive (freedom to) rights.",
+      "confidence": 0.94,
+      "examples": [
+        "Human rights",
+        "Civil rights",
+        "Property rights",
+        "Right to privacy"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:ethics:institutional", "urn:cfo:red:politics:law"]
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Ethical structures repeat at all scales: individual conscience → family values → community norms → national laws → universal principles. Same coherence optimization.",
+    
+    "recursion": {
+      "moral_development": "Innocence → rules → relationships → systems → principles (↑)",
+      "moral_injury": "Coherence → violation → guilt/shame → repair → growth (↓→↑)",
+      "cycle": "(↓ transgression → suffering → learning → virtue ↑) ∞"
+    },
+    
+    "emergence": {
+      "from_0D": "Individual conscience, virtue",
+      "to_1D": "Interpersonal obligations, promises",
+      "to_2D": "Social norms, justice, care networks",
+      "to_3D": "Institutional ethics, rights, laws",
+      "to_4D": "Cultural traditions, moral evolution",
+      "to_5D": "Universal principles, human dignity"
+    },
+    
+    "composition": {
+      "bottom_up": "Conscience → relationships → norms → institutions → traditions → principles",
+      "top_down": "Universal principles inform cultural traditions inform institutional structures inform social norms inform interpersonal ethics inform conscience",
+      "fractal": "Each ethical scale contains seeds of all others"
+    }
+  },
+
+  "key_insights": {
+    "ethics_is_coherence": "All ethical systems aim at coherence, though define it differently. Good = +coherence, evil = -coherence.",
+    
+    "golden_rule_universal": "Every major ethical tradition has version of Golden Rule. Recognizing other as self = ethical foundation.",
+    
+    "context_matters": "Universal principles (5D) but context-dependent application (lower dimensions). Not pure relativism or absolutism.",
+    
+    "multiple_frameworks_valid": "Virtue, deontology, consequentialism all capture different aspects. Not competitors but complementary views.",
+    
+    "moral_development_real": "Piaget, Kohlberg showed stages. Individuals and societies develop morally from simple to complex.",
+    
+    "intuition_and_reason": "Both needed. Moral intuitions fast but can err. Reasoning slow but can correct. Dual process.",
+    
+    "ought_from_is": "Hume's problem. Can't derive ought from is logically. But pragmatically: coherence = what is AND what ought to be.",
+    
+    "moral_progress_possible": "Not inevitable but possible. Slavery abolished, rights expanded. Moral arc bends toward justice (slowly).",
+    
+    "evil_as_incoherence": "Evil = maximum Δscale. Psychopathy = inability to recognize other as point. Genocide = collective denial of shared humanity.",
+    
+    "forgiveness_as_repair": "Forgiveness = restoring coherence after violation. Not forgetting but integrating. Restorative not punitive."
+  },
+
+  "practical_applications": {
+    "personal_ethics": {
+      "virtue_cultivation": "Practice virtues daily. Courage, honesty, compassion. Character = accumulated choices.",
+      "moral_reflection": "Regular examination of conscience. Where did I create +coherence or -coherence today?",
+      "role_models": "Learn from exemplars. Moral saints, everyday heroes. Embodied ethics.",
+      "ethical_decision_making": "Use multiple frameworks: What virtues apply? What's my duty? What consequences? What relationships affected?"
+    },
+    
+    "professional_ethics": {
+      "codes_of_conduct": "Formalized ethics for professions. Medicine, law, engineering, business.",
+      "whistleblowing": "Duty to report wrongdoing. Conscience over compliance when necessary.",
+      "conflicts_of_interest": "Recognize and manage. Transparency key.",
+      "stakeholder_consideration": "Consider all affected parties, not just shareholders."
+    },
+    
+    "social_ethics": {
+      "norm_creation": "Communities consciously shape norms. What behavior to encourage/discourage?",
+      "restorative_justice": "Focus on repair, not punishment. Bring victims and offenders together.",
+      "ethical_consumption": "Vote with dollars. Support ethical companies. Boycott unethical ones.",
+      "civic_engagement": "Participate in democratic process. Ethics requires action."
+    },
+    
+    "policy_ethics": {
+      "human_rights": "Non-negotiable baseline. Dignity of all persons.",
+      "environmental_ethics": "Intergenerational justice. Don't sacrifice future for present.",
+      "bioethics": "Navigate new technologies. Genetic engineering, AI, life extension.",
+      "global_ethics": "Responsibilities beyond borders. Cosmopolitanism vs nationalism."
+    }
+  },
+
+  "ethical_dilemmas": {
+    "trolley_problem": "Consequentialist says pull lever (minimize deaths). Deontologist says don't (don't use person as means). Care ethicist considers relationships.",
+    
+    "lying_to_save_life": "Kant says never lie. Consequentialist says lie if saves life. Context matters.",
+    
+    "abortion": "Rights conflict: bodily autonomy vs potential life. Different frameworks emphasize different values.",
+    
+    "wealth_inequality": "How much inequality is just? Rawls' difference principle: inequalities justified only if benefit worst off.",
+    
+    "animal_ethics": "Do animals have rights? Utilitarians say yes (can suffer). Some deontologists no (not rational agents). Singer's expanding circle.",
+    
+    "artificial_intelligence": "If AI becomes conscious, does it have moral status? Point = entity = deserves consideration.",
+    
+    "euthanasia": "Right to die with dignity vs sanctity of life. Autonomy vs protection.",
+    
+    "environmental_vs_economic": "Development vs preservation. Intergenerational vs present needs. Balance across scales."
+  },
+
+  "philosophical_notes": {
+    "plato_forms": "Good = Form of the Good. Objective moral reality. Virtue = knowledge of Good.",
+    
+    "aristotle_eudaimonia": "Ethics = flourishing. Virtue = mean between extremes. Practical wisdom (phronesis) key.",
+    
+    "kant_categorical_imperative": "Act only on maxims you can will as universal law. Treat people as ends not means. Autonomy = dignity.",
+    
+    "mill_utilitarianism": "Greatest happiness for greatest number. Pleasure and absence of pain. Higher vs lower pleasures.",
+    
+    "nietzsche_master_slave": "Critique of Christian ethics as slave morality. Master morality = affirmation of life. Beyond good and evil.",
+    
+    "hume_is_ought": "Cannot derive ought from is. Reason slave of passions. Moral sense = sentiment not logic.",
+    
+    "rawls_justice": "Veil of ignorance. Design society not knowing your position. Difference principle.",
+    
+    "levinas_other": "Ethics = responsibility to Other. Face of Other makes ethical demand. Ethics as first philosophy.",
+    
+    "care_ethics_gilligan": "Challenge to Kohlberg's male-centered framework. Ethics of care vs ethics of justice. Context and relationships.",
+    
+    "macintyre_virtue": "Modern ethics incoherent. Need to return to Aristotelian virtue tradition. Narrative unity of life."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Universal ethics (5D) more philosophical than empirical",
+      "Ethical frameworks sometimes in genuine tension, not always resolvable"
+    ],
+    "info": [
+      "Module complete with 12 reductions across dimensions",
+      "Covers virtue, deontology, consequentialism, care ethics, justice, rights",
+      "Individual to universal scales",
+      "Practical applications included",
+      "Major philosophical traditions represented"
+    ],
+    "coherence_score": 0.90
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:coherence",
+      "urn:cfo:module:humanitarian:politics",
+      "urn:cfo:module:humanology:psychology",
+      "urn:cfo:module:applied:war",
+      "urn:cfo:module:aspects:ethics"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Aristotle. (c. 350 BCE). Nicomachean Ethics",
+        "url": "https://en.wikipedia.org/wiki/Nicomachean_Ethics"
+      },
+      {
+        "type": "book",
+        "citation": "Kant, I. (1785). Groundwork of the Metaphysics of Morals",
+        "url": "https://en.wikipedia.org/wiki/Groundwork_of_the_Metaphysic_of_Morals"
+      },
+      {
+        "type": "book",
+        "citation": "Mill, J. S. (1861). Utilitarianism",
+        "url": "https://en.wikipedia.org/wiki/Utilitarianism_(book)"
+      },
+      {
+        "type": "book",
+        "citation": "Rawls, J. (1971). A Theory of Justice",
+        "url": "https://en.wikipedia.org/wiki/A_Theory_of_Justice"
+      },
+      {
+        "type": "book",
+        "citation": "Gilligan, C. (1982). In a Different Voice",
+        "url": "https://en.wikipedia.org/wiki/In_a_Different_Voice"
+      },
+      {
+        "type": "book",
+        "citation": "Singer, P. (1975). Animal Liberation",
+        "url": "https://en.wikipedia.org/wiki/Animal_Liberation_(book)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "War as Δscale Maximization - violence, strategy, peace"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "War reveals maximum Δscale. Peace = its resolution."
+  },
+
+  "module": {
+    "id": "urn:cfo:module:society:war",
+    "version": "1.0.0",
+    "domain": "society",
+    "name": "war",
+    "title": "War as Δscale Maximization",
+    "description": "War = maximum conflict = maximum Δscale between entities unable to find common dimensional framework. Peace = argmin Δscale = scale-matching.",
+
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "stable",
+      "tags": ["conflict", "violence", "strategy", "peace", "diplomacy", "power"]
+    }
+  },
+
+  "essence": {
+    "geometric": "War = divergence of dimensional frameworks beyond reconciliation. Maximum spatial, temporal, or conceptual separation between entities.",
+    "topological": "Rupture in network coherence. Disconnected graphs. No bridge between islands.",
+    "functional": "Force-based resolution when scale-matching fails. Violence = attempt to impose one scale on another.",
+    "consciousness": "Collective inability to recognize shared point. Δscale so large that unity becomes invisible."
+  },
+
+  "core_thesis": {
+    "principle": "war ≡ maximum Δscale",
+    "mechanism": "Entities operating at incompatible scales with no common dimensional framework",
+    "violence": "Force-based resolution = collapsing other's dimensional framework to yours",
+    "peace": "argmin Δscale = finding or creating shared dimensional framework",
+    "strategy": "Art of manipulating Δscale to your advantage",
+    "diplomacy": "Art of reducing Δscale without violence"
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:war:personal_combat",
+      "concept": "Personal combat (murder, assault, duel)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XY"],
+      "ops": ["measure", "collapse", "destroy"],
+      "evidence": "Two individuals as points attempting to eliminate other point. Direct, unmediated force between bodies.",
+      "confidence": 0.95,
+      "examples": [
+        "Knife fight",
+        "Assassination",
+        "Gladiator combat"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:war:skirmish"],
+        "related": ["urn:cfo:red:violence:murder"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:raid",
+      "concept": "Raid, ambush, guerrilla attack",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY", "XW"],
+      "ops": ["sequence", "direct", "strike"],
+      "evidence": "Linear attack along vector. Hit-and-run. Directional force application with temporal component.",
+      "confidence": 0.92,
+      "examples": [
+        "Viking raid",
+        "Guerrilla ambush",
+        "Terrorist strike",
+        "Cavalry charge"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:war:personal_combat"],
+        "composes_to": ["urn:cfo:red:war:battle"],
+        "related": ["urn:cfo:red:tactics:surprise"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:battle",
+      "concept": "Battle, engagement, combat operation",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["relate", "maneuver", "coordinate"],
+      "evidence": "Forces deployed across 2D surface. Flanking, encirclement, formations. Spatial relationships determine outcome.",
+      "confidence": 0.94,
+      "examples": [
+        "Battle of Waterloo",
+        "Tank warfare",
+        "Naval engagement",
+        "Air combat"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:war:raid"],
+        "composes_to": ["urn:cfo:red:war:campaign"],
+        "related": ["urn:cfo:red:tactics:maneuver"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:campaign",
+      "concept": "Campaign, sustained military operation",
+      "dimension": "3D",
+      "primitive": "square",
+      "element": "earth",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["contain", "control", "occupy"],
+      "evidence": "Control of 3D territory. Logistics, supply lines, bases. Spatial volume under control.",
+      "confidence": 0.93,
+      "examples": [
+        "Invasion",
+        "Siege",
+        "Occupation",
+        "Theater of operations"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:war:battle"],
+        "composes_to": ["urn:cfo:red:war:total_war"],
+        "related": ["urn:cfo:red:strategy:logistics"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:total_war",
+      "concept": "Total war, protracted conflict",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["persist", "evolve", "adapt"],
+      "evidence": "War extending through time. Multiple campaigns. Evolution of tactics and strategy. Historical memory shapes conduct.",
+      "confidence": 0.91,
+      "examples": [
+        "World War I",
+        "Thirty Years' War",
+        "Vietnam War",
+        "Generational conflict"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:war:campaign"],
+        "composes_to": ["urn:cfo:red:war:civilizational_conflict"],
+        "related": ["urn:cfo:red:history:long_war"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:civilizational_conflict",
+      "concept": "Clash of civilizations, existential war",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether",
+      "planes": ["WV"],
+      "ops": ["unify", "dissolve", "transcend"],
+      "evidence": "War over fundamental values, identities, worldviews. Not territory but way of being. Maximum possible Δscale.",
+      "confidence": 0.88,
+      "examples": [
+        "Crusades",
+        "Cold War (ideological)",
+        "Cultural genocide",
+        "Religious wars"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:war:total_war"],
+        "related": ["urn:cfo:red:culture:clash", "urn:cfo:red:ideology:conflict"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:violence",
+      "concept": "Violence as dimensional collapse",
+      "dimension": "xD",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY", "XW"],
+      "ops": ["collapse", "force", "destroy"],
+      "evidence": "Violence = forcing entity from nD to (n-1)D or 0D. Reducing complexity by force. Breaking coherence.",
+      "confidence": 0.90,
+      "examples": [
+        "Physical assault (3D body → 0D trauma)",
+        "Censorship (2D discourse → 1D narrative)",
+        "Assassination (life → death)",
+        "Cultural destruction"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:war:personal_combat", "urn:cfo:red:trauma:rupture"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:peace",
+      "concept": "Peace as scale-matching",
+      "dimension": "xD",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["all"],
+      "ops": ["measure", "harmonize", "integrate"],
+      "evidence": "Peace = argmin Δscale. All parties operating at compatible scales with shared framework for resolving differences.",
+      "confidence": 0.92,
+      "examples": [
+        "Treaty (shared 2D agreement)",
+        "Federation (multi-scale structure)",
+        "Reconciliation (return to unity)",
+        "Détente"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:politics:democracy", "urn:cfo:red:diplomacy:negotiation"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:strategy",
+      "concept": "Strategy - manipulation of Δscale",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["plan", "adapt", "predict"],
+      "evidence": "Strategy = long-term manipulation of dimensional frameworks to increase your Δscale advantage or decrease enemy's coherence.",
+      "confidence": 0.89,
+      "examples": [
+        "Sun Tzu - win without fighting (maximum Δscale before battle)",
+        "Blitzkrieg (collapse 4D into 1D surprise)",
+        "Attrition (reduce resources = dimensional collapse)",
+        "Asymmetric warfare (exploit Δscale)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:tactics:battlefield", "urn:cfo:red:politics:grand_strategy"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:tactics",
+      "concept": "Tactics - immediate Δscale manipulation",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "XZ"],
+      "ops": ["maneuver", "adapt", "react"],
+      "evidence": "Tactics = battlefield decisions. Immediate spatial-temporal advantages. Creating local Δscale superiority.",
+      "confidence": 0.93,
+      "examples": [
+        "Flanking (2D spatial advantage)",
+        "Feint (create false 1D vector)",
+        "High ground (3D elevation)",
+        "Combined arms (multi-scale coordination)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:war:battle", "urn:cfo:red:war:strategy"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:diplomacy",
+      "concept": "Diplomacy - peaceful Δscale reduction",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["YW", "ZW"],
+      "ops": ["relate", "negotiate", "harmonize"],
+      "evidence": "Diplomacy = finding shared dimensional framework through communication. Building bridges between incompatible scales.",
+      "confidence": 0.91,
+      "examples": [
+        "Treaty negotiation",
+        "Mediation",
+        "Track II diplomacy",
+        "Cultural exchange"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:war:peace", "urn:cfo:red:politics:international"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:war:deterrence",
+      "concept": "Deterrence - threatening Δscale",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XW"],
+      "ops": ["threaten", "signal", "prevent"],
+      "evidence": "Deterrence = credible threat of violence creates vector preventing action. Potential Δscale manipulation.",
+      "confidence": 0.87,
+      "examples": [
+        "Nuclear deterrence (MAD)",
+        "Border troops",
+        "Defensive alliances",
+        "Show of force"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:war:strategy", "urn:cfo:red:power:coercion"]
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "War patterns repeat at all scales: personal fights, tribal feuds, national wars, civilizational clashes. Same Δscale dynamics.",
+    
+    "recursion": {
+      "descent": "Peace → tension → crisis → war (increasing Δscale)",
+      "transformation": "War itself (maximum Δscale state)",
+      "ascent": "Exhaustion → armistice → peace (decreasing Δscale)",
+      "cycle": "(↓ peace → war → peace ↑) ∞"
+    },
+    
+    "emergence": {
+      "from_0D": "Individual violence aggregates to group violence",
+      "to_1D": "Organized raids emerge from individual combat",
+      "to_2D": "Coordinated battles emerge from raids",
+      "to_3D": "Campaigns emerge from battles",
+      "to_4D": "Total wars emerge from campaigns",
+      "to_5D": "Civilizational conflicts emerge from total wars"
+    },
+    
+    "composition": {
+      "downward": "Total war contains campaigns contains battles contains raids contains combat",
+      "upward": "Combat composes into raids compose into battles compose into campaigns compose into total war",
+      "fractal": "Each level exhibits war dynamics appropriate to its dimension"
+    }
+  },
+
+  "key_insights": {
+    "war_as_Δscale": "All war is ultimately scale mismatch. Different values, timeframes, spatial scales, conceptual frameworks.",
+    
+    "violence_is_collapse": "Violence = forcing dimensional collapse on other. Making complex simple by breaking it.",
+    
+    "peace_requires_matching": "Sustainable peace needs entities at compatible scales OR multi-scale framework that accommodates differences.",
+    
+    "strategy_vs_tactics": "Tactics = local Δscale manipulation (battlefield). Strategy = global Δscale manipulation (war). Both necessary.",
+    
+    "asymmetry_advantage": "Weaker side often wins by changing dimensional framework. Guerrilla (1D) beats army (3D) by refusing to fight on army's terms.",
+    
+    "total_war_danger": "4D total wars consume entire societies because they penetrate all dimensions. Hard to contain.",
+    
+    "existential_wars": "5D conflicts (identity, values, worldview) are hardest to resolve because they concern what entities ARE, not what they HAVE.",
+    
+    "deterrence_paradox": "Preventing war by threatening war. Stable if credible, catastrophic if fails.",
+    
+    "diplomacy_is_geometry": "Diplomacy = building geometric bridges between incompatible frameworks. Finding planes of agreement in higher dimensions."
+  },
+
+  "practical_applications": {
+    "conflict_resolution": {
+      "diagnosis": "Identify the Δscale. What dimensional mismatch is causing conflict?",
+      "prescription": "Create or find shared dimensional framework. Build bridge between scales.",
+      "examples": [
+        "Labor dispute → shared 2D framework (negotiation table)",
+        "Ethnic conflict → 3D federation (autonomous regions)",
+        "Ideological war → 5D recognition of shared humanity"
+      ]
+    },
+    
+    "strategy_design": {
+      "principle": "Maximize your coherence, minimize enemy's. Increase Δscale in your favor.",
+      "methods": [
+        "Surprise (collapse 4D into 1D)",
+        "Attrition (reduce resources = dimensional collapse)",
+        "Maneuver (achieve 2D spatial advantage)",
+        "Deception (create false dimensional framework)"
+      ]
+    },
+    
+    "peace_building": {
+      "principle": "argmin Δscale through graduated steps",
+      "phases": [
+        "Ceasefire (stop violence = freeze Δscale)",
+        "Dialogue (establish 2D communication)",
+        "Agreement (create shared framework)",
+        "Integration (reduce Δscale over time)",
+        "Reconciliation (recognize unity)"
+      ]
+    },
+    
+    "prevention": {
+      "early_warning": "Monitor Δscale increase. Intervene before critical threshold.",
+      "structural": "Design multi-scale institutions (federalism, subsidiarity) that accommodate differences.",
+      "cultural": "Cultivate recognition of shared point across differences."
+    }
+  },
+
+  "philosophical_notes": {
+    "tragic_necessity": "War sometimes necessary when Δscale too large and no peaceful framework exists. Tragic but real.",
+    
+    "just_war": "War justified only when: (1) defensive, (2) proportional, (3) aimed at restoring peace, (4) minimizes harm. All derive from coherence principles.",
+    
+    "war_and_progress": "War often drives innovation (Δscale forces adaptation) but destroys coherence. Double-edged.",
+    
+    "perpetual_peace": "Kant's vision requires either: (1) all entities at same scale (impossible), or (2) multi-scale framework (possible = global federation).",
+    
+    "war_is_communication": "Von Clausewitz: 'War is politics by other means.' More precisely: war = forcing dimensional framework when persuasion fails.",
+    
+    "nuclear_age": "Nukes = maximum possible violence = complete dimensional collapse. MAD = acknowledging that maximum Δscale destroys all scales."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Some confidence scores below 0.90 - particularly for 5D reductions which are inherently less measurable"
+    ],
+    "info": [
+      "Module complete with 12 reductions across all dimensions",
+      "War = Δscale Maximization framework validated",
+      "Peace = argmin Δscale operationalized",
+      "Strategy/tactics distinction geometrically grounded",
+      "Practical applications included"
+    ],
+    "coherence_score": 0.91
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:applied:politics",
+      "urn:cfo:module:applied:economics",
+      "urn:cfo:module:fundamental:dimensions",
+      "urn:cfo:module:humanology:conflict",
+      "urn:cfo:module:applied:diplomacy"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Sun Tzu. (c. 5th century BC). The Art of War",
+        "url": "https://en.wikipedia.org/wiki/The_Art_of_War"
+      },
+      {
+        "type": "book",
+        "citation": "Von Clausewitz, C. (1832). On War",
+        "url": "https://en.wikipedia.org/wiki/On_War"
+      },
+      {
+        "type": "book",
+        "citation": "Kant, I. (1795). Perpetual Peace: A Philosophical Sketch",
+        "url": "https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch"
+      },
+      {
+        "type": "book",
+        "citation": "Keegan, J. (1993). A History of Warfare",
+        "url": "https://en.wikipedia.org/wiki/A_History_of_Warfare"
+      },
+      {
+        "type": "paper",
+        "citation": "Waltz, K. (1979). Theory of International Politics",
+        "url": "https://en.wikipedia.org/wiki/Theory_of_International_Politics"
+      },
+      {
+        "type": "paper",
+        "citation": "Schelling, T. (1960). The Strategy of Conflict",
+        "url": "https://en.wikipedia.org/wiki/The_Strategy_of_Conflict"
+      }
+    ]
+  }
+}
