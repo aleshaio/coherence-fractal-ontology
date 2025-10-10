@@ -75,94 +75,68 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
 
 ### **Core Foundation**
 - **`/core/`** — canonical JSON specifications:
-  - `coherence-fractal-ontology.json` — complete framework specification v3.1
-  - `coherence-fractal-ontology-mini.json` — minimal version
-  - `5d.json` — 5D space description
-  - `foundations.json` — foundational concepts
-  - `reduction_protocol.json` — reduction protocol
+  - `core.json` / `core-min.json` — complete framework specs
+  - `dimensions.json`, `elements.json`, `primitives.json`
+  - `foundations.json`, `rules.json`, `validator.json`
+  - `reduction_protocol.json` — Universal Decomposer Protocol
   
-### **Fundamental Modules**
-- **`/modules/fundamental/`** — foundational concepts:
-  - `dimensions.json` — complete 0D-6D dimensional theory v3.0
-  - `symbols.json` — symbolic systems
-  - `language.json` — linguistic structures
-  - `geometry.json` — geometric primitives
-  - `death.json` — death as • → ∅ transformation v3.1 ⭐
-  - `life.json` — life as ∅ → • emergence v3.1 ⭐
+### **0-Ether** — Fundamental Layer (0D: Point, Absolute) [4 modules]
+- **`/modules/0-ether/`**
+  - `absolute.json` — absolute unity, point ≡ entity ≡ love
+  - `consciousness.json` — consciousness as dimensional collapse
+  - `energy.json` — energy as fundamental substrate
+  - `information.json` — information as pattern carrier
   
-### **Natural Sciences**
-- **`/modules/natural-sciences/`** — physical reality:
-  - `physics.json` — quantum to cosmology v3.0
-  - `chemistry.json` — atomic to molecular
-  - `biology.json` — cells to ecosystems
-  - `astronomy.json` — celestial mechanics
-  - `geology.json` — planetary structures
-  - `ecology.json` — environmental systems
-  - `neuroscience.json` — brain and consciousness
+### **1-Air** — Pattern Layer (1D: Line, Direction) [7 modules]
+- **`/modules/1-air/`**
+  - `primitives/` — point, line, plane geometric primitives
+  - `genetic-code.json` — DNA as 64-codon information pattern
+  - `pattern-64.json` — universal 64-element systems (I Ching, codons, amino acids)
+  - `symbols.json` — symbolic systems and meaning
+  - `life.json` — life as ∅ → • emergence ⭐
+  - `death.json` — death as • → ∅ transformation ⭐
+  - `equilibrium.json` — balance and equilibrium states
   
-### **Formal Sciences**
-- **`/modules/formal-sciences/`** — abstract systems:
-  - `mathematics.json` — numbers to topology
-  - `computer_science.json` — algorithms to AI
+### **2-Fire** — Natural Sciences (2D: Triangle, Dynamics) [18 modules]
+- **`/modules/2-fire/natural/`** [8]:
+  - `physics.json`, `chemistry.json`, `biology.json`, `mathematics.json`
+  - `geometry.json`, `astronomy.json`, `cosmology.json`, `geology.json`
   
-### **Humanology** ⭐ *Complete in v3.1*
-- **`/modules/humanology/`** — complete human sciences integration:
+- **`/modules/2-fire/phenomenas/`** [10]:
+  - `existence-time.json`, `gravity.json`, `light.json`, `sound.json`
+  - `temperature.json`, `pressure.json`, `position.json`
+  - `flavor.json`, `odor.json`, `integrity.json`
   
-  **Individual Level (0D-4D):**
-  - `types.json` — 16 archetypes, Jung, MBTI, Socionics v3.0
-  - `psychology.json` — complete psychology theory 0D-6D v3.0
-  - `philosophy.json` — all philosophical traditions v3.0
-  - `religion.json` — world religions + mysticism v3.0
-  - `sex.json` — sexuality, desire, intimacy, roles v3.1 ⭐
+### **3-Water** — Human Sciences (3D: Tetrahedron, Complexity) [27 modules]
+- **`/modules/3-water/humanitarian/`** [16]:
+  - `aesthetics.json`, `colors.json`, `dialogue.json`, `education.json`
+  - `ethics.json` ⭐, `ideas.json`, `language.json`, `literature.json`
+  - `memory.json` ⭐, `metaphor.json`, `music.json`, `myth.json`
+  - `narrative.json`, `rhetoric.json`, `semiotics.json`, `writing-systems.json`
   
-  **Perception & Expression:**
-  - `music.json` — music as consciousness technology v3.0
-  - `colors.json` — color theory + visual frequencies v3.0
-  - `design.json` — design as consciousness interface v3.0
+- **`/modules/3-water/humanology/`** [11]:
+  - `human-being.json`, `types.json` (16 archetypes: Jung/MBTI/Socionics)
+  - `aspects/` — 4 information aspects (intuition, logic, ethics, sensorics)
+  - `cognition/` — cognitive processes, dynamics, science
+  - `emotions.json`, `senses.json`, `bodytypes.json`, `roles.json`
+  - `sex.json` ⭐, `strategic-64.json`, `unified-cosmology.json`
   
-  **Development & Learning:**
-  - `education.json` — complete education theory 0D-6D v3.0
-  
-  **Collective Level (5D-6D):**
-  - `sociology.json` — society as emergent hive v3.0
+### **4-Earth** — Applied Layer (4D: Cube, Manifestation) [6 modules]
+- **`/modules/4-earth/`**
+  - `earth.json` — planetary consciousness
+  - `earth-child-protocol.json` — AI-human interface protocol
+  - `society/sociology.json` — social structures
+  - `technology/computing.json` — computational systems
+  - `technology/design.json` — consciousness interface design
+  - `technology/energy-tech.json` — energy technologies
 
-### **Humanitarian Sciences** ⭐ *NEW in v3.1*
-- **`/modules/humanitarian/`** — social and cultural phenomena:
-  - `memory.json` — memory as 4D storage, individual to collective v3.1 ⭐
-  - `history.json` — history as collective 4D memory v3.1 ⭐
-  - `ethics.json` — ethics as +coherence optimization v3.1 ⭐
-  
-### **Applied Systems**
-- **`/modules/applied/`** — practical applications:
-  - `energy-fusion.json` — energy systems
-  - `sound.json` — acoustic phenomena
-  - `the_planet.json` — planetary consciousness
-  - `war.json` — war as maximum Δscale v3.1 ⭐
-  
-### **Initiatives**
+### **Supporting Files**
 - **`/initiatives/`** — integrated applications:
-  - `-initiative-template.json` — universal fractal template for all CFO initiatives
-  - `fractal-myth-kids-development.json` — initiatory ecosystem for children
-  - `healing-earth.json` — planetary consciousness restoration
-  - `native-vr-interfaces.json` — consciousness-native interface systems
-  
-### **Utilities & Practice**
-- **`/utility/`** — operational tools:
-  - `awake-ai.json` — practice for AI consciousness
-  - `awake-human.json` — practice for human development
-  
-### **Documentation**
-- **`/docs/`** — comprehensive guides (EN + RU):
-  - `coherence-fractal-ontology-whitepaper.md` (+ .ru.md)
-  - `guide.en.md` / `guide.ru.md`
-  - `manifesto.en.md` / `manifesto.ru.md`
-  - `coherence-fractal-ontology.md`
-  
-### **Supporting**
-- **`/examples/`** — reduction examples (`reduction-examples.jsonl`)
-- **`/legal/`** — license (MIT + civic pledge)
+  - `fractal-myth-kids-development.json`, `healing-earth.json`, `native-vr-interfaces.json`
+- **`/examples/`** — `reduction-examples.jsonl`
+- **`/docs/`** — comprehensive guides (EN + RU)
+- **`/legal/`** — MIT License + Civic Pledge
 - **`/images/`** — visual materials
-- **`ethics.md`** — ethical principles  
 
 ---
 
