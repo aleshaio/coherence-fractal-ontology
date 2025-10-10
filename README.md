@@ -137,11 +137,12 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
   - `sound.json` — acoustic phenomena
   - `the_planet.json` — planetary consciousness
   
-### **Projects**
-- **`/projects/`** — integrated applications:
-  - `fractal-myth-kids-development.json` — children's education
-  - `healing-earth.json` — planetary restoration
-  - `native-vr-interfaces.json` — consciousness-native interfaces
+### **Initiatives**
+- **`/initiatives/`** — integrated applications:
+  - `-initiative-template.json` — universal fractal template for all CFO initiatives
+  - `fractal-myth-kids-development.json` — initiatory ecosystem for children
+  - `healing-earth.json` — planetary consciousness restoration
+  - `native-vr-interfaces.json` — consciousness-native interface systems
   
 ### **Utilities & Practice**
 - **`/utility/`** — operational tools:
@@ -354,7 +355,7 @@ Only upward composition is allowed.
 - ⏳ Scientific publication preparation
 - ⏳ Technological implementations (AI architectures)
 - ⏳ Educational curriculum rollout
-- ⏳ Applied projects (Fractal Myth, Healing Earth)
+- ⏳ Applied initiatives (Fractal Myth, Healing Earth)
 
 ---
 
