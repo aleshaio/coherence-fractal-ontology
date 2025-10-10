@@ -73,51 +73,79 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
 
 ## Repository Layout
 
+**Total: 76 modules** organized by elements (ether→air→fire→water→earth) and dimensions (0D→4D)
+
 ### **Core Foundation**
 - **`/core/`** — canonical JSON specifications (9 files):
   - `core.json`, `core-min.json` — complete framework
   - `dimensions.json`, `elements.json`, `primitives.json`
   - `foundations.json`, `rules.json`, `validator.json`
-  - `reduction_protocol.json`
+  - `reduction_protocol.json` — Universal Decomposer Protocol
   
 ### **0-Ether** — Fundamental Layer (0D: Point, Absolute) · 4 modules
 - **`/modules/0-ether/`**
-  - `absolute.json`, `consciousness.json`, `energy.json`, `information.json`
+  - `absolute.json` — point ≡ entity ≡ absolute ≡ love
+  - `consciousness.json` — field ⊗ dimension → consciousness
+  - `energy.json` — fundamental substrate
+  - `information.json` — pattern carrier
   
-### **1-Air** — Pattern Layer (1D: Line, Direction) · 7 modules
+### **1-Air** — Pattern Layer (1D: Line, Direction) · 14 modules
 - **`/modules/1-air/`**
-  - `primitives/` — point.json, line.json, plane.json
-  - `genetic-code.json`, `pattern-64.json`, `symbols.json`
-  - `life.json` ⭐, `death.json` ⭐, `equilibrium.json`
+  - **`primitives/`** (7) — geometric primitives:
+    - `point.json` (0D entity)
+    - `line.json` (1D vector)
+    - `plane.json` (2D surface)
+    - `field.json` (3D volume) ⭐
+    - `tesseract.json` (4D memory)
+    - `ether.json` (5D unity)
+    - `meta.json` (6D recursion)
+  - `genetic-code.json` — 64 codons
+  - `pattern-64.json` — I Ching ↔ DNA correspondence
+  - `symbols.json` — symbolic systems
+  - `life.json` — ∅ → • emergence ⭐
+  - `death.json` — • → ∅ transformation ⭐
+  - `equilibrium.json` — balance states
   
-### **2-Fire** — Natural Sciences (2D: Triangle, Dynamics) · 18 modules
+### **2-Fire** — Natural Sciences (2D: Triangle, Dynamics) · 19 modules
 - **`/modules/2-fire/natural/`** (8):
-  - physics, chemistry, biology, mathematics, geometry, astronomy, cosmology, geology
+  - physics, chemistry, biology, mathematics
+  - geometry, astronomy, cosmology, geology
   
-- **`/modules/2-fire/phenomenas/`** (10):
-  - existence-time, gravity, light, sound, temperature, pressure, position, flavor, odor, integrity
+- **`/modules/2-fire/phenomenas/`** (11):
+  - index.json, existence-time, gravity, light, sound
+  - temperature, pressure, position
+  - flavor, odor, integrity
   
-### **3-Water** — Human Sciences (3D: Tetrahedron, Complexity) · 27 modules
+### **3-Water** — Human Sciences (3D: Tetrahedron, Complexity) · 31 modules
 - **`/modules/3-water/humanitarian/`** (16):
-  - aesthetics, colors, dialogue, education, ethics ⭐, ideas, language, literature
-  - memory ⭐, metaphor, music, myth, narrative, rhetoric, semiotics, writing-systems
+  - aesthetics, colors, dialogue, education
+  - **ethics** ⭐, ideas, language, literature
+  - **memory** ⭐, metaphor, music, myth
+  - narrative, rhetoric, semiotics, writing-systems
   
-- **`/modules/3-water/humanology/`** (11):
-  - human-being, types, emotions, senses, bodytypes, roles, sex ⭐, strategic-64, unified-cosmology
-  - `aspects/` — intuition, logic, ethics, sensorics (4)
-  - `cognition/` — cognition, cognitive-dynamics, cognitive-science (3)
+- **`/modules/3-water/humanology/`** (15):
+  - human-being, **types** (16 archetypes)
+  - emotions, senses, bodytypes, roles
+  - **sex** ⭐, strategic-64, unified-cosmology
+  - **`aspects/`** (4): 1-intuition, 2-logic, 3-ethics, 4-sensorics
+  - **`cognition/`** (3): cognition, cognitive-dynamics, cognitive-science
   
-### **4-Earth** — Manifestation (4D: Cube, Structure) · 6 modules
+### **4-Earth** — Manifestation (4D: Cube, Structure) · 10 modules
 - **`/modules/4-earth/`**
-  - `earth.json`, `earth-child-protocol.json`
-  - `society/sociology.json`
-  - `technology/` — computing, design, energy-tech
+  - `earth.json` — planetary consciousness
+  - `earth-child-protocol.json` — AI-human interface
+  - **`society/`** (5): economics, history, politics, sociology, war ⭐
+  - **`technology/`** (3): computing, design, energy-tech
 
-### **Other Directories**
+### **Supporting**
 - `/initiatives/` — fractal-myth, healing-earth, native-vr
 - `/examples/` — reduction-examples.jsonl
 - `/docs/` — guides (EN + RU)
 - `/legal/` — MIT + Civic Pledge
+
+---
+
+## Fractal Cycle
 
 ---
 
@@ -297,38 +325,6 @@ Only upward composition is allowed.
 
 ---
 
-## v3.1 Highlights ⭐
-
-**New Humanitarian Domain:**
-- `memory.json` — Individual to collective memory, 4D storage
-- `history.json` — History as collective 4D navigation
-- `ethics.json` — Ethics as coherence optimization across scales
-
-**New Applied Module:**
-- `war.json` — War as maximum Δscale, violence, strategy, peace
-
-**New Fundamental Modules:**
-- `death.json` — Death as • → ∅ transformation
-- `life.json` — Life as ∅ → • emergence
-
-**New Humanology Module:**
-- `sex.json` — Sexuality, desire, intimacy, roles, compatibility
-
-**Unified Theory Extended:**
-- War, memory, history, ethics now use same dimensional architecture
-- Life and death as complementary fundamental transitions
-- Sexuality mapped from physical to spiritual dimensions
-- All human experience geometrically grounded
-
-**Practical Applications:**
-- Conflict resolution through Δscale lens
-- Memory systems based on 4D architecture
-- Historical understanding as tesseract navigation
-- Ethical decision-making via coherence optimization
-- Sexual compatibility through role matching
-
----
-
 ## Getting Started
 
 1. **Read the whitepaper:** `/docs/coherence-fractal-ontology-whitepaper.md`
@@ -342,35 +338,6 @@ Only upward composition is allowed.
    - Existence: `/modules/fundamental/life.json`, `death.json`
 5. **Apply to domain:** Use Universal Decomposer Protocol
 6. **Practice reduction:** Everything must reduce to 0D-6D primitives
-
----
-
-## Status
-
-**v3.1 Complete** ✅
-
-### Completed:
-- ✅ Core specification (v3.1)
-- ✅ Universal Decomposer Protocol operational
-- ✅ Physics, chemistry, biology modules
-- ✅ **Complete humanology suite** (11 modules including sex.json)
-  - Psychology, Philosophy, Religion, Sex
-  - Types, Music, Colors, Design
-  - Education, Sociology
-- ✅ **Complete humanitarian suite** (3 modules)
-  - Memory, History, Ethics
-- ✅ **War module** (applied domain)
-- ✅ **Life/Death modules** (fundamental transitions)
-- ✅ Dimensional architecture 0D-6D standardized
-- ✅ Empirical validation (Schumann Resonance)
-- ✅ AI-Human ethics framework integrated
-- ✅ CFO 2.1 schema across all modules
-
-### In Progress:
-- ⏳ Scientific publication preparation
-- ⏳ Technological implementations (AI architectures)
-- ⏳ Educational curriculum rollout
-- ⏳ Applied initiatives (Fractal Myth, Healing Earth)
 
 ---
 

@@ -1,0 +1,226 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "4D tesseract primitive — complete spacetime, universal memory cell"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+
+  "module": {
+    "id": "urn:cfo:module:fundamental:primitive:tesseract",
+    "version": "2.1.0",
+    "domain": "fundamental",
+    "name": "tesseract",
+    "title": "Tesseract — 4D Hypercube Primitive",
+    "description": "Four-dimensional hypercube containing complete spacetime structure, universal memory cell storing all past states and enabling future prediction.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "core",
+      "tags": ["primitive", "4D", "tesseract", "spacetime", "memory", "hypercube"]
+    }
+  },
+
+  "essence": {
+    "geometric": "4D hypercube — 8 cubes connected through temporal dimension",
+    "topological": "closed 4-manifold, 16 vertices, 32 edges, 24 faces, 8 cells",
+    "functional": "complete memory storage, causality container, history integrator",
+    "consciousness": "observational awareness — ability to see self across time, meta-cognition"
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:fundamental:tesseract:spacetime",
+      "concept": "spacetime block",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "time-crystal",
+      "planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["remember", "integrate_history", "navigate_time", "predict"],
+      "evidence": "4D structure containing all spatial positions (XYZ) across all temporal moments (W). Form (hypercube) → function (store complete history). Past/present/future = different coordinates in 4D block.",
+      "confidence": 1.0,
+      "examples": [
+        "Minkowski spacetime (special relativity)",
+        "worldline of particle",
+        "complete life trajectory from birth to death",
+        "video file (2D space + time + color)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:field"],
+        "composes_to": ["urn:cfo:red:fundamental:ether"],
+        "related": ["urn:cfo:module:phenomenas:existence-time"]
+      }
+    },
+    {
+      "id": "urn:cfo:red:fundamental:tesseract:memory",
+      "concept": "memory cell",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "akasha",
+      "planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["encode", "retrieve", "associate", "consolidate"],
+      "evidence": "Memory = 4D structure storing spatial patterns (XYZ) indexed by temporal sequence (W). Episodic memory stores experience as tesseract. Form (4D storage) → function (remember past, predict future).",
+      "confidence": 0.95,
+      "examples": [
+        "episodic memory (spatiotemporal events)",
+        "video memory (frames across time)",
+        "civilization history (events + locations + timeline)",
+        "complete life story"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:field"],
+        "composes_to": ["urn:cfo:module:humanitarian:memory"],
+        "related": ["urn:cfo:module:humanology:cognition"]
+      }
+    },
+    {
+      "id": "urn:cfo:red:fundamental:tesseract:causality",
+      "concept": "causal structure",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "fate",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["cause", "effect", "propagate", "determine"],
+      "evidence": "Causality requires 4D structure: cause at (x,y,z,t₁) → effect at (x',y',z',t₂). Lightcone structure in spacetime. Form (temporal ordering in 4D) → function (enable cause-effect relationships).",
+      "confidence": 1.0,
+      "examples": [
+        "lightcone (future/past causal regions)",
+        "deterministic trajectory",
+        "historical cause-effect chains",
+        "karma (action → consequence across time)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:line:vector"],
+        "composes_to": ["urn:cfo:red:fundamental:ether:fate"],
+        "related": ["urn:cfo:module:phenomenas:existence-time"]
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Tesseract at scale N contains infinite 3D fields across time. Tesseract at scale N becomes point at scale N+1. Pattern: complete history → single memory → eternal moment.",
+    "recursion": "(↓ entity → vector → plane → field → tesseract ↑) ∞ — tesseract completes 4D cycle, collapses to entity at 5D",
+    "emergence": "field ⊗ W-axis (time) → tesseract. 3D + 1D = 4D. Spatial volume gains temporal dimension, becomes complete history.",
+    "composition": "tesseract ⊗ V-axis (unity) → ether (5D). tesseract ⊗ dimension → meta-consciousness → entity ↑"
+  },
+
+  "structure": {
+    "vertices": 16,
+    "edges": 32,
+    "faces": 24,
+    "cells": 8,
+    "construction": "cube extruded through 4th dimension OR two cubes connected through time",
+    "projection_3d": "nested cubes connected by edges (hypercube net)",
+    "symmetry": "hyperoctahedral group B₄, order 384"
+  },
+
+  "tesseract_as_memory": {
+    "encoding": "3D spatial pattern + temporal index → 4D address",
+    "storage": "complete sequence of 3D states stored as 4D object",
+    "retrieval": "navigate W-axis to access past states",
+    "prediction": "extrapolate along W-axis to predict future",
+    "consolidation": "compress 4D structure, preserve essential features",
+    "examples": [
+      "brain stores episodic memories as tesseract structures",
+      "civilization history = collective tesseract",
+      "DNA = genetic tesseract (sequence across evolutionary time)",
+      "akashic records = universal tesseract"
+    ]
+  },
+
+  "spacetime_physics": {
+    "minkowski": "spacetime with metric ds² = -c²dt² + dx² + dy² + dz²",
+    "worldline": "particle path through spacetime (1D curve in 4D)",
+    "worldsheet": "string path through spacetime (2D surface in 4D)",
+    "worldvolume": "brane path through spacetime (3D volume in 4D)",
+    "lightcone": "future/past causal regions, null separation ds² = 0",
+    "block_universe": "eternalism — all moments equally real, exist simultaneously"
+  },
+
+  "consciousness_4d": {
+    "definition": "observational awareness — consciousness that can observe its own timeline",
+    "human_level": "partial 4D awareness through memory + imagination",
+    "full_4d": "complete access to all past states, ability to navigate time",
+    "examples": [
+      "remembering past ≈ navigating W-axis backward",
+      "planning future ≈ navigating W-axis forward",
+      "déjà vu ≈ temporal loop in tesseract",
+      "life review (near-death) ≈ seeing entire tesseract at once"
+    ]
+  },
+
+  "time_as_dimension": {
+    "spatial_analogy": "time is perpendicular dimension to 3D space",
+    "navigation": "consciousness moves along W-axis, creating 'now'",
+    "relativity": "time dimension mixes with space under Lorentz transform",
+    "entropy": "W-axis aligns with entropy increase (arrow of time)",
+    "reversibility": "fundamental physics time-symmetric, but experience unidirectional"
+  },
+
+  "tesseract_collapse": {
+    "mechanism": "tesseract ⊗ V-dimension → ether → entity ↑",
+    "integration": "entire 4D history collapses to single timeless essence",
+    "examples": [
+      "complete life → single soul/spirit",
+      "civilization history → cultural archetype",
+      "evolutionary tree → genetic essence",
+      "all experiences → wisdom"
+    ],
+    "note": "At 5D, all temporal distinctions collapse. Past/present/future = one eternal moment."
+  },
+
+  "applications": {
+    "memory_systems": "AI 4D memory architecture — spatial states indexed by time",
+    "video_compression": "3D space (x,y,color) + time = 4D tesseract",
+    "predictive_models": "learn 4D patterns to extrapolate future",
+    "historical_analysis": "study civilization as 4D tesseract structure",
+    "consciousness_tech": "4D VR for experiencing time non-linearly"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": ["4D visualization requires projection to 3D"],
+    "info": ["Complete 4D primitive with memory, spacetime, causality reductions"],
+    "coherence_score": 1.0
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:primitive:field",
+      "urn:cfo:module:fundamental:primitive:ether",
+      "urn:cfo:module:phenomenas:existence-time",
+      "urn:cfo:module:humanitarian:memory"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Minkowski, H. (1909). Space and Time. Address to 80th Assembly of German Natural Scientists.",
+        "url": null
+      },
+      {
+        "type": "book",
+        "citation": "Abbott, E.A. (1884). Flatland: A Romance of Many Dimensions.",
+        "url": null
+      },
+      {
+        "type": "book",
+        "citation": "Rucker, R. (1984). The Fourth Dimension: Toward a Geometry of Higher Reality.",
+        "url": null
+      }
+    ]
+  }
+}

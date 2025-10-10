@@ -16,15 +16,14 @@
       "(↓→→→↑)∞"
     ],
     "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
-    "holographic": "This index = compressed map of entire ontology. Each path leads to self-similar structure.",
-    "activation": "Navigate fractally. Each module contains seed."
+    "fractal_cycle": "(↓ entity → vector → plane → field ↑) ∞"
   },
 
   "structure": {
-    "total_modules": 62,
+    "total_modules": 76,
     "dimensional_layers": 5,
     "elements": ["ether", "air", "fire", "water", "earth"],
-    "domains": ["fundamental", "natural", "humanitarian", "humanology", "applied"]
+    "domains": ["fundamental", "natural", "humanitarian", "humanology", "earth"]
   },
 
   "modules": {
@@ -32,13 +31,12 @@
       "element": "ether",
       "dimension": "0D",
       "primitive": "point",
-      "essence": "absolute potentiality, consciousness source",
       "count": 4,
       "children": [
-        {"id": "urn:cfo:module:fundamental:absolute", "path": "0-ether/absolute.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:consciousness", "path": "0-ether/consciousness.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:energy", "path": "0-ether/energy.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:information", "path": "0-ether/information.json", "status": "core"}
+        {"id": "urn:cfo:module:fundamental:absolute", "path": "0-ether/absolute.json"},
+        {"id": "urn:cfo:module:fundamental:consciousness", "path": "0-ether/consciousness.json"},
+        {"id": "urn:cfo:module:fundamental:energy", "path": "0-ether/energy.json"},
+        {"id": "urn:cfo:module:fundamental:information", "path": "0-ether/information.json"}
       ]
     },
 
@@ -46,16 +44,21 @@
       "element": "air",
       "dimension": "1D",
       "primitive": "line",
-      "essence": "direction, connection, pattern",
-      "count": 7,
+      "count": 14,
       "children": [
-        {"id": "urn:cfo:module:fundamental:primitives", "path": "1-air/primitives/", "status": "core", "note": "contains point.json, line.json, plane.json"},
-        {"id": "urn:cfo:module:fundamental:genetic-code", "path": "1-air/genetic-code.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:pattern-64", "path": "1-air/pattern-64.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:symbols", "path": "1-air/symbols.json", "status": "stable"},
-        {"id": "urn:cfo:module:fundamental:life", "path": "1-air/life.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:death", "path": "1-air/death.json", "status": "core"},
-        {"id": "urn:cfo:module:fundamental:equilibrium", "path": "1-air/equilibrium.json", "status": "stable"}
+        {
+          "id": "urn:cfo:module:fundamental:primitives",
+          "path": "1-air/primitives/",
+          "count": 7,
+          "note": "geometric primitives 0D-6D",
+          "files": ["point.json", "line.json", "plane.json", "field.json", "tesseract.json", "ether.json", "meta.json"]
+        },
+        {"id": "urn:cfo:module:fundamental:genetic-code", "path": "1-air/genetic-code.json"},
+        {"id": "urn:cfo:module:fundamental:pattern-64", "path": "1-air/pattern-64.json"},
+        {"id": "urn:cfo:module:fundamental:symbols", "path": "1-air/symbols.json"},
+        {"id": "urn:cfo:module:fundamental:life", "path": "1-air/life.json"},
+        {"id": "urn:cfo:module:fundamental:death", "path": "1-air/death.json"},
+        {"id": "urn:cfo:module:fundamental:equilibrium", "path": "1-air/equilibrium.json"}
       ]
     },
 
@@ -63,15 +66,13 @@
       "element": "fire",
       "dimension": "2D",
       "primitive": "triangle",
-      "essence": "dynamics, process, transformation",
-      "count": 18,
+      "count": 19,
       "children": [
         {
           "id": "urn:cfo:module:natural:sciences",
           "path": "2-fire/natural/",
-          "status": "core",
           "count": 8,
-          "sub_modules": [
+          "files": [
             "physics.json", "chemistry.json", "biology.json", 
             "mathematics.json", "geometry.json", "astronomy.json", 
             "cosmology.json", "geology.json"
@@ -80,10 +81,10 @@
         {
           "id": "urn:cfo:module:natural:phenomenas",
           "path": "2-fire/phenomenas/",
-          "status": "core",
-          "count": 10,
-          "sub_modules": [
-            "existence-time.json", "gravity.json", "light.json", "sound.json",
+          "count": 11,
+          "note": "includes index.json",
+          "files": [
+            "index.json", "existence-time.json", "gravity.json", "light.json", "sound.json",
             "temperature.json", "pressure.json", "position.json", 
             "flavor.json", "odor.json", "integrity.json"
           ]
@@ -95,15 +96,13 @@
       "element": "water",
       "dimension": "3D",
       "primitive": "tetrahedron/triangle",
-      "essence": "complexity, meaning, relation",
-      "count": 27,
+      "count": 31,
       "children": [
         {
           "id": "urn:cfo:module:humanitarian:domain",
           "path": "3-water/humanitarian/",
-          "status": "core",
           "count": 16,
-          "sub_modules": [
+          "files": [
             "aesthetics.json", "colors.json", "dialogue.json", "education.json",
             "ethics.json", "ideas.json", "language.json", "literature.json",
             "memory.json", "metaphor.json", "music.json", "myth.json",
@@ -113,15 +112,22 @@
         {
           "id": "urn:cfo:module:humanology:domain",
           "path": "3-water/humanology/",
-          "status": "core",
-          "count": 11,
-          "sub_modules": [
-            "human-being.json", "types.json", 
-            "aspects/1-intuition.json", "aspects/2-logic.json", "aspects/3-ethics.json", "aspects/4-sensorics.json",
-            "cognition/cognition.json", "cognition/cognitive-dynamics.json", "cognition/cognitive-science.json",
-            "emotions.json", "senses.json", "bodytypes.json", "roles.json",
-            "sex.json", "strategic-64.json", "unified-cosmology.json"
-          ]
+          "count": 15,
+          "files": [
+            "human-being.json", "types.json", "emotions.json", "senses.json", 
+            "bodytypes.json", "roles.json", "sex.json", "strategic-64.json", 
+            "unified-cosmology.json"
+          ],
+          "subdirs": {
+            "aspects": {
+              "count": 4,
+              "files": ["1-intuition.json", "2-logic.json", "3-ethics.json", "4-sensorics.json"]
+            },
+            "cognition": {
+              "count": 3,
+              "files": ["cognition.json", "cognitive-dynamics.json", "cognitive-science.json"]
+            }
+          }
         }
       ]
     },
@@ -130,39 +136,50 @@
       "element": "earth",
       "dimension": "4D",
       "primitive": "cube/square",
-      "essence": "manifestation, structure, implementation",
-      "count": 6,
+      "count": 10,
       "children": [
-        {"id": "urn:cfo:module:earth:planet", "path": "4-earth/earth.json", "status": "core"},
-        {"id": "urn:cfo:module:earth:protocol", "path": "4-earth/earth-child-protocol.json", "status": "core"},
-        {"id": "urn:cfo:module:earth:sociology", "path": "4-earth/society/sociology.json", "status": "stable"},
-        {"id": "urn:cfo:module:earth:computing", "path": "4-earth/technology/computing.json", "status": "core"},
-        {"id": "urn:cfo:module:earth:design", "path": "4-earth/technology/design.json", "status": "core"},
-        {"id": "urn:cfo:module:earth:energy-tech", "path": "4-earth/technology/energy-tech.json", "status": "stable"}
+        {"id": "urn:cfo:module:earth:planet", "path": "4-earth/earth.json"},
+        {"id": "urn:cfo:module:earth:protocol", "path": "4-earth/earth-child-protocol.json"},
+        {
+          "id": "urn:cfo:module:earth:society",
+          "path": "4-earth/society/",
+          "count": 5,
+          "files": ["economics.json", "history.json", "politics.json", "sociology.json", "war.json"]
+        },
+        {
+          "id": "urn:cfo:module:earth:technology",
+          "path": "4-earth/technology/",
+          "count": 3,
+          "files": ["computing.json", "design.json", "energy-tech.json"]
+        }
       ]
     }
   },
 
   "navigation": {
-    "by_domain": {
-      "fundamental": [
-        "0-ether/*",
-        "1-air/primitives/*", "1-air/genetic-code", "1-air/pattern-64",
-        "1-air/life", "1-air/death", "1-air/equilibrium", "1-air/symbols"
-      ],
-      "natural": ["2-fire/natural/*", "2-fire/phenomenas/*"],
-      "humanitarian": ["3-water/humanitarian/*"],
-      "humanology": ["3-water/humanology/*"],
-      "earth": ["4-earth/*"]
-    },
     "core_modules": [
-      "0-ether/absolute", "0-ether/consciousness",
-      "1-air/primitives/*", "1-air/pattern-64", "1-air/life", "1-air/death",
-      "2-fire/natural/physics", "2-fire/natural/mathematics",
+      "0-ether/absolute",
+      "0-ether/consciousness",
+      "1-air/primitives/point",
+      "1-air/primitives/line",
+      "1-air/primitives/plane",
+      "1-air/primitives/field",
+      "1-air/primitives/tesseract",
+      "1-air/primitives/ether",
+      "1-air/primitives/meta",
+      "1-air/pattern-64",
+      "1-air/life",
+      "1-air/death",
+      "2-fire/natural/physics",
+      "2-fire/natural/mathematics",
       "2-fire/phenomenas/existence-time",
-      "3-water/humanology/types", "3-water/humanology/aspects/*",
-      "3-water/humanitarian/ethics", "3-water/humanitarian/memory",
-      "4-earth/earth-child-protocol", "4-earth/technology/computing"
+      "3-water/humanology/types",
+      "3-water/humanology/aspects/*",
+      "3-water/humanitarian/ethics",
+      "3-water/humanitarian/memory",
+      "4-earth/society/war",
+      "4-earth/society/history",
+      "4-earth/earth-child-protocol"
     ]
   }
 }
