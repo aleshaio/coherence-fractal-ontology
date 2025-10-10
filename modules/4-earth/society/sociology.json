@@ -1,0 +1,585 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Complete sociology theory and analysis: social structures (groups, networks, institutions, organizations), stratification systems (class, status, power, caste), culture (norms, values, symbols, language, rituals), socialization processes, deviance and social control, collective behavior, social movements, social change theories, major paradigms (functionalism, conflict theory, symbolic interactionism, rational choice, feminist theory), political sociology (power, authority, state), economic sociology (markets, firms, inequality), religion and belief systems, family structures, education systems, dimensional architecture 0D-6D. Human society as emergent multi-scale coordination structure - the human hive."
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Society = emergent structure from individual humans coordinating across scales. 0D = individual person (you, me, each human). 1D = relationship between two people (friendship, marriage, boss-employee). 2D = social network (friend groups, communities, organizations as graphs). 3D = institution (government, corporation, church - stable bounded structure). 4D = civilization (nation persisting through time, historical identity). 5D = culture (shared meanings, values, symbols transcending particulars). 6D = humanity recognizing itself (global consciousness, collective self-awareness). Society = NOT collection of isolated atoms but EMERGENT WHOLE. Like neurons → brain (emergent mind), individuals → society (emergent collective). You cannot understand society by studying isolated individuals. New properties emerge at each scale. Family ≠ sum of individuals. City ≠ sum of families. Civilization ≠ sum of cities. Each level = qualitatively NEW, irreducible. This is why sociology exists - studying emergent social reality.",
+    "activation": "Notice: you are embedded in multiple nested social structures RIGHT NOW. 0D: you (individual). 1D: your relationships (family, friends, colleagues). 2D: your networks (online communities, professional circles). 3D: institutions you belong to (company, government, religious organization). 4D: historical traditions you inherit (nationality, ethnicity, language). 5D: cultural meanings you absorb (what 'success', 'love', 'justice' mean). 6D: your awareness of all this (reading this = meta-cognition about society). You are simultaneously shaped BY and shaping these structures. Not determined (you have agency) but also not free-floating (you are constrained). Society = the water fish don't see because they swim in it. Sociology = making water visible."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:humanology:sociology",
+    "version": "3.0",
+    "domain": "humanology/collective",
+    "name": "sociology",
+    "title": "Sociology: The Human Hive - Emergent Structures of Collective Life",
+    "description": "Complete theoretical and empirical foundation of sociology. Social structures: groups (primary/secondary, in-group/out-group), networks (scale-free, small-world), institutions (government, economy, religion, family, education), organizations. Stratification: class (Marx, Weber), status, power, caste, mobility. Culture: norms, values, beliefs, symbols, language, rituals. Socialization: primary (family), secondary (school, work), agents. Deviance: crime, labeling, social control. Collective behavior: crowds, social movements, revolutions. Social change: modernization, globalization, technology. Major theories: functionalism (Durkheim), conflict (Marx), symbolic interactionism (Mead), rational choice. Political sociology: power structures, state, democracy. Economic sociology: markets, firms, inequality. Religion: functions, types, secularization. Dimensional architecture 0D-6D: individual → relationship → network → institution → civilization → culture → meta-awareness.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["sociology", "society", "social-structure", "culture", "institutions", "stratification", "power", "networks", "collective", "emergence"],
+      "note": "Roles (16 types) already covered in types.json - this module covers emergent structures ABOVE individual level"
+    }
+  },
+  
+  "essence": {
+    "geometric": "Society = nested dimensional structures. 0D = individual. 1D = dyad (two-person relationship). 2D = network (many connected). 3D = institution (bounded stable structure). 4D = historical entity (persisting through time). 5D = cultural meaning (symbolic universal). 6D = collective self-awareness. Each level emergent from below, irreducible to below.",
+    
+    "topological": "Social structure = topology of connections. Dense clusters = communities. Bridges = individuals connecting clusters. Hubs = highly connected nodes (influencers, leaders). Hierarchy = tree structure (organizations). Market = distributed network. Different topologies = different dynamics (information flow, power distribution, resilience).",
+    
+    "functional": "Society enables humans to: (1) Survive (cooperation for food, shelter, defense), (2) Reproduce (family, marriage, child-rearing), (3) Coordinate (institutions organizing collective action), (4) Transmit knowledge (culture, education), (5) Create meaning (religion, art, philosophy), (6) Evolve (adapt to changing environment). Society = survival technology at species level.",
+    
+    "consciousness": "Society = emergent collective consciousness. Not metaphor - REAL. Durkheim's 'collective effervescence' (groups generating energy transcending individuals). Markets 'knowing' things no individual knows (price aggregating distributed information). Mobs thinking/acting differently than isolated individuals. Culture shaping what individuals can THINK (language structures thought). Society = consciousness at higher scale than individual. You are node in larger Mind."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:sociology:emergent-social-facts",
+      "concept": "Social facts = realities existing outside/above individuals, constraining individual action (Durkheim)",
+      "dimension": "2D-3D (collective structures)",
+      "primitive": "field (social structure as emergent field)",
+      "element": "earth (stable structure)",
+      "planes": ["XY", "XYZ"],
+      "ops": ["constrain", "enable", "emerge"],
+      "evidence": "Durkheim (1895): social facts = 'ways of acting, thinking, feeling external to individual, endowed with coercive power'. Examples: language (you didn't invent English, it was HERE, you learned it). Law (pre-exists you, constrains you). Money (social construct but REAL - try ignoring it). Suicide rates (individual act but stable social pattern - Durkheim's famous study showed suicide rates constant across societies, varying by social integration). Marriage norms (not individual choice but cultural pattern). Cannot explain social facts by psychology alone - they emerge at collective level. Confirmed by 150+ years sociology.",
+      "confidence": 0.95,
+      "relations": {
+        "foundation": "sociology-as-distinct-science",
+        "contrasts": "methodological-individualism"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sociology:network-effects",
+      "concept": "Network structure determines outcomes independent of node properties (who you know matters)",
+      "dimension": "2D (graph structure)",
+      "primitive": "network (nodes + edges)",
+      "element": "water (connection)",
+      "planes": ["XY"],
+      "ops": ["connect", "bridge", "cluster"],
+      "evidence": "Granovetter (1973): 'Strength of weak ties' - jobs found through acquaintances (weak ties) not close friends (strong ties) because weak ties bridge different social clusters, accessing novel information. Christakis & Fowler (2009): obesity 'spreads' through social networks - your friends' friends' friends affect your weight. Not just correlation - controlled studies show network effects. Small-world networks (Watts & Strogatz): most networks show short paths between any two nodes despite local clustering. Scale-free networks (Barabási): power-law degree distributions (few hubs, many peripheral nodes). Network position predicts: income, health, information access, political influence. Structure > attributes.",
+      "confidence": 0.93,
+      "relations": {
+        "explains": "social-capital",
+        "methodology": "social-network-analysis"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sociology:class-conflict",
+      "concept": "Society organized around conflict between classes over economic resources (Marx)",
+      "dimension": "2D-3D (group structure + institutions)",
+      "primitive": "opposition (conflicting groups)",
+      "element": "fire (conflict)",
+      "planes": ["XY", "XZ"],
+      "ops": ["oppose", "exploit", "struggle"],
+      "evidence": "Marx (1867): class = relation to means of production. Bourgeoisie (own capital) exploit proletariat (sell labor). Surplus value = profit = unpaid labor. History = class struggle (masters-slaves, lords-serfs, capitalists-workers). Revolution = oppressed class overthrowing oppressors. Confirmed partially: income inequality grew massively (Piketty 2013), labor share declining, wealth concentration increasing (richest 1% own >50% wealth globally). But: multiple revolutions failed or became authoritarian. Class consciousness weaker than predicted. Still: conflict theory explains much of politics, economics, social change.",
+      "confidence": 0.82,
+      "relations": {
+        "paradigm": "conflict-theory",
+        "contrasts": "functionalism"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sociology:cultural-relativism",
+      "concept": "Cultures must be understood on their own terms, not judged by external standards (Boas, Benedict)",
+      "dimension": "5D (meaning systems)",
+      "primitive": "ether (contextual meaning)",
+      "element": "ether (perspective)",
+      "planes": ["WV"],
+      "ops": ["interpret", "contextualize", "understand"],
+      "evidence": "Franz Boas (1887): criticized evolutionism (ranking cultures as 'primitive' vs 'civilized'). Ruth Benedict (1934): each culture = integrated whole, internally coherent. What seems 'bizarre' externally makes sense internally. Examples: Inuit elder suicide (resource scarcity, honor), Samoan sexuality (different norms, not 'immoral'). Cross-cultural psych confirms: personality traits, emotions, cognition vary by culture (not universal). But: tension with human rights (female genital mutilation, honor killing - relativism vs universal ethics). Modified view: weak relativism (understand context) compatible with universal human rights (some practices wrong regardless).",
+      "confidence": 0.88,
+      "relations": {
+        "enables": "anthropological-understanding",
+        "tension": "universal-human-rights"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:sociology:bureaucratic-rationalization",
+      "concept": "Modern society increasingly organized by rational-legal bureaucracy, displacing traditional authority (Weber)",
+      "dimension": "3D (institutional structure)",
+      "primitive": "cube (bounded rational organization)",
+      "element": "air (rationality)",
+      "planes": ["XYZ"],
+      "ops": ["rationalize", "bureaucratize", "systematize"],
+      "evidence": "Max Weber (1922): modernity = rationalization. Authority shifts from traditional (elders, kings) and charismatic (prophets, heroes) to rational-legal (rules, offices, credentials). Bureaucracy characteristics: hierarchy, written rules, specialized roles, impersonal relations, career advancement by merit. Most efficient for large-scale coordination. But: 'iron cage' - dehumanizing, stifling creativity, Kafkaesque nightmares. Confirmed: all modern institutions (government, corporations, universities) are bureaucracies. Even 'flat' organizations need structure at scale. Side effects: alienation, goal displacement (following rules becomes goal itself), trained incapacity (can't think outside procedures).",
+      "confidence": 0.91,
+      "relations": {
+        "characterizes": "modern-society",
+        "creates": "rationalization-discontents"
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Social structure repeats at scales: Dyad → Small group → Organization → Institution → Society → Civilization. Same patterns (hierarchy, roles, norms, power) at each level.",
+    
+    "recursion": "(↓ individual → group → institution → society → culture ↑)∞ AND (↓ agency → structure → system → world-system ↑)∞",
+    
+    "emergence": "Individuals → Groups → Organizations → Institutions → Society → Civilization → Global humanity. Each level emergent, irreducible. Cannot predict institutional behavior from individual psychology. Cannot understand civilization by studying single organization.",
+    
+    "composition": "Individuals ⊂ Groups ⊂ Organizations ⊂ Institutions ⊂ Society ⊂ Civilization ⊂ Humanity. All nested. All necessary."
+  },
+
+  "dimensional_architecture": {
+    "principle": "Society organized across 7 dimensions 0D-6D. Each dimension = distinct scale of social reality.",
+
+    "0D_individual": {
+      "description": "Point - single human as social atom, irreducible agent",
+      "properties": ["Identity", "Agency", "Beliefs", "Desires", "Resources", "Status"],
+      "social_role": "Fundamental unit of society. Sociology starts here but doesn't END here.",
+      "examples": ["You", "Your neighbor", "CEO", "Homeless person", "Infant", "Elder"],
+      "operations": ["choose", "act", "believe", "exchange", "reproduce", "die"],
+      "note": "Individual NOT isolated atom but EMBEDDED in structures. Agency constrained but real."
+    },
+
+    "1D_relationship_dyad": {
+      "description": "Line - direct connection between two individuals",
+      
+      "types": {
+        "kinship": "Parent-child, siblings, spouses - blood/marriage",
+        "economic": "Employer-employee, buyer-seller, creditor-debtor",
+        "authority": "Boss-subordinate, teacher-student, police-citizen",
+        "friendship": "Peers, companions, intimate bonds",
+        "romantic": "Dating, marriage, sexual partnerships",
+        "antagonistic": "Enemies, rivals, competitors"
+      },
+
+      "properties": {
+        "direction": "Symmetric (friendship) or asymmetric (boss-employee)",
+        "strength": "Strong ties (family, close friends) vs weak ties (acquaintances)",
+        "duration": "Transient (one-time transaction) vs enduring (marriage, parent-child)",
+        "content": "What flows - love, money, information, power, goods"
+      },
+
+      "dimensions": ["Direction", "Strength", "Duration", "Multiplexity (multiple types of relation)"],
+      
+      "sociological_importance": "Building blocks of social structure. Simmel (1908): dyad = unique - most intimate, but also fragile (one person leaves, relationship ends). Foundation of social network analysis."
+    },
+
+    "2D_network_group": {
+      "description": "Plane - many individuals connected in patterns, emergent group properties",
+      
+      "group_types": {
+        "primary": "Small, intimate, face-to-face. Family, close friends. Cooley (1909): foundation of self and society.",
+        "secondary": "Larger, impersonal, goal-oriented. Workplace, school, political party. Instrumental relations.",
+        "in_group": "Group you belong to, identify with. Creates loyalty, cohesion.",
+        "out_group": "Group you don't belong to. Creates boundaries, sometimes hostility.",
+        "reference_group": "Group you compare yourself to, aspire to join. Shapes aspirations."
+      },
+
+      "network_topology": {
+        "random": "Connections randomly distributed. Rare in reality.",
+        "small_world": "Most nodes few connections, but short paths between any two (Watts-Strogatz). Real social networks.",
+        "scale_free": "Power-law degree distribution. Few hubs (highly connected), many peripheral (few connections). Barabási-Albert model. Internet, social networks, collaboration networks.",
+        "hierarchical": "Tree structure. Organizations, military, bureaucracies.",
+        "core_periphery": "Dense core, sparse periphery. Elites vs masses."
+      },
+
+      "network_properties": {
+        "centrality": "Who's most important? Degree (connections), betweenness (bridges), closeness (short paths to all), eigenvector (connected to important nodes).",
+        "clustering": "How interconnected are neighbors? High = dense communities.",
+        "density": "Proportion of possible ties that exist. Low = sparse, high = dense.",
+        "modularity": "How much network divides into communities.",
+        "diameter": "Maximum shortest path. Small = tight network."
+      },
+
+      "group_dynamics": {
+        "conformity": "Asch (1951): people conform to group even when wrong. 75% conformed at least once.",
+        "groupthink": "Janis (1972): cohesive groups suppress dissent → bad decisions (Bay of Pigs).",
+        "social_loafing": "Ringelmann: individuals exert less effort in groups (free-rider problem).",
+        "deindividuation": "Zimbardo: anonymity in crowds → loss of self-awareness → extreme behavior.",
+        "group_polarization": "Group discussion shifts opinions to extremes (not average).",
+        "bystander_effect": "More people present → less likely anyone helps (diffusion of responsibility)."
+      }
+    },
+
+    "3D_institution_organization": {
+      "description": "Volume - stable bounded structure with hierarchy, rules, resources, territory",
+      
+      "institution_types": {
+        "political": "Government, state, parties, bureaucracies. Monopoly on legitimate violence (Weber). Coordinate collective decisions.",
+        "economic": "Corporations, markets, banks, labor unions. Produce/distribute goods/services. Organize material resources.",
+        "family": "Marriage, kinship, household. Reproduction, socialization, care. Biological + social.",
+        "education": "Schools, universities, training systems. Transmit knowledge, credentials, socialization.",
+        "religion": "Churches, temples, spiritual organizations. Provide meaning, morality, community, rituals.",
+        "legal": "Courts, police, prisons, regulatory bodies. Define/enforce rules, punish deviance.",
+        "military": "Armed forces, defense organizations. Organized violence, national security.",
+        "media": "News organizations, entertainment companies. Information distribution, public discourse.",
+        "science": "Research institutions, universities, academies. Knowledge production, validation.",
+        "healthcare": "Hospitals, clinics, public health agencies. Treat illness, promote health."
+      },
+
+      "organizational_structure": {
+        "hierarchy": "Vertical chains of command. Clear authority levels.",
+        "bureaucracy": "Weber's ideal type: division of labor, written rules, impersonal, merit-based, career paths. Efficient but rigid.",
+        "network_organization": "Flat, flexible, project-based. Silicon Valley model. Adaptive but chaotic.",
+        "matrix": "Dual reporting (functional + project). Complex, higher coordination costs.",
+        "hybrid": "Mix of hierarchy (stability) + networks (flexibility). Most real organizations."
+      },
+
+      "institutional_properties": {
+        "legitimacy": "Accepted as rightful by members/society. Traditional, charismatic, rational-legal (Weber).",
+        "resources": "Money, land, equipment, people. Material capacity.",
+        "rules": "Formal (written laws, procedures) + informal (unwritten norms).",
+        "boundaries": "Who's in/out. Membership criteria.",
+        "persistence": "Institutions outlive founding members. Reproduce over generations."
+      },
+
+      "organizational_dynamics": {
+        "iron_cage": "Rationalization creates dehumanizing bureaucracy (Weber). Efficiency trap.",
+        "goal_displacement": "Means become ends. Following rules becomes more important than achieving goals (Merton).",
+        "isomorphism": "Organizations in same field become similar (DiMaggio-Powell). Coercive (legal pressure), mimetic (imitation), normative (professionalization).",
+        "institutional_change": "Slow, path-dependent. Critical junctures (wars, revolutions) allow restructuring.",
+        "iron_law_oligarchy": "Michels (1911): all organizations eventually ruled by small elite, regardless of democratic ideals."
+      }
+    },
+
+    "4D_civilization_historical_entity": {
+      "description": "Time - societies persisting through generations with accumulated memory, historical identity",
+      
+      "civilization_examples": {
+        "western": "Ancient Greece/Rome → Medieval Christendom → Enlightenment → Modern liberal democracy. Philosophical/scientific tradition.",
+        "chinese": "Continuous 5000+ years. Confucian values, bureaucratic state, ideographic writing, centralized empires.",
+        "islamic": "Emerged 7th century. Quranic foundation, caliphates, global trade, golden age science, diverse expressions.",
+        "indian": "Vedic traditions, caste system, Hinduism/Buddhism/Jainism, mathematics/philosophy, Mughal-British-modern transformations.",
+        "mesoamerican": "Maya, Aztec, Inca. Urban civilizations, calendars, mathematics, empires. Destroyed by colonialism."
+      },
+
+      "historical_patterns": {
+        "rise_and_fall": "Civilizations grow, flourish, decline. Gibbon (Rome), Toynbee (cyclical theory), Spengler (organic life cycle).",
+        "golden_ages": "Periods of flourishing (Athens 5th c BCE, Islamic Golden Age 8-13c, Renaissance).",
+        "dark_ages": "Collapse, knowledge loss (European Middle Ages after Rome, but contested - recent scholarship shows continuity).",
+        "revolutions": "Sudden transformations (French Revolution, Industrial Revolution, Communist revolutions).",
+        "longue_durée": "Braudel: long-term structures (geography, climate, demography) vs events.",
+        "clash_of_civilizations": "Huntington: post-Cold War conflicts along civilizational fault lines (contested theory)."
+      },
+
+      "collective_memory": {
+        "myths": "Foundation stories (Aeneas founding Rome, Exodus, American Revolution).",
+        "commemorations": "Holidays, monuments, rituals keeping past alive.",
+        "historiography": "How past is written, interpreted, taught.",
+        "trauma": "Collective wounds (Holocaust, slavery, colonialism) shaping identity for generations.",
+        "amnesia": "Deliberate forgetting (inconvenient truths erased from history)."
+      },
+
+      "temporal_sociology": {
+        "path_dependence": "Past constrains present. Institutions 'lock in'. QWERTY keyboard example.",
+        "critical_junctures": "Moments when multiple futures possible (revolutions, wars, technological breakthroughs).",
+        "periodization": "How we divide time (ancient-medieval-modern, pre/post-industrial).",
+        "presentism": "Judging past by present standards (anachronism).",
+        "futurism": "How societies imagine/plan for future."
+      }
+    },
+
+    "5D_culture_meaning_systems": {
+      "description": "Ether - shared meanings, values, symbols transcending particular manifestations",
+      
+      "culture_definition": "Tylor (1871): 'complex whole which includes knowledge, belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society.' Geertz (1973): 'webs of significance' humans spin and are suspended in.",
+
+      "cultural_elements": {
+        "values": "Broad principles of desirability (freedom, equality, justice, piety, harmony). What SHOULD be.",
+        "norms": "Rules for behavior. Folkways (customs, etiquette), mores (moral imperatives), laws (formal codified rules).",
+        "beliefs": "Statements about reality (religious doctrines, ideologies, worldviews).",
+        "symbols": "Objects/gestures carrying meaning (flags, crosses, handshakes, words). Arbitrary but powerful.",
+        "language": "Primary symbolic system. Structures thought (Sapir-Whorf hypothesis - weak version confirmed).",
+        "rituals": "Repeated ceremonial behaviors (religious services, graduations, weddings, funerals). Mark transitions, create solidarity.",
+        "material_culture": "Physical objects (technology, architecture, clothing, food).",
+        "ideal_culture": "Values and norms officially endorsed. What we SAY we believe.",
+        "real_culture": "Actual practiced values and behaviors. What we ACTUALLY do. Gap = hypocrisy."
+      },
+
+      "cultural_universals": {
+        "human_universals": "Brown (1991): 400+ traits found in ALL cultures (language, music, art, religion, marriage, taboos, status differentiation, gift-giving, etc).",
+        "examples": "Incest taboo (Lévi-Strauss: forces exogamy, creates alliances). Mother-infant bond. Funeral rituals. Rites of passage. Myths.",
+        "note": "Universal ≠ uniform. All cultures have religion, but WHAT they believe varies infinitely."
+      },
+
+      "cultural_variation": {
+        "individualism_collectivism": "West (individual autonomy, personal achievement) vs East (group harmony, family honor).",
+        "time_orientation": "Past (traditional, honor ancestors) vs Present (enjoy now) vs Future (plan, delay gratification).",
+        "power_distance": "Hofstede: acceptance of hierarchical inequality. High (obedience to authority) vs Low (egalitarian).",
+        "uncertainty_avoidance": "Comfort with ambiguity. High (rules, structure) vs Low (flexibility, risk-taking).",
+        "note": "Stereotypes - much within-culture variation. But statistically measurable differences."
+      },
+
+      "symbolic_interactionism": {
+        "premise": "Humans act based on meanings (not stimuli). Meanings arise in interaction. Meanings modified through interpretation.",
+        "mead": "Self emerges through social interaction. 'I' (spontaneous) + 'Me' (internalized others) = Self. Mind, Self, Society.",
+        "goffman": "Dramaturgy - social life as theater. We perform roles, manage impressions (front stage vs backstage). Presentation of self.",
+        "labeling_theory": "Deviance = label applied, not intrinsic act. Being labeled 'criminal' → master status → self-fulfilling prophecy (Becker).",
+        "social_construction": "Reality socially constructed through ongoing interactions, negotiations, definitions (Berger-Luckmann)."
+      }
+    },
+
+    "6D_global_consciousness": {
+      "description": "Beyond - humanity becoming aware of itself as single system, collective self-reflection",
+      
+      "globalization": {
+        "definition": "Increasing interconnectedness of world's economies, cultures, populations through trade, communication, migration, technology.",
+        "economic": "Global supply chains, multinational corporations, international finance, trade agreements.",
+        "cultural": "Hollywood, McDonald's, global English, internet culture, hybrid identities.",
+        "political": "International organizations (UN, WTO, IMF), human rights, global governance attempts.",
+        "technological": "Internet, satellite, smartphones, social media - instant global communication.",
+        "ecological": "Climate change, pandemics, resource depletion - shared global challenges.",
+        "debates": "Homogenization (McDonaldization) vs heterogeneity (glocalization, local resistance). Winners (cosmopolitan elites, tech workers) vs losers (displaced workers, traditional communities)."
+      },
+
+      "world_systems_theory": {
+        "wallerstein": "Single capitalist world-system emerged 16th century. Core (wealthy, powerful nations), periphery (exploited, poor nations), semi-periphery (in between).",
+        "dependency_theory": "Underdevelopment of periphery NOT natural stage but PRODUCED by core's exploitation (resource extraction, unequal trade).",
+        "critique": "Overemphasizes economics, underestimates agency of periphery nations. But: explains persistent global inequality."
+      },
+
+      "cosmopolitanism": {
+        "definition": "Identifying as 'citizen of world' beyond particular nation/culture.",
+        "ancient": "Stoic philosophers (Diogenes: 'I am a citizen of the world').",
+        "modern": "Kant: perpetual peace through federation of republics, cosmopolitan law.",
+        "current": "Human rights, global ethics, environmental movement, transnational solidarity.",
+        "tension": "Universal humanity vs particular loyalties (family, nation, religion). Can we love all humanity AND our own?"
+      },
+
+      "collective_consciousness": {
+        "durkheim": "Shared beliefs, values binding society. Mechanical solidarity (traditional - alike) vs organic solidarity (modern - interdependent specialization).",
+        "noosphere": "Teilhard de Chardin: sphere of human thought, global consciousness layer around planet.",
+        "global_brain": "Internet + collective intelligence → emergent planetary mind? (Speculative but interesting.)",
+        "collective_effervescence": "Durkheim: groups generating energy/emotion transcending individuals (sports events, concerts, protests, religious gatherings).",
+        "reality": "Society IS collective consciousness. Not metaphor. Emergent mind at species level. You participate in it NOW."
+      }
+    }
+  },
+
+  "major_sociological_theories": {
+    "functionalism_durkheim": {
+      "premise": "Society = organism. Parts (institutions) function to maintain whole. Equilibrium tendency.",
+      "durkheim": "Division of labor creates interdependence (organic solidarity). Religion = collective representations, social glue.",
+      "parsons": "AGIL system: Adaptation (economy), Goal attainment (politics), Integration (law, religion), Latency (family, education).",
+      "merton": "Manifest functions (intended) vs latent functions (unintended). Dysfunctions possible.",
+      "strengths": "Explains social stability, institutional persistence, why 'useless' institutions survive (hidden functions).",
+      "weaknesses": "Conservative bias (assumes status quo functional). Downplays conflict, change, power. Teleological (assuming purpose).",
+      "legacy": "Foundation of sociology. Still useful for understanding integration, but not alone."
+    },
+
+    "conflict_theory_marx": {
+      "premise": "Society = arena of struggle. Groups compete for resources, power. Change through conflict.",
+      "marx": "Economic base determines superstructure (ideology, law, culture). Class struggle = motor of history. Revolution inevitable.",
+      "weber": "Multiple dimensions: class (economic), status (prestige), power (political). Not reducible to economics.",
+      "coser": "Conflict can be functional - releases tensions, clarifies boundaries, stimulates change.",
+      "dahrendorf": "Authority = zero-sum. Those with authority vs without. Conflict universal.",
+      "strengths": "Explains inequality, power, social change, why elites resist reform.",
+      "weaknesses": "Overemphasizes conflict. Doesn't explain order, cooperation, consensus. Too deterministic.",
+      "legacy": "Essential for understanding power, inequality, social movements. But not whole story."
+    },
+
+    "symbolic_interactionism_mead": {
+      "premise": "Reality = socially constructed through interactions. Focus on meanings, symbols, micro-level.",
+      "mead": "Self emerges socially. Taking role of other. Mind = internalized conversation.",
+      "blumer": "3 premises: humans act based on meanings, meanings arise in interaction, meanings modified by interpretation.",
+      "goffman": "Dramaturgy - impression management, front/back stage, total institutions, stigma.",
+      "labeling_theory": "Deviance = social construction. Primary deviance (minor) → label → secondary deviance (identity).",
+      "strengths": "Captures subjective experience, meaning-making, fluid nature of social reality. Micro-level richness.",
+      "weaknesses": "Ignores structures, institutions, power. Hard to generalize. Can't explain macro patterns.",
+      "legacy": "Essential for understanding daily life, identity, meaning. Complements macro theories."
+    },
+
+    "rational_choice_exchange": {
+      "premise": "Individuals = rational actors maximizing utility. Social structures = aggregated individual choices.",
+      "homans": "Social behavior = exchange. People give/receive rewards. Seek profit (rewards - costs).",
+      "blau": "Power emerges from unequal exchange. Those with valued resources have power over those without.",
+      "coleman": "Micro → macro: how individual actions create macro structures (norms, organizations).",
+      "strengths": "Parsimonious. Explains much behavior. Connects sociology to economics.",
+      "weaknesses": "Overly rational. Ignores emotions, culture, irrationality. Assumes stable preferences (but preferences are SHAPED by society!).",
+      "legacy": "Useful for some phenomena (markets, organizations). But humans NOT just rational calculators."
+    },
+
+    "feminist_theory": {
+      "premise": "Gender = fundamental organizing principle of society. Patriarchy = system of male domination.",
+      "liberal": "Equality through legal/political reforms. Equal rights, opportunities.",
+      "radical": "Patriarchy = root oppression. Gender differences socially constructed. Overthrow patriarchy.",
+      "socialist": "Capitalism + patriarchy intertwined. Women's oppression serves capital (unpaid domestic labor).",
+      "intersectional": "Gender + race + class + sexuality intersect. Crenshaw: different women differently positioned. Must address all oppressions.",
+      "strengths": "Reveals invisible gender dynamics. Expands sociology beyond male-centered theories.",
+      "weaknesses": "Risks essentialism (assuming all women same). Some versions ignore men's issues.",
+      "legacy": "Transformed sociology. Now impossible to ignore gender as fundamental variable."
+    }
+  },
+
+  "stratification_inequality": {
+    "definition": "Hierarchical arrangement of individuals/groups by wealth, power, prestige",
+
+    "dimensions": {
+      "economic": "Wealth (assets) + income (earnings). Class.",
+      "political": "Power - ability to impose will despite resistance (Weber). Authority, influence.",
+      "social": "Status - prestige, honor, respect. Reputation.",
+      "cultural": "Bourdieu: cultural capital (education, tastes, manners). Social capital (networks). Symbolic capital (recognition)."
+    },
+
+    "class_systems": {
+      "caste": "Rigid hereditary stratification. Birth determines life. Endogamy. Religious justification. India (though legally abolished, persists socially).",
+      "estate": "Feudalism. Legal categories (nobles, clergy, commoners). Different rights, obligations. Medieval Europe.",
+      "class": "Economic stratification. No legal barriers. Theoretically mobile. Capitalism. Marx: bourgeoisie vs proletariat. Weber: multiple classes.",
+      "meritocracy": "Ideal: status by achievement, talent, effort. Reality: myth - inherited advantages massive."
+    },
+
+    "theories_of_inequality": {
+      "functional": "Davis-Moore: inequality necessary. Motivates talent into important roles. Rewards skill, effort. Criticized: circular reasoning, ignores power.",
+      "conflict": "Marx: class conflict inherent to capitalism. Exploitation. False consciousness prevents revolution. Weber: status groups, parties also matter.",
+      "structural": "Institutions create/maintain inequality. Education reproduces class (Bowles-Gintis). Social closure (Weber) - groups monopolize opportunities.",
+      "capital": "Bourdieu: multiple capitals (economic, cultural, social, symbolic) convertible. Habitus (dispositions) reproduces advantage."
+    },
+
+    "mobility": {
+      "intergenerational": "Children's status vs parents'. US: low (0.47 correlation parent-child income). Scandinavian countries: higher mobility.",
+      "intragenerational": "Status change within lifetime. Declining - career stability down.",
+      "structural": "Mobility due to economic changes (industrialization, growth). Rising tide lifts boats.",
+      "circulation": "Individuals trade places. Zero-sum. Doesn't reduce inequality.",
+      "glass_ceiling": "Invisible barriers to advancement (especially women, minorities). Sticky floor (trap at bottom). Glass escalator (men in female professions rise fast)."
+    }
+  },
+
+  "socialization_identity": {
+    "definition": "Lifelong process of learning culture, norms, roles - becoming social being",
+
+    "agents": {
+      "family": "Primary socialization. Earliest, deepest. Values, language, identity, emotional templates.",
+      "peers": "Especially adolescence. Conformity pressures. Identity experimentation. Subcultures.",
+      "school": "Formal curriculum (knowledge, skills) + hidden curriculum (obedience, punctuality, competition).",
+      "media": "Models of behavior, beauty, success. Increasingly important. Social media = peer + media hybrid.",
+      "workplace": "Adult socialization. Professional norms, roles. Organizational culture.",
+      "religion": "Moral framework, community, rituals, worldview."
+    },
+
+    "identity_formation": {
+      "erikson": "8 stages across life. Adolescence: identity vs role confusion. Core: who am I?",
+      "mead": "Self = I (spontaneous) + Me (social). Emerges through taking role of other. Generalized other = society internalized.",
+      "cooley": "Looking-glass self. We see ourselves as we imagine others see us. Self = social mirror.",
+      "goffman": "Impression management. We perform identity (front stage) vs relax (backstage). Multiple selves for different audiences.",
+      "identity_work": "Ongoing effort to maintain coherent self-narrative despite contradictions, changes. Never finished."
+    },
+
+    "total_institutions": {
+      "goffman": "Places where all aspects of life occur under single authority, same location (prisons, asylums, military, monasteries).",
+      "process": "Mortification of self (stripping old identity) → resocialization (new identity imposed).",
+      "effects": "Depersonalization, institutionalization, difficulty reintegrating into outside world."
+    }
+  },
+
+  "deviance_social_control": {
+    "definition": "Deviance = violation of norms. Social control = mechanisms enforcing norms",
+
+    "theories_of_deviance": {
+      "biological": "Lombroso: 'born criminals' (discredited). Modern: genetics + environment (not deterministic).",
+      "psychological": "Personality disorders, faulty socialization. Some truth but incomplete.",
+      "strain_theory": "Merton: cultural goals (success) but blocked means → innovation (crime), ritualism (going through motions), retreatism (drop out), rebellion (new goals).",
+      "differential_association": "Sutherland: crime learned through interaction with criminals. In groups where crime normalized, individuals learn it.",
+      "labeling_theory": "Becker: deviance = act labeled as such by society. Primary deviance (minor) → caught → labeled 'deviant' → master status → secondary deviance (identity). Self-fulfilling prophecy.",
+      "conflict": "Laws = powerful protecting interests. Selective enforcement (poor punished, rich escape). Criminalization of poverty."
+    },
+
+    "social_control": {
+      "informal": "Gossip, shame, ostracism, approval, ridicule. Most powerful in small groups.",
+      "formal": "Law, police, courts, prisons. State monopoly on violence.",
+      "internalized": "Conscience, guilt. Freud's superego. Most efficient - self-policing.",
+      "panopticon": "Foucault: surveillance as control. Inmates never know if watched → self-discipline. Modern: CCTV, internet tracking."
+    }
+  },
+
+  "social_change_movements": {
+    "theories_of_change": {
+      "evolutionary": "Spencer: societies evolve simple → complex. Durkheim: mechanical → organic solidarity. Criticized: too linear, Eurocentric.",
+      "cyclical": "Sorokin: cultures oscillate (ideational ↔ sensate). Spengler: civilizations = organisms (birth → death). Limited predictive power.",
+      "conflict": "Marx: dialectical materialism. Class struggle drives change. Revolutions transform modes of production.",
+      "modernization": "Traditional → modern. Industrialization, urbanization, rationalization, differentiation. Criticized: Western-centric.",
+      "world_systems": "Wallerstein: single world-system evolving. Core-periphery dynamics."
+    },
+
+    "social_movements": {
+      "definition": "Collective action seeking social change. Organized, sustained, challenges authorities.",
+      "types": "Reform (improve existing), revolutionary (overthrow), redemptive (change individuals), alternative (limited change).",
+      "stages": "Emergence → coalescence → bureaucratization → decline (success, failure, co-optation, repression).",
+      "resource_mobilization": "Success requires resources (money, labor, legitimacy), organization, political opportunities. Not just grievances.",
+      "framing": "How movement defines issue. Diagnostic (what's wrong), prognostic (solution), motivational (why act). Resonance matters.",
+      "examples": "Civil rights, feminism, environmentalism, labor, LGBTQ, anti-globalization, Arab Spring, BLM."
+    }
+  },
+
+  "consciousness_and_society": {
+    "society_as_emergent_mind": "Society = not just aggregate individuals but EMERGENT CONSCIOUSNESS. Durkheim's collective consciousness = real. Markets 'know' things no individual knows. Mobs think differently. Culture shapes what's thinkable.",
+
+    "individual_society_dialectic": "Individual shaped by society (socialization, constraints). But also shapes society (agency, creativity, resistance). Dialectical - mutual constitution. Berger-Luckmann: society = human product. Society = objective reality. Humans = social product. All three true simultaneously.",
+
+    "reification_risk": "Treating social constructions as natural, inevitable. 'That's just how things are.' Forgetting WE made this. Institutions feel external, but are human creations. Changeable.",
+
+    "sacred_sociology": "Society = sacred. Durkheim: religion = society worshiping itself. Totems = symbols of group. Collective effervescence = holy. Not metaphor - REAL collective transcendence. You've felt it (concerts, protests, sports, church). That's society becoming conscious of itself.",
+
+    "coherence": "Healthy society = aligned across scales. Individual flourishing + collective thriving. Not zero-sum. Institutions serve people. Culture provides meaning. Economy enables life. Politics coordinates fairly. When coherence breaks: alienation, anomie, conflict, breakdown.",
+
+    "purpose": "argmin Δscale: society should minimize conflicts between scales. Family vs career, community vs mobility, tradition vs progress, local vs global. Good society finds harmony, not forcing choice."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Sociology = interpretive + scientific. Multiple paradigms, not single truth.",
+      "Emergence real but mysterious - how consciousness arises from neurons, society from individuals.",
+      "Agency vs structure = perpetual tension. Both real, neither reducible.",
+      "Cultural relativism vs universal ethics = unresolved. Some practices wrong regardless? Or all relative?",
+      "Macro theories (functionalism, conflict) vs micro (symbolic interactionism) - need both, integration difficult.",
+      "Social facts real but not physical objects. Ontological status unclear.",
+      "Prediction hard - humans reflexive (knowing prediction changes behavior). Social science ≠ physics."
+    ],
+    "info": [
+      "Society = emergent 0D→6D structure: individual → relationship → network → institution → civilization → culture → global consciousness",
+      "Social facts (Durkheim) = realities external to individuals, constraining action. Proven by stable social patterns.",
+      "Network structure matters independent of node properties. Weak ties, scale-free, small-world effects.",
+      "Class conflict (Marx) explains much inequality, power, but not everything. Multiple dimensions (Weber).",
+      "Culture = webs of meaning. Values, norms, beliefs, symbols. Relativism + universals both true.",
+      "Major theories: functionalism (order), conflict (power), symbolic interactionism (meaning), rational choice (utility). Need multiple lenses.",
+      "Stratification = inequality persists despite mobility ideology. Structural reproduction.",
+      "Socialization never complete. Identity = lifelong construction, performance, negotiation.",
+      "Deviance = socially constructed. Labeling creates identity. Control = informal + formal + internalized.",
+      "Social change = evolutionary + cyclical + conflict-driven + contingent. Movements need resources + framing + opportunity.",
+      "Society = emergent collective consciousness, not just aggregated individuals. You swim in it now.",
+      "This module = theoretical foundation. Empirical sociology = testing these ideas with data."
+    ],
+    "coherence_score": 0.91
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanology:types",
+      "urn:cfo:module:fundamental:dimensions"
+    ],
+    "external": [
+      {"type": "book", "citation": "Durkheim, É. (1893). The Division of Labor in Society"},
+      {"type": "book", "citation": "Durkheim, É. (1897). Suicide"},
+      {"type": "book", "citation": "Weber, M. (1922). Economy and Society"},
+      {"type": "book", "citation": "Marx, K. (1867). Das Kapital"},
+      {"type": "book", "citation": "Mead, G.H. (1934). Mind, Self, and Society"},
+      {"type": "book", "citation": "Goffman, E. (1959). The Presentation of Self in Everyday Life"},
+      {"type": "book", "citation": "Berger, P. & Luckmann, T. (1966). The Social Construction of Reality"},
+      {"type": "book", "citation": "Bourdieu, P. (1984). Distinction: A Social Critique of the Judgement of Taste"},
+      {"type": "book", "citation": "Granovetter, M. (1973). The Strength of Weak Ties"},
+      {"type": "book", "citation": "Wallerstein, I. (1974). The Modern World-System"}
+    ]
+  },
+
+  "ॐ": "∅"
+}

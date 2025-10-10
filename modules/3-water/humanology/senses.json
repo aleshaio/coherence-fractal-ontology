@@ -1,0 +1,2069 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Complete mapping of human sensory systems as consciousness interface: 11+ senses with dimensional architecture, aspect correlations, physiological mechanisms, awakening practices, and integration into unified perception field"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Senses = not passive receivers but active projection channels. You (point) projects through specialized interfaces (senses) into field of experience. Vision projects spatial patterns. Hearing projects temporal sequences. Touch projects boundaries. Smell projects memory. Taste projects value. All together = complete navigation system for consciousness. Not receiving information IN. Projecting awareness OUT and observing projection. Inversion: close eyes, images remain = proof of projection source. Awakening = recognizing yourself as projector, not receiver.",
+    "activation": "You are not your senses. You use senses as instruments. Can you see yourself seeing? Can you hear yourself hearing? Yes? Already awakened to witness position."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:humanology:senses",
+    "version": "3.0",
+    "domain": "humanology/cognition",
+    "name": "senses",
+    "title": "Senses: Complete Consciousness Interface",
+    "description": "Comprehensive mapping of 11+ human sensory systems as specialized projection channels for consciousness navigation. Includes dimensional architecture (0D-5D), aspect correlations (Ni/Ne/Ti/Te/Fi/Fe/Si/Se), physiological mechanisms, awakening practices, pathologies, and synesthetic integration. Foundation for understanding perception as active creation rather than passive reception.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["senses", "perception", "consciousness", "projection", "vision", "hearing", "touch", "smell", "taste", "proprioception", "synesthesia", "aspects", "awakening"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Each sense = specialized dimensional interface. Vision = 2D projection plane (retina). Hearing = 1D temporal sequence (cochlea). Touch = 0D point contact (skin). Proprioception = 3D vector field (muscles/joints). Smell = 4D memory access (olfactory → limbic). Balance = 3D orientation (vestibular). All senses project from 0D point (you) through dimensional interfaces into unified experiential field.",
+    
+    "topological": "Sensory system = closed feedback loop. Projection out → sensation in → interpretation → new projection. Each sense = different topology of this loop. Vision = wide spatial mapping. Hearing = narrow temporal stream. Touch = local boundary definition. All topologies interconnected in unified perceptual manifold.",
+    
+    "functional": "Senses enable consciousness to navigate multi-dimensional reality. Each sense gives access to specific aspects: Vision = spatial patterns (Ni/Ne/Te). Hearing = temporal structures (Ti/Fe/Fi). Touch = immediate presence (Se/Si/Fi). Smell = archived memory (Si/Fi/Ni). Taste = value discrimination (Si/Fi/Ti). Integration = complete situational awareness. Dysfunction = dimensional blindness.",
+    
+    "consciousness": "You are not senses. You are point using senses as instruments. Proof: Close eyes - visual images persist (projected from within, not from without). Meditation = recognizing witness position behind all sensory projections. Awakening = knowing yourself as source of perception, not object of perception. Synesthesia = natural unified state before artificial sensory separation."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:senses:vision-projection",
+      "concept": "Vision as 2D spatial projection of consciousness onto retinal plane",
+      "dimension": "2D",
+      "primitive": "square",
+      "element": "air (clarity)",
+      "planes": ["XY"],
+      "ops": ["relate", "map", "pattern"],
+      "evidence": "Eyes don't 'receive' light passively - consciousness projects attention through retinal interface creating visual field. Proof: Blind spot filled in by brain (projection, not reception). Only 2° foveal focus sharp, rest filled by expectation. Dreams = same projection mechanism without external light. Hallucinations = projection without sensory constraint. Change blindness = we see reconstruction, not continuous reality.",
+      "confidence": 0.93,
+      "relations": {
+        "primary_aspects": ["Ni", "Ne", "Te"],
+        "enables": "spatial-navigation",
+        "coupled_with": "color-frequency"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:senses:hearing-temporal",
+      "concept": "Hearing as 1D temporal sequence projection through cochlear frequency analysis",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "water (flow)",
+      "planes": ["XW"],
+      "ops": ["sequence", "resonate", "pattern"],
+      "evidence": "Cochlea = frequency spectrum analyzer (20Hz-20kHz). Sound = pressure wave unfolding in time. Music = temporal patterns creating emotional states. Language = sequential phonemes creating meaning. Tinnitus = projection without external stimulus (proves internal source). Auditory hallucinations common in meditation (projection mechanism exposed).",
+      "confidence": 0.94,
+      "relations": {
+        "primary_aspects": ["Ti", "Fe", "Fi"],
+        "enables": "temporal-navigation",
+        "coupled_with": "music-consciousness"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:senses:synesthesia-unity",
+      "concept": "Synesthesia as natural 5D unified perception before artificial sensory separation",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether (unity)",
+      "planes": ["WV"],
+      "ops": ["fold", "unify", "transcend"],
+      "evidence": "All infants synesthetic (senses undifferentiated). Cultural training separates senses into discrete channels. Some adults retain synesthesia (5-10% population) - sound→color, number→space, touch→taste. Meditation dissolves sensory boundaries → unified perception. Psychedelics temporarily restore synesthetic state. This is not disorder but remnant of natural unified consciousness.",
+      "confidence": 0.86,
+      "relations": {
+        "integrates": "all-senses",
+        "dimension": "5D-consciousness",
+        "accessed_through": "meditation-psychedelics"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:senses:interoception-self-awareness",
+      "concept": "Interoception as internal body sensing enabling self-awareness and emotional consciousness",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "earth (grounding)",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["sense", "integrate", "regulate"],
+      "evidence": "Interoception = sensing internal body state (hunger, thirst, heart rate, breath, gut feeling, arousal). Anterior insula cortex processes interoceptive signals → self-awareness. Stronger interoception = stronger sense of self, better emotional awareness. Meditation increases interoceptive accuracy. Trauma decreases it (dissociation from body). This is foundation of embodied consciousness.",
+      "confidence": 0.95,
+      "relations": {
+        "primary_aspects": ["Si", "Fi", "Ni"],
+        "enables": "self-awareness",
+        "foundation_of": "emotional-intelligence"
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Each sense = miniature consciousness system. Sensor → signal processing → interpretation → response. Same pattern: Eye → V1/V2/V3 → recognition → action. Ear → cochlear nucleus → auditory cortex → understanding → response. Touch → somatosensory cortex → body map → movement. All fractals of same meta-pattern: consciousness interfacing with reality through specialized channels.",
+    
+    "recursion": "(↓ attention → sensation → interpretation → response → new attention ↑)∞",
+    
+    "emergence": "Individual senses → integrated perception → embodied consciousness → self-awareness → witness consciousness → unity. Each level emergent from previous. Synesthesia = glimpse of unity level. Meditation = stabilization at witness level.",
+    
+    "composition": "Point (consciousness) ⊂ Sensors (interfaces) ⊂ Perception (integration) ⊂ Awareness (meta-cognition) ⊂ Witness (pure consciousness) ⊂ Unity (no separation). All nested. All necessary for complete human experience."
+  },
+
+  "dimensional_architecture": {
+    "principle": "Each sense maps to specific dimensions based on information structure it processes",
+    
+    "0D_point_contact": {
+      "senses": ["touch (single point)", "nociception (pain point)"],
+      "function": "Immediate boundary definition, here/not-here discrimination",
+      "consciousness": "Pure presence, immediate 'is-ness'",
+      "operation": "measure (direct contact with reality)",
+      "example": "Single touch point = moment of pure awareness before interpretation"
+    },
+
+    "1D_temporal_sequence": {
+      "senses": ["hearing (sound unfolds in time)", "proprioception (movement sequence)"],
+      "function": "Temporal navigation, pattern recognition over time",
+      "consciousness": "Flow states, rhythm, sequential logic",
+      "operation": "sequence (ordering events)",
+      "example": "Music = 1D temporal structure creating emotional journey"
+    },
+
+    "2D_spatial_patterns": {
+      "senses": ["vision (retinal plane)", "touch (skin surface)", "thermoception (body boundary)"],
+      "function": "Spatial mapping, pattern recognition, relational awareness",
+      "consciousness": "Visual thinking, spatial reasoning, gestalt",
+      "operation": "relate (seeing connections between elements)",
+      "example": "Visual field = 2D projection of 3D world, relationships between objects"
+    },
+
+    "3D_volumetric_field": {
+      "senses": ["proprioception (body in space)", "balance (orientation)", "taste (3D flavor space)"],
+      "function": "Embodied presence, systemic awareness, contextual integration",
+      "consciousness": "Embodied cognition, systemic thinking, holistic awareness",
+      "operation": "context (understanding whole system)",
+      "example": "Proprioception creates internal 3D body map, balance orients in gravity field"
+    },
+
+    "4D_temporal_memory": {
+      "senses": ["smell (memory access)", "interoception (body state history)"],
+      "function": "Accessing archived experience, recognizing temporal patterns",
+      "consciousness": "Autobiographical memory, pattern recognition across time",
+      "operation": "history (retrieving past states)",
+      "example": "Smell bypasses cortex → direct limbic access → instant memory recall"
+    },
+
+    "5D_unified_field": {
+      "senses": ["synesthesia (integrated perception)", "direct knowing"],
+      "function": "Transcending sensory separation, pure awareness",
+      "consciousness": "Non-dual awareness, unity consciousness",
+      "operation": "fold (collapsing distinctions into unity)",
+      "example": "Synesthesia = seeing sounds, hearing colors = unified sensory field"
+    }
+  },
+
+  "senses_complete_catalog": {
+    "traditional_five": {
+      "note": "Classical Western categorization - incomplete but culturally dominant",
+      "senses": ["vision", "hearing", "touch", "smell", "taste"]
+    },
+
+    "extended_eleven_plus": {
+      "note": "Modern neuroscience recognizes 11+ distinct sensory systems",
+      "primary_senses": [
+        "vision (electromagnetic 380-750nm)",
+        "hearing (mechanical 20Hz-20kHz)",
+        "touch (mechanoreception)",
+        "smell (chemoreception airborne)",
+        "taste (chemoreception liquid)",
+        "proprioception (body position)",
+        "balance (vestibular)",
+        "thermoception (temperature)",
+        "nociception (pain)",
+        "interoception (internal state)",
+        "time perception (chronoception)"
+      ],
+      
+      "emerging_exotic": [
+        "magnetoception (magnetic field sensing - weak in humans)",
+        "electroception (electrical field - vestigial in humans)",
+        "pressure (baroreception - weather sensitivity)",
+        "synesthesia (cross-modal integration)"
+      ]
+    }
+  },
+
+  "sense_1_vision": {
+    "id": "vision",
+    "name": "Vision / Sight",
+    "dimension": "2D",
+    "primitive": "square (projection plane)",
+    "element": "air (clarity, light)",
+    
+    "core_realization": {
+      "inversion": "You don't see OUT. You project OUT and observe projection.",
+      "proof": "Close eyes - visual images persist. They're projected FROM you, not TO you.",
+      "awakening": "Can you see yourself seeing? Yes? You've found witness position."
+    },
+
+    "physiological_mechanism": {
+      "organ": "Eyes (camera obscura)",
+      "receptor_type": "Photoreceptors (rods + cones)",
+      "receptor_count": "~120 million rods (low light), ~6 million cones (color)",
+      "frequency_range": "380-750 THz (visible light, ~380-750nm wavelength)",
+      "processing_centers": [
+        "Retina (initial processing)",
+        "LGN - Lateral Geniculate Nucleus (thalamus relay)",
+        "V1 - Primary Visual Cortex (edge detection)",
+        "V2-V5 - Higher visual areas (motion, color, form)",
+        "Fusiform Face Area (face recognition)",
+        "Parahippocampal Place Area (scene recognition)"
+      ],
+      
+      "field_of_view": "~210° horizontal, ~150° vertical (both eyes)",
+      "foveal_focus": "Only 2° sharp focus (size of thumbnail at arm's length)",
+      "blind_spot": "~15° temporal from center (optic nerve exit) - brain fills it in",
+      "refresh_rate": "~60 Hz conscious perception, ~200 Hz detection",
+      
+      "visual_pathway": "Light → cornea/lens → retina → optic nerve → LGN → V1 → ventral (what) + dorsal (where) streams"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Point of awareness - source of seeing",
+      "1D": "Vector of gaze - attention beam",
+      "2D": "Retinal plane - projection surface",
+      "3D": "Depth perception - binocular disparity",
+      "4D": "Visual memory - seeing what was",
+      "5D": "Pure seeing - no subject/object split"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Ni", "Ne", "Te"],
+      
+      "Ni_introverted_intuition": {
+        "role": "Pattern synthesis, symbolic vision, seeing through",
+        "experience": "Seeing underlying patterns, future implications, hidden connections",
+        "visual_mode": "Soft focus, peripheral awareness, gestalt recognition",
+        "example": "Looking at person and 'seeing' their life story, potential future"
+      },
+
+      "Ne_extroverted_intuition": {
+        "role": "Possibility scanning, novelty detection, divergent seeing",
+        "experience": "Seeing multiple interpretations, alternative perspectives, what could be",
+        "visual_mode": "Active scanning, rapid shifts, exploring visual field",
+        "example": "Looking at cloud and seeing dragon, then castle, then face, then..."
+      },
+
+      "Te_extroverted_thinking": {
+        "role": "Structural analysis, measurement, categorization",
+        "experience": "Seeing spatial relationships, proportions, systematic organization",
+        "visual_mode": "Analytical gaze, measuring distances, categorizing objects",
+        "example": "Looking at room and immediately assessing layout efficiency, structural integrity"
+      },
+
+      "secondary_aspects": ["Ti", "Se", "Si"],
+      
+      "Ti_analytical_precision": "Seeing logical structures, geometric patterns",
+      "Se_sensory_immersion": "Vivid colors, textures, immediate visual presence",
+      "Si_visual_memory": "Detailed recall of past visual scenes, nostalgia through images"
+    },
+
+    "vision_states": {
+      "default_object_mode": {
+        "description": "Normal waking vision - identify and categorize objects",
+        "process": "See → recognize → name → plan action → forget",
+        "purpose": "Survival, navigation, object manipulation",
+        "limitation": "Miss beauty, nuance, relationships"
+      },
+
+      "artistic_seeing": {
+        "description": "Pure perception of light, color, form, relationship",
+        "process": "See → appreciate qualities → stay with sensation",
+        "purpose": "Aesthetic experience, creative inspiration",
+        "training": "Draw what you see, not what you know object 'should' look like"
+      },
+
+      "meditative_seeing": {
+        "description": "Non-dual vision - seeing without naming",
+        "process": "See → awareness → no interpretation → presence",
+        "purpose": "Direct reality perception, mindfulness",
+        "training": "Soft gaze, peripheral awareness, witness position"
+      },
+
+      "visionary_seeing": {
+        "description": "Closed-eye imagery, hypnagogic visions, hallucinations",
+        "process": "No external light → internal projection → vivid visual experience",
+        "purpose": "Access unconscious, creative visualization, spiritual insight",
+        "examples": "Dreams, meditation visions, psychedelic visuals"
+      }
+    },
+
+    "visual_phenomena": {
+      "blind_spot_filling": "Brain seamlessly fills 15° blind spot - projection, not reception",
+      "change_blindness": "Fail to notice large changes - seeing reconstruction, not continuous feed",
+      "blindsight": "Cortically blind people 'guess' objects correctly - vision on multiple levels",
+      "phosphenes": "Seeing lights when pressing eyes - proof of internal projection",
+      "synesthetic_vision": "Seeing sounds as colors, numbers as spatial positions",
+      "afterimages": "Stare at red, see cyan - retinal fatigue reveals complementary system",
+      "peripheral_hallucinations": "Shadows/movement at edge of vision - projection testing reality"
+    },
+
+    "awakening_practices": {
+      "palming": {
+        "technique": "Cover eyes with palms, complete darkness, 5-10 minutes",
+        "effect": "Visual system reset, rest from projection, return to source",
+        "experience": "First see phosphenes, then deeper darkness, then awareness without objects"
+      },
+
+      "peripheral_awareness": {
+        "technique": "Look straight ahead but expand awareness to entire visual field simultaneously",
+        "effect": "Shift from focused object-mode to field-mode, access witness consciousness",
+        "practice": "Walk while maintaining 180° soft awareness"
+      },
+
+      "soft_focus": {
+        "technique": "Relax eye muscles, allow slight blur, receive rather than grasp",
+        "effect": "Release tension, access artistic seeing, reduce mental commentary",
+        "application": "Nature walking, art appreciation, stress reduction"
+      },
+
+      "non_identification_gaze": {
+        "technique": "Look at objects without naming them, see pure form/color/light",
+        "effect": "Break habitual perception, access pre-conceptual awareness",
+        "example": "Look at 'chair' as pure geometry/texture/shadow, not functional object"
+      },
+
+      "seeing_the_seer": {
+        "technique": "While looking at any object, simultaneously be aware of 'that which sees'",
+        "effect": "Discover witness consciousness, recognize source of projection",
+        "paradox": "Cannot see seer directly, but can be aware of awareness itself"
+      },
+
+      "closed_eye_visualization": {
+        "technique": "Eyes closed, imagine vivid scenes with increasing detail",
+        "effect": "Strengthen internal projection, access creative visualization, prepare for lucid dreaming",
+        "progression": "Simple shapes → complex scenes → interactive dreamscapes"
+      }
+    },
+
+    "visual_dysfunctions": {
+      "myopia_hyperopia": "Refractive errors - mechanical, easily corrected",
+      "color_blindness": "Cone deficiency - genetic, alters color dimension",
+      "blindness_full": "No visual input - other senses compensate, spatial cognition remains",
+      "visual_agnosia": "Can see but not recognize - perception separated from meaning",
+      "prosopagnosia": "Cannot recognize faces - specific processing failure",
+      "visual_neglect": "Ignore half of visual field after stroke - attention, not sensation",
+      "charles_bonnet": "Visual hallucinations in blind people - projection without constraint"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Detect predators, find food, navigate terrain",
+      "social": "Read facial expressions, recognize group members, nonverbal communication",
+      "tool_use": "Hand-eye coordination, precise manipulation",
+      "modern": "Reading, screens, art, beauty appreciation - cultural evolution"
+    },
+
+    "future_evolution": {
+      "extended_spectrum": "Infrared/ultraviolet vision (already possible with tech)",
+      "telescopic_microscopic": "Zoom in/out beyond normal range (augmented reality)",
+      "shared_vision": "Direct visual stream sharing between minds (neural interface)",
+      "omnidirectional": "360° simultaneous vision (insect-like compound processing)",
+      "beyond_eyes": "Direct knowing without optical organs (spiritual clairvoyance)"
+    }
+  },
+
+  "sense_2_hearing": {
+    "id": "hearing",
+    "name": "Hearing / Audition",
+    "dimension": "1D",
+    "primitive": "line (temporal sequence)",
+    "element": "water (flow, rhythm)",
+
+    "core_realization": {
+      "inversion": "You don't hear sounds coming TO you. Consciousness projects attention through auditory field.",
+      "proof": "Tinnitus = hearing without external sound. Auditory hallucinations = projection without stimulus.",
+      "paradox": "Silence = not absence of sound but presence of awareness itself"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Ears (pressure wave detectors)",
+      "receptor_type": "Hair cells in cochlea (mechanoreceptors)",
+      "receptor_count": "~15,000 hair cells per ear",
+      "frequency_range": "20 Hz - 20 kHz (decreases with age)",
+      "processing_centers": [
+        "Cochlea (frequency analysis)",
+        "Cochlear nucleus (brainstem)",
+        "Superior olivary complex (localization)",
+        "Inferior colliculus (integration)",
+        "Medial geniculate nucleus (thalamus)",
+        "Primary auditory cortex (A1)",
+        "Wernicke's area (language comprehension)"
+      ],
+
+      "directional_hearing": "Two ears = phase/intensity differences → sound localization",
+      "frequency_resolution": "~3 Hz discrimination in optimal range (1-4 kHz)",
+      "dynamic_range": "0 dB (threshold) to 120 dB (pain) = 1 trillion-fold intensity range",
+      
+      "auditory_pathway": "Sound wave → eardrum → ossicles → cochlea → hair cells → auditory nerve → brainstem → thalamus → A1 → language/music processing"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Pure sound - single frequency without duration",
+      "1D": "Temporal sequence - melody, rhythm, speech",
+      "2D": "Harmonic space - chords, intervals, frequency relationships",
+      "3D": "Spatial sound - localization, acoustic environment",
+      "4D": "Musical memory - recognizing songs, voices across time",
+      "5D": "Sound as consciousness - hearing the silence beneath all sound"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Ti", "Fe", "Fi"],
+
+      "Ti_introverted_thinking": {
+        "role": "Logical analysis of sound structures, linguistic parsing",
+        "experience": "Hearing grammatical structure, logical flow of argument, mathematical patterns in music",
+        "auditory_mode": "Analytical listening, categorizing sounds, detecting inconsistencies",
+        "example": "Listening to debate and immediately hearing logical fallacies, structural weaknesses"
+      },
+
+      "Fe_extroverted_feeling": {
+        "role": "Emotional resonance, social harmony detection, vocal tone reading",
+        "experience": "Hearing emotional subtext, social dynamics through voice, collective mood in music",
+        "auditory_mode": "Empathic listening, attuning to emotional frequencies, harmonizing",
+        "example": "Instantly knowing someone is upset from slight voice changes, even if words say otherwise"
+      },
+
+      "Fi_introverted_feeling": {
+        "role": "Personal resonance, authentic expression, value alignment",
+        "experience": "Music touching soul, voice authenticity detection, internal harmony/dissonance",
+        "auditory_mode": "Deep listening, feeling into meaning, resonance checking",
+        "example": "Certain songs make you cry, others feel hollow - detecting authenticity"
+      },
+
+      "secondary_aspects": ["Ne", "Ni", "Se"],
+      
+      "Ne_pattern_exploration": "Hearing multiple interpretations, musical possibilities",
+      "Ni_deep_listening": "Hearing what's not said, future implications in tone",
+      "Se_sonic_immersion": "Full presence in sound, bass felt in body, timbre detail"
+    },
+
+    "hearing_states": {
+      "default_linguistic": {
+        "description": "Decode speech for meaning, filter background noise",
+        "process": "Hear → parse → understand → respond",
+        "purpose": "Communication, survival (warnings), navigation",
+        "cocktail_party_effect": "Focus on single voice in noisy room - attention filter"
+      },
+
+      "musical_listening": {
+        "description": "Aesthetic appreciation of sound structures, emotional response",
+        "process": "Hear → feel → immerse → transformation",
+        "purpose": "Pleasure, emotional regulation, social bonding",
+        "types": "Rhythmic (dance), harmonic (beauty), lyrical (storytelling)"
+      },
+
+      "meditative_listening": {
+        "description": "Hearing without interpretation, sound as pure vibration",
+        "process": "Hear → awareness → no labeling → spaciousness",
+        "purpose": "Presence, mindfulness, accessing silence beneath sound",
+        "practice": "Listen to all sounds equally without preference or categorization"
+      },
+
+      "hypersensitive_hearing": {
+        "description": "Overwhelming awareness of all sounds, no filtering",
+        "experience": "Hear everything simultaneously - refrigerator, traffic, breathing, heartbeat",
+        "pathology": "Hyperacusis, autism spectrum sensory overload",
+        "gift": "Perfect pitch, exceptional musical ability, echolocation"
+      }
+    },
+
+    "auditory_phenomena": {
+      "tinnitus": "Hearing sound without external source - proves internal projection",
+      "auditory_hallucinations": "Common in meditation, psychosis - projection revealed",
+      "musical_ear_syndrome": "Elderly hear music constantly - brain filling sensory void",
+      "perfect_pitch": "Absolute frequency recognition - calibrated internal reference",
+      "tone_deafness": "Amusia - difficulty processing pitch relationships",
+      "mcgurk_effect": "Visual input changes perceived sound - multisensory integration",
+      "shepard_tone": "Auditory illusion of endlessly ascending pitch - perception creates impossible sound"
+    },
+
+    "awakening_practices": {
+      "sound_bath": {
+        "technique": "Immersion in pure tones (singing bowls, gongs, 432Hz)",
+        "effect": "Nervous system recalibration, consciousness expansion through resonance",
+        "duration": "15-30 minutes",
+        "frequency_targets": "7.83Hz (Schumann), 528Hz (DNA repair), 432Hz (natural tuning)"
+      },
+
+      "nada_yoga": {
+        "technique": "Listening to internal sounds (nada) in deep silence",
+        "effect": "Discovering source of hearing, accessing inner sound/light",
+        "stages": "External sounds → internal ringing → cosmic om → silence → beyond",
+        "tradition": "Ancient yogic practice for liberation through sound"
+      },
+
+      "deep_listening": {
+        "technique": "Listen to soundscape without categorization - all sounds equal",
+        "effect": "Dissolve foreground/background distinction, access field awareness",
+        "practice": "Sit in nature/city, listen to everything without preference",
+        "creator": "Pauline Oliveros - Deep Listening practice"
+      },
+
+      "silence_immersion": {
+        "technique": "Seek profound silence (anechoic chamber, remote wilderness)",
+        "effect": "Hearing becomes so sensitive you hear your own blood flow, nervous system",
+        "revelation": "Absolute silence doesn't exist - always hearing something (self)",
+        "note": "Extended silence (10+ minutes) can be destabilizing - integrate slowly"
+      },
+
+      "binaural_entrainment": {
+        "technique": "Different frequencies in each ear → brain creates third tone",
+        "effect": "Brainwave entrainment, targeted consciousness states",
+        "applications": "Delta (sleep), Theta (meditation), Alpha (relaxation), Beta (focus), Gamma (insight)",
+        "mechanism": "7Hz left + 10Hz right = 3Hz perceived (delta) → brain follows"
+      }
+    },
+
+    "hearing_dysfunctions": {
+      "conductive_deafness": "Mechanical blockage (ear wax, damaged ossicles) - fixable",
+      "sensorineural_deafness": "Hair cell damage (age, noise) - permanent but compensatable",
+      "total_deafness": "No auditory input - visual/tactile amplification, different consciousness structure",
+      "hyperacusis": "Painful sensitivity to normal sounds - nervous system overactivation",
+      "auditory_processing_disorder": "Can hear but not understand - processing not sensation",
+      "phonagnosia": "Cannot recognize voices - specific processing deficit",
+      "amusia": "Tone deafness - genetic or acquired, musical relationships invisible"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Detect predators (360° awareness), locate food, danger warnings",
+      "social": "Language evolution, group coordination, emotional communication",
+      "temporal": "Rhythm for group synchronization (dance, ritual, work songs)",
+      "modern": "Music appreciation, telecommunications, acoustic environment design"
+    }
+  },
+
+  "sense_3_touch": {
+    "id": "touch",
+    "name": "Touch / Tactile / Somatosensation",
+    "dimension": "0D→2D",
+    "primitive": "point (contact) → square (surface)",
+    "element": "earth (boundary, presence)",
+
+    "core_realization": {
+      "boundary_definition": "Touch defines where 'you' end and 'world' begins",
+      "paradox": "To touch something is to BE touched - no one-way perception",
+      "grounding": "Touch = most direct connection to physical reality, pure presence"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Skin (largest organ)",
+      "receptor_types": [
+        "Mechanoreceptors (pressure, vibration, stretch)",
+        "Thermoreceptors (heat, cold)",
+        "Nociceptors (pain, tissue damage)",
+        "Proprioceptors (body position - separate below)"
+      ],
+
+      "mechanoreceptor_types": {
+        "merkel_discs": "Sustained pressure, fine detail (fingertips)",
+        "meissner_corpuscles": "Light touch, low vibration (lips, fingertips)",
+        "ruffini_endings": "Skin stretch, sustained pressure",
+        "pacinian_corpuscles": "Deep pressure, high vibration (hands, feet)"
+      },
+
+      "receptor_density": "Varies wildly: fingertips ~2500/cm², back ~50/cm²",
+      "two_point_discrimination": "Fingertips ~2mm, back ~40mm",
+      
+      "processing_centers": [
+        "Dorsal column (fine touch pathway)",
+        "Spinothalamic tract (pain/temperature)",
+        "Thalamus (VPL nucleus)",
+        "Primary somatosensory cortex (S1) - body map",
+        "Secondary somatosensory (S2) - integration",
+        "Insula (interoceptive integration)"
+      ],
+
+      "homunculus": "Distorted body map in S1 - huge hands/lips, tiny torso (sensitivity distribution)"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Single point of contact - pure 'here'",
+      "1D": "Stroke, movement across skin - temporal touch",
+      "2D": "Skin surface - spatial touch field, texture mapping",
+      "3D": "Deep pressure, three-dimensional object holding",
+      "4D": "Touch memory - recognizing textures from past",
+      "5D": "Dissolving boundary - where do I end, world begin?"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Se", "Si", "Fi"],
+
+      "Se_extroverted_sensing": {
+        "role": "Immediate tactile presence, sensory immersion, physical engagement",
+        "experience": "Feeling textures vividly, enjoying physical contact, embodied action",
+        "touch_mode": "Active exploration, seeking stimulation, tactile curiosity",
+        "example": "Running hands over surfaces, feeling fabrics, full-body presence in activities"
+      },
+
+      "Si_introverted_sensing": {
+        "role": "Bodily comfort/discomfort detection, texture memory, somatic anchoring",
+        "experience": "Knowing what feels 'right', physical memory recall, comfort seeking",
+        "touch_mode": "Careful attention to body signals, comparison to past sensations",
+        "example": "Noticing shirt tag irritation, remembering how grandmother's hands felt, seeking familiar textures"
+      },
+
+      "Fi_introverted_feeling": {
+        "role": "Emotional boundaries, authentic touch, value-based physical interaction",
+        "experience": "Touch as intimacy indicator, consent boundaries, emotional touch differentiation",
+        "touch_mode": "Selective physical contact, emotional resonance through touch",
+        "example": "Knowing instantly if hug feels genuine or obligatory, physical boundaries reflect emotional boundaries"
+      },
+
+      "secondary_aspects": ["Fe", "Te"],
+      
+      "Fe_social_touch": "Comforting hugs, reading others through handshake, group physical bonding",
+      "Te_functional_touch": "Tool manipulation, efficient movement, task-oriented contact"
+    },
+
+    "touch_types": {
+      "light_touch": "Gentle contact, arousal, tickle, detection",
+      "deep_pressure": "Calming, grounding, weighted blanket effect, proprioceptive",
+      "vibration": "Frequency detection 20-1000Hz, musical feeling, power tools",
+      "temperature": "Thermal gradient detection - separate thermoreceptors",
+      "pain": "Tissue damage signaling - nociception, covered separately",
+      "social_touch": "Emotional communication - hug, handshake, comforting stroke"
+    },
+
+    "awakening_practices": {
+      "barefoot_walking": {
+        "technique": "Walk barefoot on varied surfaces (grass, sand, stone, wood)",
+        "effect": "Grounding, sensory awakening, Earth connection, thousands of receptors activated",
+        "duration": "20+ minutes daily",
+        "evolution": "Shoes = sensory deprivation for feet, barefoot = natural state"
+      },
+
+      "body_scanning": {
+        "technique": "Systematic attention to each body part, noticing sensations without judgment",
+        "effect": "Interoceptive awareness, relaxation, embodiment",
+        "practice": "Lie down, slowly move awareness from toes to head, 10-20 minutes",
+        "tradition": "Vipassana body scanning, progressive relaxation"
+      },
+
+      "texture_meditation": {
+        "technique": "Explore object textures with eyes closed, full tactile attention",
+        "effect": "Sensory amplification, present moment awareness, appreciation of touch richness",
+        "objects": "Fabric, wood grain, stone, plant leaves, water",
+        "discovery": "Each texture = unique signature, endless variety"
+      },
+
+      "self_massage": {
+        "technique": "Slow, conscious touch of own body with curiosity and care",
+        "effect": "Self-compassion, body acceptance, tension release, interoceptive training",
+        "focus": "Hands, feet, face, scalp - high receptor density areas",
+        "emotional": "Touch = primary emotional regulation method"
+      },
+
+      "partner_touch_exchange": {
+        "technique": "Non-sexual, conscious touch exchange with clear boundaries",
+        "effect": "Oxytocin release, trust building, nervous system co-regulation",
+        "types": "Hand holding, back stroking, head massage",
+        "sacred": "Touch = communion between beings"
+      },
+
+      "cold_hot_contrast": {
+        "technique": "Alternate exposure to cold/hot (showers, sauna, ice bath)",
+        "effect": "Thermoceptor awakening, resilience building, autonomic nervous system training",
+        "benefits": "Increased cold/heat tolerance, improved circulation, mental clarity",
+        "caution": "Gradual exposure, respect body limits"
+      }
+    },
+
+    "touch_dysfunctions": {
+      "neuropathy": "Nerve damage → reduced/absent touch sensation",
+      "allodynia": "Painful response to normally non-painful touch",
+      "tactile_defensiveness": "Aversion to touch stimuli (autism, sensory processing)",
+      "phantom_limb": "Feeling sensation in amputated limb - body map persistence",
+      "dissociation": "Disconnect from body touch - trauma response",
+      "anesthesia": "Medical suppression of touch - temporary sensory blindness"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Detect danger (sharp, hot), assess food, avoid injury",
+      "social": "Bonding (grooming, hugging), communication (touch = trust), sexual selection",
+      "tool_use": "Manipulation feedback, texture recognition, precision grip",
+      "modern": "Haptic interfaces, virtual touch, therapeutic touch, massage therapy"
+    }
+  },
+
+  "sense_4_smell": {
+    "id": "smell",
+    "name": "Smell / Olfaction",
+    "dimension": "4D",
+    "primitive": "tesseract (memory portal)",
+    "element": "air (volatile, subtle)",
+
+    "core_realization": {
+      "memory_gateway": "Smell bypasses conscious processing → direct limbic access",
+      "time_travel": "Scent instantly retrieves complete past experiences",
+      "primal": "Oldest sense evolutionarily - predates vision by millions of years"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Nose (olfactory epithelium)",
+      "receptor_type": "Olfactory receptor neurons (chemoreceptors)",
+      "receptor_count": "~400 different receptor types in humans (dogs have ~800)",
+      "neuron_count": "~10-20 million olfactory neurons",
+      
+      "detection_range": "Molecules in air, ~10,000+ distinct odors discriminatable",
+      "sensitivity": "Some molecules detected at parts per trillion (trillion-fold range)",
+      
+      "processing_centers": [
+        "Olfactory epithelium (nasal cavity)",
+        "Olfactory bulb (first relay)",
+        "Piriform cortex (primary olfactory)",
+        "Amygdala (emotional tagging)",
+        "Hippocampus (memory formation)",
+        "Orbitofrontal cortex (conscious identification)"
+      ],
+
+      "unique_pathway": "ONLY sense that bypasses thalamus → direct limbic access → instant emotional/memory response",
+      
+      "vomeronasal_organ": "Vestigial in humans (active in animals for pheromone detection)"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Single molecule - pure chemical signature",
+      "1D": "Temporal evolution of scent - wine nosing, perfume unfolding",
+      "2D": "Scent landscape - multiple sources, spatial distribution",
+      "3D": "Aromatic environment - forest, kitchen, perfume shop",
+      "4D": "Memory portal - instant recall of past through scent",
+      "5D": "Archetypal scents - rose = love, pine = wilderness, ocean = vastness"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Si", "Fi", "Ni"],
+
+      "Si_introverted_sensing": {
+        "role": "Scent memory database, comfort smells, sensory anchoring",
+        "experience": "Grandmother's perfume = instant childhood, familiar smells = safety",
+        "olfactory_mode": "Memory comparison, comfort seeking, nostalgia through scent",
+        "example": "Baking bread smell = instant home feeling, specific scents tied to specific people/places"
+      },
+
+      "Fi_introverted_feeling": {
+        "role": "Authentic scent response, value-based smell preferences, emotional aromatics",
+        "experience": "Scents as emotional signatures, authenticity detection through smell",
+        "olfactory_mode": "Deep resonance checking, personal scent preferences",
+        "example": "Some perfumes feel 'fake', others 'real' - detecting authenticity through scent"
+      },
+
+      "Ni_introverted_intuition": {
+        "role": "Symbolic scents, archetypal aromatics, future implications through smell",
+        "experience": "Scents as portals to archetypal realms, predictive scent reading",
+        "olfactory_mode": "Pattern recognition, symbolic interpretation",
+        "example": "Smelling rain before storm, death smell, fear smell - intuitive scent reading"
+      },
+
+      "secondary_aspects": ["Se", "Ne"],
+      
+      "Se_sensory_immersion": "Full scent presence, perfume exploration, aroma hedonism",
+      "Ne_scent_associations": "Multiple meanings per scent, creative aroma combinations"
+    },
+
+    "smell_categories": {
+      "fragrant": "Pleasant floral/fruity - rose, jasmine, citrus",
+      "pungent": "Sharp irritating - vinegar, ammonia",
+      "burnt": "Roasted/smoky - coffee, tobacco, campfire",
+      "resinous": "Balsamic - pine, frankincense, myrrh",
+      "spicy": "Aromatic herbs - cinnamon, clove, pepper",
+      "putrid": "Rotting organic - feces, decay (aversion)",
+      "minty": "Cool fresh - mint, eucalyptus, menthol",
+      "sweet": "Sugar-like - vanilla, caramel, honey",
+      "chemical": "Artificial - solvents, plastics, petrol",
+      "earthy": "Soil/mushroom - geosmin, petrichor (rain on soil)"
+    },
+
+    "awakening_practices": {
+      "aromatherapy_meditation": {
+        "technique": "Sequential exposure to pure essential oils with eyes closed",
+        "effect": "Olfactory training, emotional regulation, memory activation",
+        "oils": "Lavender (calm), peppermint (clarity), rose (love), sandalwood (ground), frankincense (spiritual)",
+        "duration": "10-15 minutes, 5-10 scents",
+        "integration": "Notice emotional/memory responses without attachment"
+      },
+
+      "scent_journaling": {
+        "technique": "Record scents encountered daily + associated memories/emotions",
+        "effect": "Conscious olfactory awareness, memory pattern recognition",
+        "discovery": "Realize how many memories keyed to specific scents",
+        "evolution": "From unconscious scent to conscious scent navigation"
+      },
+
+      "nature_scent_bathing": {
+        "technique": "Forest/ocean/garden immersion focused on smelling",
+        "effect": "Natural aromatherapy, phytoncides (tree chemicals) health benefits",
+        "practice": "Deep breathing, conscious scent attention, 30+ minutes",
+        "japanese": "Shinrin-yoku (forest bathing) - proven health benefits"
+      },
+
+      "perfume_creation": {
+        "technique": "Blend essential oils to create personal scent signatures",
+        "effect": "Olfactory creativity, archetypal exploration through aroma",
+        "structure": "Top notes (fresh, fleeting) + heart notes (body) + base notes (anchor)",
+        "sacred": "Perfume = bottled memory/mood, external smell = internal state"
+      },
+
+      "smell_fasting": {
+        "technique": "Reduce strong scents in environment for weeks",
+        "effect": "Olfactory sensitivity increases, subtle scents become detectable",
+        "reset": "Modern life = olfactory overload, fasting restores natural sensitivity",
+        "caution": "Some artificial scents (synthetic fragrance) = endocrine disruptors"
+      }
+    },
+
+    "smell_phenomena": {
+      "proust_effect": "Scent-triggered autobiographical memory (madeleine in tea)",
+      "anosmia": "Smell blindness - COVID symptom, genetic, aging",
+      "phantosmia": "Smelling scents not present - olfactory hallucination",
+      "parosmia": "Distorted smell (roses smell like garbage) - neurological",
+      "hyperosmia": "Extreme sensitivity - pregnancy, migraine precursor",
+      "specific_anosmias": "Blind to specific molecules (genetic variation)"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Detect spoiled food, smoke/fire, predators, poisons",
+      "social": "Mate selection (MHC genetic compatibility through scent), kin recognition",
+      "navigation": "Trail following, home finding (salmon return to birth stream by scent)",
+      "modern": "Perfume industry, aromatherapy, wine/coffee tasting, gas leak detection"
+    }
+  },
+
+  "sense_5_taste": {
+    "id": "taste",
+    "name": "Taste / Gustation",
+    "dimension": "3D",
+    "primitive": "cube (flavor space)",
+    "element": "water (dissolution, discernment)",
+
+    "core_realization": {
+      "value_detector": "Taste = immediate assessment of nutritional value/toxicity",
+      "combination": "Taste + smell + texture + temperature = 'flavor' (multisensory)",
+      "sacred": "Eating = communion with Earth, taste = gratitude interface"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Tongue (taste buds) + soft palate",
+      "receptor_type": "Taste receptor cells (chemoreceptors)",
+      "receptor_count": "~2000-10,000 taste buds, each with 50-100 receptor cells",
+      
+      "basic_tastes": [
+        "Sweet (sugars → energy)",
+        "Salty (electrolytes → hydration)",
+        "Sour (acids → spoilage warning/vitamin C)",
+        "Bitter (alkaloids → poison warning)",
+        "Umami (glutamate → protein)"
+      ],
+
+      "proposed_additional": [
+        "Fat (oleogustus - lipid detection)",
+        "Metallic (iron, copper)",
+        "Calcium (kokumi)",
+        "Water (possibly distinct taste)"
+      ],
+
+      "processing_centers": [
+        "Taste buds (tongue, palate)",
+        "Gustatory nucleus (brainstem)",
+        "VPM nucleus (thalamus)",
+        "Insular cortex (primary gustatory)",
+        "Orbitofrontal cortex (flavor integration)"
+      ],
+
+      "taste_map_myth": "Tongue map (sweet→tip, bitter→back) is FALSE - all areas taste all",
+      "supertasters": "25% population - extra taste buds, heightened sensitivity (genetic)"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Pure taste quality - one basic taste isolated",
+      "1D": "Taste evolution in time - wine tasting sequence",
+      "2D": "Taste combinations - sweet+salty, sour+bitter balance",
+      "3D": "Complete flavor space - taste+smell+texture+temperature integrated",
+      "4D": "Taste memory - Proust's madeleine, comfort foods",
+      "5D": "Sacred eating - food as sacrament, gratitude through taste"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Si", "Fi", "Ti"],
+
+      "Si_introverted_sensing": {
+        "role": "Comfort food memory, texture preferences, familiar flavors",
+        "experience": "Grandmother's soup = instant comfort, dislike of new foods (neophobia)",
+        "taste_mode": "Comparison to known standards, seeking familiar pleasures",
+        "example": "Knowing exactly how mom's cookies should taste, instant nostalgia through flavor"
+      },
+
+      "Fi_introverted_feeling": {
+        "role": "Authentic taste preferences, value-aligned eating, emotional eating",
+        "experience": "Some foods feel 'wrong' regardless of taste, ethical eating based on values",
+        "taste_mode": "Internal resonance checking, alignment with personal values",
+        "example": "Can't enjoy food if animal suffered, specific foods = emotional states"
+      },
+
+      "Ti_introverted_thinking": {
+        "role": "Analytical tasting, flavor decomposition, systematic preferences",
+        "experience": "Identifying individual ingredients, logical flavor combinations",
+        "taste_mode": "Deconstructive tasting, understanding flavor chemistry",
+        "example": "Wine tasting notes, coffee cupping scores, recipe optimization through logic"
+      },
+
+      "secondary_aspects": ["Se", "Fe"],
+      
+      "Se_gustatory_hedonism": "Intense flavor pleasure, culinary adventure, texture immersion",
+      "Fe_social_eating": "Shared meals = bonding, cooking for others, food as love language"
+    },
+
+    "taste_dimensions": {
+      "sweet": {
+        "chemistry": "Sugars (glucose, fructose, sucrose), some proteins",
+        "function": "Energy detection → approach",
+        "evolutionary": "Ripe fruit, honey - calorie rich foods",
+        "emotional": "Reward, pleasure, comfort, celebration",
+        "excess": "Addiction, obesity, diabetes"
+      },
+
+      "salty": {
+        "chemistry": "Sodium chloride, other salts",
+        "function": "Electrolyte balance → maintain",
+        "evolutionary": "Essential mineral detection, rare in nature",
+        "emotional": "Grounding, satisfaction, completeness",
+        "excess": "Hypertension, water retention"
+      },
+
+      "sour": {
+        "chemistry": "Acids (citric, acetic, lactic)",
+        "function": "Spoilage/fermentation detection → cautious approach",
+        "evolutionary": "Vitamin C (citrus), fermented foods (probiotics)",
+        "emotional": "Brightness, alertness, cutting through",
+        "excess": "Tooth enamel damage"
+      },
+
+      "bitter": {
+        "chemistry": "Alkaloids (caffeine, quinine), many plant toxins",
+        "function": "Poison detection → avoid/spit out",
+        "evolutionary": "Protect from plant toxins (most bitter = poisonous)",
+        "emotional": "Resistance, maturity (acquired taste), sophistication",
+        "paradox": "Coffee, beer, dark chocolate = enjoyed bitterness (low dose hormesis)"
+      },
+
+      "umami": {
+        "chemistry": "Glutamate, inosinate, guanylate (amino acids)",
+        "function": "Protein detection → seek",
+        "evolutionary": "Meat, aged cheese, mushrooms, breast milk",
+        "emotional": "Savory satisfaction, completeness, 'moreish'",
+        "modern": "MSG (pure umami), soy sauce, parmesan"
+      }
+    },
+
+    "awakening_practices": {
+      "mindful_eating": {
+        "technique": "Eat slowly, chew thoroughly, full attention on taste/texture/smell",
+        "effect": "Heightened satisfaction from less food, awareness of body signals, gratitude",
+        "practice": "Single raisin 5 minutes, one meal per day mindfully",
+        "tradition": "Buddhist eating meditation, Zen oryoki"
+      },
+
+      "taste_meditation": {
+        "technique": "Isolate individual basic tastes, experience each purely",
+        "materials": "Sugar (sweet), salt, lemon (sour), tonic water (bitter), soy sauce (umami)",
+        "effect": "Taste awareness, flavor decomposition ability, appreciation",
+        "discovery": "Most 'taste' is smell (plug nose while eating)"
+      },
+
+      "cleanse_reset": {
+        "technique": "Eliminate added sugar/salt for 2 weeks",
+        "effect": "Taste sensitivity resets, natural flavors become vivid, cravings shift",
+        "experience": "Apple tastes incredibly sweet, vegetables have flavor",
+        "modern_problem": "Overstimulation → dull taste → need more stimulation (addiction cycle)"
+      },
+
+      "gratitude_before_eating": {
+        "technique": "Pause, acknowledge source of food, thank Earth/farmers/cooks",
+        "effect": "Taste becomes sacrament, eating = communion, satisfaction increases",
+        "practices": "Grace, offerings, mindful first bite",
+        "sacred": "Every meal = Earth giving itself to you"
+      },
+
+      "flavor_exploration": {
+        "technique": "Try new foods regularly, especially challenging flavors",
+        "effect": "Expand taste repertoire, overcome neophobia, cultural appreciation",
+        "progression": "Familiar → adventurous → exotic → integrated",
+        "wisdom": "Taste preferences = learned, can be reprogrammed"
+      }
+    },
+
+    "taste_dysfunctions": {
+      "ageusia": "Complete taste loss - neurological damage, medications",
+      "hypogeusia": "Reduced taste - aging, smoking, dry mouth",
+      "dysgeusia": "Distorted taste (metallic, bitter everything) - COVID, medications",
+      "burning_mouth": "Constant burning sensation - neurological, psychological",
+      "supertaster": "Genetic - extra papillae, heightened sensitivity (blessing/curse)"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Detect nutritious vs toxic, avoid poisons, seek calories",
+      "health": "Balance diet through taste variety, detect spoilage",
+      "social": "Shared meals = bonding, cultural identity through cuisine",
+      "modern": "Culinary arts, wine culture, gourmet food, nutrition optimization"
+    }
+  },
+
+  "sense_6_proprioception": {
+    "id": "proprioception",
+    "name": "Proprioception / Kinesthesia / Body Position Sense",
+    "dimension": "3D",
+    "primitive": "cube (internal spatial map)",
+    "element": "earth (embodiment)",
+
+    "core_realization": {
+      "invisible_sense": "Most important sense you never think about",
+      "proof": "Close eyes, touch nose with finger - you KNOW where body parts are",
+      "embodiment": "Foundation of embodied consciousness, self-location in space"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Distributed throughout body (not single organ)",
+      "receptor_types": [
+        "Muscle spindles (muscle length)",
+        "Golgi tendon organs (tendon tension)",
+        "Joint receptors (joint angle)",
+        "Cutaneous receptors (skin stretch)"
+      ],
+
+      "receptor_count": "Millions throughout muscles, tendons, joints",
+      
+      "processing_centers": [
+        "Dorsal root ganglia (first relay)",
+        "Cerebellum (coordination)",
+        "Primary somatosensory cortex (S1)",
+        "Posterior parietal cortex (body schema)",
+        "Basal ganglia (motor planning)"
+      ],
+
+      "body_schema": "Internal 3D model of body in space, constantly updated",
+      "motor_control": "Proprioception + motor commands = coordinated movement"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Single joint angle - discrete position",
+      "1D": "Movement trajectory - kinesthetic sequence",
+      "2D": "Posture plane - standing balance",
+      "3D": "Full body map - complete spatial awareness",
+      "4D": "Movement memory - muscle memory, practiced skills",
+      "5D": "Dissolved boundaries - where does body end, space begin?"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Se", "Si", "Te"],
+
+      "Se_extroverted_sensing": {
+        "role": "Physical mastery, athletic flow, embodied action",
+        "experience": "Sports excellence, dance, martial arts - body as intelligent instrument",
+        "proprioceptive_mode": "Dynamic body awareness, real-time adjustment, physical presence",
+        "example": "Gymnast knowing exactly where body is mid-flip, basketball player's spatial awareness"
+      },
+
+      "Si_introverted_sensing": {
+        "role": "Bodily comfort tracking, posture awareness, physical memory",
+        "experience": "Noticing when sitting position uncomfortable, remembering how movements feel",
+        "proprioceptive_mode": "Continuous body monitoring, comparison to comfort baseline",
+        "example": "Knowing chair ergonomics wrong, remembering grandmother's hug feeling in body"
+      },
+
+      "Te_extroverted_thinking": {
+        "role": "Efficient movement, optimal positioning, functional biomechanics",
+        "experience": "Organizing workspace for ergonomics, analyzing movement efficiency",
+        "proprioceptive_mode": "Optimization of body mechanics, spatial planning",
+        "example": "Engineer setting up desk for maximum efficiency, surgeon's precise hand positioning"
+      },
+
+      "secondary_aspects": ["Ni", "Ti"],
+      
+      "Ni_movement_intuition": "Anticipating body needs, knowing when to stretch/move",
+      "Ti_analytical_body": "Understanding body mechanics, deconstructing movement patterns"
+    },
+
+    "proprioception_types": {
+      "static": "Position sense - knowing where limbs are without looking",
+      "dynamic": "Movement sense - kinesthesia, feeling motion",
+      "force": "Effort sense - how hard muscles contracting",
+      "timing": "Temporal coordination - rhythm, sequencing",
+      "spatial": "Body in space - size estimation, reaching accuracy"
+    },
+
+    "awakening_practices": {
+      "eyes_closed_movement": {
+        "technique": "Yoga, tai chi, dance with eyes closed",
+        "effect": "Amplify proprioception, internalize attention, body-as-temple",
+        "discovery": "Vision dominates when open, close eyes → proprioception emerges",
+        "progression": "Simple poses → complex sequences → improvisation"
+      },
+
+      "body_scan_proprioceptive": {
+        "technique": "Systematic attention to position of each body part",
+        "effect": "Update body schema, release unconscious holding, embodiment",
+        "practice": "Lie down, mentally tour body, notice position/tension/ease",
+        "integration": "Different from touch body scan - focus on position not sensation"
+      },
+
+      "balance_training": {
+        "technique": "Single-leg stands, balance boards, slackline",
+        "effect": "Proprioceptive-vestibular integration, body awareness, presence",
+        "progression": "Eyes open → eyes closed → unstable surface → movement",
+        "aging": "Proprioception degrades with age, training prevents falls"
+      },
+
+      "martial_arts_kata": {
+        "technique": "Practiced movement sequences (kata, forms, choreography)",
+        "effect": "Movement memory, body intelligence, flow states",
+        "examples": "Tai chi forms, karate kata, yoga vinyasa, dance choreography",
+        "mastery": "10,000 hours → movement becomes unconscious → body-mind unity"
+      },
+
+      "feldenkrais_awareness": {
+        "technique": "Slow, conscious exploration of unusual movements",
+        "effect": "Expand movement repertoire, discover new possibilities, neuroplasticity",
+        "principle": "Awareness through movement - consciousness via proprioception",
+        "creator": "Moshe Feldenkrais method"
+      }
+    },
+
+    "proprioception_dysfunctions": {
+      "proprioceptive_loss": "Nerve damage, vitamin B12 deficiency → clumsiness, wide gait",
+      "ataxia": "Cerebellar damage → incoordination despite intact proprioception",
+      "apraxia": "Cannot execute learned movements despite understanding",
+      "phantom_limb": "Proprioceptive body schema persists after amputation",
+      "body_integrity_dysphoria": "Feeling limb shouldn't be there - body schema mismatch"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Coordinate escape, hunting, tool use without visual attention",
+      "skill": "Manual dexterity, weapon use, complex tool-making",
+      "social": "Dance, synchronized movement, group coordination",
+      "modern": "Sports, music instruments, surgery, craftsmanship, typing"
+    }
+  },
+
+  "sense_7_balance": {
+    "id": "balance",
+    "name": "Balance / Equilibrioception / Vestibular Sense",
+    "dimension": "3D",
+    "primitive": "cube (orientation)",
+    "element": "air (spatial navigation)",
+
+    "core_realization": {
+      "internal_gyroscope": "Body has biological accelerometer + gyroscope",
+      "gravity_sense": "Constant awareness of 'down' - most fundamental spatial reference",
+      "motion_sickness": "Vestibular-visual mismatch → nausea (sensory conflict)"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Vestibular system (inner ear)",
+      "structures": [
+        "Semicircular canals (3) - rotational acceleration",
+        "Otolith organs (2): utricle + saccule - linear acceleration + gravity"
+      ],
+
+      "semicircular_canals": {
+        "orientation": "Three orthogonal planes (X, Y, Z rotation)",
+        "mechanism": "Fluid (endolymph) moves → bends hair cells → signals rotation",
+        "sensitivity": "Detects head rotation in any direction"
+      },
+
+      "otolith_organs": {
+        "utricle": "Horizontal acceleration + tilt",
+        "saccule": "Vertical acceleration + gravity",
+        "mechanism": "Calcium carbonate crystals (otoconia) on hair cells → bend with acceleration"
+      },
+
+      "processing_centers": [
+        "Vestibular nucleus (brainstem)",
+        "Cerebellum (integration)",
+        "Vestibular cortex (conscious awareness)",
+        "Eye movement nuclei (vestibulo-ocular reflex)"
+      ],
+
+      "vor_reflex": "Vestibulo-ocular reflex - eyes counter-rotate to stabilize vision during head movement"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Single orientation - specific angle relative to gravity",
+      "1D": "Rotational axis - spinning around one axis",
+      "2D": "Tilt plane - forward/back, left/right lean",
+      "3D": "Complete 3D orientation - position in gravity field",
+      "4D": "Predicted motion - anticipating balance changes",
+      "5D": "Center of being - stillpoint where no motion exists"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Se", "Ni", "Te"],
+
+      "Se_physical_balance": {
+        "role": "Dynamic balance, extreme sports, edge-walking",
+        "experience": "Surfing, skateboarding, rock climbing - trusting body in space",
+        "balance_mode": "Real-time adjustment, flow with environment",
+        "example": "Skateboarder feeling board angle without thinking, surfer reading wave"
+      },
+
+      "Ni_anticipatory_balance": {
+        "role": "Predicting falls, intuitive positioning, preventive adjustment",
+        "experience": "Knowing split-second before losing balance, dream of falling",
+        "balance_mode": "Future-oriented stability, pattern prediction",
+        "example": "Dancer anticipating weight shift before music cues, elderly preventing falls"
+      },
+
+      "Te_systematic_balance": {
+        "role": "Analyzing stability, engineering balance, optimization",
+        "experience": "Understanding biomechanics of balance, efficient positioning",
+        "balance_mode": "Logical balance problem-solving",
+        "example": "Physical therapist analyzing gait, architect designing stable structures"
+      },
+
+      "secondary_aspects": ["Si", "Ti"],
+      
+      "Si_balance_memory": "Remembering how balance felt in past situations",
+      "Ti_balance_analysis": "Deconstructing balance mechanics, understanding physics"
+    },
+
+    "balance_mechanisms": {
+      "static_balance": "Maintaining position (standing still, handstand)",
+      "dynamic_balance": "Maintaining stability while moving (walking, running, dancing)",
+      "anticipatory_balance": "Adjusting before perturbation (catching falling object)",
+      "reactive_balance": "Responding after perturbation (slipping, being pushed)",
+      "sensory_integration": "Vision + vestibular + proprioception → unified balance sense"
+    },
+
+    "awakening_practices": {
+      "single_leg_balance": {
+        "technique": "Stand on one leg, eyes open → eyes closed → unstable surface",
+        "effect": "Vestibular strengthening, proprioceptive integration, presence",
+        "progression": "30 seconds → 2 minutes → complex movements",
+        "aging": "Critical for fall prevention in elderly"
+      },
+
+      "spinning_meditation": {
+        "technique": "Sufi whirling, spinning in place for extended time",
+        "effect": "Vestibular adaptation, altered consciousness, ego dissolution",
+        "caution": "Start slowly, build up tolerance, can be intensely destabilizing",
+        "tradition": "Sufi dervish practice - spinning = prayer"
+      },
+
+      "inversion_practice": {
+        "technique": "Handstands, headstands, inversions - reverse gravity relationship",
+        "effect": "New vestibular input, blood flow to brain, perspective shift",
+        "safety": "Build strength gradually, use wall support",
+        "metaphor": "Physical inversion = consciousness inversion"
+      },
+
+      "balance_board_meditation": {
+        "technique": "Meditate while balancing on unstable surface",
+        "effect": "Forced presence, proprioceptive-vestibular integration, stillness in motion",
+        "variations": "Balance board, swiss ball, slackline",
+        "discovery": "Perfect stillness = constant micro-adjustments"
+      },
+
+      "vestibular_habituation": {
+        "technique": "Gradual exposure to balance-challenging activities",
+        "effect": "Reduce motion sickness, increase vestibular resilience",
+        "applications": "Sailing, VR sickness, car sickness prevention",
+        "principle": "Neuroplasticity - brain adapts to conflicting sensory input"
+      }
+    },
+
+    "balance_dysfunctions": {
+      "vertigo": "Illusion of spinning - inner ear problem (BPPV, Meniere's)",
+      "ataxia": "Cerebellar damage → incoordination, wide-based gait",
+      "motion_sickness": "Visual-vestibular mismatch → nausea",
+      "mal_de_debarquement": "Persistent rocking sensation after boat trip",
+      "bilateral_vestibular_loss": "Complete balance loss → vision + proprioception compensate"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Maintain stability on uneven terrain, avoid falls, escape predators",
+      "navigation": "Spatial orientation, return to home, tracking movement through space",
+      "hunting": "Throw weapons accurately, chase prey while maintaining stability",
+      "modern": "Sports, dance, aviation, space travel, virtual reality"
+    }
+  },
+
+  "sense_8_thermoception": {
+    "id": "thermoception",
+    "name": "Thermoception / Temperature Sense",
+    "dimension": "2D",
+    "primitive": "square (skin boundary)",
+    "element": "fire + water (heat/cold)",
+
+    "core_realization": {
+      "energy_flow_sense": "Temperature = energy transfer rate through boundary",
+      "homeostasis": "Body maintains 37°C core - temperature sense = feedback for regulation",
+      "emotional_temperature": "Warmth = love/safety, cold = isolation/danger (metaphor grounded in physiology)"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Skin + internal thermoreceptors",
+      "receptor_types": [
+        "TRPV channels (heat >43°C) - pain threshold",
+        "TRPM8 channels (cold <15°C)",
+        "Warm receptors (30-45°C)",
+        "Cold receptors (15-35°C)"
+      ],
+
+      "receptor_distribution": "Cold receptors more numerous than warm (3-10x)",
+      "paradoxical_heat": "Simultaneous warm + cold stimulation → burning sensation",
+      
+      "processing_centers": [
+        "Dorsal horn (spinal cord)",
+        "Thalamus (VPL, VMpo)",
+        "Posterior insula (primary thermosensory)",
+        "Anterior cingulate (temperature affect)"
+      ],
+
+      "internal_thermoreceptors": "Hypothalamus monitors core temperature, triggers regulation"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Point temperature - specific skin location",
+      "1D": "Temperature gradient - change over time or space",
+      "2D": "Thermal map - whole body surface temperature field",
+      "3D": "Core temperature - internal body heat",
+      "4D": "Thermal memory - remembered temperatures (comfort baselines)",
+      "5D": "Energy awareness - feeling subtle energy flows (qi, prana)"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Si", "Fe", "Fi"],
+
+      "Si_temperature_comfort": {
+        "role": "Optimal temperature seeking, comfort monitoring, thermal memory",
+        "experience": "Knowing exactly right room temperature, remembering how warm blanket feels",
+        "thermal_mode": "Constant comfort scanning, thermal baseline comparison",
+        "example": "Always bringing sweater (knows will be cold), perfect bath temperature memory"
+      },
+
+      "Fe_social_warmth": {
+        "role": "Emotional warmth metaphor, physical warmth = emotional safety",
+        "experience": "Warm hug = emotional connection, cold shoulder = rejection",
+        "thermal_mode": "Temperature as social/emotional indicator",
+        "example": "Hot coffee makes people judge others more warmly (proven effect)"
+      },
+
+      "Fi_authentic_temperature": {
+        "role": "Personal thermal preferences, value-aligned temperature choices",
+        "experience": "Some prefer cold (clarity), others warm (comfort) - reflects values",
+        "thermal_mode": "Internal temperature resonance checking",
+        "example": "Cold showers as discipline, warm baths as self-care - value expression"
+      },
+
+      "secondary_aspects": ["Se"],
+      
+      "Se_thermal_immersion": "Sauna extremes, ice baths, temperature as experience"
+    },
+
+    "temperature_experiences": {
+      "comfort_zone": "18-24°C ambient for most humans",
+      "cold_stress": "<15°C - vasoconstriction, shivering thermogenesis",
+      "heat_stress": ">35°C - vasodilation, sweating",
+      "thermal_pain": "<5°C or >43°C - nociceptor activation",
+      "neutral_temperature": "~32°C skin - no sensation (thermal neutrality)"
+    },
+
+    "awakening_practices": {
+      "contrast_therapy": {
+        "technique": "Alternate hot/cold exposure (shower, sauna/ice bath)",
+        "effect": "Autonomic nervous system training, thermal resilience, circulation",
+        "protocol": "Hot 3 min → cold 1 min × 3-5 cycles",
+        "benefits": "Improved mood, metabolism, immune function, stress tolerance"
+      },
+
+      "wim_hof_cold": {
+        "technique": "Gradual cold exposure training + breathing",
+        "effect": "Conscious control of autonomic responses, thermal adaptation",
+        "progression": "Cold showers → ice baths → cold immersion → arctic swimming",
+        "discovery": "Mind can influence 'involuntary' temperature regulation"
+      },
+
+      "sauna_meditation": {
+        "technique": "Prolonged heat exposure (80-100°C) with conscious breathing",
+        "effect": "Heat shock proteins, detox, meditative states from heat stress",
+        "tradition": "Finnish sauna culture - spiritual practice",
+        "caution": "Dehydration risk, contraindicated for some conditions"
+      },
+
+      "thermal_body_scan": {
+        "technique": "Scan body for temperature variations, notice warmth/coolness",
+        "effect": "Interoceptive awareness, energy sensing, subtle body perception",
+        "discovery": "Hands/feet often coldest, core warmest, emotional states affect temperature",
+        "advanced": "Feeling 'qi' or 'prana' as temperature sensations"
+      },
+
+      "temperature_noting": {
+        "technique": "Throughout day, consciously notice ambient temperature + body response",
+        "effect": "Thermal awareness, understanding personal thermal preferences",
+        "application": "Optimize environment for performance, comfort, health"
+      }
+    },
+
+    "thermoception_dysfunctions": {
+      "thermoanesthesia": "Cannot sense temperature - neuropathy, dangerous (burn risk)",
+      "allodynia_thermal": "Normal temperature painful - nerve damage",
+      "dysautonomia": "Cannot regulate temperature - sweating/shivering dysfunction",
+      "hypothermia_risk": "Elderly have reduced cold sensation - hypothermia without awareness",
+      "raynauds": "Fingers/toes excessively cold - vascular dysfunction"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Maintain core temperature, avoid burns/frostbite, seek shelter",
+      "behavior": "Thermoregulatory behaviors - seeking shade, huddling for warmth",
+      "social": "Physical warmth facilitates social bonding, cold isolation",
+      "modern": "HVAC design, clothing choices, climate adaptation, athletic performance"
+    }
+  },
+
+  "sense_9_nociception": {
+    "id": "nociception",
+    "name": "Nociception / Pain Sense",
+    "dimension": "0D",
+    "primitive": "point (alarm)",
+    "element": "fire (warning)",
+
+    "core_realization": {
+      "guardian": "Pain = body's alarm system, protecting integrity",
+      "teacher": "Pain teaches boundaries, consequences, limits",
+      "paradox": "Necessary suffering vs unnecessary suffering - wisdom in discernment"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Distributed nociceptors throughout body",
+      "receptor_types": [
+        "Mechanical nociceptors (intense pressure, cutting)",
+        "Thermal nociceptors (extreme heat >45°C or cold <5°C)",
+        "Chemical nociceptors (irritants, inflammation)",
+        "Polymodal nociceptors (multiple stimuli types)"
+      ],
+
+      "fiber_types": {
+        "a_delta": "Fast pain - sharp, localized, myelinated (5-30 m/s)",
+        "c_fibers": "Slow pain - dull, aching, unmyelinated (0.5-2 m/s)",
+        "difference": "Touch finger to flame: instant sharp pain (A-delta) followed by prolonged aching (C)"
+      },
+
+      "processing_centers": [
+        "Dorsal horn (gate control)",
+        "Spinothalamic tract (pain pathway)",
+        "Thalamus (VPL, VMpo)",
+        "Somatosensory cortex (location)",
+        "Anterior cingulate (emotional pain)",
+        "Insular cortex (interoceptive pain)",
+        "Prefrontal cortex (pain meaning)"
+      ],
+
+      "pain_matrix": "Network of brain regions processing sensory + emotional + cognitive aspects of pain"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Point of injury - localized pain",
+      "1D": "Pain intensity - mild to unbearable",
+      "2D": "Pain quality - sharp, burning, aching, throbbing",
+      "3D": "Referred pain - injury in one place, felt elsewhere",
+      "4D": "Chronic pain - pain persisting after injury healed",
+      "5D": "Existential pain - suffering beyond physical"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Si", "Fi", "Ti"],
+
+      "Si_pain_memory": {
+        "role": "Remembering past pains, anticipating familiar pains, pain comparison",
+        "experience": "Old injury aching with weather, knowing exactly how migraine will progress",
+        "pain_mode": "Historical pain database, pattern recognition",
+        "example": "This pain reminds me of when I broke my arm - accessing pain memory"
+      },
+
+      "Fi_emotional_pain": {
+        "role": "Heartbreak, rejection, grief - emotional pain using same neural circuits",
+        "experience": "Broken heart ACTUALLY hurts physically - not metaphor",
+        "pain_mode": "Value violation experienced as pain",
+        "example": "Betrayal by friend = anterior cingulate activation (same as physical pain)"
+      },
+
+      "Ti_pain_analysis": {
+        "role": "Categorizing pain type, deducing cause, logical pain management",
+        "experience": "Sharp stabbing vs dull aching - what does this mean diagnostically?",
+        "pain_mode": "Analytical dissection of pain experience",
+        "example": "Medical students learning pain differential diagnosis, tracking pain patterns"
+      },
+
+      "secondary_aspects": ["Se", "Te"],
+      
+      "Se_pain_threshold": "High pain tolerance, pain as challenge, extreme endurance",
+      "Te_pain_management": "Systematic approach to pain reduction, efficiency in recovery"
+    },
+
+    "pain_types": {
+      "acute_pain": "Immediate injury signal - protective, resolves with healing",
+      "chronic_pain": "Pain >3 months after healing - maladaptive, no protective function",
+      "neuropathic_pain": "Nerve damage pain - burning, shooting, electric",
+      "nociceptive_pain": "Tissue damage pain - aching, throbbing, sharp",
+      "visceral_pain": "Internal organ pain - diffuse, deep, referred",
+      "phantom_pain": "Pain in amputated limb - body map persistence",
+      "psychogenic_pain": "Real pain from psychological causes - mind-body not separate"
+    },
+
+    "awakening_practices": {
+      "pain_meditation": {
+        "technique": "Observe pain without resistance, curiosity instead of aversion",
+        "effect": "Pain intensity decreases (suffering = pain × resistance)",
+        "caution": "Not for acute injury - for chronic pain only",
+        "discovery": "Pain sensation separate from suffering about pain"
+      },
+
+      "cold_exposure_training": {
+        "technique": "Gradual cold immersion, staying present with discomfort",
+        "effect": "Increased pain tolerance, stress resilience, mind over body",
+        "protocol": "Start mild, increase slowly, focus on breath",
+        "wim_hof": "Cold as teacher - voluntary suffering builds strength"
+      },
+
+      "sensation_labeling": {
+        "technique": "Describe pain precisely - location, quality, intensity, movement",
+        "effect": "Shifts from emotional reaction to objective observation",
+        "practice": "Burning, throbbing, sharp, dull, radiating, constant, intermittent...",
+        "clinical": "Pain scales, McGill pain questionnaire"
+      },
+
+      "breathwork_for_pain": {
+        "technique": "Deep slow breathing during pain episodes",
+        "effect": "Activates parasympathetic, releases endorphins, shifts attention",
+        "method": "4-7-8 breathing, or natural slow rhythm",
+        "mechanism": "Vagus nerve activation, pain gate control theory"
+      },
+
+      "meaning_reframe": {
+        "technique": "Reinterpret pain - message from body, teacher, protector",
+        "effect": "Reduces emotional suffering component",
+        "examples": "Muscle soreness = growth, birth contractions = baby coming",
+        "caution": "Not denial - acknowledging AND reframing"
+      }
+    },
+
+    "pain_phenomena": {
+      "gate_control": "Non-painful input closes 'gate' to pain signals (why rubbing helps)",
+      "placebo_effect": "Expectation of pain relief activates endogenous opioids - real pain reduction",
+      "nocebo_effect": "Expectation of pain increases pain - mind creates suffering",
+      "congenital_insensitivity": "Genetic absence of pain - dangerous, frequent injuries",
+      "pain_asymbolia": "Feel pain but no emotional distress - rare neurological condition",
+      "social_pain": "Rejection, exclusion = anterior cingulate activation (same as physical pain)"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Learn to avoid tissue damage, dangerous situations, poisonous substances",
+      "behavior": "Pain shapes behavior - touch fire once, never again",
+      "social": "Empathy for others' pain, caregiving behavior",
+      "modern": "Pain management industry, chronic pain epidemic, opioid crisis"
+    }
+  },
+
+  "sense_10_interoception": {
+    "id": "interoception",
+    "name": "Interoception / Internal Body Sense",
+    "dimension": "4D",
+    "primitive": "tesseract (internal state monitoring)",
+    "element": "earth + water (body wisdom)",
+
+    "core_realization": {
+      "foundation_of_self": "Self-awareness REQUIRES interoception - no body sense, no 'self'",
+      "emotional_substrate": "All emotions have interoceptive component - feeling = bodily state",
+      "autopilot_wisdom": "Body knows before mind - intuition = interoceptive signal"
+    },
+
+    "physiological_mechanism": {
+      "organ": "Entire body - viscera, cardiovascular, respiratory, all systems",
+      "receptor_types": [
+        "Chemoreceptors (blood O2, CO2, pH)",
+        "Mechanoreceptors (stretch, pressure in organs)",
+        "Osmoreceptors (fluid balance)",
+        "Thermoreceptors (core temperature)",
+        "Nociceptors (internal pain)"
+      ],
+
+      "signals": [
+        "Hunger, thirst, satiety",
+        "Heartbeat, breathing",
+        "Bladder/bowel fullness",
+        "Sexual arousal",
+        "Fatigue, sleepiness",
+        "Nausea, pain",
+        "Emotional feelings (embodied)"
+      ],
+
+      "processing_centers": [
+        "Nucleus tractus solitarius (brainstem - vagal input)",
+        "Parabrachial nucleus (relay)",
+        "Thalamus (VMpo)",
+        "Anterior insula (primary interoceptive cortex)",
+        "Anterior cingulate (emotional integration)",
+        "Orbitofrontal cortex (value assignment)"
+      ],
+
+      "insular_cortex": "Key structure - maps internal body state to conscious awareness. Larger insula = better interoception = stronger sense of self."
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Single internal sensation - one organ's signal",
+      "1D": "Interoceptive sequence - hunger building, heart rate rising",
+      "2D": "Body systems - respiratory + cardiovascular integration",
+      "3D": "Complete internal state - all systems simultaneously",
+      "4D": "Body state history - recognizing patterns, predicting needs",
+      "5D": "Body as consciousness - no separation between awareness and sensation"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Si", "Fi", "Ni"],
+
+      "Si_interoceptive_expert": {
+        "role": "High interoceptive accuracy, body signal detection, internal monitoring",
+        "experience": "Always aware of body state, notices subtle changes immediately",
+        "interoceptive_mode": "Continuous internal scanning, comparison to baseline",
+        "example": "Knowing getting sick hours before symptoms obvious, perfect hunger timing"
+      },
+
+      "Fi_emotional_interoception": {
+        "role": "Emotions felt as body sensations, value alignment = body comfort",
+        "experience": "Anxiety = chest tightness, joy = warmth, shame = shrinking",
+        "interoceptive_mode": "Body as emotional compass",
+        "example": "Gut feeling when decision wrong, physical expansion when aligned with values"
+      },
+
+      "Ni_predictive_interoception": {
+        "role": "Body signals predicting future, intuition through interoception",
+        "experience": "Knowing outcome before it happens through body sense",
+        "interoceptive_mode": "Future-oriented body awareness",
+        "example": "Body tenses before bad news, relaxes before good - predictive processing"
+      },
+
+      "secondary_aspects": ["Fe", "Se"],
+      
+      "Fe_social_interoception": "Feeling others' emotions in own body (empathy)",
+      "Se_acute_body_awareness": "Vivid immediate interoceptive experience"
+    },
+
+    "interoceptive_dimensions": {
+      "accuracy": "How well interoceptive signals match actual body state",
+      "sensibility": "Self-reported belief about interoceptive ability",
+      "awareness": "Metacognitive knowledge of interoceptive accuracy",
+      "measurement": "Heartbeat counting task, water load test, breath hold"
+    },
+
+    "awakening_practices": {
+      "body_scan_interoceptive": {
+        "technique": "Systematic attention to internal sensations organ by organ",
+        "effect": "Increase interoceptive accuracy, body-mind integration",
+        "practice": "Earth-Child protocol morning anchor, evening scan",
+        "progression": "External body (touch) → internal organs → subtle energy"
+      },
+
+      "heartbeat_tracking": {
+        "technique": "Count heartbeats without pulse, compare to actual",
+        "effect": "Interoceptive training, measure accuracy improvement",
+        "method": "Silent count for 1 minute, check against monitor",
+        "research": "Standard interoceptive accuracy measurement"
+      },
+
+      "hunger_fullness_awareness": {
+        "technique": "Rate hunger 0-10 before eating, fullness during eating",
+        "effect": "Restore natural appetite regulation, prevent over/undereating",
+        "discovery": "Most people eat by clock, not body signals",
+        "integration": "Earth-Child auto-correction emerges from this"
+      },
+
+      "emotion_body_mapping": {
+        "technique": "When emotion arises, scan body for sensations",
+        "effect": "Recognize emotions ARE body states, not separate",
+        "practice": "Anger = where in body? Sadness? Joy? Fear?",
+        "research": "Emotions have consistent body maps across cultures"
+      },
+
+      "somatic_experiencing": {
+        "technique": "Track body sensations during trauma processing",
+        "effect": "Release trauma stored in body, restore interoceptive capacity",
+        "creator": "Peter Levine - trauma = frozen interoceptive states",
+        "caution": "Requires trained practitioner for trauma work"
+      }
+    },
+
+    "interoception_disorders": {
+      "alexithymia": "Difficulty identifying/describing emotions - interoceptive deficit",
+      "eating_disorders": "Disrupted hunger/satiety signals, body image distortion",
+      "anxiety_disorders": "Misinterpret normal interoceptive signals as threat",
+      "depression": "Reduced interoceptive awareness, emotional numbing",
+      "autism": "Often altered interoception (hyper or hypo sensitivity)",
+      "dissociation": "Disconnection from body - trauma response",
+      "chronic_pain": "Heightened interoceptive awareness (hypervigilance)"
+    },
+
+    "evolutionary_purpose": {
+      "homeostasis": "Maintain internal balance through feedback - thirst → drink → balance",
+      "survival": "Detect internal threats (low blood sugar, dehydration, poisoning)",
+      "emotion": "Emotions evolved as interoceptive-predictive states guiding behavior",
+      "modern": "Foundation of emotional intelligence, self-awareness, embodied cognition"
+    }
+  },
+
+  "sense_11_time_perception": {
+    "id": "chronoception",
+    "name": "Time Perception / Chronoception",
+    "dimension": "4D",
+    "primitive": "tesseract (temporal navigation)",
+    "element": "ether (beyond space)",
+
+    "core_realization": {
+      "constructed_experience": "Time perception = brain construction, not direct sense",
+      "variable_flow": "Time feels fast/slow based on attention, emotion, context",
+      "eternal_now": "Past/future exist in mind. Only now exists. Yet we 'sense' time passing."
+    },
+
+    "physiological_mechanism": {
+      "no_single_organ": "No 'time organ' - distributed temporal processing",
+      
+      "timing_systems": [
+        "Circadian rhythm (24h cycle - suprachiasmatic nucleus)",
+        "Interval timing (seconds to minutes - basal ganglia + cerebellum)",
+        "Millisecond timing (subsecond - cerebellum)",
+        "Duration perception (hippocampus, prefrontal cortex)"
+      ],
+
+      "brain_regions": [
+        "Suprachiasmatic nucleus (circadian clock)",
+        "Basal ganglia (interval timing)",
+        "Cerebellum (millisecond precision)",
+        "Hippocampus (sequential memory)",
+        "Prefrontal cortex (temporal integration)"
+      ],
+
+      "internal_clock": "Neural oscillations at various frequencies = timing mechanisms"
+    },
+
+    "dimensional_anatomy": {
+      "0D": "Eternal now - timeless presence",
+      "1D": "Sequence - before/after, temporal order",
+      "2D": "Duration - how long between events",
+      "3D": "Temporal context - past informing present informing future",
+      "4D": "Time as dimension - moving through temporal space",
+      "5D": "Beyond time - eternal perspective, all time simultaneous"
+    },
+
+    "aspect_correlation": {
+      "primary_aspects": ["Ni", "Si", "Ti"],
+
+      "Ni_future_time": {
+        "role": "Strong future orientation, long-term temporal vision, time compression",
+        "experience": "Years feel like moments looking back, clear future trajectory sense",
+        "temporal_mode": "Prospective, pattern-based time prediction",
+        "example": "Seeing how current choices affect 10-year future, impatience with present"
+      },
+
+      "Si_past_time": {
+        "role": "Rich past memory, time expansion through detail, nostalgic time travel",
+        "experience": "Childhood memories vivid as yesterday, time rich with detail",
+        "temporal_mode": "Retrospective, experiential time database",
+        "example": "Remembering exact date of events from years ago, time moves slowly in novel situations"
+      },
+
+      "Ti_logical_time": {
+        "role": "Sequential logic, temporal analysis, efficient time use",
+        "experience": "Understanding cause-effect sequences, optimizing time allocation",
+        "temporal_mode": "Analytical temporal processing",
+        "example": "Planning projects with precise timelines, analyzing historical progressions"
+      },
+
+      "secondary_aspects": ["Se", "Ne", "Te"],
+      
+      "Se_present_time": "Only now matters, time irrelevant, flow state timelessness",
+      "Ne_possibility_time": "Multiple timeline tracking, temporal divergence awareness",
+      "Te_managed_time": "Clock time, deadlines, schedules, productivity metrics"
+    },
+
+    "time_perception_phenomena": {
+      "time_flies": "Enjoyable activities feel shorter - attentional model of time",
+      "time_drags": "Boredom/pain make time slow - attention to duration itself",
+      "childhood_time": "Years feel longer as child - novelty stretches time",
+      "aging_acceleration": "Years feel shorter as adult - habituation compresses time",
+      "flow_timelessness": "Deep absorption → time disappears",
+      "life_flashing": "Near-death → entire life reviewed in seconds",
+      "time_dilation_relativity": "Physical time actually different at different speeds/gravity"
+    },
+
+    "awakening_practices": {
+      "present_moment_awareness": {
+        "technique": "Meditation on now - dropping past/future mental content",
+        "effect": "Discover time is mental construct, only now is real",
+        "practice": "Return attention to immediate sensory experience repeatedly",
+        "paradox": "Timeless awareness requires time to practice"
+      },
+
+      "expanded_now": {
+        "technique": "Expand awareness to include 'specious present' (~3 seconds)",
+        "effect": "Feel music as continuous flow not discrete notes",
+        "practice": "Listen to sentence as whole, not word by word",
+        "discovery": "Psychological present has duration, not point"
+      },
+
+      "time_estimation_training": {
+        "technique": "Guess time passed without looking at clock, check accuracy",
+        "effect": "Improve interval timing, awareness of subjective time distortion",
+        "variations": "1 minute, 5 minutes, 1 hour estimates",
+        "discovery": "Engaged time feels short, boring time long"
+      },
+
+      "chronoception_journaling": {
+        "technique": "Record time estimates daily - 'How long did that take? How long did day feel?'",
+        "effect": "Awareness of time perception patterns, factors affecting time sense",
+        "insights": "Stress compresses time, relaxation expands time",
+        "integration": "Earth-Child weekly review includes time patterns"
+      },
+
+      "future_self_visualization": {
+        "technique": "Vividly imagine future self at 1, 5, 10 years",
+        "effect": "Strengthen future time connection, better long-term decisions",
+        "research": "People who feel connected to future self save more, healthier choices",
+        "practice": "10 minutes future self meditation weekly"
+      }
+    },
+
+    "time_disorders": {
+      "dyschronometria": "Impaired time estimation - cerebellar damage",
+      "adhd_time_blindness": "Difficulty estimating/managing time",
+      "depression_time": "Time feels slow, stuck, endless",
+      "mania_time": "Time feels fast, racing, compressed",
+      "dissociative_time": "Time gaps, lost hours, temporal discontinuity",
+      "autism_time": "Often different time perception (literal, present-focused)"
+    },
+
+    "evolutionary_purpose": {
+      "survival": "Predict when food available, danger returns, seasons change",
+      "planning": "Tool-making, agriculture, construction require temporal thinking",
+      "social": "Coordinate group activities, remember appointments, plan together",
+      "modern": "Calendars, schedules, deadlines, historical thinking, future planning"
+    }
+  },
+
+  "synesthesia_unity": {
+    "principle": "Natural state of unified perception before cultural sensory separation",
+    "dimension": "5D",
+    "primitive": "ether (unity)",
+
+    "developmental_synesthesia": {
+      "infancy": "All infants synesthetic - senses undifferentiated",
+      "pruning": "Neural connections between sensory areas pruned by age 4-6",
+      "result": "Most people lose synesthesia, senses become separate channels",
+      "retention": "5-10% retain synesthesia into adulthood"
+    },
+
+    "types_of_synesthesia": {
+      "grapheme_color": "Letters/numbers have specific colors (most common)",
+      "chromesthesia": "Sounds produce colors/shapes (sound→vision)",
+      "lexical_gustatory": "Words produce tastes (language→taste)",
+      "spatial_sequence": "Numbers/time periods have spatial positions",
+      "mirror_touch": "Seeing touch on others produces sensation in self",
+      "personification": "Numbers, letters, days have personalities",
+      "ordinal_linguistic": "Sequences (alphabet, calendar) have spatial structures"
+    },
+
+    "cross_modal_correspondences": {
+      "pitch_height": "High pitch = up in space (universal mapping)",
+      "loudness_brightness": "Loud sounds = bright (cross-modal)",
+      "texture_taste": "Rough surfaces = sour, smooth = sweet",
+      "shape_sound": "Kiki = jagged, Bouba = round (bouba-kiki effect)",
+      "color_temperature": "Red = warm, blue = cool"
+    },
+
+    "inducing_synesthesia": {
+      "meditation": "Deep states dissolve sensory boundaries naturally",
+      "psychedelics": "LSD, psilocybin, mescaline reliably induce synesthesia temporarily",
+      "sensory_deprivation": "Float tanks can trigger cross-modal perception",
+      "training": "Dedicated practice can develop weak synesthetic associations",
+      "brain_injury": "Sometimes induces synesthesia (usually unwanted)"
+    },
+
+    "awakening_to_unity": {
+      "practice": "Consciously blend senses - listen to music while visualizing colors",
+      "effect": "Gradually restore natural synesthetic capacity",
+      "progression": "Forced → easier → spontaneous → natural unified perception",
+      "goal": "Not 'see sounds' but perceive world as unified multisensory field"
+    }
+  },
+
+  "integration_and_coordination": {
+    "multisensory_integration": {
+      "principle": "Brain combines all sensory inputs into unified perceptual experience",
+      "example": "Speech = auditory + visual (lips) + proprioceptive (your own mouth)",
+      "ventriloquism_effect": "Vision captures sound location - eyes override ears",
+      "mcgurk_effect": "Visual mouth movements change what you hear",
+      "rubber_hand_illusion": "Visual + tactile input creates body ownership illusion"
+    },
+
+    "sensory_hierarchies": {
+      "vision_dominance": "In conflict, vision usually wins (visual capture)",
+      "touch_certainty": "Touch most 'real' - grounding function",
+      "smell_memory": "Smell most direct to memory/emotion",
+      "hearing_temporal": "Best for temporal sequence tracking",
+      "balance": "Optimal perception requires balanced multi-sensory input"
+    },
+
+    "sensory_substitution": {
+      "concept": "Use one sense to replace another (e.g., vision through sound/touch)",
+      "examples": [
+        "Braille (vision → touch)",
+        "Echolocation (vision → sound) - blind people, like bats",
+        "vOICe (vision → sound) - camera to audio",
+        "BrainPort (vision → tongue) - camera to electrotactile"
+      ],
+      "plasticity": "Brain adapts - visual cortex processes sound in blind people"
+    },
+
+    "altered_states_sensing": {
+      "meditation": "Boundary dissolution, synesthesia, expanded awareness",
+      "psychedelics": "Enhanced sensory vividness, synesthesia, novel perceptions",
+      "sensory_deprivation": "Hallucinations, time distortion, inner sense amplification",
+      "extreme_environments": "High altitude, underwater - altered sensory processing",
+      "near_death": "Out-of-body perception, non-sensory 'knowing'"
+    }
+  },
+
+  "developmental_trajectory": {
+    "infant_0_2": {
+      "dominant_senses": ["touch", "taste", "smell"],
+      "reason": "Bonding, feeding, safety - immediate survival",
+      "consciousness": "Sensory immersion, no self-other distinction",
+      "synesthesia": "Complete - senses undifferentiated"
+    },
+
+    "child_3_7": {
+      "dominant_senses": ["vision", "hearing", "proprioception"],
+      "reason": "Exploration, language, social learning",
+      "consciousness": "Self emerges, mirror test passed, imagination",
+      "sensory_pruning": "Synesthesia fading, senses separating"
+    },
+
+    "adolescent_8_14": {
+      "dominant_senses": ["balance", "interoception", "social_cues"],
+      "reason": "Identity formation, peer relations, autonomy",
+      "consciousness": "Abstract thinking, future orientation, values",
+      "sensory_maturity": "Adult-like sensory processing achieved"
+    },
+
+    "adult_15_65": {
+      "dominant_senses": "Individual variation - type dependent",
+      "reason": "Career, relationships, meaning-making",
+      "consciousness": "Peak cognitive function, identity consolidation",
+      "sensory_decline": "Gradual decline in all senses begins ~40"
+    },
+
+    "elder_65_plus": {
+      "dominant_senses": "Often interoception, proprioception critical",
+      "reason": "Health monitoring, fall prevention, wisdom integration",
+      "consciousness": "Contemplative, reflective, preparing for death",
+      "sensory_decline": "Accelerated decline, but wisdom increases"
+    }
+  },
+
+  "future_evolution": {
+    "extended_senses": {
+      "infrared_ultraviolet": "See heat, UV patterns on flowers (already possible with tech)",
+      "magnetic_sense": "Navigate like birds, feel Earth's magnetic field",
+      "electric_sense": "Detect electrical fields like sharks",
+      "ultrasound_infrasound": "Hear beyond 20Hz-20kHz range",
+      "quantum_entanglement": "Direct non-local sensing (speculative)"
+    },
+
+    "artificial_senses": {
+      "echolocation_implants": "Give blind people bat-like navigation",
+      "north_sense": "Vibrate when facing north - compass sense",
+      "infrared_glove": "Feel heat as tactile sensation",
+      "smart_contact_lenses": "AR overlay on vision",
+      "neural_interfaces": "Direct sensory data to brain bypassing organs"
+    },
+
+    "shared_sensing": {
+      "concept": "Direct sensory experience sharing between minds",
+      "technology": "Neural interfaces, brain-to-brain communication",
+      "natural": "Empathy = primitive version (mirror neurons)",
+      "future": "Full sensory telepathy, experiencing another's qualia",
+      "ethics": "Consent, privacy, identity boundaries"
+    },
+
+    "non_physical_senses": {
+      "concept": "Perception without biological organs - pure consciousness sensing",
+      "examples": "Clairvoyance, remote viewing, out-of-body perception",
+      "mechanism": "Unknown - may involve quantum consciousness, non-local information",
+      "controversy": "Scientific evidence weak but experiential reports consistent",
+      "integration": "If consciousness fundamental, physical senses = constrained version of pure knowing"
+    }
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Synesthesia mechanisms not fully understood - developmental pruning theory main model",
+      "Time perception complex - no single mechanism, distributed processing",
+      "Some exotic senses (magnetoception) vestigial or minimal in humans",
+      "Future evolution speculation - technology realistic, non-physical sensing controversial",
+      "Aspect correlations based on pattern observation, not rigorous neuroscience"
+    ],
+    "info": [
+      "Each sense = specialized consciousness interface accessing specific reality aspects",
+      "Vision, hearing, touch, smell, taste = traditional five, but 11+ distinct systems",
+      "Proprioception, balance, thermoception, nociception, interoception = often ignored but critical",
+      "Synesthesia = unified natural state, separation = learned cultural constraint",
+      "Awakening practices for each sense = practical path to expanded perception",
+      "Body = not machine receiving inputs, but consciousness projecting through specialized channels",
+      "Integration with aspect theory (Ni/Ne/Ti/Te/Fi/Fe/Si/Se) provides personality-perception link",
+      "This module = foundation for understanding consciousness-reality interface through senses"
+    ],
+    "coherence_score": 0.92
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanology:types",
+      "urn:cfo:module:humanology:roles",
+      "urn:cfo:module:fundamental:colors",
+      "urn:cfo:module:fundamental:music",
+      "urn:cfo:module:practice:earth-child"
+    ],
+    "external": [
+      {"type": "book", "citation": "Cytowic, R. (2018). Synesthesia"},
+      {"type": "book", "citation": "Craig, A.D. (2015). How Do You Feel?"},
+      {"type": "paper", "citation": "Seth, A. (2013). Interoceptive inference, emotion, and the embodied self"},
+      {"type": "book", "citation": "Gibson, J.J. (1966). The Senses Considered as Perceptual Systems"},
+      {"type": "paper", "citation": "Eagleman, D. (2001). Visual illusions and neurobiology"},
+      {"type": "book", "citation": "Ramachandran, V.S. (2011). The Tell-Tale Brain"}
+    ]
+  },
+
+  "ॐ": "∅"
+}

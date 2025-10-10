@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Complete color theory and practice: physics (electromagnetic spectrum, wavelengths, visible light 380-750nm), perception (eye anatomy, cones/rods, trichromatic theory, opponent process), color theory (primary/secondary/tertiary, complementary, analogous, triadic), color systems (RGB, CMYK, HSL, LAB), psychology (emotion, symbolism, cultural meanings), chromotherapy, design principles, dimensional architecture 0D-6D. Color as visible frequency, visual analog of sound."
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "3.0.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Color = visible frequency of light, visual analog of sound. Sound = mechanical wave (20-20000 Hz), Color = electromagnetic wave (400-800 THz). Both = frequencies causing consciousness to collapse into specific states. 0D = single wavelength (pure spectral color, laser). 1D = gradient (rainbow, spectrum from red to violet). 2D = color space (hue-saturation plane). 3D = color solid (HSL/HSV cylinder, RGB cube). 4D = color over time (changing palettes, seasons, aging). 5D = symbolic meaning (red=danger, green=go, cultural associations). 6D = consciousness choosing color intentionally (artist, designer, meditator visualizing). Composer works with sound frequencies. Painter works with light frequencies. Both = architects of consciousness states through organized vibration.",
+    "activation": "Next time you see color, recognize: not 'property of object' but frequency of light your eye receives. Apple not 'red' - apple absorbs all frequencies except 620-750nm which reflects to your eye. Color happens IN you, not out there. Your brain constructs color experience from three types of cones (L/M/S). Tetrachromats (4 cone types) see colors you can't imagine. Color = quale - pure subjective experience. And yet, universal - red excites, blue calms, green balances. Color = language beyond words."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:humanitarian:colors",
+    "version": "3.0.0",
+    "domain": "humanitarian",
+    "name": "colors",
+    "title": "Colors: Visual Frequencies and Consciousness Architecture",
+    "description": "Complete theoretical and practical foundation of color. Physics: electromagnetic spectrum, visible light (380-750nm), wavelengths, frequencies. Perception: eye anatomy (cones/rods), trichromatic theory, opponent process theory, color blindness. Color theory: primary (additive RGB, subtractive RYB/CMYK), secondary, tertiary, complementary, analogous, triadic, tetradic, color harmony. Color systems: RGB, CMYK, HSL, HSV, LAB, Munsell. Psychology: emotion, symbolism, cultural meanings. Chromotherapy: healing with color frequencies. Design: palettes, contrast, accessibility. Dimensional architecture 0D-6D.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["color", "light", "frequency", "vision", "perception", "art", "design", "psychology", "therapy", "consciousness"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Color = point in multidimensional space. 0D = single wavelength (spectral color). 1D = spectrum (red→violet gradient). 2D = color wheel (hue-saturation). 3D = color solid (HSL cylinder, RGB cube, Munsell color tree). Adding brightness/value = third dimension. Color mixing = vector addition (RGB) or subtraction (CMYK). Color harmony = geometric relationships (complementary = 180°, analogous = adjacent, triadic = 120° apart).",
+    
+    "topological": "Color space = 3D manifold. Hue = circular (color wheel loops red→violet→red). Saturation = radial (center gray, edge pure). Lightness = vertical (bottom black, top white). Topology non-Euclidean - not all colors equally 'distant'. Perceptually uniform color spaces (LAB, LUV) attempt to make distance = perceptual difference.",
+    
+    "functional": "Color enables consciousness to: (1) Identify objects (tomato=red), (2) Detect patterns (camouflage breaks with wrong colors), (3) Signal emotion/state (blushing=embarrassment, pale=fear), (4) Communicate symbolically (red=stop, green=go), (5) Evoke emotion/memory (childhood bedroom color), (6) Create beauty/meaning (art, design). Color = information channel exceeding language.",
+    
+    "consciousness": "Color = frequency of light causing specific consciousness state. Like sound (440Hz = A note), color (530nm = green) = precise frequency. But color = more complex - three receptor types (LMS cones) → infinite combinations. Color experience = quale (pure subjective). You cannot describe 'red' to blind person. And yet universal - red excites (raises heart rate, blood pressure), blue calms. Color = consciousness exploring frequency space."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:colors:trichromatic-vision",
+      "concept": "Human color vision based on three cone types (LMS) detecting different wavelength ranges",
+      "dimension": "2D (three axes define color space)",
+      "primitive": "triangle (three primaries)",
+      "element": "air (light)",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["detect", "combine", "perceive"],
+      "evidence": "Three cone types: L (long, 'red', peak ~565nm), M (medium, 'green', peak ~535nm), S (short, 'blue', peak ~440nm). Any visible color = combination of LMS activation. Explains why RGB (additive) and CMY (subtractive) primaries work - they align with cone sensitivities. Color blindness = missing/defective cone type (deuteranopia = no M, protanopia = no L, tritanopia = no S rare). Tetrachromats (mostly women) have 4th cone type → see colors trichromats can't. Confirms color = constructed by brain from receptor inputs, not 'out there' property.",
+      "confidence": 0.98,
+      "relations": {
+        "explains": "rgb-primary-colors",
+        "enables": "color-vision"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:colors:opponent-process",
+      "concept": "Color perception organized as opposing pairs: red-green, blue-yellow, black-white",
+      "dimension": "1D (three axes of opposition)",
+      "primitive": "line (bidirectional axis)",
+      "element": "water (polarity)",
+      "planes": ["X", "Y", "Z"],
+      "ops": ["oppose", "balance", "neutral"],
+      "evidence": "Ewald Hering (1892): color vision = three opponent channels. Red-green (can't perceive reddish-green), blue-yellow (can't perceive bluish-yellow), black-white (brightness). Explains afterimages (stare at red, see cyan after). Explains why complementary colors feel 'complete' (balance opponent channels). Neurally: cone outputs combined in retinal ganglion cells to create opponent signals. Explains color harmony - complementary pairs satisfy both poles.",
+      "confidence": 0.95,
+      "relations": {
+        "explains": "complementary-colors",
+        "conflicts-with": "trichromatic (but both true - different stages)"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:colors:color-emotion-universal",
+      "concept": "Certain color-emotion associations universal across cultures (red=arousal, blue=calm, green=balance)",
+      "dimension": "5D (archetypal meaning)",
+      "primitive": "ether (universal symbol)",
+      "element": "ether (meaning)",
+      "planes": ["WV"],
+      "ops": ["evoke", "symbolize", "resonate"],
+      "evidence": "Cross-cultural studies show: Red → arousal, danger, passion (universal - blood, fire). Blue → calm, trust, sadness (universal - sky, water). Green → nature, growth, balance (universal - plants, spring). Yellow → attention, happiness, caution (universal - sun). Beyond culture, physiology: red light → increased heart rate, blood pressure. Blue light → melatonin suppression. Green → most relaxing for eyes (peak cone sensitivity = least strain). Some associations cultural (white=purity West, death East), but core effects universal.",
+      "confidence": 0.89,
+      "relations": {
+        "enables": "color-psychology",
+        "universality": "high-but-not-total"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:colors:subtractive-mixing",
+      "concept": "Pigments mix subtractively (CMY primaries) vs lights mix additively (RGB primaries)",
+      "dimension": "2D (color space)",
+      "primitive": "circle (color wheel, two types)",
+      "element": "fire (light) vs earth (matter)",
+      "planes": ["XY"],
+      "ops": ["add", "subtract", "reflect"],
+      "evidence": "Additive (RGB): lights combine wavelengths. Red+Green=Yellow, Red+Blue=Magenta, Green+Blue=Cyan. All three=White. Screens, LEDs. Subtractive (CMY/RYB): pigments absorb wavelengths, reflect rest. Cyan+Magenta=Blue, Cyan+Yellow=Green, Magenta+Yellow=Red. All three=Black (absorb everything). Paints, inks, dyes. Artists use RYB (traditional), printers use CMYK (cyan-magenta-yellow-black). Different primaries because different physics (emission vs reflection).",
+      "confidence": 0.97,
+      "relations": {
+        "distinguishes": "light-vs-pigment",
+        "practical": "art-vs-digital"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:colors:chromotherapy-frequency",
+      "concept": "Color therapy = exposing body to specific light frequencies for healing effects",
+      "dimension": "1D (frequency as treatment)",
+      "primitive": "wave (light as frequency)",
+      "element": "ether (healing)",
+      "planes": ["X"],
+      "ops": ["expose", "resonate", "balance"],
+      "evidence": "Chromotherapy ancient (Egypt, Greece, China, India). Modern: red light therapy (633-660nm) proven for wound healing, collagen production, pain relief. Blue light therapy (450-495nm) treats jaundice (newborns), SAD (seasonal affective disorder), skin conditions. Green (520-560nm) calms nervous system. Mechanism: light absorbed by mitochondria → ATP production, gene expression changes. Also: psychological (color associations). Mixed evidence - some effects real (red/blue), others placebo. But underlying principle sound: light = electromagnetic frequency = affects biology.",
+      "confidence": 0.78,
+      "relations": {
+        "mechanism": "photobiomodulation",
+        "evidence": "mixed-some-proven-some-anecdotal"
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Color repeats at scales: Photon (single wavelength) → Pixel (RGB triplet) → Image (millions of pixels) → Gallery (collection of images) → Art history (traditions of color use). Same patterns - contrast, harmony, balance - from pixel to movement.",
+    
+    "recursion": "(↓ white light → prism → spectrum → mixing → white light ↑)∞ AND (↓ primary → secondary → tertiary → infinite gradations ↑)∞",
+    
+    "emergence": "Photons → Wavelengths → Receptor activations → Color perception → Emotional response → Symbolic meaning → Cultural significance. Each level emergent. Cannot predict 'red=danger' from photon physics alone. Qualitative leaps.",
+    
+    "composition": "Photons ⊂ Light ⊂ Spectrum ⊂ Color ⊂ Palette ⊂ Design ⊂ Art ⊂ Culture. All nested. All necessary."
+  },
+
+  "dimensional_architecture": {
+    "principle": "Color organized across 7 dimensions 0D-6D. Each dimension = distinct aspect of color experience.",
+
+    "0D_pure_wavelength": {
+      "description": "Point - single wavelength, spectral color, laser",
+      "examples": ["Laser light (632.8nm red HeNe laser)", "Spectral lines (sodium vapor lamp 589nm)", "Monochromatic LED"],
+      "purity": "Narrowest possible bandwidth. Most saturated color possible.",
+      "perception": "Extremely rare in nature. Most 'pure' colors = narrow-band but not single wavelength.",
+      "role": "Atomic unit of color. All colors built from wavelengths.",
+      "technical": "Spectroscopy, lasers, precision optics"
+    },
+
+    "1D_spectrum_gradient": {
+      "description": "Line - continuous range of wavelengths, rainbow",
+      
+      "visible_spectrum": {
+        "range": "380-750 nanometers (nm)",
+        "frequencies": "400-790 THz (terahertz, 10¹² Hz)",
+        "colors": "Violet (380-450nm) → Blue (450-495nm) → Green (495-570nm) → Yellow (570-590nm) → Orange (590-620nm) → Red (620-750nm)",
+        "note": "Boundaries fuzzy - perception gradual, not discrete"
+      },
+
+      "beyond_visible": {
+        "ultraviolet": "<380nm. Higher frequency than violet. Causes sunburn, seen by bees/birds.",
+        "infrared": ">750nm. Lower frequency than red. Felt as heat, seen by snakes (pit organs).",
+        "note": "Visible spectrum = tiny slice of EM spectrum (radio → microwave → IR → visible → UV → X-ray → gamma)"
+      },
+
+      "rainbow": {
+        "mechanism": "White light (all wavelengths) → prism/water droplet → refraction separates wavelengths → spectrum",
+        "sequence": "ROYGBIV (Red Orange Yellow Green Blue Indigo Violet)",
+        "note": "Indigo debatable - Newton wanted 7 colors (musical analogy). Modern = 6 main colors."
+      }
+    },
+
+    "2D_color_wheel": {
+      "description": "Plane - hue and saturation, color relationships",
+      
+      "hue": {
+        "definition": "Pure color, position on color wheel (0-360°)",
+        "examples": "Red (0°), Yellow (60°), Green (120°), Cyan (180°), Blue (240°), Magenta (300°)",
+        "circular": "Red → Orange → Yellow → Green → Cyan → Blue → Magenta → Red (loops)"
+      },
+
+      "saturation": {
+        "definition": "Intensity/purity of color. Distance from center of wheel.",
+        "extremes": "Center = gray (zero saturation, achromatic). Edge = pure spectral color (100% saturation).",
+        "examples": "Red → Pink (less saturated red)"
+      },
+
+      "color_relationships": {
+        "complementary": "Opposite on wheel (180°). Red-Cyan, Yellow-Blue, Green-Magenta. Maximum contrast, vibrate together.",
+        "analogous": "Adjacent on wheel (30-60°). Harmonious, related. Red-Orange-Yellow.",
+        "triadic": "Three colors equally spaced (120°). Vibrant but balanced. Red-Yellow-Blue.",
+        "tetradic": "Four colors in two complementary pairs. Rich, complex. Red-Yellow-Blue-Violet."
+      }
+    },
+
+    "3D_color_solid": {
+      "description": "Volume - hue, saturation, and value/lightness",
+      
+      "hsl_hsv": {
+        "hue": "0-360° (position on wheel)",
+        "saturation": "0-100% (gray to pure color)",
+        "lightness": "0-100% (black to white, HSL) OR Value: 0-100% (black to pure color, HSV)",
+        "shape": "Cylinder (HSL) or Cone (HSV)",
+        "use": "Digital color picking, CSS, graphics software"
+      },
+
+      "rgb_cube": {
+        "axes": "Red (0-255), Green (0-255), Blue (0-255)",
+        "origin": "(0,0,0) = Black",
+        "opposite": "(255,255,255) = White",
+        "diagonal": "Black → Gray → White (equal RGB)",
+        "use": "Displays, screens, digital images, additive mixing"
+      },
+
+      "munsell_tree": {
+        "dimensions": "Hue (40 divisions), Value (0-10, lightness), Chroma (saturation)",
+        "shape": "Irregular tree - not all hues same chroma at same value",
+        "perceptual": "Designed for perceptual uniformity - equal distances = equal perceived differences",
+        "use": "Art, industry, color standards"
+      },
+
+      "lab_space": {
+        "dimensions": "L (lightness 0-100), a (green to red), b (blue to yellow)",
+        "perceptual": "Device-independent, perceptually uniform",
+        "use": "Color science, professional imaging, gamut mapping"
+      }
+    },
+
+    "4D_color_over_time": {
+      "description": "Time - color changing, palettes evolving, color memory",
+      
+      "changing_color": {
+        "examples": ["Sunset (yellow → orange → red → purple)", "Leaves (green → yellow/orange/red)", "Bruise (red → purple → green → yellow)", "Color-changing LED"],
+        "perception": "Brain tracks color over time, anticipates changes, notices anomalies",
+        "emotion": "Color shifts = emotional journey (sunset = peace/melancholy, spring green = hope/renewal)"
+      },
+
+      "color_constancy": {
+        "phenomenon": "Perceiving object as same color despite changing lighting",
+        "example": "White paper under yellow incandescent, blue daylight, or pink sunset - brain 'knows' it's white",
+        "mechanism": "Brain subtracts illumination to recover object color. Impressive computation.",
+        "failure": "The Dress (2015) - optical illusion where people disagreed on colors (blue-black vs white-gold)"
+      },
+
+      "seasonal_palettes": {
+        "spring": "Pastels, light colors, fresh greens, yellows",
+        "summer": "Bright, saturated, warm colors, blues, vibrant",
+        "autumn": "Earth tones, oranges, browns, reds, golds",
+        "winter": "Cool colors, white, ice blue, deep greens, reds (holidays)"
+      }
+    },
+
+    "5D_symbolic_meaning": {
+      "description": "Ether - cultural associations, emotion, archetype, symbolism",
+      
+      "red": {
+        "universal": "Arousal, danger (blood), passion (heart rate increase), energy (fire)",
+        "western": "Love (Valentine's), danger (stop sign), anger, power, luck",
+        "china": "Prosperity, luck, celebration (weddings, New Year), happiness",
+        "india": "Purity (weddings), fertility, sensuality",
+        "physiology": "Increases heart rate, blood pressure, respiration, stimulates appetite"
+      },
+
+      "orange": {
+        "universal": "Warmth (fire), vitality (sunset), creativity",
+        "western": "Enthusiasm, playfulness, autumn, Halloween, caution (traffic cones)",
+        "hindu": "Saffron robes = renunciation, spirituality",
+        "netherlands": "National color (House of Orange)",
+        "physiology": "Stimulates appetite (used in restaurants), energizes"
+      },
+
+      "yellow": {
+        "universal": "Attention (brightest color), happiness (sun), optimism",
+        "western": "Joy, intellect, caution (yellow traffic light), cowardice",
+        "asia": "Sacred in Buddhism (monk robes), royalty (China)",
+        "physiology": "Strains eyes most (high luminance), can cause anxiety in excess"
+      },
+
+      "green": {
+        "universal": "Nature (plants), growth (spring), balance (center of spectrum)",
+        "western": "Go (traffic), ecology, money (US dollar), envy ('green with envy')",
+        "islam": "Sacred color (Prophet Muhammad's favorite)",
+        "ireland": "National identity (Emerald Isle)",
+        "physiology": "Most relaxing for eyes (peak cone sensitivity, least strain), lowers blood pressure"
+      },
+
+      "blue": {
+        "universal": "Calm (sky, water), trust, depth, sadness ('feeling blue')",
+        "western": "Professionalism (business suits), loyalty, masculinity (baby blue for boys)",
+        "global": "Most universally liked color",
+        "physiology": "Lowers blood pressure, heart rate, body temperature, suppresses appetite (rare in nature food)"
+      },
+
+      "purple_violet": {
+        "universal": "Royalty (expensive dye historically), spirituality, mystery",
+        "western": "Nobility, luxury, creativity, magic",
+        "christianity": "Lent (penance), Advent",
+        "asia": "Mourning (Thailand), wealth",
+        "physiology": "Stimulates imagination, creativity, can be calming or unsettling"
+      },
+
+      "white": {
+        "universal": "Purity (all colors combined → complete), light (full spectrum)",
+        "western": "Innocence, weddings, cleanliness, peace (white flag)",
+        "east_asia": "Mourning, death (Japan, China, Korea funerals)",
+        "global": "Simplicity, minimalism, modernity",
+        "physiology": "Maximum brightness, can be harsh if too bright"
+      },
+
+      "black": {
+        "universal": "Absence (no light), mystery, power",
+        "western": "Mourning, elegance (tuxedo), authority, evil",
+        "africa": "Maturity, masculinity",
+        "global": "Sophistication, formality",
+        "physiology": "Absence of stimulation, restful for eyes, absorbs heat"
+      }
+    },
+
+    "6D_conscious_color_choice": {
+      "description": "Beyond - intentional use of color by conscious agent (artist, designer, meditator)",
+      
+      "artist_painter": {
+        "choice": "Every color = intentional decision. Palette = expression of vision.",
+        "masters": "Van Gogh (yellows/blues emotional), Rothko (color fields meditative), Matisse (joy through color)",
+        "process": "Artist's consciousness → selects colors → viewer's consciousness affected",
+        "transcendence": "Great art transcends technique - color becomes vehicle for ineffable"
+      },
+
+      "designer": {
+        "purpose": "Colors chosen for specific effect (calm, excitement, trust, urgency)",
+        "branding": "Coca-Cola red = energy, Facebook blue = trust, Whole Foods green = nature",
+        "ux_ui": "Call-to-action buttons = high contrast, backgrounds = low saturation",
+        "accessibility": "Color blindness consideration, contrast ratios (WCAG standards)"
+      },
+
+      "meditator_visualizer": {
+        "practice": "Visualizing colors in meditation, chakra work, energy healing",
+        "technique": "Breathe in color, exhale gray. Bathe in color. Color scanning body.",
+        "chakra_colors": "Root-Red, Sacral-Orange, Solar-Yellow, Heart-Green, Throat-Blue, Third Eye-Indigo, Crown-Violet/White",
+        "effect": "Subjective reports of healing, balance, energy shifts. Mechanism = attention + intention + symbolism."
+      },
+
+      "consciousness_choosing": {
+        "freedom": "Humans can consciously select, combine, create colors intentionally",
+        "meaning_making": "We assign meaning to colors (personal associations + cultural)",
+        "color_as_language": "Using color to communicate (flags, signals, art, fashion)",
+        "ultimate": "6D = consciousness using color as tool to affect consciousness (self and others)"
+      }
+    }
+  },
+
+  "color_theory_fundamentals": {
+    "principle": "Rules and patterns for combining colors harmoniously. Partly objective (physics), partly subjective (perception/culture).",
+
+    "primary_colors": {
+      "additive_rgb": {
+        "primaries": "Red, Green, Blue",
+        "mixing": "R+G=Yellow, R+B=Magenta, G+B=Cyan, R+G+B=White",
+        "use": "Lights, screens, digital, human vision (LMS cones roughly align)",
+        "rationale": "Three independent axes (trichromatic vision)"
+      },
+
+      "subtractive_cmy": {
+        "primaries": "Cyan, Magenta, Yellow",
+        "mixing": "C+M=Blue, C+Y=Green, M+Y=Red, C+M+Y=Black (theoretically, brown practically → add K=black for printing)",
+        "use": "Pigments, inks, dyes, printing (CMYK = cyan-magenta-yellow-key/black)",
+        "rationale": "Complementary to RGB. Pigments absorb (subtract) light."
+      },
+
+      "traditional_ryb": {
+        "primaries": "Red, Yellow, Blue",
+        "mixing": "R+Y=Orange, Y+B=Green, R+B=Purple",
+        "use": "Traditional art education, painting",
+        "note": "Not physically accurate but pedagogically useful. RYB ≠ true subtractive primaries (CMY closer). But RYB intuitively works for artists."
+      }
+    },
+
+    "secondary_tertiary": {
+      "secondary": "Mixing two primaries. RGB: Yellow, Cyan, Magenta. RYB: Orange, Green, Purple.",
+      "tertiary": "Mixing primary + adjacent secondary. RYB: Red-Orange, Yellow-Orange, Yellow-Green, Blue-Green, Blue-Violet, Red-Violet. 12-part color wheel.",
+      "infinite": "Can subdivide infinitely. 24-part, 48-part wheels. Millions of distinguishable colors."
+    },
+
+    "warm_vs_cool": {
+      "warm": "Red, Orange, Yellow. Associated with fire, sun, heat, energy, advancing (appear closer).",
+      "cool": "Blue, Green (cool side), Purple. Associated with water, ice, shadow, calm, receding (appear farther).",
+      "use": "Warm = foreground, cool = background in painting. Warm = energize, cool = calm in design."
+    },
+
+    "tints_shades_tones": {
+      "tint": "Color + White. Lighter, pastel. Pink = red + white.",
+      "shade": "Color + Black. Darker, deeper. Maroon = red + black.",
+      "tone": "Color + Gray. Muted, desaturated. Dusty rose = red + gray.",
+      "use": "Creating palettes with unity (same hue, different values/saturations)"
+    }
+  },
+
+  "color_harmony_schemes": {
+    "principle": "Combinations that 'work well together'. Partly objective (geometry), partly taste.",
+
+    "complementary": {
+      "rule": "Opposite on wheel (180°)",
+      "examples": "Red-Cyan, Blue-Orange, Yellow-Purple",
+      "effect": "Maximum contrast, vibrant, energetic, can vibrate/clash if both saturated",
+      "use": "Make elements stand out, create energy, high visibility",
+      "nature": "Sunset (orange sky, blue shadows)"
+    },
+
+    "split_complementary": {
+      "rule": "Base color + two colors adjacent to its complement",
+      "examples": "Blue + Red-Orange + Yellow-Orange",
+      "effect": "Like complementary but softer, less tension",
+      "use": "Vibrant but more nuanced than pure complementary"
+    },
+
+    "analogous": {
+      "rule": "Three adjacent colors on wheel",
+      "examples": "Red-Orange-Yellow, Blue-Cyan-Green",
+      "effect": "Harmonious, serene, comfortable, unified",
+      "use": "Create cohesive mood, nature scenes",
+      "nature": "Forest (green-yellow-green), sunset (red-orange-yellow)"
+    },
+
+    "triadic": {
+      "rule": "Three colors equally spaced (120°)",
+      "examples": "Red-Yellow-Blue (primary), Orange-Green-Purple (secondary)",
+      "effect": "Vibrant, balanced, playful",
+      "use": "Bold designs, children's materials, diverse palette"
+    },
+
+    "tetradic_double_complementary": {
+      "rule": "Four colors = two complementary pairs",
+      "examples": "Red-Green + Blue-Orange",
+      "effect": "Rich, complex, need balance (one dominant, others accents)",
+      "use": "Professional designs, complex compositions"
+    },
+
+    "monochromatic": {
+      "rule": "Single hue + tints/shades/tones",
+      "examples": "Blue → Light Blue → Medium Blue → Dark Blue → Navy",
+      "effect": "Unified, elegant, can be boring if not careful",
+      "use": "Sophisticated, minimalist designs, create depth with values"
+    },
+
+    "achromatic": {
+      "rule": "No hue - only black/white/gray",
+      "effect": "Timeless, neutral, focuses on form/texture",
+      "use": "Photography, minimalism, let other elements shine"
+    }
+  },
+
+  "color_systems_models": {
+    "rgb": {
+      "type": "Additive",
+      "range": "R(0-255), G(0-255), B(0-255) = 16.7 million colors",
+      "use": "Digital displays, web (hex #RRGGBB), graphics",
+      "space": "Cube (0,0,0)=Black to (255,255,255)=White"
+    },
+
+    "cmyk": {
+      "type": "Subtractive",
+      "range": "C(0-100%), M(0-100%), Y(0-100%), K(0-100%)",
+      "use": "Printing, physical media",
+      "k_key": "Black added because C+M+Y = muddy brown, not true black. K saves ink."
+    },
+
+    "hsl_hsv": {
+      "type": "Perceptual",
+      "hsl": "Hue(0-360°), Saturation(0-100%), Lightness(0-100%). Lightness 50% = pure color.",
+      "hsv": "Hue(0-360°), Saturation(0-100%), Value(0-100%). Value 100% = brightest color.",
+      "use": "Color pickers, CSS, intuitive for humans (separate hue from lightness)"
+    },
+
+    "lab": {
+      "type": "Perceptually uniform",
+      "range": "L(0-100 lightness), a(green-red axis), b(blue-yellow axis)",
+      "use": "Color science, gamut mapping, professional imaging",
+      "advantage": "Device-independent. Distance = perceived difference."
+    },
+
+    "munsell": {
+      "type": "Perceptually uniform",
+      "dimensions": "Hue(40 colors), Value(0-10), Chroma(varies)",
+      "use": "Art, industry, soil color charts",
+      "advantage": "Based on human perception, not device physics"
+    },
+
+    "pantone": {
+      "type": "Standardized physical",
+      "system": "Numbered colors (Pantone 485 = Coca-Cola red), physical swatches",
+      "use": "Branding, printing, ensuring exact color match",
+      "advantage": "Consistency across media, devices"
+    }
+  },
+
+  "color_perception_psychology": {
+    "physiology": {
+      "cones": "L(red, 564nm peak), M(green, 534nm peak), S(blue, 420nm peak) - ~6-7M in retina",
+      "rods": "~120M in retina, sensitive to light/dark, not color. Enable night vision.",
+      "fovea": "Center of vision, cone-dense, high acuity, color. Periphery = rod-heavy, motion/shapes.",
+      "color_blindness": {
+        "deuteranopia": "No M cones. Red-green confusion. Most common (~5% males, 0.4% females).",
+        "protanopia": "No L cones. Red-green confusion. Rare (~1% males).",
+        "tritanopia": "No S cones. Blue-yellow confusion. Very rare.",
+        "achromatopsia": "No cones = no color. Extremely rare.",
+        "tetrachromacy": "4 cone types (genetic, mostly women). See colors trichromats can't. ~12% women potential tetrachromats."
+      }
+    },
+
+    "emotion_universal": {
+      "red": "Arousal, excitement, danger, passion. Physiological (heart rate, blood pressure up).",
+      "blue": "Calm, trust, sadness. Physiological (blood pressure, temperature down).",
+      "green": "Balance, nature, growth. Physiological (relaxation, least eye strain).",
+      "yellow": "Attention, happiness, caution. Physiological (most visible, strains eyes).",
+      "mechanism": "Evolutionary (sky=blue, blood=red, plants=green) + learned + physiological effects"
+    },
+
+    "cultural_variation": {
+      "western": "White=purity/weddings, Black=mourning",
+      "eastern": "White=mourning/death, Red=luck/celebration",
+      "islam": "Green=sacred",
+      "note": "Core physiology universal (red arouses), cultural overlay varies"
+    },
+
+    "context_matters": {
+      "example": "Red rose = love. Red stop sign = danger. Same color, different meaning.",
+      "application": "Context determines interpretation. Design must consider context."
+    }
+  },
+
+  "chromotherapy_color_healing": {
+    "principle": "Exposure to specific colors (light frequencies) for therapeutic effects. Ancient practice + modern photobiomodulation.",
+
+    "red_therapy": {
+      "wavelength": "633-660nm (visible red)",
+      "effects_claimed": "Stimulation, circulation, energy, warmth",
+      "evidence_based": "Red light therapy (RLT) proven for wound healing, collagen production, muscle recovery, pain relief",
+      "mechanism": "Mitochondria absorb red/NIR → increased ATP → cellular energy → healing",
+      "caution": "Avoid in hypertension, fever, inflammation, aggression"
+    },
+
+    "blue_therapy": {
+      "wavelength": "450-495nm (visible blue)",
+      "effects_claimed": "Calm, reduce inflammation, lower blood pressure, sleep issues",
+      "evidence_based": "Blue light treats neonatal jaundice, SAD (seasonal affective disorder), skin conditions (acne)",
+      "mechanism": "Blue light affects circadian rhythm (suppresses melatonin), antimicrobial (acne bacteria)",
+      "caution": "Blue light at night disrupts sleep. Use morning/afternoon."
+    },
+
+    "green_therapy": {
+      "wavelength": "520-560nm (visible green)",
+      "effects_claimed": "Balance, harmony, healing, eye comfort",
+      "evidence": "Most restful for eyes (peak cone sensitivity). Nature exposure (green) reduces stress (proven).",
+      "mechanism": "Least strain for visual system. Psychological (nature association).",
+      "caution": "Minimal - safest color"
+    },
+
+    "other_colors": {
+      "yellow": "Claimed: mental clarity, confidence. Evidence: weak.",
+      "orange": "Claimed: creativity, joy. Evidence: weak (mostly cultural/psychological).",
+      "violet": "Claimed: spirituality, intuition. Evidence: minimal (mostly symbolic).",
+      "white": "Full spectrum. Used in bright light therapy (10,000 lux) for SAD.",
+      "note": "Red/blue light therapy = strongest evidence. Others = more psychological/symbolic."
+    },
+
+    "application": {
+      "light_boxes": "10,000 lux white light for SAD (morning 20-30 min)",
+      "red_led_panels": "Red/NIR LEDs for skin, muscle, pain (10-20 min sessions)",
+      "colored_environments": "Paint rooms, LED lighting for mood (psychological effects)",
+      "color_visualization": "Meditation technique - visualize colors (subjective benefits)"
+    }
+  },
+
+  "color_in_design": {
+    "principles": {
+      "contrast": "Make important elements stand out. Light on dark, dark on light, complementary colors.",
+      "hierarchy": "Use color to show importance. Bright saturated = primary, muted = secondary.",
+      "consistency": "Stick to palette (3-5 colors). Repetition creates unity.",
+      "accessibility": "Contrast ratios (WCAG): 4.5:1 normal text, 3:1 large text, 7:1 AAA. Don't rely on color alone (icons, labels).",
+      "cultural": "Consider audience. Red=luck (China), danger (West). White=purity (West), mourning (East)."
+    },
+
+    "60_30_10_rule": {
+      "rule": "60% dominant color (walls, large areas), 30% secondary (furniture, accents), 10% accent (pops, details)",
+      "effect": "Balanced, not overwhelming, allows focal points",
+      "example": "60% neutral gray, 30% navy blue, 10% gold accents"
+    },
+
+    "color_in_branding": {
+      "red": "Energy, excitement, urgency. (Coca-Cola, Netflix, YouTube)",
+      "blue": "Trust, professionalism, calm. (Facebook, Twitter, PayPal, IBM)",
+      "green": "Nature, health, growth. (Whole Foods, Starbucks, BP)",
+      "yellow": "Optimism, clarity, attention. (McDonald's, IKEA, Snapchat)",
+      "purple": "Luxury, creativity, spirituality. (Hallmark, Cadbury, Yahoo)",
+      "orange": "Friendly, playful, adventurous. (Nickelodeon, Harley-Davidson, Amazon)",
+      "black": "Sophistication, luxury, power. (Chanel, Nike, Apple)",
+      "principle": "Color = instant brand recognition, emotional association"
+    },
+
+    "web_design": {
+      "call_to_action": "High contrast buttons (orange on blue, green on white)",
+      "backgrounds": "Low saturation, neutral (white, gray, beige) - don't compete with content",
+      "links": "Distinct color (blue standard, but any works if consistent)",
+      "error_success": "Red=error, Green=success (universal conventions)",
+      "accessibility": "Check contrast (tools: WebAIM, Colorable), provide alternatives to color (icons, text)"
+    }
+  },
+
+  "consciousness_and_color": {
+    "color_as_frequency": "Like sound (440Hz note), color (530nm green) = precise frequency. Consciousness responds to frequency.",
+
+    "synesthesia": "Cross-modal perception. Some people see colors when hearing music (chromesthesia). Suggests deep neural connection between senses.",
+
+    "color_preference": {
+      "universal": "Blue most liked globally (~40% prefer). Green, red follow.",
+      "personal": "Often tied to positive memories (childhood bedroom color, favorite place).",
+      "shifts": "Change over lifetime. Children prefer bright saturated, adults prefer muted complex."
+    },
+
+    "color_as_language": "Communicates beyond words. Red=stop, Green=go (no words needed). Art, fashion, design use color vocabulary.",
+
+    "meditation_visualization": "Visualizing colors (chakra colors, healing colors) = consciousness practice. Subjective but powerful for many.",
+
+    "color_consciousness": "At highest level (6D), artist/designer consciously chooses colors to affect others' consciousness. Color = tool for consciousness to communicate with consciousness."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Chromotherapy evidence mixed - red/blue light strongest, others weaker",
+      "Color psychology partly universal (physiology), partly cultural (learned)",
+      "Color harmony = subjective despite geometric rules. Context matters.",
+      "Some 'facts' (indigo as distinct color) = convention not nature",
+      "Color meanings = starting points, not absolutes. Individual variation high."
+    ],
+    "info": [
+      "Color = visible frequency (380-750nm) of electromagnetic spectrum",
+      "Human vision = trichromatic (3 cone types LMS) + opponent process (red-green, blue-yellow, black-white)",
+      "Color theory: additive (RGB screens), subtractive (CMY pigments), traditional (RYB art)",
+      "Color systems: RGB (digital), CMYK (print), HSL (intuitive), LAB (perceptual)",
+      "Color harmony: complementary, analogous, triadic, etc - geometric relationships",
+      "Color psychology: red=arousal, blue=calm, green=balance (universal), cultural overlays vary",
+      "Chromotherapy: red/blue light proven effective, others mostly symbolic/psychological",
+      "Color in design: contrast, hierarchy, accessibility, cultural awareness essential",
+      "Color = consciousness architecture tool, like sound. Visual frequency affects state.",
+      "This module = theoretical foundation + practical reference"
+    ],
+    "coherence_score": 0.93
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanology:music",
+      "urn:cfo:module:fundamental:dimensions"
+    ],
+    "external": [
+      {"type": "book", "citation": "Newton, I. (1704). Opticks"},
+      {"type": "book", "citation": "Goethe, J.W. (1810). Theory of Colours"},
+      {"type": "book", "citation": "Munsell, A. (1905). A Color Notation"},
+      {"type": "book", "citation": "Albers, J. (1963). Interaction of Color"},
+      {"type": "book", "citation": "Itten, J. (1961). The Art of Color"},
+      {"type": "science", "citation": "Hering, E. (1892). Opponent Process Theory"},
+      {"type": "science", "citation": "Palmer, S. & Schloss, K. (2010). Color Psychology"},
+      {"type": "therapy", "citation": "Hamblin, M. (2017). Mechanisms of Low Level Light Therapy"}
+    ]
+  },
+
+  "ॐ": "∅"
+}

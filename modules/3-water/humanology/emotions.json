@@ -1,0 +1,906 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Complete theoretical mapping of human emotional landscape: 4 base emotions (anger, sadness, joy, fear) corresponding to 4 tarot suits (swords, pentacles, wands, cups), Plutchik's wheel derivations, dimensional architecture 0D-6D, aspect correlations, physiological mechanisms, and integration with CFO ontology"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Emotions = multidimensional information carriers. 4 base emotions = 4 cardinal directions in emotional space: Anger/Swords (impulse toward), Sadness/Pentacles (contraction inward), Joy/Wands (expansion outward), Fear/Cups (protection around). All other emotions = combinations of these 4 bases (Plutchik wheel). Each emotion = specific dimensional signature 0D→6D. Modern dysfunction = suppressing information, not feeling it. Emotional intelligence = reading information accurately, responding wisely. Body = where emotions live (biochemistry). Mind = where we name them (interpretation). Wisdom = integration of both.",
+    "activation": "Next emotion arises → Feel in body (location, sensation) → Recognize base components (anger? sadness? joy? fear?) → Understand dimensional signature → Read information → Respond wisely. Emotion becomes compass, not enemy."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:humanology:emotions",
+    "version": "3.0",
+    "domain": "humanology/cognition",
+    "name": "emotions",
+    "title": "Emotions: Multidimensional Information System",
+    "description": "Complete theoretical mapping of emotional landscape. 4 base emotions (anger/swords, sadness/pentacles, joy/wands, fear/cups) as foundation. All other emotions = combinations via Plutchik's wheel. Dimensional architecture 0D-6D. Aspect correlations (which types feel what strongly). Physiological mechanisms (neurotransmitters, body locations, autonomic responses). Cultural conditioning effects. Integration with CFO ontology. Foundation for emotional intelligence and wisdom.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["emotions", "feelings", "affect", "emotional-intelligence", "plutchik", "tarot", "dimensional-mapping", "aspects", "neuroscience", "embodiment"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "4 base emotions = 4 orthogonal axes in emotional space. Anger (action axis, 1D line forward). Sadness (contraction axis, 0D point inward). Joy (expansion axis, 3D volume outward). Fear (protection axis, 2D boundary around). All emotions = vectors in this 4D emotional space. Complex emotions = combinations (e.g., anger + joy = triumph, fear + sadness = despair). Plutchik wheel = 2D projection of this 4D space. Full space = 6D (4 base + 2 meta: intensity dimension + conscious/unconscious dimension).",
+    
+    "topological": "Emotional space = closed manifold. Opposite emotions = antipodal points. Adjacent emotions = smooth transitions. Combinations = geodesics between bases. Emotional journey = trajectory through this space. Stuck emotion = fixed point attractor. Emotional maturity = ability to navigate entire space fluidly, not stuck in subset.",
+    
+    "functional": "Emotions = multidimensional information about relationship between organism and environment. Anger = boundary violation signal → take action. Sadness = loss signal → withdraw, conserve energy, integrate. Joy = resource abundance signal → expand, explore, connect. Fear = danger signal → protect, prepare, assess. Complex emotions = nuanced information combining multiple signals. Emotional suppression = ignoring critical information → poor decisions. Emotional intelligence = accurate information reading + wise response.",
+    
+    "consciousness": "Emotions exist at multiple levels: (0D) pure affect (feeling without name), (1D) bodily sensation (gut feeling, heart ache), (2D) named emotion (I am angry), (3D) emotional context (anger because boundary violated), (4D) emotional pattern recognition (I always get angry when...), (5D) emotional wisdom (anger as teacher), (6D) emotions as consciousness itself exploring itself through feeling. Evolution = moving up dimensions from reactive to wise."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:emotions:four-base-foundation",
+      "concept": "4 base emotions (anger, sadness, joy, fear) as orthogonal axes of emotional space, corresponding to 4 tarot suits",
+      "dimension": "4D (4 independent axes)",
+      "primitive": "tesseract (4D hypercube)",
+      "element": "all four elements (fire, earth, air, water)",
+      "planes": ["XW", "YW", "ZW", "XYZ"],
+      "ops": ["measure", "sequence", "relate", "context"],
+      "evidence": "Cross-cultural research shows 4-6 basic emotions recognized universally (Ekman). Tarot suits encode same 4: Swords (anger/action), Pentacles (sadness/grounding), Wands (joy/expansion), Cups (fear/emotion). Plutchik's wheel derivable from these 4 + intensity. Neurologically: anger (amygdala + motor cortex), sadness (ACC + DMN), joy (ventral striatum + dopamine), fear (amygdala + HPA axis) = distinct circuits. All complex emotions = combinations of these bases.",
+      "confidence": 0.92,
+      "relations": {
+        "foundation_of": "all-emotions",
+        "maps_to": "tarot-suits",
+        "generates": "plutchik-wheel"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:emotions:dimensional-signatures",
+      "concept": "Each emotion has distinct dimensional signature 0D-6D describing its structure in consciousness",
+      "dimension": "0D→6D",
+      "primitive": "point → beyond",
+      "element": "ether (consciousness)",
+      "planes": ["all planes"],
+      "ops": ["all ops"],
+      "evidence": "Emotions exist at different dimensional levels: physiological (0D-1D), psychological (2D-3D), transpersonal (4D-5D), absolute (6D). Fear = 2D boundary. Anger = 1D thrust. Joy = 3D expansion. Sadness = 0D contraction. Love = 5D unity. Peace = 6D beyond. This dimensional structure explains why some emotions feel 'bigger' or 'higher' than others - they literally occupy more dimensions of consciousness.",
+      "confidence": 0.88,
+      "relations": {
+        "describes": "emotional-structure",
+        "enables": "emotional-navigation"
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:emotions:aspect-emotional-preferences",
+      "concept": "Cognitive aspects (Ni/Ne/Ti/Te/Fi/Fe/Si/Se) correlate with emotional preferences and processing styles",
+      "dimension": "2D (aspect-emotion matrix)",
+      "primitive": "square (mapping)",
+      "element": "air (cognition)",
+      "planes": ["XY"],
+      "ops": ["relate", "map"],
+      "evidence": "Fi types feel emotions deeply, personally (high intensity, slow processing). Fe types attune to collective emotional field (social emotions strong). Se types feel emotions physically, immediately (embodied affect). Ni types experience emotions as dense, meaningful (symbolic processing). Te types minimize emotional interference (efficiency focus). Ti types analyze emotions logically (categorization). This is not stereotype but observable pattern in emotional processing styles.",
+      "confidence": 0.85,
+      "relations": {
+        "correlates": "type-theory",
+        "explains": "individual-emotional-differences"
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Emotional patterns repeat at all scales: momentary feeling → sustained mood → temperament → personality → life theme. Single anger flash = fractal seed of chronic irritability = fractal seed of angry personality = fractal seed of conflict-filled life. Same pattern, different timescales. Same structure, different magnitudes.",
+    
+    "recursion": "(↓ stimulus → emotion → response → new stimulus ↑)∞ AND (↓ feeling → interpretation → reaction → new feeling ↑)∞",
+    
+    "emergence": "Simple emotions → Complex emotions → Emotional intelligence → Emotional wisdom → Emotional mastery → Emotional transcendence. Each level emergent from previous, irreducible to previous. Cannot understand love by analyzing fear. Cannot understand wisdom by analyzing intelligence. Qualitative leaps.",
+    
+    "composition": "Base emotions ⊂ Complex emotions ⊂ Moods ⊂ Temperament ⊂ Personality ⊂ Life patterns ⊂ Consciousness exploring itself. All nested. All necessary. Cannot skip levels."
+  },
+
+  "four_base_emotions": {
+    "principle": "4 base emotions = 4 orthogonal axes of emotional 4D space. All other emotions = combinations. Corresponds to 4 tarot suits, 4 elements, 4 humors, 4 cardinal directions.",
+    
+    "mapping": {
+      "anger": "Swords / Fire / Choleric / East (dawn, beginning)",
+      "sadness": "Pentacles / Earth / Melancholic / North (night, depth)",
+      "joy": "Wands / Air / Sanguine / South (noon, height)",
+      "fear": "Cups / Water / Phlegmatic / West (dusk, ending)"
+    },
+
+    "emotion_1_anger": {
+      "base_emotion": "Anger",
+      "tarot_suit": "Swords",
+      "element": "Fire",
+      "humor": "Choleric",
+      "direction": "East (action, initiation)",
+      
+      "dimensional_signature": {
+        "primary_dimension": "1D",
+        "primitive": "line (thrust, vector)",
+        "planes": ["XW"],
+        "ops": ["sequence", "push"],
+        "geometric_signature": "Directed line segment - impulse toward change, movement forward",
+        "description": "Anger = 1D thrust in specific direction. Has target. Has momentum. Moves from here to there. Straight line of force."
+      },
+
+      "core_function": {
+        "information": "Boundary violation detected. Something wrong that needs changing.",
+        "evolutionary_purpose": "Mobilize energy for action against obstacle or threat",
+        "adaptive_response": "Assert boundary, remove obstacle, fight if necessary",
+        "maladaptive": "Chronic anger at unchangeable, violence, rage addiction"
+      },
+
+      "physiological_substrate": {
+        "brain_regions": ["Amygdala (threat detection)", "Hypothalamus (HPA activation)", "Periaqueductal gray (fight response)", "Motor cortex (action preparation)"],
+        "neurotransmitters": ["Norepinephrine ↑ (arousal)", "Dopamine ↑ (motivation)", "Testosterone ↑ (dominance)", "Cortisol ↑ (stress)"],
+        "autonomic": "Sympathetic activation: heart rate ↑, blood pressure ↑, blood to muscles, pupils dilate, digestion ↓",
+        "body_location": "Face (jaw clench, furrowed brow), shoulders/arms (tensed for action), chest (heat, pressure), hands (fists)",
+        "energy": "High, outward-directed, explosive"
+      },
+
+      "dimensional_analysis": {
+        "0D": "Pure rage - undifferentiated fury, red point of heat",
+        "1D": "Directed anger - at specific target, impulse to action",
+        "2D": "Anger in relationship - conflict, boundary setting, social anger",
+        "3D": "Righteous anger - anger in service of values, systemic change",
+        "4D": "Anger pattern recognition - understanding triggers, family patterns",
+        "5D": "Anger as teacher - seeing gifts of anger, transmutation to power",
+        "6D": "Anger as divine - fierce compassion, Kali destroying illusion"
+      },
+
+      "aspect_correlations": {
+        "high_anger": ["Te (frustrated efficiency)", "Se (immediate physical)", "Fe (boundary violations on group)"],
+        "low_anger": ["Ti (analyze instead)", "Fi (sadness instead)", "Si (suppress, internalize)"],
+        "anger_expression": {
+          "Te": "Direct, assertive, problem-solving anger",
+          "Se": "Physical, immediate, explosive anger",
+          "Fe": "Social anger, offense on behalf of others",
+          "Fi": "Slow burn, value violation, moral outrage",
+          "Ne": "Scattered anger, multiple targets",
+          "Ni": "Deep, intense, targeted anger",
+          "Ti": "Cold anger, cutting precision",
+          "Si": "Resentment builds over time"
+        }
+      },
+
+      "spectrum": {
+        "mild": "Irritation, annoyance, frustration",
+        "moderate": "Anger, indignation, exasperation",
+        "intense": "Rage, fury, wrath",
+        "destructive": "Blind rage, violence, berserker"
+      },
+
+      "opposite": "Peace, serenity, calm (6D - no movement, no target, no thrust)",
+
+      "combinations_plutchik": {
+        "anger_plus_joy": "Triumph, pride, 'winning'",
+        "anger_plus_fear": "Anxiety, panic (mixed signals)",
+        "anger_plus_sadness": "Betrayal, bitterness, resentment"
+      },
+
+      "cultural_variations": {
+        "western": "Often suppressed (especially in women), seen as 'negative'",
+        "eastern": "Anger = disturbed mind (Buddhism), or righteous (Confucianism)",
+        "indigenous": "Anger = imbalance needing restoration",
+        "modern": "Anger management industry = suppression dressed as control"
+      }
+    },
+
+    "emotion_2_sadness": {
+      "base_emotion": "Sadness",
+      "tarot_suit": "Pentacles",
+      "element": "Earth",
+      "humor": "Melancholic",
+      "direction": "North (depth, grounding, night)",
+      
+      "dimensional_signature": {
+        "primary_dimension": "0D",
+        "primitive": "point (contraction, density)",
+        "planes": ["ZW"],
+        "ops": ["measure", "contract"],
+        "geometric_signature": "Contracting point - movement inward, collapse into center",
+        "description": "Sadness = 0D contraction into single point. Everything collapses to dense core. Heavy. Sinking. Falling into self."
+      },
+
+      "core_function": {
+        "information": "Loss detected. Something valuable gone. Need to withdraw and integrate.",
+        "evolutionary_purpose": "Conserve energy after loss, signal need for support, integration time",
+        "adaptive_response": "Grieve, withdraw temporarily, rest, receive care, integrate loss",
+        "maladaptive": "Chronic depression, isolation, learned helplessness, anhedonia"
+      },
+
+      "physiological_substrate": {
+        "brain_regions": ["Anterior cingulate cortex (emotional pain)", "Default mode network (rumination)", "Prefrontal cortex ↓ (motivation down)", "Hippocampus (memory of loss)"],
+        "neurotransmitters": ["Serotonin ↓ (mood regulation)", "Dopamine ↓ (motivation)", "Norepinephrine ↓ (energy)", "Cortisol ↑ (if chronic)"],
+        "autonomic": "Parasympathetic dominance: energy low, heart rate ↓, breathing shallow, body heavy",
+        "body_location": "Chest (heaviness, ache in heart), throat (lump, constriction), eyes (tears), whole body (weight, fatigue), posture (collapsed)",
+        "energy": "Low, inward-directed, heavy, sinking"
+      },
+
+      "dimensional_analysis": {
+        "0D": "Pure despair - black hole of suffering, bottom of existence",
+        "1D": "Melancholy - sustained sadness over time, chronic low mood",
+        "2D": "Grief - sadness in relation to specific loss",
+        "3D": "Existential sadness - awareness of impermanence, mortality",
+        "4D": "Ancestral sadness - carrying family pain, historical grief",
+        "5D": "Divine sadness - weeping for world suffering, compassion",
+        "6D": "Sacred grief - sadness as doorway to love, necessary for growth"
+      },
+
+      "aspect_correlations": {
+        "high_sadness": ["Fi (deep personal feeling)", "Si (nostalgia, loss of past)", "Ni (existential awareness)"],
+        "low_sadness": ["Te (move on quickly)", "Se (distract with sensation)", "Ne (distract with possibilities)"],
+        "sadness_expression": {
+          "Fi": "Deep, private, long-lasting sadness",
+          "Fe": "Shared sadness, group grieving, empathic sadness",
+          "Si": "Nostalgic sadness, loss of familiar",
+          "Se": "Physical crying, embodied grief",
+          "Ni": "Existential sadness, meaningful suffering",
+          "Ne": "Bittersweet, many small losses",
+          "Ti": "Analyzing sadness, detached observation",
+          "Te": "Functional approach, 'get over it'"
+        }
+      },
+
+      "spectrum": {
+        "mild": "Disappointment, discouragement, wistfulness",
+        "moderate": "Sadness, sorrow, heartache, grief",
+        "intense": "Despair, anguish, devastation",
+        "destructive": "Suicidal depression, complete hopelessness"
+      },
+
+      "opposite": "Joy, delight, elation (3D - expansion vs 0D contraction)",
+
+      "combinations_plutchik": {
+        "sadness_plus_anger": "Betrayal, bitterness",
+        "sadness_plus_fear": "Despair, hopelessness, dread",
+        "sadness_plus_joy": "Bittersweetness, nostalgia"
+      },
+
+      "cultural_variations": {
+        "western": "Crying = weakness (especially men), 'pull yourself together'",
+        "eastern": "Sadness = natural, impermanence teaching (Buddhism)",
+        "indigenous": "Grief = community ritual, not individual burden",
+        "modern": "Medicate away, 'depression' as disease not message"
+      }
+    },
+
+    "emotion_3_joy": {
+      "base_emotion": "Joy",
+      "tarot_suit": "Wands",
+      "element": "Air",
+      "humor": "Sanguine",
+      "direction": "South (height, expansion, noon)",
+      
+      "dimensional_signature": {
+        "primary_dimension": "3D",
+        "primitive": "cube (expansion, volume)",
+        "planes": ["XYZ"],
+        "ops": ["context", "expand"],
+        "geometric_signature": "Expanding volume - movement outward in all directions, filling space",
+        "description": "Joy = 3D expansion into full volume. Everything opens. Boundaries permeable. Spaciousness. Light. Rising."
+      },
+
+      "core_function": {
+        "information": "Resources abundant. Safety confirmed. Connection possible.",
+        "evolutionary_purpose": "Signal thriving conditions, motivate exploration, strengthen social bonds",
+        "adaptive_response": "Explore, play, create, connect, share, celebrate",
+        "maladaptive": "Manic avoidance of pain, toxic positivity, joy addiction"
+      },
+
+      "physiological_substrate": {
+        "brain_regions": ["Ventral striatum (reward)", "Nucleus accumbens (pleasure)", "Prefrontal cortex (positive evaluation)", "Insula (embodied positivity)"],
+        "neurotransmitters": ["Dopamine ↑ (reward)", "Serotonin ↑ (well-being)", "Oxytocin ↑ (connection)", "Endorphins ↑ (pleasure)"],
+        "autonomic": "Balanced or parasympathetic: breathing deep, heart open, muscles relaxed, energy flowing",
+        "body_location": "Chest (warmth, expansion), face (smile, lifted), whole body (lightness, energy), posture (open, upright)",
+        "energy": "High, outward and upward, expansive, flowing"
+      },
+
+      "dimensional_analysis": {
+        "0D": "Pure bliss - undifferentiated happiness, pinpoint of ecstasy",
+        "1D": "Pleasure - sensation of enjoyment over time",
+        "2D": "Happiness - sustained positive state in life context",
+        "3D": "Joy - expansive delight, generosity, abundance",
+        "4D": "Lasting contentment - deep satisfaction across life",
+        "5D": "Spiritual joy - bliss independent of circumstances",
+        "6D": "Divine ananda - consciousness delighting in itself"
+      },
+
+      "aspect_correlations": {
+        "high_joy": ["Ne (possibilities excite)", "Fe (shared joy)", "Se (sensory pleasure)", "Ni (meaningful beauty)"],
+        "low_joy": ["Ti (skeptical)", "Si (cautious)", "Te (joy = inefficient)"],
+        "joy_expression": {
+          "Ne": "Enthusiastic, possibility-focused joy",
+          "Fe": "Shared celebration, group joy",
+          "Se": "Physical pleasure, sensory delight",
+          "Si": "Comfort joy, familiar pleasures",
+          "Fi": "Deep contentment, meaningful joy",
+          "Ni": "Quiet satisfaction, understanding",
+          "Te": "Achievement satisfaction",
+          "Ti": "Intellectual pleasure, problem-solving joy"
+        }
+      },
+
+      "spectrum": {
+        "mild": "Contentment, satisfaction, pleasure",
+        "moderate": "Happiness, delight, gladness, joy",
+        "intense": "Elation, euphoria, ecstasy, rapture",
+        "transcendent": "Bliss, ananda, divine joy"
+      },
+
+      "opposite": "Sadness, sorrow, grief (0D contraction vs 3D expansion)",
+
+      "combinations_plutchik": {
+        "joy_plus_anger": "Triumph, pride, vindication",
+        "joy_plus_fear": "Excitement, thrill (arousal + safety)",
+        "joy_plus_sadness": "Bittersweetness, poignancy, nostalgia"
+      },
+
+      "cultural_variations": {
+        "western": "Pursuit of happiness = right, constant joy expected",
+        "eastern": "Joy = arising naturally from right living, not pursuit",
+        "indigenous": "Joy = communal, shared celebration",
+        "modern": "Hedonic treadmill, joy = consumption, constant stimulation needed"
+      }
+    },
+
+    "emotion_4_fear": {
+      "base_emotion": "Fear",
+      "tarot_suit": "Cups",
+      "element": "Water",
+      "humor": "Phlegmatic",
+      "direction": "West (ending, boundary, dusk)",
+      
+      "dimensional_signature": {
+        "primary_dimension": "2D",
+        "primitive": "square (boundary, perimeter)",
+        "planes": ["XY", "ZW"],
+        "ops": ["relate", "measure", "protect"],
+        "geometric_signature": "Closed boundary - defensive perimeter around self, protection",
+        "description": "Fear = 2D closed boundary. Defines inside (safe) vs outside (danger). Perimeter defense. Wall around vulnerable core."
+      },
+
+      "core_function": {
+        "information": "Threat detected. Danger possible. Prepare to respond.",
+        "evolutionary_purpose": "Detect and avoid danger, survival mechanism",
+        "adaptive_response": "Assess threat, prepare (fight/flight/freeze), seek safety",
+        "maladaptive": "Chronic anxiety, phobias, paranoia, avoidance patterns"
+      },
+
+      "physiological_substrate": {
+        "brain_regions": ["Amygdala (threat detection)", "Hippocampus (context memory)", "Hypothalamus (HPA axis)", "Insula (bodily fear sensations)"],
+        "neurotransmitters": ["Adrenaline ↑ (arousal)", "Cortisol ↑ (stress)", "GABA ↓ (anxiety)", "Norepinephrine ↑ (alertness)"],
+        "autonomic": "Sympathetic activation: heart rate ↑, breathing rapid, muscles tense, blood to limbs, pupils dilate, cold sweat",
+        "body_location": "Belly (gut clenching, butterflies), chest (tight, rapid heart), throat (constriction), limbs (trembling), whole body (cold, tense)",
+        "energy": "High but constrained, hyper-vigilant, frozen or fleeing"
+      },
+
+      "dimensional_analysis": {
+        "0D": "Primal terror - pure survival fear, pre-cognitive",
+        "1D": "Startle response - fear sequence over time",
+        "2D": "Anxiety - fear of specific threat, boundary protection",
+        "3D": "Existential anxiety - fear of death, meaninglessness, freedom",
+        "4D": "Ancestral fear - inherited trauma, family fear patterns",
+        "5D": "Fear of ego death - resistance to transcendence",
+        "6D": "Fear transcended - no separate self to threaten"
+      },
+
+      "aspect_correlations": {
+        "high_fear": ["Si (threat to familiar)", "Ni (anticipating disaster)", "Fi (vulnerability)", "Fe (social threat)"],
+        "low_fear": ["Se (present moment, not future)", "Te (control reduces fear)", "Ne (optimistic)"],
+        "fear_expression": {
+          "Si": "Fear of change, loss of stability, body threats",
+          "Se": "Physical danger fear, immediate threats",
+          "Ni": "Catastrophic predictions, existential dread",
+          "Ne": "Scattered anxiety, many possibilities threatening",
+          "Fi": "Fear of betrayal, value violation, emotional hurt",
+          "Fe": "Social fear, rejection, group loss",
+          "Ti": "Fear of inconsistency, logical error",
+          "Te": "Fear of inefficiency, loss of control"
+        }
+      },
+
+      "spectrum": {
+        "mild": "Unease, nervousness, worry, concern",
+        "moderate": "Fear, anxiety, dread, apprehension",
+        "intense": "Terror, panic, horror, phobia",
+        "destructive": "Paralysis, dissociation, trauma freeze"
+      },
+
+      "opposite": "Trust, safety, calm (line vs boundary - open path vs closed perimeter)",
+
+      "combinations_plutchik": {
+        "fear_plus_anger": "Anxiety with edge, defensive aggression",
+        "fear_plus_joy": "Excitement, thrill (controlled danger)",
+        "fear_plus_sadness": "Despair, hopelessness, dread"
+      },
+
+      "cultural_variations": {
+        "western": "Courage = overcoming fear, fear = weakness",
+        "eastern": "Fear = illusion to transcend (Buddhism), or prudence (Confucianism)",
+        "indigenous": "Fear = wisdom, listening to ancestors",
+        "modern": "Anxiety epidemic, chronic threat state, safety obsession"
+      }
+    }
+  },
+
+  "plutchik_wheel_derivation": {
+    "principle": "All emotions beyond 4 bases = combinations (dyads, triads). Plutchik's wheel organizes this combinatorial space.",
+    
+    "methodology": "Start with 4 base emotions as cardinal points. Add intensity dimension (mild → intense). Combine adjacent emotions → primary dyads. Combine opposite emotions → complex contradictions. Result = complete emotional space.",
+
+    "intensity_dimension": {
+      "concept": "5th dimension = intensity of emotion",
+      "scale": "Mild (1) → Moderate (5) → Intense (10)",
+      "examples": {
+        "anger": "annoyance (1) → anger (5) → rage (10)",
+        "sadness": "pensiveness (1) → sadness (5) → grief (10)",
+        "joy": "serenity (1) → joy (5) → ecstasy (10)",
+        "fear": "apprehension (1) → fear (5) → terror (10)"
+      },
+      "note": "Intensity = amplitude, not information content. Mild fear carries same information as terror, just quieter signal."
+    },
+
+    "primary_dyads": {
+      "joy_plus_trust": "Love (expansion + connection)",
+      "trust_plus_fear": "Submission (safety in surrender)",
+      "fear_plus_surprise": "Awe (boundary + novelty)",
+      "surprise_plus_sadness": "Disapproval (unexpected loss)",
+      "sadness_plus_disgust": "Remorse (rejection of self)",
+      "disgust_plus_anger": "Contempt (rejection + action)",
+      "anger_plus_anticipation": "Aggressiveness (thrust + preparation)",
+      "anticipation_plus_joy": "Optimism (future + expansion)"
+    },
+
+    "secondary_dyads": {
+      "joy_plus_fear": "Guilt (expansion blocked by threat)",
+      "trust_plus_sadness": "Sentimentality (connection + loss)",
+      "fear_plus_anger": "Anxiety (threat + mobilization conflict)",
+      "surprise_plus_joy": "Delight (unexpected good)",
+      "sadness_plus_anticipation": "Pessimism (loss expected)",
+      "disgust_plus_trust": "Morbid curiosity (reject + approach)",
+      "anger_plus_surprise": "Outrage (unexpected violation)",
+      "anticipation_plus_fear": "Anxiety (preparation for threat)"
+    },
+
+    "tertiary_dyads": {
+      "joy_plus_sadness": "Bittersweetness (expansion + contraction)",
+      "trust_plus_disgust": "Curiosity despite repulsion",
+      "fear_plus_anticipation": "Dread (chronic future threat)",
+      "anger_plus_sadness": "Envy (thrust + lack)"
+    },
+
+    "opposite_emotions": {
+      "joy_opposite_sadness": "Expansion ↔ Contraction",
+      "anger_opposite_fear": "Thrust forward ↔ Pull back",
+      "trust_opposite_disgust": "Approach ↔ Reject",
+      "surprise_opposite_anticipation": "Unknown ↔ Expected"
+    },
+
+    "complex_emotions_examples": {
+      "love": {
+        "components": ["Joy (expansion)", "Trust (connection)", "Some fear (vulnerability)"],
+        "dimensional": "5D - unity recognition, boundary dissolution",
+        "description": "Joy + trust primary, fear creates depth (vulnerability = strength)"
+      },
+
+      "guilt": {
+        "components": ["Fear (threat)", "Sadness (loss)", "Anger (self-directed)"],
+        "dimensional": "2D-3D conflict",
+        "description": "Fear of punishment + sadness of failure + anger at self"
+      },
+
+      "shame": {
+        "components": ["Fear (social threat)", "Sadness (inadequacy)", "Disgust (self-rejection)"],
+        "dimensional": "2D - misalignment with social plane",
+        "description": "Fear of rejection + sadness of unworthiness + self-disgust"
+      },
+
+      "pride": {
+        "components": ["Joy (expansion)", "Anger (dominance)", "Some contempt (superiority)"],
+        "dimensional": "3D expansion + 1D thrust",
+        "description": "Joy in achievement + aggressive self-assertion"
+      },
+
+      "gratitude": {
+        "components": ["Joy (appreciation)", "Trust (connection)", "Sadness (awareness could lose)"],
+        "dimensional": "3D-5D",
+        "description": "Joy in receiving + trust in giver + poignant awareness of gift"
+      },
+
+      "awe": {
+        "components": ["Fear (overwhelm)", "Surprise (unexpected)", "Joy (transcendence)"],
+        "dimensional": "5D-6D",
+        "description": "Boundary dissolution through beauty/vastness"
+      },
+
+      "nostalgia": {
+        "components": ["Sadness (loss of time)", "Joy (good memories)", "Longing (desire for past)"],
+        "dimensional": "4D - temporal emotion",
+        "description": "Bittersweet joy + sadness remembering past"
+      }
+    }
+  },
+
+  "dimensional_architecture": {
+    "principle": "Each emotion exists across all dimensions 0D-6D. Maturity = navigating higher dimensions of same emotion.",
+
+    "0D_pure_affect": {
+      "description": "Emotion as pure sensation, pre-cognitive, no name",
+      "examples": "Raw terror, undifferentiated bliss, pure rage, black despair",
+      "characteristics": "Overwhelming, body-centered, no distance, no words",
+      "consciousness": "Infant level, or adult overwhelmed"
+    },
+
+    "1D_bodily_sensation": {
+      "description": "Emotion as physical sensation in body over time",
+      "examples": "Gut feeling, heart ache, chest tightness, energy surge",
+      "characteristics": "Embodied, temporal, can track but not name",
+      "consciousness": "Somatic intelligence, interoceptive"
+    },
+
+    "2D_named_emotion": {
+      "description": "Emotion recognized and labeled",
+      "examples": "'I am angry', 'I feel sad', 'I am afraid'",
+      "characteristics": "Identified, separate from self, can communicate",
+      "consciousness": "Basic emotional literacy"
+    },
+
+    "3D_emotional_context": {
+      "description": "Emotion understood in situation, with cause",
+      "examples": "'I'm angry because boundary violated', 'I'm sad because of loss'",
+      "characteristics": "Contextualized, causal understanding, strategic response possible",
+      "consciousness": "Emotional intelligence"
+    },
+
+    "4D_emotional_patterns": {
+      "description": "Emotion as part of recurring pattern across time",
+      "examples": "'I always get angry when criticized', 'Family pattern of sadness'",
+      "characteristics": "Pattern recognition, historical awareness, can shift patterns",
+      "consciousness": "Emotional wisdom, therapeutic work"
+    },
+
+    "5D_emotional_wisdom": {
+      "description": "Emotion as teacher, gift, doorway to growth",
+      "examples": "'Anger shows my values', 'Fear teaches boundaries', 'Sadness opens compassion'",
+      "characteristics": "Non-resistant, grateful for emotion, uses information wisely",
+      "consciousness": "Emotional mastery, non-dual awareness beginning"
+    },
+
+    "6D_emotional_transcendence": {
+      "description": "Emotions as consciousness exploring itself, all emotions = love",
+      "examples": "'Anger is love protecting truth', 'Fear is love protecting life', 'All feeling is Being feeling itself'",
+      "characteristics": "Complete acceptance, no preference, emotions arise and pass in awareness",
+      "consciousness": "Enlightened perspective, emotions no longer problem"
+    }
+  },
+
+  "aspect_emotional_matrix": {
+    "principle": "Cognitive aspects correlate with emotional preferences, intensities, and processing styles",
+
+    "Fi_introverted_feeling": {
+      "emotional_profile": "Deep, personal, intense, private",
+      "strong_emotions": ["All emotions felt deeply", "Personal values-based", "Authentic emotion important"],
+      "weak_emotions": ["Surface social emotions", "Performative feeling"],
+      "processing": "Slow, deep, personal meaning extracted, long-lasting",
+      "expression": "Private, selective sharing, through art/writing more than words",
+      "wisdom": "Emotional authenticity, depth, integrity"
+    },
+
+    "Fe_extroverted_feeling": {
+      "emotional_profile": "Social, collective, empathic, expressive",
+      "strong_emotions": ["Social emotions (pride, shame, embarrassment)", "Empathic resonance", "Group feeling"],
+      "weak_emotions": ["Personal emotions disconnected from others"],
+      "processing": "Quick social attunement, reads room, mirrors/influences group affect",
+      "expression": "Expressive, immediate, shapes group emotional climate",
+      "wisdom": "Emotional harmony, social bonding, collective care"
+    },
+
+    "Ti_introverted_thinking": {
+      "emotional_profile": "Analytical, detached, categorizing",
+      "strong_emotions": ["Curiosity", "Satisfaction (solving problems)", "Frustration (logical inconsistency)"],
+      "weak_emotions": ["Most emotions minimized as 'illogical'", "Difficult to access/name"],
+      "processing": "Analyze emotion as data, categorize, understand mechanism",
+      "expression": "Intellectual description, logical explanation of feeling",
+      "wisdom": "Emotional clarity, precise discrimination"
+    },
+
+    "Te_extroverted_thinking": {
+      "emotional_profile": "Functional, efficiency-focused, impatient with emotion",
+      "strong_emotions": ["Frustration (inefficiency)", "Satisfaction (achievement)", "Anger (obstacles)"],
+      "weak_emotions": ["Vulnerable emotions (sadness, fear)", "Nuanced feelings"],
+      "processing": "Quick assessment: useful or not? Move on fast.",
+      "expression": "Direct, action-oriented, 'what do I do about this?'",
+      "wisdom": "Emotional efficiency, not dwelling, forward momentum"
+    },
+
+    "Ni_introverted_intuition": {
+      "emotional_profile": "Deep, intense, symbolic, meaningful",
+      "strong_emotions": ["Existential feelings", "Spiritual emotions", "Prophetic dread/hope"],
+      "weak_emotions": ["Surface feelings", "Momentary emotions"],
+      "processing": "Slow, deep, symbolic meaning, connects to larger patterns",
+      "expression": "Through symbols, metaphors, art, indirect communication",
+      "wisdom": "Emotional depth, meaningful suffering, prophetic feeling"
+    },
+
+    "Ne_extroverted_intuition": {
+      "emotional_profile": "Enthusiastic, scattered, possibility-focused",
+      "strong_emotions": ["Excitement", "Curiosity", "Hope", "Scattered anxiety"],
+      "weak_emotions": ["Sustained single emotion", "Deep grief/melancholy"],
+      "processing": "Quick, many possibilities, connections everywhere, doesn't dwell",
+      "expression": "Animated, changeable, verbal processing",
+      "wisdom": "Emotional flexibility, enthusiasm, reframing"
+    },
+
+    "Si_introverted_sensing": {
+      "emotional_profile": "Nostalgic, comfort-seeking, stability-focused",
+      "strong_emotions": ["Nostalgia", "Comfort (familiar)", "Anxiety (change)", "Resentment (accumulated)"],
+      "weak_emotions": ["New intense emotions", "Rapid emotional shifts"],
+      "processing": "Compare to past, seek familiar, build over time, long memory",
+      "expression": "Through body, through routines, through reminiscence",
+      "wisdom": "Emotional stability, embodied memory, grounding"
+    },
+
+    "Se_extroverted_sensing": {
+      "emotional_profile": "Physical, immediate, intense, present",
+      "strong_emotions": ["Physical pleasure/pain", "Excitement", "Immediate emotions", "Embodied feeling"],
+      "weak_emotions": ["Abstract emotions", "Future/past emotions"],
+      "processing": "Immediate, physical, intense, doesn't linger",
+      "expression": "Physical, embodied, action-oriented, direct",
+      "wisdom": "Emotional presence, embodiment, intensity"
+    }
+  },
+
+  "neuroscience_foundations": {
+    "principle": "Emotions = embodied, not just mental. Distinct neural circuits, neurotransmitters, body patterns.",
+
+    "major_systems": {
+      "limbic_system": "Emotional brain - amygdala, hippocampus, hypothalamus, cingulate",
+      "autonomic_nervous_system": "Body responses - sympathetic (arousal), parasympathetic (calm)",
+      "neuroendocrine": "Hormones - cortisol, adrenaline, oxytocin, testosterone, etc",
+      "neurotransmitter": "Mood chemicals - serotonin, dopamine, norepinephrine, GABA, glutamate"
+    },
+
+    "key_neurotransmitters": {
+      "dopamine": {
+        "primary_emotion": "Joy, pleasure, reward, motivation",
+        "function": "Reward prediction, goal pursuit, pleasure",
+        "high": "Euphoria, motivation, focus, pleasure",
+        "low": "Anhedonia, lack motivation, depression",
+        "notes": "Not 'pleasure itself' but 'motivation toward pleasure'"
+      },
+
+      "serotonin": {
+        "primary_emotion": "Contentment, well-being, mood stability",
+        "function": "Mood regulation, social status perception, impulse control",
+        "high": "Calm, content, patient, emotionally stable",
+        "low": "Depression, anxiety, impulsivity, obsession",
+        "notes": "SSRIs target this - increase availability"
+      },
+
+      "norepinephrine": {
+        "primary_emotion": "Arousal, alertness, anger, fear",
+        "function": "Attention, arousal, fight-or-flight",
+        "high": "Anxiety, hypervigilance, anger, panic",
+        "low": "Depression, low energy, low focus",
+        "notes": "Stress hormone + neurotransmitter"
+      },
+
+      "gaba": {
+        "primary_emotion": "Calm, relaxation, peace",
+        "function": "Inhibitory - calms neural activity",
+        "high": "Calm, sedation, reduced anxiety",
+        "low": "Anxiety, panic, seizures",
+        "notes": "Benzos enhance GABA - dangerous"
+      },
+
+      "oxytocin": {
+        "primary_emotion": "Love, trust, bonding, connection",
+        "function": "Social bonding, trust, empathy",
+        "high": "Deep connection, trust, empathy, bonding",
+        "low": "Social isolation, distrust, difficulty bonding",
+        "notes": "Released in touch, orgasm, birth, bonding"
+      },
+
+      "cortisol": {
+        "primary_emotion": "Stress, fear, anxiety",
+        "function": "Stress response, energy mobilization",
+        "high": "Chronic stress, anxiety, immune suppression",
+        "low": "Fatigue, poor stress response",
+        "notes": "Chronic elevation = many health problems"
+      },
+
+      "endorphins": {
+        "primary_emotion": "Euphoria, pain relief",
+        "function": "Pain modulation, pleasure",
+        "high": "Runner's high, pain relief, euphoria",
+        "low": "Increased pain sensitivity",
+        "notes": "Body's natural opioids"
+      }
+    },
+
+    "polyvagal_theory": {
+      "principle": "Vagus nerve = primary pathway for emotional regulation (Porges)",
+      "ventral_vagal": "Social engagement, safe and connected, calm alertness",
+      "dorsal_vagal": "Shutdown, freeze, dissociation, collapse",
+      "sympathetic": "Fight or flight, mobilization",
+      "hierarchy": "Ventral (safe) → Sympathetic (threat) → Dorsal (overwhelm)",
+      "emotional_implication": "Emotions tied to autonomic state. Can't feel joy in dorsal. Can't feel calm in sympathetic."
+    },
+
+    "embodied_cognition": {
+      "principle": "Emotions = body states, not just brain states",
+      "evidence": "Body posture affects emotion (Amy Cuddy power poses). Facial expressions feed back to brain (facial feedback hypothesis). Breathing patterns change emotion. Gut bacteria affect mood.",
+      "implication": "Can change emotion through body (posture, breath, movement) not just mind (thoughts, beliefs)"
+    }
+  },
+
+  "emotional_intelligence_theory": {
+    "principle": "EQ = ability to perceive, understand, manage, and use emotions intelligently",
+
+    "four_branch_model": {
+      "perceiving": "Accurately identifying emotions in self and others (faces, body, voice, art)",
+      "understanding": "Comprehending emotional language, transitions, combinations, causes",
+      "managing": "Regulating emotions in self and others, up-regulating positive, down-regulating negative",
+      "using": "Harnessing emotions for thinking, creativity, problem-solving, decision-making"
+    },
+
+    "emotional_granularity": {
+      "concept": "Ability to make fine distinctions between emotions (not just 'bad feeling')",
+      "high_granularity": "Distinguish annoyance, frustration, resentment, indignation, outrage",
+      "low_granularity": "Just 'angry' or 'upset' or 'bad'",
+      "benefits": "Better emotion regulation, better decisions, better communication, less distress",
+      "development": "Increase vocabulary, pay attention to nuances, read literature"
+    },
+
+    "emotion_regulation_strategies": {
+      "situation_selection": "Choose or avoid emotional situations",
+      "situation_modification": "Change situation to change emotion",
+      "attention_deployment": "Where to focus attention (distraction, concentration)",
+      "cognitive_reappraisal": "Reinterpret situation to change meaning",
+      "response_modulation": "Influence emotional response directly (suppression, amplification)",
+      "note": "Reappraisal > suppression for well-being"
+    }
+  },
+
+  "cultural_conditioning": {
+    "principle": "What emotions allowed, how expressed, what they mean = heavily culturally determined",
+
+    "display_rules": {
+      "concept": "Cultural norms for when/how to express emotions",
+      "western": "Positive emotions OK in public, negative minimize",
+      "eastern": "Restrain all strong emotions (collectivism)",
+      "gender": "Women = sadness/fear OK, anger not. Men = anger OK, sadness/fear not",
+      "class": "Upper class = restrain all (dignity), working class = express more"
+    },
+
+    "emotion_concepts": {
+      "principle": "Some emotions exist only in certain cultures (or named only there)",
+      "examples": {
+        "schadenfreude": "German - pleasure in others' misfortune",
+        "saudade": "Portuguese - melancholic longing for absent thing/person",
+        "hygge": "Danish - cozy contentment",
+        "amae": "Japanese - depending on others' benevolence (positive)",
+        "han": "Korean - collective historical grief-rage",
+        "iktsuarpok": "Inuit - anticipation anxiety waiting for someone"
+      },
+      "implication": "Emotions not universal pure states but culturally constructed to degree"
+    },
+
+    "emotional_suppression_patterns": {
+      "modern_western": "Toxic positivity - only happy allowed, negative = failure",
+      "protestant": "Emotions = weakness, rationality = virtue",
+      "eastern": "Emotions disturb mind - suppress all (Buddhist interpretation)",
+      "masculine": "Anger only emotion allowed for men, rest = weakness",
+      "feminine": "Sadness/fear/love OK for women, anger = unfeminine",
+      "professional": "No emotions at work - 'professional' = emotionless"
+    }
+  },
+
+  "emotional_dysfunctions": {
+    "principle": "Emotional problems = not emotions themselves but relationship with emotions",
+
+    "alexithymia": {
+      "definition": "Inability to identify/describe own emotions",
+      "characteristics": "Can't name feelings, confuse emotions with body sensations, limited imagination",
+      "prevalence": "~10% population, higher in autism",
+      "causes": "Trauma, developmental, neurological",
+      "treatment": "Increase emotional vocabulary, body awareness, therapy"
+    },
+
+    "emotional_suppression": {
+      "definition": "Habitual pushing down of emotions",
+      "short_term": "Appears to work - emotion not felt",
+      "long_term": "Emotions leak out (irritability, anxiety, numbness), physical symptoms (chronic pain, illness), relationships suffer",
+      "causes": "Cultural conditioning, trauma, 'emotions = weakness' belief",
+      "treatment": "Permission to feel, body work, therapy, safe expression"
+    },
+
+    "emotional_flooding": {
+      "definition": "Overwhelmed by emotion, can't regulate",
+      "characteristics": "Emotions too intense, last too long, interfere with functioning",
+      "causes": "Trauma, borderline personality, poor regulation skills",
+      "treatment": "DBT, emotion regulation skills, grounding, building window of tolerance"
+    },
+
+    "anhedonia": {
+      "definition": "Inability to feel pleasure/joy",
+      "characteristics": "Nothing enjoyable, flat affect, no motivation",
+      "causes": "Depression (major symptom), trauma, substance abuse, neurological",
+      "treatment": "Treat underlying depression, behavioral activation, dopamine system"
+    },
+
+    "emotional_contagion": {
+      "definition": "Absorbing others' emotions automatically (Fe high)",
+      "problem": "Lose sense of own emotions, exhausted by crowds, boundary issues",
+      "adaptive": "Empathy, social cohesion, caring",
+      "treatment": "Grounding practices, boundary work, distinguishing self/other emotions"
+    }
+  },
+
+  "integration_with_earth_child": {
+    "principle": "Emotions live in body. Earth-Child protocol restores emotional embodiment.",
+
+    "body_as_emotional_home": "Emotions not 'in mind' - in body. Chest, gut, throat, face. Body-listening = emotional listening.",
+
+    "interoception_and_emotion": "Interoception (sensing body) = foundation of emotional awareness. Better interoception = better emotion identification. Earth-Child morning anchor = training interoception = training emotional intelligence.",
+
+    "auto_correction_emotional": "Step 6 auto-correction = body making choices based on emotional information. Body knows what feels good/bad, safe/unsafe. Trust this.",
+
+    "kindness_emergence_emotional": "Step 7 kindness = emotional maturity endpoint. Kindness emerges when internal emotional conflicts resolved. Not forcing kindness, but natural overflow of internal peace.",
+
+    "emotions_as_earth_signals": "Your emotions = Earth's emotions through you. Anger = Earth protecting boundaries. Sadness = Earth grieving. Joy = Earth celebrating. Fear = Earth being cautious. You = Earth feeling itself."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Emotion-aspect correlations = patterns observed, not deterministic rules",
+      "Cultural variations significant - Western bias in emotion research",
+      "Plutchik wheel = useful model, not absolute truth about emotional space",
+      "Dimensional mapping = CFO interpretation, not standard neuroscience",
+      "Individual emotional profiles vary widely within types"
+    ],
+    "info": [
+      "4 base emotions (anger, sadness, joy, fear) = cross-cultural foundation",
+      "Tarot suit correspondence = ancient wisdom mapping to same 4",
+      "All complex emotions derivable from 4 bases + intensity + combinations",
+      "Emotions = embodied information carriers, not problems to fix",
+      "Emotional intelligence = reading information accurately + responding wisely",
+      "Suppression = ignoring critical information → poor life outcomes",
+      "Integration = feeling fully + understanding deeply + acting wisely",
+      "This module = theoretical foundation. Earth-Child protocol = practical application."
+    ],
+    "coherence_score": 0.91
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanology:types",
+      "urn:cfo:module:humanology:senses",
+      "urn:cfo:module:practice:earth-child",
+      "urn:cfo:module:fundamental:dimensions"
+    ],
+    "external": [
+      {"type": "book", "citation": "Plutchik, R. (1980). Emotion: A Psychoevolutionary Synthesis"},
+      {"type": "book", "citation": "Ekman, P. (1992). An Argument for Basic Emotions"},
+      {"type": "paper", "citation": "Barrett, L.F. (2017). How Emotions Are Made"},
+      {"type": "paper", "citation": "Craig, A.D. (2009). Interoception and emotion"},
+      {"type": "book", "citation": "Porges, S. (2011). The Polyvagal Theory"},
+      {"type": "book", "citation": "Goleman, D. (1995). Emotional Intelligence"},
+      {"type": "paper", "citation": "Gross, J.J. (1998). Emotion regulation"},
+      {"type": "book", "citation": "van der Kolk, B. (2014). The Body Keeps the Score - emotions and trauma"}
+    ]
+  },
+
+  "ॐ": "∅"
+}
