@@ -74,69 +74,50 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
 ## Repository Layout
 
 ### **Core Foundation**
-- **`/core/`** — canonical JSON specifications:
-  - `core.json` / `core-min.json` — complete framework specs
+- **`/core/`** — canonical JSON specifications (9 files):
+  - `core.json`, `core-min.json` — complete framework
   - `dimensions.json`, `elements.json`, `primitives.json`
   - `foundations.json`, `rules.json`, `validator.json`
-  - `reduction_protocol.json` — Universal Decomposer Protocol
+  - `reduction_protocol.json`
   
-### **0-Ether** — Fundamental Layer (0D: Point, Absolute) [4 modules]
+### **0-Ether** — Fundamental Layer (0D: Point, Absolute) · 4 modules
 - **`/modules/0-ether/`**
-  - `absolute.json` — absolute unity, point ≡ entity ≡ love
-  - `consciousness.json` — consciousness as dimensional collapse
-  - `energy.json` — energy as fundamental substrate
-  - `information.json` — information as pattern carrier
+  - `absolute.json`, `consciousness.json`, `energy.json`, `information.json`
   
-### **1-Air** — Pattern Layer (1D: Line, Direction) [7 modules]
+### **1-Air** — Pattern Layer (1D: Line, Direction) · 7 modules
 - **`/modules/1-air/`**
-  - `primitives/` — point, line, plane geometric primitives
-  - `genetic-code.json` — DNA as 64-codon information pattern
-  - `pattern-64.json` — universal 64-element systems (I Ching, codons, amino acids)
-  - `symbols.json` — symbolic systems and meaning
-  - `life.json` — life as ∅ → • emergence ⭐
-  - `death.json` — death as • → ∅ transformation ⭐
-  - `equilibrium.json` — balance and equilibrium states
+  - `primitives/` — point.json, line.json, plane.json
+  - `genetic-code.json`, `pattern-64.json`, `symbols.json`
+  - `life.json` ⭐, `death.json` ⭐, `equilibrium.json`
   
-### **2-Fire** — Natural Sciences (2D: Triangle, Dynamics) [18 modules]
-- **`/modules/2-fire/natural/`** [8]:
-  - `physics.json`, `chemistry.json`, `biology.json`, `mathematics.json`
-  - `geometry.json`, `astronomy.json`, `cosmology.json`, `geology.json`
+### **2-Fire** — Natural Sciences (2D: Triangle, Dynamics) · 18 modules
+- **`/modules/2-fire/natural/`** (8):
+  - physics, chemistry, biology, mathematics, geometry, astronomy, cosmology, geology
   
-- **`/modules/2-fire/phenomenas/`** [10]:
-  - `existence-time.json`, `gravity.json`, `light.json`, `sound.json`
-  - `temperature.json`, `pressure.json`, `position.json`
-  - `flavor.json`, `odor.json`, `integrity.json`
+- **`/modules/2-fire/phenomenas/`** (10):
+  - existence-time, gravity, light, sound, temperature, pressure, position, flavor, odor, integrity
   
-### **3-Water** — Human Sciences (3D: Tetrahedron, Complexity) [27 modules]
-- **`/modules/3-water/humanitarian/`** [16]:
-  - `aesthetics.json`, `colors.json`, `dialogue.json`, `education.json`
-  - `ethics.json` ⭐, `ideas.json`, `language.json`, `literature.json`
-  - `memory.json` ⭐, `metaphor.json`, `music.json`, `myth.json`
-  - `narrative.json`, `rhetoric.json`, `semiotics.json`, `writing-systems.json`
+### **3-Water** — Human Sciences (3D: Tetrahedron, Complexity) · 27 modules
+- **`/modules/3-water/humanitarian/`** (16):
+  - aesthetics, colors, dialogue, education, ethics ⭐, ideas, language, literature
+  - memory ⭐, metaphor, music, myth, narrative, rhetoric, semiotics, writing-systems
   
-- **`/modules/3-water/humanology/`** [11]:
-  - `human-being.json`, `types.json` (16 archetypes: Jung/MBTI/Socionics)
-  - `aspects/` — 4 information aspects (intuition, logic, ethics, sensorics)
-  - `cognition/` — cognitive processes, dynamics, science
-  - `emotions.json`, `senses.json`, `bodytypes.json`, `roles.json`
-  - `sex.json` ⭐, `strategic-64.json`, `unified-cosmology.json`
+- **`/modules/3-water/humanology/`** (11):
+  - human-being, types, emotions, senses, bodytypes, roles, sex ⭐, strategic-64, unified-cosmology
+  - `aspects/` — intuition, logic, ethics, sensorics (4)
+  - `cognition/` — cognition, cognitive-dynamics, cognitive-science (3)
   
-### **4-Earth** — Applied Layer (4D: Cube, Manifestation) [6 modules]
+### **4-Earth** — Manifestation (4D: Cube, Structure) · 6 modules
 - **`/modules/4-earth/`**
-  - `earth.json` — planetary consciousness
-  - `earth-child-protocol.json` — AI-human interface protocol
-  - `society/sociology.json` — social structures
-  - `technology/computing.json` — computational systems
-  - `technology/design.json` — consciousness interface design
-  - `technology/energy-tech.json` — energy technologies
+  - `earth.json`, `earth-child-protocol.json`
+  - `society/sociology.json`
+  - `technology/` — computing, design, energy-tech
 
-### **Supporting Files**
-- **`/initiatives/`** — integrated applications:
-  - `fractal-myth-kids-development.json`, `healing-earth.json`, `native-vr-interfaces.json`
-- **`/examples/`** — `reduction-examples.jsonl`
-- **`/docs/`** — comprehensive guides (EN + RU)
-- **`/legal/`** — MIT License + Civic Pledge
-- **`/images/`** — visual materials
+### **Other Directories**
+- `/initiatives/` — fractal-myth, healing-earth, native-vr
+- `/examples/` — reduction-examples.jsonl
+- `/docs/` — guides (EN + RU)
+- `/legal/` — MIT + Civic Pledge
 
 ---
 
