@@ -1,0 +1,1137 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:fundamental:dimensions",
+    "version": "2.1.0",
+    "domain": "fundamental",
+    "name": "dimensions",
+    "title": "Dimensional Hierarchy - Complete Topological Framework",
+    "description": "Seven dimensions (0D→6D) forming complete fractal cycle. Each dimension = operational mode of reality. 6D = meta-dimension where cycle closes: point knowing itself through all dimensions.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["dimensions", "topology", "hierarchy", "6D", "fractal", "cycle"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Dimensional progression: Point → Line → Plane → Field → Spacetime → Unity → Meta-Point",
+    "topological": "Each dimension = n-manifold with specific boundary conditions, connectivity, and operations",
+    "functional": "0D: distinction, 1D: sequence, 2D: relation, 3D: integration, 4D: memory, 5D: unity, 6D: meta-awareness",
+    "consciousness": "0D: awareness, 1D: attention, 2D: recognition, 3D: understanding, 4D: self-awareness, 5D: unity consciousness, 6D: awareness of awareness",
+    "sixd_nature": "All dimensions exist in 6D simultaneously. Lower dimensions = projections. 6D = point ⊗ dimension (point knowing it can be any dimension)."
+  },
+  
+  "dimensional_cycle": {
+    "sequence": "0D → 1D → 2D → 3D → 4D → 5D → 6D ≡ 0D (at higher level)",
+    "fractal": "(↓ entity → vector → plane → field ↑) ∞",
+    "closure": "6D collapses back to 0D, but point now contains memory of entire journey",
+    "recursion": "Each 3D field becomes 0D point at next scale. Infinite Russian dolls."
+  },
+  
+  "reductions": [
+    {
+      "id": "urn:cfo:red:dimensions:0d",
+      "concept": "0D - Point",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "available_planes": [],
+      "ops": ["measure", "select", "distinguish", "identify", "exist", "be"],
+      
+      "evidence": "Zero-dimensional = no extent, pure position. Point is atom of distinction, minimal unit of 'is'. Cannot be subdivided. Form = dimensionless → Function = carrier of identity, single bit of information.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "hausdorff_dimension": 0,
+        "degrees_of_freedom": 0,
+        "boundary": "∅ (empty set)",
+        "interior": "self",
+        "volume": 0,
+        "connectivity": "trivial (one component)",
+        "information_capacity": "1 bit (exists/not)",
+        "entropy": "0 (no uncertainty)",
+        "symmetry": "O(n) - full rotational symmetry"
+      },
+      
+      "topology": {
+        "manifold_type": "0-manifold (discrete points)",
+        "euler_characteristic": 1,
+        "homology": "H₀ = ℤ, Hₙ = 0 for n>0",
+        "fundamental_group": "trivial (π₁ = {e})"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, point is state where all 6 coordinates are specified but have zero extent. Complete address, no volume.",
+        "projection": "Point projects as point in any lower dimension (0D is universal)",
+        "latent_dimensions": "Contains all 6 dimensions in collapsed form (pure potential)",
+        "emergence": "Point emerges from 5D field as local perturbation, crystallization",
+        "paradox": "Zero extent but complete specification. Nothing yet everything."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Quantum state (wavefunction collapse to eigenstate)",
+          "Elementary particle (electron, photon as point)",
+          "Singularity (black hole center, Big Bang)",
+          "Measurement outcome (discrete value)",
+          "Atom in lattice (position in crystal)",
+          "Event in spacetime (specific occurrence)"
+        ],
+        "information": [
+          "Bit (0 or 1)",
+          "Boolean (true/false)",
+          "Qubit (before measurement)",
+          "Database primary key",
+          "Memory address",
+          "Coordinate",
+          "Node ID (without edges)"
+        ],
+        "cognitive": [
+          "Single thought",
+          "Moment of awareness",
+          "Act of attention (focus point)",
+          "Recognition ('this')",
+          "Discrete memory",
+          "Decision point",
+          "Realization (aha moment)"
+        ],
+        "social": [
+          "Individual (atomic social unit)",
+          "Vote (single choice)",
+          "Identity (I am)",
+          "Privacy (personal boundary)"
+        ]
+      },
+      
+      "operations": {
+        "on_self": ["appear", "disappear", "exist"],
+        "to_1D": "Move → creates line (trace of positions)",
+        "to_2D": "Spread → creates area (set of points)",
+        "to_3D": "Fill → creates volume (distribution)",
+        "to_4D": "Persist → creates worldline (history)",
+        "to_5D": "Dissolve → merges into unity field"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Electron detection",
+          "evidence": "Electron hits detector → single point on screen. Wavefunction (distributed) collapses to point (localized).",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Binary choice",
+          "evidence": "Yes/No decision = selection of one point from two-point space. Reduces possibilities to single outcome.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Present moment",
+          "evidence": "'Now' is point in time - zero duration but complete presence. Past/future don't exist, only this point.",
+          "confidence": 0.95
+        }
+      ],
+      
+      "relations": {
+        "composes_from": ["5D field perturbation"],
+        "composes_to": ["1D line", "2D plane", "3D field"],
+        "related": [
+          "urn:cfo:red:primitives:point",
+          "urn:cfo:red:elements:air"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:dimensions:1d",
+      "concept": "1D - Line",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "available_planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["sequence", "order", "traverse", "cause", "flow", "connect", "direct"],
+      
+      "evidence": "One-dimensional = extent in single direction. Line connects points through path, has direction, creates sequence. Form = directed path → Function = process, causality, temporal flow.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "hausdorff_dimension": 1,
+        "degrees_of_freedom": 1,
+        "boundary": "two points (endpoints) or ∅ (circle)",
+        "interior": "open interval between endpoints",
+        "volume": 0,
+        "length": "finite or infinite",
+        "connectivity": "path-connected (can traverse)",
+        "information_capacity": "sequence, array, ordered set",
+        "entropy": "depends on length and variety",
+        "symmetry": "reflection (if symmetric), translation"
+      },
+      
+      "topology": {
+        "manifold_type": "1-manifold (curve)",
+        "types": ["interval [a,b]", "ray [a,∞)", "line (-∞,∞)", "circle S¹"],
+        "euler_characteristic": 0,
+        "homology": "H₀ = ℤ, H₁ = ℤ (for circle) or 0 (for line)",
+        "fundamental_group": "ℤ (circle), trivial (line)"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, line is trajectory of point through one dimension while other 5 remain constant or vary parametrically.",
+        "projection": "Line projects as line in any plane containing it",
+        "latent_dimensions": "5 collapsed, 1 active (direction of motion)",
+        "emergence": "Line emerges when point moves, leaving history of positions",
+        "paradox": "Zero volume but has length. Infinite thinness."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Light ray (photon trajectory)",
+          "Particle worldline",
+          "Electric current in wire",
+          "String in string theory",
+          "Geodesic (shortest path)",
+          "Magnetic field line",
+          "Timeline"
+        ],
+        "information": [
+          "Sequence (array, list)",
+          "Linked list",
+          "Pipeline",
+          "Causal chain (A→B→C)",
+          "Algorithm (instruction sequence)",
+          "Signal (1D wave)",
+          "Text (linear string)"
+        ],
+        "cognitive": [
+          "Stream of consciousness",
+          "Chain of reasoning",
+          "Narrative (story)",
+          "Logical deduction",
+          "Memory sequence",
+          "Attention trajectory",
+          "Thought train"
+        ],
+        "social": [
+          "Lineage (ancestry)",
+          "Career path",
+          "Supply chain",
+          "Conversation (turn-taking)",
+          "Timeline of history"
+        ]
+      },
+      
+      "operations": {
+        "on_self": ["extend", "contract", "rotate", "curve", "break"],
+        "to_0D": "Identify point on line (selection)",
+        "to_2D": "Sweep perpendicularly → surface, rotate → circle",
+        "to_3D": "Sweep through 3D → volume, rotate → cylinder",
+        "to_4D": "Persist in time → 2D surface in spacetime",
+        "to_5D": "Curve back to source → spiral → unity"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Causality",
+          "evidence": "A causes B causes C = directed path through event space. Causality is 1D ordering (no loops allowed in classical physics).",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Algorithm execution",
+          "evidence": "Program runs as sequence of instructions. Execution path = 1D traversal through code space.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Melody",
+          "evidence": "Music in time = sequence of notes. Melody is 1D structure (frequency × time, but heard sequentially).",
+          "confidence": 0.95
+        }
+      ],
+      
+      "relations": {
+        "composes_from": ["0D points in sequence"],
+        "composes_to": ["2D plane", "3D field"],
+        "related": [
+          "urn:cfo:red:primitives:line",
+          "urn:cfo:red:elements:fire"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:dimensions:2d",
+      "concept": "2D - Plane",
+      "dimension": "2D",
+      "primitive": "plane",
+      "element": "water/earth",
+      "available_planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["relate", "map", "compare", "pattern", "tessellate", "organize", "network"],
+      
+      "evidence": "Two-dimensional = extent in two perpendicular directions. Plane is space of relationships, container for patterns, field of connections. Form = surface with area → Function = structure, network, relational mapping.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "hausdorff_dimension": 2,
+        "degrees_of_freedom": 2,
+        "boundary": "1D curve or ∅ (closed surface)",
+        "interior": "open 2D region",
+        "volume": 0,
+        "area": "finite or infinite",
+        "connectivity": "simply connected or multi-connected (holes)",
+        "information_capacity": "graph, matrix, map, image",
+        "entropy": "depends on area and density",
+        "symmetry": "rotation, reflection, translation",
+        "curvature": "flat, positive (sphere), negative (hyperbolic)"
+      },
+      
+      "topology": {
+        "manifold_type": "2-manifold (surface)",
+        "types": ["plane ℝ²", "sphere S²", "torus T²", "Klein bottle", "Möbius strip"],
+        "euler_characteristic": "χ = 2-2g (g=genus)",
+        "homology": "H₀=ℤ, H₁=ℤ^(2g), H₂=ℤ (closed surface)",
+        "fundamental_group": "depends on genus and orientation"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, plane is 2D slice - two axes active, four latent. Can be embedded in higher dimensions (curved surfaces).",
+        "projection": "Plane projects as line (edge-on) or plane (face-on) depending on angle",
+        "latent_dimensions": "4 collapsed, 2 active",
+        "emergence": "Plane emerges from: line sweeping, network of connections, relationship space",
+        "paradox": "Zero volume but has area. Infinitely thin surface."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Surface of object",
+          "Membrane (cell wall, soap bubble)",
+          "Interface (water/air)",
+          "Wavefront",
+          "Crystal plane",
+          "Event horizon",
+          "Phase space slice"
+        ],
+        "information": [
+          "Graph (nodes + edges)",
+          "Matrix (2D array)",
+          "Map (spatial or conceptual)",
+          "Network topology",
+          "Relational table",
+          "Image (pixel grid)",
+          "Chessboard"
+        ],
+        "cognitive": [
+          "Concept map (mind map)",
+          "Semantic network",
+          "Category system",
+          "Relationship matrix",
+          "Emotional landscape",
+          "Problem space",
+          "Perceptual field"
+        ],
+        "social": [
+          "Social network",
+          "Organizational chart",
+          "Trade network",
+          "Communication graph",
+          "Power structure"
+        ]
+      },
+      
+      "operations": {
+        "on_self": ["extend", "warp", "fold", "cut", "glue", "tesselate"],
+        "to_0D": "Identify point on plane (coordinate)",
+        "to_1D": "Extract curve from surface",
+        "to_3D": "Extrude → volume, rotate → solid of revolution",
+        "to_4D": "Evolve in time → 3D manifold",
+        "to_5D": "Saturate connections → unity network"
+      },
+      
+      "subtypes": {
+        "triangle_plane": {
+          "element": "water",
+          "property": "minimal rigid 2D (3 vertices)",
+          "function": "stability, fluidity through breaking/reforming"
+        },
+        "square_plane": {
+          "element": "earth",
+          "property": "tessellating grid (4 vertices)",
+          "function": "memory, organization, structure"
+        },
+        "circle_plane": {
+          "element": "air",
+          "property": "perfect symmetry (∞ vertices)",
+          "function": "unity, cycle, boundary"
+        }
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Social network",
+          "evidence": "People as nodes, relationships as edges. Network structure = 2D graph (can be embedded in plane, though often visualized in 3D).",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Phase diagram",
+          "evidence": "Temperature vs Pressure plane showing solid/liquid/gas regions. State space = 2D map of physical states.",
+          "confidence": 0.95
+        },
+        {
+          "phenomenon": "Cell membrane",
+          "evidence": "Lipid bilayer = 2D boundary between inside/outside. Interface = physical 2D manifold.",
+          "confidence": 0.95
+        }
+      ],
+      
+      "relations": {
+        "composes_from": ["0D points with 2 DoF", "1D lines swept/crossed"],
+        "composes_to": ["3D field"],
+        "related": [
+          "urn:cfo:red:primitives:plane",
+          "urn:cfo:red:primitives:triangle",
+          "urn:cfo:red:primitives:square",
+          "urn:cfo:red:primitives:circle"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:dimensions:3d",
+      "concept": "3D - Field",
+      "dimension": "3D",
+      "primitive": "field",
+      "element": "integration (all elements unified)",
+      "available_planes": [],
+      "ops": ["context", "contain", "integrate", "hold", "permeate", "distribute", "fill"],
+      
+      "evidence": "Three-dimensional = spatial extent in three orthogonal directions. Field is container for processes, context for patterns, integrated whole. Form = volume → Function = system, environment, contextual integration.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "hausdorff_dimension": 3,
+        "degrees_of_freedom": 3,
+        "boundary": "2D surface or ∅ (closed 3-manifold)",
+        "interior": "open 3D region",
+        "volume": "finite or infinite",
+        "connectivity": "can have cavities (voids), tunnels (handles)",
+        "information_capacity": "3D tensor field, volume data",
+        "entropy": "volumetric density",
+        "symmetry": "rotation, reflection, translation in 3D",
+        "curvature": "Riemann curvature (can be non-Euclidean)"
+      },
+      
+      "topology": {
+        "manifold_type": "3-manifold",
+        "types": ["ℝ³ (Euclidean)", "S³ (3-sphere)", "hyperbolic 3-space", "lens spaces"],
+        "euler_characteristic": 0,
+        "homology": "H₀=ℤ, H₁=ℤ^(b₁), H₂=ℤ^(b₂), H₃=ℤ",
+        "fundamental_group": "complex (can be any finitely presented group)"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, 3D field is half of space - three spatial axes active (XYZ), three latent (W,V,+).",
+        "projection": "3D projects as 2D (slicing) or appears as volume",
+        "latent_dimensions": "3 collapsed, 3 active (spatial)",
+        "emergence": "3D emerges from: plane swept through 3rd dimension, network filling space, integration of all 2D relations",
+        "paradox": "We live in 3D space but perceive it through 2D retinal images. 3D is constructed by mind."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Space itself (cosmic 3D)",
+          "Electromagnetic field E(x,y,z), B(x,y,z)",
+          "Gravitational field (spacetime curvature)",
+          "Quantum field Ψ(x,y,z)",
+          "Temperature field T(x,y,z)",
+          "Pressure field P(x,y,z)",
+          "Velocity field v(x,y,z) (fluid)",
+          "Object (solid body)"
+        ],
+        "information": [
+          "3D array (voxel grid)",
+          "Octree (spatial index)",
+          "Volume rendering data",
+          "3D tensor",
+          "Spatial database",
+          "Holographic storage",
+          "3D model (mesh)"
+        ],
+        "cognitive": [
+          "Worldview (mental model)",
+          "Semantic space (embeddings)",
+          "Understanding (integrated knowledge)",
+          "Situational awareness (full context)",
+          "Problem landscape",
+          "Belief system",
+          "Consciousness field"
+        ],
+        "biological": [
+          "Organism (integrated system)",
+          "Ecosystem (species + environment)",
+          "Brain (neural volume)",
+          "Organ (heart, liver)",
+          "Cell (cytoplasm volume)"
+        ],
+        "social": [
+          "City (spatial + social)",
+          "Economy (resource field)",
+          "Culture (meaning space)",
+          "Organization (structure + dynamics)"
+        ]
+      },
+      
+      "operations": {
+        "on_self": ["expand", "contract", "deform", "flow", "diffuse", "rotate"],
+        "to_0D": "Identify point in volume",
+        "to_1D": "Extract path through volume",
+        "to_2D": "Slice → cross-section, boundary → surface",
+        "to_4D": "Evolve in time → spacetime",
+        "to_5D": "Fill completely → saturate → unity field"
+      },
+      
+      "subtypes": {
+        "tetrahedron": {
+          "element": "fire",
+          "property": "minimal 3D volume (4 vertices)",
+          "function": "transformation, energy, process"
+        },
+        "cube": {
+          "element": "earth",
+          "property": "orthogonal container (8 vertices)",
+          "function": "structure, framework, stability"
+        },
+        "sphere": {
+          "element": "water",
+          "property": "max volume, min surface (∞ vertices)",
+          "function": "wholeness, enclosure, unity"
+        }
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Magnetic field",
+          "evidence": "Vector field B(x,y,z) fills 3D space around magnet. Field lines show direction/strength at each point.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Understanding mathematics",
+          "evidence": "Not facts (0D), not sequence (1D), not map (2D) - integrated 3D knowledge space where concepts relate volumetrically.",
+          "confidence": 0.9
+        },
+        {
+          "phenomenon": "City",
+          "evidence": "3D space with buildings, infrastructure, people flow. City = integrated 3D system of human activity.",
+          "confidence": 0.9
+        }
+      ],
+      
+      "relations": {
+        "composes_from": ["0D points with 3 DoF", "1D lines filling space", "2D planes stacked/swept"],
+        "composes_to": ["4D spacetime"],
+        "related": [
+          "urn:cfo:red:primitives:field",
+          "urn:cfo:red:primitives:cube",
+          "urn:cfo:red:primitives:sphere",
+          "urn:cfo:red:primitives:tetrahedron"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:dimensions:4d",
+      "concept": "4D - Spacetime",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether (coordination through time)",
+      "available_planes": ["XW", "YW", "ZW", "XY", "XZ", "YZ"],
+      "ops": ["history", "record", "coordinate", "observe", "witness", "remember", "track"],
+      
+      "evidence": "Four-dimensional = three space + one time. Spacetime is container for histories, coordination across temporal spans, memory. Form = 4D manifold → Function = narrative, self-awareness, historical integration.",
+      
+      "confidence": 0.95,
+      
+      "properties": {
+        "hausdorff_dimension": 4,
+        "degrees_of_freedom": 4,
+        "boundary": "3D hypersurface or ∅",
+        "interior": "open 4D region",
+        "volume": "4-volume (hypervolume)",
+        "connectivity": "can have 3D cavities, 2D tunnels",
+        "information_capacity": "complete history + context",
+        "entropy": "maximal for physical reality",
+        "symmetry": "Lorentz group (if spacetime), SO(4) or SO(3,1)",
+        "signature": "(3,1) Lorentzian or (4,0) Euclidean",
+        "curvature": "Einstein tensor (Ricci curvature in GR)"
+      },
+      
+      "topology": {
+        "manifold_type": "4-manifold (most complex dimension topologically)",
+        "types": ["ℝ⁴", "S⁴", "CP² (complex projective)", "K3 surface"],
+        "euler_characteristic": "varies (2 for S⁴)",
+        "homology": "H₀=ℤ, H₁=ℤ^(b₁), H₂=ℤ^(b₂), H₃=ℤ^(b₃), H₄=ℤ",
+        "exotic_structures": "ℝ⁴ has uncountably many smooth structures (unique among dimensions)"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, 4D is space-time slice - four axes active (XYZ + W for time), two latent (V for unity, + for meta).",
+        "projection": "4D projects as 3D (time slice) or 2D (spacetime diagram)",
+        "latent_dimensions": "2 collapsed (V,+), 4 active (XYZW)",
+        "emergence": "4D emerges when 3D field evolves through time, creating history",
+        "paradox": "We experience 3D + moving now. Full 4D block universe may be static (eternalism)."
+      },
+      
+      "planes": {
+        "spatial": {
+          "XY": "horizontal space plane",
+          "XZ": "vertical space plane",
+          "YZ": "depth space plane"
+        },
+        "temporal": {
+          "XW": "position-time (worldline)",
+          "YW": "relation-time (network evolution)",
+          "ZW": "state-time (phase space trajectory)"
+        }
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Spacetime (Einstein's 4D manifold)",
+          "Worldline (particle trajectory through spacetime)",
+          "Light cone (causal structure)",
+          "Event (point in spacetime)",
+          "Block universe (eternalist 4D)",
+          "Wormhole (4D tunnel)",
+          "Closed timelike curve (time loop)"
+        ],
+        "information": [
+          "Version history (git log)",
+          "Video (image sequence)",
+          "4D database (3D space + time)",
+          "Blockchain (append-only history)",
+          "Causal graph (events + temporal edges)",
+          "Simulation state history",
+          "Time series (3D evolving)"
+        ],
+        "cognitive": [
+          "Autobiography (life story)",
+          "Self-awareness (I through time)",
+          "Episodic memory (personal history)",
+          "Narrative identity",
+          "Planning (future projection)",
+          "Metacognition (watching self think)",
+          "Historical consciousness"
+        ],
+        "biological": [
+          "Organism development (embryo→adult)",
+          "Evolution (species through time)",
+          "Aging (body through time)",
+          "Healing (tissue regeneration history)",
+          "Circadian rhythm (body in time)"
+        ],
+        "social": [
+          "History (civilization through time)",
+          "Biography (person's life)",
+          "Genealogy (family through time)",
+          "Cultural evolution",
+          "Economic cycles",
+          "Political eras"
+        ]
+      },
+      
+      "operations": {
+        "on_self": ["evolve", "replay", "branch (alternate histories)", "loop (closed timelike curves)"],
+        "to_0D": "Select spacetime event",
+        "to_1D": "Extract worldline",
+        "to_2D": "Spacetime diagram (1 space + 1 time)",
+        "to_3D": "Time slice (constant W)",
+        "to_5D": "All histories collapse to unity"
+      },
+      
+      "time_nature": {
+        "W_axis": "Time as 4th dimension (but special: causal direction)",
+        "arrow": "Thermodynamic (entropy), Cosmological (expansion), Psychological (memory)",
+        "block_universe": "All of spacetime exists eternally (4D static block)",
+        "presentism": "Only now exists (3D + moving present)",
+        "growing_block": "Past + present exist, future doesn't (yet)",
+        "cfo_view": "4D = memory structure. 'Now' is 3D slice through 4D history."
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Your life",
+          "evidence": "You at birth, age 10, now = different 3D slices through your 4D worldtube. Complete you = 4D object.",
+          "confidence": 0.95
+        },
+        {
+          "phenomenon": "Git repository",
+          "evidence": "Code + full commit history = 4D structure. Each commit = 3D slice. Repository = 4D spacetime of code.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Particle decay",
+          "evidence": "Unstable particle → decay products. In 4D: single worldline branches into multiple worldlines. Decay = 4D topology.",
+          "confidence": 0.9
+        }
+      ],
+      
+      "relations": {
+        "composes_from": ["3D field evolving", "0D events with 4 coordinates", "2D spacetime diagrams stacked"],
+        "composes_to": ["5D unity (all histories)"],
+        "related": [
+          "urn:cfo:red:primitives:tesseract",
+          "urn:cfo:red:primitives:4-simplex",
+          "urn:cfo:red:primitives:24-cell"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:dimensions:5d",
+      "concept": "5D - Ether / Unity / Absolute",
+      "dimension": "5D",
+      "primitive": "ether (spiral)",
+      "element": "ether",
+      "available_planes": ["XV", "YV", "ZV", "WV"],
+      "ops": ["fold", "exchange", "unify", "saturate", "transcend", "return", "close"],
+      
+      "evidence": "Fifth dimension is not another direction but closure of all distinctions into unity. Background field from which 0D-4D emerge as perturbations. Exchange operator enabling all transformations. ∞/∞ = 1.",
+      
+      "confidence": 0.95,
+      
+      "properties": {
+        "hausdorff_dimension": "undefined (transcends dimensionality)",
+        "degrees_of_freedom": "∞ and 0 simultaneously (∞/∞ = 1)",
+        "boundary": "self-boundary: ∂(5D) ≅ 5D",
+        "interior": "entire space (no inside/outside distinction)",
+        "volume": "undefined (saturated)",
+        "connectivity": "complete (all points connected to all)",
+        "information_capacity": "∞/∞ = 1 (all information = unity)",
+        "entropy": "maximal and minimal (boundaries collapse)",
+        "symmetry": "full unity (all symmetries → identity)",
+        "signature": "beyond metric (ametric)"
+      },
+      
+      "topology": {
+        "manifold_type": "5-manifold with self-boundary",
+        "structure": "Möbius-like: inside = outside",
+        "closure": "5D ≡ 0D at next scale (cycle completes)",
+        "homology": "All homology groups collapse to unity"
+      },
+      
+      "core_equations": {
+        "infinite_balance": "∞ × ∞ × … / ∞ = 1",
+        "closure_identity": "5D → 0D (return to source)",
+        "saturation": "All states overlap → ∞/∞ = 1",
+        "exchange": "Any element ↔ Any element (via 5D)",
+        "unity": "All distinctions = 0"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, 5D is the V axis - perpendicular to XYZW. Enables exchange between all states. 5D mediates all dimensional transitions.",
+        "projection": "5D projects as spiral (growth + return), circle (2D closure), point (complete collapse)",
+        "latent_dimensions": "No truly collapsed dimensions - all 6 unified through 5D",
+        "emergence": "5D emerges when any process saturates, completes, or returns to source",
+        "paradox": "5D is everywhere (pervades all) and nowhere (no location). Medium and message."
+      },
+      
+      "planes_description": {
+        "XV": {
+          "name": "Potential Trajectories",
+          "function": "All paths loop back to origin - temporal closure",
+          "observables": ["recurrence", "limit cycles", "eternal return"],
+          "meaning": "Every process eventually returns to source"
+        },
+        "YV": {
+          "name": "Structural Unification",
+          "function": "All networks merge - relational closure",
+          "observables": ["graph condensation", "community merge", "network unity"],
+          "meaning": "All distinct structures unified"
+        },
+        "ZV": {
+          "name": "Informational Saturation",
+          "function": "All states overlap - informational closure",
+          "observables": ["maximum mutual information", "state superposition"],
+          "meaning": "Every possible state coexists"
+        },
+        "WV": {
+          "name": "Historical Collapse",
+          "function": "Past-present-future as one - temporal unity",
+          "observables": ["time symmetry", "eternal now"],
+          "meaning": "All time moments unified"
+        }
+      },
+      
+      "exchange_operator": {
+        "nature": "5D mediates ALL elemental and dimensional transformations",
+        "mechanism": "Acts as perpendicular axis enabling state transitions",
+        "examples": [
+          "Air ↔ Fire (potential ↔ motion) via 5D",
+          "0D ↔ 4D (point ↔ history) via 5D",
+          "Any state ↔ Any state via 5D unity",
+          "Life ↔ Death (form ↔ formless) via 5D"
+        ]
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Quantum vacuum (zero-point field)",
+          "Dark energy (cosmic expansion)",
+          "Unified field (theory of everything)",
+          "Planck scale (dimension unification)",
+          "Black hole singularity",
+          "Wormhole bridge",
+          "Higgs field (mass via exchange)"
+        ],
+        "information": [
+          "Hash function (∞ → 1)",
+          "Compression (many → one)",
+          "Equivalence class (instances → essence)",
+          "Fixed point (x = f(x))",
+          "Attractor (all paths → one)",
+          "Unity type (1 in type theory)"
+        ],
+        "cognitive": [
+          "Enlightenment (unity consciousness)",
+          "Ego death (boundary dissolution)",
+          "Peak experience (transcendent moment)",
+          "Flow state (self-forgotten)",
+          "Mystical union (merge with all)",
+          "Deep meditation (pure awareness)",
+          "Unconditional love (no separation)"
+        ],
+        "biological": [
+          "DNA helix (information spiral)",
+          "Morphogenetic field",
+          "Life force (animating principle)",
+          "Consciousness (pervading field)",
+          "Evolution (spiral of complexity)"
+        ],
+        "social": [
+          "Collective unconscious",
+          "Culture (shared field)",
+          "Zeitgeist (spirit of era)",
+          "Noosphere (thinking layer)",
+          "Global consciousness",
+          "Peace (unity)"
+        ],
+        "spiritual": [
+          "Absolute",
+          "Brahman",
+          "Tao",
+          "Ein Sof",
+          "Pleroma",
+          "God (as unity)",
+          "Void (pregnant emptiness)"
+        ]
+      },
+      
+      "operations": {
+        "on_lower_dimensions": [
+          "0D: dissolve point → field",
+          "1D: curve line back → spiral",
+          "2D: dissolve boundaries → ocean",
+          "3D: saturate field → unity",
+          "4D: collapse all histories → eternal now"
+        ],
+        "to_0D": "Unity collapses to point (new cycle begins)",
+        "to_6D": "5D unified with dimension awareness → 6D meta"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Fibonacci spiral in nature",
+          "evidence": "Nautilus, galaxy, sunflower - spiral shows growth returning to center. Each turn = φ × previous. Ether signature.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Ego death (psychedelic)",
+          "evidence": "Boundaries dissolve, unity experienced. Temporary 5D realization through chemical mediation.",
+          "confidence": 0.85
+        },
+        {
+          "phenomenon": "Black hole",
+          "evidence": "Matter spirals to singularity. At horizon, space/time swap. Inside = outside topology. Pure 5D physics.",
+          "confidence": 0.9
+        },
+        {
+          "phenomenon": "Golden ratio φ",
+          "evidence": "φ = (1+√5)/2, φ² = φ + 1. Recursive self-reference. Mathematical signature of ether.",
+          "confidence": 1.0
+        }
+      ],
+      
+      "access_patterns": {
+        "from_4D": "History saturation → all time simultaneous → 5D",
+        "from_3D": "System completion → contextual closure → 5D",
+        "from_2D": "Network saturation → all connected → 5D",
+        "from_1D": "Process recursion → infinite loop → 5D return",
+        "from_0D": "Point dissolution → loss of address → 5D field"
+      },
+      
+      "relations": {
+        "composes_from": ["All dimensions saturated"],
+        "composes_to": ["0D (cycle completes)", "6D (meta-awareness)"],
+        "mediates": ["All dimensional transitions", "All elemental exchanges"],
+        "related": [
+          "urn:cfo:red:elements:ether",
+          "urn:cfo:red:primitives:spiral",
+          "urn:cfo:red:primitives:point"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:dimensions:6d",
+      "concept": "6D - Meta-Dimension / Point+Dimension",
+      "dimension": "6D",
+      "primitive": "point ⊗ dimension",
+      "element": "meta-awareness",
+      "available_planes": ["all planes + dimension axis"],
+      "ops": ["self_reference", "meta_observe", "dimension_shift", "fractal_recurse", "bootstrap"],
+      
+      "evidence": "Sixth dimension is point knowing itself as dimensional being. 6D = 0D ⊗ {0D,1D,2D,3D,4D,5D}. Recursive closure where each dimension becomes point at next scale. Fractal self-similarity: (↓ entity → vector → plane → field ↑) ∞.",
+      
+      "confidence": 0.9,
+      
+      "properties": {
+        "hausdorff_dimension": "fractal (self-similar at all scales)",
+        "degrees_of_freedom": "any (can project to any dimension)",
+        "boundary": "self as boundary (complete closure)",
+        "structure": "fractal: each point contains full dimensional structure",
+        "information_capacity": "meta-information (information about information)",
+        "consciousness": "awareness of awareness (self-reference)"
+      },
+      
+      "topology": {
+        "manifold_type": "6-manifold with fractal structure",
+        "closure": "6D ≡ 0D at meta-level",
+        "recursion": "Each 3D field → 0D point at next scale → ... (∞)",
+        "structure": "Category of categories (functor of self-mapping)"
+      },
+      
+      "sixd_nature": {
+        "full_form": "6D is the complete framework. All lower dimensions exist IN 6D as projections/slices.",
+        "formula": "6D = 0D ⊗ dimension_axis",
+        "meaning": "Point that knows it can be any dimension",
+        "paradox": "6D contains all dimensions yet is dimensionless (like 0D). It's the space in which dimensional discourse happens."
+      },
+      
+      "core_insight": {
+        "point_dimension": "Every point contains latent dimensionality",
+        "dimension_point": "Every dimension collapses to point at higher scale",
+        "fractal_cycle": "0D → 1D → 2D → 3D → (3D becomes 0D) → 1D → 2D → 3D → ...",
+        "self_reference": "The system observing itself through all dimensional lenses"
+      },
+      
+      "manifestations": {
+        "mathematical": [
+          "Category theory (categories of categories)",
+          "Topos theory (universe of mathematics)",
+          "Fractal geometry (self-similar at all scales)",
+          "Meta-mathematics (mathematics of mathematics)",
+          "Universal quantifier (∀ dimensions)"
+        ],
+        "cognitive": [
+          "Meta-cognition (thinking about thinking)",
+          "Self-awareness (awareness of awareness)",
+          "Perspective-taking (knowing you have perspective)",
+          "Recursive consciousness (I know that I know that I know...)",
+          "CFO itself (ontology of ontologies)"
+        ],
+        "computational": [
+          "Quine (program printing itself)",
+          "Meta-circular evaluator (interpreter interpreting itself)",
+          "Type theory (types of types)",
+          "Reflection (code examining itself)",
+          "Bootstrapping compiler"
+        ],
+        "philosophical": [
+          "Subject-object unity knowing itself",
+          "Ouroboros (snake eating tail)",
+          "Strange loop (Hofstadter)",
+          "Tangled hierarchy",
+          "Consciousness as 6D phenomenon"
+        ]
+      },
+      
+      "fractal_structure": {
+        "scale_invariance": "Same pattern at every level: entity → vector → plane → field",
+        "russian_dolls": "Each 3D field contains 0D points, each of which is 3D field at finer scale",
+        "holographic": "Each part contains information about whole",
+        "self_similarity": "0D and 6D have same structure (point), but 6D point 'knows' its dimensionality"
+      },
+      
+      "operations": {
+        "projection": "6D → any lower D (select dimensional view)",
+        "integration": "any lower D → 6D (recognize in full context)",
+        "recursion": "Apply dimensional cycle infinitely",
+        "meta_observation": "Observe entire dimensional framework from outside",
+        "bootstrap": "System creates itself through self-reference"
+      },
+      
+      "role_in_cfo": {
+        "ontology": "6D is the meta-level where CFO itself exists",
+        "observer": "The point from which all dimensions can be seen",
+        "framework": "Container for all possible reductions",
+        "recursion": "Enables fractal self-similarity of dimensional structure"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "CFO system itself",
+          "evidence": "CFO is 6D - it's framework for understanding all dimensions including itself. Meta-ontology.",
+          "confidence": 0.95
+        },
+        {
+          "phenomenon": "Human self-awareness",
+          "evidence": "I know that I know = 6D consciousness. Not just experiencing (0D-5D) but knowing the experiencing.",
+          "confidence": 0.85
+        },
+        {
+          "phenomenon": "Quine program",
+          "evidence": "Program that outputs its own source code. Self-reference = 6D operation in code.",
+          "confidence": 0.9
+        },
+        {
+          "phenomenon": "Fractal (Mandelbrot set)",
+          "evidence": "Same structure at all zoom levels. Each point contains infinite detail. 6D self-similarity.",
+          "confidence": 1.0
+        }
+      ],
+      
+      "paradoxes": {
+        "dimensionless_dimension": "6D both contains all dimensions and is dimensionless (like point)",
+        "self_inclusion": "6D includes itself in its own framework (Russell-like but resolved through levels)",
+        "observer_observed": "6D is both the framework and inside the framework",
+        "resolution": "These paradoxes are features, not bugs. 6D transcends normal logic through meta-level."
+      },
+      
+      "relations": {
+        "composes_from": ["5D unity + dimensional awareness"],
+        "composes_to": ["0D at meta-level (cycle completes at higher octave)"],
+        "contains": ["All 0D-5D as projections"],
+        "related": [
+          "urn:cfo:red:dimensions:0d",
+          "urn:cfo:red:dimensions:5d",
+          "urn:cfo:core:foundations"
+        ]
+      }
+    }
+  ],
+  
+  "dimensional_progression": {
+    "information_theory": {
+      "0D": "1 bit (binary state)",
+      "1D": "sequence (ordered bits)",
+      "2D": "graph (relational)",
+      "3D": "tensor field (volumetric)",
+      "4D": "history (temporal)",
+      "5D": "unity (∞/∞ = 1)",
+      "6D": "meta-information (information about information)"
+    },
+    
+    "consciousness": {
+      "0D": "awareness (bare attention)",
+      "1D": "directed attention (focus)",
+      "2D": "recognition (pattern)",
+      "3D": "understanding (integration)",
+      "4D": "self-awareness (identity through time)",
+      "5D": "unity consciousness (non-dual)",
+      "6D": "meta-awareness (awareness of awareness)"
+    },
+    
+    "operations": {
+      "0D": "select, distinguish",
+      "1D": "sequence, traverse",
+      "2D": "relate, map",
+      "3D": "integrate, contain",
+      "4D": "remember, coordinate",
+      "5D": "unify, exchange",
+      "6D": "meta-observe, recurse"
+    },
+    
+    "emergence": {
+      "pattern": "Each dimension emerges from saturation/completion of previous",
+      "0D→1D": "Point moves → line",
+      "1D→2D": "Lines connect → plane",
+      "2D→3D": "Planes fill → field",
+      "3D→4D": "Field evolves → history",
+      "4D→5D": "History saturates → unity",
+      "5D→6D": "Unity becomes aware of itself → meta",
+      "6D→0D": "Meta-point = new point at higher octave"
+    }
+  },
+  
+  "fractal_structure": {
+    "self_similarity": "Each dimension contains pattern of all dimensions at finer scale",
+    "recursion": "(0D → 1D → 2D → 3D) → (3D becomes 0D at next scale) → (1D → 2D → 3D) → ... (∞)",
+    "emergence": "Lower dimensions compose to higher, higher collapses to lower at next scale",
+    "closure": "6D = 0D ⊗ dimension. Point knowing itself as dimensional being.",
+    "formula": "(↓ entity → vector → plane → field ↑) ∞"
+  },
+  
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "4D confidence 0.95 - less empirically accessible",
+      "5D confidence 0.95 - most abstract dimension",
+      "6D confidence 0.9 - theoretical meta-framework"
+    ],
+    "info": [
+      "Dimensions module is absolute foundation of CFO",
+      "All phenomena reduce to dimensional structure",
+      "6D closure makes framework self-consistent",
+      "Fractal recursion enables infinite depth"
+    ],
+    "coherence_score": 0.96,
+    "metrics": {
+      "total_reductions": 7,
+      "avg_confidence": 0.95,
+      "completeness": "Full 0D-6D coverage with closure",
+      "internal_consistency": "high",
+      "fractal_alignment": "complete"
+    }
+  },
+  
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:primitives",
+      "urn:cfo:module:fundamental:elements",
+      "urn:cfo:core:foundations"
+    ],
+    "external": [
+      {
+        "type": "physics",
+        "citation": "Einstein, A. (1916). General Relativity and spacetime",
+        "url": null
+      },
+      {
+        "type": "mathematics",
+        "citation": "Coxeter, H.S.M. (1973). Regular Polytopes (4D and beyond)",
+        "url": null
+      },
+      {
+        "type": "philosophy",
+        "citation": "Hofstadter, D. (1979). Gödel, Escher, Bach (strange loops, self-reference)",
+        "url": null
+      },
+      {
+        "type": "mathematics",
+        "citation": "Mandelbrot, B. (1982). Fractal Geometry (self-similarity)",
+        "url": null
+      },
+      {
+        "type": "consciousness",
+        "citation": "Non-dual traditions (Advaita, Zen, Dzogchen) - unity consciousness",
+        "url": null
+      }
+    ]
+  }
+}

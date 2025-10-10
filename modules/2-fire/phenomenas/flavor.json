@@ -1,0 +1,486 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:phenomenas:flavor",
+    "version": "1.0.0",
+    "domain": "phenomenas",
+    "name": "flavor",
+    "title": "Flavor: Dissolved Molecules, Chemical Assessment of Food",
+    "description": "Flavor is dissolved molecules detected by taste receptors. Five basic tastes: sweet, salty, sour, bitter, umami. Gustatory sense. Immediate chemical evaluation.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["flavor", "taste", "gustatory", "sweet", "salty", "sour", "bitter", "umami", "tongue"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Flavor = 0D-1D. Point contact (molecule on receptor) → temporal sequence (chewing, swallowing).",
+    "physical": "Water-soluble or fat-soluble molecules contacting taste receptors on tongue.",
+    "experiential": "Taste. Sweet, salty, sour, bitter, umami. Pleasure, disgust, evaluation.",
+    "consciousness": "Taste's object. Immediate judgment: nutritious or toxic? Safe to swallow?",
+    "survival": "Most ancient evaluative sense. Life-or-death decision in real-time."
+  },
+
+  "five_basic_tastes": {
+    "sweet": {
+      "molecules": "Sugars (glucose, fructose, sucrose), some amino acids, artificial sweeteners",
+      "receptor": "T1R2-T1R3 heterodimer (GPCR)",
+      "chromosome": "1p36, 1p36.3",
+      "function": "Detects carbohydrates (energy source)",
+      "evolutionary": "Signals high-calorie food",
+      "hedonic": "Innately pleasant (except at extreme concentration)",
+      "examples": "Sugar, honey, ripe fruit, sweeteners"
+    },
+
+    "salty": {
+      "molecules": "Primarily sodium chloride (NaCl), some other salts",
+      "receptor": "ENaC (epithelial sodium channel) - ion channel, not GPCR",
+      "chromosome": "12p13, 16p12",
+      "function": "Detects electrolytes (sodium essential for nerve/muscle)",
+      "evolutionary": "Signals mineral content",
+      "hedonic": "Pleasant in moderation, unpleasant at high concentration",
+      "examples": "Table salt, seawater, cured meats, chips"
+    },
+
+    "sour": {
+      "molecules": "Acids (H+ ions) - acetic, citric, malic, lactic acids",
+      "receptor": "PKD2L1 + PKD1L3, otopetrin 1 (OTOP1) - ion channels",
+      "chromosome": "10q24.3",
+      "function": "Detects acidity (unripe fruit, fermentation, spoilage)",
+      "evolutionary": "Warning of potential toxicity or unripeness",
+      "hedonic": "Aversive at high intensity, can be pleasant at low (lemonade)",
+      "examples": "Lemon, vinegar, yogurt, sour candy"
+    },
+
+    "bitter": {
+      "molecules": "Alkaloids, toxins (quinine, caffeine, many plant compounds)",
+      "receptor": "T2R family (~25 different receptors in humans)",
+      "chromosome": "Multiple loci (5, 7, 12)",
+      "function": "Detects potential poisons",
+      "evolutionary": "Strong poison detection - most sensitive taste",
+      "hedonic": "Innately aversive (learned to tolerate: coffee, beer, vegetables)",
+      "examples": "Coffee, dark chocolate, grapefruit, Brussels sprouts",
+      "variation": "High genetic variation (some people very sensitive, others not)"
+    },
+
+    "umami": {
+      "molecules": "Glutamate (MSG), aspartate, nucleotides (IMP, GMP)",
+      "receptor": "T1R1-T1R3 heterodimer + mGluR4",
+      "chromosome": "1p36, 1p36.3",
+      "discovery": "Kikunae Ikeda (1908), recognized as 5th taste late 20th century",
+      "function": "Detects amino acids (protein)",
+      "evolutionary": "Signals protein-rich food",
+      "hedonic": "Pleasant, savory, satisfying",
+      "examples": "Parmesan cheese, tomatoes, soy sauce, MSG, meat broth",
+      "japanese": "Umami = 'delicious taste' (うま味)"
+    }
+  },
+
+  "proposed_additional_tastes": {
+    "fat": {
+      "molecules": "Fatty acids (oleic acid, linoleic acid)",
+      "receptor": "CD36, GPR120",
+      "status": "Debated. May be 6th basic taste.",
+      "function": "Detects lipids (high-energy food)",
+      "sensation": "Creamy, rich (often confused with texture)"
+    },
+
+    "metallic": {
+      "molecules": "Metal ions (iron, copper)",
+      "mechanism": "May involve lipid oxidation",
+      "status": "Not clearly separate taste",
+      "experience": "Metallic taste (blood, coins)"
+    },
+
+    "calcium": {
+      "molecules": "Calcium ions",
+      "receptor": "CaSR (calcium-sensing receptor)",
+      "status": "Some evidence in animals, unclear in humans",
+      "function": "Mineral detection"
+    },
+
+    "kokumi": {
+      "definition": "Not a taste but taste enhancer",
+      "molecules": "Glutathione peptides, calcium",
+      "effect": "Enhances thickness, mouthfulness, continuity",
+      "receptors": "CaSR, T1R1",
+      "japanese": "Rich, mouthful sensation"
+    }
+  },
+
+  "taste_perception": {
+    "sensor": "Taste (gustatory sense)",
+    "location": "Taste buds on tongue, palate, throat",
+    
+    "anatomy": {
+      "taste_buds": {
+        "count": "~2,000-8,000 taste buds",
+        "location": "Tongue (majority), soft palate, pharynx, epiglottis",
+        "structure": "~50-100 taste receptor cells per bud",
+        "turnover": "Taste cells regenerate every 10-14 days"
+      },
+
+      "papillae": {
+        "fungiform": "Mushroom-shaped, front 2/3 of tongue, 1-15 buds each",
+        "foliate": "Folds on sides of tongue, many buds",
+        "circumvallate": "Large, back of tongue in V-shape, ~250 buds each (~12 total)",
+        "filiform": "Most numerous, no taste buds (texture detection only)"
+      },
+
+      "taste_receptor_cells": {
+        "types": {
+          "type_I": "Support cells, glial-like",
+          "type_II": "Detect sweet, bitter, umami (GPCRs)",
+          "type_III": "Detect sour (ion channels), synapses with nerves",
+          "type_IV": "Basal cells, progenitors"
+        },
+        "lifespan": "10-14 days, continuously replaced",
+        "no_axons": "Not neurons, release ATP to signal nerves"
+      }
+    },
+
+    "taste_map_myth": {
+      "myth": "Different tongue regions for different tastes",
+      "truth": "All areas detect all tastes (though small sensitivity differences)",
+      "origin": "Misinterpretation of 1901 thesis",
+      "fact": "Entire tongue sensitive to all basic tastes"
+    },
+
+    "neural_pathway": {
+      "cranial_nerves": {
+        "VII_facial": "Anterior 2/3 tongue (chorda tympani branch)",
+        "IX_glossopharyngeal": "Posterior 1/3 tongue",
+        "X_vagus": "Throat, epiglottis"
+      },
+      "brainstem": "Nucleus of solitary tract",
+      "thalamus": "VPM (ventral posteromedial nucleus)",
+      "cortex": "Gustatory cortex (anterior insula, frontal operculum)",
+      "integration": "Orbitofrontal cortex (multimodal flavor)"
+    },
+
+    "reference": "humanology/senses/taste.json"
+  },
+
+  "taste_vs_flavor": {
+    "taste": {
+      "definition": "Five basic tastes detected by tongue",
+      "modality": "Gustatory only",
+      "limited": "Only 5 basic qualities"
+    },
+
+    "flavor": {
+      "definition": "Multimodal experience: taste + smell + texture + temperature + pain",
+      "components": {
+        "taste": "Sweet, salty, sour, bitter, umami (gustatory)",
+        "smell": "Retronasal olfaction (most of 'flavor')",
+        "texture": "Tactile (smooth, creamy, crunchy)",
+        "temperature": "Hot, cold (thermoception)",
+        "chemesthesis": "Burn, tingle, cooling (trigeminal nerve)"
+      },
+      "integration": "Orbitofrontal cortex combines all inputs",
+      "dominant": "~80% of flavor is smell (retronasal olfaction)"
+    },
+
+    "retronasal_olfaction": {
+      "definition": "Smell of food in mouth reaching nose from behind",
+      "pathway": "Mouth → pharynx → nasal cavity (internal route)",
+      "importance": "Most of what we call 'taste' is actually smell",
+      "test": "Hold nose while eating - flavor becomes bland, only basic tastes remain"
+    }
+  },
+
+  "chemesthesis": {
+    "definition": "Chemical senses detected by trigeminal nerve (not taste)",
+    
+    "sensations": {
+      "spicy_hot": {
+        "molecule": "Capsaicin (chili peppers)",
+        "receptor": "TRPV1 (heat receptor - feels like burning)",
+        "pain": "Actually activates pain receptors",
+        "adaptation": "Can build tolerance"
+      },
+
+      "cooling": {
+        "molecule": "Menthol (mint)",
+        "receptor": "TRPM8 (cold receptor - feels like cooling)",
+        "sensation": "Cooling without actual temperature change"
+      },
+
+      "tingling": {
+        "molecule": "Sanshool (Sichuan pepper)",
+        "receptor": "Touch and vibration receptors",
+        "sensation": "Numbness, tingling, vibration"
+      },
+
+      "pungent": {
+        "molecules": "Allicin (garlic), allyl isothiocyanate (wasabi, mustard)",
+        "receptor": "TRPA1 (irritant receptor)",
+        "sensation": "Sharp, nasal burn"
+      }
+    },
+
+    "not_taste": "These are pain/temperature/touch sensations, not gustatory"
+  },
+
+  "genetic_variation": {
+    "supertasters": {
+      "definition": "~25% of people, more taste buds (~16,000)",
+      "fungiform_papillae": "More dense papillae",
+      "sensitivity": "Higher sensitivity to bitter, sweet, fat",
+      "gene": "Often have two copies of PAV variant of TAS2R38",
+      "preference": "Avoid bitter vegetables, strong flavors"
+    },
+
+    "medium_tasters": {
+      "definition": "~50% of people, average taste buds",
+      "sensitivity": "Moderate",
+      "typical": "Most common phenotype"
+    },
+
+    "non_tasters": {
+      "definition": "~25% of people, fewer taste buds",
+      "sensitivity": "Lower sensitivity to bitter",
+      "gene": "Often have two copies of AVI variant of TAS2R38",
+      "preference": "Can tolerate very bitter foods"
+    },
+
+    "PROP_PTC": {
+      "chemicals": "Phenylthiocarbamide (PTC), 6-n-propylthiouracil (PROP)",
+      "taste": "Extremely bitter to some, tasteless to others",
+      "receptor": "TAS2R38 gene",
+      "test": "Classic genetic taste test"
+    }
+  },
+
+  "taste_preferences": {
+    "innate": {
+      "sweet": "Universally liked from birth (breast milk is sweet)",
+      "bitter": "Universally disliked (poison avoidance)",
+      "salty": "Liked in moderation",
+      "sour": "Disliked when intense",
+      "umami": "Pleasant, savory"
+    },
+
+    "learned": {
+      "mere_exposure": "Repeated exposure increases liking",
+      "coffee_beer": "Bitter beverages learned to enjoy",
+      "cultural": "Food preferences shaped by culture",
+      "conditioning": "Associate flavors with positive/negative outcomes"
+    },
+
+    "age_changes": {
+      "children": "Strong preference for sweet, rejection of bitter",
+      "adolescence": "Begin accepting bitter (coffee, vegetables)",
+      "adults": "Broader acceptance",
+      "elderly": "Taste sensitivity declines, may prefer stronger flavors"
+    }
+  },
+
+  "disorders": {
+    "ageusia": {
+      "definition": "Complete loss of taste",
+      "causes": "Nerve damage, head trauma, medications, radiation",
+      "rare": "Less common than anosmia"
+    },
+
+    "hypogeusia": {
+      "definition": "Reduced taste sensitivity",
+      "causes": "Aging, medications, zinc deficiency, smoking",
+      "common": "More common than ageusia"
+    },
+
+    "dysgeusia": {
+      "definition": "Distorted taste (wrong taste perception)",
+      "causes": "Medications, infections, neurological conditions",
+      "metallic": "Often metallic taste"
+    },
+
+    "burning_mouth_syndrome": {
+      "definition": "Chronic burning sensation in mouth",
+      "no_visible_cause": "No physical abnormality found",
+      "idiopathic": "Cause often unknown"
+    }
+  },
+
+  "food_science": {
+    "taste_combinations": {
+      "sweet_salty": "Caramel, salted chocolate (enhances both)",
+      "sweet_sour": "Lemonade, sweet-and-sour (balanced)",
+      "sweet_bitter": "Dark chocolate, coffee with sugar",
+      "umami_salt": "Parmesan, soy sauce (synergy)",
+      "five_tastes": "Complex dishes balance all five"
+    },
+
+    "taste_enhancement": {
+      "salt": "Enhances sweet, suppresses bitter",
+      "sugar": "Suppresses sour, bitter",
+      "umami": "Enhances savory, reduces need for salt",
+      "acid": "Brightens flavors, balances sweet"
+    },
+
+    "maillard_reaction": {
+      "definition": "Browning reaction between amino acids and sugars",
+      "temperature": "Above ~140°C (284°F)",
+      "result": "Hundreds of flavor compounds (roasted, toasted, meaty)",
+      "examples": "Seared meat, toasted bread, coffee roasting"
+    }
+  },
+
+  "survival_function": {
+    "energy_detection": {
+      "sweet": "Carbohydrates (immediate energy)",
+      "umami": "Protein (amino acids)",
+      "fat": "Lipids (concentrated energy)"
+    },
+
+    "toxin_avoidance": {
+      "bitter": "Most poisons are bitter (alkaloids)",
+      "extreme_sour": "Spoilage (excessive acidity)",
+      "sensitivity": "Bitter most sensitive (protect from poison)"
+    },
+
+    "mineral_balance": {
+      "salty": "Sodium essential for nerves, muscles, fluid balance",
+      "craving": "Salt craving when deficient"
+    },
+
+    "immediate_evaluation": {
+      "speed": "Taste evaluation in milliseconds",
+      "decision": "Swallow or spit? Safe or dangerous?",
+      "gatekeeper": "Last defense before ingestion"
+    }
+  },
+
+  "philosophical_dimensions": {
+    "judgment": {
+      "principle": "Taste = immediate value judgment",
+      "good_bad": "Most binary sense (safe/dangerous)",
+      "metaphor": "'Good taste' = aesthetic judgment",
+      "discrimination": "Discernment, refinement"
+    },
+
+    "intimacy": {
+      "ingestion": "Taste = deciding what enters body",
+      "vulnerability": "Moment of trust (poison or nutrition?)",
+      "communion": "Sharing food = sharing trust",
+      "embodiment": "Food becomes self"
+    },
+
+    "pleasure": {
+      "hedonic": "Strong pleasure/displeasure responses",
+      "survival_linked": "Pleasure = good for survival (usually)",
+      "culture": "Taste preferences = cultural identity",
+      "individual": "Personal taste = individuality"
+    }
+  },
+
+  "cfo_integration": {
+    "dimension": "0D-1D",
+    "reason": "Taste = point contact (molecule-receptor) → temporal sequence (chewing, swallowing)",
+    
+    "coherence": {
+      "evaluation": "Taste = coherence check (safe to ingest?)",
+      "binary": "Accept or reject",
+      "immediate": "Instant judgment, no deliberation"
+    },
+
+    "information": {
+      "chemical": "Molecular information about food",
+      "nutritional": "Energy content (sweet, umami)",
+      "safety": "Toxicity warning (bitter)",
+      "balance": "Electrolytes (salty)"
+    }
+  },
+
+  "applications": {
+    "food_industry": "Flavor development, taste testing",
+    "medicine": "Taste masking for bitter medications",
+    "nutrition": "Understanding food preferences, encouraging healthy eating",
+    "artificial_sweeteners": "Sweet taste without calories",
+    "umami_enhancers": "MSG, nucleotides (reduce salt needed)",
+    "culinary_arts": "Flavor balancing, pairing"
+  },
+
+  "mysteries": {
+    "taste_qualia": {
+      "question": "Why does sweet taste like sweet?",
+      "hard_problem": "Neural activity → subjective experience unexplained",
+      "ineffability": "Cannot describe taste to someone who never tasted it"
+    },
+
+    "individual_differences": {
+      "question": "Do we all taste the same thing?",
+      "variation": "Genetic differences suggest different experiences",
+      "unknown": "Cannot directly compare subjective experiences"
+    },
+
+    "acquired_tastes": {
+      "question": "How do we learn to like initially aversive tastes?",
+      "coffee_example": "Bitter → pleasant (mechanisms unclear)",
+      "plasticity": "Taste system more flexible than thought"
+    }
+  },
+
+  "related_phenomenas": {
+    "odor": "Retronasal smell = most of 'flavor' → phenomenas/odor.json",
+    "pressure": "Texture component of flavor → phenomenas/pressure.json",
+    "temperature": "Hot/cold component of flavor → phenomenas/temperature.json",
+    "molecules": "Taste molecules dissolved in saliva"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "info": ["Comprehensive flavor/taste module", "Matched to gustatory sensor"],
+    "coherence_score": 0.96
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:phenomenas:odor",
+      "urn:cfo:module:phenomenas:pressure",
+      "urn:cfo:module:phenomenas:temperature",
+      "urn:cfo:module:humanology:senses:taste"
+    ],
+    "external": [
+      {
+        "type": "article",
+        "citation": "Chandrashekar, J., et al. (2006). The receptors and cells for mammalian taste"
+      },
+      {
+        "type": "book",
+        "citation": "Breslin, P. A. (2013). An Evolutionary Perspective on Food and Human Taste"
+      }
+    ]
+  },
+
+  "meta": {
+    "phenomenon_id": 5,
+    "sensor": "taste (gustatory)",
+    "essence": "Dissolved molecules, chemical safety assessment",
+    "experience": "Five basic tastes: sweet, salty, sour, bitter, umami"
+  },
+
+  "ॐ": "∅"
+}

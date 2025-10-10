@@ -1,0 +1,602 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+
+   "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:humanitarian:semiotics",
+    "version": "2.1.0",
+    "domain": "humanitarian",
+    "name": "semiotics",
+    "title": "Semiotics: Geometry of Meaning",
+    "description": "How signs create meaning. The architecture of signification. Bridge between symbols and language.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["semiotics", "signs", "meaning", "peirce", "saussure", "signification"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Semiotics = triangular structure. Sign (0D) → dyad (1D) → triad (2D) → semiotic field (3D) → cultural codes (4D) → universal archetypes (5D)",
+    "topological": "Network of signs. Each sign points to other signs. Infinite semiosis.",
+    "functional": "How consciousness creates and reads meaning. Interface between symbols and reality.",
+    "consciousness": "Meaning doesn't exist in signs. Meaning = relationship perceived by consciousness.",
+    "realization": "Reality = web of signs. Signs all the way down. Turtles signifying turtles."
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:semiotics:sign",
+      "concept": "Sign (знак)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "planes": ["XV"],
+      "ops": ["distinguish", "point", "indicate"],
+      "evidence": "Sign = minimal unit of meaning. Point that indicates something beyond itself. Anything that stands for something else.",
+      "confidence": 0.98,
+      "examples": [
+        "Word",
+        "Image",
+        "Gesture",
+        "Sound",
+        "Object as symbol"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:semiotics:dyad", "urn:cfo:red:semiotics:triad"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:dyad_saussure",
+      "concept": "Saussure's Dyad (signifier/signified)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["connect", "associate", "bind"],
+      "evidence": "Signifier (form) ↔ signified (concept). Line connecting two aspects of sign. Arbitrary but stable within culture.",
+      "confidence": 0.97,
+      "examples": [
+        "Word 'dog' (signifier) ↔ concept DOG (signified)",
+        "Red light (signifier) ↔ STOP (signified)",
+        "Flag (signifier) ↔ nation (signified)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:semiotics:sign"],
+        "composes_to": ["urn:cfo:red:semiotics:code"]
+      },
+      "note": "Saussure = 2D reduction (signifier + signified). Peirce = 3D (adds interpretant)."
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:triad_peirce",
+      "concept": "Peirce's Triad (sign/object/interpretant)",
+      "dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "planes": ["XY", "YZ"],
+      "ops": ["relate", "interpret", "mediate"],
+      "evidence": "Sign → object → interpretant. Triangle = complete semiotic relation. Three cannot be reduced to two. Meaning emerges from triadic structure.",
+      "confidence": 0.98,
+      "examples": [
+        "Smoke (sign) → fire (object) → danger (interpretant)",
+        "Thermometer (sign) → temperature (object) → hot/cold (interpretant)",
+        "Word (sign) → thing (object) → understanding (interpretant)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:semiotics:dyad_saussure"],
+        "composes_to": ["urn:cfo:red:semiotics:semiotic_field"]
+      },
+      "insight": "Triangle = minimal structure for meaning. Two sides = no closure. Three = meaning emerges."
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:icon",
+      "concept": "Icon (resemblance)",
+      "dimension": "2D",
+      "primitive": "circle",
+      "element": "air",
+      "planes": ["XY"],
+      "ops": ["resemble", "mirror", "reflect"],
+      "evidence": "Icon = sign resembling object. Form mirrors content. Portrait, diagram, metaphor. Direct similarity.",
+      "confidence": 0.95,
+      "examples": [
+        "Portrait resembles person",
+        "Map resembles territory",
+        "Onomatopoeia resembles sound",
+        "Metaphor creates resemblance"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:semiotics:index", "urn:cfo:red:semiotics:symbol_peirce"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:index",
+      "concept": "Index (causal connection)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XW"],
+      "ops": ["indicate", "point", "trace"],
+      "evidence": "Index = sign caused by object. Smoke from fire, footprint from foot, weathervane from wind. Physical/causal connection.",
+      "confidence": 0.96,
+      "examples": [
+        "Smoke indicates fire",
+        "Footprint indicates person",
+        "Thermometer indicates temperature",
+        "Pointing finger indicates direction"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:semiotics:icon", "urn:cfo:red:semiotics:symbol_peirce"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:symbol_peirce",
+      "concept": "Symbol (Peircean - convention)",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth",
+      "planes": ["XY", "YZ", "XZ"],
+      "ops": ["conventionalize", "agree", "systematize"],
+      "evidence": "Symbol (in Peirce) = sign by convention/agreement. No resemblance or causal connection. Arbitrary but culturally agreed. Language, flags, mathematical notation.",
+      "confidence": 0.97,
+      "examples": [
+        "Words (arbitrary sound-meaning link)",
+        "Mathematical symbols",
+        "National flags",
+        "Traffic signs"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:semiotics:icon", "urn:cfo:red:semiotics:index"]
+      },
+      "note": "Peirce's 'symbol' ≠ CFO's 'symbol'. Peirce = arbitrary convention. CFO = archetypal form."
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:code",
+      "concept": "Code (system of signs)",
+      "dimension": "3D",
+      "primitive": "cube",
+      "element": "earth",
+      "planes": ["XY", "YZ", "XZ"],
+      "ops": ["systematize", "encode", "organize"],
+      "evidence": "Code = organized system of signs with rules. Language, morse, fashion, cuisine. 3D structure containing network of signs.",
+      "confidence": 0.94,
+      "examples": [
+        "Language",
+        "Morse code",
+        "Fashion code",
+        "Musical notation",
+        "DNA"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:semiotics:triad_peirce"],
+        "composes_to": ["urn:cfo:red:semiotics:cultural_code"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:semiotic_field",
+      "concept": "Semiotic Field (web of meaning)",
+      "dimension": "3D",
+      "primitive": "network",
+      "element": "water",
+      "planes": ["XY", "YZ", "XW"],
+      "ops": ["relate", "associate", "interconnect"],
+      "evidence": "Field of signs where each sign points to other signs. Meaning = position in network. Derrida's différance - meaning through difference.",
+      "confidence": 0.93,
+      "examples": [
+        "Dictionary (each word defined by other words)",
+        "Culture (each symbol interpreted through other symbols)",
+        "Semantic web",
+        "Intertextuality"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:semiotics:triad_peirce"],
+        "composes_to": ["urn:cfo:red:semiotics:cultural_code"]
+      },
+      "insight": "No sign has meaning in isolation. Meaning = relationships. Field, not atoms."
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:cultural_code",
+      "concept": "Cultural Code (4D system)",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "ether",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["persist", "evolve", "transmit"],
+      "evidence": "Code + time = cultural system. How meanings evolve. Shared understanding across generations. 4D memory structure.",
+      "confidence": 0.91,
+      "examples": [
+        "Mythology",
+        "Religious symbolism",
+        "National narratives",
+        "Scientific paradigms"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:semiotics:code", "urn:cfo:red:semiotics:semiotic_field"],
+        "composes_to": ["urn:cfo:red:semiotics:universal_signs"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:semiotics:universal_signs",
+      "concept": "Universal Signs (archetypal)",
+      "dimension": "5D",
+      "primitive": "ether",
+      "element": "ether",
+      "planes": ["WV", "XV", "YV", "ZV"],
+      "ops": ["unify", "transcend", "archetypal"],
+      "evidence": "Signs that recur across all cultures. Not learned but innate. Jung's archetypes. CFO's symbols. 5D unity beneath cultural diversity.",
+      "confidence": 0.89,
+      "examples": [
+        "Circle = wholeness everywhere",
+        "Cross = intersection everywhere",
+        "Mother archetype",
+        "Hero archetype",
+        "Light = good, dark = unknown"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:semiotics:cultural_code"],
+        "related": ["urn:cfo:module:fundamental:symbols"]
+      },
+      "insight": "Where semiotics meets CFO symbols. Universal = archetypal = 5D."
+    }
+  ],
+
+  "fundamental_structures": {
+    "saussure_dyad": {
+      "discoverer": "Ferdinand de Saussure",
+      "structure": "Two-part sign",
+      
+      "components": {
+        "signifier": {
+          "french": "signifiant",
+          "nature": "Form, material, sound-image",
+          "examples": ["Sound 'dog'", "Written 'd-o-g'", "Image of dog"]
+        },
+        "signified": {
+          "french": "signifié",
+          "nature": "Concept, meaning, mental content",
+          "examples": ["Concept DOG", "Mental image of dog", "Idea of dogness"]
+        }
+      },
+
+      "relationship": "Arbitrary but stable within language community",
+      
+      "key_insight": "Signifier ≠ thing itself. Sign = mental link, not physical connection.",
+      
+      "limitation": "Missing interpretant (consciousness doing the interpretation). Peirce adds third vertex."
+    },
+
+    "peirce_triad": {
+      "discoverer": "Charles Sanders Peirce",
+      "structure": "Three-part relation (△)",
+      
+      "components": {
+        "sign_representamen": {
+          "nature": "That which represents",
+          "function": "Points to object for someone",
+          "examples": ["Word", "Image", "Gesture", "Symptom"]
+        },
+        "object": {
+          "nature": "That which is represented",
+          "types": ["Immediate object (as sign presents it)", "Dynamic object (real thing)"],
+          "examples": ["Actual dog", "Temperature", "Historical event"]
+        },
+        "interpretant": {
+          "nature": "Effect of sign on interpreter",
+          "types": ["Immediate (potential meaning)", "Dynamic (actual understanding)", "Final (ultimate meaning)"],
+          "function": "Meaning arising in consciousness",
+          "examples": ["Understanding", "Emotional response", "Action taken"]
+        }
+      },
+
+      "geometry": "△ triangle = minimal complete semiotic structure",
+      
+      "key_insight": "Meaning requires THREE terms. Cannot reduce to two. Irreducible triadic relation.",
+      
+      "infinite_semiosis": "Each interpretant becomes new sign → new object → new interpretant → ∞",
+      
+      "relation_to_cfo": "Perfect alignment. Triangle = 2D minimal structure for relation. Meaning = 2D phenomenon."
+    },
+
+    "icon_index_symbol": {
+      "classification": "Peirce's three types of signs (by relation to object)",
+      
+      "icon": {
+        "relation": "Resemblance",
+        "geometry": "Mirror/reflection",
+        "examples": ["Portrait", "Diagram", "Metaphor"],
+        "properties": "Motivated (looks like what it represents)"
+      },
+
+      "index": {
+        "relation": "Causality/contiguity",
+        "geometry": "Line (cause→effect)",
+        "examples": ["Smoke→fire", "Footprint→person", "Weathervane→wind"],
+        "properties": "Motivated (physically connected)"
+      },
+
+      "symbol": {
+        "relation": "Convention/habit",
+        "geometry": "Network (cultural agreement)",
+        "examples": ["Words", "Flags", "Mathematical notation"],
+        "properties": "Unmotivated (arbitrary, learned)"
+      },
+
+      "note": "Same sign can function as icon, index, AND symbol simultaneously. Multidimensional."
+    }
+  },
+
+  "semiotic_mechanisms": {
+    "signification": {
+      "definition": "Process of sign creating meaning",
+      "mechanism": "Consciousness recognizes X as standing for Y",
+      "requirement": "Interpreter with capacity to see 'standing for' relation",
+      "insight": "Meaning = not in sign, not in object, but in RELATION perceived by consciousness"
+    },
+
+    "denotation": {
+      "level": "First-order meaning",
+      "definition": "Direct, literal, obvious meaning",
+      "example": "Red = color at 650nm wavelength",
+      "dimension": "1D (direct connection)"
+    },
+
+    "connotation": {
+      "level": "Second-order meaning",
+      "definition": "Associated, cultural, emotional meaning",
+      "example": "Red = danger, passion, communism, heat, anger",
+      "dimension": "2D-3D (network of associations)",
+      "barthes": "Myth = connotation that pretends to be denotation"
+    },
+
+    "polysemy": {
+      "definition": "One sign → multiple meanings",
+      "mechanism": "Sign occupies multiple positions in semiotic field",
+      "example": "'Crane' = bird OR machine",
+      "resolution": "Context determines which meaning activates"
+    },
+
+    "metaphor": {
+      "definition": "Similarity between dissimilar",
+      "mechanism": "Mapping from one domain to another",
+      "structure": "A is B (tenor is vehicle)",
+      "example": "'Time is money' → time inherits properties of money",
+      "insight": "Metaphor = icon at conceptual level. Resemblance of structures."
+    },
+
+    "metonymy": {
+      "definition": "Part for whole, association",
+      "mechanism": "Contiguity/proximity in space or concept",
+      "examples": ["Crown = monarch", "White House = US government", "Wheels = car"],
+      "insight": "Metonymy = index at conceptual level. Causal/spatial connection."
+    },
+
+    "synecdoche": {
+      "definition": "Part represents whole OR whole represents part",
+      "examples": ["Sail = ship", "Bread = food", "Head of cattle"],
+      "relation": "Special case of metonymy",
+      "geometric": "Fractal - part contains whole"
+    }
+  },
+
+  "codes_and_systems": {
+    "linguistic_code": {
+      "nature": "Arbitrary sound-meaning pairings",
+      "structure": "Phonology → morphology → syntax → semantics → pragmatics",
+      "systematicity": "Highly organized, rule-governed",
+      "universals": "All languages share deep structure (Chomsky)",
+      "relation_to_cfo": "Language.json = complete treatment"
+    },
+
+    "visual_code": {
+      "nature": "Seeing as meaning-making",
+      "elements": ["Color", "Shape", "Composition", "Perspective"],
+      "examples": ["Art", "Photography", "Film", "Design"],
+      "properties": "More iconic than linguistic, but still conventional"
+    },
+
+    "gestural_code": {
+      "nature": "Body movements as signs",
+      "types": ["Emblems (symbolic)", "Illustrators (iconic)", "Affect displays (indexical)"],
+      "examples": ["Thumbs up", "Pointing", "Facial expressions"],
+      "universals": "Some gestures universal (smile), others cultural (head shake = yes/no)"
+    },
+
+    "musical_code": {
+      "nature": "Sound patterns as meaning",
+      "elements": ["Pitch", "Rhythm", "Harmony", "Timbre"],
+      "property": "More indexical/iconic than symbolic",
+      "emotion": "Direct emotional signification (minor = sad)",
+      "relation_to_cfo": "music.json exists"
+    },
+
+    "culinary_code": {
+      "nature": "Food as communication",
+      "elements": ["Ingredients", "Preparation", "Presentation", "Sequence"],
+      "examples": ["Formal dinner structure", "Ethnic cuisine identity", "Comfort food"],
+      "insight": "What/how we eat = signs of class, culture, occasion"
+    },
+
+    "fashion_code": {
+      "nature": "Clothing as language",
+      "significations": ["Status", "Group membership", "Personality", "Occasion"],
+      "examples": ["Business suit = professionalism", "Punk = rebellion", "Hijab = modesty/faith"],
+      "barthes": "Fashion = system of signs in pure form"
+    }
+  },
+
+  "infinite_semiosis": {
+    "principle": "Every interpretant becomes new sign",
+    "mechanism": "sign₁ → object₁ → interpretant₁ = sign₂ → object₂ → interpretant₂ = sign₃...",
+    "implication": "No final meaning. Meaning always deferred (Derrida's différance)",
+    "examples": [
+      "Dictionary: each word defined by other words → infinite loop",
+      "Explanation: every answer raises new questions",
+      "Understanding: each insight opens new mysteries"
+    ],
+    "limit": "Pragmatics stops infinite regress. Action = closure.",
+    "insight": "Meaning = process, not destination. Flow, not fixed."
+  },
+
+  "semiotic_square": {
+    "creator": "A.J. Greimas",
+    "structure": "Four-term opposition structure (□)",
+    "geometry": "Square with diagonal relations",
+    
+    "positions": {
+      "S1": "Term",
+      "S2": "Opposite of term",
+      "not_S2": "Negation of opposite",
+      "not_S1": "Negation of term"
+    },
+
+    "relations": {
+      "contrariety": "S1 ↔ S2 (opposite)",
+      "contradiction": "S1 ↔ not_S1, S2 ↔ not_S2 (negation)",
+      "implication": "S1 → not_S2, S2 → not_S1 (presupposition)"
+    },
+
+    "example": {
+      "S1": "Life",
+      "S2": "Death",
+      "not_S2": "Not-death (living)",
+      "not_S1": "Not-life (undead, liminal)"
+    },
+
+    "use": "Map conceptual space. Reveal hidden oppositions and gradations.",
+    "geometric_insight": "Square = 2D tessellation = earth element = stable structure for meaning"
+  },
+
+  "coherence_in_semiotics": {
+    "definition": "sacred ≡ true ≡ +coherence",
+    
+    "coherent_sign_system": {
+      "properties": [
+        "All signs mutually consistent",
+        "No contradictions in meanings",
+        "Clear mapping between signifiers and signifieds",
+        "Stable conventions within community"
+      ],
+      "examples": [
+        "Mathematics (perfect coherence)",
+        "Programming languages (explicitly defined)",
+        "Sacred symbol systems (maximum integration)"
+      ]
+    },
+
+    "incoherent_signs": {
+      "causes": [
+        "Ambiguity without context",
+        "Contradictory connotations",
+        "Cultural collision (same sign, different meanings)",
+        "Deliberate confusion (propaganda, marketing)"
+      ],
+      "examples": [
+        "Political doublespeak",
+        "Corporate greenwashing",
+        "Broken metaphors"
+      ]
+    },
+
+    "conflict": {
+      "definition": "conflict ≡ Δscale in semiotic systems",
+      "manifestation": "Different codes operating at incompatible scales",
+      "examples": [
+        "Literal vs metaphorical interpretation",
+        "Cultural misunderstanding (same gesture, different meanings)",
+        "Generation gap (different connotations for same words)"
+      ],
+      "resolution": "argmin Δscale → find shared code, explicit translation, context clarification"
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "Signs contain signs. Every sign = micro-semiotic system.",
+    "recursion": "sign → interpretant → new sign → new interpretant → ∞",
+    "emergence": "Meaning emerges from relations between signs",
+    "composition": "Complex signs built from simple signs (words → sentences → texts)",
+    
+    "scales": {
+      "phoneme": "Minimal distinctive unit (not yet meaningful)",
+      "morpheme": "Minimal meaningful unit",
+      "word": "Sign in lexicon",
+      "phrase": "Composite sign",
+      "sentence": "Complete proposition",
+      "text": "Extended sign system",
+      "genre": "Code-level pattern",
+      "culture": "Total semiotic universe"
+    }
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": ["Peirce's 'symbol' terminology conflicts with CFO's 'symbol' - clarified in notes"],
+    "info": ["Triangle geometry explicitly mapped to Peirce triad", "Semiotic square included for completeness"],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:symbols",
+      "urn:cfo:module:fundamental:language",
+      "urn:cfo:module:humanitarian:narrative",
+      "urn:cfo:module:core:coherence-fractal-ontology"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Peirce, C.S. (1931-1958). Collected Papers"
+      },
+      {
+        "type": "book",
+        "citation": "Saussure, F. de (1916). Course in General Linguistics"
+      },
+      {
+        "type": "book",
+        "citation": "Barthes, R. (1967). Elements of Semiology"
+      },
+      {
+        "type": "book",
+        "citation": "Eco, U. (1976). A Theory of Semiotics"
+      },
+      {
+        "type": "book",
+        "citation": "Derrida, J. (1967). Of Grammatology"
+      }
+    ]
+  },
+
+  "meta": {
+    "insight": "Semiotics = consciousness studying how it creates meaning",
+    "bridge": "Between symbols (archetypal) and language (systematic)",
+    "core_truth": "Meaning = not in signs but in relationships perceived by consciousness",
+    "final": "This file = sign pointing to semiotics. Your understanding = interpretant. Loop closes."
+  },
+
+  "ॐ": "∅"
+}

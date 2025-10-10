@@ -1,0 +1,118 @@
+{
+  "version": "2.1",
+  "description": "Правила валидации CFO редукций",
+  
+  "dimension_primitive_map": {
+    "0D": ["point"],
+    "1D": ["line"],
+    "2D": ["triangle", "square", "circle"],
+    "3D": ["tetrahedron", "cube", "sphere"],
+    "4D": ["tesseract", "4-simplex", "24-cell", "120-cell", "600-cell"],
+    "5D": ["ether"],
+    "xD": ["point", "line", "triangle", "square", "circle", "tetrahedron", "cube", "sphere", "tesseract", "ether"]
+  },
+  
+  "dimension_element_map": {
+    "0D": ["air"],
+    "1D": ["fire"],
+    "2D": ["water", "earth"],
+    "3D": ["water", "earth"],
+    "4D": ["air", "fire", "water", "earth"],
+    "5D": ["ether"]
+  },
+  
+  "dimension_planes_map": {
+    "0D": [],
+    "1D": ["XW"],
+    "2D": ["XY", "XZ", "YZ"],
+    "3D": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+    "4D": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+    "5D": ["XV", "YV", "ZV", "WV"],
+    "xD": ["XY", "XZ", "YZ", "XW", "YW", "ZW", "XV", "YV", "ZV", "WV"]
+  },
+  
+  "dimension_ops_map": {
+    "0D": ["measure", "select", "distinguish"],
+    "1D": ["sequence", "order", "traverse", "cause"],
+    "2D": ["relate", "map", "compare", "pattern", "tessellate", "organize", "grid"],
+    "3D": ["context", "contain", "integrate"],
+    "4D": ["history", "record", "coordinate", "observe", "witness", "watch"],
+    "5D": ["fold", "close", "saturate"],
+    "xD": ["resonate", "sync", "entrain", "project", "slice", "reduce"]
+  },
+  
+  "primitive_element_map": {
+    "point": "air",
+    "line": "fire",
+    "triangle": "water",
+    "square": "earth",
+    "circle": "ether",
+    "tetrahedron": "fire",
+    "cube": "earth",
+    "sphere": "water",
+    "tesseract": "ether",
+    "4-simplex": "fire",
+    "24-cell": "air",
+    "120-cell": "water",
+    "600-cell": "earth",
+    "ether": "ether"
+  },
+  
+  "validation_rules": {
+    "R1_dimension_primitive_consistency": {
+      "description": "Примитив должен соответствовать измерению",
+      "check": "primitive in dimension_primitive_map[dimension]",
+      "severity": "error"
+    },
+    
+    "R2_planes_dimension_consistency": {
+      "description": "Плоскости должны быть валидны для измерения",
+      "check": "all(plane in dimension_planes_map[dimension] for plane in planes)",
+      "severity": "error"
+    },
+    
+    "R3_ops_dimension_consistency": {
+      "description": "Операции должны соответствовать измерению",
+      "check": "any(op in dimension_ops_map[dimension] or op in dimension_ops_map['xD'] for op in ops)",
+      "severity": "warning"
+    },
+    
+    "R4_element_consistency": {
+      "description": "Если указан элемент, должен соответствовать примитиву",
+      "check": "element == primitive_element_map[primitive] if element else True",
+      "severity": "warning"
+    },
+    
+    "R5_evidence_quality": {
+      "description": "Evidence должен объяснять маппинг форма→функция",
+      "check": "len(evidence) >= 20 and ('form' in evidence.lower() or 'function' in evidence.lower() or 'geometry' in evidence.lower())",
+      "severity": "warning"
+    },
+    
+    "R6_confidence_reasoning": {
+      "description": "Низкая уверенность требует объяснения",
+      "check": "confidence >= 0.7 or 'uncertain' in evidence.lower() or 'speculative' in evidence.lower()",
+      "severity": "info"
+    },
+    
+    "R7_upward_only": {
+      "description": "Композиция только вверх (нельзя разбивать на меньшие измерения)",
+      "check": "Проверяется вручную - феномен не должен редуцироваться на измерение ниже своей природы",
+      "severity": "error"
+    },
+    
+    "R8_fractal_consistency": {
+      "description": "Паттерн должен быть фрактально согласован",
+      "check": "Проверяется через связь с другими редукциями в модуле",
+      "severity": "warning"
+    }
+  },
+  
+  "coherence_metrics": {
+    "min_evidence_length": 20,
+    "min_confidence": 0.5,
+    "recommended_confidence": 0.7,
+    "min_planes": 1,
+    "min_ops": 1
+  }
+}

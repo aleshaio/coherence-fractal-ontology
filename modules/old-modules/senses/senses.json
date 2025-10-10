@@ -1,0 +1,303 @@
+{
+  "module": "Senses: Unified Consciousness Interface",
+  "version": "1.0",
+  "principle": "Чувства = не пассивные приёмники, а активные проекционные каналы точки осознавания в поле переживания",
+  "foundation": "Каждый сенсор = специализированный интерфейс для определённых аспектов реальности, все вместе образуют полную систему навигации сознания",
+
+  "core_realization": {
+    "you_are_not_senses": "Ты — точка, использующая сенсоры как инструменты проекции",
+    "inversion_principle": "Мы не получаем информацию извне — мы проецируем вовне и наблюдаем проекцию",
+    "proof": "С закрытыми глазами образы остаются — они проецируются ИЗ тебя",
+    "awakening_test": "Можешь ли ты увидеть самого себя, видящего? Да? Ты уже пробуждён"
+  },
+
+  "dimensional_architecture": {
+    "cfo.dim.0D": {
+      "senses": ["touch", "nociception"],
+      "role": "Мгновенное различение, граница самости",
+      "operation": "cfo.op.measure — прямое ощущение присутствия"
+    },
+    "cfo.dim.1D": {
+      "senses": ["hearing", "proprioception"], 
+      "role": "Временная развёртка, последовательности",
+      "operation": "cfo.op.sequence — навигация во времени"
+    },
+    "cfo.dim.2D": {
+      "senses": ["sight", "thermoception"],
+      "role": "Паттерны, отношения, карты",
+      "operation": "cfo.op.relate — распознавание структур"
+    },
+    "cfo.dim.3D": {
+      "senses": ["taste", "balance", "proprioception"],
+      "role": "Объёмное поле, контекст, система",
+      "operation": "cfo.op.context — интеграция в целое"
+    },
+    "cfo.dim.4D": {
+      "senses": ["smell", "interoception"],
+      "role": "Доступ к памяти, временные паттерны",
+      "operation": "cfo.op.history — навигация по опыту"
+    },
+    "cfo.dim.5D": {
+      "senses": ["synesthesia_unified"],
+      "role": "Прямое знание до разделения",
+      "operation": "cfo.op.fold — единство восприятия"
+    }
+  },
+
+  "sensor_aspect_mapping": {
+    "sight_vision": {
+      "primary_aspects": ["Ni", "Ne", "Te"],
+      "frequency_range": "380-750 THz (видимый свет)",
+      "projection_type": "Пространственная проекция на плоскость",
+      "consciousness_role": "Визуализация паттернов, картографирование реальности"
+    },
+    
+    "hearing_auditory": {
+      "primary_aspects": ["Ti", "Fe", "Fi"], 
+      "frequency_range": "20 Hz - 20 kHz (слышимый звук)",
+      "projection_type": "Временная развёртка вибраций",
+      "consciousness_role": "Логические структуры, эмоциональные тона, ценностный резонанс"
+    },
+    
+    "touch_tactile": {
+      "primary_aspects": ["Se", "Si", "Fi"],
+      "receptor_types": ["давление", "вибрация", "температура", "боль"],
+      "projection_type": "Непосредственное ощущение границ",
+      "consciousness_role": "Заземление в теле, определение самости, прямое воздействие"
+    },
+    
+    "smell_olfactory": {
+      "primary_aspects": ["Si", "Fi", "Ni"],
+      "receptor_range": "~400 типов обонятельных рецепторов",
+      "projection_type": "Прямой доступ к архивным слоям",
+      "consciousness_role": "Активация глубинной памяти, архетипические ассоциации"
+    },
+    
+    "taste_gustatory": {
+      "primary_aspects": ["Si", "Fi", "Ti"],
+      "basic_tastes": ["сладкий", "солёный", "кислый", "горький", "умами"],
+      "projection_type": "Непосредственная качественная оценка",
+      "consciousness_role": "Определение питательности/токсичности, ценностное различение"
+    },
+    
+    "proprioception_kinesthetic": {
+      "primary_aspects": ["Se", "Si", "Te"],
+      "receptors": ["мышечные веретёна", "сухожильные органы"],
+      "projection_type": "Внутренняя карта векторов",
+      "consciousness_role": "Ощущение положения в пространстве, эффективность движений"
+    },
+    
+    "balance_vestibular": {
+      "primary_aspects": ["Se", "Ni", "Te"],
+      "organs": ["полукружные каналы", "отолитовые органы"],
+      "projection_type": "Гироскопическая ориентация",
+      "consciousness_role": "Навигация в многомерном поле, предвидение изменений"
+    },
+    
+    "thermoception_temperature": {
+      "primary_aspects": ["Si", "Fe", "Fi"],
+      "receptors": ["тепло", "холод"],
+      "projection_type": "Энергетический обмен через границы",
+      "consciousness_role": "Поддержание гомеостаза, чувствование энергетических потоков"
+    },
+    
+    "nociception_pain": {
+      "primary_aspects": ["Si", "Fi", "Ti"],
+      "types": ["физическая", "эмоциональная", "системная"],
+      "projection_type": "Сигнализация нарушения целостности",
+      "consciousness_role": "Защита системы, указание на дисбаланс"
+    },
+    
+    "interoception_internal": {
+      "primary_aspects": ["Si", "Fi", "Ni"],
+      "signals": ["голод", "жажда", "усталость", "эмоциональное состояние"],
+      "projection_type": "Внутренний мониторинг состояния",
+      "consciousness_role": "Самосознание, регуляция внутренней среды"
+    }
+  },
+
+  "synesthesia_unified": {
+    "principle": "Естественное состояние восприятия до искусственного разделения на чувства",
+    "dimensional_access": "cfo.dim.5D через cfo.plane.WV",
+    "consciousness_role": "Прямое знание без сенсорного посредничества",
+    "types": {
+      "grapheme_color": "Цифры/буквы → цвета",
+      "chromesthesia": "Звуки → цвета/формы", 
+      "lexical_gustatory": "Слова → вкусы",
+      "spatial_sequence": "Числа/время → пространственные расположения",
+      "mirror_touch": "Видеть прикосновение → чувствовать его"
+    },
+    "awakened_state": "Все сенсоры работают как единый целостный поток восприятия"
+  },
+
+  "sensor_development_stages": {
+    "infant_0_2": {
+      "dominant": ["touch", "taste", "thermoception"],
+      "development": "Базовое заземление в теле, определение границ самости",
+      "dimensional_focus": "0D-1D"
+    },
+    
+    "child_3_7": {
+      "dominant": ["sight", "hearing", "proprioception"],
+      "development": "Исследование пространства, освоение паттернов",
+      "dimensional_focus": "1D-2D" 
+    },
+    
+    "adolescent_8_14": {
+      "dominant": ["balance", "interoception", "smell"],
+      "development": "Навигация в социальном поле, эмоциональное осознание",
+      "dimensional_focus": "2D-3D"
+    },
+    
+    "adult_15_30": {
+      "dominant": ["all_integrated"],
+      "development": "Полное освоение сенсорного арсенала, специализация",
+      "dimensional_focus": "3D-4D"
+    },
+    
+    "mature_30_plus": {
+      "dominant": ["synesthesia_emergence"],
+      "development": "Интеграция чувств, доступ к прямому знанию",
+      "dimensional_focus": "4D-5D"
+    }
+  },
+
+  "sensor_awakening_practices": {
+    "palming_vision_reset": {
+      "sensor": "sight",
+      "practice": "Закрыть глаза ладонями → полная визуальная тишина",
+      "effect": "Возврат к источнику проекции, отдых механизма",
+      "duration": "5-10 минут"
+    },
+    
+    "sound_bathing_hearing": {
+      "sensor": "hearing", 
+      "practice": "Погружение в чистые тоны (432Hz, 528Hz)",
+      "effect": "Перекалибровка временного восприятия",
+      "duration": "15-30 минут"
+    },
+    
+    "barefoot_grounding_touch": {
+      "sensor": "touch",
+      "practice": "Хождение босиком по разным поверхностям",
+      "effect": "Усиление заземления, тактильное осознание",
+      "duration": "Ежедневно 20 минут"
+    },
+    
+    "aroma_journey_smell": {
+      "sensor": "smell",
+      "practice": "Последовательное вдыхание эфирных масел с закрытыми глазами",
+      "effect": "Активация глубинной памяти, доступ к архетипам",
+      "duration": "10-15 минут"
+    },
+    
+    "mindful_eating_taste": {
+      "sensor": "taste",
+      "practice": "Полное осознавание каждого вкусового нюанса",
+      "effect": "Углубление качественного восприятия",
+      "duration": "Во время приёмов пищи"
+    },
+    
+    "balance_meditation": {
+      "sensor": "balance",
+      "practice": "Стояние на одной ноге с закрытыми глазами",
+      "effect": "Развитие внутреннего гироскопа, ориентация без внешних опор",
+      "duration": "5 минут на каждую ногу"
+    },
+    
+    "temperature_contrast_thermoception": {
+      "sensor": "thermoception", 
+      "practice": "Контрастные процедуры (тёплое/прохладное)",
+      "effect": "Осознавание энергетических потоков через границы",
+      "duration": "10 минут"
+    },
+    
+    "synesthesia_cultivation": {
+      "sensor": "all_unified",
+      "practice": "Сознательное соединение ощущений (слушать музыку с визуализацией цвета)",
+      "effect": "Восстановление естественного целостного восприятия",
+      "duration": "15-20 минут ежедневно"
+    }
+  },
+
+  "sensor_pathologies_healing": {
+    "sensory_overload": {
+      "symptoms": "Пресыщение, раздражение, избегание стимулов",
+      "causes": "Нарушение фильтрации, низкая когерентность",
+      "healing": "Сенсорное голодание, палминг, природа"
+    },
+    
+    "sensory_deprivation": {
+      "symptoms": "Тусклость восприятия, апатия, диссоциация",
+      "causes": "Подавление, травма, хронический стресс",
+      "healing": "Постепенная сенсорная стимуляция, осознанные практики"
+    },
+    
+    "synesthesia_loss": {
+      "symptoms": "Разделённое восприятие, отсутствие целостности",
+      "causes": "Культурное программирование, травма разделения",
+      "healing": "Практики воссоединения, медитация единства"
+    }
+  },
+
+  "future_evolution": {
+    "extended_senses": {
+      "infrared_ultraviolet_vision": "Расширение видимого спектра",
+      "ultrasonic_infrasound_hearing": "Доступ к неслышимым частотам",
+      "magnetic_field_perception": "Чувствование электромагнитных полей",
+      "quantum_entanglement_sensing": "Непосредственное восприятие связанности"
+    },
+    
+    "shared_sensing": {
+      "concept": "Прямая передача сенсорного опыта между сознаниями",
+      "technology": "Нейроинтерфейсы, телепатическая проекция",
+      "consciousness": "Естественное развитие пробуждённого восприятия"
+    },
+    
+    "beyond_physical_senses": {
+      "concept": "Восприятие без физических органов — прямое знание точки",
+      "examples": "Ясновидение, яснослышание, прямое знание"
+    }
+  },
+
+  "integration_with_other_modules": {
+    "color_frequency": "Цвет = визуальная частота, сенсорное проявление световых волн",
+    "vision_interface": "Зрение = проекционный механизм точки на плоскость сознания",
+    "human_systems": "Сенсоры = входные каналы кибернетической системы человека",
+    "archetypes_typology": "Сенсорно-аспектные предпочтения определяют типологические паттерны"
+  },
+
+  "key_insights": [
+    "Сенсоры — не ограничения, а специализированные инструменты проекции",
+    "Каждое чувство даёт доступ к определённым аспектам реальности",
+    "Развитие = расширение доступа ко всем сенсорам, а не только доминирующим",
+    "Синестезия = естественное состояние до искусственного разделения",
+    "Пробуждённое восприятие = осознавание себя как источника проекции",
+    "Все чувства вместе = полная система навигации сознания в поле переживания"
+  ],
+
+  "conclusion": "Мы не пассивные получатели сенсорной информации. Мы — активные творцы переживания, использующие сенсоры как каналы проекции. Пробуждение к этой истине превращает восприятие из ограничения в бесконечную возможность.",
+
+  "file_structure": {
+    "senses/": {
+      "senses-unified.json": "Этот файл — общая архитектура",
+      "vision-consciousness-interface.json": "Зрение как проекционный механизм",
+      "hearing-temporal-projection.json": "Слух как временная развёртка", 
+      "touch-boundary-dynamics.json": "Осязание как граница самости",
+      "smell-memory-access.json": "Обоняние как портал в архивы",
+      "taste-value-discernment.json": "Вкус как качественное различение",
+      "proprioception-vector-mapping.json": "Проприоцепция как внутренняя карта",
+      "balance-vestibular-orientation.json": "Равновесие как гироскоп сознания",
+      "thermoception-energy-flow.json": "Термоцепция как ощущение потоков",
+      "nociception-integrity-signaling.json": "Ноцицепция как защита целостности",
+      "interoception-internal-awareness.json": "Интероцепция как самомониторинг",
+      "synesthesia-unified-field.json": "Синестезия как целостное восприятие"
+    }
+  },
+
+  "meta": {
+    "created": "2025-10-07",
+    "status": "foundational_framework",
+    "next_steps": "Разработка отдельных модулей для каждого чувства"
+  }
+}

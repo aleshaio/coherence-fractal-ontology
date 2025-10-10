@@ -1,0 +1,761 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Four archetypal social roles mapped to dimensional structure, quadras, tarot suits, and elemental energies"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Four roles = four dimensional perspectives: Knight (1D movement), Dame (2D boundary), King (3D expansion), Page (4D observation). Each role maps to quadra (Delta/Gamma/Beta/Alpha), tarot suit (Cups/Wands/Pentacles/Swords), and base element. Any type can have 4 elemental subtypes within their role.",
+    "activation": "Your type determines your primary role. Your elemental subtype determines how you express that role. 16 types × 4 elements = 64 archetypal configurations."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:humanology:roles",
+    "version": "2.1.0",
+    "domain": "humanology",
+    "name": "roles",
+    "title": "Social Roles: Four Archetypal Functions",
+    "description": "Complete description of four fundamental social roles (Knight, Dame, King, Page) with their dimensional mappings, quadra correspondences, tarot associations, and elemental subtypes. Foundation for understanding 64 archetypal configurations (16 types × 4 elements).",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["roles", "quadras", "tarot", "elements", "archetypes", "social-functions"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Four roles = four dimensional modes of social function. Knight (1D line/movement), Dame (2D plane/boundary), King (3D volume/expansion), Page (4D tesseract/observation). Each role expressed through 4 elemental subtypes (Earth/Water/Fire/Air).",
+    "topological": "Complete social phase space = 4 roles × 4 elemental expressions = 16 role-element configurations. When combined with 16 personality types → 64 total archetypal signatures.",
+    "functional": "Roles define WHAT you do in social system. Elements define HOW you do it. Type determines primary role. Element determines expression style within that role.",
+    "consciousness": "Four ways of engaging with reality: Moving through it (Knight), Structuring it (Dame), Expanding it (King), Observing it (Page). Each mode has 4 flavors (Earth/Water/Fire/Air)."
+  },
+  
+  "reductions": [
+    {
+      "id": "urn:cfo:red:roles:knight",
+      "concept": "knight as 1D movement principle",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "earth (base)",
+      "planes": ["XW"],
+      "ops": ["sequence", "traverse", "flow"],
+      "evidence": "Knight = pure directional movement without territorial attachment. Operates on 1D trajectory through space-time. Medieval knight traveled months on quest, owned nothing, existed in motion. Delta quadra shares this temporal scale (months-quarters) and non-possessive orientation. Cups (water) = emotional flow without fixation. Earth element = grounded sustained movement. Knight role defined by continuous forward momentum along single axis.",
+      "confidence": 0.93,
+      "examples": [
+        "Medieval knight errant on crusade",
+        "Traveling consultant moving between clients",
+        "Nomadic worker, digital nomad",
+        "Sales representative covering territory",
+        "Research explorer in field"
+      ],
+      "relations": {
+        "opposite": ["urn:cfo:red:roles:king"],
+        "complement": ["urn:cfo:red:roles:dame"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:roles:dame",
+      "concept": "dame as 2D boundary principle",
+      "dimension": "2D",
+      "primitive": "square",
+      "element": "water (base)",
+      "planes": ["XY"],
+      "ops": ["tessellate", "maintain", "defend"],
+      "evidence": "Dame = personal space defender, boundary keeper. Operates on 2D plane of defined territory. Medieval lady maintained castle and household boundaries, managed personal domain. Gamma quadra shares this territorial focus and individual ownership. Wands (fire projected) = directed will from bounded center. Water element = fluid adaptation within structure. Dame role defined by maintaining coherent boundaries in relational plane.",
+      "confidence": 0.91,
+      "examples": [
+        "Medieval lady managing estate",
+        "Property owner defending boundaries",
+        "Team manager maintaining structure",
+        "Small business owner protecting domain",
+        "Family guardian keeping order"
+      ],
+      "relations": {
+        "opposite": ["urn:cfo:red:roles:page"],
+        "complement": ["urn:cfo:red:roles:knight"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:roles:king",
+      "concept": "king as 3D expansion principle",
+      "dimension": "3D",
+      "primitive": "sphere",
+      "element": "fire (base)",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["expand", "accumulate", "dominate"],
+      "evidence": "King = territorial expansion and resource control. Operates in 3D volumetric space. Medieval king conquered territory, accumulated resources, ruled through physical presence. Beta quadra shares this immediate action orientation (days-weeks) and collective ownership. Pentacles (earth materialized) = wealth and power accumulation. Fire element = rapid transformative expansion. King role defined by claiming and controlling 3D space.",
+      "confidence": 0.92,
+      "examples": [
+        "Medieval king expanding kingdom",
+        "CEO growing company market share",
+        "Military commander taking territory",
+        "Political leader building power base",
+        "Empire builder accumulating resources"
+      ],
+      "relations": {
+        "opposite": ["urn:cfo:red:roles:knight"],
+        "complement": ["urn:cfo:red:roles:page"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:roles:page",
+      "concept": "page as 4D observation principle",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "air (base)",
+      "planes": ["XW", "YW", "ZW"],
+      "ops": ["observe", "integrate", "advise"],
+      "evidence": "Page = meta-observer outside system hierarchy. Operates in 4D observational space integrating patterns across time. Medieval page learned by watching, jester spoke truth from outside power structure. Alpha quadra shares this long-term perspective (quarters-years) and informational focus. Swords (air cutting) = mental clarity and analytical truth. Air element = dispersed awareness seeing whole. Page role defined by consciousness watching system from outside.",
+      "confidence": 0.89,
+      "examples": [
+        "Medieval page observing court",
+        "Strategic advisor outside hierarchy",
+        "Researcher studying system",
+        "Philosopher analyzing patterns",
+        "Court jester speaking truth"
+      ],
+      "relations": {
+        "opposite": ["urn:cfo:red:roles:dame"],
+        "complement": ["urn:cfo:red:roles:king"]
+      }
+    }
+  ],
+  
+  "fractal_structure": {
+    "self_similarity": "Four-fold pattern at all scales: Individual (modes) → Team (positions) → Organization (departments) → Society (classes) → Civilization (epochs). Each level mirrors same archetypal structure.",
+    "recursion": "(↓ observe system → maintain structure → expand territory → explore beyond ↑)∞",
+    "emergence": "Four roles → Team dynamics → Organizational structure → Social hierarchy → Civilizational patterns",
+    "composition": "Complete system = all 4 roles present and balanced. Each role necessary, none sufficient alone."
+  },
+
+  "role_system": {
+    "overview": "Four fundamental social functions mapped to dimensional structure. Each role = stable archetypal position with specific temporal scale, ownership mode, and geometric signature.",
+    
+    "correspondence_table": {
+      "headers": ["Dimension", "Role", "Quadra", "Tarot", "Element", "Time Scale", "Ownership", "Geometric"],
+      "rows": [
+        {
+          "dimension": "1D",
+          "role": "Knight (Рыцарь)",
+          "quadra": "Delta (Дельта)",
+          "tarot": "Cups (Кубки)",
+          "element": "Earth",
+          "time_scale": "Month to Quarter",
+          "ownership": "None (flows through)",
+          "geometric": "Line, vector, < 90° angle"
+        },
+        {
+          "dimension": "2D",
+          "role": "Dame (Дама)",
+          "quadra": "Gamma (Гамма)",
+          "tarot": "Wands (Жезлы)",
+          "element": "Water",
+          "time_scale": "Week to Month",
+          "ownership": "Personal (my territory)",
+          "geometric": "Square, boundary, = 90° angle"
+        },
+        {
+          "dimension": "3D",
+          "role": "King (Король)",
+          "quadra": "Beta (Бета)",
+          "tarot": "Pentacles (Пентакли)",
+          "element": "Fire",
+          "time_scale": "Day to Week",
+          "ownership": "Collective (our kingdom)",
+          "geometric": "Sphere, volume, > 90° angle"
+        },
+        {
+          "dimension": "4D",
+          "role": "Page (Паж)",
+          "quadra": "Alpha (Альфа)",
+          "tarot": "Swords (Мечи)",
+          "element": "Air",
+          "time_scale": "Quarter to Years",
+          "ownership": "Information (knowledge)",
+          "geometric": "Tesseract, observer axis, inverted trapezoid"
+        }
+      ]
+    }
+  },
+
+  "role_definitions": {
+    "knight": {
+      "dimension": "1D",
+      "base_element": "Earth",
+      "quadra": "Delta",
+      "tarot_suit": "Cups",
+      
+      "essence": "Movement and exploration without territorial attachment. The wanderer, the messenger, the catalyst for change.",
+      
+      "core_function": "Traverse space-time carrying information and catalyzing transformation without claiming territory.",
+      
+      "temporal_scale": {
+        "primary": "Month to Quarter",
+        "characteristic": "Campaign length, quest duration, seasonal cycles",
+        "rhythm": "Slow sustained movement over long distances"
+      },
+      
+      "ownership_mode": {
+        "primary": "None - non-possessive",
+        "characteristic": "Carries but doesn't own, borrows but doesn't keep",
+        "relationship_to_resources": "Flow through, temporary stewardship"
+      },
+      
+      "geometric_signature": {
+        "primitive": "Line, vector, trajectory",
+        "form": "Vertical elongation, respiratory emphasis",
+        "angle": "Acute (< 90°) - striving upward and forward",
+        "body_pattern": "Long limbs, narrow frame, emphasis on breath and movement"
+      },
+      
+      "social_function": {
+        "primary": "Explorer, Scout, Messenger",
+        "secondary": "Catalyst, Connector, Traveler",
+        "role_in_system": "Brings new information, connects distant parts, prevents stagnation"
+      },
+      
+      "medieval_archetype": {
+        "historical": "Knight errant on quest",
+        "function": "Traveled months away from home base, sought adventure and honor, served through action",
+        "relationship": "Loyal to lord but physically absent, embodied ideals through deeds"
+      },
+      
+      "modern_expressions": [
+        "Traveling consultant connecting organizations",
+        "Field researcher gathering data",
+        "Sales representative covering territory",
+        "Nomadic worker, digital nomad",
+        "Messenger, courier, connector",
+        "Scout, explorer, pioneer"
+      ],
+      
+      "cognitive_pattern": {
+        "focus": "Sequential progression, forward momentum",
+        "strength": "Endurance, adaptability, ability to traverse difficult terrain",
+        "weakness": "Difficulty settling, commitment challenges, rootlessness",
+        "processing": "Linear, step-by-step, following trajectory"
+      },
+      
+      "energy_pattern": {
+        "direction": "Forward, outward along single axis",
+        "quality": "Sustained, enduring, patient",
+        "rhythm": "Steady pace over long duration",
+        "expression": "Action without accumulation"
+      },
+      
+      "shadow_aspects": {
+        "negative": "Perpetual wandering without purpose, inability to commit, homeless rootlessness",
+        "dysfunction": "Escapism through constant movement, avoiding depth by staying in motion",
+        "growth_edge": "Learning to ground movement in purpose, temporary stillness"
+      },
+      
+      "elemental_subtypes": {
+        "overview": "Any type in Knight role can express through 4 elemental modes",
+        
+        "knight_earth": {
+          "element": "Earth",
+          "expression": "Grounded steady movement, patient endurance, practical exploration",
+          "quality": "Most stable Knight expression, sustainable long-distance travel",
+          "example": "Long-distance hiker, methodical field researcher",
+          "shadow": "Slow to point of stagnation, overly cautious exploration"
+        },
+        
+        "knight_water": {
+          "element": "Water",
+          "expression": "Fluid adaptive movement, flowing through obstacles, emotional connection while traveling",
+          "quality": "Adaptable Knight, changes course easily, connects deeply in brief encounters",
+          "example": "Traveling healer, diplomatic messenger",
+          "shadow": "No direction, too easily diverted, loses mission in relationships"
+        },
+        
+        "knight_fire": {
+          "element": "Fire",
+          "expression": "Rapid passionate movement, transformative exploration, blazing new trails",
+          "quality": "Most dynamic Knight, conquers distance quickly, leaves strong impression",
+          "example": "Revolutionary messenger, rapid-response consultant",
+          "shadow": "Burns out, reckless exploration, destroys what it touches"
+        },
+        
+        "knight_air": {
+          "element": "Air",
+          "expression": "Light dispersed movement, mental exploration, observing while traveling",
+          "quality": "Most detached Knight, gathers information without attachment, sees patterns across territories",
+          "example": "Traveling scholar, reconnaissance scout",
+          "shadow": "Disconnected from ground, forgets to deliver messages, lost in observation"
+        }
+      },
+      
+      "developmental_stages": {
+        "immature": "Wandering without purpose, escapism through movement",
+        "developing": "Movement with mission, carrying specific messages",
+        "mature": "Conscious bridge-builder, connecting systems intentionally",
+        "mastery": "Embodies the path itself, movement becomes teaching"
+      },
+      
+      "interrole_dynamics": {
+        "with_dame": "Natural partnership - Knight explores, Dame integrates findings into structure",
+        "with_king": "Tension - Knight's non-possession vs King's accumulation, but Knight can scout for King",
+        "with_page": "Complementary - Knight brings field data, Page provides strategic context",
+        "imbalance": "Too many Knights = chaos and no consolidation. No Knights = stagnation."
+      }
+    },
+
+    "dame": {
+      "dimension": "2D",
+      "base_element": "Water",
+      "quadra": "Gamma",
+      "tarot_suit": "Wands",
+      
+      "essence": "Boundary maintenance and structural integrity. The guardian, the protector, the keeper of form.",
+      
+      "core_function": "Maintain and defend bounded personal or organizational space, ensure structural coherence.",
+      
+      "temporal_scale": {
+        "primary": "Week to Month",
+        "characteristic": "Domestic rhythms, maintenance cycles, regular upkeep periods",
+        "rhythm": "Cyclical repetition, sustainable maintenance patterns"
+      },
+      
+      "ownership_mode": {
+        "primary": "Personal - 'my territory'",
+        "characteristic": "Clear boundaries between mine and yours, personal domain defense",
+        "relationship_to_resources": "Steward of defined space, protector of specific assets"
+      },
+      
+      "geometric_signature": {
+        "primitive": "Square, rectangle, tessellating boundary",
+        "form": "Balanced proportions, muscular symmetry, structural strength",
+        "angle": "Right (= 90°) - perpendicular stability",
+        "body_pattern": "Symmetrical build, strong musculature, balanced frame"
+      },
+      
+      "social_function": {
+        "primary": "Guardian, Manager, Maintainer",
+        "secondary": "Protector, Organizer, Boundary-Keeper",
+        "role_in_system": "Ensures stability, maintains structures, defends against chaos"
+      },
+      
+      "medieval_archetype": {
+        "historical": "Lady of the manor managing estate",
+        "function": "Maintained castle, managed household, defended boundaries when lord absent",
+        "relationship": "Authority over domestic sphere, responsibility for people and property"
+      },
+      
+      "modern_expressions": [
+        "Property owner defending boundaries",
+        "Team manager maintaining structure",
+        "Small business owner protecting domain",
+        "Facilities manager ensuring operations",
+        "Family guardian keeping order",
+        "Systems administrator maintaining infrastructure"
+      ],
+      
+      "cognitive_pattern": {
+        "focus": "Structural integrity, pattern maintenance, boundary clarity",
+        "strength": "Organizational skill, defensive capability, systematic upkeep",
+        "weakness": "Rigidity, resistance to change, territorial defensiveness",
+        "processing": "Relational, contextual, boundary-aware"
+      },
+      
+      "energy_pattern": {
+        "direction": "Inward-protecting, boundary-reinforcing",
+        "quality": "Steady, reliable, defensive",
+        "rhythm": "Cyclical maintenance, regular reinforcement",
+        "expression": "Structure preservation through consistent effort"
+      },
+      
+      "shadow_aspects": {
+        "negative": "Rigid control, inability to adapt, fortress mentality",
+        "dysfunction": "Isolation through excessive boundaries, suffocating structure",
+        "growth_edge": "Learning to flex boundaries without collapse, strategic opening"
+      },
+      
+      "elemental_subtypes": {
+        "overview": "Any type in Dame role can express through 4 elemental modes",
+        
+        "dame_earth": {
+          "element": "Earth",
+          "expression": "Solid immovable boundaries, maximum stability, physical fortress",
+          "quality": "Most defensive Dame, unshakeable structure, grounded protection",
+          "example": "Traditional property owner, fortress keeper",
+          "shadow": "Immobile rigidity, cannot adapt, suffocating stability"
+        },
+        
+        "dame_water": {
+          "element": "Water",
+          "expression": "Fluid adaptive boundaries, osmotic structure, emotional container",
+          "quality": "Most flexible Dame, boundaries shift to contain what's needed",
+          "example": "Adaptive team manager, responsive organizer",
+          "shadow": "Boundaries too permeable, structure dissolves, emotional overwhelm"
+        },
+        
+        "dame_fire": {
+          "element": "Fire",
+          "expression": "Forceful active defense, aggressive boundary maintenance, passionate protection",
+          "quality": "Most assertive Dame, defends through strength, expanding personal space",
+          "example": "Fierce protector, aggressive defender of domain",
+          "shadow": "Tyrannical control, burns those who cross boundaries, destructive defense"
+        },
+        
+        "dame_air": {
+          "element": "Air",
+          "expression": "Mental boundaries, conceptual structure, intellectual organization",
+          "quality": "Most abstract Dame, maintains logical coherence, defends ideas",
+          "example": "Systems architect, framework maintainer, protocol keeper",
+          "shadow": "Cold analysis, disconnected from embodied reality, theoretical rigidity"
+        }
+      },
+      
+      "developmental_stages": {
+        "immature": "Defensive territoriality without purpose, rigid control",
+        "developing": "Conscious boundary-setting, structure serves function",
+        "mature": "Flexible strength, boundaries enable growth",
+        "mastery": "Boundaries as gift, protection enables freedom within"
+      },
+      
+      "interrole_dynamics": {
+        "with_knight": "Partnership - Dame integrates what Knight discovers, provides home base",
+        "with_king": "Tension - Dame's personal vs King's collective ownership, but Dame can manage King's territory",
+        "with_page": "Opposition - Dame wants structure, Page wants observation outside structure",
+        "imbalance": "Too many Dames = rigid bureaucracy. No Dames = collapse into chaos."
+      }
+    },
+
+    "king": {
+      "dimension": "3D",
+      "base_element": "Fire",
+      "quadra": "Beta",
+      "tarot_suit": "Pentacles",
+      
+      "essence": "Territorial expansion and resource accumulation. The ruler, the conqueror, the builder of empires.",
+      
+      "core_function": "Expand controlled territory, accumulate resources, exercise power through volumetric dominance.",
+      
+      "temporal_scale": {
+        "primary": "Day to Week",
+        "characteristic": "Immediate action, rapid conquest, quick decisions",
+        "rhythm": "Fast cycles of expansion, rapid resource acquisition"
+      },
+      
+      "ownership_mode": {
+        "primary": "Collective - 'our kingdom'",
+        "characteristic": "Shared territory under single authority, resources for the realm",
+        "relationship_to_resources": "Accumulator and distributor, controls collective wealth"
+      },
+      
+      "geometric_signature": {
+        "primitive": "Sphere, cube, volumetric space",
+        "form": "Horizontal width, digestive emphasis, mass accumulation",
+        "angle": "Obtuse (> 90°) - spreading outward in all directions",
+        "body_pattern": "Wide frame, powerful presence, accumulative tendency"
+      },
+      
+      "social_function": {
+        "primary": "Ruler, Commander, Empire-Builder",
+        "secondary": "Resource Controller, Territory Expander, Authority Figure",
+        "role_in_system": "Drives growth, controls resources, provides direction and power"
+      },
+      
+      "medieval_archetype": {
+        "historical": "King conquering and ruling territory",
+        "function": "Expanded kingdom through conquest, accumulated wealth, wielded power",
+        "relationship": "Absolute authority over domain, responsible for collective welfare"
+      },
+      
+      "modern_expressions": [
+        "CEO expanding company",
+        "Military commander taking territory",
+        "Political leader building power base",
+        "Entrepreneur scaling business",
+        "Investment manager accumulating assets",
+        "Gang leader controlling neighborhood"
+      ],
+      
+      "cognitive_pattern": {
+        "focus": "Expansion, accumulation, power dynamics, territorial control",
+        "strength": "Decisive action, resource mobilization, strategic conquest",
+        "weakness": "Overextension, greed, tyrannical tendencies",
+        "processing": "Volumetric, spatial, power-aware"
+      },
+      
+      "energy_pattern": {
+        "direction": "Outward in all directions, omnidirectional expansion",
+        "quality": "Forceful, consuming, transformative",
+        "rhythm": "Rapid pulses of conquest, feast-or-famine cycles",
+        "expression": "Power projection through physical presence and resource control"
+      },
+      
+      "shadow_aspects": {
+        "negative": "Tyranny, insatiable greed, destructive conquest",
+        "dysfunction": "Empire built on oppression, accumulation without purpose",
+        "growth_edge": "Learning to serve rather than dominate, benevolent power"
+      },
+      
+      "elemental_subtypes": {
+        "overview": "Any type in King role can express through 4 elemental modes",
+        
+        "king_earth": {
+          "element": "Earth",
+          "expression": "Stable territorial expansion, material accumulation, grounded empire-building",
+          "quality": "Most sustainable King, builds to last, systematic conquest",
+          "example": "Long-term empire builder, systematic expander",
+          "shadow": "Stagnant accumulation, hoarding without use, slow tyranny"
+        },
+        
+        "king_water": {
+          "element": "Water",
+          "expression": "Fluid expansion, adaptive conquest, emotional/relationship-based power",
+          "quality": "Most flexible King, expands through connection and alliance",
+          "example": "Diplomatic conqueror, network-building leader",
+          "shadow": "Manipulative expansion, emotional tyranny, boundary violation"
+        },
+        
+        "king_fire": {
+          "element": "Fire",
+          "expression": "Rapid forceful conquest, passionate expansion, transformative power",
+          "quality": "Most dynamic King, explosive growth, revolutionary force",
+          "example": "Conquering warlord, revolutionary leader, rapid-growth CEO",
+          "shadow": "Destructive expansion, burns resources and people, unsustainable conquest"
+        },
+        
+        "king_air": {
+          "element": "Air",
+          "expression": "Mental/intellectual empire, idea-based expansion, abstract authority",
+          "quality": "Most abstract King, rules through knowledge and vision",
+          "example": "Intellectual authority, paradigm-setter, thought leader",
+          "shadow": "Detached tyranny, rules without grounding, intellectual oppression"
+        }
+      },
+      
+      "developmental_stages": {
+        "immature": "Conquest for ego, tyrannical power, accumulation for status",
+        "developing": "Strategic expansion, resource control for group benefit",
+        "mature": "Benevolent authority, power as service, expansion with wisdom",
+        "mastery": "Philosopher-king, expansion serves coherence, power enables freedom"
+      },
+      
+      "interrole_dynamics": {
+        "with_knight": "Opposition - King's accumulation vs Knight's flow, but Knight can scout for expansion",
+        "with_dame": "Tension - King's collective vs Dame's personal ownership, but Dame can manage King's domain",
+        "with_page": "Partnership - Page provides long-term strategy, King provides resources for vision",
+        "imbalance": "Too many Kings = destructive competition and war. No Kings = weakness and stagnation."
+      }
+    },
+
+    "page": {
+      "dimension": "4D",
+      "base_element": "Air",
+      "quadra": "Alpha",
+      "tarot_suit": "Swords",
+      
+      "essence": "Meta-observation and pattern integration. The observer, the advisor, the seer outside the system.",
+      
+      "core_function": "Observe system from outside, integrate patterns across time, provide strategic wisdom.",
+      
+      "temporal_scale": {
+        "primary": "Quarter to Years",
+        "characteristic": "Long-term pattern recognition, multi-year strategies, historical perspective",
+        "rhythm": "Slow contemplation, patient observation, epochal thinking"
+      },
+      
+      "ownership_mode": {
+        "primary": "Information - knowledge as power",
+        "characteristic": "Owns perspective and insight, possesses understanding rather than material",
+        "relationship_to_resources": "Values information over physical assets, trades in wisdom"
+      },
+      
+      "geometric_signature": {
+        "primitive": "Tesseract, observer axis, 4D integration",
+        "form": "Minimal body/maximal head, cerebral emphasis, top-heavy",
+        "angle": "Inverted trapezoid - consciousness looking down on system",
+        "body_pattern": "Slender frame, large head proportion, minimal physicality"
+      },
+      
+      "social_function": {
+        "primary": "Advisor, Observer, Strategist",
+        "secondary": "Philosopher, Analyst, Truth-Teller",
+        "role_in_system": "Provides long-term vision, sees patterns others miss, speaks truth to power"
+      },
+      
+      "medieval_archetype": {
+        "historical": "Page observing court, jester speaking truth",
+        "function": "Learned by watching, served by understanding, existed outside hierarchy",
+        "relationship": "Access without authority, knowledge without power (officially)"
+      },
+      
+      "modern_expressions": [
+        "Strategic advisor outside org chart",
+        "Academic researcher studying systems",
+        "Independent consultant providing perspective",
+        "Philosopher analyzing patterns",
+        "Systems analyst seeing connections",
+        "Truth-teller in organization"
+      ],
+      
+      "cognitive_pattern": {
+        "focus": "Pattern recognition, system integration, temporal synthesis",
+        "strength": "Long-term vision, detached analysis, pattern synthesis",
+        "weakness": "Analysis paralysis, disconnection from action, ivory tower syndrome",
+        "processing": "Integrative, temporal, meta-systemic"
+      },
+      
+      "energy_pattern": {
+        "direction": "Omnidirectional awareness, 360° observation",
+        "quality": "Dispersed, subtle, all-pervading",
+        "rhythm": "Slow contemplative cycles, sudden insights",
+        "expression": "Understanding through watching, wisdom through patience"
+      },
+      
+      "shadow_aspects": {
+        "negative": "Paralysis through endless analysis, disconnection from reality, impotent observation",
+        "dysfunction": "Knowledge without application, wisdom that never serves, eternal student",
+        "growth_edge": "Learning to ground insight in action, bringing vision into matter"
+      },
+      
+      "elemental_subtypes": {
+        "overview": "Any type in Page role can express through 4 elemental modes",
+        
+        "page_earth": {
+          "element": "Earth",
+          "expression": "Grounded observation, practical wisdom, embodied understanding",
+          "quality": "Most practical Page, translates insight into actionable advice",
+          "example": "Practical strategist, grounded consultant",
+          "shadow": "Loses detachment, too focused on immediate, misses long-term patterns"
+        },
+        
+        "page_water": {
+          "element": "Water",
+          "expression": "Emotional intelligence observation, intuitive pattern recognition, empathic understanding",
+          "quality": "Most connected Page, feels system dynamics, understands through relationship",
+          "example": "Empathic advisor, relationship systems analyst",
+          "shadow": "Over-identifies with observed, loses objectivity, emotional overwhelm"
+        },
+        
+        "page_fire": {
+          "element": "Fire",
+          "expression": "Passionate vision, transformative insight, prophetic observation",
+          "quality": "Most dynamic Page, insights catalyze change, visionary power",
+          "example": "Prophetic advisor, revolutionary thinker",
+          "shadow": "Imposes vision forcefully, burns with intensity of insight, dogmatic wisdom"
+        },
+        
+        "page_air": {
+          "element": "Air",
+          "expression": "Pure mental observation, abstract pattern synthesis, detached clarity",
+          "quality": "Most detached Page, clearest insight, maximum objectivity",
+          "example": "Pure strategist, systems theorist, pattern synthesizer",
+          "shadow": "Complete disconnection, analysis paralysis, no grounding in reality"
+        }
+      },
+      
+      "developmental_stages": {
+        "immature": "Endless observation without action, knowledge as ego defense",
+        "developing": "Observation with purpose, patterns inform advice",
+        "mature": "Wisdom as service, insight grounded in reality",
+        "mastery": "Living wisdom, observation becomes teaching through presence"
+      },
+      
+      "interrole_dynamics": {
+        "with_knight": "Complementary - Page provides strategic context, Knight executes in field",
+        "with_dame": "Opposition - Page wants to transcend structure, Dame wants to maintain it",
+        "with_king": "Partnership - Page advises on long-term strategy, King provides resources for vision",
+        "imbalance": "Too many Pages = paralysis by analysis. No Pages = blind action without wisdom."
+      }
+    }
+  },
+
+  "system_dynamics": {
+    "completeness": {
+      "principle": "All four roles necessary for stable healthy system",
+      "minimum_viable": "At least one of each role prevents major dysfunction",
+      "optimal_distribution": "Context-dependent but rarely equal (usually more Dames/Kings than Knights/Pages)"
+    },
+
+    "missing_roles": {
+      "no_knight": {
+        "symptom": "Stagnation, no fresh input, isolation from outside",
+        "dysfunction": "System becomes closed loop, no new information",
+        "remedy": "Import explorers, encourage movement, create scout positions"
+      },
+      "no_dame": {
+        "symptom": "Chaos, no maintenance, structures collapse",
+        "dysfunction": "Nothing gets sustained, constant reinvention, no stability",
+        "remedy": "Create management roles, establish maintenance cycles, define boundaries"
+      },
+      "no_king": {
+        "symptom": "Weakness, no resources, inability to expand",
+        "dysfunction": "Atrophy through lack of growth, resource depletion",
+        "remedy": "Establish leadership, accumulate resources, create expansion strategy"
+      },
+      "no_page": {
+        "symptom": "Blindness to patterns, no long-term vision, reactive only",
+        "dysfunction": "Short-term thinking, strategic blunders, missing opportunities",
+        "remedy": "Create advisory roles, encourage reflection, value strategic thinking"
+      }
+    },
+
+    "role_excess": {
+      "too_many_knights": "Constant disruption, no consolidation, perpetual motion without progress",
+      "too_many_dames": "Rigid bureaucracy, excessive boundaries, suffocating structure",
+      "too_many_kings": "Destructive competition, resource waste, endless power struggles",
+      "too_many_pages": "Analysis paralysis, no action, ivory tower syndrome"
+    },
+
+    "role_cycling": {
+      "organizational_lifecycle": "Start-up needs Knights (exploration) → Growth needs Kings (expansion) → Maturity needs Dames (maintenance) → Decline needs Pages (strategic rethinking)",
+      "project_phases": "Initiation (Page strategy) → Execution (Knight action) → Management (Dame maintenance) → Scaling (King expansion)",
+      "individual_development": "Often progress Knight → Dame → King → Page across career/life"
+    }
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Roles are functional positions, not personality types",
+      "Type determines primary role tendency, but all types can access all roles",
+      "Elemental subtypes show HOW role is expressed",
+      "Complete system requires all four roles present"
+    ],
+    "info": [
+      "Four roles map perfectly to 1D→4D dimensional structure",
+      "Each role corresponds to specific quadra, tarot suit, and base element",
+      "Any type × 4 elements = 64 total archetypal configurations",
+      "Roles complement and oppose each other in specific patterns",
+      "Healthy systems maintain dynamic balance of all four roles"
+    ],
+    "coherence_score": 0.94
+  },
+  
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:dimensions",
+      "urn:cfo:module:humanology:personality-types",
+      "urn:cfo:module:humanology:body-archetypes",
+      "urn:cfo:core:dimensional-ladder"
+    ],
+    "external": [
+      {"type": "book", "citation": "Duby, G. (1980). The Three Orders: Feudal Society Imagined"},
+      {"type": "book", "citation": "Dumézil, G. (1958). L'idéologie tripartite des Indo-Européens"},
+      {"type": "book", "citation": "Waite, A.E. (1911). The Pictorial Key to the Tarot"},
+      {"type": "book", "citation": "Gulenko, V. (1995). Socionics: Introduction"},
+      {"type": "book", "citation": "Jung, C.G. (1921). Psychological Types"}
+    ]
+  },
+  
+  "ॐ": "∅"
+}

@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Geology as 3D PRIMARY science - Earth as layered spherical structure with deep time memory"
+  },
+
+   "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:natural:geology",
+    "version": "1.0.0",
+    "domain": "natural",
+    "name": "geology",
+    "title": "Geology - The Science of Planetary 3D Structure",
+    "description": "Geology studies Earth as 3D PRIMARY phenomenon: planet as layered sphere (crust, mantle, core), minerals as 3D crystal lattices, rocks as 3D volumes, landscapes as 3D topography. Earth element at planetary scale (10⁰m to 10⁷m). Deep time (4D) written in rock layers. All geology operates in 6D reality but PRIMARY FOCUS on spatial structure of planet.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["3D", "earth", "geology", "planet", "minerals", "rocks", "tectonic-plates", "deep-time", "planetary-scale"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "3D PRIMARY - Earth as layered sphere. Concentric shells (inner core, outer core, mantle, crust) nested within each other. Minerals = 3D crystal lattices. Rocks = 3D aggregates. Mountains = 3D topography. Planet as ultimate 3D structure.",
+    "ontological": "Geology = study of planetary 3D structure + materials (minerals, rocks) + processes (tectonics, volcanism, erosion) operating over 4D deep time. Bridge between Chemistry (atomic scale) and Astronomy (cosmic scale). Earth element crystallized as planet.",
+    "functional": "Studies how planet organizes itself structurally: internal layering (differentiation), surface patterns (plate tectonics), material properties (mineralogy), landscape evolution. 3D geometry determines geophysical behavior.",
+    "multidimensional": "Earth exists in all 6D: minerals (0D species), erosion (1D processes), tectonic plates (2D surfaces), planetary structure (3D PRIMARY layers), geological time (4D deep history), universal formation principles (5D). Geology focuses through 3D lens.",
+    "identity": "Geology ≡ Science of Planetary 3D Structure ≡ Earth as Layered Sphere ≡ Deep Time Written in Stone"
+  },
+  
+  "fundamental_principle": {
+    "core": "PLANET AS 3D LAYERED SPHERE. Earth organized as concentric shells with increasing density toward center. Each layer has distinct 3D structure, composition, physical state. Internal structure determines surface phenomena (tectonics, volcanism, magnetism).",
+    "earth_element_3d": "Earth element (stable structures) manifests as planetary 3D body at 10⁷m scale. Most stable, solid, structured manifestation of matter in solar system. Planet = cosmic-scale crystal.",
+    "scale": "Geology operates at planetary scale: minerals (10⁻⁹m crystals) → rocks (10⁻¹m) → landforms (10³m) → continents (10⁶m) → whole planet (10⁷m diameter). Human-scale geology studies 3D structures visible and tangible.",
+    "deep_time": "4D component crucial: Earth 4.54 billion years old. Present is key to past. Rock layers record 4D history. Processes slow but cumulative over deep time.",
+    "self_organization": "Planet self-organized through: gravitational differentiation (heavy elements sink), thermal convection (mantle flow), chemical fractionation (crust formation), dynamic equilibrium (rock cycle).",
+    "six_dimensions": "Geology is 6D but PRIMARY 3D: Minerals (0D discrete species), Processes (1D erosion/flow), Plates (2D surfaces), Structure (3D PRIMARY layers), Deep Time (4D geological memory), Planetary Laws (5D universal)"
+  },
+  
+  "dimensional_structure": {
+    "0D_discrete": "Individual minerals (quartz, feldspar, calcite), distinct rock types, geological events (eruptions, earthquakes as points in space-time)",
+    "1D_processes": "Erosion streams, magma flow, seismic wave propagation, river courses, glacial motion, sediment transport",
+    "2D_surfaces": "Tectonic plates, fault planes, stratigraphic bedding surfaces, fold surfaces, unconformities, terrain maps",
+    "3D_structures_PRIMARY": "Planetary layers (core/mantle/crust), crystal lattices, rock volumes, mountain ranges, sedimentary basins, ore bodies",
+    "4D_temporal": "Rock cycle, plate motion history, mountain building, erosion sequences, geological time scale, stratigraphic succession",
+    "5D_principles": "Uniformitarianism, isostasy, thermodynamics of Earth, planetary differentiation laws, conservation principles"
+  },
+  
+  "reductions": [
+    "See geology_full.json for complete reductions"
+  ],
+  
+  "validation": {
+    "passed": true,
+    "coherence_score": 0.96
+  },
+  
+  "references": {
+    "internal": [
+      "urn:cfo:module:natural:cosmology",
+      "urn:cfo:module:natural:biology",
+      "urn:cfo:module:natural:chemistry"
+    ]
+  }
+}

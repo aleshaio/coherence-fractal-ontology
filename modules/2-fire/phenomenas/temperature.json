@@ -1,0 +1,394 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:phenomenas:temperature",
+    "version": "1.0.0",
+    "domain": "phenomenas",
+    "name": "temperature",
+    "title": "Temperature: Molecular Motion Made Perceptible",
+    "description": "Temperature is average kinetic energy of molecules. Heat and cold. Thermal equilibrium. Third law: absolute zero unreachable. Felt through thermoception.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["temperature", "heat", "cold", "thermal", "kinetic", "energy", "thermodynamics"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Temperature = 0D point value (scalar) that can create 2D field (thermal gradients)",
+    "physical": "Average kinetic energy of molecular motion. T ∝ ⟨E_kinetic⟩",
+    "experiential": "Warmth and coldness. Comfort and discomfort. Energy flow through skin.",
+    "consciousness": "Thermoception's object. Direct sensation of energy exchange.",
+    "thermodynamic": "Measure of system's internal energy. Determines direction of heat flow."
+  },
+
+  "scales": {
+    "celsius": {
+      "symbol": "°C",
+      "zero_point": "Water freezing (273.15 K)",
+      "boiling_point": "Water boiling at 1 atm = 100°C",
+      "use": "Everyday, scientific (outside US)"
+    },
+    "fahrenheit": {
+      "symbol": "°F",
+      "zero_point": "Brine freezing point",
+      "conversion": "°F = (°C × 9/5) + 32",
+      "use": "United States, some Caribbean"
+    },
+    "kelvin": {
+      "symbol": "K",
+      "zero_point": "Absolute zero (0 K = -273.15°C)",
+      "no_negative": "Cannot go below 0 K",
+      "use": "Physics, thermodynamics, scientific standard",
+      "relation": "K = °C + 273.15"
+    },
+    "rankine": {
+      "symbol": "°R",
+      "zero_point": "Absolute zero",
+      "relation": "Like Kelvin but Fahrenheit-sized degrees",
+      "use": "Engineering (rare)"
+    }
+  },
+
+  "absolute_zero": {
+    "value": "0 K = -273.15°C = -459.67°F",
+    "definition": "Temperature at which molecular motion ceases (classically)",
+    "third_law": "Absolute zero unreachable in finite steps",
+    "quantum": "Even at 0 K, zero-point energy remains (ΔE ≥ ℏω/2)",
+    "coldest_achieved": "~100 picokelvin in labs (not quite zero)",
+    "implications": "Entropy → 0 as T → 0 (Third Law of Thermodynamics)"
+  },
+
+  "heat_vs_temperature": {
+    "temperature": {
+      "definition": "Intensive property. Average kinetic energy per molecule.",
+      "measure": "Scalar value in K, °C, or °F",
+      "property": "Does not depend on amount of substance"
+    },
+    "heat": {
+      "definition": "Extensive property. Total thermal energy transferred.",
+      "measure": "Joules (J) or calories (cal)",
+      "property": "Depends on mass and temperature change",
+      "formula": "Q = mcΔT (for specific heat c)"
+    },
+    "distinction": "Temperature = intensity. Heat = quantity."
+  },
+
+  "heat_transfer": {
+    "conduction": {
+      "mechanism": "Direct molecular contact transfers energy",
+      "equation": "q = -k∇T (Fourier's law)",
+      "examples": "Metal spoon in hot coffee, heat through wall",
+      "good_conductors": "Metals (high k)",
+      "poor_conductors": "Wood, air, insulators (low k)"
+    },
+
+    "convection": {
+      "mechanism": "Fluid motion carries thermal energy",
+      "types": {
+        "natural": "Buoyancy-driven (hot air rises)",
+        "forced": "External force (fan, pump)"
+      },
+      "examples": "Boiling water, atmospheric circulation, radiator heating"
+    },
+
+    "radiation": {
+      "mechanism": "Electromagnetic waves carry energy (no medium needed)",
+      "law": "Stefan-Boltzmann: P = σεAT⁴",
+      "examples": "Sun heating Earth, infrared heaters, thermal cameras",
+      "all_objects": "Everything above 0 K radiates"
+    }
+  },
+
+  "thermodynamics_laws": {
+    "zeroth_law": {
+      "statement": "If A in equilibrium with B, and B with C, then A with C",
+      "implication": "Temperature is well-defined. Transitivity.",
+      "consequence": "Can build thermometers"
+    },
+
+    "first_law": {
+      "statement": "Energy conserved: ΔU = Q - W",
+      "meaning": "Change in internal energy = heat added - work done",
+      "consequence": "Cannot create energy from nothing"
+    },
+
+    "second_law": {
+      "statement": "Entropy of isolated system never decreases",
+      "clausius": "Heat flows hot → cold spontaneously, not reverse",
+      "carnot": "No heat engine more efficient than Carnot engine",
+      "consequence": "Arrow of time. Order → disorder naturally"
+    },
+
+    "third_law": {
+      "statement": "Entropy → 0 as T → 0 K",
+      "implication": "Perfect crystal at 0 K has zero entropy",
+      "consequence": "Absolute zero unreachable in finite steps"
+    }
+  },
+
+  "phase_transitions": {
+    "solid_liquid": {
+      "process": "Melting (solid → liquid) or Freezing (liquid → solid)",
+      "temperature": "Melting point (constant during transition)",
+      "example": "Ice ↔ Water at 0°C (273.15 K)"
+    },
+
+    "liquid_gas": {
+      "process": "Boiling/Evaporation (liquid → gas) or Condensation (gas → liquid)",
+      "temperature": "Boiling point (pressure-dependent)",
+      "example": "Water ↔ Steam at 100°C (373.15 K) at 1 atm"
+    },
+
+    "solid_gas": {
+      "process": "Sublimation (solid → gas) or Deposition (gas → solid)",
+      "example": "Dry ice (CO₂) sublimates, frost forms"
+    },
+
+    "latent_heat": {
+      "definition": "Energy required for phase change at constant T",
+      "fusion": "Solid ↔ liquid",
+      "vaporization": "Liquid ↔ gas",
+      "note": "Temperature constant during phase transition despite energy input"
+    }
+  },
+
+  "perception_by_thermoception": {
+    "sensor": "Thermoception",
+    "detector": "Thermoreceptors in skin and internal organs",
+    
+    "receptors": {
+      "cold_receptors": {
+        "type": "A-delta and C fibers",
+        "activation": "10-35°C",
+        "peak": "~25°C",
+        "ion_channels": "TRPM8 (menthol receptor)"
+      },
+      "warm_receptors": {
+        "type": "C fibers",
+        "activation": "30-45°C",
+        "peak": "~40°C",
+        "ion_channels": "TRPV3, TRPV4"
+      },
+      "hot_pain": {
+        "type": "Nociceptors",
+        "activation": ">45°C",
+        "ion_channels": "TRPV1 (capsaicin receptor)",
+        "damage": "Protein denaturation begins"
+      }
+    },
+
+    "adaptation": {
+      "phenomenon": "Sensation fades with constant temperature",
+      "mechanism": "Receptor desensitization",
+      "example": "Water feels normal after initial shock"
+    },
+
+    "thermal_grill_illusion": {
+      "setup": "Alternating warm and cool surfaces",
+      "perception": "Feels painfully hot (though not hot)",
+      "explanation": "Neural integration error",
+      "note": "Brain creates pain from conflicting signals"
+    },
+
+    "reference": "humanology/senses/thermoception.json"
+  },
+
+  "thermal_comfort": {
+    "human_range": "~18-24°C (64-75°F) comfortable for most",
+    
+    "factors": {
+      "air_temperature": "Primary factor",
+      "radiant_temperature": "Walls, windows, sun",
+      "humidity": "Affects evaporative cooling",
+      "air_movement": "Wind chill or breeze",
+      "clothing": "Insulation value",
+      "activity": "Metabolic heat generation"
+    },
+
+    "homeostasis": {
+      "core_temp": "~37°C (98.6°F) maintained tightly",
+      "regulation": "Hypothalamus controls",
+      "mechanisms": {
+        "too_hot": "Sweating, vasodilation, panting",
+        "too_cold": "Shivering, vasoconstriction, piloerection"
+      }
+    },
+
+    "extremes": {
+      "hyperthermia": ">40°C core temp (heat stroke, fatal)",
+      "hypothermia": "<35°C core temp (fatal if continues)",
+      "survival_range": "~28-42°C core temperature"
+    }
+  },
+
+  "temperature_in_nature": {
+    "sun_surface": "~5,778 K (5,505°C)",
+    "sun_core": "~15 million K",
+    "earth_average": "~288 K (15°C)",
+    "human_body": "~310 K (37°C)",
+    "room_temperature": "~293 K (20°C)",
+    "water_freezing": "273.15 K (0°C)",
+    "liquid_nitrogen": "77 K (-196°C)",
+    "liquid_helium": "4.2 K (-269°C)",
+    "coldest_natural": "~1 K (deep space)",
+    "coldest_lab": "~100 pK (picokelvin)",
+    "hottest_lab": "~5.5 trillion K (quark-gluon plasma, CERN)"
+  },
+
+  "blackbody_radiation": {
+    "principle": "All objects emit thermal radiation",
+    "wien_law": "λ_max = b/T (peak wavelength inversely proportional to temperature)",
+    "stefan_boltzmann": "Power ∝ T⁴",
+    
+    "implications": {
+      "hot_objects": "Emit visible light (glow red, white)",
+      "room_temp": "Emit infrared (invisible to eye)",
+      "cold_objects": "Emit very long wavelength (still radiate)"
+    },
+
+    "thermal_imaging": "Cameras detect infrared radiation to see temperature"
+  },
+
+  "entropy_and_temperature": {
+    "statistical": "Temperature ∝ (∂S/∂E)⁻¹",
+    "interpretation": "Temperature = how entropy changes with energy",
+    "high_temp": "Adding energy increases entropy a little (many states already accessible)",
+    "low_temp": "Adding energy increases entropy a lot (few states accessible)",
+    "negative_temperature": "Theoretically possible in special systems (population inversion)"
+  },
+
+  "quantum_effects": {
+    "zero_point_energy": "Even at 0 K, ΔE ≥ ℏω/2 (Heisenberg)",
+    "bose_einstein_condensate": "Ultra-cold bosons occupy same quantum state",
+    "superconductivity": "Zero electrical resistance below critical temperature",
+    "superfluidity": "Zero viscosity (helium-4 below 2.17 K)"
+  },
+
+  "philosophical_dimensions": {
+    "energy_perception": {
+      "principle": "Temperature = direct feeling of molecular energy",
+      "embodied": "Most immediate sense of energy exchange",
+      "boundary": "Skin = interface where energy flows"
+    },
+
+    "equilibrium": {
+      "tendency": "Systems move toward thermal equilibrium",
+      "metaphor": "Peace = thermal equilibrium of emotions",
+      "entropy": "Equilibrium = maximum entropy state"
+    },
+
+    "comfort_zone": {
+      "literal": "Narrow range of comfortable temperatures",
+      "metaphor": "Psychological comfort zones",
+      "expansion": "Adaptation expands tolerance"
+    }
+  },
+
+  "cfo_integration": {
+    "dimension": "0D-2D",
+    "reason": "Temperature = 0D scalar at point, but creates 2D gradient fields",
+    
+    "coherence": {
+      "equilibrium": "Maximum coherence = uniform temperature (thermal equilibrium)",
+      "gradient": "Temperature difference = driving force for energy flow",
+      "dissipation": "Heat flow increases entropy (decreases coherence)"
+    },
+
+    "energy_flow": {
+      "hot_to_cold": "Energy flows down temperature gradient",
+      "irreversible": "Cannot spontaneously reverse (2nd law)",
+      "arrow_of_time": "Temperature flow defines time's direction"
+    }
+  },
+
+  "applications": {
+    "comfort": "HVAC systems, clothing, shelter",
+    "cooking": "Precise temperature control for desired reactions",
+    "medicine": "Body temperature diagnostics, hypothermia/hyperthermia treatment",
+    "industry": "Material processing, chemical reactions",
+    "energy": "Heat engines, refrigeration, thermal power plants",
+    "measurement": "Thermometers, thermal imaging",
+    "science": "Cryogenics, plasma physics, thermodynamics research"
+  },
+
+  "mysteries": {
+    "subjective_warmth": {
+      "question": "Why does metal feel colder than wood at same temperature?",
+      "answer": "Metal conducts heat away from skin faster (high k)",
+      "perception": "We feel rate of heat loss, not temperature directly"
+    },
+
+    "fever_benefit": {
+      "question": "Why do we evolved fever response?",
+      "hypothesis": "Higher temperature inhibits pathogens, enhances immune response",
+      "cost": "Metabolically expensive, can cause damage if too high"
+    },
+
+    "heat_death": {
+      "concept": "Ultimate fate of universe = maximum entropy, uniform temperature",
+      "implication": "No temperature gradients = no energy flow = no work = no life",
+      "timeframe": "10¹⁰⁰+ years in future"
+    }
+  },
+
+  "related_phenomenas": {
+    "light": "Infrared light = thermal radiation → phenomenas/light.json",
+    "pressure": "Temperature affects molecular collisions → phenomenas/pressure.json",
+    "energy": "Temperature = form of energy → fundamental/energy.json"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "info": ["Comprehensive temperature module", "Matched to thermoception sensor"],
+    "coherence_score": 0.96
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:phenomenas:light",
+      "urn:cfo:module:humanology:senses:thermoception",
+      "urn:cfo:module:fundamental:energy"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Callen, H. B. (1985). Thermodynamics and an Introduction to Thermostatistics"
+      },
+      {
+        "type": "book",
+        "citation": "Zemansky, M. W., & Dittman, R. H. (1997). Heat and Thermodynamics"
+      }
+    ]
+  },
+
+  "meta": {
+    "phenomenon_id": 8,
+    "sensor": "thermoception",
+    "essence": "Molecular kinetic energy made perceptible",
+    "experience": "Warmth and coldness at skin boundary"
+  },
+
+  "ॐ": "∅"
+}

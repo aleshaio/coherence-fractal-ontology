@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:phenomenas:pressure",
+    "version": "1.0.0",
+    "domain": "phenomenas",
+    "name": "pressure",
+    "title": "Pressure: Force Per Area, Contact Made Perceptible",
+    "description": "Pressure is force distributed over area (P = F/A). Mechanical contact. Touch, vibration, texture. Atmospheric weight. Felt through tactile receptors.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["pressure", "force", "contact", "touch", "mechanical", "vibration", "Pascal"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Pressure = 0D point force, or 2D distributed force field across surface",
+    "physical": "Force per unit area. P = F/A. Measured in Pascals (Pa) or psi.",
+    "experiential": "Contact, push, squeeze, vibration, texture. Boundary of self against world.",
+    "consciousness": "Touch's object. Direct sensation of mechanical interaction.",
+    "boundary": "Where body meets not-body. Interface between self and other."
+  },
+
+  "definition": {
+    "formula": "P = F/A",
+    "units": {
+      "pascal": "Pa = N/m² (SI standard)",
+      "bar": "1 bar = 100,000 Pa = 0.987 atm",
+      "atmosphere": "1 atm = 101,325 Pa (sea level)",
+      "psi": "Pounds per square inch (1 psi = 6,894.76 Pa)",
+      "mmHg": "Millimeters of mercury (1 mmHg = 133.322 Pa)",
+      "torr": "1 torr ≈ 1 mmHg"
+    },
+    "scalar_field": "Pressure at each point in space"
+  },
+
+  "types": {
+    "static_pressure": {
+      "definition": "Steady force per area, not moving",
+      "examples": ["Weight on surface", "Atmospheric pressure", "Hydraulic press"],
+      "perception": "Constant touch, weight"
+    },
+
+    "dynamic_pressure": {
+      "definition": "Pressure from moving fluid: P_dynamic = ½ρv²",
+      "examples": ["Wind pressure", "Water jet", "Blood pressure"],
+      "bernoulli": "Static + dynamic + gravitational = constant"
+    },
+
+    "oscillating_pressure": {
+      "definition": "Periodic pressure variation (waves)",
+      "examples": ["Sound waves", "Vibration", "Heartbeat pulse"],
+      "perception": "Vibration, buzzing, rumble",
+      "frequency_range": "0.1 Hz - 1000 Hz detectable by skin"
+    },
+
+    "impact_pressure": {
+      "definition": "Sudden, brief high pressure",
+      "examples": ["Hit, slap, drop", "Explosion shockwave"],
+      "perception": "Sharp sensation, potential pain"
+    }
+  },
+
+  "atmospheric_pressure": {
+    "sea_level": "101,325 Pa = 1 atm = 1013.25 mbar",
+    "weight": "~10 tons per square meter on Earth's surface",
+    "why_not_felt": "Equal pressure inside body balances outside",
+    
+    "altitude_variation": {
+      "mechanism": "Less air above → lower pressure",
+      "sea_level": "101,325 Pa",
+      "1000m": "~89,875 Pa",
+      "5000m": "~54,020 Pa (half of sea level)",
+      "mount_everest": "~33,730 Pa (8,848m)",
+      "formula": "P ≈ P₀ exp(-Mgh/RT) (barometric formula)"
+    },
+
+    "weather": {
+      "high_pressure": ">1020 mbar (clear, stable)",
+      "low_pressure": "<1000 mbar (storms, clouds)",
+      "pressure_gradient": "Drives wind from high to low"
+    },
+
+    "space": {
+      "vacuum": "~0 Pa (no atmosphere)",
+      "consequence": "Body fluids boil, lungs damaged without suit"
+    }
+  },
+
+  "hydrostatic_pressure": {
+    "definition": "Pressure from fluid weight: P = ρgh",
+    "depth_dependence": "Increases with depth",
+    
+    "water": {
+      "formula": "P_water ≈ 1 atm + (depth_meters / 10) atm",
+      "10m_depth": "~2 atm",
+      "100m_depth": "~11 atm",
+      "deepest_ocean": "~1,086 atm (Mariana Trench, 10,994m)"
+    },
+
+    "blood_pressure": {
+      "measurement": "mmHg (torr)",
+      "systolic": "~120 mmHg (heart contracts)",
+      "diastolic": "~80 mmHg (heart relaxes)",
+      "notation": "120/80 mmHg",
+      "hydrostatic": "Blood pressure varies with height in body (standing vs lying)"
+    }
+  },
+
+  "pressure_effects": {
+    "compression": {
+      "mechanism": "High pressure reduces volume",
+      "examples": ["Divingsuit compressed at depth", "Gas cylinder"],
+      "ideal_gas": "PV = nRT (pressure × volume = constant at fixed T)"
+    },
+
+    "barotrauma": {
+      "definition": "Tissue damage from pressure difference",
+      "examples": [
+        "Ear pain during flight (pressure difference across eardrum)",
+        "The bends (nitrogen bubbles from rapid decompression)",
+        "Lung overexpansion from holding breath while ascending"
+      ],
+      "prevention": "Equalize pressure (yawn, swallow, slow ascent)"
+    },
+
+    "boiling_point": {
+      "pressure_dependence": "Lower pressure → lower boiling point",
+      "sea_level": "Water boils at 100°C",
+      "mount_everest": "Water boils at ~70°C",
+      "vacuum": "Water boils at room temperature"
+    }
+  },
+
+  "perception_by_touch": {
+    "sensor": "Touch (tactile sense)",
+    "detector": "Mechanoreceptors in skin",
+    
+    "mechanoreceptors": {
+      "merkel_discs": {
+        "location": "Superficial skin",
+        "response": "Slow-adapting (sustained pressure)",
+        "function": "Fine details, edges, texture",
+        "density": "High in fingertips"
+      },
+      "meissner_corpuscles": {
+        "location": "Superficial skin (dermal papillae)",
+        "response": "Fast-adapting (changes in pressure)",
+        "function": "Light touch, low-frequency vibration (10-50 Hz)",
+        "density": "High in fingertips, lips"
+      },
+      "ruffini_endings": {
+        "location": "Deep dermis",
+        "response": "Slow-adapting",
+        "function": "Skin stretch, sustained pressure",
+        "role": "Proprioception aid"
+      },
+      "pacinian_corpuscles": {
+        "location": "Deep skin, joints, organs",
+        "response": "Fast-adapting",
+        "function": "High-frequency vibration (40-500 Hz), deep pressure",
+        "sensitivity": "Most sensitive mechanoreceptor"
+      }
+    },
+
+    "two_point_discrimination": {
+      "definition": "Minimum distance between two points felt as separate",
+      "fingertip": "~2-3 mm",
+      "palm": "~10 mm",
+      "back": "~40-50 mm",
+      "variation": "Higher receptor density = better discrimination"
+    },
+
+    "adaptation": {
+      "fast_adapting": "Respond to changes, ignore steady pressure (clothes unfelt)",
+      "slow_adapting": "Continue responding to sustained pressure (holding object)",
+      "benefit": "Detect changes while ignoring constant background"
+    },
+
+    "reference": "humanology/senses/touch.json"
+  },
+
+  "vibration": {
+    "definition": "Oscillating pressure, periodic mechanical wave",
+    
+    "frequency_ranges": {
+      "infrasound": "<20 Hz (felt, not heard)",
+      "flutter": "20-40 Hz (felt as vibration)",
+      "roughness": "40-200 Hz (textured sensation)",
+      "smoothness": "200-500 Hz (smooth vibration)",
+      "ultrasound": ">500 Hz (beyond tactile detection)"
+    },
+
+    "sources": {
+      "natural": ["Earthquake", "Thunder", "Heartbeat", "Vocal cords"],
+      "artificial": ["Phone vibration", "Massage devices", "Speakers"]
+    },
+
+    "transmission": {
+      "through_solid": "Vibration travels through objects to skin",
+      "through_air": "Low frequency vibration felt (not just heard)",
+      "resonance": "Objects vibrate at natural frequencies"
+    }
+  },
+
+  "texture": {
+    "definition": "Spatial pattern of pressure variations",
+    "perception": "Combination of multiple mechanoreceptors",
+    
+    "properties": {
+      "roughness": "Amplitude and frequency of surface variations",
+      "softness": "Compliance, deformation under pressure",
+      "temperature": "Often conflated with texture (metal feels colder)",
+      "friction": "Resistance to sliding"
+    },
+
+    "active_touch": {
+      "haptic_exploration": "Moving fingers to explore texture",
+      "importance": "Movement essential for texture perception",
+      "braille": "Reading through textured patterns"
+    }
+  },
+
+  "sound_as_pressure": {
+    "relationship": "Sound = pressure wave in medium",
+    "ear_detection": "Eardrum vibrates from pressure oscillations",
+    "skin_detection": "Low frequency sound felt as vibration",
+    "crossover": "Below ~20 Hz, more felt than heard",
+    "reference": "phenomenas/sound.json"
+  },
+
+  "pressure_in_body": {
+    "blood_pressure": {
+      "systolic": "120 mmHg (peak during heartbeat)",
+      "diastolic": "80 mmHg (lowest between beats)",
+      "hypertension": ">140/90 mmHg (high blood pressure)",
+      "hypotension": "<90/60 mmHg (low blood pressure)"
+    },
+
+    "intracranial_pressure": {
+      "normal": "7-15 mmHg",
+      "elevated": ">20 mmHg (dangerous, brain damage risk)",
+      "causes": "Trauma, tumor, hydrocephalus"
+    },
+
+    "intraocular_pressure": {
+      "normal": "10-21 mmHg",
+      "glaucoma": ">21 mmHg (optic nerve damage)",
+      "measurement": "Tonometry"
+    },
+
+    "bladder_pressure": {
+      "empty": "~5 mmHg",
+      "full": "~40 mmHg",
+      "urge": "Felt at ~25-30 mmHg"
+    }
+  },
+
+  "extreme_pressures": {
+    "vacuum": {
+      "space": "~10⁻¹⁷ Pa",
+      "lab_ultra_high_vacuum": "~10⁻¹⁰ Pa",
+      "consequences": "Boiling, expansion, no sound transmission"
+    },
+
+    "high_pressure": {
+      "earth_core": "~360 GPa (3.6 million atm)",
+      "diamond_anvil_cell": "~300 GPa (lab record)",
+      "consequences": "Phase changes (graphite → diamond), material property changes"
+    },
+
+    "records": {
+      "lowest_pressure": "Ultra-high vacuum chambers (~10⁻¹³ Pa)",
+      "highest_pressure": "Brief shock waves (TPa = 10¹² Pa)"
+    }
+  },
+
+  "philosophical_dimensions": {
+    "boundary": {
+      "principle": "Pressure = where self meets world",
+      "contact": "Touch defines edge of body",
+      "intimacy": "Pressure = physical connection"
+    },
+
+    "resistance": {
+      "force_back": "Pressure = mutual. You push wall, wall pushes you.",
+      "newton_third": "Action = reaction",
+      "solidity": "Feeling pressure = knowing something is there"
+    },
+
+    "weight": {
+      "gravity_pressure": "Weight = constant downward pressure",
+      "groundedness": "Pressure from ground = feeling of support",
+      "metaphor": "Feeling pressured = psychological weight"
+    }
+  },
+
+  "cfo_integration": {
+    "dimension": "0D-2D",
+    "reason": "Pressure = 0D scalar at point, or 2D field across surface",
+    
+    "coherence": {
+      "uniform_pressure": "Equilibrium = equal pressure (maximum coherence)",
+      "gradient": "Pressure difference drives flow (creates change)",
+      "balance": "Balancing pressures = stability"
+    },
+
+    "boundary_dynamics": {
+      "skin_as_interface": "Pressure measurement defines self/other boundary",
+      "permeability": "How much pressure to penetrate? (pain threshold)",
+      "integrity": "Too much pressure = damage to boundary"
+    }
+  },
+
+  "applications": {
+    "measurement": "Barometers, manometers, pressure sensors",
+    "medicine": "Blood pressure monitoring, compression therapy",
+    "engineering": "Hydraulics, pneumatics, pressure vessels",
+    "diving": "Decompression tables, pressure suits",
+    "haptics": "Touch screens, force feedback, tactile displays",
+    "massage": "Therapeutic pressure application",
+    "weather": "Barometric pressure forecasting"
+  },
+
+  "mysteries": {
+    "phantom_touch": {
+      "question": "Why do amputees feel touch on missing limbs?",
+      "explanation": "Brain map persists, adjacent areas activate it",
+      "implication": "Touch = as much brain as body"
+    },
+
+    "referred_pain": {
+      "phenomenon": "Internal organ pain felt on skin surface",
+      "example": "Heart attack pain in left arm",
+      "mechanism": "Convergent neural pathways"
+    },
+
+    "pressure_pleasure": {
+      "question": "Why does massage feel good?",
+      "hypotheses": ["Endorphin release", "Parasympathetic activation", "Myofascial release"],
+      "mystery": "Exact mechanisms not fully understood"
+    }
+  },
+
+  "related_phenomenas": {
+    "sound": "Sound = pressure oscillation → phenomenas/sound.json",
+    "force": "Pressure = force per area → related but distinct",
+    "gravity": "Weight = gravitational force creating pressure → phenomenas/gravity.json"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "info": ["Comprehensive pressure module", "Matched to touch sensor"],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:phenomenas:sound",
+      "urn:cfo:module:phenomenas:gravity",
+      "urn:cfo:module:humanology:senses:touch"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Kandel, E. R., et al. (2013). Principles of Neural Science (5th ed.) - Touch chapter"
+      },
+      {
+        "type": "article",
+        "citation": "Johnson, K. O. (2001). The roles and functions of cutaneous mechanoreceptors"
+      }
+    ]
+  },
+
+  "meta": {
+    "phenomenon_id": 3,
+    "sensor": "touch",
+    "essence": "Force distributed over area, mechanical contact made perceptible",
+    "boundary": "Where self meets world through pressure"
+  },
+
+  "ॐ": "∅"
+}

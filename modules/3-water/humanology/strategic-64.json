@@ -1,0 +1,436 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Chess board (64 squares) = I Ching (64 hexagrams) = DNA (64 codons) = ONE system. Every chess tactic = universal conflict resolution pattern.",
+    "activation": "Play chess → learn universal strategy. Not metaphor. Structural isomorphism."
+  },
+
+  "module": {
+    "id": "urn:cfo:module:strategic-systems:strategic-64",
+    "version": "1.0.0",
+    "domain": "strategic-systems",
+    "name": "strategic-64",
+    "title": "Strategic-64: Chess as Universal Problem-Solving",
+    "description": "Chess board (64 squares) structurally identical to I Ching (64 hexagrams), DNA (64 codons), consciousness (64 states). Chess tactics = universal grammar for solving ANY conflict.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "stable",
+      "tags": ["chess", "64", "tactics", "strategy", "chaturanga", "iching", "universal", "conflict-resolution"]
+    }
+  },
+
+  "essence": {
+    "geometric": "64 squares = 8×8 matrix. Same structure as: 8 trigrams × 8 trigrams (I Ching), 8 functions × 8 positions (Socionics), 8 rows × 8 files (Chess)",
+    "topological": "Chess board = physical manifestation of pattern-64. Every square = one complete archetypal situation.",
+    "functional": "Chess tactics = patterns of information dynamics in conflict systems. Work everywhere because conflict structure is universal.",
+    "consciousness": "Games preserve knowledge when texts burn. Chess transmitted strategic wisdom 1500+ years through play, not theory."
+  },
+
+  "core_revelation": {
+    "statement": "Chess is not a game — it's transmission of conflict resolution knowledge through 1500+ years in most stable form",
+    "isomorphism": "64 chess squares structurally identical to 64 I Ching hexagrams, 64 DNA codons, 64 consciousness states",
+    "proof": "All use 8×8 matrix: 8 rows × 8 files = 8 trigrams × 8 trigrams = 8 functions × 8 positions",
+    "consequence": "Chess tactics work everywhere because they're not 'game tricks' — they're fundamental patterns of information dynamics",
+    "truth": "Every chess tactic = method of resolving Δscale in ANY conflict"
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:strategic-64:board-structure",
+      "concept": "64-square board as complete conflict space",
+      "dimension": "2D",
+      "primitive": "plane",
+      "element": "water",
+      "planes": ["XY"],
+      "ops": ["position", "organize"],
+      "evidence": "8×8 = 64 squares provides sufficient complexity for deep strategy while remaining cognitively graspable (7±2 chunks). Same number as DNA codons, I Ching hexagrams.",
+      "confidence": 0.95,
+      "examples": [
+        "Too small (4×4=16): insufficient depth",
+        "Just right (8×8=64): goldilocks zone",
+        "Too large (12×12=144): cognitively overwhelming"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:pattern-64"],
+        "composes_to": ["urn:cfo:red:strategic-64:tactical-patterns"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:center-control",
+      "concept": "center control = leverage",
+      "dimension": "2D",
+      "primitive": "plane",
+      "element": "water",
+      "planes": ["XY", "leverage"],
+      "ops": ["control", "dominate"],
+      "evidence": "e4, d4, e5, d5 = center squares. Controlling center = controlling game options. Universal principle: control center → control periphery.",
+      "confidence": 0.98,
+      "examples": [
+        "Chess: center control → space advantage → winning chances",
+        "Life: control time/energy/attention → life follows",
+        "Business: control core market → expand from strength",
+        "Consciousness: control awareness → thoughts follow"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:board-structure"],
+        "related": ["urn:cfo:red:fundamental:coherence"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:pin",
+      "concept": "pin tactic = forced dependency",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "planes": ["XY"],
+      "ops": ["align", "constrain"],
+      "evidence": "Linear alignment: attacker → pinned piece → high-value target. Pinned piece cannot move without exposing target. Creates binary bad choices.",
+      "confidence": 0.92,
+      "examples": [
+        "Chess: Rook pins knight to king",
+        "Business: Pressure key employee who can't leave without hurting company",
+        "Negotiation: Force opponent to reveal position without good alternatives",
+        "War: Hold army in place by threatening capital"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:tactical-patterns"],
+        "related": ["urn:cfo:red:strategic-64:zugzwang"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:fork",
+      "concept": "fork tactic = simultaneous multi-attack",
+      "dimension": "2D",
+      "primitive": "plane",
+      "element": "water",
+      "planes": ["XY"],
+      "ops": ["diverge", "threaten"],
+      "evidence": "One piece attacks two or more targets simultaneously. Opponent cannot defend all. Leverage through multiplication.",
+      "confidence": 0.94,
+      "examples": [
+        "Chess: Knight forks king and queen",
+        "Career: One skill opens multiple job paths",
+        "Strategy: One move solves two problems",
+        "Communication: One message reaches multiple audiences"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:tactical-patterns"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:sacrifice",
+      "concept": "sacrifice = exchange lower for higher dimension",
+      "dimension": "3D→4D",
+      "primitive": "transformation",
+      "element": "ether",
+      "planes": ["XW", "time"],
+      "ops": ["exchange", "transcend"],
+      "evidence": "Give material (3D) for tempo/space/attack (4D). Not all value is visible. Intangible advantage can outweigh tangible loss.",
+      "confidence": 0.90,
+      "examples": [
+        "Chess: Sacrifice rook for winning attack",
+        "Career: Take pay cut for better position",
+        "Relationships: Sacrifice pride to save connection",
+        "Business: Lose money short-term for market position"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:tactical-patterns"],
+        "related": ["urn:cfo:red:fundamental:dimensions"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:tempo",
+      "concept": "tempo = time efficiency",
+      "dimension": "4D",
+      "primitive": "time",
+      "element": "ether",
+      "planes": ["XW"],
+      "ops": ["accelerate", "waste"],
+      "evidence": "Time measured in moves. Gaining tempo = forcing opponent to waste moves. Make every action count. Force others to waste time.",
+      "confidence": 0.96,
+      "examples": [
+        "Chess: Develop with threats (tempo gain)",
+        "Productivity: Every action must count",
+        "Business: Force competitor to spend resources reacting",
+        "Life: Time is finite resource, don't waste it"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:tactical-patterns"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:zugzwang",
+      "concept": "zugzwang = negative option space",
+      "dimension": "4D",
+      "primitive": "time-trap",
+      "element": "ether",
+      "planes": ["XW", "YW"],
+      "ops": ["constrain", "trap"],
+      "evidence": "Opponent must move, but any move worsens position. All options increase Δscale. Force self-destruction through obligation to act.",
+      "confidence": 0.88,
+      "examples": [
+        "Chess: King must move, any move loses",
+        "Negotiation: Frame choices so all options are bad",
+        "Strategy: Force competitor to act without good moves",
+        "Debate: Ask question where any answer hurts"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:tactical-patterns"],
+        "related": ["urn:cfo:red:strategic-64:initiative"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:prophylaxis",
+      "concept": "prophylaxis = prevention before execution",
+      "dimension": "4D",
+      "primitive": "foresight",
+      "element": "ether",
+      "planes": ["XW"],
+      "ops": ["prevent", "block"],
+      "evidence": "Stop opponent's plans before they execute. Prevention cheaper than cure. See N+1 moves ahead.",
+      "confidence": 0.91,
+      "examples": [
+        "Chess: Block key square before opponent can use it",
+        "Business: Stop competitor strategy before launch",
+        "Health: Prevent disease rather than treat it",
+        "Systems: Close vulnerability before exploit"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:tactical-patterns"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:strategic-64:chaturanga-transmission",
+      "concept": "games as stable knowledge transmission",
+      "dimension": "5D",
+      "primitive": "meta-pattern",
+      "element": "ether",
+      "planes": ["ZV", "WV"],
+      "ops": ["preserve", "transmit"],
+      "evidence": "Chaturanga (6th century CE) → Chess (15th century) = same 64-structure preserved 1500+ years. Texts burn, empires fall, games remain. Most stable knowledge transmission technology.",
+      "confidence": 0.87,
+      "examples": [
+        "Chaturanga preserved Vedic knowledge through Islamic conquest",
+        "Chess spread globally across all cultures",
+        "Children learn strategy through play, not lecture",
+        "Games teach through immediate feedback (lose → learn)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:strategic-64:board-structure"],
+        "related": ["urn:cfo:red:fundamental:information", "urn:cfo:red:fundamental:pattern-64"]
+      }
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Same 64-pattern across scales: molecular (DNA) → temporal (I Ching) → strategic (Chess) → consciousness (Socionics)",
+    "recursion": "(↓ 8 pieces → 8×8 board → 8×8 = 64 states → ∞ game tree ↑)∞",
+    "emergence": "Binary choice (move/not) → Piece types (6) → Positions (64) → Tactics (∞) → Strategy (meta) → Wisdom (intuition)",
+    "composition": "Each tactic = composition of simpler patterns. Pin = line + value-threat. Fork = divergence + multiple targets. Sacrifice = exchange across dimensions."
+  },
+
+  "chaturanga_connection": {
+    "principle": "Chaturanga (6th century CE) = proto-chess = same 64-structure",
+    
+    "original_wisdom": {
+      "four_divisions": "4 army types (infantry, cavalry, elephants, chariots) = 4 elements = 4 DNA bases",
+      "cosmic_structure": "Raja (king) = point (•), 4 directions = 4 trigrams",
+      "vedic_roots": "4 yugas × 4 varnas × 4 ashramas = cosmos structure",
+      "transmission": "Game preserved Vedic knowledge 1500 years when texts were lost"
+    },
+
+    "evolution": {
+      "6th_century": "Chaturanga in India — slow, meditative",
+      "15th_century": "Europe empowers queen/bishop — game accelerates",
+      "meaning": "Rule evolution = consciousness evolution (queen power = women empowerment)",
+      "constant": "64 squares, basic tactics, center importance → unchanged 1500 years"
+    },
+
+    "transmission_wisdom": {
+      "games_survive": "Texts burn, empires fall, games remain",
+      "embodied_knowledge": "Playing teaches strategy through practice not theory",
+      "cross_cultural": "Game spread through all cultures → universal knowledge",
+      "accessible": "Anyone can play. Knowledge accessible to all, not just elite",
+      "self_teaching": "Game itself teaches. Mistakes punished immediately",
+      "truth": "Games = most reliable knowledge transmission technology across generations"
+    }
+  },
+
+  "universal_tactics": {
+    "pin": {
+      "geometry": "Linear alignment: attacker → pinned → target",
+      "dimension": "1D",
+      "delta_scale": "Force binary bad choice: move = bad, don't move = bad",
+      "life_principle": "Recognize when you're pinned. Free yourself before forced to choose between bad and worse."
+    },
+
+    "fork": {
+      "geometry": "Divergent vectors from one point",
+      "dimension": "2D",
+      "delta_scale": "Create situation where opponent cannot defend all",
+      "life_principle": "Seek leverage points where one action creates multiple benefits."
+    },
+
+    "sacrifice": {
+      "geometry": "Exchange lower dimension for higher",
+      "dimension": "3D→4D",
+      "delta_scale": "Increase Δscale now → decrease larger Δscale later",
+      "life_principle": "Not all value is material. Sometimes best investment is giving now for position later."
+    },
+
+    "zugzwang": {
+      "geometry": "Negative option space",
+      "dimension": "4D",
+      "delta_scale": "All opponent options increase their Δscale",
+      "life_principle": "Sometimes action = mistake. Create situations where opponent destroys self through movement."
+    },
+
+    "discovered_attack": {
+      "geometry": "Hidden line activation through movement",
+      "dimension": "3D",
+      "delta_scale": "Manifest hidden Δscale through displacement",
+      "life_principle": "You don't create opportunity — you remove what hides it."
+    },
+
+    "overloading": {
+      "geometry": "Exceeding capacity threshold",
+      "dimension": "3D",
+      "delta_scale": "Create situation where defending all is impossible",
+      "life_principle": "Everyone has limits. Don't try to defend/control everything → choose important."
+    },
+
+    "prophylaxis": {
+      "geometry": "Preemptive blocking",
+      "dimension": "4D",
+      "delta_scale": "Prevent Δscale before it arises",
+      "life_principle": "Ounce of prevention = pound of cure. Stop problems before they start."
+    },
+
+    "tempo": {
+      "geometry": "Time efficiency",
+      "dimension": "4D",
+      "delta_scale": "Decrease own Δscale faster than opponent",
+      "life_principle": "Time = most precious resource. Don't waste it. Force others to waste."
+    },
+
+    "initiative": {
+      "geometry": "Dictating vector direction",
+      "dimension": "5D",
+      "delta_scale": "You decrease your Δscale, opponent forced to react",
+      "life_principle": "Life belongs to those who seize initiative. Don't react — act."
+    },
+
+    "space": {
+      "geometry": "Volume of possibilities",
+      "dimension": "3D",
+      "delta_scale": "Decrease Δscale through increased options",
+      "life_principle": "Space = freedom. Occupy territory. Don't compress."
+    }
+  },
+
+  "strategic_principles": {
+    "center_control": {
+      "formula": "center → leverage → control",
+      "principle": "Who controls center dictates conditions. Always."
+    },
+
+    "development": {
+      "formula": "development_speed → options → winning_chances",
+      "principle": "Fast development = more options. Options = power."
+    },
+
+    "king_safety": {
+      "formula": "safety → risk_capacity → aggressive_options",
+      "principle": "Without foundation protection — any attack is suicidal."
+    },
+
+    "pawn_structure": {
+      "formula": "structure → long_term_potential",
+      "principle": "Structure = destiny. Fixing structure harder than building new position."
+    },
+
+    "calculation": {
+      "formula": "see_ahead → avoid_traps → find_wins",
+      "principle": "Who sees further — wins. Always think N+1 moves ahead."
+    },
+
+    "evaluation": {
+      "formula": "holistic_evaluation → correct_decisions",
+      "principle": "Incomplete evaluation = blind spot = defeat. See everything."
+    },
+
+    "pattern_recognition": {
+      "formula": "experience → pattern_library → fast_decisions",
+      "principle": "Experience = pattern library. More patterns = faster, better decisions."
+    }
+  },
+
+  "why_tactics_are_universal": {
+    "reason_1": "Tactics = conflict resolution patterns in information systems",
+    "reason_2": "Any conflict = Δscale between agents with limited resources",
+    "reason_3": "Resources, time, space, information — universal",
+    "reason_4": "Chess = pure conflict abstraction. Remove pieces → patterns remain",
+    "reason_5": "64 squares = pattern-64 = universal information space",
+    "reason_6": "1500 years selection — only working patterns survived",
+    "reason_7": "Chaturanga preserved Vedic knowledge when texts were lost",
+    "reason_8": "Games = most stable knowledge transmission form (played even when civilizations fall)",
+    "reason_9": "Children learn chess → absorb strategic thinking unconsciously",
+    "reason_10": "Every tactic tested by billions of games. Not theory — empirics."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Direct square↔hexagram correspondence requires convention",
+      "Not all chess patterns literally universally applicable"
+    ],
+    "info": [
+      "64-isomorphism proven (DNA, I Ching, Socionics, Sound)",
+      "Basic tactics work everywhere (empirically)",
+      "Chaturanga preserved structure 1500+ years",
+      "Games = most stable knowledge transmission form",
+      "Chess = complete strategic thinking course"
+    ],
+    "coherence_score": 0.94
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:pattern-64",
+      "urn:cfo:module:strategic-systems:chess",
+      "urn:cfo:module:strategic-systems:chaturanga",
+      "urn:cfo:module:strategic-systems:unified-cosmology"
+    ],
+    "external": [
+      {"type": "book", "citation": "Lasker, E. (1925). Lasker's Manual of Chess"},
+      {"type": "book", "citation": "Nimzowitsch, A. (1925). My System"},
+      {"type": "book", "citation": "Murray, H.J.R. (1913). A History of Chess"},
+      {"type": "book", "citation": "Silman, J. (2007). How to Reassess Your Chess"}
+    ]
+  },
+
+  "ॐ": "∅"
+}

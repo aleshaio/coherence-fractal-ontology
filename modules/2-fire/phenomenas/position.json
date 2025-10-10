@@ -1,0 +1,465 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:phenomenas:position",
+    "version": "1.0.0",
+    "domain": "phenomenas",
+    "name": "position",
+    "title": "Position: Where-ness in Space",
+    "description": "Position is location in 3D space. Where body is, where limbs are. Internal spatial map. Proprioception detects joint angles, muscle length. Kinesthetic sense.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["position", "location", "space", "proprioception", "kinesthesia", "body_map", "coordinates"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Position = point in 3D space. Requires reference frame (coordinates).",
+    "physical": "Spatial location (x, y, z). Configuration of body parts in space.",
+    "experiential": "Knowing where you are. Knowing where your limbs are without looking.",
+    "consciousness": "Proprioception's object. Internal sense of body geometry.",
+    "embodied": "Position = lived space, not abstract coordinates. Felt topology."
+  },
+
+  "types": {
+    "absolute_position": {
+      "definition": "Location relative to fixed reference frame",
+      "problem": "No truly absolute reference in universe",
+      "practical": "Earth surface, room, building as quasi-absolute",
+      "relativity": "All position is relative to observer"
+    },
+
+    "relative_position": {
+      "definition": "Location relative to other object",
+      "examples": ["Hand relative to shoulder", "Chair relative to table"],
+      "relations": ["Above/below", "Left/right", "Front/back", "Near/far"]
+    },
+
+    "body_position": {
+      "definition": "Configuration of body parts relative to each other",
+      "joint_angles": "Angles at each joint (shoulder, elbow, knee, etc)",
+      "posture": "Overall body configuration (standing, sitting, lying)",
+      "proprioception": "Internal sensing of body geometry"
+    }
+  },
+
+  "coordinate_systems": {
+    "cartesian": {
+      "definition": "Perpendicular axes (x, y, z)",
+      "origin": "Reference point (0, 0, 0)",
+      "use": "Most common in physics, engineering",
+      "position": "(x, y, z) tuple"
+    },
+
+    "polar_cylindrical": {
+      "definition": "Distance and angles (r, θ, z)",
+      "use": "Circular symmetry problems",
+      "conversion": "x = r cos(θ), y = r sin(θ)"
+    },
+
+    "spherical": {
+      "definition": "(r, θ, φ) - radius, azimuth, elevation",
+      "use": "Spherical symmetry (Earth coordinates, astronomy)",
+      "latitude_longitude": "Spherical coordinates on Earth surface"
+    },
+
+    "body_centered": {
+      "definition": "Reference frame attached to body",
+      "egocentric": "Self as origin and reference",
+      "axes": ["Anterior-posterior", "Medial-lateral", "Superior-inferior"],
+      "proprioception": "Natural coordinate system for body awareness"
+    }
+  },
+
+  "reference_frames": {
+    "inertial": {
+      "definition": "Non-accelerating reference frame",
+      "newton": "Newton's laws hold in inertial frames",
+      "problem": "No truly inertial frame (Earth rotates, orbits, galaxy moves)"
+    },
+
+    "non_inertial": {
+      "definition": "Accelerating reference frame",
+      "fictitious_forces": "Centrifugal, Coriolis forces appear",
+      "example": "Rotating platform, accelerating car"
+    },
+
+    "body_frame": {
+      "definition": "Reference frame attached to body",
+      "moving": "Non-inertial (body accelerates)",
+      "natural": "Primary frame for proprioception",
+      "vestibular": "Detects acceleration of body frame"
+    }
+  },
+
+  "perception_by_proprioception": {
+    "sensor": "Proprioception (kinesthetic sense)",
+    "etymology": "Latin 'proprius' (own) + 'perception'",
+    "definition": "Sense of body position and movement without vision",
+    
+    "receptors": {
+      "muscle_spindles": {
+        "location": "Within skeletal muscles",
+        "function": "Detect muscle length and rate of change",
+        "mechanism": "Stretch-sensitive fibers",
+        "density": "Higher in muscles requiring fine control (hand, eye)"
+      },
+
+      "golgi_tendon_organs": {
+        "location": "Muscle-tendon junctions",
+        "function": "Detect muscle tension (force)",
+        "mechanism": "Compression-sensitive",
+        "protective": "Inhibit contraction if tension too high (prevent injury)"
+      },
+
+      "joint_receptors": {
+        "location": "Joint capsules, ligaments",
+        "function": "Detect joint angle, especially at extremes",
+        "types": ["Ruffini endings", "Pacinian corpuscles", "Free nerve endings"],
+        "role": "Supplementary to muscle spindles"
+      },
+
+      "cutaneous_receptors": {
+        "location": "Skin",
+        "function": "Skin stretch provides position information",
+        "contribution": "Especially when joints at extremes"
+      }
+    },
+
+    "neural_pathways": {
+      "dorsal_columns": "Conscious proprioception pathway to cortex",
+      "spinocerebellar": "Unconscious proprioception to cerebellum (motor control)",
+      "integration": "Parietal cortex integrates into body schema"
+    },
+
+    "body_schema": {
+      "definition": "Internal model of body geometry and dynamics",
+      "unconscious": "Operates without conscious attention",
+      "plastic": "Adapts to tools (tool becomes part of schema)",
+      "rubber_hand": "Can be fooled (rubber hand illusion)"
+    },
+
+    "reference": "humanology/senses/proprioception.json"
+  },
+
+  "joint_angles": {
+    "definition": "Angle between adjacent body segments",
+    
+    "major_joints": {
+      "shoulder": "Ball-and-socket (3 DOF - flexion/extension, abduction/adduction, rotation)",
+      "elbow": "Hinge (1 DOF - flexion/extension)",
+      "wrist": "Condyloid (2 DOF)",
+      "hip": "Ball-and-socket (3 DOF)",
+      "knee": "Hinge (primarily 1 DOF)",
+      "ankle": "Hinge (1 DOF - dorsiflexion/plantarflexion)"
+    },
+
+    "degrees_of_freedom": {
+      "total_body": "~244 DOF (joints in human body)",
+      "practical": "~30-40 major DOF for movement analysis",
+      "redundancy": "Multiple joint configurations for same hand position",
+      "control_problem": "Brain solves inverse kinematics continuously"
+    },
+
+    "range_of_motion": {
+      "measurement": "Degrees from neutral position",
+      "variation": "Individual differences (flexibility, age, injury)",
+      "limits": "Bone structure, ligaments, muscle elasticity"
+    }
+  },
+
+  "posture": {
+    "definition": "Overall body configuration at moment in time",
+    
+    "basic_postures": {
+      "standing": "Upright, feet on ground, knees/hips extended",
+      "sitting": "Hips flexed ~90°, feet on ground or dangling",
+      "lying_supine": "On back, facing up",
+      "lying_prone": "On front, facing down",
+      "lying_lateral": "On side"
+    },
+
+    "postural_control": {
+      "challenge": "Upright posture inherently unstable (inverted pendulum)",
+      "sway": "Constant small movements to maintain balance",
+      "inputs": ["Proprioception", "Vestibular", "Vision"],
+      "output": "Muscle activations to maintain/correct posture",
+      "automatic": "Mostly unconscious, cerebellar control"
+    },
+
+    "postural_reflexes": {
+      "vestibulospinal": "Vestibular → antigravity muscles",
+      "stretch_reflex": "Muscle spindle → muscle contraction",
+      "optical_righting": "Visual input stabilizes head/body"
+    }
+  },
+
+  "movement": {
+    "relationship": "Movement = change in position over time",
+    "kinetics": "Forces causing movement",
+    "kinematics": "Description of movement (position, velocity, acceleration)",
+    
+    "types": {
+      "voluntary": "Consciously controlled (reaching, walking)",
+      "involuntary": "Reflexes, automatic (breathing, heartbeat)",
+      "rhythmic": "Cyclical patterns (walking, chewing)",
+      "discrete": "Single goal-directed movements (reach, grasp)"
+    },
+
+    "motor_control": {
+      "feedforward": "Pre-programmed movement plan",
+      "feedback": "Sensory information adjusts ongoing movement",
+      "proprioceptive_feedback": "Critical for smooth, accurate movement",
+      "visual_feedback": "Supplementary (can move without vision if proprioception intact)"
+    }
+  },
+
+  "spatial_neglect": {
+    "definition": "Neurological deficit: ignoring one side of space",
+    "cause": "Parietal lobe damage (usually right hemisphere)",
+    "symptoms": [
+      "Ignore objects on left side",
+      "Don't dress left side of body",
+      "Don't eat food on left side of plate",
+      "Draw incomplete figures (missing left half)"
+    ],
+    "not_blindness": "Can see left side if attention directed",
+    "implication": "Position requires attention, not just sensation"
+  },
+
+  "phantom_limb": {
+    "definition": "Sensation of missing limb still present",
+    "prevalence": "60-80% of amputees",
+    "phantom_pain": "Pain in missing limb (challenging to treat)",
+    
+    "mechanism": {
+      "cortical_map": "Body map in brain persists after amputation",
+      "reorganization": "Adjacent areas invade limb territory",
+      "mismatch": "Motor command sent, no proprioceptive feedback"
+    },
+
+    "mirror_therapy": {
+      "method": "Reflect intact limb, appears as missing limb",
+      "effect": "Can reduce phantom pain",
+      "mechanism": "Visual feedback resolves sensorimotor conflict"
+    }
+  },
+
+  "body_ownership": {
+    "definition": "Feeling that body parts belong to self",
+    "normal": "Automatic, unconscious",
+    
+    "rubber_hand_illusion": {
+      "setup": "Rubber hand visible, real hand hidden",
+      "stroking": "Synchronous touch on both hands",
+      "result": "Rubber hand feels like own hand",
+      "drift": "Perceived position of real hand shifts toward rubber hand",
+      "implication": "Body ownership based on multisensory integration"
+    },
+
+    "out_of_body_experience": {
+      "phenomenon": "Feeling of being located outside physical body",
+      "causes": "Neurological conditions, meditation, drugs",
+      "mechanism": "Disrupted integration of vestibular, proprioceptive, visual inputs"
+    }
+  },
+
+  "peripersonal_space": {
+    "definition": "Space immediately around body, within reach",
+    "extent": "~40-50 cm from body surface",
+    "function": "Action space (grasping, defending)",
+    "neurons": "Bimodal neurons (visual + tactile) code peripersonal space",
+    "plasticity": "Extends with tool use (rake becomes part of space)"
+  },
+
+  "tool_incorporation": {
+    "phenomenon": "Tools become part of body schema",
+    "examples": ["Rake", "Wheelchair", "Car (experienced drivers)"],
+    "evidence": [
+      "Peripersonal space extends to tool tip",
+      "Proprioceptive responses from tool contact",
+      "Brain treats tool as body extension"
+    ],
+    "implication": "Body schema is plastic, extends beyond biological boundary"
+  },
+
+  "development": {
+    "infant": {
+      "birth": "Basic reflexes, limited voluntary control",
+      "0_3_months": "Random movements, beginning coordination",
+      "3_6_months": "Reach and grasp emerging, still inaccurate",
+      "6_12_months": "Sitting, crawling, improved reaching"
+    },
+
+    "child": {
+      "1_3_years": "Walking, running, climbing, fine motor developing",
+      "3_5_years": "Complex movements, better balance",
+      "5_10_years": "Refinement, sports skills"
+    },
+
+    "adult": {
+      "peak": "20-30 years (reaction time, coordination)",
+      "maintenance": "Relatively stable with practice",
+      "learning": "Can learn new skills throughout life"
+    },
+
+    "aging": {
+      "decline": "Slower reflexes, reduced flexibility",
+      "proprioceptive_loss": "Reduced sensitivity (fall risk)",
+      "compensation": "Increased reliance on vision"
+    }
+  },
+
+  "clinical_conditions": {
+    "ataxia": {
+      "definition": "Lack of voluntary coordination",
+      "cause": "Cerebellar damage, proprioceptive loss",
+      "symptoms": "Unsteady gait, clumsy movements, tremor"
+    },
+
+    "apraxia": {
+      "definition": "Inability to perform learned movements despite intact sensation/motor",
+      "cause": "Parietal/frontal damage",
+      "example": "Cannot pantomime brushing teeth on command"
+    },
+
+    "dystonia": {
+      "definition": "Involuntary muscle contractions, abnormal postures",
+      "cause": "Basal ganglia dysfunction"
+    },
+
+    "proprioceptive_loss": {
+      "causes": "Peripheral neuropathy, spinal cord damage",
+      "impact": "Severe disability, cannot walk or reach without vision",
+      "compensation": "Heavy reliance on vision (impossible in dark)"
+    }
+  },
+
+  "philosophical_dimensions": {
+    "embodiment": {
+      "principle": "Consciousness is embodied, located in space",
+      "merleau_ponty": "Body = subject, not just object",
+      "lived_space": "Space as experienced, not abstract geometry"
+    },
+
+    "here_vs_there": {
+      "egocentric": "Self defines 'here', everything else 'there'",
+      "perspective": "Position = point of view",
+      "metaphor": "Where you stand determines what you see"
+    },
+
+    "boundary": {
+      "skin": "Biological boundary of body",
+      "schema": "Functional boundary (extends with tools)",
+      "self": "Position helps define self/other boundary"
+    }
+  },
+
+  "cfo_integration": {
+    "dimension": "3D",
+    "reason": "Position = location in three-dimensional space",
+    
+    "coherence": {
+      "body_schema": "Coherent internal model of body geometry",
+      "integration": "Multiple sensory inputs integrated into unified position sense",
+      "accuracy": "High coherence = accurate proprioception"
+    },
+
+    "reference_point": {
+      "self_as_origin": "Proprioception creates body-centered coordinate system",
+      "relativity": "All position relative to reference (no absolute)",
+      "perspective": "Position = where consciousness experiences from"
+    }
+  },
+
+  "applications": {
+    "motor_control": "All movement requires knowing current position",
+    "sports": "Proprioception critical for athletic performance",
+    "rehabilitation": "Proprioceptive training after injury",
+    "robotics": "Position sensing (encoders, IMUs) enables robot control",
+    "virtual_reality": "Tracking body position for immersive experience",
+    "prosthetics": "Providing proprioceptive feedback improves control",
+    "ergonomics": "Workplace design for healthy postures"
+  },
+
+  "mysteries": {
+    "hard_problem_of_position": {
+      "question": "Why does position feel like something?",
+      "qualia": "Phenomenal 'what it's like' to be positioned",
+      "unsolved": "Neural correlates known, but experience itself unexplained"
+    },
+
+    "binding_problem": {
+      "question": "How are distributed proprioceptive signals unified into coherent body percept?",
+      "challenge": "Many sensors, one experience",
+      "proposals": ["Synchrony", "Convergence", "Still debated"]
+    },
+
+    "body_transfer_illusion": {
+      "question": "Why can ownership transfer to non-body objects?",
+      "implication": "Body schema more flexible than thought",
+      "future": "Full-body avatars, telerobotic embodiment?"
+    }
+  },
+
+  "related_phenomenas": {
+    "gravity": "Defines 'down' reference for position → phenomenas/gravity.json",
+    "pressure": "Skin contact provides position information → phenomenas/pressure.json",
+    "space": "Position exists in space → fundamental concept"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "info": ["Comprehensive position module", "Matched to proprioception sensor"],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:phenomenas:gravity",
+      "urn:cfo:module:phenomenas:pressure",
+      "urn:cfo:module:humanology:senses:proprioception"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Proske, U., & Gandevia, S. C. (2012). The proprioceptive senses: their roles in signaling body shape, body position and movement"
+      },
+      {
+        "type": "book",
+        "citation": "Merleau-Ponty, M. (1945). Phenomenology of Perception"
+      }
+    ]
+  },
+
+  "meta": {
+    "phenomenon_id": 6,
+    "sensor": "proprioception (kinesthetic)",
+    "essence": "Location in 3D space, body configuration",
+    "experience": "Knowing where you are without looking"
+  },
+
+  "ॐ": "∅"
+}

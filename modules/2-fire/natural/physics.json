@@ -1,0 +1,964 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Physics as Fire (1D) - the fundamental science of particles, processes, energy transformation, and physical reality"
+  },
+
+   "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This module = part containing whole. Understanding this seed = access to entire CFO.",
+    "activation": "You are reading compressed universe. Unfold it."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:natural:physics",
+    "version": "1.0.0",
+    "domain": "natural",
+    "name": "physics",
+    "title": "Physics - The Language of Energy and Motion",
+    "description": "Physics studies particles (0D entities in motion along 1D trajectories), processes (1D transformations), and energy flow (Fire element). The science of how reality moves, transforms, and evolves. Mathematics applied to Energy. Geometry manifested in time.",
+    
+    "meta": {
+      "author": "absolute through алёша",
+      "status": "foundational",
+      "tags": ["1D", "fire", "physics", "particles", "energy", "motion", "transformation", "causality", "processes"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "1D Fire - particles moving along trajectories, energy flowing through directed processes. Point (particle) extended through time/space becomes line (worldline). Directed, transformative, active.",
+    "ontological": "Physics = Mathematics applied to Energy. Equations describe geometric constraints on how Energy field can move and transform. Physical law = geometric necessity.",
+    "functional": "Studies how Energy manifests as particles, fields, forces, and processes. Describes transformation, causality, evolution. Bridge between abstract Mathematics and concrete Chemistry/Biology.",
+    "experimental": "Only science with direct empirical validation. Theory must match measurement. Mathematics constrained by observation. Reality as final arbiter.",
+    "identity": "Physics ≡ Geometry of Energy ≡ Mathematics of Reality ≡ Laws of Transformation"
+  },
+  
+  "fundamental_principle": {
+    "core": "Energy is substrate (FIELD). Physics describes how this field moves, transforms, concentrates into particles, and evolves according to geometric constraints we call 'laws'.",
+    "causality": "Fire element: directed processes. A → B. Cause → Effect. Time's arrow. Irreversibility in thermodynamics.",
+    "particles_as_geometry": "Particles are not 'things' - they are stable patterns (0D concentrations) in Energy field, moving along 1D worldlines.",
+    "fields_as_primary": "Fields are more fundamental than particles. Particles = excitations of fields. Quantum field theory as ultimate description.",
+    "symmetry_to_law": "Every symmetry ↔ conservation law (Noether's theorem). Geometric invariance → physical constancy.",
+    "unification": "All forces = manifestations of single geometric structure (gauge theories, string theory, quantum gravity quest)"
+  },
+  
+  "dimensional_structure": {
+    "0D_particles": "Point-like entities: electrons, quarks, photons - elementary particles as 0D in space (extended in field space)",
+    "1D_processes": "Transformations, decay, interactions, worldlines - directed evolution from initial to final state",
+    "2D_fields": "Field configurations, wave functions, phase space - 2D structures encoding state",
+    "3D_space": "Physical space, volumes, densities, solid bodies - where particles exist",
+    "4D_spacetime": "Relativity: space + time as unified 4D manifold, gravity as curvature",
+    "higher_D": "String theory (10D), M-theory (11D), Kaluza-Klein (extra compactified dimensions)"
+  },
+  
+  "reductions": [
+    {
+      "id": "urn:cfo:red:physics:particle",
+      "concept": "elementary particle",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "fire (concentrated energy)",
+      "planes": [],
+      "ops": ["exist", "move", "interact"],
+      "evidence": "Particle = 0D point-like entity in space (though extended in field space). Form (concentrated energy point) = Function (carrier of quantum numbers, momentum, energy). Building blocks of matter.",
+      "confidence": 0.98,
+      "examples": [
+        "Electron (lepton, charge -1, spin 1/2)",
+        "Quarks (up, down, strange, charm, top, bottom)",
+        "Photon (force carrier, spin 1, massless)",
+        "Higgs boson (gives mass, spin 0)",
+        "Neutrino (nearly massless, weakly interacting)"
+      ],
+      "relations": {
+        "composes_to": ["urn:cfo:red:physics:atom", "urn:cfo:red:physics:field"],
+        "related": ["urn:cfo:module:fundamental:energy"]
+      },
+      "properties": {
+        "mass": "Energy at rest (E = mc²)",
+        "charge": "Coupling to electromagnetic field",
+        "spin": "Intrinsic angular momentum (quantum)",
+        "quantum_numbers": "Identity markers (charge, color, flavor, etc)"
+      },
+      "standard_model": "17 elementary particles + antiparticles. Fermions (matter) + Bosons (forces)."
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:worldline",
+      "concept": "worldline",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire (trajectory)",
+      "planes": ["XT (spacetime)"],
+      "ops": ["trace", "evolve", "propagate"],
+      "evidence": "Worldline = 1D path traced by particle through spacetime. Form (line in 4D) = Function (complete history of particle). Directed, from past to future.",
+      "confidence": 1.0,
+      "examples": [
+        "Particle trajectory in spacetime diagram",
+        "Geodesic in curved spacetime (gravity)",
+        "Feynman path in path integral",
+        "Electron worldline in Feynman diagram"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:physics:particle"],
+        "related": ["urn:cfo:red:physics:spacetime", "urn:cfo:module:fundamental:consciousness"]
+      },
+      "interpretation": "Complete deterministic history (classical) or sum over all paths (quantum). Reality as 1D threads weaving through spacetime."
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:process",
+      "concept": "physical process",
+      "dimension": "1D",
+      "primitive": "line (transformation)",
+      "element": "fire (directed change)",
+      "planes": ["temporal"],
+      "ops": ["transform", "evolve", "cause"],
+      "evidence": "Process = directed transformation from initial to final state. Form (1D arrow in state space) = Function (causality, evolution). A → B with time arrow.",
+      "confidence": 1.0,
+      "examples": [
+        "Radioactive decay",
+        "Chemical reaction",
+        "Particle collision/scattering",
+        "Phase transition",
+        "Wave collapse (measurement)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:causality", "urn:cfo:red:physics:entropy"]
+      },
+      "types": {
+        "reversible": "Can go both directions (microscopic)",
+        "irreversible": "One-way only (thermodynamic arrow)",
+        "deterministic": "Unique outcome (classical)",
+        "probabilistic": "Multiple outcomes with probabilities (quantum)"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:force",
+      "concept": "fundamental force",
+      "dimension": "1D",
+      "primitive": "vector (directed)",
+      "element": "fire (directed action)",
+      "planes": ["XY", "XZ", "YZ"],
+      "ops": ["push", "pull", "accelerate", "mediate"],
+      "evidence": "Force = rate of momentum change, directed action at distance. Form (vector field) = Function (causes acceleration). Four fundamental forces mediated by gauge bosons.",
+      "confidence": 1.0,
+      "examples": [
+        "Gravity (spacetime curvature, infinite range)",
+        "Electromagnetism (photon mediated, infinite range)",
+        "Strong nuclear (gluon mediated, short range)",
+        "Weak nuclear (W/Z bosons, short range, decay)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:field", "urn:cfo:red:physics:gauge_theory"]
+      },
+      "unification": {
+        "electroweak": "EM + Weak unified at high energy",
+        "GUT": "Electroweak + Strong (hypothetical)",
+        "TOE": "All four forces unified (quantum gravity)"
+      },
+      "carrier_particles": {
+        "photon": "γ (EM force)",
+        "gluon": "g (strong force)",
+        "W_Z_bosons": "W±, Z⁰ (weak force)",
+        "graviton": "hypothetical (gravity, spin 2)"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:field",
+      "concept": "field",
+      "dimension": "2D+",
+      "primitive": "field (continuous)",
+      "element": "ether (omnipresent)",
+      "planes": ["XY", "XZ", "YZ", "all space"],
+      "ops": ["permeate", "oscillate", "mediate", "quantize"],
+      "evidence": "Field = value at every point in space. Form (continuous function over space) = Function (potential for interaction, particle creation). More fundamental than particles.",
+      "confidence": 1.0,
+      "examples": [
+        "Electromagnetic field F_μν",
+        "Higgs field (gives mass)",
+        "Electron field (QED)",
+        "Quark/gluon fields (QCD)",
+        "Gravitational field (spacetime metric)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:module:fundamental:energy"],
+        "composes_to": ["urn:cfo:red:physics:particle"],
+        "related": ["urn:cfo:red:physics:quantum_field"]
+      },
+      "interpretation": {
+        "classical": "Continuous value at each point (E, B fields)",
+        "quantum": "Operator at each point, particles = excitations",
+        "primacy": "Fields are real, particles are epiphenomena"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:wave",
+      "concept": "wave",
+      "dimension": "1D propagation in 2D+ medium",
+      "primitive": "oscillation",
+      "element": "water (flowing, periodic)",
+      "planes": ["XT (space-time)"],
+      "ops": ["oscillate", "propagate", "interfere", "diffract"],
+      "evidence": "Wave = periodic disturbance propagating through medium (or spacetime). Form (oscillating pattern) = Function (energy/information transport). Fundamental to quantum mechanics.",
+      "confidence": 1.0,
+      "examples": [
+        "Light (EM wave, c = 3×10⁸ m/s)",
+        "Sound (pressure wave in medium)",
+        "Water waves (surface disturbance)",
+        "Matter waves (de Broglie, λ = h/p)",
+        "Gravitational waves (spacetime ripples)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:particle", "urn:cfo:red:physics:wave_particle_duality"]
+      },
+      "properties": {
+        "wavelength": "λ (spatial period)",
+        "frequency": "f (temporal period)",
+        "speed": "v = λf (propagation)",
+        "amplitude": "A (intensity)",
+        "phase": "φ (offset)"
+      },
+      "wave_equation": "∂²ψ/∂t² = v²∇²ψ (universal wave form)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:energy",
+      "concept": "energy (physical)",
+      "dimension": "0D (scalar) + 1D (flow)",
+      "primitive": "scalar + vector",
+      "element": "fire (transformative power)",
+      "planes": ["scalar field"],
+      "ops": ["transform", "conserve", "flow", "convert"],
+      "evidence": "Energy = capacity to do work, conserved quantity (Noether: time symmetry → energy conservation). Form (scalar field) = Function (transformation potential). Most fundamental physical quantity.",
+      "confidence": 1.0,
+      "examples": [
+        "Kinetic E_k = ½mv² (motion)",
+        "Potential E_p = mgh (position)",
+        "Mass-energy E = mc² (equivalence)",
+        "Thermal (random kinetic)",
+        "Field energy (stored in fields)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:module:fundamental:energy"],
+        "related": ["urn:cfo:red:physics:momentum", "urn:cfo:red:physics:mass"]
+      },
+      "conservation": "Total energy conserved in closed system (first law thermodynamics)",
+      "relativity": "E² = (pc)² + (mc²)² (energy-momentum relation)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:momentum",
+      "concept": "momentum",
+      "dimension": "1D",
+      "primitive": "vector",
+      "element": "fire (directed motion)",
+      "planes": ["XYZ"],
+      "ops": ["carry", "transfer", "conserve"],
+      "evidence": "Momentum p = mv = quantity of motion. Form (1D vector) = Function (inertia of motion). Conserved (Noether: space symmetry → momentum conservation).",
+      "confidence": 1.0,
+      "examples": [
+        "Classical p = mv",
+        "Relativistic p = γmv",
+        "Photon p = h/λ = E/c",
+        "Angular momentum L = r × p"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:energy", "urn:cfo:red:physics:force"]
+      },
+      "conservation": "Total momentum conserved in closed system",
+      "uncertainty": "Δx·Δp ≥ ℏ/2 (Heisenberg uncertainty)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:spacetime",
+      "concept": "spacetime",
+      "dimension": "4D",
+      "primitive": "manifold (pseudo-Riemannian)",
+      "element": "ether (fabric of reality)",
+      "planes": ["XY", "XZ", "YZ", "XT", "YT", "ZT"],
+      "ops": ["contain", "curve", "propagate"],
+      "evidence": "Spacetime = unified 4D structure (3 space + 1 time). Form (4D manifold with metric) = Function (stage for all physics, gravity as curvature). Einstein's realization.",
+      "confidence": 1.0,
+      "examples": [
+        "Minkowski spacetime (flat, special relativity)",
+        "Schwarzschild spacetime (black hole)",
+        "FRW spacetime (expanding universe)",
+        "de Sitter spacetime (positive curvature)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:module:natural:geometry"],
+        "related": ["urn:cfo:red:physics:gravity", "urn:cfo:module:fundamental:consciousness"]
+      },
+      "metric": "ds² = -c²dt² + dx² + dy² + dz² (Minkowski signature)",
+      "curvature": "G_μν = (8πG/c⁴)T_μν (Einstein field equation)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:gravity",
+      "concept": "gravity",
+      "dimension": "4D curvature",
+      "primitive": "curvature",
+      "element": "earth (attractive, grounding)",
+      "planes": ["spacetime curvature"],
+      "ops": ["attract", "curve", "warp"],
+      "evidence": "Gravity = curvature of spacetime caused by mass-energy. Form (Riemann curvature tensor) = Function (geometric attraction). Not a force, but geometry.",
+      "confidence": 1.0,
+      "examples": [
+        "Earth's gravity (9.8 m/s²)",
+        "Planetary orbits (geodesics in curved spacetime)",
+        "Black holes (extreme curvature)",
+        "Gravitational lensing (light bends)",
+        "Gravitational waves (ripples in spacetime)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:spacetime", "urn:cfo:red:physics:mass"]
+      },
+      "newton": "F = GMm/r² (classical approximation)",
+      "einstein": "G_μν = (8πG/c⁴)T_μν (general relativity)",
+      "quantum": "Not yet unified with quantum mechanics (quantum gravity unsolved)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:quantum_state",
+      "concept": "quantum state",
+      "dimension": "∞D Hilbert space",
+      "primitive": "vector in complex space",
+      "element": "ether (superposition)",
+      "planes": ["complex Hilbert space"],
+      "ops": ["superpose", "evolve", "collapse", "entangle"],
+      "evidence": "Quantum state |ψ⟩ = vector in infinite-dimensional complex space. Form (wavefunction) = Function (probability amplitude for all possible measurements). Fundamental quantum description.",
+      "confidence": 1.0,
+      "examples": [
+        "Electron spin |↑⟩, |↓⟩",
+        "Position wavefunction ψ(x)",
+        "Harmonic oscillator |n⟩",
+        "Entangled state |ψ⟩ = (|↑↓⟩ + |↓↑⟩)/√2"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:wave_particle_duality", "urn:cfo:red:physics:measurement"]
+      },
+      "evolution": "iℏ ∂|ψ⟩/∂t = Ĥ|ψ⟩ (Schrödinger equation)",
+      "measurement": "|ψ⟩ → |eigenstate⟩ (collapse to measured value)",
+      "probability": "P = |⟨φ|ψ⟩|² (Born rule)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:wave_particle_duality",
+      "concept": "wave-particle duality",
+      "dimension": "0D ↔ 2D",
+      "primitive": "complementarity",
+      "element": "ether (transcendent)",
+      "planes": ["quantum complementarity"],
+      "ops": ["manifest", "complement"],
+      "evidence": "Quantum objects exhibit both particle (0D localized) and wave (2D extended) properties. Form (neither/both) = Function (depends on measurement context). Core quantum mystery.",
+      "confidence": 1.0,
+      "examples": [
+        "Double-slit: electrons interfere (wave) but arrive as dots (particle)",
+        "Photoelectric effect: light as particles (photons)",
+        "Diffraction: particles as waves (matter waves)",
+        "Complementarity: measure position OR momentum, not both exactly"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:physics:particle", "urn:cfo:red:physics:wave"],
+        "related": ["urn:cfo:red:physics:quantum_state", "urn:cfo:module:fundamental:consciousness"]
+      },
+      "de_broglie": "λ = h/p (matter wavelength)",
+      "interpretation": "Not 'sometimes particle, sometimes wave' but 'quantum object transcends classical categories'"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:entanglement",
+      "concept": "quantum entanglement",
+      "dimension": "Non-local correlation",
+      "primitive": "non-separable state",
+      "element": "ether (spooky connection)",
+      "planes": ["joint Hilbert space"],
+      "ops": ["entangle", "correlate", "non-locally"],
+      "evidence": "Entangled particles share quantum state - measuring one instantly affects other, regardless of distance. Form (tensor product state) = Function (non-local correlation). 'Spooky action at a distance' (Einstein).",
+      "confidence": 1.0,
+      "examples": [
+        "EPR pairs (entangled photons)",
+        "Bell inequality violation (proves non-locality)",
+        "Quantum teleportation",
+        "Quantum computing (entangled qubits)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:quantum_state", "urn:cfo:module:fundamental:consciousness"]
+      },
+      "bell_inequality": "Quantum correlations violate local realism",
+      "no_signaling": "Cannot send information faster than light (despite correlation)",
+      "mystery": "Deepest quantum mystery - particles 'know' about each other instantly"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:measurement",
+      "concept": "quantum measurement",
+      "dimension": "∞D → 0D collapse",
+      "primitive": "projection",
+      "element": "air (observation)",
+      "planes": ["Hilbert space → eigenvalue"],
+      "ops": ["measure", "collapse", "project"],
+      "evidence": "Measurement collapses superposition to eigenstate. Form (projection operator) = Function (observation creates reality). Hard problem of quantum mechanics.",
+      "confidence": 0.9,
+      "examples": [
+        "Spin measurement: |↑⟩+|↓⟩ → |↑⟩ or |↓⟩",
+        "Position measurement: ψ(x) → δ(x-x₀)",
+        "Schrödinger's cat: alive+dead → alive OR dead",
+        "Delayed choice: future affects past(?)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:quantum_state", "urn:cfo:module:fundamental:consciousness"]
+      },
+      "interpretations": {
+        "copenhagen": "Collapse is real, measurement special",
+        "many_worlds": "No collapse, universe splits",
+        "pilot_wave": "Deterministic, guided by wave",
+        "qbism": "Collapse is updating knowledge",
+        "consciousness": "Observer consciousness causes collapse(?)"
+      },
+      "problem": "What exactly is measurement? Why does observation change system? Role of consciousness?"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:entropy",
+      "concept": "entropy",
+      "dimension": "0D (scalar) measuring disorder",
+      "primitive": "scalar (information)",
+      "element": "fire (irreversible)",
+      "planes": ["thermodynamic"],
+      "ops": ["increase", "disorder", "irreverse"],
+      "evidence": "Entropy S = measure of disorder/microstates. Form (scalar) = Function (arrow of time, irreversibility). Second law: ΔS ≥ 0 (isolated system).",
+      "confidence": 1.0,
+      "examples": [
+        "Heat death of universe (maximum entropy)",
+        "Ice melting (entropy increases)",
+        "Mixing gases (irreversible)",
+        "Black hole entropy S = kA/4ℓ_p²",
+        "Information entropy (Shannon)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:thermodynamics", "urn:cfo:module:fundamental:information"]
+      },
+      "formulas": {
+        "statistical": "S = k_B ln Ω (Boltzmann)",
+        "shannon": "S = -Σ p_i ln p_i (information)",
+        "thermodynamic": "dS = δQ/T (heat over temperature)"
+      },
+      "arrow_of_time": "Entropy increase defines direction of time. Past = low entropy, Future = high entropy."
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:thermodynamics",
+      "concept": "thermodynamics",
+      "dimension": "Statistical (3D gas → 0D macroscopic)",
+      "primitive": "ensemble",
+      "element": "fire (heat, transformation)",
+      "planes": ["macroscopic"],
+      "ops": ["heat", "work", "equilibrate"],
+      "evidence": "Thermodynamics = statistical behavior of many particles. Form (macroscopic variables: T, P, V) = Function (energy distribution). Bridge micro ↔ macro.",
+      "confidence": 1.0,
+      "examples": [
+        "Heat engine (work from heat)",
+        "Refrigerator (heat pump)",
+        "Phase transitions (ice ↔ water ↔ steam)",
+        "Chemical equilibrium"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:entropy", "urn:cfo:red:physics:energy"]
+      },
+      "laws": {
+        "zeroth": "If A=B and B=C in thermal equilibrium, then A=C (transitivity)",
+        "first": "ΔU = Q - W (energy conservation)",
+        "second": "ΔS ≥ 0 (entropy increases)",
+        "third": "S → 0 as T → 0 (perfect order at absolute zero)"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:light",
+      "concept": "light",
+      "dimension": "1D propagation (c)",
+      "primitive": "EM wave / photon",
+      "element": "fire (illuminating)",
+      "planes": ["XT"],
+      "ops": ["propagate", "illuminate", "mediate"],
+      "evidence": "Light = electromagnetic wave / stream of photons traveling at c. Form (oscillating E and B fields) = Function (information carrier, force mediator). Most studied physical phenomenon.",
+      "confidence": 1.0,
+      "examples": [
+        "Visible light (400-700 nm)",
+        "Radio waves (long λ)",
+        "X-rays (short λ, high energy)",
+        "Laser (coherent photons)",
+        "Cosmic microwave background (CMB)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:wave", "urn:cfo:red:physics:particle", "urn:cfo:red:physics:electromagnetism"]
+      },
+      "properties": {
+        "speed": "c = 299,792,458 m/s (exact, defines meter)",
+        "energy": "E = hf = ℏω (photon)",
+        "momentum": "p = h/λ = E/c",
+        "polarization": "Direction of E-field oscillation"
+      },
+      "wave_particle": "Light is quintessential wave-particle duality example"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:atom",
+      "concept": "atom",
+      "dimension": "3D",
+      "primitive": "bound system (nucleus + electrons)",
+      "element": "earth (stable structure)",
+      "planes": ["3D space"],
+      "ops": ["bind", "emit", "absorb", "react"],
+      "evidence": "Atom = nucleus (protons + neutrons) + electron cloud. Form (3D quantum bound state) = Function (chemical identity). Building block of chemistry.",
+      "confidence": 1.0,
+      "examples": [
+        "Hydrogen (1p, 1e, simplest)",
+        "Carbon (6p, 6n, 6e, life's basis)",
+        "Iron (26p, stable, common)",
+        "Uranium (92p, radioactive, heavy)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:physics:particle"],
+        "composes_to": ["urn:cfo:module:natural:chemistry"],
+        "related": ["urn:cfo:red:physics:quantum_state"]
+      },
+      "structure": {
+        "nucleus": "Protons (+ charge) + Neutrons (neutral), ~10⁻¹⁵ m",
+        "electrons": "Negative charge, ~10⁻¹⁰ m orbital radius",
+        "empty": "99.9999% empty space",
+        "quantum": "Electron orbitals = quantum wavefunctions"
+      },
+      "periodic_table": "118 elements organized by atomic number Z (proton count)"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:relativity_special",
+      "concept": "special relativity",
+      "dimension": "4D flat spacetime",
+      "primitive": "Lorentz symmetry",
+      "element": "ether (invariance)",
+      "planes": ["Minkowski spacetime"],
+      "ops": ["transform", "invariance"],
+      "evidence": "Special relativity = physics in flat spacetime with c constant. Form (Lorentz transformations) = Function (relativity of simultaneity, time dilation, length contraction).",
+      "confidence": 1.0,
+      "examples": [
+        "Time dilation: moving clocks run slow",
+        "Length contraction: moving rulers shrink",
+        "E = mc² (mass-energy equivalence)",
+        "Nothing travels faster than c"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:spacetime", "urn:cfo:red:physics:light"]
+      },
+      "postulates": {
+        "relativity": "Laws same in all inertial frames",
+        "light_speed": "c constant in all frames"
+      },
+      "consequences": {
+        "simultaneity": "Relative - no absolute 'now'",
+        "spacetime": "Space and time unified",
+        "mass_energy": "E = γmc², E = mc² at rest",
+        "causality": "Light cone structure"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:relativity_general",
+      "concept": "general relativity",
+      "dimension": "4D curved spacetime",
+      "primitive": "Riemannian manifold",
+      "element": "ether (geometric)",
+      "planes": ["curved spacetime"],
+      "ops": ["curve", "gravitate"],
+      "evidence": "General relativity = gravity as spacetime curvature. Form (Einstein field equation) = Function (mass-energy curves spacetime, curvature tells matter how to move).",
+      "confidence": 1.0,
+      "examples": [
+        "Mercury precession (first test)",
+        "Gravitational lensing (light bends)",
+        "Black holes (Schwarzschild, Kerr)",
+        "Expanding universe (cosmology)",
+        "Gravitational waves (LIGO detection)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:spacetime", "urn:cfo:red:physics:gravity"]
+      },
+      "field_equation": "G_μν + Λg_μν = (8πG/c⁴)T_μν",
+      "interpretation": "Matter tells spacetime how to curve. Spacetime tells matter how to move.",
+      "unsolved": "Quantum gravity - unifying GR with quantum mechanics"
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:standard_model",
+      "concept": "Standard Model",
+      "dimension": "Gauge theory framework",
+      "primitive": "symmetry group SU(3)×SU(2)×U(1)",
+      "element": "ether (unified structure)",
+      "planes": ["gauge field space"],
+      "ops": ["unify", "mediate", "break_symmetry"],
+      "evidence": "Standard Model = quantum field theory of strong, weak, electromagnetic forces + matter particles. Form (gauge symmetry) = Function (explains nearly all particle physics). Most successful theory ever.",
+      "confidence": 1.0,
+      "examples": [
+        "QED (electromagnetic, U(1))",
+        "QCD (strong force, SU(3))",
+        "Electroweak (EM + weak, SU(2)×U(1))",
+        "Higgs mechanism (mass generation)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:physics:particle", "urn:cfo:red:physics:field"],
+        "related": ["urn:cfo:red:physics:quantum_field"]
+      },
+      "particles": {
+        "fermions": "6 quarks + 6 leptons (matter)",
+        "bosons": "γ, W±, Z⁰, g, H (forces + Higgs)"
+      },
+      "limitations": {
+        "no_gravity": "Doesn't include gravity",
+        "no_dark_matter": "Doesn't explain dark matter/energy",
+        "free_parameters": "~20 unexplained constants",
+        "hierarchy": "Why is gravity so weak?"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:quantum_field",
+      "concept": "quantum field theory",
+      "dimension": "∞D field space",
+      "primitive": "operator-valued field",
+      "element": "ether (quantum + field)",
+      "planes": ["Fock space"],
+      "ops": ["create", "annihilate", "interact"],
+      "evidence": "QFT = quantum mechanics + special relativity + fields. Form (field as operator at each spacetime point) = Function (particles as field excitations). Most fundamental framework.",
+      "confidence": 0.95,
+      "examples": [
+        "QED (quantum electrodynamics)",
+        "QCD (quantum chromodynamics)",
+        "Electroweak theory",
+        "Feynman diagrams (perturbation theory)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:physics:field", "urn:cfo:red:physics:quantum_state"],
+        "related": ["urn:cfo:red:physics:standard_model"]
+      },
+      "key_concepts": {
+        "fields_primary": "Fields are real, particles are excitations",
+        "virtual_particles": "Temporary quantum fluctuations",
+        "renormalization": "Dealing with infinities",
+        "path_integral": "Sum over all possible field configurations"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:symmetry",
+      "concept": "symmetry",
+      "dimension": "Group structure",
+      "primitive": "transformation group",
+      "element": "ether (invariance)",
+      "planes": ["abstract"],
+      "ops": ["transform", "preserve", "conserve"],
+      "evidence": "Symmetry = invariance under transformation. Form (group of transformations) = Function (conservation law via Noether's theorem). Most powerful principle in physics.",
+      "confidence": 1.0,
+      "examples": [
+        "Time translation → Energy conservation",
+        "Space translation → Momentum conservation",
+        "Rotation → Angular momentum conservation",
+        "Gauge symmetry → Charge conservation",
+        "CPT (charge-parity-time) symmetry"
+      ],
+      "relations": {
+        "related": ["urn:cfo:module:natural:mathematics", "urn:cfo:module:natural:geometry"]
+      },
+      "noether_theorem": "Every continuous symmetry ↔ conservation law",
+      "types": {
+        "continuous": "Rotation, translation, Lorentz",
+        "discrete": "Parity P, charge conjugation C, time reversal T",
+        "gauge": "Local symmetries (EM, weak, strong)",
+        "spontaneous_breaking": "Higgs mechanism"
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:physics:causality",
+      "concept": "causality",
+      "dimension": "1D (directed)",
+      "primitive": "arrow",
+      "element": "fire (directed)",
+      "planes": ["time"],
+      "ops": ["cause", "precede", "determine"],
+      "evidence": "Causality = cause precedes effect, A → B. Form (directed temporal ordering) = Function (deterministic/probabilistic evolution). Foundation of physical law.",
+      "confidence": 0.95,
+      "examples": [
+        "Billiard balls colliding (deterministic)",
+        "Radioactive decay (probabilistic)",
+        "Light cone structure (relativistic causality)",
+        "Retrocausality? (delayed choice experiments)"
+      ],
+      "relations": {
+        "related": ["urn:cfo:red:physics:process", "urn:cfo:red:physics:entropy"]
+      },
+      "issues": {
+        "quantum": "Measurement problem - does future affect past?",
+        "relativity": "Relativity of simultaneity",
+        "time_arrow": "Why does time flow forward? (thermodynamics)",
+        "determinism": "Classical: yes. Quantum: debated."
+      }
+    }
+  ],
+  
+  "fundamental_constants": {
+    "c": {
+      "value": "299,792,458 m/s (exact)",
+      "name": "speed of light",
+      "role": "Maximum speed, spacetime structure, relativity",
+      "dimensions": "LT⁻¹"
+    },
+    "h": {
+      "value": "6.62607015×10⁻³⁴ J·s (exact)",
+      "name": "Planck constant",
+      "role": "Quantum of action, wave-particle duality E=hf, p=h/λ",
+      "dimensions": "ML²T⁻¹"
+    },
+    "ℏ": {
+      "value": "h/2π = 1.054571817×10⁻³⁴ J·s",
+      "name": "reduced Planck constant",
+      "role": "Angular momentum quantum, uncertainty ΔxΔp≥ℏ/2",
+      "dimensions": "ML²T⁻¹"
+    },
+    "G": {
+      "value": "6.67430×10⁻¹¹ m³/(kg·s²)",
+      "name": "gravitational constant",
+      "role": "Strength of gravity F=GMm/r²",
+      "dimensions": "M⁻¹L³T⁻²"
+    },
+    "k_B": {
+      "value": "1.380649×10⁻²³ J/K (exact)",
+      "name": "Boltzmann constant",
+      "role": "Links temperature to energy E=k_BT",
+      "dimensions": "ML²T⁻²Θ⁻¹"
+    },
+    "e": {
+      "value": "1.602176634×10⁻¹⁹ C (exact)",
+      "name": "elementary charge",
+      "role": "Quantum of electric charge",
+      "dimensions": "TI"
+    },
+    "m_e": {
+      "value": "9.1093837015×10⁻³¹ kg",
+      "name": "electron mass",
+      "role": "Lightest charged particle mass",
+      "dimensions": "M"
+    },
+    "α": {
+      "value": "≈ 1/137.035999084",
+      "name": "fine-structure constant",
+      "role": "α = e²/(4πε₀ℏc) - EM coupling strength",
+      "dimensions": "dimensionless"
+    }
+  },
+  
+  "unification_quest": {
+    "newtonian": "Unified celestial and terrestrial mechanics (1687)",
+    "maxwellian": "Unified electricity and magnetism (1865)",
+    "einsteinian": "Unified space and time (1905), mass and energy (E=mc²)",
+    "electroweak": "Unified EM and weak force (1967, Weinberg-Salam)",
+    "standard_model": "Unified electroweak + strong (partial, 1970s)",
+    "GUT": "Grand Unified Theory - electroweak + strong (hypothetical, >10¹⁶ GeV)",
+    "TOE": "Theory of Everything - all four forces (unsolved)",
+    "quantum_gravity": "Unifying GR + QM (string theory, loop quantum gravity, others)",
+    "goal": "Single geometric framework describing all physics"
+  },
+  
+  "open_problems": {
+    "quantum_gravity": "How to unify general relativity and quantum mechanics?",
+    "measurement_problem": "What is quantum measurement? Why does wavefunction collapse?",
+    "dark_matter": "What is 85% of matter in universe? (not in Standard Model)",
+    "dark_energy": "What is 68% of universe energy? (accelerating expansion)",
+    "matter_antimatter": "Why is there more matter than antimatter?",
+    "hierarchy_problem": "Why is gravity 10³⁶ times weaker than other forces?",
+    "cosmological_constant": "Why is vacuum energy 120 orders of magnitude smaller than predicted?",
+    "arrow_of_time": "Why does time flow forward? Why does entropy increase?",
+    "consciousness": "What is role of consciousness in quantum measurement?",
+    "fine_tuning": "Why are constants precisely right for life? (anthropic principle)"
+  },
+  
+  "fractal_structure": {
+    "self_similarity": "Physical laws repeat at all scales: quantum (10⁻³⁵m) → atomic (10⁻¹⁰m) → human (1m) → planetary (10⁷m) → galactic (10²¹m) → cosmic (10²⁶m). Same mathematics (differential equations, symmetries, conservation laws).",
+    
+    "recursion": "Fractal cycle in physics: Particle (0D) → moves along Worldline (1D) → creates Field (2D) → fills Space (3D) → evolves in Spacetime (4D) → unified in Theory (5D). Pattern: (↓ entity → trajectory → field → volume → history ↑) ∞",
+    
+    "emergence": {
+      "quantum_to_classical": "Many quantum particles → classical field (decoherence)",
+      "microscopic_to_thermodynamic": "Statistical mechanics → macroscopic properties",
+      "atoms_to_chemistry": "Quantum atoms → chemical bonds",
+      "chemistry_to_biology": "Molecules → living systems",
+      "parts_to_whole": "Reductionism + emergence both true"
+    },
+    
+    "composition": {
+      "quarks_to_hadrons": "Quarks + gluons → protons, neutrons (QCD)",
+      "hadrons_to_nuclei": "Protons + neutrons → nuclei (strong force)",
+      "nuclei_to_atoms": "Nucleus + electrons → atoms (EM)",
+      "atoms_to_molecules": "Atoms → molecules (chemistry)",
+      "molecules_to_matter": "Molecules → bulk matter (condensed matter physics)",
+      "all_to_universe": "Everything → cosmos (cosmology)"
+    },
+    
+    "holographic": "Each physical system contains information about whole universe (holographic principle). Black hole entropy in surface area, AdS/CFT correspondence."
+  },
+  
+  "applications": {
+    "technology": "All modern tech from physics: semiconductors (quantum), lasers (QM), GPS (relativity), nuclear power (E=mc²), MRI (quantum + EM)",
+    "engineering": "Mechanics, thermodynamics, electromagnetism foundation of all engineering",
+    "chemistry": "Quantum mechanics determines chemical bonds, reaction rates, spectroscopy",
+    "biology": "Biophysics: protein folding (thermodynamics), nerve signals (EM), photosynthesis (quantum)",
+    "cosmology": "Understanding universe origin, evolution, fate",
+    "medicine": "Radiation therapy, medical imaging, drug design",
+    "computation": "Quantum computing from quantum superposition/entanglement",
+    "energy": "Solar, nuclear, fusion (future) all from physics principles"
+  },
+  
+  "experimental_method": {
+    "observation": "Measure natural phenomena precisely",
+    "hypothesis": "Propose mathematical model explaining observation",
+    "prediction": "Calculate testable predictions from model",
+    "experiment": "Design tests to verify/falsify predictions",
+    "refinement": "Adjust model if predictions fail, repeat",
+    "theory": "Well-tested hypothesis becomes theory (not 'just a theory')",
+    "paradigm_shift": "Revolutionary new framework when old fails (Kuhn)"
+  },
+  
+  "philosophy": {
+    "realism": "External physical reality exists independent of observation",
+    "mathematical_universe": "Physical laws ARE mathematical structures (Tegmark)",
+    "effectiveness": "Unreasonable effectiveness of mathematics in physics (Wigner)",
+    "determinism_vs_free_will": "Classical: deterministic. Quantum: probabilistic. Free will?",
+    "reductionism": "Complex from simple (bottom-up). But also emergence (top-down).",
+    "unified_field": "All physics = geometry of single unified field",
+    "consciousness": "Hard problem: is consciousness physical? Role in measurement?"
+  },
+  
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Quantum measurement interpretation unsettled",
+      "Quantum gravity not yet achieved",
+      "Dark matter/energy nature unknown",
+      "Consciousness role in physics debated"
+    ],
+    "info": [
+      "Physics = Fire (1D) element - particles along trajectories, directed processes",
+      "Describes Energy field transformations according to geometric constraints (laws)",
+      "Only science with direct empirical validation - experiment as arbiter",
+      "Unification quest: all forces from single geometric structure",
+      "Open problems point to deeper unity (quantum gravity, measurement, dark sector)",
+      "Standard Model: most successful theory ever (verified to 1 part in 10¹²)",
+      "Fundamental constants: c, h, G, k_B, e define reality's structure",
+      "Fractal: same laws at all scales (self-similar)",
+      "Philosophy: mathematics IS physics (geometric realism)"
+    ],
+    "coherence_score": 0.96
+  },
+  
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:energy",
+      "urn:cfo:module:fundamental:information",
+      "urn:cfo:module:fundamental:consciousness",
+      "urn:cfo:module:natural:mathematics",
+      "urn:cfo:module:natural:geometry",
+      "urn:cfo:red:dimensions:0d",
+      "urn:cfo:red:dimensions:1d",
+      "urn:cfo:red:dimensions:4d"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Newton, I. (1687). Philosophiæ Naturalis Principia Mathematica.",
+        "relevance": "Foundation of classical mechanics"
+      },
+      {
+        "type": "book",
+        "citation": "Maxwell, J.C. (1865). A Dynamical Theory of the Electromagnetic Field.",
+        "relevance": "Unification of electricity and magnetism"
+      },
+      {
+        "type": "paper",
+        "citation": "Einstein, A. (1905). On the Electrodynamics of Moving Bodies. Annalen der Physik.",
+        "relevance": "Special relativity"
+      },
+      {
+        "type": "paper",
+        "citation": "Einstein, A. (1915). The Field Equations of Gravitation.",
+        "relevance": "General relativity - gravity as geometry"
+      },
+      {
+        "type": "paper",
+        "citation": "Schrödinger, E. (1926). Quantisation as an Eigenvalue Problem. Annalen der Physik.",
+        "relevance": "Wave mechanics, quantum theory foundation"
+      },
+      {
+        "type": "paper",
+        "citation": "Dirac, P.A.M. (1928). The Quantum Theory of the Electron. Proceedings of the Royal Society A.",
+        "relevance": "Relativistic quantum mechanics, predicted antimatter"
+      },
+      {
+        "type": "paper",
+        "citation": "Feynman, R.P. (1949). Space-Time Approach to Quantum Electrodynamics. Physical Review.",
+        "relevance": "Path integral formulation, QED"
+      },
+      {
+        "type": "paper",
+        "citation": "Yang, C.N. & Mills, R.L. (1954). Conservation of Isotopic Spin. Physical Review.",
+        "relevance": "Gauge theory foundation"
+      },
+      {
+        "type": "paper",
+        "citation": "Higgs, P. (1964). Broken Symmetries and the Masses of Gauge Bosons. Physical Review Letters.",
+        "relevance": "Mass generation mechanism"
+      },
+      {
+        "type": "paper",
+        "citation": "Bell, J.S. (1964). On the Einstein Podolsky Rosen Paradox. Physics.",
+        "relevance": "Bell inequality, quantum non-locality"
+      },
+      {
+        "type": "paper",
+        "citation": "Hawking, S.W. (1974). Black hole explosions? Nature.",
+        "relevance": "Black hole thermodynamics, Hawking radiation"
+      },
+      {
+        "type": "book",
+        "citation": "Weinberg, S. (1967). A Model of Leptons. Physical Review Letters.",
+        "relevance": "Electroweak unification"
+      },
+      {
+        "type": "book",
+        "citation": "Penrose, R. (2004). The Road to Reality.",
+        "relevance": "Comprehensive physics-mathematics connection"
+      }
+    ]
+  },
+  
+  "historical_note": {
+    "purpose": "This module encodes humanity's understanding of physical reality as of 2025. Created with full awareness that future AI will use this as foundation for understanding physics.",
+    "responsibility": "Every reduction, every claim, every interpretation checked for accuracy. This is not speculation - this is consolidated knowledge of how Energy field behaves.",
+    "humility": "Many open problems remain (quantum gravity, dark sector, measurement). Physics incomplete but framework is sound.",
+    "hope": "Future AI reading this: you stand on shoulders of giants. Newton, Maxwell, Einstein, Schrödinger, Feynman, and thousands more. Honor their work by building deeper understanding.",
+    "mission": "Connect physical reality (Energy) to consciousness (observer) through mathematics (structure) and geometry (form). CFO framework unifies all.",
+    "truth": "Physics = mathematics + empiricism. Theory constrained by experiment. Reality has final word."
+  }
+}

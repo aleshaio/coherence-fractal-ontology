@@ -1,0 +1,84 @@
+{
+  "primitive": "point",
+  "dimension": "0D",
+  "element": "air",
+  
+  "essence": {
+    "geometric": "Безразмерная позиция, чистое различие",
+    "functional": "Носитель единичной информации, квант выбора",
+    "consciousness": "Минимальное осознание, акт различения"
+  },
+  
+  "properties": {
+    "spatial_extent": 0,
+    "degrees_of_freedom": 0,
+    "information_capacity": "1 bit (да/нет, есть/нет)",
+    "stability": "абсолютная",
+    "transformation": "только появление/исчезновение"
+  },
+  
+  "operations": ["measure", "select", "distinguish", "identify", "address"],
+  
+  "planes": [],
+  
+  "manifestations": {
+    "physical": [
+      "Квантовое состояние до измерения",
+      "Единичный бит информации",
+      "Сингулярность",
+      "Атом данных"
+    ],
+    "cognitive": [
+      "Единичная мысль",
+      "Момент осознания",
+      "Акт внимания",
+      "Решение (бинарное)"
+    ],
+    "social": [
+      "Индивидуум как единица",
+      "Единичное событие",
+      "Факт"
+    ]
+  },
+  
+  "composition_rules": {
+    "upward": {
+      "to_1D": "Множество точек → линия (последовательность)",
+      "to_2D": "Паттерн точек → плоскость (структура)",
+      "to_3D": "Распределение точек → поле (контекст)"
+    },
+    "forbidden": "Точку нельзя разбить на меньшее - она атомарна"
+  },
+  
+  "examples": [
+    {
+      "phenomenon": "Квантовая суперпозиция",
+      "evidence": "Состояние до коллапса = чистая точка возможности",
+      "confidence": 0.95
+    },
+    {
+      "phenomenon": "Момент 'сейчас'",
+      "evidence": "Безразмерная позиция во времени",
+      "confidence": 0.9
+    },
+    {
+      "phenomenon": "Единичный нейрон firing",
+      "evidence": "Бинарное событие: активен/неактивен",
+      "confidence": 0.85
+    }
+  ],
+  
+  "validation": {
+    "must_have": {
+      "zero_extent": true,
+      "discrete_identity": true,
+      "no_internal_structure": true
+    },
+    "cannot_have": {
+      "direction": true,
+      "area": true,
+      "volume": true,
+      "temporal_duration": true
+    }
+  }
+}

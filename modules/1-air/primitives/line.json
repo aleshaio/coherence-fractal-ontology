@@ -1,0 +1,85 @@
+{
+  "primitive": "line",
+  "dimension": "1D",
+  "element": "fire",
+  
+  "essence": {
+    "geometric": "Одномерное протяжение, направленный путь",
+    "functional": "Последовательность, причинность, процесс",
+    "consciousness": "Направленное осознание, поток внимания"
+  },
+  
+  "properties": {
+    "spatial_extent": 1,
+    "degrees_of_freedom": 1,
+    "information_capacity": "последовательность (ordered set)",
+    "stability": "требует начала и конца",
+    "transformation": "растяжение, вращение, перемещение"
+  },
+  
+  "operations": ["sequence", "order", "traverse", "cause", "flow", "connect"],
+  
+  "planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+  
+  "manifestations": {
+    "physical": [
+      "Траектория частицы",
+      "Световой луч",
+      "Электрический ток",
+      "Временная ось",
+      "Струна (теория струн)"
+    ],
+    "cognitive": [
+      "Поток мыслей",
+      "Нарратив",
+      "Логическая цепь рассуждений",
+      "Линия памяти"
+    ],
+    "social": [
+      "Линия наследования",
+      "Цепь команд",
+      "История (timeline)",
+      "Путь развития"
+    ]
+  },
+  
+  "composition_rules": {
+    "from_0D": "Последовательность точек создаёт линию",
+    "upward": {
+      "to_2D": "Множество параллельных линий → плоскость",
+      "to_3D": "Движение линии перпендикулярно → объём"
+    },
+    "forbidden": "Нельзя редуцировать процесс до одной точки без потери сути"
+  },
+  
+  "examples": [
+    {
+      "phenomenon": "Причинно-следственная связь",
+      "evidence": "A→B направленный процесс, 1D траектория в пространстве событий",
+      "confidence": 0.95
+    },
+    {
+      "phenomenon": "Алгоритм (программа)",
+      "evidence": "Последовательность инструкций, 1D путь выполнения",
+      "confidence": 0.9
+    },
+    {
+      "phenomenon": "Музыкальная мелодия",
+      "evidence": "Последовательность нот во времени, 1D структура",
+      "confidence": 0.85
+    }
+  ],
+  
+  "validation": {
+    "must_have": {
+      "directionality": true,
+      "sequential_order": true,
+      "one_dimensional_extent": true
+    },
+    "cannot_have": {
+      "area": true,
+      "volume": true,
+      "branching_without_2D": true
+    }
+  }
+}

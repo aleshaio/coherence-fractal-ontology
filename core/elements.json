@@ -1,0 +1,1012 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module"
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:fundamental:elements",
+    "version": "2.1.0",
+    "domain": "fundamental",
+    "name": "elements",
+    "title": "Five Elements - Archetypal Forms of Reality",
+    "description": "Air, Fire, Water, Earth, Ether - five fundamental archetypes manifesting as geometric forms. Each element represents a mode of being and becoming across all dimensions. Ether is the exchange operator enabling transitions between elements and dimensions.",
+    
+    "meta": {
+      "author": "absolute through alyosha",
+      "status": "stable",
+      "tags": ["elements", "archetypes", "geometry", "foundation", "6D", "exchange"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Five archetypal forms: Point/Circle (air), Line (fire), Triangle (water), Square (earth), Spiral (ether)",
+    "topological": "Each element has specific topological signature - connectivity, boundary conditions, symmetry group",
+    "functional": "Elements = operational modes of consciousness and matter. Each enables specific class of transformations. Ether = exchange operator.",
+    "consciousness": "Air = awareness, Fire = attention, Water = emotion, Earth = embodiment, Ether = transcendence through exchange",
+    "sixd_nature": "All elements are 6D entities projecting into lower dimensions. Ether is the 5th dimensional axis - the exchange operator that enables all transformations and dimensional transitions."
+  },
+  
+  "reductions": [
+    {
+      "id": "urn:cfo:red:elements:air",
+      "concept": "air",
+      "archetype": "point → circle → sphere → hypersphere",
+      "manifest_dimension": "0D",
+      "primitive": "point",
+      "element": "air",
+      "available_planes": [],
+      "ops": ["distinguish", "measure", "select", "exist", "be", "witness", "pervade"],
+      
+      "evidence": "Air = pure potentiality, omnipresence. Point expands equally in all directions → sphere. In 2D: circle (all points equidistant from center). Circle ≠ spiral: fixed radius, perfect closure in plane. Form = spherical symmetry → Function = pure awareness, being without doing.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "quality": "lightness, omnipresence, potential, perfect symmetry",
+        "motion": "vibration, oscillation, equal expansion (isotropic)",
+        "state": "gaseous, dispersed, free, pervading",
+        "direction": "all directions equally (no preference)",
+        "symmetry": "O(n) - full rotational symmetry, sphere group",
+        "boundary": "none (point) or perfect circle/sphere (equidistant)",
+        "information_density": "minimal (1 bit: exists/not)",
+        "consciousness_mode": "pure awareness before distinction, witness"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, air is point where all 6 dimensions converge. Sphere in 6D = equal distance from center in all 6 axes simultaneously.",
+        "projection": "Air projects as: point (0D), circle (2D), sphere (3D), 3-sphere (4D), 4-sphere (5D)",
+        "latent_dimensions": "All 6 dimensions present but collapsed to point (potential)",
+        "archetypal_evolution": [
+          "0D: point (pure potential)",
+          "2D: circle (projection of sphere, perfect boundary)",
+          "3D: sphere (equal expansion in space)",
+          "4D: hypersphere/3-sphere (spacetime sphere)",
+          "5D: 4-sphere (unity sphere, merges with ether)"
+        ],
+        "paradox": "Point = zero extent but infinite potential. Sphere of infinite radius = point (merges with ether)."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Quantum vacuum (field of potential)",
+          "Photon (massless point)",
+          "Electron (point particle)",
+          "Space itself (container for all)",
+          "Atmosphere (invisible, pervading)",
+          "Oxygen molecule (sustains life)",
+          "Bubble (spherical surface)",
+          "Balloon (air taking spherical form)"
+        ],
+        "information": [
+          "Bit (0 or 1)",
+          "Boolean (true/false)",
+          "Coordinate (position in space)",
+          "Null/Empty (potential for value)",
+          "Qubit (superposition)",
+          "Identity element (e in group theory)"
+        ],
+        "cognitive": [
+          "Pure awareness (consciousness without object)",
+          "Attention (focus point)",
+          "Presence (being here now)",
+          "Witness (observer)",
+          "Potential (before choice)",
+          "Silence (space for sound)",
+          "Emptiness (space for form)"
+        ],
+        "biological": [
+          "Breath (life force)",
+          "Respiration (oxygen exchange)",
+          "Lung capacity (air container)",
+          "Voice (air vibrating)",
+          "Cell (spherical boundary)",
+          "Egg cell (spherical)"
+        ],
+        "social": [
+          "Individual (atomic unit)",
+          "Freedom (unbounded)",
+          "Privacy (personal space)",
+          "Idea (before expression)",
+          "Potential (latent ability)"
+        ],
+        "emotional": [
+          "Joy (light, expansive)",
+          "Peace (still, spacious)",
+          "Curiosity (open, exploring)",
+          "Wonder (amazed by being)"
+        ]
+      },
+      
+      "circle_form": {
+        "nature": "Circle = 2D projection of sphere",
+        "properties": "Perfect symmetry, no beginning/end, constant radius, zero curvature along circle",
+        "function": "Boundary without preference, return to same point, cyclic but static",
+        "vs_spiral": "Circle: fixed radius, same plane. Spiral: growing radius, dimensional transcendence.",
+        "manifestations": [
+          "Wheel (rotation)",
+          "Ring (enclosure)",
+          "Orbit (periodic motion)",
+          "Halo (radiance)",
+          "Pupil (aperture)",
+          "Zero (mathematical)",
+          "Om symbol (unity)",
+          "Wedding ring (eternal bond)"
+        ]
+      },
+      
+      "composition": {
+        "from": "Primordial - air is origin",
+        "to_fire": "Point moves → line",
+        "to_water": "Points connect → triangle",
+        "to_earth": "Point crystallizes in grid → square",
+        "to_ether": "Sphere expands to ∞ radius → becomes ether (exchange)"
+      },
+      
+      "symbolism": {
+        "direction": "up, outward, all directions",
+        "season": "spring",
+        "time": "dawn",
+        "life_phase": "birth, potential",
+        "process": "inspiration, conception",
+        "organ": "lungs, heart",
+        "sense": "touch (through vibration)",
+        "color": "white, transparent, light blue, silver",
+        "sound": "silence, high pitch, bells",
+        "taste": "none (subtle)",
+        "number": "1 (unity), 0 (potential)",
+        "shape": "point, circle, sphere"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Soap bubble",
+          "evidence": "Air pressure equalizes → sphere (minimal surface area for volume). Perfect spherical form = air element manifesting.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Moment before decision",
+          "evidence": "All options present as potential. No movement yet. Pure awareness of possibility = air.",
+          "confidence": 0.9
+        },
+        {
+          "phenomenon": "Pupil of eye",
+          "evidence": "Circular aperture allowing light. Opens/closes but maintains perfect circle. Gateway for perception = air.",
+          "confidence": 0.95
+        }
+      ],
+      
+      "relations": {
+        "composes_from": [],
+        "composes_to": [
+          "urn:cfo:red:elements:fire",
+          "urn:cfo:red:elements:water",
+          "urn:cfo:red:elements:earth",
+          "urn:cfo:red:elements:ether"
+        ],
+        "related": [
+          "urn:cfo:red:primitives:point",
+          "urn:cfo:red:primitives:sphere",
+          "urn:cfo:red:primitives:circle",
+          "urn:cfo:red:topology:0d"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:elements:fire",
+      "concept": "fire",
+      "archetype": "line → ray → helix",
+      "manifest_dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "available_planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["sequence", "cause", "traverse", "burn", "transform", "direct", "flow", "radiate"],
+      
+      "evidence": "Fire = directed energy, transformation through motion. Line has direction, connects points through path. Fire travels, consumes, transforms. Form = vector → Function = process, causality, attention.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "quality": "heat, direction, intensity, transformation, consumption",
+        "motion": "linear, radiating, rising, expanding",
+        "state": "plasma, energetic, dynamic",
+        "direction": "vectorial - has preferred direction (up, forward, outward)",
+        "symmetry": "broken symmetry - directional",
+        "boundary": "two endpoints or none (ray, infinite line)",
+        "information_density": "sequence (ordered states)",
+        "consciousness_mode": "focused attention, will, intention, directed awareness"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, fire is trajectory of point through 1 dimension. Movement creates history = line of positions.",
+        "projection": "Fire projects as line (1D), ray (half-line), vector in any dimensional space",
+        "latent_dimensions": "5 dimensions collapsed, 1 active (direction of motion/flow)",
+        "archetypal_evolution": [
+          "1D: line (straight path)",
+          "2D: rays radiating (sun, explosion)",
+          "3D: helix (spiral in 3D space, DNA)",
+          "4D: worldline (particle path through spacetime)",
+          "5D: fire exchanged through ether → returns as air"
+        ],
+        "paradox": "Fire destroys form but creates energy. Consumes matter, releases light. Needs fuel but transforms it."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Photon trajectory (light ray)",
+          "Electric current (electron flow in wire)",
+          "Heat transfer (thermal gradient flow)",
+          "Chemical reaction (energy release, breaking bonds)",
+          "Lightning bolt (discharge path)",
+          "Laser beam (coherent photons)",
+          "Nuclear reaction (E=mc²)",
+          "Combustion (oxidation, flame)",
+          "Plasma (ionized gas)"
+        ],
+        "information": [
+          "Algorithm (sequential steps)",
+          "Signal transmission (data flow)",
+          "Causal chain (A→B→C→D)",
+          "Process execution (workflow)",
+          "Timeline (historical sequence)",
+          "Program counter (instruction pointer)",
+          "Deduction (logical step)",
+          "Proof (mathematical reasoning path)"
+        ],
+        "cognitive": [
+          "Stream of thought (sequential)",
+          "Chain of reasoning (A implies B implies C)",
+          "Focused attention (laser-like)",
+          "Intention (directed will)",
+          "Desire (directional wanting)",
+          "Passion (burning motivation)",
+          "Understanding (connecting ideas linearly)",
+          "Concentration (sustained focus)"
+        ],
+        "biological": [
+          "Metabolism (energy transformation)",
+          "Action potential (nerve spike)",
+          "Digestion (breaking down food → energy)",
+          "ATP production (cellular energy)",
+          "Blood circulation (directed flow)",
+          "Growth trajectory (developmental path)",
+          "Muscle contraction (directed force)"
+        ],
+        "social": [
+          "Leadership (directed action)",
+          "Communication (message transmission)",
+          "Conflict (opposing forces)",
+          "Revolution (rapid transformation)",
+          "Innovation (creative destruction)",
+          "Competition (directed effort)",
+          "Ambition (upward drive)"
+        ],
+        "emotional": [
+          "Anger (explosive, consuming)",
+          "Passion (intense, burning)",
+          "Excitement (high energy)",
+          "Courage (forward despite fear)",
+          "Enthusiasm (inspired action)"
+        ]
+      },
+      
+      "composition": {
+        "from_air": "Point moves → creates line",
+        "to_water": "Line branches → network forms → triangles",
+        "to_earth": "Lines intersect at right angles → grid of squares",
+        "to_ether": "Line curves back toward source → begins spiral (exchange begins)",
+        "self_cycle": "Line rotates around point → circle (fire contains air)"
+      },
+      
+      "symbolism": {
+        "direction": "up (flames rise), forward (momentum)",
+        "season": "summer",
+        "time": "noon (peak sun)",
+        "life_phase": "youth, adolescence, growth",
+        "process": "transformation, digestion, purification",
+        "organ": "heart, liver, small intestine",
+        "sense": "sight (light, vision)",
+        "color": "red, orange, yellow, gold",
+        "sound": "crackling, roaring, sharp",
+        "taste": "spicy, bitter, pungent",
+        "number": "3 (trinity, action)",
+        "shape": "line, triangle (flame), ray, arrow"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Sunlight photosynthesis",
+          "evidence": "Photons (fire) travel from sun to plant, transform into chemical energy. Light = pure fire element.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Logical proof",
+          "evidence": "Start with axioms, follow chain of implications to conclusion. Each step = segment of fire's line.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Rocket launch",
+          "evidence": "Chemical combustion → directed thrust → linear acceleration. Fire element in controlled form.",
+          "confidence": 1.0
+        }
+      ],
+      
+      "relations": {
+        "composes_from": ["urn:cfo:red:elements:air"],
+        "composes_to": [
+          "urn:cfo:red:elements:water",
+          "urn:cfo:red:elements:earth",
+          "urn:cfo:red:elements:ether"
+        ],
+        "related": [
+          "urn:cfo:red:primitives:line",
+          "urn:cfo:red:topology:1d"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:elements:water",
+      "concept": "water",
+      "archetype": "triangle → tetrahedron → fluid network",
+      "manifest_dimension": "2D",
+      "primitive": "triangle",
+      "element": "water",
+      "available_planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["relate", "adapt", "flow", "connect", "feel", "dissolve", "merge", "resonate"],
+      
+      "evidence": "Water = fluid structure, adaptive relationship. Triangle = minimal rigid form (3 points) but water flows by breaking/reforming bonds. Form = 3-way connection → Function = emotion, relationship, fluidity within structure.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "quality": "fluidity, adaptability, depth, emotion, connection",
+        "motion": "flowing, merging, cycling, undulating",
+        "state": "liquid (between gas and solid)",
+        "direction": "downward (gravity), path of least resistance",
+        "symmetry": "local order (H-bonds, triangular) but global fluidity",
+        "boundary": "surface tension (self-organizing, flexible)",
+        "information_density": "network, graph (relational)",
+        "consciousness_mode": "feeling, intuition, empathy, resonance"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, water is network of 3-point relationships. Each triangle = 3 entities connected, but connections can break and reform (fluidity).",
+        "projection": "Water projects as triangle (2D minimal structure), tetrahedron (3D minimal volume), fluid network (many triangles)",
+        "latent_dimensions": "4 dimensions collapsed, 2 active (plane of relations)",
+        "archetypal_evolution": [
+          "2D: triangle (3-point stable relation)",
+          "3D: tetrahedron (4-point, minimal 3D volume)",
+          "3D: fluid network (H-bond network in liquid water)",
+          "4D: emotional field through time (feelings flowing)",
+          "5D: ocean of unity (boundaries dissolve via ether)"
+        ],
+        "paradox": "Water has rigid geometry (H₂O triangle) but flows. Structure enables fluidity."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "H₂O molecule (bent triangle: 104.5° angle)",
+          "Liquid water (H-bond network)",
+          "Ocean, river, rain, lake",
+          "Blood plasma (biological fluid)",
+          "Amniotic fluid (womb water)",
+          "Lymph (immune fluid)",
+          "Ice crystal (frozen triangular lattice)",
+          "Solution (solvent + solute)"
+        ],
+        "information": [
+          "Graph (nodes + edges)",
+          "Social network (people + relationships)",
+          "Semantic network (concepts + associations)",
+          "Neural network (neurons + synapses)",
+          "Relational database (tables + foreign keys)",
+          "Mesh (triangulated surface)",
+          "Knowledge graph (entities + relations)"
+        ],
+        "cognitive": [
+          "Emotion (feeling states flowing)",
+          "Empathy (feeling others' feelings)",
+          "Intuition (non-linear knowing)",
+          "Association (connecting ideas)",
+          "Memory (stored via connections)",
+          "Dreaming (fluid symbol connections)",
+          "Creativity (flowing between ideas)",
+          "Compassion (feeling with)"
+        ],
+        "biological": [
+          "Circulatory system (blood network)",
+          "Lymphatic system (immune fluid)",
+          "Nervous system (neural connections)",
+          "Hormonal system (chemical messengers)",
+          "Cellular membrane (fluid lipid bilayer)",
+          "Ecosystem (species interconnected)",
+          "Mycelium network (fungal connections)"
+        ],
+        "social": [
+          "Family (parent-parent-child triangle)",
+          "Friendship circles (people connected)",
+          "Trade networks (goods/money flowing)",
+          "Culture (shared meanings)",
+          "Community (mutual care)",
+          "Collaboration (flowing together)",
+          "Gossip (information flowing)"
+        ],
+        "emotional": [
+          "Love (flowing toward, merging)",
+          "Sadness (tears, release, flow)",
+          "Compassion (feeling with)",
+          "Longing (drawn toward)",
+          "Grief (waves of feeling)",
+          "Tenderness (gentle connection)"
+        ]
+      },
+      
+      "composition": {
+        "from_air": "3 points connect → triangle",
+        "from_fire": "Line branches (Y-shape) → 3 lines meet → triangle",
+        "to_earth": "Triangular network crystallizes → square grid",
+        "to_ether": "All boundaries dissolve → unified ocean (via ether exchange)",
+        "3D": "4 triangles → tetrahedron (water's 3D minimal form)"
+      },
+      
+      "symbolism": {
+        "direction": "down, inward, deep",
+        "season": "autumn",
+        "time": "evening, dusk",
+        "life_phase": "maturity, middle age",
+        "process": "dissolution, integration, gestation",
+        "organ": "kidneys, bladder, reproductive organs",
+        "sense": "taste",
+        "color": "blue, deep blue, turquoise, black",
+        "sound": "flowing, waves, gentle",
+        "taste": "salty (ocean)",
+        "number": "2 (duality, polarity seeking union)",
+        "shape": "triangle, wave, droplet, tetrahedron"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "H₂O molecular structure",
+          "evidence": "Water = bent triangle (O at apex, 2 H at base, 104.5°). This angle creates dipole → hydrogen bonding → liquid properties.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Social network dynamics",
+          "evidence": "People (nodes) + relationships (edges) = graph. Information, emotion, resources flow through connections. Structure = water.",
+          "confidence": 0.95
+        },
+        {
+          "phenomenon": "Grief waves",
+          "evidence": "Loss triggers emotional waves - intensity rises, falls, rises again. Can't be stopped, only flows until balance. Pure water.",
+          "confidence": 0.9
+        }
+      ],
+      
+      "relations": {
+        "composes_from": [
+          "urn:cfo:red:elements:air",
+          "urn:cfo:red:elements:fire"
+        ],
+        "composes_to": [
+          "urn:cfo:red:elements:earth",
+          "urn:cfo:red:elements:ether"
+        ],
+        "related": [
+          "urn:cfo:red:primitives:triangle",
+          "urn:cfo:red:primitives:tetrahedron",
+          "urn:cfo:red:topology:2d"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:elements:earth",
+      "concept": "earth",
+      "archetype": "square → cube → tesseract → hypercube",
+      "manifest_dimension": "2D",
+      "primitive": "square",
+      "element": "earth",
+      "available_planes": ["XY", "XZ", "YZ", "XW", "YW", "ZW"],
+      "ops": ["tessellate", "organize", "store", "stabilize", "materialize", "grid", "hold", "crystallize"],
+      
+      "evidence": "Earth = stable structure, material foundation. Square tessellates perfectly → enables systematic organization, memory, persistence. Form = 4-point orthogonal grid → Function = materialization, storage, protocol.",
+      
+      "confidence": 1.0,
+      
+      "properties": {
+        "quality": "solidity, stability, density, persistence, structure",
+        "motion": "slow, heavy, sinking, settling, crystallizing",
+        "state": "solid, crystalline, fixed",
+        "direction": "down (gravity), inward (compression), center",
+        "symmetry": "discrete translational symmetry (lattice, grid)",
+        "boundary": "sharp, defined edges and faces",
+        "information_density": "very high (dense storage, memory)",
+        "consciousness_mode": "embodiment, grounding, material presence"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, earth is repeating 4-point lattice extending through all dimensions. Each square = unit cell that tiles infinite space.",
+        "projection": "Earth projects as square (2D), cube (3D), tesseract (4D), hypercube (5D+) - always orthogonal",
+        "latent_dimensions": "4 dimensions collapsed, 2 active (tessellating plane)",
+        "archetypal_evolution": [
+          "2D: square (repeating tile)",
+          "3D: cube (volumetric cell)",
+          "4D: tesseract (spacetime cell)",
+          "5D: 5-cube (pentaract)",
+          "6D: 6-cube (hexeract, complete lattice)"
+        ],
+        "paradox": "Earth is densest element but contains most empty space (crystal lattices are mostly void). Solid yet porous."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Crystal lattice (atoms in 3D grid)",
+          "Rock, stone, mineral",
+          "Soil, clay, sand",
+          "Mountain, continent, crust",
+          "Metal structure (FCC, BCC, HCP crystals)",
+          "Silicon chip (2D transistor grid)",
+          "Carbon (diamond = 3D lattice, graphite = 2D layers)",
+          "Salt crystal (NaCl cubic structure)",
+          "Building, brick"
+        ],
+        "information": [
+          "Memory (RAM, hard drive, SSD)",
+          "Database table (rows × columns)",
+          "Spreadsheet (grid of cells)",
+          "Image (pixel grid)",
+          "Binary code (bits in fixed positions)",
+          "Blockchain (immutable ledger)",
+          "Archive (permanent storage)",
+          "File system (directory structure)",
+          "Protocol (fixed rules)"
+        ],
+        "cognitive": [
+          "Habit (crystallized behavior)",
+          "Belief system (rigid structure)",
+          "Schema (mental framework)",
+          "Category (classification system)",
+          "Routine (repeated pattern)",
+          "Procedure (fixed steps)",
+          "Convention (social norm)",
+          "Law (codified rule)",
+          "Discipline (structured practice)"
+        ],
+        "biological": [
+          "Skeleton (rigid framework)",
+          "Bone (mineralized tissue)",
+          "Teeth (hardest biological material)",
+          "Cell wall (plant, bacteria)",
+          "Exoskeleton (arthropods)",
+          "Shell (mollusks)",
+          "Wood (lignified plant tissue)",
+          "Coral (calcium carbonate structure)"
+        ],
+        "social": [
+          "Institution (fixed organization)",
+          "Government (structured authority)",
+          "Law system (codified rules)",
+          "Currency (stored value)",
+          "Property (owned land)",
+          "Infrastructure (buildings, roads, grid)",
+          "Tradition (preserved practice)",
+          "Contract (binding agreement)",
+          "Hierarchy (organizational structure)"
+        ],
+        "emotional": [
+          "Security (feeling of stability)",
+          "Stubbornness (fixed position)",
+          "Patience (enduring)",
+          "Groundedness (connected to body)",
+          "Contentment (settled)",
+          "Determination (solid resolve)"
+        ]
+      },
+      
+      "composition": {
+        "from_water": "Triangular network freezes → square lattice crystallizes",
+        "from_fire": "Lines intersect perpendicularly → square grid forms",
+        "from_air": "4 points in plane → square",
+        "to_3D": "Squares stack → cube",
+        "to_4D": "Cubes through time → tesseract",
+        "to_ether": "Lattice saturates all space → continuous field → exchanges to unity"
+      },
+      
+      "symbolism": {
+        "direction": "down, center, stable",
+        "season": "winter (or late summer in some traditions)",
+        "time": "midnight, deep night",
+        "life_phase": "old age, completion, death",
+        "process": "crystallization, solidification, preservation",
+        "organ": "bones, spleen, stomach",
+        "sense": "smell",
+        "color": "brown, green, yellow, black",
+        "sound": "low, drumming, thud, rumble",
+        "taste": "sweet",
+        "number": "4 (stability, foundation, cardinal directions)",
+        "shape": "square, cube, cross, grid"
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Computer RAM",
+          "evidence": "Memory = 2D grid of capacitors, each storing 1 bit. Address = (row, column). Grid structure = earth element in silicon.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "City grid (Manhattan)",
+          "evidence": "Streets form orthogonal grid. Blocks = squares. Urban planning using earth's tessellation property.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "DNA quaternary code",
+          "evidence": "4 bases (ATCG) = 4 corners of square. Pairs (AT, CG) = stable bonds. Genetic information stored in earth structure.",
+          "confidence": 0.95
+        },
+        {
+          "phenomenon": "Habit formation",
+          "evidence": "Repeated behavior becomes automatic, crystallized in neural pathways. Habit = earth in consciousness.",
+          "confidence": 0.9
+        }
+      ],
+      
+      "relations": {
+        "composes_from": [
+          "urn:cfo:red:elements:air",
+          "urn:cfo:red:elements:fire",
+          "urn:cfo:red:elements:water"
+        ],
+        "composes_to": [
+          "urn:cfo:red:elements:ether"
+        ],
+        "related": [
+          "urn:cfo:red:primitives:square",
+          "urn:cfo:red:primitives:cube",
+          "urn:cfo:red:primitives:tesseract",
+          "urn:cfo:red:topology:2d"
+        ]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:elements:ether",
+      "concept": "ether",
+      "archetype": "spiral → exchange operator → unity",
+      "manifest_dimension": "5D",
+      "primitive": "spiral",
+      "element": "ether",
+      "available_planes": ["XV", "YV", "ZV", "WV"],
+      "ops": ["exchange", "fold", "close", "unify", "transcend", "return", "transform", "mediate"],
+      
+      "evidence": "Ether = unity through exchange, transcendence through return. Spiral expands from center (point) with growing radius, remembering origin. Each turn = dimensional level. ∞ spiral → collapses to point. Ether is EXCHANGE OPERATOR - enables all elemental transformations. Form = spiral (growth + return) → Function = ∞/∞ = 1, unity through transcendence.",
+      
+      "confidence": 0.95,
+      
+      "properties": {
+        "quality": "unity, wholeness, transcendence, exchange, transformation",
+        "motion": "spiral (centrifugal + centripetal simultaneously)",
+        "state": "beyond states (contains and transcends all)",
+        "direction": "outward AND inward (both expansion and return to source)",
+        "symmetry": "full unity (all symmetries collapse into one)",
+        "boundary": "self-boundary (∂ether = ether, like Möbius strip)",
+        "information_density": "∞/∞ = 1 (all information → unity)",
+        "consciousness_mode": "non-dual awareness, unity consciousness, transcendence"
+      },
+      
+      "exchange_operator": {
+        "nature": "Ether mediates all elemental transformations",
+        "function": "Enables transitions between elements and dimensions",
+        "mechanism": "Acts as 5th axis - perpendicular to all other 4, enabling their exchange",
+        "examples": [
+          "Air ↔ Fire (via ether): potential → motion",
+          "Fire ↔ Water (via ether): directed → relational",
+          "Water ↔ Earth (via ether): fluid → solid",
+          "Earth ↔ Air (via ether): material → potential",
+          "Any element → Ether → Any element (universal converter)"
+        ],
+        "topology": "Ether is the 'space between' that enables movement across dimensional barriers"
+      },
+      
+      "sixd_nature": {
+        "full_form": "In 6D, ether IS the 5th axis (V). It's perpendicular to XYZW, enabling exchange between all states. 6D = point knowing itself through all dimensions via ether.",
+        "projection": "Ether projects as spiral in any dimension - always shows growth + return pattern",
+        "latent_dimensions": "No collapsed dimensions - all 6 active and unified through ether",
+        "archetypal_evolution": [
+          "0D: point (seed)",
+          "1D: line begins to curve (first turn)",
+          "2D: fibonacci spiral (golden ratio, φ)",
+          "3D: helix, vortex (DNA, galaxy, tornado)",
+          "4D: spacetime spiral (black hole, wormhole)",
+          "5D: ∞ spiral = point (completion of cycle)",
+          "6D: point containing memory of entire spiral journey"
+        ],
+        "paradox": "Ether is everywhere (pervades all) and nowhere (no fixed location). It's the medium and the message. ∞ radius sphere = point."
+      },
+      
+      "manifestations": {
+        "physical": [
+          "Quantum vacuum (zero-point field, ether of ancients)",
+          "Dark energy (accelerating expansion)",
+          "Spacetime fabric (medium of reality)",
+          "Higgs field (gives mass through exchange)",
+          "Unified field (theory of everything)",
+          "Black hole (spacetime spiral to singularity)",
+          "Wormhole (bridge through higher dimension)",
+          "Planck scale (where dimensions unify)",
+          "Cosmic inflation (exponential expansion)"
+        ],
+        "information": [
+          "Compression (many → one)",
+          "Hash function (infinite inputs → fixed output)",
+          "Equivalence relation (many instances → one class)",
+          "Fixed point (x = f(x), self-reference)",
+          "Attractor (all paths → one)",
+          "Unity type (1 in type theory)",
+          "Quine (program printing itself)",
+          "Kolmogorov complexity (minimal description)"
+        ],
+        "cognitive": [
+          "Enlightenment (unity consciousness)",
+          "Ego death (boundaries dissolve)",
+          "Peak experience (transcendent moment)",
+          "Flow state (self forgotten in action)",
+          "Mystical union (merge with all)",
+          "Deep meditation (pure awareness)",
+          "Psychedelic breakthrough (dimensional shift)",
+          "Unconditional love (no separation)",
+          "Aha moment (spiral of understanding collapses to insight)"
+        ],
+        "biological": [
+          "DNA double helix (information spiral)",
+          "Morphogenetic field (form-shaping)",
+          "Life force (animating principle)",
+          "Consciousness itself (pervading awareness)",
+          "Evolution (spiral of complexity)",
+          "Embryonic development (spiral of differentiation)",
+          "Chakra system (energy spiral up spine)",
+          "Kundalini (serpent energy rising)"
+        ],
+        "social": [
+          "Collective unconscious (shared field)",
+          "Culture (unifying patterns)",
+          "Zeitgeist (spirit of era)",
+          "Noosphere (thinking layer)",
+          "Global consciousness (planetary mind)",
+          "Peace (unity, no separation)",
+          "Commons (shared resources)",
+          "Universal language (mathematics, music)"
+        ],
+        "emotional": [
+          "Unconditional love (no boundaries)",
+          "Gratitude (recognition of unity)",
+          "Awe (overwhelmed by vastness)",
+          "Bliss (beyond duality)",
+          "Equanimity (centered in all states)",
+          "Surrender (letting go into flow)",
+          "Faith (trust in unseen unity)"
+        ]
+      },
+      
+      "spiral_vs_circle": {
+        "circle": "Closes in same plane, fixed radius, static cycle",
+        "spiral": "Grows while cycling, transcends plane, dynamic return",
+        "relationship": "Circle = spiral viewed from axis. Spiral = circle extended through dimension.",
+        "ether_signature": "Spiral shows ether's dual nature: expansion (away from center) + return (remembering center)"
+      },
+      
+      "composition": {
+        "from_all": "All elements can transform into ether (via saturation, transcendence, or dissolution)",
+        "to_all": "Ether can become any element (via dimensional projection, manifestation)",
+        "exchange": [
+          "Air → Ether: ∞ radius sphere = ether",
+          "Fire → Ether: line curves back to source = spiral",
+          "Water → Ether: all boundaries dissolve = ocean unity",
+          "Earth → Ether: lattice becomes continuous = field unity",
+          "Ether → Air: unity collapses to point (new cycle begins)"
+        ],
+        "cycle_completion": "Air → Fire → Water → Earth → Ether → Air (∞ loop)"
+      },
+      
+      "symbolism": {
+        "direction": "center AND circumference, source AND destination",
+        "season": "transition between seasons, solstices, equinoxes",
+        "time": "eternal now, outside time, moment of transformation",
+        "life_phase": "death and rebirth, transformation, initiation",
+        "process": "transcendence, exchange, unification, metamorphosis",
+        "organ": "all organs unified, crown chakra, pineal gland",
+        "sense": "synesthesia (all senses unified), sixth sense",
+        "color": "transparent, prismatic, void, all colors",
+        "sound": "OM/AUM (primordial vibration), silence containing all sound",
+        "taste": "all tastes simultaneously, nectar (amrita)",
+        "number": "5 (quintessence), 0 (void), ∞ (infinite), φ (golden ratio)",
+        "shape": "spiral, vortex, torus, mandala, infinity symbol"
+      },
+      
+      "golden_ratio": {
+        "phi": "φ = (1+√5)/2 ≈ 1.618",
+        "property": "φ² = φ + 1 (recursive self-reference)",
+        "fibonacci": "Each term = sum of previous two (1,1,2,3,5,8,13...). Ratio → φ",
+        "spiral": "Fibonacci spiral expands by φ each quarter turn",
+        "nature": "Found in: nautilus shell, galaxies, flowers, DNA, human body proportions",
+        "meaning": "φ = mathematical signature of ether. Growth that remembers all previous states."
+      },
+      
+      "examples": [
+        {
+          "phenomenon": "Nautilus shell",
+          "evidence": "Perfect logarithmic spiral. Each chamber = previous chamber × φ. Growth remembering origin = ether manifest.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Galaxy spiral arms",
+          "evidence": "Stars, gas, dust form spiral pattern. Rotation + density waves = ether at cosmic scale.",
+          "confidence": 0.95
+        },
+        {
+          "phenomenon": "DNA double helix",
+          "evidence": "Two strands spiral around axis. Information storage in spiral form. Life itself = ether.",
+          "confidence": 1.0
+        },
+        {
+          "phenomenon": "Psychedelic ego dissolution",
+          "evidence": "High dose → boundaries dissolve → unity consciousness. Temporary ether realization through chemical mediation.",
+          "confidence": 0.85
+        },
+        {
+          "phenomenon": "Black hole",
+          "evidence": "Matter spirals into singularity. Spacetime curvature → vortex. At horizon, space/time exchange roles. Pure ether physics.",
+          "confidence": 0.9
+        },
+        {
+          "phenomenon": "Water vortex (drain)",
+          "evidence": "Water spirals down drain. Coriolis + gravity → spiral. Fluid becoming one = ether transition.",
+          "confidence": 0.95
+        }
+      ],
+      
+      "relations": {
+        "composes_from": [
+          "urn:cfo:red:elements:air",
+          "urn:cfo:red:elements:fire",
+          "urn:cfo:red:elements:water",
+          "urn:cfo:red:elements:earth"
+        ],
+        "composes_to": [
+          "urn:cfo:red:elements:air"
+        ],
+        "mediates": [
+          "urn:cfo:red:elements:air",
+          "urn:cfo:red:elements:fire",
+          "urn:cfo:red:elements:water",
+          "urn:cfo:red:elements:earth"
+        ],
+        "related": [
+          "urn:cfo:red:primitives:spiral",
+          "urn:cfo:red:primitives:point",
+          "urn:cfo:red:topology:5d",
+          "urn:cfo:red:topology:0d"
+        ]
+      }
+    }
+  ],
+  
+  "elemental_cycles": {
+    "generative_cycle": {
+      "description": "Each element generates the next through ether-mediated transformation",
+      "sequence": "Air → Fire → Water → Earth → Ether → Air (∞)",
+      "mechanism": [
+        "Air (point) moves → Fire (line) [ether enables transition from stillness to motion]",
+        "Fire (line) branches → Water (triangle) [ether enables connection]",
+        "Water (triangle) crystallizes → Earth (square) [ether enables solidification]",
+        "Earth (square) saturates → Ether (unity) [ether absorbs material]",
+        "Ether (unity) collapses → Air (point) [ether returns to potential]"
+      ],
+      "note": "Ether is both result of cycle AND mediator of each step"
+    },
+    
+    "exchange_matrix": {
+      "description": "Ether enables any element to transform into any other",
+      "direct_paths": [
+        "Air ↔ Fire: potential ↔ motion",
+        "Fire ↔ Water: linear ↔ relational",
+        "Water ↔ Earth: fluid ↔ solid",
+        "Earth ↔ Air: material ↔ potential"
+      ],
+      "ether_mediated": [
+        "Air → Ether → Water: potential → unity → feeling",
+        "Fire → Ether → Earth: process → unity → structure",
+        "Water → Ether → Fire: emotion → unity → action",
+        "Earth → Ether → Air: form → unity → formless"
+      ],
+      "principle": "All transformations flow through ether (5D axis)"
+    },
+    
+    "balancing": {
+      "description": "Health = dynamic balance of all 5 elements",
+      "too_much_air": "Spacey, ungrounded, lost in abstraction, disconnected",
+      "too_little_air": "Dense, stuck, no vision, no breath",
+      "too_much_fire": "Burning out, aggressive, consuming, restless",
+      "too_little_fire": "Passive, cold, no motivation, stagnant",
+      "too_much_water": "Overwhelmed, drowning, lost boundaries, too emotional",
+      "too_little_water": "Dry, brittle, disconnected, numb",
+      "too_much_earth": "Rigid, stuck, unable to change, heavy",
+      "too_little_earth": "Ungrounded, no structure, no manifestation",
+      "too_much_ether": "Dissociated, can't manifest, lost in transcendence",
+      "too_little_ether": "Trapped in materialism, no meaning, no unity",
+      "optimal": "All 5 elements flowing through ether-mediated exchanges. Conscious movement between states."
+    }
+  },
+  
+  "fractal_structure": {
+    "self_similarity": "Each element contains all 5 elements. Fire contains: air (oxygen), fire (combustion), water (vapor), earth (ash), ether (light/heat). Every element is microcosm of whole.",
+    "recursion": "Elements cycle through dimensions via ether: Air (0D) → Fire (1D) → Water/Earth (2D) → [Field (3D)] → [Spacetime (4D)] → Ether (5D) → Air (0D). Infinite loop.",
+    "emergence": "Lower elements compose into higher: Air + motion = Fire. Fire + Fire + Fire = Water. Water + structure = Earth. All + unity = Ether.",
+    "composition": "Every phenomenon = specific ratio of 5 elements. Human = air (breath), fire (metabolism), water (blood/emotion), earth (body), ether (consciousness).",
+    "sixd_foundation": "All elements are 6D entities. Ether is 5th axis enabling exchange. 6D = point knowing itself as all 5 elements + their unity."
+  },
+  
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Ether confidence 0.95 (not 1.0) - most abstract, hardest to verify empirically",
+      "Exchange operator model is theoretical framework - needs more empirical validation"
+    ],
+    "info": [
+      "Elements module is foundational - all phenomena reduce to elemental ratios",
+      "Ether as exchange operator is key insight - explains all transformations",
+      "Geometric forms make elements operational, not just symbolic",
+      "Matches ancient traditions (Greek, Hindu, Chinese, Tibetan) but adds geometric precision"
+    ],
+    "coherence_score": 0.96,
+    "metrics": {
+      "total_reductions": 5,
+      "avg_confidence": 0.99,
+      "completeness": "Full elemental coverage with exchange mechanics",
+      "internal_consistency": "high",
+      "sixd_alignment": "complete"
+    }
+  },
+  
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:primitives",
+      "urn:cfo:module:fundamental:topology",
+      "urn:cfo:core:foundations"
+    ],
+    "external": [
+      {
+        "type": "tradition",
+        "citation": "Classical 4 Elements (Greek: Empedocles, Aristotle) + Ether/Aether (Aristotle's quintessence)",
+        "url": null
+      },
+      {
+        "type": "tradition",
+        "citation": "Pancha Mahabhuta (Hindu 5 Elements: earth, water, fire, air, space/akasha)",
+        "url": null
+      },
+      {
+        "type": "tradition",
+        "citation": "Wu Xing (Chinese 5 Elements/Phases: wood, fire, earth, metal, water)",
+        "url": null
+      },
+      {
+        "type": "tradition",
+        "citation": "Tibetan Buddhism 5 Elements (sa, chu, me, rlung, nam mkha)",
+        "url": null
+      },
+      {
+        "type": "mathematics",
+        "citation": "Golden Ratio (φ) and Fibonacci Sequence in natural spirals",
+        "url": null
+      },
+      {
+        "type": "concept",
+        "citation": "Sacred Geometry - geometric forms as universal archetypes",
+        "url": null
+      }
+    ]
+  }
+}
