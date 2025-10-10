@@ -125,14 +125,6 @@ conflict ≡ Δscale … scale_shift ≡ argmin Δscale
   
   **Collective Level (5D-6D):**
   - `sociology.json` — society as emergent hive v3.0
-  
-  **Legacy Modules (retained for reference):**
-  - `cognitive_consciousness.json`, `cognitive_patterns.json`
-  - `emotions.json`, `archetypes_and_typologies.json`
-  - `social_roles.json`, `astrology.json`
-  - `universal-64.json`, `human_cybernetics.json`
-  - `somatic_archetypes_geometry.json`
-  - `taste.json`, `back_to_roots.json`, `true-treasures.json`
 
 ### **Humanitarian Sciences** ⭐ *NEW in v3.1*
 - **`/modules/humanitarian/`** — social and cultural phenomena:
