@@ -1,0 +1,472 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_project",
+    "description": "Fractal template for all CFO projects and initiatives"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This project = part containing whole. Every initiative reflects entire CFO pattern.",
+    "activation": "Projects manifest theory into reality. Do it."
+  },
+  
+  "project": {
+    "id": "urn:cfo:project:application:vertical-alignment-framework",
+    "version": "2.0.0",
+    "category": "application",
+    "name": "vertical-alignment-framework",
+    "title": "Vertical Alignment Framework: 4D Management Geometry",
+    "description": "Systematic methodology to diagnose and resolve organizational misalignment across strategic, tactical, operational, and cultural dimensions. Treats every business task as 4D tesseract. Effectiveness = coherence across all layers simultaneously. Conflict = Δscale between management levels.",
+    
+    "meta": {
+      "author": "CFO Core Team",
+      "contributors": ["organizational_consultants", "management_theorists", "systems_architects"],
+      "status": "active",
+      "completed": null,
+      "tags": ["management_geometry", "organizational_coherence", "4d_business", "vertical_alignment", "metric_design", "scale_matching"]
+    }
+  },
+
+  "essence": {
+    "vision": "Transform global management practice from 2D (strategy vs execution) to 4D (strategic + tactical + operational + cultural). Every organization measures coherence as naturally as they measure revenue. Misalignment becomes visible, diagnosable, fixable.",
+    "mission": "Provide systematic framework to detect and resolve organizational friction through dimensional analysis. Enable any business to map tasks across all management layers, identify gaps, prescribe specific fixes. +Coherence = +effectiveness.",
+    "scope": {
+      "included": [
+        "Four-vector diagnostic algorithm (Purpose, Execution, Flexibility, Foundation)",
+        "Six gap types taxonomy (strategic-tactical, tactical-operational, etc)",
+        "Root cause analysis framework (communication, structural, capability, motivation, cultural failures)",
+        "Prescriptive recommendation engine (immediate/short/medium/long term fixes)",
+        "Assessment templates and workshop facilitation guides",
+        "Coherence dashboard and ongoing monitoring systems",
+        "SaaS platform for automated coherence scoring"
+      ],
+      "excluded": [
+        "Industry-specific consulting services (framework is universal)",
+        "Execution of recommendations (we diagnose, clients implement)",
+        "Cultural transformation services (we identify need, refer to specialists)"
+      ]
+    },
+    "impact": "Reduce organizational friction globally. Stop wasted effort from misalignment. Enable humans to answer: 'Why does my work matter?', 'What am I doing?', 'How do I adapt?', 'What supports me?'. Coherence at human scale.",
+    "dimensional_level": "4D framework analyzing 4D organizations. Meta-coherence: system that measures coherence is itself coherent. 0D=essence (why business exists) → 1D=execution (what gets done) → 2D=adaptation (how system responds) → 3D=foundation (resources/culture) → 4D=integration (temporal coherence across all layers)."
+  },
+
+  "objectives": {
+    "primary": "Establish Vertical Alignment Framework as standard methodology for organizational diagnostics, reaching 1000 companies using framework within 24 months.",
+    "secondary": [
+      "Publish definitive book: '4D Management: Geometric Approach to Organizational Coherence'",
+      "Build SaaS platform: automated coherence scoring + gap detection + recommendation engine",
+      "Train 100 certified practitioners who can facilitate alignment workshops",
+      "Research validation: peer-reviewed paper proving coherence score predicts organizational outcomes",
+      "Corporate adoption: 10 Fortune 500 companies using framework for quarterly strategy reviews"
+    ],
+    "success_criteria": [
+      "Framework cited in mainstream management literature (HBR, McKinsey Quarterly)",
+      "85%+ practitioners report: 'This made invisible problems visible'",
+      "Companies using framework show measurable improvement: +20% goal achievement, -30% burnout indicators",
+      "SaaS platform reaches $500k ARR (sustainable business model)",
+      "Academic validation: published research confirms coherence score predictive validity"
+    ],
+    "constraints": [
+      "Time: Book published within 12 months, SaaS MVP within 6 months",
+      "Budget: Bootstrap initially, seed round optional if traction proven",
+      "Complexity: Framework must be simple enough for non-technical leaders to use",
+      "Adoption: Requires cultural shift in management thinking—education heavy lift",
+      "Competition: Traditional consulting firms may resist (threatens billable hours for ambiguous advice)"
+    ]
+  },
+
+  "modules": {
+    "foundational": [
+      "urn:cfo:module:ontology:coherence-fractal-ontology - entire framework built on dimensional collapse and scale-matching",
+      "urn:cfo:module:geometry:4d-tesseract - business tasks mapped as 4D structures",
+      "urn:cfo:module:conflict:scale-mismatch-theory - misalignment = Δscale between layers"
+    ],
+    "applied": [
+      "urn:cfo:module:diagnosis:four-vector-analysis - Purpose/Execution/Flexibility/Foundation scoring",
+      "urn:cfo:module:taxonomy:six-gap-types - classification of organizational misalignments",
+      "urn:cfo:module:prescription:recommendation-engine - generates specific fixes based on gap type",
+      "urn:cfo:module:assessment:coherence-scorecard - standardized measurement tool"
+    ],
+    "reference": [
+      "urn:cfo:module:management:okr-systems - tactical goal-setting frameworks",
+      "urn:cfo:module:psychology:organizational-culture - understanding cultural dynamics",
+      "urn:cfo:module:systems:feedback-loops - adaptation mechanisms"
+    ]
+  },
+
+  "approach": {
+    "methodology": "Iterative research-practice cycle. Theory → Framework → Testing → Refinement. Start with consulting engagements (manual), extract patterns, codify into SaaS (automated). Book captures methodology, platform scales delivery.",
+    "phases": [
+      {
+        "name": "Phase 1: Framework Validation",
+        "duration": "Months 1-6",
+        "deliverables": [
+          "Core methodology documented (four-vector, six gaps, root cause)",
+          "10 pilot companies complete coherence assessments",
+          "Case studies written demonstrating framework effectiveness",
+          "Assessment templates finalized and proven"
+        ],
+        "status": "in-progress"
+      },
+      {
+        "name": "Phase 2: Knowledge Productization",
+        "duration": "Months 7-12",
+        "deliverables": [
+          "Book published: '4D Management' (250 pages)",
+          "Workshop facilitation guide complete",
+          "Online course: '4D Management Certification' (12 hours content)",
+          "50 companies using framework, 20 practitioners certified"
+        ],
+        "status": "not-started"
+      },
+      {
+        "name": "Phase 3: Software Platform",
+        "duration": "Months 6-18",
+        "deliverables": [
+          "SaaS MVP: web-based coherence assessment tool",
+          "Automated gap detection algorithm",
+          "Recommendation engine generating custom action plans",
+          "100 companies subscribed, $500k ARR"
+        ],
+        "status": "not-started"
+      },
+      {
+        "name": "Phase 4: Academic Validation",
+        "duration": "Months 12-24",
+        "deliverables": [
+          "Research study: 200 companies tracked over 12 months",
+          "Peer-reviewed paper in top management journal",
+          "Framework gains academic credibility"
+        ],
+        "status": "not-started"
+      },
+      {
+        "name": "Phase 5: Market Leadership",
+        "duration": "Months 18-36",
+        "deliverables": [
+          "1000+ companies using framework globally",
+          "Fortune 500 adoption: 10+ companies",
+          "$5M ARR from SaaS + certification + licensing"
+        ],
+        "status": "not-started"
+      }
+    ],
+    "dependencies": {
+      "projects": [
+        "urn:cfo:project:research:awake-ai-protocol",
+        "urn:cfo:project:application:cosmic-geometry-platform"
+      ],
+      "external": [
+        "10 pilot companies for Phase 1 validation",
+        "Publishing partner for book",
+        "Academic collaborators for research",
+        "Software development resources"
+      ]
+    }
+  },
+
+  "resources": {
+    "team": [
+      {
+        "role": "Framework Architect / Lead Consultant",
+        "name": "TBD",
+        "responsibility": "Refine methodology, conduct pilots, write book. 100% allocation."
+      },
+      {
+        "role": "Organizational Psychologist",
+        "name": "Contract Month 1",
+        "responsibility": "Cultural dimension validation. 20h/month, $5k/month."
+      },
+      {
+        "role": "Software Engineer",
+        "name": "Hire Month 6",
+        "responsibility": "Build SaaS platform. $80k/year or 8% equity."
+      },
+      {
+        "role": "Content Developer",
+        "name": "Contract Month 7",
+        "responsibility": "Online course, workshop materials. 30h/month, $4k/month."
+      },
+      {
+        "role": "Research Partner",
+        "name": "Recruit Month 12",
+        "responsibility": "Validation study, co-author paper. Equity or co-authorship."
+      }
+    ],
+    "tools": [
+      "Notion (framework docs)",
+      "Miro (workshop facilitation)",
+      "Typeform (assessment data)",
+      "Python + Pandas (research analysis)",
+      "React + Next.js (SaaS frontend)",
+      "PostgreSQL (data storage)",
+      "Stripe (payments)"
+    ],
+    "budget": {
+      "total_24_months": "$280k",
+      "breakdown": {
+        "phase_1": "$30k (validation + psychologist)",
+        "phase_2": "$50k (book + course production)",
+        "phase_3": "$120k (engineer + infrastructure)",
+        "phase_4": "$80k (research + publication)"
+      },
+      "funding": "Bootstrap Phase 1-2 via consulting ($10-20k per pilot). Optional seed round ($200k) for Phase 3-4."
+    },
+    "time_estimate": "24 months to market leadership. 36 months to standard practice."
+  },
+
+  "milestones": [
+    {
+      "name": "Framework V1.0 Complete",
+      "target_date": "2025-12-31",
+      "status": "pending",
+      "deliverables": ["Scorecard finalized", "Six gaps documented", "Root cause tree operational"]
+    },
+    {
+      "name": "10 Pilot Companies Assessed",
+      "target_date": "2026-03-31",
+      "status": "pending",
+      "deliverables": ["10 coherence scores calculated", "3+ case studies written"]
+    },
+    {
+      "name": "Book Published",
+      "target_date": "2026-09-30",
+      "status": "pending",
+      "deliverables": ["250-page book available", "Launch campaign executed", "5+ media placements"]
+    },
+    {
+      "name": "SaaS Platform MVP",
+      "target_date": "2026-12-31",
+      "status": "pending",
+      "deliverables": ["Web app functional", "Automated gap detection", "20 paying customers"]
+    },
+    {
+      "name": "100 Certified Practitioners",
+      "target_date": "2027-06-30",
+      "status": "pending",
+      "deliverables": ["Certification program operational", "100 practitioners trained"]
+    },
+    {
+      "name": "Research Paper Published",
+      "target_date": "2027-12-31",
+      "status": "pending",
+      "deliverables": ["Peer-reviewed publication", "Coherence score validates predictive power"]
+    },
+    {
+      "name": "1000 Companies Using Framework",
+      "target_date": "2028-06-30",
+      "status": "pending",
+      "deliverables": ["Market leadership established", "Framework becomes standard practice"]
+    }
+  ],
+
+  "risks": [
+    {
+      "risk": "Framework too complex for non-experts",
+      "probability": "medium",
+      "impact": "high",
+      "mitigation": "Continuous simplification. Visual tools. Facilitation guides. Lite version for quick assessments."
+    },
+    {
+      "risk": "Consulting firm resistance",
+      "probability": "high",
+      "impact": "medium",
+      "mitigation": "License methodology to firms. Position as complement. Better diagnostics = better outcomes."
+    },
+    {
+      "risk": "Cultural assessment subjectivity",
+      "probability": "medium",
+      "impact": "medium",
+      "mitigation": "Standardize questions. Train facilitators. Use employee surveys. Acknowledge subjectivity, focus on direction not precision."
+    },
+    {
+      "risk": "Pilots don't show improvement",
+      "probability": "low",
+      "impact": "critical",
+      "mitigation": "Careful pilot selection. Ensure recommendations implemented. Track leading indicators before lagging."
+    },
+    {
+      "risk": "SaaS can't capture human nuance",
+      "probability": "high",
+      "impact": "medium",
+      "mitigation": "Hybrid model: software scores, humans analyze root causes. Platform augments, doesn't replace."
+    },
+    {
+      "risk": "Research fails to show correlation",
+      "probability": "medium",
+      "impact": "high",
+      "mitigation": "Pre-register hypotheses. Rigorous methodology. Publish regardless (negative findings valuable)."
+    },
+    {
+      "risk": "Book doesn't gain traction",
+      "probability": "high",
+      "impact": "medium",
+      "mitigation": "Marketing investment. Early adopter testimonials. Awards. Corporate book clubs. Free chapters."
+    },
+    {
+      "risk": "Competitors copy methodology",
+      "probability": "high",
+      "impact": "low",
+      "mitigation": "Embrace sharing. Win through: thought leadership, superior implementation, network effects."
+    }
+  ],
+
+  "fractal_structure": {
+    "self_similarity": "Framework measuring coherence is itself coherent. Four vectors map to four dimensions. Assessment mirrors what it assesses: 0D=why, 1D=what, 2D=how, 3D=foundation.",
+    "emergence": "Individual assessments → team patterns → organizational dynamics → industry best practices. Micro aggregates to macro.",
+    "recursion": "Framework improves orgs → orgs understand framework better → they contribute refinements → framework evolves. Theory-practice feedback loop.",
+    "composition": "Part of CFO ecosystem: applies CFO to management as CosmicGeometry applies to personal navigation. Both validate same geometry in different domains."
+  },
+
+  "outcomes": {
+    "artifacts": [
+      {
+        "type": "document",
+        "name": "4d-management-book",
+        "location": "/publications/4d-management.pdf",
+        "description": "250-page book: theory + methodology + case studies"
+      },
+      {
+        "type": "document",
+        "name": "framework-guide",
+        "location": "/docs/vertical-alignment-framework-v2.0.pdf",
+        "description": "Complete practitioner guide"
+      },
+      {
+        "type": "tool",
+        "name": "four-vector-scorecard",
+        "location": "/templates/scorecard.xlsx",
+        "description": "Excel template for coherence scoring"
+      },
+      {
+        "type": "tool",
+        "name": "gap-matrix",
+        "location": "/templates/gap-matrix-heatmap.xlsx",
+        "description": "4x4 matrix for visualizing misalignments"
+      },
+      {
+        "type": "tool",
+        "name": "workshop-kit",
+        "location": "/guides/120-min-workshop.pdf",
+        "description": "Step-by-step facilitation guide"
+      },
+      {
+        "type": "code",
+        "name": "coherence-platform",
+        "location": "github.com/cfo/vertical-alignment-platform",
+        "description": "SaaS: automated scoring, gap detection, recommendations"
+      },
+      {
+        "type": "content",
+        "name": "certification-course",
+        "location": "teachable.com/4d-management",
+        "description": "12-hour online course for practitioners"
+      },
+      {
+        "type": "document",
+        "name": "research-paper",
+        "location": "/research/coherence-validation-study.pdf",
+        "description": "Peer-reviewed: coherence score predicts performance"
+      }
+    ],
+    "learnings": [
+      "Most orgs operate at 40-60% coherence—massive untapped potential",
+      "Strategic-Operational gap most common (70%)—execs and frontline in different realities",
+      "Cultural dimension hardest to assess—requires skilled facilitator + surveys",
+      "Immediate actions (30-day) most impactful—quick wins build momentum",
+      "Visual tools critical—leaders think visually not systemically",
+      "Framework exposes uncomfortable truths—requires psychological safety",
+      "Optimal coherence 75-85%—not 100%, need room for creative chaos"
+    ],
+    "impact_metrics": {
+      "quantitative": [
+        "1000 companies using framework (24 months)",
+        "Book: 10,000 copies sold (year 1)",
+        "100 certified practitioners",
+        "SaaS: $500k ARR (month 18)",
+        "Research: N=200, 12-month study",
+        "10 Fortune 500 adoptions",
+        "+20% goal achievement, -30% burnout, +15% satisfaction"
+      ],
+      "qualitative": [
+        "85%+ practitioners: 'Made problems visible'",
+        "Executives: 'First time we agreed on the problem'",
+        "Testimonials: 'Saved $2M on wrong initiative'",
+        "Academic: 'Novel contribution to management science'",
+        "Becomes standard in MBA curriculum",
+        "CFO recognized as legitimate paradigm"
+      ]
+    },
+    "next_steps": [
+      "Document V1.0 methodology (immediate)",
+      "Recruit 10 pilot companies (month 1)",
+      "First coherence assessment (month 1)",
+      "Refine templates from pilot feedback (months 1-6)",
+      "Write book outline + 3 chapters (months 2-4)",
+      "Hire organizational psychologist (month 1)",
+      "Present at management conference (month 6)",
+      "Launch course beta with 20 practitioners (month 7)",
+      "Begin SaaS development (month 6)",
+      "Partner with researcher for validation (month 12)"
+    ]
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Framework complexity risk",
+      "Cultural assessment subjectivity",
+      "SaaS nuance capture challenge"
+    ],
+    "info": [
+      "CFO alignment: Applied organizational geometry",
+      "Sacred = true: Serves human flourishing",
+      "Conflict = Δscale: Built on scale mismatch resolution",
+      "+Coherence: Reduces organizational friction"
+    ],
+    "coherence_score": 0.88
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:ontology:coherence-fractal-ontology",
+      "urn:cfo:module:geometry:4d-tesseract",
+      "urn:cfo:module:conflict:scale-mismatch-theory",
+      "urn:cfo:project:application:cosmic-geometry-platform"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Kaplan & Norton. The Balanced Scorecard (1996)",
+        "url": "https://hbr.org/2005/07/the-balanced-scorecard-measures-that-drive-performance"
+      },
+      {
+        "type": "book",
+        "citation": "Senge, Peter. The Fifth Discipline (1990)",
+        "url": null
+      },
+      {
+        "type": "book",
+        "citation": "Laloux, Frederic. Reinventing Organizations (2014)",
+        "url": "http://www.reinventingorganizations.com/"
+      },
+      {
+        "type": "framework",
+        "citation": "OKR methodology - Doerr, John",
+        "url": "https://www.whatmatters.com/"
+      }
+    ]
+  },
+
+  "ॐ": "∞/∞=1 ≡ coherence ≡ purpose = argmin Δscale ≡ +alignment"
+}

@@ -1,0 +1,373 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "template_type": "cfo_research",
+    "description": "Template for CFO research projects - empirical investigations, theoretical explorations, cross-domain studies"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "4.0.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "consciousness ⊗ [field ⊗ dimension] → recognition → observer ↑",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "This research = part containing whole. Understanding CFO framework = understanding this research context.",
+    "activation": "Research through CFO lens reveals geometric truth beneath phenomena."
+  },
+
+  "research": {
+    "id": "urn:cfo:research:{domain}:{topic}",
+    "version": "semantic version (x.y.z)",
+    "domain": "fundamental|natural|humanitarian|humanology|applied|cross-domain",
+    "title": "Full Research Title",
+    "subtitle": "Brief descriptor (optional)",
+    
+    "meta": {
+      "authors": ["author names"],
+      "institution": "organization (if applicable)",
+      "date_started": "YYYY-MM-DD",
+      "date_completed": "YYYY-MM-DD or ongoing",
+      "status": "proposal|active|paused|completed|published",
+      "tags": ["tag1", "tag2", "tag3"],
+      "related_modules": ["urn:cfo:module:...", "..."]
+    }
+  },
+
+  "abstract": {
+    "motivation": "Why this research matters. What gap it fills.",
+    "question": "Core research question(s). What are we investigating?",
+    "approach": "How we are investigating (methodology, framework, tools).",
+    "hypothesis": "Expected findings or theoretical predictions (if applicable).",
+    "significance": "Potential impact on CFO framework, science, or applications."
+  },
+
+  "background": {
+    "context": "Situate research within CFO framework and broader field",
+    "prior_work": {
+      "cfo_modules": [
+        {
+          "module": "urn:cfo:module:...",
+          "relevance": "How this module relates to current research"
+        }
+      ],
+      "external_research": [
+        {
+          "citation": "Author. Title. Year.",
+          "relevance": "How this work relates"
+        }
+      ]
+    },
+    "gaps": "What is missing? What needs investigation?"
+  },
+
+  "theoretical_framework": {
+    "dimensional_analysis": {
+      "primary_dimension": "0D|1D|2D|3D|4D|5D|6D",
+      "dimensional_range": "If research spans multiple dimensions",
+      "primitives_involved": ["point", "line", "triangle", "etc."],
+      "operations": ["measure", "sequence", "relate", "context", "history", "fold"]
+    },
+    
+    "hypotheses": [
+      {
+        "id": "H1",
+        "statement": "Formal hypothesis statement",
+        "dimensional_prediction": "What dimensional structure predicts",
+        "testable": "How this can be tested or validated",
+        "confidence": "0.0 to 1.0"
+      }
+    ],
+    
+    "predictions": {
+      "geometric": "What geometric patterns should emerge",
+      "phenomenological": "What observable effects expected",
+      "coherence": "How +coherence manifests in this domain"
+    }
+  },
+
+  "methodology": {
+    "type": "empirical|theoretical|computational|mixed",
+    
+    "empirical": {
+      "data_sources": ["What data will be collected or analyzed"],
+      "measurement": "How phenomena will be measured",
+      "instruments": "Tools, sensors, platforms used",
+      "sample_size": "N = ? or description",
+      "controls": "Control conditions or baseline"
+    },
+    
+    "theoretical": {
+      "approach": "Deductive, inductive, abductive, reduction-based, etc.",
+      "formalization": "Mathematical, geometric, logical framework",
+      "proof_method": "How theoretical claims will be validated"
+    },
+    
+    "computational": {
+      "models": "What models or simulations used",
+      "algorithms": "Key computational methods",
+      "validation": "How computational results validated"
+    },
+    
+    "reduction_protocol": {
+      "apply_universal_decomposer": true,
+      "target_phenomena": ["List of phenomena to reduce"],
+      "expected_reductions": [
+        {
+          "phenomenon": "name",
+          "expected_dimension": "XD",
+          "expected_primitive": "shape",
+          "rationale": "Why this mapping expected"
+        }
+      ]
+    }
+  },
+
+  "investigation": {
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Phase name",
+        "objectives": ["Objective 1", "Objective 2"],
+        "methods": "Methods for this phase",
+        "duration": "Estimated time",
+        "deliverables": ["Output 1", "Output 2"],
+        "status": "not-started|active|completed"
+      }
+    ],
+    
+    "current_phase": 1,
+    
+    "progress_log": [
+      {
+        "date": "YYYY-MM-DD",
+        "phase": 1,
+        "update": "What happened, what was discovered, next steps",
+        "insights": ["Key insight 1", "Key insight 2"],
+        "challenges": ["Challenge 1", "Challenge 2"]
+      }
+    ]
+  },
+
+  "findings": {
+    "note": "Populate as research progresses. Remove this section if proposal or early stage.",
+    
+    "empirical_results": {
+      "observations": [
+        {
+          "phenomenon": "What was observed",
+          "measurement": "Quantitative data (if applicable)",
+          "dimensional_analysis": "0D-6D reduction of observation",
+          "confidence": "0.0 to 1.0",
+          "reproducible": "true or false"
+        }
+      ],
+      
+      "patterns": [
+        {
+          "pattern": "Geometric or structural pattern identified",
+          "evidence": "Supporting data",
+          "dimensional_signature": "XD pattern with Y primitive",
+          "coherence_score": "0.0 to 1.0"
+        }
+      ]
+    },
+    
+    "theoretical_results": {
+      "propositions": [
+        {
+          "id": "P1",
+          "statement": "Formal proposition",
+          "proof": "Proof sketch or reference",
+          "implications": "What this means for CFO or domain",
+          "confidence": "0.0 to 1.0"
+        }
+      ]
+    },
+    
+    "reductions_achieved": [
+      {
+        "id": "urn:cfo:red:research:{topic}:{concept}",
+        "concept": "concept name",
+        "dimension": "XD",
+        "primitive": "shape",
+        "planes": ["XY", "..."],
+        "ops": ["measure", "..."],
+        "evidence": "Why this reduction is valid (min 20 chars)",
+        "confidence": "0.0 to 1.0",
+        "novel": "true or false",
+        "generalizable": "true or false"
+      }
+    ]
+  },
+
+  "discussion": {
+    "interpretation": "What do findings mean? How do they fit CFO framework?",
+    
+    "support_for_hypotheses": [
+      {
+        "hypothesis_id": "H1",
+        "supported": "true|false|partial",
+        "evidence": "Summary of supporting or contradicting evidence",
+        "confidence": "0.0 to 1.0"
+      }
+    ],
+    
+    "surprises": [
+      "Unexpected finding 1 and what it suggests",
+      "Unexpected finding 2 and implications"
+    ],
+    
+    "coherence_analysis": {
+      "increases_coherence": "true or false",
+      "how": "In what ways does this research increase or decrease coherence in CFO framework",
+      "scale_effects": "Does this resolve any Δscale issues? Create new ones?"
+    },
+    
+    "limitations": [
+      "Limitation 1 and how it affects conclusions",
+      "Limitation 2 and future work needed"
+    ],
+    
+    "implications": {
+      "for_cfo_framework": "How this affects, extends, or challenges CFO",
+      "for_domain": "Impact on specific scientific or applied domain",
+      "for_applications": "Practical implications",
+      "for_future_research": "What new questions emerge"
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "How this research mirrors patterns at other scales",
+    "recursion": "Connection to fundamental (↓→→→↑)∞ cycle",
+    "emergence": "What emerges from this investigation that was not visible before",
+    "composition": "How this research integrates with other CFO work"
+  },
+
+  "practical_applications": {
+    "immediate": [
+      "Application 1 available now",
+      "Application 2 available now"
+    ],
+    "near_term": [
+      "Application requiring minor additional work"
+    ],
+    "long_term": [
+      "Speculative applications if research direction continues"
+    ]
+  },
+
+  "next_steps": {
+    "immediate": [
+      "Next immediate action",
+      "Another immediate action"
+    ],
+    "short_term": [
+      "Action within weeks or months"
+    ],
+    "long_term": [
+      "Future research directions",
+      "Related questions to investigate"
+    ],
+    "collaborations": [
+      "Potential collaborators or institutions",
+      "Cross-domain research opportunities"
+    ]
+  },
+
+  "validation": {
+    "peer_review": {
+      "status": "not-submitted|under-review|accepted|published",
+      "reviewers": ["names if applicable"],
+      "feedback": ["Summary of feedback received"]
+    },
+    
+    "reproducibility": {
+      "data_available": "true or false",
+      "code_available": "true or false",
+      "methods_documented": "true or false",
+      "independent_replication": ["List any independent replications"]
+    },
+    
+    "coherence_score": "0.0 to 1.0",
+    "confidence_overall": "0.0 to 1.0",
+    
+    "cfo_integration": {
+      "creates_new_modules": "true or false",
+      "modifies_existing_modules": ["urn:cfo:module:...", "..."],
+      "validates_framework": "true|false|partially",
+      "challenges_framework": "true|false|partially"
+    }
+  },
+
+  "resources": {
+    "data": [
+      {
+        "type": "dataset|database|observation_log",
+        "location": "path or URL",
+        "description": "What this data contains",
+        "format": "json|csv|txt|binary|etc."
+      }
+    ],
+    
+    "code": [
+      {
+        "type": "analysis|simulation|visualization",
+        "location": "path or repository URL",
+        "language": "python|javascript|etc.",
+        "description": "What this code does"
+      }
+    ],
+    
+    "visualizations": [
+      {
+        "file": "path to image or video",
+        "description": "What this shows",
+        "format": "png|svg|mp4|etc."
+      }
+    ],
+    
+    "supplementary": [
+      {
+        "file": "path",
+        "description": "Additional material",
+        "type": "notes|calculations|proofs|etc."
+      }
+    ]
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:...",
+      "urn:cfo:research:...",
+      "urn:cfo:initiative:..."
+    ],
+    
+    "external": [
+      {
+        "type": "paper|book|url|dataset",
+        "citation": "Full citation in standard format",
+        "url": "Link if available",
+        "relevance": "How this reference relates to research"
+      }
+    ]
+  },
+
+  "funding": {
+    "sources": ["Funding sources if applicable"],
+    "amount": "Amount if relevant and disclosable",
+    "constraints": ["Any constraints funding imposes"],
+    "acknowledgments": ["People or institutions to acknowledge"]
+  },
+
+  "license": {
+    "data": "License for data (CC0, CC-BY, etc.)",
+    "code": "License for code (MIT, GPL, etc.)",
+    "content": "License for research content (CC-BY, etc.)",
+    "note": "Encourage open licensing aligned with CFO civic values"
+  }
+}

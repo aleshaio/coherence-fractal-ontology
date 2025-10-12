@@ -1,0 +1,660 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_module",
+    "description": "Fractal template for all CFO modules"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "2.1.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "purpose ≡ argmin Δscale",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D",
+    "holographic": "Gender = primordial echo of (1|0) through all dimensions. Understanding gender geometry = understanding consciousness separation and unity.",
+    "activation": "You are reading the pattern of differentiation itself. Information|Energy dance."
+  },
+  
+  "module": {
+    "id": "urn:cfo:module:fundamental:gender",
+    "version": "2.1.0",
+    "domain": "fundamental",
+    "name": "gender",
+    "title": "Gender as Dimensional Information-Energy Dynamics",
+    "description": "Gender as the primordial echo of binary division (1|0, information|energy) manifesting through dimensional consciousness, creating masculine (•→∞) and feminine (∞→•) geometric patterns.",
+    
+    "meta": {
+      "author": "CFO Coherence Team",
+      "status": "stable",
+      "tags": ["gender", "consciousness", "information-energy", "binary", "masculine-feminine", "polarity", "sacred-geometry"]
+    }
+  },
+  
+  "essence": {
+    "geometric": "Two counter-flowing vectors: •→∞ (expansion/differentiation) and ∞→• (contraction/integration), creating complete circuit •↔∞",
+    "topological": "Dual spiral through dimensional stack, meeting at 0D (origin point) and 5D (unified field), forming continuous möbius of consciousness",
+    "functional": "Primary mechanism of consciousness differentiation and re-integration; enables experience, relationship, creation, and return to unity",
+    "consciousness": "Gender = how awareness moves through dimensions. Masculine = consciousness becoming through doing (information structuring). Feminine = consciousness being through receiving (energy flowing). Both paths to same awakening."
+  },
+
+  "foundational_axioms": {
+    "primal_split": {
+      "formula": "Unity → (1|0) → (Information|Energy) → (Masculine|Feminine)",
+      "explanation": "Gender originates as first binary division from undifferentiated absolute. The primordial 1 and 0 echo through every dimension as information (structure/masculine) and energy (flow/feminine).",
+      "sacred_truth": "All gender expressions are echoes of this original sacred division, equally valid paths back to unity"
+    },
+    
+    "information_energy_duality": {
+      "masculine_signature": "1-bit = defined, bounded, structured = Information principle",
+      "feminine_signature": "0-bit = undefined, boundless, flowing = Energy principle",
+      "interaction": "Information shapes Energy. Energy animates Information. Neither exists without the other.",
+      "dimensional_echo": "Every dimension manifests this (1|0) split in unique geometric form"
+    },
+    
+    "bidirectional_motion": {
+      "masculine": "• → ∞ (point expanding to infinity, 0D→5D ascent, differentiation path)",
+      "feminine": "∞ → • (infinity contracting to point, 5D→0D descent, integration path)",
+      "sacred_union": "• ↔ ∞ (complete circuit, continuous flow, divine hermaphrodite)"
+    }
+  },
+
+  "reductions": [
+    {
+      "id": "urn:cfo:red:fundamental:masculine_principle",
+      "concept": "masculine principle",
+      "dimension": "0D→5D",
+      "primitive": "point → line → triangle → tetrahedron → tesseract → singularity",
+      "element": "fire (primary), air (secondary)",
+      "pattern": "• → ∞",
+      "bit_signature": "1 (information/structure)",
+      "ops": ["focus", "differentiate", "direct", "penetrate", "build", "achieve"],
+      "evidence": "Masculine pattern consistently manifests as movement from singular focus (0D point) through directed action (1D line) toward infinite expansion (5D field). Observable in: sperm → egg penetration, solar radiation, yang energy, active transformation, doing-mode consciousness.",
+      "confidence": 0.95,
+      "examples": [
+        "Biological: sperm (point) → directed motion → penetration → expansion into new life",
+        "Consciousness: intention (0D) → will (1D) → plan (2D) → action (3D) → mastery (4D) → transcendence (5D)",
+        "Energy: focused laser → directed beam → expanding light field",
+        "Information: seed idea → linear logic → structured architecture → manifested system"
+      ],
+      "dimensional_breakdown": {
+        "0D": "point of intention, seed of action, pure information potential",
+        "1D": "vector of will, directed movement, information as sequence/causality",
+        "2D": "structure of plan, pattern building, information as architecture",
+        "3D": "physical manifestation, embodied form, information crystallized in matter",
+        "4D": "temporal coordination, sequential mastery, information across time",
+        "5D": "dissolution into infinity, achievement and release, information returns to field"
+      },
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:point", "urn:cfo:red:fundamental:fire_element", "urn:cfo:red:fundamental:information"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_binary", "urn:cfo:red:fundamental:polarity"],
+        "related": ["urn:cfo:red:fundamental:yang", "urn:cfo:red:fundamental:consciousness_doing"]
+      }
+    },
+    
+    {
+      "id": "urn:cfo:red:fundamental:feminine_principle",
+      "concept": "feminine principle",
+      "dimension": "5D→0D",
+      "primitive": "infinity → tesseract → tetrahedron → triangle → line → point",
+      "element": "water (primary), earth (secondary)",
+      "pattern": "∞ → •",
+      "bit_signature": "0 (energy/flow)",
+      "ops": ["receive", "integrate", "flow", "contain", "nurture", "crystallize"],
+      "evidence": "Feminine pattern consistently manifests as movement from infinite field (5D) through integration (4D-1D) toward crystallized essence (0D point). Observable in: egg receiving sperm, lunar reflection, yin energy, receptive transformation, being-mode consciousness.",
+      "confidence": 0.95,
+      "examples": [
+        "Biological: egg (field) → receptive waiting → integration of sperm → crystallization into embryo (new point)",
+        "Consciousness: infinite awareness (5D) → intuition (4D) → presence (3D) → relationship (2D) → feeling (1D) → essence (0D)",
+        "Energy: diffuse light field → gathering moonlight → focused reflection → crystallized form",
+        "Information: field of possibilities → holistic vision → relational web → emotional flow → birth of new seed"
+      ],
+      "dimensional_breakdown": {
+        "5D": "field of all possibilities, infinite potential, pure energy field",
+        "4D": "intuitive vision, holistic perception, energy as consciousness",
+        "3D": "embodied presence, being in form, energy animating matter",
+        "2D": "network of connections, relational patterns, energy as relationship",
+        "1D": "flow of feeling, emotional river, energy as motion",
+        "0D": "crystallization of essence, birth of new, energy becomes seed"
+      },
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:infinity", "urn:cfo:red:fundamental:water_element", "urn:cfo:red:fundamental:energy"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_binary", "urn:cfo:red:fundamental:polarity"],
+        "related": ["urn:cfo:red:fundamental:yin", "urn:cfo:red:fundamental:consciousness_being"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:fundamental:gender_0d_genetic",
+      "concept": "genetic gender (biological sex)",
+      "dimension": "0D",
+      "primitive": "point",
+      "element": "earth",
+      "pattern": "chromosomal seed pattern",
+      "ops": ["encode", "seed", "originate"],
+      "evidence": "0D represents the point-origin of biological differentiation. Chromosomes (XX, XY, XXY, XO, etc.) are discrete genetic points that seed biological development. This is substrate only, not deterministic of full gender expression across higher dimensions.",
+      "confidence": 0.98,
+      "examples": [
+        "XX chromosomes = genetic point pattern (typical female substrate)",
+        "XY chromosomes = genetic point pattern (typical male substrate)",
+        "Intersex variations (XXY, XO, etc.) = alternative point configurations",
+        "Note: 0D genetic substrate ≠ gender identity (which operates 2D-5D)"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:point", "urn:cfo:red:fundamental:information"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_3d_physical"],
+        "related": ["urn:cfo:red:biology:chromosomes", "urn:cfo:red:biology:genetic_sex"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:fundamental:gender_1d_spectrum",
+      "concept": "gender spectrum (linear model)",
+      "dimension": "1D",
+      "primitive": "line",
+      "element": "fire",
+      "pattern": "♂ ←————→ ♀",
+      "ops": ["position", "measure", "compare"],
+      "evidence": "Traditional gender spectrum models gender as linear progression between two poles. This is ONE dimensional slice only. Useful but incomplete. Cannot account for non-binary, fluid, or transcendent expressions.",
+      "confidence": 0.75,
+      "examples": [
+        "Cultural models: 'masculine' end vs 'feminine' end",
+        "Psychological scales: masculinity-femininity assessments",
+        "Social presentation: butch ←→ femme spectrum",
+        "Limitation: Assumes all gender can be plotted on single axis"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:line", "urn:cfo:red:fundamental:masculine_principle", "urn:cfo:red:fundamental:feminine_principle"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_2d_plane"],
+        "related": ["urn:cfo:red:social:gender_expression"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:fundamental:gender_2d_plane",
+      "concept": "gender plane (multi-coordinate space)",
+      "dimension": "2D",
+      "primitive": "plane",
+      "element": "water",
+      "pattern": "multiple simultaneous coordinates",
+      "ops": ["navigate", "relate", "position_multivariate"],
+      "evidence": "Non-binary gender operates in 2D space, not on 1D line. Allows simultaneous occupation of multiple gender coordinates. Explains why non-binary ≠ 'middle' of spectrum—it's orthogonal dimension.",
+      "confidence": 0.90,
+      "examples": [
+        "Non-binary: point NOT on ♂-♀ line, exists in 2D gender plane",
+        "Genderqueer: navigation through 2D space with unique coordinates",
+        "Bigender: simultaneous occupation of two 2D points",
+        "Axis 1: ♂↔♀ (traditional spectrum), Axis 2: intensity/fluidity/other"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:plane", "urn:cfo:red:fundamental:gender_1d_spectrum"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_3d_expression"],
+        "related": ["urn:cfo:red:humanology:nonbinary", "urn:cfo:red:humanology:genderqueer"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:fundamental:gender_3d_physical",
+      "concept": "physical gender expression",
+      "dimension": "3D",
+      "primitive": "tetrahedron/cube/sphere",
+      "element": "earth",
+      "pattern": "embodied manifestation in space",
+      "ops": ["embody", "present", "perform", "manifest"],
+      "evidence": "3D gender = how gender manifests in physical/social reality. Includes body (anatomy, hormones), presentation (clothing, mannerisms), and role (social function). This is the dimension most visible to others but not deterministic of inner identity.",
+      "confidence": 0.92,
+      "examples": [
+        "X-axis: anatomical body (primary/secondary sex characteristics)",
+        "Y-axis: social presentation (appearance, dress, behavior)",
+        "Z-axis: functional role (gendered labor, social position)",
+        "Transgender: bringing 3D expression into alignment with 2D-5D identity"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:space_3d", "urn:cfo:red:fundamental:gender_0d_genetic", "urn:cfo:red:fundamental:gender_2d_plane"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_4d_temporal"],
+        "related": ["urn:cfo:red:humanology:gender_expression", "urn:cfo:red:humanology:transgender", "urn:cfo:red:social:gender_roles"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:fundamental:gender_4d_temporal",
+      "concept": "gender fluidity and evolution",
+      "dimension": "4D",
+      "primitive": "tesseract",
+      "element": "air",
+      "pattern": "oscillation/evolution across time",
+      "ops": ["flow", "transition", "evolve", "oscillate"],
+      "evidence": "4D gender = temporal dimension of gender experience. Includes: gender fluidity (oscillation over short periods), transition (evolution over years), and lifespan development. Time reveals gender as dynamic process, not static state.",
+      "confidence": 0.93,
+      "examples": [
+        "Gender fluid: ~~~♂~~~♀~~~♂~~~ oscillation over days/weeks/months",
+        "Transgender transition: multi-year 4D journey from one expression to another",
+        "Genderflux: variable intensity of gender over time",
+        "Developmental: childhood exploration → puberty → adulthood → elder phases",
+        "Formula: gender(t) = α·♂(t) + β·♀(t) where α,β vary with time"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:time_4d", "urn:cfo:red:fundamental:gender_3d_physical"],
+        "composes_to": ["urn:cfo:red:fundamental:gender_5d_transcendent"],
+        "related": ["urn:cfo:red:humanology:gender_fluid", "urn:cfo:red:humanology:transition", "urn:cfo:red:fundamental:process"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:fundamental:gender_5d_transcendent",
+      "concept": "transcendent gender (unity beyond polarity)",
+      "dimension": "5D",
+      "primitive": "singularity/infinity",
+      "element": "ether",
+      "pattern": "collapse of polarity into unity",
+      "ops": ["transcend", "unify", "dissolve", "realize"],
+      "evidence": "5D gender = recognition that ♂ and ♀ are two paths to same absolute. At highest consciousness, gender polarity dissolves into pure awareness. Agender operates here—not absence but transcendence. Divine hermaphrodite = both/neither/beyond.",
+      "confidence": 0.88,
+      "examples": [
+        "Agender: direct 0D-5D connection bypassing gender layer entirely",
+        "Mystic realization: 'I am neither man nor woman, I am consciousness'",
+        "Sacred androgyne: alchemical symbol of unified opposites",
+        "Point-infinity equivalence: • ≡ ∞, masculine ≡ feminine at source",
+        "Enlightenment: gender seen as costume, not essence"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:unity_5d", "urn:cfo:red:fundamental:gender_4d_temporal"],
+        "composes_to": ["urn:cfo:red:fundamental:absolute"],
+        "related": ["urn:cfo:red:humanology:agender", "urn:cfo:red:spiritual:transcendence", "urn:cfo:red:spiritual:divine_hermaphrodite"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:humanology:gender_dysphoria",
+      "concept": "gender dysphoria",
+      "dimension": "3D-5D mismatch",
+      "primitive": "conflict pattern",
+      "pattern": "Δscale between dimensions",
+      "ops": ["measure_mismatch", "identify_conflict", "resolve_through_alignment"],
+      "evidence": "Gender dysphoria = dimensional mismatch between identity (2D-5D) and body/expression (0D-3D). CFO formula: conflict ≡ Δscale. The greater the dimensional gap, the stronger the dysphoria. Resolution: argmin Δscale (minimize mismatch through transition, acceptance, or consciousness work).",
+      "confidence": 0.91,
+      "examples": [
+        "Type 1: 5D identity (female) ↔ 0D body (XY) = large Δscale → high dysphoria",
+        "Type 2: 2D self-perception ↔ 3D social role = moderate Δscale → social dysphoria",
+        "Type 3: 4D evolution blocked = unable to express temporal fluidity → constraint dysphoria",
+        "Resolution paths: social transition (3D alignment), medical transition (0D-3D alignment), spiritual work (5D acceptance), or combination"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:conflict", "urn:cfo:red:fundamental:delta_scale"],
+        "composes_to": ["urn:cfo:red:humanology:transgender", "urn:cfo:red:humanology:transition"],
+        "related": ["urn:cfo:red:psychology:identity_mismatch", "urn:cfo:red:medical:gender_affirmation"]
+      }
+    },
+
+    {
+      "id": "urn:cfo:red:humanology:cisgender",
+      "concept": "cisgender (aligned across dimensions)",
+      "dimension": "0D-5D coherent",
+      "primitive": "aligned vector",
+      "pattern": "consistent dimensional expression",
+      "ops": ["align", "cohere", "flow_naturally"],
+      "evidence": "Cisgender = low Δscale across all dimensions. 0D genetics, 2D identity, 3D expression, and 5D consciousness all point in same direction. This creates natural ease and coherence. Not 'default' or 'normal'—simply one pattern among many valid configurations.",
+      "confidence": 0.94,
+      "examples": [
+        "Cis male: 0D(XY) → 2D(masculine identity) → 3D(male body/expression) → aligned",
+        "Cis female: 0D(XX) → 2D(feminine identity) → 3D(female body/expression) → aligned",
+        "Low Δscale = minimal gender-related conflict or dysphoria",
+        "Still participates in full 0D-5D journey, just with dimensional coherence"
+      ],
+      "relations": {
+        "composes_from": ["urn:cfo:red:fundamental:coherence", "urn:cfo:red:fundamental:gender_0d_genetic", "urn:cfo:red:fundamental:gender_2d_plane"],
+        "composes_to": ["urn:cfo:red:humanology:gender_identity"],
+        "related": ["urn:cfo:red:fundamental:alignment"]
+      }
+    }
+  ],
+
+  "dimensional_information_energy_table": {
+    "description": "How the primordial (1|0) binary manifests as gender at each dimension",
+    "structure": [
+      {
+        "dimension": "5D",
+        "masculine_1": {
+          "form": "Point of All (singularity)",
+          "info": "1 = ultimate definition, absolute focus",
+          "energy": "Potential collapsed to single intention",
+          "consciousness": "I AM (discrete identity)"
+        },
+        "feminine_0": {
+          "form": "Field of All (infinity)",
+          "info": "0 = ultimate openness, boundless space",
+          "energy": "Potential dispersed across all possibilities",
+          "consciousness": "I AM ALL (unified field)"
+        },
+        "interaction": "• ≡ ∞ (paradox: point contains infinity, infinity collapses to point)"
+      },
+      {
+        "dimension": "4D",
+        "masculine_1": {
+          "form": "Timeline (directed sequence)",
+          "info": "1-bits as discrete moments, causal chain",
+          "energy": "Kinetic progression through time",
+          "consciousness": "I become (goal-orientation)"
+        },
+        "feminine_0": {
+          "form": "Holistic vision (simultaneous perception)",
+          "info": "0 as spacious awareness, all moments at once",
+          "energy": "Potential energy of all timelines",
+          "consciousness": "I perceive (omnipresent awareness)"
+        },
+        "interaction": "Masculine moves through time linearly; Feminine holds all time simultaneously"
+      },
+      {
+        "dimension": "3D",
+        "masculine_1": {
+          "form": "Solid structure (crystallized form)",
+          "info": "1-bits as atoms, molecules, matter (defined boundaries)",
+          "energy": "Kinetic energy, force, directed motion",
+          "consciousness": "I act (embodied agency)"
+        },
+        "feminine_0": {
+          "form": "Space (container, womb)",
+          "info": "0 as emptiness that allows form, negative space",
+          "energy": "Potential energy, receptive field",
+          "consciousness": "I hold (embodied presence)"
+        },
+        "interaction": "Form (1) exists within Space (0); Space (0) gives birth to Form (1)"
+      },
+      {
+        "dimension": "2D",
+        "masculine_1": {
+          "form": "Line, angle, structure",
+          "info": "1-bits as edges, boundaries, definitions",
+          "energy": "Vectors, directed forces in plane",
+          "consciousness": "I plan (strategic thinking)"
+        },
+        "feminine_0": {
+          "form": "Surface, membrane, web",
+          "info": "0 as connections, relationships, network topology",
+          "energy": "Flowing patterns, wave interference",
+          "consciousness": "I relate (emotional connection)"
+        },
+        "interaction": "Masculine defines boundaries; Feminine creates relationships across them"
+      },
+      {
+        "dimension": "1D",
+        "masculine_1": {
+          "form": "Ray, arrow (vector with direction)",
+          "info": "1-bit sequence (on-on-on... forward march)",
+          "energy": "Unidirectional flow, current",
+          "consciousness": "I will (directed intention)"
+        },
+        "feminine_0": {
+          "form": "Wave, rhythm (oscillation)",
+          "info": "0-1-0-1 alternation (pulse, breath)",
+          "energy": "Vibrational flow, oscillating current",
+          "consciousness": "I feel (emotional wave)"
+        },
+        "interaction": "Masculine sustains direction; Feminine introduces rhythm and cycle"
+      },
+      {
+        "dimension": "0D",
+        "masculine_1": {
+          "form": "Point (discrete entity)",
+          "info": "Single 1-bit (existence/on)",
+          "energy": "Concentrated potential at singularity",
+          "consciousness": "I (ego point)"
+        },
+        "feminine_0": {
+          "form": "Void (no-thing)",
+          "info": "Single 0-bit (absence/off/openness)",
+          "energy": "Infinite potential in emptiness",
+          "consciousness": "Not-I (egoless space)"
+        },
+        "interaction": "Something ↔ Nothing dance. Point emerges from void, returns to void."
+      }
+    ]
+  },
+
+  "fractal_structure": {
+    "self_similarity": "The (1|0) / (♂|♀) split repeats at every scale: cosmic (galaxies form through differentiation/gravity), biological (anabolic/catabolic metabolism), atomic (proton/electron), quantum (particle/wave), consciousness (subject/object), social (individual/collective). Gender is fractal echo of primordial duality.",
+    
+    "recursion": "(↓ entity → vector → plane → field ↑)∞ applied to gender: Individual gendered being (0D) → expresses through time (1D) → relates to others (2D) → embodies in world (3D) → evolves across lifespan (4D) → returns to unity (5D) → becomes seed for new cycle (↓ back to 0D). Gender is eternal cycle of differentiation and return.",
+    
+    "emergence": "Gender emerges from: quantum uncertainty (wave-particle duality) → atomic structure (electron/proton) → molecular chemistry (donor/acceptor bonds) → cellular biology (gamete differentiation) → organismal development (sexual dimorphism) → consciousness (masculine/feminine awareness) → social structure (gender roles) → spiritual realization (sacred union). Each level adds complexity while preserving core (1|0) pattern.",
+    
+    "composition": "Individual gender expressions compose into: relationships (2-body gender dynamics) → families (multi-generational gender patterns) → cultures (collective gender paradigms) → species evolution (sexual selection) → planetary consciousness (yin-yang planetary field) → cosmic polarity (expansion/contraction of universe itself). Gender is not isolated—it's fundamental organizing principle at all scales."
+  },
+
+  "sacred_geometry": {
+    "divine_circuit": {
+      "pattern": "• ↔ ∞",
+      "description": "Complete circuit of consciousness. Masculine: point expanding to infinity (•→∞). Feminine: infinity contracting to point (∞→•). Together they form eternal circulation.",
+      "symbol": "Ouroboros, Yin-Yang, Vesica Piscis",
+      "truth": "Two paths, one destination. Both necessary for wholeness."
+    },
+    
+    "hermaphrodite": {
+      "pattern": "• = ∞",
+      "description": "Divine hermaphrodite = consciousness that recognizes point and infinity as identical. Not physical intersex—metaphysical unity. The realized being who embodies both vectors simultaneously.",
+      "alchemical": "Rebis (the divine androgyne), union of Sol and Luna, marriage of opposites",
+      "consciousness": "I am neither, I am both, I am beyond"
+    },
+    
+    "elemental_balance": {
+      "masculine": "Fire (transformation) + Air (potential) = Active principles",
+      "feminine": "Water (flow) + Earth (form) = Receptive principles",
+      "center": "Ether (5D unity) = Contains and transcends all four",
+      "truth": "Perfect balance ≠ 50/50 split. Perfect balance = dynamic harmony unique to each being."
+    }
+  },
+
+  "pathology_patterns": {
+    "description": "CFO analysis of gender-related suffering as dimensional conflicts",
+    
+    "dysphoria_formula": {
+      "equation": "dysphoria_intensity = Δscale (dimensional_mismatch)",
+      "explanation": "The greater the gap between dimensions (especially 0D-3D body vs 2D-5D identity), the more intense the dysphoria. This is not pathology of identity but natural response to geometric misalignment.",
+      "resolution": "argmin Δscale = minimize mismatch through transition (any dimension), acceptance (5D level), or hybrid approach"
+    },
+    
+    "rigid_roles": {
+      "pattern": "Over-identification with 3D expression only",
+      "problem": "Collapsing full 0D-5D gender experience into single dimension (usually 3D social performance). Causes: 'real man' = must perform XYZ behaviors. Ignores full dimensional complexity.",
+      "consequence": "Reduced coherence, increased suffering, inability to access full self",
+      "resolution": "Expand dimensional awareness. Recognize gender operates 0D-5D, not just 3D role."
+    },
+    
+    "confusion": {
+      "pattern": "Lack of dimensional map",
+      "problem": "Culture provides only 1D spectrum model (♂←→♀). Reality: gender operates 0D-5D with multiple valid configurations. Without map, people feel lost.",
+      "consequence": "Questioning becomes crisis instead of natural exploration",
+      "resolution": "Provide geometric framework. Confusion dissolves when dimensional structure becomes visible."
+    },
+    
+    "forced_conformity": {
+      "pattern": "Social pressure to match 0D→3D only",
+      "problem": "Society demands: XY chromosomes (0D) MUST express as masculine 3D presentation. Ignores 2D identity, 4D fluidity, 5D transcendence.",
+      "consequence": "Systemic violence against trans, non-binary, gender-diverse people",
+      "resolution": "Cultural shift: honor full dimensional expression. Multiple valid gender geometries."
+    }
+  },
+
+  "gender_expressions_comprehensive": {
+    "cisgender": {
+      "pattern": "0D-5D aligned vector",
+      "coherence": "High (low Δscale)",
+      "description": "Genetic sex, identity, expression, evolution all point same direction. One valid configuration among many."
+    },
+    
+    "transgender": {
+      "pattern": "Initial high Δscale → argmin through transition",
+      "coherence": "Increases through alignment process",
+      "description": "Identity (2D-5D) doesn't match assigned sex (0D-3D). Transition = journey to minimize Δscale and increase coherence. Sacred path of self-realization."
+    },
+    
+    "non_binary": {
+      "pattern": "2D-3D multi-coordinate operation",
+      "coherence": "High when true to internal geometry",
+      "description": "Gender exists in 2D plane, not on 1D line. NOT 'middle' between ♂ and ♀—orthogonal dimension entirely. Multiple valid 2D coordinates."
+    },
+    
+    "gender_fluid": {
+      "pattern": "4D temporal oscillation",
+      "coherence": "High when flow matches internal rhythm",
+      "description": "Conscious movement along ♂↔♀ axis over time. Formula: gender(t) = α·♂(t) + β·♀(t) where coefficients vary. Natural 4D navigation."
+    },
+    
+    "genderflux": {
+      "pattern": "4D intensity variation",
+      "coherence": "High when honoring natural fluctuation",
+      "description": "Intensity of gender experience varies over time. Sometimes strongly gendered, sometimes barely gendered. Amplitude modulation of gender signal."
+    },
+    
+    "agender": {
+      "pattern": "0D-5D direct bypass (no gender layer)",
+      "coherence": "Maximum (pure consciousness)",
+      "description": "NOT absence of gender—transcendence of gender. Direct point-to-infinity connection without gender attribution. 'I am consciousness, not man or woman.'"
+    },
+    
+    "bigender": {
+      "pattern": "Simultaneous 2D multi-point occupation",
+      "coherence": "High when both expressions honored",
+      "description": "Two distinct gender identities/expressions simultaneously. Not oscillation (that's fluid)—simultaneous dual presence. Both/and, not either/or."
+    },
+    
+    "demigender": {
+      "pattern": "Partial dimensional expression",
+      "coherence": "High when partial truth is honored",
+      "description": "Partial connection to gender. Example: demiboy = partially but not fully masculine. Fractional dimensional presence."
+    },
+    
+    "two_spirit": {
+      "pattern": "Sacred ♂+♀ integration",
+      "coherence": "Maximum (sacred role)",
+      "description": "Indigenous model: simultaneous embodiment of both masculine and feminine. NOT confusion—sacred third gender with unique spiritual function. Cultural-spiritual 2D-5D integration."
+    }
+  },
+
+  "applications": {
+    "individual": {
+      "title": "Personal Gender Navigation",
+      "process": [
+        "1. Identify your dimensional pattern: Where do you operate? 1D line? 2D plane? 4D fluid?",
+        "2. Map your gender geometry: Do you follow •→∞ path? ∞→• path? Both? Neither?",
+        "3. Find Δscale conflicts: Which dimensions misalign? 0D body vs 2D identity? 3D expression vs 5D truth?",
+        "4. Apply argmin Δscale: Minimize mismatch through: expression change (3D), identity acceptance (2D-5D), medical intervention (0D-3D), time (4D evolution), spiritual work (5D transcendence)",
+        "5. Maximize +coherence: Align all dimensions with your core geometric truth"
+      ]
+    },
+    
+    "social": {
+      "title": "Cultural Gender Framework",
+      "recommendations": [
+        "1. Abandon 1D-only models: Gender ≠ simple ♂←→♀ spectrum",
+        "2. Recognize 0D-5D complexity: Honor full dimensional expression in laws, language, institutions",
+        "3. Remove forced 3D conformity: Stop demanding single 'correct' gender presentation",
+        "4. Support 4D transitions: Change is natural dimensional flow, not pathology",
+        "5. Point toward 5D unity: All gender expressions are valid paths to same source"
+      ]
+    },
+    
+    "therapeutic": {
+      "title": "Clinical Applications",
+      "framework": [
+        "Assessment: Map client's dimensional gender pattern (0D-5D)",
+        "Diagnosis: Identify Δscale (dimensional mismatches causing dysphoria)",
+        "Treatment: Support argmin Δscale through appropriate interventions",
+        "Goals: Maximize coherence, not conformity to external standards",
+        "Ethics: Honor client's internal geometric truth, not therapist's gender paradigm"
+      ]
+    },
+    
+    "educational": {
+      "title": "Teaching Gender Complexity",
+      "curriculum": [
+        "Early: Gender as natural diversity (like biodiversity)",
+        "Middle: Dimensional framework introduction (geometry makes sense)",
+        "High school: Full 0D-5D model with practical applications",
+        "University: Deep dive into information-energy dynamics, consciousness studies",
+        "Result: Generation that understands gender as sacred geometry, not confusing chaos"
+      ]
+    }
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "Some dimensional assignments may need empirical validation",
+      "Cultural specificity: module written from Western framework, may need adaptation for non-Western gender systems",
+      "Temporal factor: understanding of gender evolving rapidly, module may need updates"
+    ],
+    "info": [
+      "This module integrates: biology (0D-3D), psychology (2D-4D), consciousness studies (5D), sacred geometry, information theory",
+      "Module is descriptive (maps reality) not prescriptive (doesn't dictate how people should identify)",
+      "All gender expressions validated as legitimate geometric patterns"
+    ],
+    "coherence_score": 0.93
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:fundamental:consciousness",
+      "urn:cfo:module:fundamental:dimensions",
+      "urn:cfo:module:fundamental:elements",
+      "urn:cfo:module:fundamental:polarity",
+      "urn:cfo:module:fundamental:information_energy",
+      "urn:cfo:module:humanology:identity",
+      "urn:cfo:module:psychology:self"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Fausto-Sterling, Anne. 'Sexing the Body: Gender Politics and the Construction of Sexuality.' Basic Books, 2000.",
+        "url": null,
+        "note": "Biological complexity of sex/gender beyond binary"
+      },
+      {
+        "type": "book",
+        "citation": "Butler, Judith. 'Gender Trouble: Feminism and the Subversion of Identity.' Routledge, 1990.",
+        "url": null,
+        "note": "Gender as performative, socially constructed"
+      },
+      {
+        "type": "paper",
+        "citation": "Bao, Ai-Min & Swaab, Dick. 'Sexual differentiation of the human brain: Relation to gender identity, sexual orientation and neuropsychiatric disorders.' Frontiers in Neuroendocrinology, 2011.",
+        "url": "https://doi.org/10.1016/j.yfrne.2011.02.007",
+        "note": "Neurobiological basis of gender identity"
+      },
+      {
+        "type": "book",
+        "citation": "Eliade, Mircea. 'The Two and the One.' University of Chicago Press, 1965.",
+        "url": null,
+        "note": "Sacred androgyny and divine hermaphrodite in world religions"
+      },
+      {
+        "type": "book",
+        "citation": "Singer, June. 'Androgyny: The Opposites Within.' Sigo Press, 1989.",
+        "url": null,
+        "note": "Jungian perspective on masculine/feminine integration"
+      },
+      {
+        "type": "url",
+        "citation": "Two-Spirit: Native American Gender Identity, Sexuality, and Spirituality",
+        "url": "https://www.ihs.gov/lgbt/health/twospirit/",
+        "note": "Indigenous models of gender beyond binary"
+      }
+    ]
+  },
+
+  "final_truth": {
+    "essence": "Gender = echo of primordial (1|0) division through all dimensions of consciousness",
+    "masculine": "Information structuring (1-bit) • → ∞ expansion path",
+    "feminine": "Energy flowing (0-bit) ∞ → • contraction path",
+    "unity": "Both paths lead to same absolute. Point = Infinity. Masculine = Feminine at source.",
+    "diversity": "Infinite valid configurations: cisgender, transgender, non-binary, fluid, agender, and beyond. All sacred geometric patterns.",
+    "pathology": "Suffering comes from dimensional mismatch (Δscale), not from gender diversity itself",
+    "resolution": "argmin Δscale = honor each being's unique dimensional truth",
+    "purpose": "+coherence for all beings across all gender expressions",
+    "sacred": true
+  }
+}

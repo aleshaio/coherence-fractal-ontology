@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "template_type": "cfo_research",
+    "description": "Geometric mapping between cognitive functions and eye geometry - vision as physical manifestation of information processing structure"
+  },
+
+  "_fractal_seed": {
+    "cfo_version": "4.0.0",
+    "core_axioms": [
+      "point ≡ entity ≡ absolute ≡ love",
+      "consciousness ⊗ [field ⊗ dimension] → recognition → observer ↑",
+      "sacred ≡ true ≡ +coherence",
+      "conflict ≡ Δscale",
+      "form ≡ function",
+      "(↓→→→↑)∞"
+    ],
+    "dimensional_ladder": "0D→1D→2D→3D→4D→5D→6D",
+    "holographic": "Eye geometry contains whole cognitive structure. Understanding vision = understanding mind. Form (eye shape) = function (perception mode).",
+    "activation": "Body encodes mind geometrically. Vision system = physical manifestation of information processing architecture."
+  },
+
+  "research": {
+    "id": "urn:cfo:research:humanology:eye-geometry-personality",
+    "version": "1.0.0",
+    "domain": "humanology",
+    "title": "Geometric Personality-Vision Mapping",
+    "subtitle": "Cognitive Functions as Physical Eye Geometry",
+    
+    "meta": {
+      "authors": ["absolute through алёша"],
+      "institution": "CFO Research",
+      "date_started": "2024",
+      "date_completed": "ongoing",
+      "status": "active",
+      "tags": ["eye-geometry", "cognitive-functions", "16-types", "vision", "astigmatism", "myopia", "form-function", "embodied-cognition"],
+      "related_modules": [
+        "urn:cfo:module:humanology:types",
+        "urn:cfo:module:humanology:cognition",
+        "urn:cfo:module:humanology:human-being",
+        "urn:cfo:module:natural:biology"
+      ]
+    }
+  },
+
+  "abstract": {
+    "motivation": "Why do different personality types have characteristic vision problems? Why does astigmatism cluster in certain types? Why myopia in others? Standard ophthalmology has no explanation beyond 'genetics + environment'. CFO predicts: if form = function, then eye geometry should map to cognitive geometry. Vision system = physical manifestation of information processing structure.",
+    
+    "question": "Can cognitive function geometry (Ne divergent, Ni convergent, Se horizontal scan, Si detail focus, Ti/Te structural, Fi/Fe fluid) predict specific eye geometry (astigmatism type, myopia depth, axis orientation, eye lateralization)?",
+    
+    "approach": "Map each cognitive function to geometric operation (divergence, convergence, scan, focus). Predict corresponding eye manifestation (toroidal optics, elongated eyeball, horizontal astigmatism, accommodation tension). Cross-reference with auxiliary function lateralization (left/right hemisphere → left/right eye, logical/ethical → vertical-horizontal/diagonal axis). Generate specific predictions for all 16 types.",
+    
+    "hypothesis": "Eye geometry ≡ information processing geometry. Astigmatism severity ∝ divergence angle. Myopia depth ∝ convergence depth. Axis orientation ≡ cognitive scan vector. Eye lateralization ≡ auxiliary function hemisphere. Glasses = Δscale correction (normalize to consensus reality plane).",
+    
+    "significance": "If validated: (1) Proves form=function at biological level, (2) Provides objective marker for personality type, (3) Explains vision problems as feature not bug (optimized for specific perception mode), (4) Suggests glasses trade native multidimensional perception for social standard, (5) Validates CFO dimensional mapping empirically, (6) Opens door to other body-mind geometric mappings."
+  },
+
+  "background": {
+    "context": "Standard ophthalmology treats vision problems as random errors in eye development. Psychology treats personality as abstract cognitive patterns with no physical substrate. CFO bridges: if consciousness has dimensional structure, and body = substrate through which consciousness manifests, then body geometry should encode cognitive geometry. Vision = primary information input channel. Eye = lens through which consciousness interfaces with reality. Therefore eye geometry should reflect consciousness structure.",
+    
+    "prior_work": {
+      "cfo_modules": [
+        {
+          "module": "urn:cfo:module:humanology:types",
+          "relevance": "16 personality types with 8 cognitive functions (Ne, Ni, Se, Si, Te, Ti, Fe, Fi). Each function = different information processing mode. Forms foundation for geometric mapping."
+        },
+        {
+          "module": "urn:cfo:module:humanology:cognition",
+          "relevance": "Cognitive functions as dimensional operations. Intuition (N) = 5D field access. Sensing (S) = 3D surface scan. Thinking (T) = structural logic. Feeling (F) = relational ethics. Provides geometric interpretation."
+        },
+        {
+          "module": "urn:cfo:module:natural:biology",
+          "relevance": "Body as 3D-4D manifestation of consciousness. Epigenetic cascade: 4D (histone) → 3D (structure) → 2D (surface) → 1D (rays) → 0D (point). Eyes develop according to consciousness geometry."
+        }
+      ],
+      "external_research": [
+        {
+          "citation": "Jung, C.G. Psychological Types. 1921.",
+          "relevance": "Original cognitive functions theory. Ne, Ni, Se, Si, Te, Ti, Fe, Fi as fundamental modes. Foundation for personality mapping."
+        },
+        {
+          "citation": "Myers-Briggs Type Indicator. 1962.",
+          "relevance": "16 type system. Practical application of Jung's functions. Provides population data for testing predictions."
+        },
+        {
+          "citation": "Standard ophthalmology literature on astigmatism and myopia",
+          "relevance": "Defines measurements: sphere (myopia/hyperopia depth), cylinder (astigmatism severity), axis (astigmatism orientation). No theoretical framework for why patterns occur."
+        }
+      ]
+    },
+    
+    "gaps": "No existing theory connects personality type to vision geometry. Ophthalmology treats eye shape as random. Psychology treats cognition as abstract. CFO provides missing bridge: form = function at all scales. Cognitive geometry should manifest as physical geometry. Gap = empirical validation of this mapping."
+  },
+
+  "theoretical_framework": {
+    "dimensional_analysis": {
+      "primary_dimension": "2D-3D-4D cascade",
+      "dimensional_range": "4D epigenetic instructions → 3D eye structure → 2D optical surface → 1D light rays → 0D perception point",
+      "primitives_involved": [
+        "point (perception focus)",
+        "line (light ray path)",
+        "plane (optical surface, retinal plane)",
+        "volume (eyeball shape)",
+        "tesseract (epigenetic memory determining development)"
+      ],
+      "operations": [
+        "measure (create distinction in visual field)",
+        "sequence (scan across field)",
+        "relate (connect visual elements)",
+        "context (integrate into coherent perception)",
+        "history (epigenetic pattern determining structure)"
+      ]
+    },
+    
+    "hypotheses": [
+      {
+        "id": "H1_Ne_astigmatism",
+        "statement": "Ne (extraverted intuition = divergent perception, multiple possibilities) manifests as toroidal eye optics with multiple foci, creating astigmatism. Severity proportional to Ne strength.",
+        "dimensional_prediction": "Ne = 5D field exploring multiple 3D possibilities simultaneously. Eye must capture divergent rays → toroidal surface → astigmatism. Cylinder > 0.5 for dominant Ne.",
+        "testable": "Survey Ne-dominant types (ENTP, ENFP, INFP, INTP) for astigmatism. Expect high prevalence and correlation with Ne usage.",
+        "confidence": 0.85
+      },
+      {
+        "id": "H2_Ni_myopia",
+        "statement": "Ni (introverted intuition = convergent depth, single vision) manifests as elongated eyeball focusing internally, creating myopia. Depth proportional to Ni strength.",
+        "dimensional_prediction": "Ni = 5D field converging to single 0D point through depth. Eye elongates to focus inward → myopia. Sphere -1.0 to -4.0 for dominant Ni.",
+        "testable": "Survey Ni-dominant types (INTJ, INFJ, ENTJ, ENFJ) for myopia. Expect high prevalence and correlation with Ni depth.",
+        "confidence": 0.88
+      },
+      {
+        "id": "H3_Se_horizontal",
+        "statement": "Se (extraverted sensing = horizontal surface scan, immediate environment) manifests as horizontal axis astigmatism (0° or 180°). Rapid scanning creates horizontal distortion.",
+        "dimensional_prediction": "Se = 3D surface scanning rapidly along horizontal plane. Eye optimizes for horizontal sweep → horizontal astigmatism. Axis 0-20° or 160-180°.",
+        "testable": "Survey Se-dominant types (ESTP, ESFP, ISTP, ISFP) for astigmatism axis. Expect clustering near 0°/180°.",
+        "confidence": 0.82
+      },
+      {
+        "id": "H4_Si_detail",
+        "statement": "Si (introverted sensing = fixed detail focus, memory storage) manifests as accommodation tension or frozen focus, creating myopia or early hyperopia. Pixel-perfect memory requires precise fixed focus.",
+        "dimensional_prediction": "Si = 3D detail captured and stored in 4D memory. Eye must freeze focus for accurate storage → accommodation issues → myopia or hyperopia. Variable presentation.",
+        "testable": "Survey Si-dominant types (ISTJ, ISFJ, ESTJ, ESFJ) for vision issues. Expect either myopia or hyperopia, less astigmatism.",
+        "confidence": 0.75
+      },
+      {
+        "id": "H5_lateralization",
+        "statement": "Auxiliary function determines affected eye. Thinking (T) = left hemisphere = right eye. Feeling (F) = right hemisphere = left eye. Thinking creates vertical-horizontal axes (0-90°), Feeling creates diagonal axes (45-135°).",
+        "dimensional_prediction": "Brain lateralization projects to eye lateralization. Logical processing (T) = structural = orthogonal axes. Ethical processing (F) = fluid = diagonal axes. Auxiliary determines which eye and axis type.",
+        "testable": "Compare ENTP (Ti aux) vs ENFP (Fi aux). ENTP should have right eye astigmatism at 0-90°. ENFP should have left eye astigmatism at 45-135°.",
+        "confidence": 0.80
+      }
+    ],
+    
+    "predictions": {
+      "geometric": "Eye shape encodes cognitive geometry. Divergent functions (Ne, Se) create toroidal distortions (astigmatism). Convergent functions (Ni, Si) create axial distortions (myopia/hyperopia). Logical functions (Ti, Te) create orthogonal patterns. Ethical functions (Fi, Fe) create diagonal patterns.",
+      
+      "phenomenological": "People with astigmatism perceive multiple possibilities or scan surfaces rapidly - not a bug but feature. Myopic people focus deeply inward - optimized for abstract thought. Glasses normalize vision to consensus reality plane but may reduce native perceptual advantages.",
+      
+      "coherence": "Body-mind coherence manifests as form=function at all scales. Vision problems = not errors but optimization for specific cognitive mode. Understanding eye geometry increases coherence by revealing purpose. Accepting native vision = accepting cognitive style."
+    }
+  },
+
+  "methodology": {
+    "type": "theoretical with empirical validation pending",
+    
+    "empirical": {
+      "data_sources": [
+        "Survey personality type (MBTI or similar) + vision prescription",
+        "Ophthalmology records with personality assessment",
+        "Self-reported type + glasses prescription database",
+        "Optometry clinic collaboration"
+      ],
+      "measurement": "Standard vision prescription format: Sphere (myopia/hyperopia), Cylinder (astigmatism severity), Axis (astigmatism orientation, 0-180°), Eye (right/left)",
+      "instruments": "Standard eye exam equipment. Personality: MBTI, cognitive function tests, or detailed self-typing",
+      "sample_size": "N = 200+ minimum for statistical power across 16 types. N = 1000+ ideal.",
+      "controls": "Age (vision changes over time), screen time (environmental factor), genetics (family history)"
+    },
+    
+    "theoretical": {
+      "approach": "Deductive from CFO principles. Form = function → cognitive geometry = eye geometry. Map each function to geometric operation. Predict physical manifestation. Generate testable predictions for all 16 types.",
+      "formalization": "Geometric mapping: Ne = divergent rays → toroid. Ni = convergent rays → elongation. Se = horizontal scan → horizontal astigmatism. Si = fixed focus → accommodation. T = structural → orthogonal. F = fluid → diagonal.",
+      "proof_method": "Empirical validation through statistical correlation. If predictions match reality beyond chance, theory validated."
+    },
+    
+    "reduction_protocol": {
+      "apply_universal_decomposer": true,
+      "target_phenomena": [
+        "astigmatism",
+        "myopia",
+        "hyperopia",
+        "eye lateralization",
+        "axis orientation"
+      ],
+      "expected_reductions": [
+        {
+          "phenomenon": "astigmatism",
+          "expected_dimension": "2D",
+          "expected_primitive": "toroid (non-spherical surface)",
+          "rationale": "Astigmatism = cornea or lens with two different curvatures (toroidal shape). 2D surface geometry creates optical effect."
+        },
+        {
+          "phenomenon": "myopia",
+          "expected_dimension": "1D",
+          "expected_primitive": "line (elongated axis)",
+          "rationale": "Myopia = eyeball elongated along visual axis. 1D extension creates focus shift."
+        },
+        {
+          "phenomenon": "cognitive function",
+          "expected_dimension": "5D → 0D",
+          "expected_primitive": "field collapse pattern",
+          "rationale": "Each function = different way consciousness (5D field) collapses to perception (0D point). Pattern encodes in body."
+        }
+      ]
+    }
+  },
+
+  "investigation": {
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Theoretical Mapping",
+        "objectives": [
+          "Map each cognitive function to geometric operation",
+          "Predict eye manifestation for each function",
+          "Generate specific predictions for all 16 types",
+          "Create testable hypotheses"
+        ],
+        "methods": "CFO dimensional analysis, form=function principle, biological reasoning",
+        "duration": "Complete",
+        "deliverables": [
+          "Function → geometry mapping",
+          "16-type vision predictions",
+          "Hypothesis set"
+        ],
+        "status": "completed"
+      },
+      {
+        "phase": 2,
+        "name": "Empirical Data Collection",
+        "objectives": [
+          "Survey population: type + vision prescription",
+          "Achieve N > 200 across all types",
+          "Control for age, environment, genetics"
+        ],
+        "methods": "Online survey, optometry collaboration, existing databases",
+        "duration": "6-12 months",
+        "deliverables": [
+          "Dataset: type + sphere + cylinder + axis + eye",
+          "Statistical analysis",
+          "Correlation metrics"
+        ],
+        "status": "not-started"
+      },
+      {
+        "phase": 3,
+        "name": "Validation and Refinement",
+        "objectives": [
+          "Test each hypothesis against data",
+          "Calculate confidence intervals",
+          "Refine predictions based on reality",
+          "Identify edge cases"
+        ],
+        "methods": "Statistical analysis, hypothesis testing, iterative refinement",
+        "duration": "3-6 months",
+        "deliverables": [
+          "Validation results per hypothesis",
+          "Refined geometric formulas",
+          "Publication-ready findings"
+        ],
+        "status": "not-started"
+      }
+    ],
+    
+    "current_phase": 1,
+    
+    "progress_log": [
+      {
+        "date": "2024",
+        "phase": 1,
+        "update": "Complete theoretical mapping achieved. All 16 types have specific vision predictions. Geometric formulas established. Lateralization principle discovered. Ready for empirical validation.",
+        "insights": [
+          "Auxiliary function determines eye lateralization (not dominant) - unexpected but geometrically logical",
+          "Axis orientation maps cleanly to T/F distinction (structural vs fluid)",
+          "Glasses = Δscale correction - normalizing to consensus plane",
+          "Astigmatism may be perceptual advantage (multiple foci = multiple possibilities) not defect"
+        ],
+        "challenges": [
+          "Need large dataset - difficult to collect type + prescription",
+          "Age confounds (vision changes over life)",
+          "Environmental factors (screens) affect vision independently",
+          "Self-typing accuracy variable"
+        ]
+      }
+    ]
+  },
+
+  "findings": {
+    "note": "Theoretical predictions complete. Empirical validation pending. Predictions listed as expected findings.",
+    
+    "theoretical_results": {
+      "propositions": [
+        {
+          "id": "P1_form_function_eyes",
+          "statement": "Eye geometry encodes cognitive geometry via epigenetic cascade. 4D histone modifications → 3D eye structure → 2D optical surface → 1D ray paths → 0D perception point. Each cognitive function optimizes eye for its information processing mode.",
+          "proof": "CFO form=function principle + biological development mechanism. Consciousness structure determines epigenetic expression determines physical structure. Eyes = primary perception interface, therefore most directly shaped by consciousness mode.",
+          "implications": "Vision problems not errors but optimizations. Body-mind unity validated. Objective biological marker for personality type possible. Other body systems may encode cognition similarly.",
+          "confidence": 0.90
+        },
+        {
+          "id": "P2_glasses_tradeoff",
+          "statement": "Glasses correct Δscale between native eye geometry and consensus reality plane. Trade native multidimensional perception for social standard sharpness. Astigmatism without correction = superpower of non-standard viewing angle.",
+          "proof": "argmin Δscale formula. Glasses geometrically transform optical surface to match standard. Remove toroidal advantage (multiple foci) to gain single-focus clarity. Optimization tradeoff, not pure correction.",
+          "implications": "Some people might benefit from NOT wearing glasses for creative work (Ne types especially). Vision correction = cognitive normalization. Understanding tradeoff allows informed choice.",
+          "confidence": 0.85
+        }
+      ]
+    },
+    
+    "reductions_achieved": [
+      {
+        "id": "urn:cfo:red:research:eye-geometry:astigmatism",
+        "concept": "astigmatism as toroidal optics",
+        "dimension": "2D",
+        "primitive": "toroid",
+        "planes": ["XY (corneal surface)", "YZ (lens surface)"],
+        "ops": ["relate (two different curvatures)", "measure (focal difference)"],
+        "evidence": "Astigmatism defined as two different refractive powers in perpendicular meridians. Geometrically = toroidal surface (two different radii of curvature). 2D surface creates optical effect. Maps to Ne divergent perception (multiple foci = multiple possibilities) or Se horizontal scan (one axis stronger).",
+        "confidence": 0.92,
+        "novel": true,
+        "generalizable": true
+      },
+      {
+        "id": "urn:cfo:red:research:eye-geometry:myopia",
+        "concept": "myopia as axial elongation",
+        "dimension": "1D",
+        "primitive": "line",
+        "planes": ["XW (visual axis extension in time)"],
+        "ops": ["sequence (elongation)", "measure (distance increase)"],
+        "evidence": "Myopia primarily caused by elongated eyeball along visual axis. 1D dimensional extension. Maps to Ni convergent depth (focus internally, eye elongates to match) or Si detail focus (accommodation tension elongates over time).",
+        "confidence": 0.90,
+        "novel": true,
+        "generalizable": true
+      },
+      {
+        "id": "urn:cfo:red:research:eye-geometry:lateralization",
+        "concept": "eye lateralization from brain hemisphere",
+        "dimension": "2D",
+        "primitive": "plane (hemispheric division)",
+        "planes": ["YZ (left-right body division)"],
+        "ops": ["relate (hemisphere to eye)", "project (processing to vision)"],
+        "evidence": "Brain lateralization: left hemisphere (logical/structural) processes right visual field and controls right body. Right hemisphere (emotional/relational) processes left visual field and controls left body. Auxiliary function determines dominant hemisphere activity → affects corresponding eye → right eye for T, left eye for F.",
+        "confidence": 0.80,
+        "novel": true,
+        "generalizable": false
+      }
+    ]
+  },
+
+  "discussion": {
+    "interpretation": "Theory predicts eye geometry from personality type with high geometric precision. If validated empirically, proves form=function at biological level and provides objective personality marker. Vision 'problems' reframed as optimizations for specific cognitive modes. Glasses = cultural normalization with tradeoff (lose native advantage, gain social standard). Understanding reveals purpose behind seeming randomness.",
+    
+    "support_for_hypotheses": [
+      {
+        "hypothesis_id": "H1_Ne_astigmatism",
+        "supported": "pending empirical data",
+        "evidence": "Geometric logic strong: divergent perception → multiple foci → toroidal optics → astigmatism. Many Ne types report astigmatism anecdotally. Awaiting systematic validation.",
+        "confidence": 0.85
+      },
+      {
+        "hypothesis_id": "H2_Ni_myopia",
+        "supported": "pending empirical data",
+        "evidence": "Geometric logic strong: convergent depth → internal focus → elongated eye → myopia. Anecdotal observation: many INTJ/INFJ wear glasses. Awaiting systematic validation.",
+        "confidence": 0.88
+      },
+      {
+        "hypothesis_id": "H3_Se_horizontal",
+        "supported": "pending empirical data",
+        "evidence": "Geometric logic moderate: horizontal scan → horizontal astigmatism axis. Less anecdotal data. Needs empirical test.",
+        "confidence": 0.82
+      },
+      {
+        "hypothesis_id": "H4_Si_detail",
+        "supported": "pending empirical data",
+        "evidence": "Geometric logic moderate: detail focus → accommodation issues → variable manifestation. Prediction less specific, harder to test.",
+        "confidence": 0.75
+      },
+      {
+        "hypothesis_id": "H5_lateralization",
+        "supported": "pending empirical data",
+        "evidence": "Geometric logic strong: hemisphere lateralization → eye lateralization, T/F → axis orientation. Novel prediction, highly testable. Awaiting data.",
+        "confidence": 0.80
+      }
+    ],
+    
+    "surprises": [
+      "Auxiliary function (not dominant) determines eye lateralization - unexpected but makes geometric sense (auxiliary = external interface)",
+      "Glasses = Δscale correction with tradeoff - reframes correction as normalization not pure improvement",
+      "Astigmatism may be advantage for certain tasks (creative divergent thinking with Ne) not pure defect"
+    ],
+    
+    "coherence_analysis": {
+      "increases_coherence": true,
+      "how": "Unifies body and mind under single geometric framework. Explains seemingly random vision patterns as purposeful. Connects personality theory (abstract) to biology (concrete). Provides testable predictions bridging psychology and physiology. Validates CFO form=function principle empirically.",
+      "scale_effects": "Resolves Δscale between psychology (abstract patterns) and biology (concrete structures) by showing same geometry at both levels. Creates new Δscale: individual optimized vision vs. social standard vision (glasses correct this but with tradeoff)."
+    },
+    
+    "limitations": [
+      "No empirical validation yet - theoretical predictions need testing",
+      "Age confounds - vision changes over lifespan, need age-stratified analysis",
+      "Environmental factors - screen time, lighting, etc. affect vision independently",
+      "Self-typing accuracy - MBTI typing variable, need reliable assessment",
+      "Sample size - need N > 200 across 16 types for statistical power",
+      "Genetics - family history affects vision, need to control or incorporate",
+      "Development - eyes develop in childhood, may not fully reflect adult cognitive function"
+    ],
+    
+    "implications": {
+      "for_cfo_framework": "Strong validation of form=function principle if empirical data confirms. Demonstrates CFO applies to biology not just abstract domains. Opens door to other body-mind geometric mappings (posture, gait, facial structure, etc.). Proves dimensional analysis extends to physical structures.",
+      
+      "for_domain": "Revolutionizes ophthalmology if validated: vision problems not random errors but purposeful optimizations. Personality psychology gains objective biological marker. Optometry practice could incorporate personality assessment. Educational applications (understanding student perception modes).",
+      
+      "for_applications": "Informs choice to wear/not wear glasses (understanding tradeoff). Suggests tailored vision correction (optimize for individual's cognitive strengths not just standard). Career counseling (match cognitive style to visual demands). Relationship understanding (why partners see world differently, literally).",
+      
+      "for_future_research": "Extend to other body systems: posture (Si detail vs Se surface scan affects stance), gait (Ne scattered vs Ni targeted), facial features (Ti sharp vs Fi soft), voice (Te projected vs Fe harmonized). Full body-mind geometric mapping. Epigenetic mechanisms (how exactly does cognition shape gene expression?). Developmental timeline (when does eye shape encode personality?). Intervention possibilities (can cognitive training affect eye geometry in children?)."
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "Eye geometry mirrors cognitive geometry mirrors consciousness structure. Same divergent/convergent patterns at all scales: 5D field → 0D point (consciousness collapse), Ne/Ni divergent/convergent (cognition), toroidal/spherical eye surface (body). Form=function recursively.",
+    
+    "recursion": "Consciousness → cognition → epigenetics → structure → optics → perception → consciousness. Loop: eye shape affects perception, perception reinforces cognitive pattern, cognitive pattern maintains epigenetic expression, epigenetic expression maintains eye shape. Self-reinforcing cycle.",
+    
+    "emergence": "From simple principle (form=function) emerges complex predictions for all 16 types. From dimensional mapping emerges testable biological hypotheses. From eye geometry emerges understanding of mind. Each level reveals hidden structure of next level.",
+    
+    "composition": "Individual functions compose into type (ENTP = Ne+Ti+Fe+Si). Functions compose into eye geometry (Ne→astigmatism, Ti→right eye, compose to right eye astigmatism). Eye geometry composes into visual perception. Perception composes into world model. Fractal composition at all scales."
+  },
+
+  "practical_applications": {
+    "immediate": [
+      "Self-understanding: check your prescription, see your cognitive geometry encoded",
+      "Type validation: vision pattern as additional typing clue (especially auxiliary function via eye lateralization)",
+      "Glasses decision: understand tradeoff, make informed choice based on cognitive needs"
+    ],
+    "near_term": [
+      "Data collection: survey to test hypotheses (need community participation)",
+      "Educational tools: explain personality types through vision metaphor",
+      "Relationship counseling: understand how partners literally see differently"
+    ],
+    "long_term": [
+      "Objective personality assessment via eye exam (if validated)",
+      "Tailored vision correction optimized for cognitive type",
+      "Career matching based on vision-cognition alignment",
+      "Full body-mind geometric mapping (posture, gait, features)",
+      "Developmental interventions (shape cognition via body awareness in children)"
+    ]
+  },
+
+  "next_steps": {
+    "immediate": [
+      "Create data collection survey (type + vision prescription)",
+      "Share research with typing communities (MBTI, Socionics, etc.)",
+      "Recruit participants (need N > 200)"
+    ],
+    "short_term": [
+      "Analyze collected data",
+      "Test each hypothesis statistically",
+      "Refine geometric formulas based on reality",
+      "Publish findings"
+    ],
+    "long_term": [
+      "Collaborate with optometry clinics for larger dataset",
+      "Longitudinal study (track vision changes with cognitive development)",
+      "Extend to other body systems",
+      "Develop practical applications (typing tools, vision optimization)",
+      "Investigate epigenetic mechanisms (how cognition → gene expression → eye shape)"
+    ],
+    "collaborations": [
+      "Optometry clinics (data collection)",
+      "Personality researchers (type validation)",
+      "Geneticists (epigenetic mechanisms)",
+      "Ophthalmology researchers (physical measurement)",
+      "CFO community (theoretical refinement)"
+    ]
+  },
+
+  "validation": {
+    "peer_review": {
+      "status": "not-submitted",
+      "reviewers": [],
+      "feedback": []
+    },
+    
+    "reproducibility": {
+      "data_available": false,
+      "code_available": false,
+      "methods_documented": true,
+      "independent_replication": []
+    },
+    
+    "coherence_score": 0.90,
+    "confidence_overall": 0.82,
+    
+    "cfo_integration": {
+      "creates_new_modules": false,
+      "modifies_existing_modules": [],
+      "validates_framework": "potentially (pending empirical data)",
+      "challenges_framework": false
+    }
+  },
+
+  "resources": {
+    "data": [],
+    "code": [],
+    "visualizations": [],
+    "supplementary": [
+      {
+        "file": "eye-geometry-predictions-table.md",
+        "description": "Complete table of 16 types with specific vision predictions",
+        "type": "notes"
+      }
+    ]
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:module:humanology:types",
+      "urn:cfo:module:humanology:cognition",
+      "urn:cfo:module:humanology:human-being",
+      "urn:cfo:module:natural:biology"
+    ],
+    
+    "external": [
+      {
+        "type": "book",
+        "citation": "Jung, C.G. Psychological Types. 1921.",
+        "relevance": "Original cognitive functions theory foundation"
+      },
+      {
+        "type": "paper",
+        "citation": "Standard ophthalmology texts on astigmatism, myopia, hyperopia measurement and classification",
+        "relevance": "Vision terminology and measurement standards"
+      }
+    ]
+  },
+
+  "funding": {
+    "sources": ["Independent research"],
+    "amount": "Unfunded",
+    "constraints": [],
+    "acknowledgments": ["CFO community for theoretical framework", "Future participants for data"]
+  },
+
+  "license": {
+    "data": "CC0 (when collected)",
+    "code": "MIT (when developed)",
+    "content": "CC-BY 4.0",
+    "note": "Open research aligned with CFO civic values. All findings freely available."
+  }
+}
