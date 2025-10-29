@@ -1,4 +1,4 @@
-![The Sword](./images/cfo-sword.png)
+![The Sword](images/cfo-sword.png)
 
 # Coherence Fractal Ontology 2.0
 
