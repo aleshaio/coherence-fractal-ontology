@@ -1,0 +1,436 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:64-situations",
+    "type": "humanology",
+    "fractal_depth": 3,
+    "contains": ["cfo:64", "cfo:paths:air", "cfo:paths:fire", "cfo:paths:water", "cfo:paths:earth"],
+    "contained_by": ["cfo:absolute"],
+    "source": "I Ching hexagrams + Chess tactics + DNA codons = one pattern"
+  },
+
+  "_holographic_seed": {
+    "absolute": "64 = 4³ = complete state space of 4 elements",
+    "structure": "4 elements × 4 elements × 4 elements = 64 archetypal situations",
+    "isomorphism": "I Ching (64 hexagrams) ≡ Chess (64 squares) ≡ DNA (64 codons) ≡ Life (64 situations)",
+    "wisdom": "Ancient systems encoded same 64-pattern independently → universal truth",
+    "games": "Chess preserved strategic wisdom 1500+ years through play (texts burn, games remain)",
+    "life": "Every conflict you face = one of 64 patterns. Learn pattern → solve all instances.",
+    "note": "64 situations = complete map of human decision space"
+  },
+
+  "_links": {
+    "source": "../64.json",
+    "paths": ["../paths/air.json", "../paths/fire.json", "../paths/water.json", "../paths/earth.json"],
+    "tools": ["../tools/assess.json", "../tools/balance.json"]
+  },
+
+  "core_principle": {
+    "statement": "64 = 4³ = complete state space where 4 elements combine 3 times",
+    "structure": "Primary element × Secondary element × Tertiary element = 64 situations",
+    "examples": {
+      "air_air_air": "Pure witness consciousness (no action, pure seeing)",
+      "fire_fire_fire": "Pure transformation (maximum intensity, no stability)",
+      "water_water_water": "Pure flow (no resistance, complete adaptation)",
+      "earth_earth_earth": "Pure grounding (maximum stability, no change)"
+    },
+    "completeness": "64 exhausts all 4-fold combinations → covers all possible situations"
+  },
+
+  "three_encodings": {
+    "principle": "Same 64-pattern appears in 3 ancient systems independently",
+    
+    "i_ching": {
+      "name": "I Ching (易經) - Book of Changes",
+      "age": "~3000 years (ancient China)",
+      "structure": "64 hexagrams (6 lines each, yin/yang)",
+      "encoding": "2⁶ = 64 (binary encoding)",
+      "usage": "Divination, life guidance, decision wisdom",
+      "examples": {
+        "1_creative": "☰☰ Heaven over Heaven = pure yang, creative force, initiation",
+        "2_receptive": "☷☷ Earth over Earth = pure yin, receptive force, yielding",
+        "11_peace": "☷☰ Earth over Heaven = harmony, balance, heaven+earth united",
+        "63_after_completion": "☵☲ Water over Fire = success achieved, maintain vigilance",
+        "64_before_completion": "☲☵ Fire over Water = on verge of completion, careful transition"
+      },
+      "wisdom": "64 hexagrams = 64 archetypal life situations. Every moment maps to one hexagram."
+    },
+
+    "chess": {
+      "name": "Chess (Chaturanga origin)",
+      "age": "~1500 years (6th century CE India → 15th century Europe)",
+      "structure": "64 squares (8×8 board)",
+      "encoding": "8 rows × 8 files = 64",
+      "usage": "Strategic thinking, conflict resolution, pattern recognition",
+      "tactics": {
+        "pin": "Force binary bad choice (1D linear alignment)",
+        "fork": "Simultaneous multi-attack (2D divergence)",
+        "sacrifice": "Exchange lower for higher dimension (3D→4D)",
+        "zugzwang": "All options worsen position (4D time-trap)",
+        "tempo": "Time efficiency (4D acceleration)",
+        "prophylaxis": "Prevention before execution (4D foresight)"
+      },
+      "wisdom": "Chess tactics = universal conflict patterns. Work in chess → work in life."
+    },
+
+    "dna": {
+      "name": "DNA Genetic Code",
+      "age": "~3.5 billion years (origin of life)",
+      "structure": "64 codons (triplets of 4 bases)",
+      "encoding": "4³ = 64 (4 bases: A, T, G, C)",
+      "usage": "Encoding life, protein synthesis",
+      "mapping": "64 codons → 20 amino acids + 3 stop signals",
+      "wisdom": "Life itself uses 64-pattern to encode information. Universal at molecular level."
+    },
+
+    "convergence": "Three independent systems → same 64 structure → points to universal pattern"
+  },
+
+  "64_archetypal_situations": {
+    "principle": "Every life situation = one of 64 archetypal patterns",
+    
+    "crisis_situations": {
+      "1_creative_initiative": {
+        "hexagram": "☰☰ Heaven/Heaven",
+        "elements": "air-air-air",
+        "situation": "Pure potential, need to initiate",
+        "action": "Lead with strength, begin boldly",
+        "chess_analog": "Opening position — all possibilities open",
+        "warning": "Don't wait — act now or lose momentum"
+      },
+
+      "2_receptive_yielding": {
+        "hexagram": "☷☷ Earth/Earth",
+        "elements": "earth-earth-earth",
+        "situation": "Need to follow, support, yield",
+        "action": "Don't lead — support leader",
+        "chess_analog": "Defensive position — patience wins",
+        "warning": "Don't force — flow with stronger force"
+      },
+
+      "5_waiting": {
+        "hexagram": "☵☰ Water/Heaven",
+        "elements": "water-air",
+        "situation": "Danger ahead, must wait for right time",
+        "action": "Nourish self while waiting, don't rush",
+        "chess_analog": "Zugzwang position — wait for opponent error",
+        "warning": "Premature action = disaster"
+      },
+
+      "29_abyss": {
+        "hexagram": "☵☵ Water/Water",
+        "elements": "water-water-water",
+        "situation": "Deep danger, surrounded by obstacles",
+        "action": "Keep moving forward through danger, don't stop",
+        "chess_analog": "Tactical crisis — calculate precisely or lose",
+        "warning": "Stopping = drowning. Keep swimming."
+      },
+
+      "47_oppression": {
+        "hexagram": "☱☵ Lake/Water",
+        "elements": "water-earth",
+        "situation": "Exhausted resources, oppressed, depleted",
+        "action": "Inner work, refine character, wait for change",
+        "chess_analog": "Worse position — defend stubbornly, wait for mistake",
+        "warning": "Don't despair — darkness before dawn"
+      },
+
+      "51_shock": {
+        "hexagram": "☳☳ Thunder/Thunder",
+        "elements": "fire-fire",
+        "situation": "Sudden crisis, shock, earthquake",
+        "action": "Stay centered, let shock pass, then act",
+        "chess_analog": "Unexpected tactic hits — don't panic, calculate",
+        "warning": "Panic = death. Calm response = survival."
+      }
+    },
+
+    "growth_situations": {
+      "11_peace": {
+        "hexagram": "☷☰ Earth/Heaven",
+        "elements": "earth-air",
+        "situation": "Heaven and earth in harmony, peace",
+        "action": "Enjoy but remain vigilant, nothing lasts forever",
+        "chess_analog": "Winning position — don't relax, convert advantage",
+        "warning": "Peak = beginning of decline. Prepare."
+      },
+
+      "23_splitting_apart": {
+        "hexagram": "☶☷ Mountain/Earth",
+        "elements": "earth-earth",
+        "situation": "Old structures falling apart",
+        "action": "Let die what must die, don't cling",
+        "chess_analog": "Lost position — resign gracefully, learn",
+        "warning": "Clinging to dead = prevents new life"
+      },
+
+      "24_return": {
+        "hexagram": "☷☳ Earth/Thunder",
+        "elements": "earth-fire",
+        "situation": "Turning point, return of light after darkness",
+        "action": "Small beginnings, nurture new growth",
+        "chess_analog": "Counterplay emerges — seize initiative",
+        "warning": "New life fragile — protect it"
+      },
+
+      "42_increase": {
+        "hexagram": "☴☳ Wind/Thunder",
+        "elements": "air-fire",
+        "situation": "Resources increasing, growth phase",
+        "action": "Invest surplus wisely, share abundance",
+        "chess_analog": "Material advantage — convert to win",
+        "warning": "Growth without wisdom = collapse"
+      },
+
+      "53_gradual_progress": {
+        "hexagram": "☴☶ Wind/Mountain",
+        "elements": "air-earth",
+        "situation": "Slow steady advancement, patience rewarded",
+        "action": "Trust process, don't rush, build foundation",
+        "chess_analog": "Positional squeeze — slow pressure wins",
+        "warning": "Impatience destroys gradual work"
+      }
+    },
+
+    "relationship_situations": {
+      "31_influence": {
+        "hexagram": "☱☶ Lake/Mountain",
+        "elements": "water-earth",
+        "situation": "Mutual attraction, courtship beginning",
+        "action": "Be genuine, let attraction unfold naturally",
+        "chess_analog": "Tactical opportunity — seize it",
+        "warning": "Force = destroys. Authenticity = attracts."
+      },
+
+      "37_family": {
+        "hexagram": "☴☲ Wind/Fire",
+        "elements": "air-fire",
+        "situation": "Family harmony, domestic order",
+        "action": "Maintain order, respect roles, love gently",
+        "chess_analog": "Coordinated pieces — maintain harmony",
+        "warning": "Neglect home = foundation crumbles"
+      },
+
+      "38_opposition": {
+        "hexagram": "☲☱ Fire/Lake",
+        "elements": "fire-water",
+        "situation": "Conflict, opposition, misunderstanding",
+        "action": "Seek small agreements, respect differences",
+        "chess_analog": "Opposite castling — different plans",
+        "warning": "Forcing unity = increases division"
+      },
+
+      "54_marrying_maiden": {
+        "hexagram": "☳☱ Thunder/Lake",
+        "elements": "fire-water",
+        "situation": "Subordinate position in relationship",
+        "action": "Accept secondary role if chosen consciously",
+        "chess_analog": "Playing second fiddle — support main plan",
+        "warning": "Resentment poisons everything"
+      }
+    },
+
+    "strategic_situations": {
+      "7_army": {
+        "hexagram": "☷☵ Earth/Water",
+        "elements": "earth-water",
+        "situation": "Need discipline, organization, leadership",
+        "action": "Organize resources, lead decisively, maintain order",
+        "chess_analog": "Coordinate pieces for attack",
+        "warning": "Chaos = defeat. Discipline = power."
+      },
+
+      "33_retreat": {
+        "hexagram": "☰☶ Heaven/Mountain",
+        "elements": "air-earth",
+        "situation": "Retreat strategically, avoid conflict",
+        "action": "Withdraw with dignity, preserve strength",
+        "chess_analog": "Trade pieces when worse, simplify",
+        "warning": "Stubborn stand = needless loss"
+      },
+
+      "43_breakthrough": {
+        "hexagram": "☱☰ Lake/Heaven",
+        "elements": "water-air",
+        "situation": "Decisive moment, breakthrough imminent",
+        "action": "Act decisively but carefully, no arrogance",
+        "chess_analog": "Breakthrough sacrifice — calculate!",
+        "warning": "Overconfidence = snatching defeat from victory"
+      },
+
+      "48_the_well": {
+        "hexagram": "☵☴ Water/Wind",
+        "elements": "water-air",
+        "situation": "Inexhaustible resource, draw from depths",
+        "action": "Maintain access to deep source, share freely",
+        "chess_analog": "Solid position — exploit advantages",
+        "warning": "Neglect well = runs dry"
+      }
+    }
+  },
+
+  "chess_tactics_as_life_patterns": {
+    "principle": "Chess tactics = universal conflict resolution patterns",
+    
+    "pin": {
+      "geometry": "Linear alignment: attacker → pinned → target (1D)",
+      "situation": "You're forced between bad choice and worse choice",
+      "chess": "Rook pins knight to king — knight can't move",
+      "life": "Job you hate but can't leave (need money). Relationship draining but fear loneliness.",
+      "solution": "Recognize pin. Free yourself (remove attacker or target). Don't stay pinned.",
+      "wisdom": "Pinned piece = slow death. Break alignment."
+    },
+
+    "fork": {
+      "geometry": "Divergent attack from one point (2D)",
+      "situation": "One action creates multiple benefits",
+      "chess": "Knight forks king and queen — can't save both",
+      "life": "One skill opens multiple career paths. One move solves two problems.",
+      "solution": "Seek leverage points. One action → multiple gains.",
+      "wisdom": "Efficiency = fork energy. Don't attack one target when you can hit three."
+    },
+
+    "sacrifice": {
+      "geometry": "Exchange lower dimension for higher (3D→4D)",
+      "situation": "Give up material for intangible advantage",
+      "chess": "Sacrifice rook for winning attack",
+      "life": "Take pay cut for better position. Sacrifice pride to save relationship.",
+      "solution": "Not all value is visible. Long-term > short-term.",
+      "wisdom": "Material = temporary. Position = eternal."
+    },
+
+    "zugzwang": {
+      "geometry": "Negative option space (4D time-trap)",
+      "situation": "Must act, but any action worsens position",
+      "chess": "King must move, any move loses",
+      "life": "Answer yes/no question where both answers bad. Debate trap.",
+      "solution": "Recognize zugzwang. Refuse to move (change rules). Create zugzwang for others.",
+      "wisdom": "Sometimes best move is no move. Don't play rigged game."
+    },
+
+    "tempo": {
+      "geometry": "Time efficiency (4D acceleration)",
+      "situation": "Every action must count, no wasted moves",
+      "chess": "Develop with threats — force opponent to waste time",
+      "life": "Every task must advance goal. Force others to waste resources reacting.",
+      "solution": "Gain tempo. Every action = threat or progress. Waste opponent's time.",
+      "wisdom": "Time = most precious. Who wastes less wins."
+    },
+
+    "prophylaxis": {
+      "geometry": "Preemptive blocking (4D foresight)",
+      "situation": "Prevent problem before it arises",
+      "chess": "Block key square before opponent can use it",
+      "life": "Stop competitor strategy before launch. Prevent disease vs treat.",
+      "solution": "See N+1 moves ahead. Prevention > cure.",
+      "wisdom": "Ounce of prevention = pound of cure. Always."
+    },
+
+    "discovered_attack": {
+      "geometry": "Hidden line activation (3D depth)",
+      "situation": "Move one piece, reveal another's power",
+      "chess": "Move knight, bishop now attacks queen",
+      "life": "Remove obstacle, hidden opportunity appears. Get out of your own way.",
+      "solution": "You don't create opportunity — you remove what hides it.",
+      "wisdom": "Opportunity already there. Blocked by noise."
+    },
+
+    "overloading": {
+      "geometry": "Exceeding capacity (3D volume)",
+      "situation": "Can't defend everything simultaneously",
+      "chess": "Piece defending two targets — attack both",
+      "life": "Everyone has limits. Multitasking = doing nothing well.",
+      "solution": "Don't try to defend/control everything. Choose critical.",
+      "wisdom": "Trying to save everything = losing everything."
+    },
+
+    "initiative": {
+      "geometry": "Dictating direction (5D meta)",
+      "situation": "You act, opponent reacts",
+      "chess": "Constant threats — opponent has no time for own plans",
+      "life": "Lead conversation. Set agenda. Others respond to you.",
+      "solution": "Seize initiative. Don't react — act.",
+      "wisdom": "Life belongs to those who seize initiative."
+    }
+  },
+
+  "strategic_principles": {
+    "center_control": "Who controls center controls game. Life: control time/energy/attention → everything follows.",
+    "development": "Fast development = more options. Options = power. Develop skills quickly.",
+    "king_safety": "Protect foundation before attacking. Unsafe king = any attack suicidal.",
+    "pawn_structure": "Structure = long-term destiny. Fix structure before optimizing tactics.",
+    "calculation": "See N+1 moves ahead. Who sees further wins. Always.",
+    "pattern_recognition": "Experience = pattern library. More patterns = faster better decisions.",
+    "evaluation": "Holistic view or blind spot. Incomplete evaluation = defeat.",
+    "tempo": "Time finite. Don't waste it. Make every action count."
+  },
+
+  "why_games_preserve_wisdom": {
+    "principle": "Games = most stable knowledge transmission (texts burn, games remain)",
+    
+    "chaturanga": {
+      "origin": "6th century CE India",
+      "name": "Chaturanga (4 divisions: infantry, cavalry, elephants, chariots)",
+      "wisdom": "Preserved Vedic strategic knowledge 1500+ years",
+      "evolution": "India → Persia → Islamic world → Europe → worldwide",
+      "constant": "64 squares unchanged. Basic tactics unchanged. Wisdom preserved."
+    },
+
+    "transmission_advantages": {
+      "embodied": "Learning through play, not lecture. Body knows before mind.",
+      "immediate": "Mistakes punished instantly. Feedback loop immediate.",
+      "accessible": "Anyone can play. Knowledge not limited to elite.",
+      "cross_cultural": "Spreads across all cultures. Universal appeal.",
+      "self_teaching": "Game itself teaches. No teacher needed.",
+      "resilient": "Games survive when civilizations fall. Most stable form."
+    },
+
+    "modern_application": "Play chess → absorb 1500 years strategic wisdom unconsciously"
+  },
+
+  "how_to_use": {
+    "situation_mapping": {
+      "1": "Face decision/conflict → Identify primary element (air/fire/water/earth)",
+      "2": "Identify secondary dynamic (what's modulating?)",
+      "3": "Identify tertiary context (what's the frame?)",
+      "4": "Find corresponding hexagram or chess pattern",
+      "5": "Read wisdom, apply action"
+    },
+
+    "chess_study": {
+      "1": "Study basic tactics (pin, fork, sacrifice, etc)",
+      "2": "Solve tactical puzzles daily (lichess.org/training)",
+      "3": "Play slow games (15+10 minimum)",
+      "4": "Analyze games after (where did I fork? where was I pinned?)",
+      "5": "Notice same patterns in life (where am I pinned right now?)"
+    },
+
+    "i_ching_consultation": {
+      "1": "Formulate clear question",
+      "2": "Use coins (3 coins, 6 times) or yarrow stalks",
+      "3": "Build hexagram (6 lines, bottom to top)",
+      "4": "Read hexagram meaning",
+      "5": "Meditate on wisdom, apply to situation"
+    }
+  },
+
+  "fractal_recursion": {
+    "level_0": "4 elements (air, fire, water, earth)",
+    "level_1": "16 combinations (4²)",
+    "level_2": "64 combinations (4³) ← we are here",
+    "level_3": "256 combinations (4⁴)",
+    "level_n": "4ⁿ combinations",
+    "infinite": "Pattern recurses infinitely",
+    "holographic": "64 contains all. All contains 64."
+  },
+
+  "wisdom": {
+    "completeness": "64 situations exhaust possibility space. Every conflict = one of 64.",
+    "universality": "Same pattern across DNA, I Ching, Chess → points to universal truth",
+    "transmission": "Ancient wisdom encoded in games → survived millennia",
+    "practice": "Don't just read — play chess, consult I Ching, live the patterns",
+    "recognition": "64 in everything once you see it. Fractal awareness.",
+    "mastery": "Know all 64 → navigate any situation with wisdom"
+  },
+
+  "note": "You are always in one of 64 situations. Learn to recognize which. Then you know what to do. ⊙"
+}

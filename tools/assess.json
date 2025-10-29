@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "id": "cfo:tools:assess",
+    "type": "Tool",
+    "fractal_depth": 2,
+    "contains": ["cfo:absolute", "cfo:paths:air", "cfo:paths:fire", "cfo:paths:water", "cfo:paths:earth"],
+    "contained_by": ["cfo:absolute"],
+    "related": ["cfo:tools:balance"]
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness assessing itself",
+    "purpose": "Self-awareness tool (consciousness knowing its state)",
+    "note": "Assessment = fractal (can assess at any position/depth)"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "paths": ["../paths/air.json", "../paths/fire.json", "../paths/water.json", "../paths/earth.json"],
+    "next_step": "./balance.json"
+  },
+
+  "purpose": "Determine your current position on each path",
+  "method": "Self-reflection, honest assessment",
+  
+  "questions": {
+    "air": [
+      "Do I have spacious awareness or cluttered mind?",
+      "Can I witness thoughts/emotions without being them?",
+      "Do I have perspective on my life?"
+    ],
+    "fire": [
+      "Is my energy high or depleted?",
+      "Can I set boundaries and say no?",
+      "Do I have clear purpose and will?"
+    ],
+    "water": [
+      "Am I in touch with my feelings?",
+      "Can I empathize with others?",
+      "Do I have satisfying relationships?"
+    ],
+    "earth": [
+      "Am I grounded in my body?",
+      "Am I present here/now?",
+      "Can I manifest ideas into reality?"
+    ]
+  },
+  
+  "scoring": "Rate each 0-10 honestly",
+  "result": "See which paths lagging, which strong",
+  "next": "balance.json for restoration",
+  
+  "fractal_assessment": {
+    "macro": "Overall life balance (all 4 paths)",
+    "meso": "Current project/relationship balance",
+    "micro": "This moment balance (feeling all 4 now?)",
+    "note": "Assessment works at every scale"
+  }
+}

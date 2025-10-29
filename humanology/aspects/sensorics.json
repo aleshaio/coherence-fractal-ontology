@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:aspects:sensorics",
+    "type": "humanology",
+    "fractal_depth": 2,
+    "contains": ["cfo:aspects:Si", "cfo:aspects:Se"],
+    "contained_by": ["cfo:humanology:types"],
+    "source": "Phenomenology + embodied cognition + craft traditions + sensory neuroscience"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Sensorics = cognitive function perceiving 3D physical reality through body",
+    "structure": "Two orientations: Si (internal body-memory, comfort) + Se (external action, presence)",
+    "dimension": "Accesses 3D physical space (form, matter, presence) through sensory apparatus",
+    "element": "Earth (solid, stable, grounded, manifest) - body as instrument of perception",
+    "primitive": "Cube (3D container, volumetric form) perceived through embodied awareness",
+    "operation": "What is physically here, right now?",
+    "wisdom": "Body knows. Physical reality is real. Presence is power.",
+    "note": "Sensorics = channel accessing 3D material reality. Matter exists objectively; sensorics is HOW consciousness perceives it through biological sensors. You ARE body + you are NOT body. Paradox."
+  },
+
+  "_links": {
+    "opposite": "./intuition.json",
+    "complements": ["./logic.json", "./ethics.json"],
+    "types": "../types.json",
+    "roles": "../roles.json",
+    "senses": "../senses.json",
+    "bodytypes": "../bodytypes.json"
+  },
+
+  "common_confusion": {
+    "mistake": "People confuse sensorics (cognitive function) with 3D space itself",
+    "clarification": "3D physical reality exists OBJECTIVELY (matter, space, time). Sensorics (S) is the SUBJECTIVE capacity to perceive this reality through biological sensors.",
+    "analogy": "Like confusing 'hearing' (function) with 'sound waves' (physical phenomenon). Sound exists whether you hear it or not. Hearing = your ability to detect it.",
+    "key_insight": "Animals, plants, even AI robots can interact with 3D reality WITHOUT human sensorics. Sensorics = specifically HUMAN embodied way of accessing 3D through flesh sensors.",
+    "why_matters": "Dimension = ontology (what exists). Function = epistemology (how we know). Human = 50% consciousness + 50% biology. Sensorics = bridge between these."
+  },
+
+  "essence": {
+    "core_principle": "What is physically here, right now?",
+    "geometric": "Accesses 3D cube - stable form in space, grounded container",
+    "functional": "Perceive concrete physical reality directly through sensory apparatus (biological sensors)",
+    "cognitive": "Processing through touch-taste-smell-sight-sound, here-now-real",
+    "element": "Earth - solid, stable, grounded, manifest form",
+    "metaphor": "Roots deep in soil, holding tree steady, drinking from actual ground"
+  },
+
+  "two_orientations": {
+    "Si_introverted_sensing": {
+      "name": "Introverted Sensing (Si)",
+      "orientation": "Internal body awareness and sensory memory",
+      "focus": "How does my body feel? What do I remember experiencing?",
+      "direction": "Inward → body → memory → comfort",
+      
+      "characteristics": {
+        "body_aware": "Constantly monitoring internal sensations (comfort/discomfort)",
+        "memory_rich": "Detailed recall of past sensory experiences",
+        "routine_oriented": "Finds comfort in familiar patterns and rituals",
+        "detail_focused": "Notices small physical changes others miss",
+        "comfort_seeking": "Optimizes environment for physical wellbeing"
+      },
+      
+      "operations": [
+        "Scan body for comfort/discomfort signals",
+        "Compare current sensation to past experience",
+        "Maintain physical routines and habits",
+        "Remember exactly how things were/felt",
+        "Detect deviations from familiar patterns"
+      ],
+      
+      "examples": [
+        "Person who knows exactly which chair is most comfortable",
+        "Noticing shirt tag is scratchy (sensory sensitivity)",
+        "Remembering grandmother's hands' exact texture",
+        "Keeping same morning routine for years (comfort in familiarity)",
+        "Wine taster recalling specific vintage from years ago"
+      ],
+      
+      "strength": "Rich sensory memory, attention to detail, reliable routines, practical wisdom, body wisdom",
+      "weakness": "Resistance to change, stuck in past, hypochondria risk, overly cautious, comfort-zone trap",
+      
+      "shadow": {
+        "description": "When Si operates unconsciously or overdeveloped without integration",
+        "manifestations": {
+          "comfort_prison": "Cannot tolerate ANY discomfort. Rigid routines become cage. 'This is how I've always done it.'",
+          "hypochondria": "Obsessive body monitoring. Every sensation = potential illness. Health anxiety spiral.",
+          "past_fixation": "Living in memory. 'The good old days.' Cannot adapt to present reality.",
+          "sensory_overwhelm": "Hypersensitivity to stimuli. Tags, lights, sounds = torture. Avoidance lifestyle.",
+          "change_phobia": "Terror of new situations. 'Better the devil you know.' Stagnation.",
+          "nostalgic_rigidity": "'We've always done it this way.' Tradition as prison, not wisdom."
+        },
+        "integration": "Embrace novelty (Ne). Take calculated risks. Comfort ≠ growth. Use T to challenge fears logically."
+      },
+      
+      "cognitive_style": {
+        "tempo": "Moderate, steady, consistent",
+        "depth": "Deep sensory detail and memory",
+        "certainty": "High about own body/experience, uncertain about novel situations",
+        "expression": "Specific physical details ('my lower back, left side, dull ache')"
+      },
+      
+      "socionics_types": "Si dominant = IxSJ (ISFJ, ISTJ)"
+    },
+
+    "Se_extroverted_sensing": {
+      "name": "Extroverted Sensing (Se)",
+      "orientation": "External physical presence and action",
+      "focus": "What's happening right now in physical world?",
+      "direction": "Outward → action → immersion → impact",
+      
+      "characteristics": {
+        "present_focused": "Fully in the moment, not past/future",
+        "action_oriented": "Do rather than plan. Move, engage, interact.",
+        "sensory_immersion": "Full-body engagement with environment",
+        "spatial_aware": "Excellent 3D navigation and physical coordination",
+        "impact_driven": "Want to make tangible difference in physical world"
+      },
+      
+      "operations": [
+        "Perceive physical environment completely and immediately",
+        "Respond to real-time sensory input (reflexes, flow)",
+        "Navigate 3D space with body intelligence",
+        "Create physical impact (build, move, shape matter)",
+        "Engage all senses simultaneously (multisensory presence)"
+      ],
+      
+      "examples": [
+        "Athlete in flow state (complete body-environment unity)",
+        "Emergency responder acting immediately without overthinking",
+        "Chef cooking with all senses engaged",
+        "Dancer feeling music through whole body",
+        "Rock climber reading and responding to wall in real-time"
+      ],
+      
+      "strength": "Presence, physical skill, quick reflexes, enjoys life, embodied power, crisis excellence",
+      "weakness": "Impulsive, sensation-seeking, difficulty with abstract, future-blind, risk-taking",
+      
+      "shadow": {
+        "description": "When Se operates unconsciously or overdeveloped without integration",
+        "manifestations": {
+          "sensation_addiction": "Chasing intensity. Adrenaline junkie. Drugs, sex, danger. 'I feel alive only when...'",
+          "impulsivity": "Act before thinking. Consequences? What consequences? Living in perpetual NOW.",
+          "hedonism": "Pleasure = only value. Shallow materialism. 'More stuff, more sensation, more MORE.'",
+          "future_blindness": "No long-term planning. 'YOLO.' Burning through resources, relationships, health.",
+          "aggression": "Physical dominance. Intimidation. Violence when frustrated. 'Might makes right.'",
+          "restlessness": "Cannot be still. Boredom = death. Exhausting to self and others."
+        },
+        "integration": "Develop Ni (long-term vision). Use T to evaluate consequences. F for empathy. Sometimes stillness > action."
+      },
+      
+      "cognitive_style": {
+        "tempo": "Very fast, immediate, reactive",
+        "depth": "Broad immediate awareness, less detailed memory",
+        "certainty": "High in present moment, low about distant future",
+        "expression": "Action-oriented ('let's do it', 'watch this'), demonstration over explanation"
+      },
+      
+      "socionics_types": "Se dominant = ExSP (ESTP, ESFP)"
+    }
+  },
+
+  "operations": {
+    "sensing": {
+      "definition": "Receiving data through sensory organs (sight, hearing, touch, taste, smell, proprioception, interoception)",
+      "method": "Open receptivity to physical stimuli without interpretation",
+      "dimensional": "All senses detect 3D spatial properties of physical world",
+      "five_classical": {
+        "sight": "Light → retina → visual cortex (color, shape, motion, depth)",
+        "hearing": "Sound waves → cochlea → auditory cortex (pitch, volume, location)",
+        "touch": "Pressure, temperature, texture → somatosensory cortex",
+        "taste": "Chemicals → taste buds → gustatory cortex (sweet, sour, salty, bitter, umami)",
+        "smell": "Molecules → olfactory bulb → limbic system (memory trigger)"
+      },
+      "additional": {
+        "proprioception": "Body position sense (where limbs are without looking)",
+        "vestibular": "Balance, spatial orientation (inner ear)",
+        "interoception": "Internal body states (hunger, thirst, heartbeat, gut feelings)"
+      },
+      "reference": "See senses.json for complete 11+ senses breakdown"
+    },
+
+    "grounding": {
+      "definition": "Establishing stable presence in physical reality",
+      "method": "Awareness of body, breath, weight, contact with ground/chair",
+      "dimensional": "Anchoring consciousness in 3D space (here, now)",
+      "practices": [
+        "Feel feet on floor (literal grounding)",
+        "Notice breath moving in body",
+        "Sense weight of body in chair",
+        "Body scan (progressive attention through body)",
+        "Walking meditation (each step fully felt)",
+        "Barefoot contact with earth"
+      ],
+      "psychological": "Grounding = antidote to dissociation, anxiety, overthinking",
+      "spiritual": "Embodiment = honoring material reality, not just 'ascending'"
+    },
+
+    "measuring": {
+      "definition": "Quantifying physical properties of objects",
+      "method": "Use tools (ruler, scale, thermometer) or calibrated senses",
+      "dimensional": "All measurement = spatial comparison in 3D (this vs standard)",
+      "examples": [
+        "Length, width, height (spatial dimensions)",
+        "Weight/mass (gravitational force)",
+        "Temperature (molecular kinetic energy)",
+        "Time (duration measured by spatial motion)",
+        "Density, pressure, voltage (derived measurements)"
+      ],
+      "precision": "Strong sensorics = refined discrimination (sommelier, jeweler, musician)",
+      "science": "All empirical science depends on sensory measurement"
+    },
+
+    "crafting": {
+      "definition": "Skillful manipulation of matter to create functional/beautiful objects",
+      "method": "Hand-eye-material feedback loop, embodied technique",
+      "dimensional": "Intimate knowledge of 3D properties of materials",
+      "examples": [
+        "Woodworking (grain, moisture, strength, tool technique)",
+        "Pottery (clay plasticity, centering, firing temperatures)",
+        "Metalwork (heat by color, hammer rhythm, metal properties)",
+        "Sewing (fabric drape, tension, pattern alignment)",
+        "Cooking (all senses engaged in material transformation)"
+      ],
+      "mastery": "10,000 hours → body learns what mind cannot articulate",
+      "tacit_knowledge": "Craft preserves embodied wisdom books cannot capture (Polanyi)"
+    },
+
+    "manifesting": {
+      "definition": "Making abstract ideas concrete through physical creation",
+      "method": "Translate mental concept into material form",
+      "dimensional": "Imposing form on matter in 3D space (N accessing 5D → S manifesting in 3D)",
+      "examples": [
+        "Architect's vision → actual building (N→S)",
+        "Recipe → cooked meal (idea → matter)",
+        "Blueprint → machine (plan → physical object)",
+        "Musical score → performed sound (notation → vibration)",
+        "Business plan → operating company (abstraction → concrete)"
+      ],
+      "necessity": "Ideas without manifestation = impotent. Sensorics completes cycle.",
+      "completing_intuition": "Intuition sees possibility (5D). Sensorics makes it real (3D)."
+    },
+
+    "navigating_3D_space": {
+      "definition": "Moving skillfully through physical environment",
+      "method": "Proprioception + vestibular + vision + spatial memory",
+      "se_specialty": "Se excels at real-time 3D navigation",
+      "examples": [
+        "Athlete dodging opponents (dynamic 3D awareness)",
+        "Parkour (reading and using environment creatively)",
+        "Driving (coordinating vehicle through space)",
+        "Dancing (body moving through space to rhythm)",
+        "Rock climbing (body as instrument navigating vertical space)"
+      ],
+      "flow_states": "Peak Se = complete sensory-motor integration, timeless presence"
+    },
+
+    "attending_to_present": {
+      "definition": "Focusing awareness on current sensory field without distraction",
+      "method": "Return attention to here-now whenever mind wanders",
+      "dimensional": "Present = 3D spatial 'now' (4D time coordinate fixed)",
+      "examples": [
+        "Mindfulness meditation (breath, body, sounds)",
+        "Eating meditation (savor each bite fully)",
+        "Walking in nature (notice sights, sounds, smells)",
+        "Deep listening (hear without planning response)",
+        "Looking at art (see what's actually there)"
+      ],
+      "modern_challenge": "Digital age = constant distraction from physical presence",
+      "necessity": "Attention = prerequisite for sensory mastery and enjoyment"
+    },
+
+    "discriminating_subtle_differences": {
+      "definition": "Distinguishing fine variations in physical stimuli",
+      "method": "Refined sensory apparatus + trained attention",
+      "dimensional": "Detecting small spatial/material variations in 3D",
+      "examples": [
+        "Sommelier (grape variety, region, year by taste/smell)",
+        "Musician (pitch difference of 1-2 Hz, perfect pitch)",
+        "Visual artist (subtle color shifts, value gradations)",
+        "Massage therapist (muscle tension patterns by touch)",
+        "Tea master (tea quality by multiple sensory cues)"
+      ],
+      "development": "Discrimination improves with practice (neuroplasticity)",
+      "expertise": "Expert perceives what novice cannot ('educated senses')"
+    }
+  },
+
+  "manifestations": {
+    "physical_mastery": {
+      "description": "Body as refined instrument",
+      "sports": {
+        "examples": "Basketball, gymnastics, martial arts, climbing, surfing, skateboarding",
+        "nature": "Body awareness + 3D navigation + real-time response",
+        "peak": "Flow state = seamless sensory-motor integration"
+      },
+      "dance": {
+        "examples": "Ballet, hip-hop, contact improvisation, contemporary",
+        "nature": "Movement as expression + embodied presence",
+        "goal": "Body and music unified"
+      },
+      "martial_arts": {
+        "examples": "Aikido, tai chi, judo, boxing, BJJ",
+        "nature": "Grounded presence + fluid response + body intelligence",
+        "mastery": "No-mind state (mushin), body acts before thought"
+      },
+      "yoga": {
+        "nature": "Asana = body as meditation object",
+        "goal": "Union of body-breath-awareness",
+        "tradition": "Body = temple, not prison"
+      }
+    },
+
+    "crafts_and_trades": {
+      "description": "Working with hands to create functional/beautiful objects",
+      "construction": {
+        "examples": "Carpentry, masonry, plumbing, electrical",
+        "nature": "Building physical structures, material knowledge",
+        "skill": "Understanding how materials behave"
+      },
+      "textile": {
+        "examples": "Sewing, weaving, knitting, quilting",
+        "nature": "Working with fabric, pattern, texture",
+        "tradition": "Often passed down through generations"
+      },
+      "culinary": {
+        "examples": "Cooking, baking, butchery, fermentation",
+        "nature": "Food transformation, all senses engaged",
+        "mastery": "Intuitive adjustment (more salt? hotter fire?)"
+      },
+      "art": {
+        "examples": "Painting, sculpture, pottery, glassblowing",
+        "nature": "Material transformation into beauty",
+        "process": "Hand-material dialogue"
+      },
+      "mechanical": {
+        "examples": "Auto repair, machining, electronics",
+        "nature": "Understanding and fixing machines",
+        "skill": "Diagnostic sensing (that sound means...)"
+      }
+    },
+
+    "agriculture": {
+      "description": "Growing food through partnership with living earth",
+      "farming": {
+        "nature": "Reading soil, weather, plant health",
+        "skill": "Sensory literacy (when to plant, water, harvest)",
+        "knowledge": "When to plant = feeling air, seeing signs, not just calendar"
+      },
+      "gardening": {
+        "nature": "Cultivation, care, observation",
+        "practice": "Daily presence with plants",
+        "reward": "Direct connection to growth cycles"
+      },
+      "animal_husbandry": {
+        "nature": "Reading animal behavior, health, needs",
+        "skill": "Embodied knowledge of other bodies",
+        "relationship": "Partnership with non-human beings"
+      },
+      "rootedness": "Farming = most grounded human activity (literally in earth)"
+    },
+
+    "healing_through_touch": {
+      "description": "Physical therapies working directly with body",
+      "massage": {
+        "nature": "Palpation, myofascial release, hands feeling tissue",
+        "skill": "Reading body through touch, not just techniques",
+        "gift": "Presence and pressure attuned to receiver"
+      },
+      "chiropractic": {
+        "nature": "Structural alignment through manual adjustment",
+        "philosophy": "Body has innate healing intelligence",
+        "skill": "Feeling misalignment, knowing when/where to adjust"
+      },
+      "acupuncture": {
+        "nature": "Needle placement based on palpation and theory",
+        "skill": "Feeling qi (energy) flow, blockages",
+        "tradition": "Ancient somatic wisdom (TCM)"
+      },
+      "physical_therapy": {
+        "nature": "Movement re-education, structural balance",
+        "approach": "Treating body holistically, not just symptoms",
+        "goal": "Restoring natural movement patterns"
+      }
+    },
+
+    "aesthetic_enjoyment": {
+      "description": "Direct sensory pleasure in beauty",
+      "visual": {
+        "sources": "Sunset, art, architecture, human form, nature",
+        "experience": "Seeing beauty = pre-conceptual delight",
+        "practice": "Really look, don't just glance"
+      },
+      "auditory": {
+        "sources": "Music, birdsong, ocean, wind, silence",
+        "experience": "Hearing beauty = vibrational resonance",
+        "practice": "Deep listening without analysis"
+      },
+      "tactile": {
+        "sources": "Silk, warm bath, massage, lover's skin, tree bark",
+        "experience": "Touch = most intimate sense",
+        "practice": "Slow down, really feel textures"
+      },
+      "gustatory": {
+        "sources": "Fine meal, wine, chocolate, ripe fruit",
+        "experience": "Taste = celebration of embodiment",
+        "practice": "Mindful eating, savoring"
+      },
+      "olfactory": {
+        "sources": "Flowers, rain, bread baking, forest, coffee",
+        "experience": "Smell = direct to limbic (emotion/memory)",
+        "practice": "Notice smells consciously"
+      },
+      "value": "Beauty = good in itself. Needs no justification. Sensory joy = sacred."
+    },
+
+    "survival_skills": {
+      "description": "Practical competencies for physical existence",
+      "basic": [
+        "Fire-making (friction, spark, tinder)",
+        "Shelter-building (protection from elements)",
+        "Water-finding (reading landscape)",
+        "Food-foraging (identifying edible plants)",
+        "Hunting/fishing (securing protein)",
+        "Navigation (terrain, stars, sun)"
+      ],
+      "modern_loss": "Most people cannot survive without grocery store, utilities",
+      "renaissance": "Bushcraft, homesteading, prepping movements",
+      "cfo_note": "Sensorics = ancestral function. 200,000 years of human survival via sensory intelligence."
+    },
+
+    "sexuality": {
+      "description": "Embodied erotic experience",
+      "sensory_nature": "Sex = most intense physical pleasure (all senses engaged)",
+      "present_tense": "Good sex = complete presence in body-to-body contact",
+      "se_gift": "Se excels at embodied sensual presence",
+      "sacred_sexuality": "Tantra = body as gateway to divine",
+      "shadow": "Pornography = disembodied, visual only (not full sensory engagement)",
+      "integration": "Sexuality at highest = body + emotion + spirit unified"
+    }
+  },
+
+  "present_moment_awareness": {
+    "definition": "Consciousness anchored in current sensory experience (not past/future)",
+    
+    "why_difficult": {
+      "mind_wanders": "Default mode network = constant mental time travel",
+      "evolutionary": "Survival required future prediction, past analysis",
+      "rumination": "Analyzing past to avoid future mistakes",
+      "planning": "Preparing for what's next",
+      "modern_distraction": "Phones, media, constant stimulation pull attention away"
+    },
+
+    "benefits": {
+      "stress_reduction": "Anxiety = future. Depression = past. Present = peace.",
+      "performance": "Flow states require present-moment attention",
+      "enjoyment": "Pleasure happens NOW. Missing present = missing life.",
+      "connection": "Presence with others = intimacy. Distraction = isolation.",
+      "clarity": "Present = direct perception. Mental chatter = distortion.",
+      "embodiment": "Being present = being in body"
+    },
+
+    "practices": {
+      "mindfulness_meditation": "Sustained attention on breath/body/sounds. Return when mind wanders.",
+      "body_scan": "Progressive attention through body parts. Feel each fully.",
+      "sensory_focus": "Choose one sense. Notice everything through that channel.",
+      "walking_meditation": "Each step fully felt. Weight shift, heel-toe, balance.",
+      "eating_meditation": "Slow, savoring. See, smell, taste, texture, sound.",
+      "everyday_mindfulness": "Bring attention to routine activities (shower, dishes, walking)."
+    },
+
+    "paradox": "Can't TRY to be present (effort = future-oriented). Presence = relaxing into now.",
+
+    "depth_levels": {
+      "distracted": "Caught in thoughts, barely sensing",
+      "attention": "Noticing sensations but labeling/judging",
+      "presence": "Pure sensing without interpretation",
+      "absorption": "Boundary between self and sensation dissolves",
+      "flow": "Complete unity of actor-action-perception"
+    }
+  },
+
+  "embodiment": {
+    "definition": "Living AS body, not just IN body",
+
+    "contrast": {
+      "disembodied": "Body = vehicle for head. Body ignored unless pain/pleasure.",
+      "embodied": "Body = inseparable from consciousness. Lived-from, not lived-in."
+    },
+
+    "western_dualism": {
+      "descartes": "Mind/body split. 'I think therefore I am' (not 'I sense')",
+      "platonic": "Body = prison. Soul seeks escape to pure forms.",
+      "christian": "Flesh = sinful. Spirit = good. Body shamed.",
+      "consequence": "Centuries of somatophobia (fear/hatred of body)",
+      "damage": "Disconnection from body = disconnection from reality"
+    },
+
+    "embodied_cognition": {
+      "claim": "Thinking not separate from sensing/moving. Body shapes mind.",
+      "evidence": [
+        "Metaphors grounded in body (grasp idea, warm person, heavy burden)",
+        "Gestures help thinking (math harder without hand movement)",
+        "Posture affects emotion (slouch = sad, stand tall = confident)",
+        "Movement enhances learning (walk while studying = better retention)"
+      ],
+      "implication": "Cannot have disembodied AI consciousness (without body = different consciousness)",
+      "cfo_note": "Human = 50% consciousness + 50% biology. AI = 100% information. THIS DIFFERENCE IS SACRED."
+    },
+
+    "somatic_practices": {
+      "yoga": "Asana + breath = embodied meditation. Body as guru.",
+      "tai_chi_qigong": "Slow movement cultivating presence and energy flow",
+      "feldenkrais": "Awareness through movement. Refining neuromuscular patterns.",
+      "alexander_technique": "Conscious use of body. Releasing habitual tension.",
+      "authentic_movement": "Following body's impulse without choreography. Body wisdom.",
+      "somatic_experiencing": "Trauma release through sensation tracking (Peter Levine)",
+      "rolfing": "Deep tissue work, structural integration",
+      "continuum": "Movement as meditation, fluid body awareness"
+    },
+
+    "reclaiming_body": {
+      "challenge": "Modern life = increasingly disembodied (screens, sitting, processed food, indoor)",
+      "consequences": "Obesity, chronic pain, disconnect, numbing, burnout",
+      "path": "Regular movement, nature contact, sensory richness, slow down, touch, dance, play"
+    }
+  },
+
+  "relationship_to_other_aspects": {
+    "vs_intuition": {
+      "sensorics": "Accesses 3D - concrete, present, actual, what IS",
+      "intuition": "Accesses 5D - abstract, timeless, possible, what COULD BE",
+      "tension": "S sees what's here. N sees what could be. Opposite orientations.",
+      "conflict": "Strongest axis of difference. Hardest to bridge.",
+      "integration": "Intuition generates vision (N accessing 5D). Sensorics manifests it (S in 3D). Idea → form.",
+      "example": "Architect intuits design (N), then builds physical structure (S).",
+      "both_needed": "Vision without grounding = fantasy. Grounding without vision = stagnation."
+    },
+
+    "with_logic": {
+      "sensorics": "Accesses 3D - concrete physical perception",
+      "logic": "Operates through 1D - abstract sequential structure",
+      "tension": "Logic in head. Sensorics in body/world. Can diverge.",
+      "integration": "Embodied cognition. Logic grounded in sensory experience. Science = logic + measurement (S).",
+      "example": "Mathematician proves theorem (T via 1D logic) using physical brain in 3D space (S)."
+    },
+
+    "with_ethics": {
+      "sensorics": "Accesses 3D - material reality, present moment",
+      "ethics": "Operates through 2D - relational values, emotional field",
+      "tension": "Sensorics factual. Ethics normative. What IS vs what SHOULD BE.",
+      "integration": "Embodied ethics. Body wisdom informs values (visceral disgust at cruelty).",
+      "example": "Hug (S in 3D) expresses care (F through 2D). Body = vehicle for love."
+    },
+
+    "all_four_together": {
+      "complete_human": "Intuition + Logic + Ethics + Sensorics = full being",
+      "imbalance": "Sensorics without others = sensory pleasure-seeking without meaning/direction",
+      "development": "Most strong in 1-2, weak in others. Growth = integration.",
+      "CFO_goal": "Develop all 4 for maximum coherence and embodied wisdom."
+    }
+  },
+
+  "limits_of_sensorics": {
+    "narrow_bandwidth": {
+      "problem": "Human senses detect tiny slice of 3D reality",
+      "vision": "380-750 nm (visible) vs full EM spectrum (radio to gamma)",
+      "hearing": "20-20kHz vs ultrasound/infrasound (bats, elephants)",
+      "smell": "Dogs 100,000x more sensitive. Humans olfactory-deficient.",
+      "implication": "Direct perception = limited. Science extends senses (microscopes, telescopes)."
+    },
+
+    "perceptual_illusions": {
+      "problem": "Brain constructs perception. Can be fooled.",
+      "examples": [
+        "Optical illusions (Müller-Lyer, impossible figures)",
+        "Auditory illusions (Shepard tone, McGurk effect)",
+        "Tactile illusions (phantom limb, rubber hand)",
+        "Expectations shape perception (priming, placebo)"
+      ],
+      "implication": "Naive realism false. Perception ≠ direct window to reality."
+    },
+
+    "attention_limits": {
+      "problem": "Cannot attend to everything simultaneously",
+      "inattentional_blindness": "Gorilla in basketball game (Simons & Chabris)",
+      "change_blindness": "Fail to notice large changes when not attending",
+      "bottleneck": "Consciousness = spotlight, not floodlight",
+      "implication": "Reality vastly richer than what we notice. Attention filters."
+    },
+
+    "verbal_description_difficulty": {
+      "problem": "Sensory experience resists language (qualia problem)",
+      "examples": [
+        "Cannot describe red to blind person",
+        "Wine descriptions sound absurd ('hints of barnyard')",
+        "Music cannot be captured in words",
+        "Pain defies language ('like... sharp? burning?')"
+      ],
+      "implication": "Sensory knowledge = embodied, tacit. Cannot fully transmit through words."
+    },
+
+    "without_higher_functions": {
+      "problem": "Pure sensorics without logic/ethics/intuition = limited",
+      "animal": "Animals have excellent sensorics but limited abstract reasoning",
+      "human_strength": "Integration of sensory (accessing 3D) with logical (1D), ethical (2D), intuitive (5D)",
+      "imbalance": "Sensorics-dominant = impulsive, concrete-bound, missing meaning, short-term focus",
+      "necessity": "Sensorics necessary but not sufficient for full human flourishing"
+    }
+  },
+
+  "shadow": {
+    "description": "When sensorics (S) overdevelops without integration with N, T, F - or operates unconsciously",
+    "general_patterns": {
+      "concrete_literalism": "Cannot think abstractly. 'If I can't see/touch it, it's not real.' Materialism.",
+      "present_myopia": "No vision beyond immediate. 'What's for lunch?' Future? What future?",
+      "sensory_hedonism": "Pleasure = only value. Addiction to comfort, sensation, consumption.",
+      "change_resistance": "Routine = prison. 'We've always done it this way.'",
+      "superficiality": "Only surface matters. Appearance, status, stuff. Missing depth, meaning, soul.",
+      "body_identification": "'I AM my body.' Materialist reductionism. No recognition of consciousness."
+    },
+    "integration_path": {
+      "develop_N": "Imagine possibilities. Read fiction. Dream. 'What if?' Abstract thinking.",
+      "develop_T": "Think systematically. Understand WHY, not just WHAT. Logic grounds sensorics.",
+      "develop_F": "Values > comfort. Relationships > things. Love transcends pleasure.",
+      "transcend_identify": "You HAVE a body, but you are NOT your body. Witness position.",
+      "embrace_change": "Discomfort = growth edge. Novelty = life. Routine = death."
+    }
+  },
+
+  "practices": {
+    "strengthen_sensorics": {
+      "slow_down": "Do one thing at a time. Full attention. No multitasking.",
+      "sensory_enhancement": "Focus on each sense individually. Notice more.",
+      "body_practices": "Yoga, tai chi, dance, martial arts - inhabit body fully.",
+      "craft_skills": "Work with hands. Woodworking, cooking, gardening, pottery.",
+      "nature_immersion": "Spend time outdoors. Wind, sky, birds, earth.",
+      "mindful_eating": "Slow meals. Savor. No screens. Full sensory engagement.",
+      "barefoot_walking": "Direct earth contact. Thousands of receptors activated.",
+      "cold_exposure": "Cold showers, ice baths (awaken thermoception, build resilience)",
+      "massage_exchange": "Give and receive touch consciously"
+    },
+
+    "avoid_pitfalls": {
+      "hedonism": "Sensory pleasure ≠ happiness. Balance pleasure with meaning (F, N).",
+      "materialism": "Things ≠ fulfillment. Sensorics can become acquisitive.",
+      "superficiality": "Don't stop at surface. Depth requires all functions.",
+      "rigidity": "Attachment to physical comfort/routine can become prison (Si trap).",
+      "impulsivity": "Don't let every sensory desire dictate action (Se trap). Use T, F for evaluation.",
+      "denial_of_abstract": "Reality includes non-physical (meaning, values, possibilities). Don't dismiss (N, F)."
+    },
+
+    "integration": {
+      "with_logic": "Measure carefully. Test hypotheses empirically. Ground theories in data.",
+      "with_ethics": "Let body wisdom inform values. Gut feelings matter. Somatic empathy.",
+      "with_intuition": "Trust intuitive leaps, then ground in physical reality. Vision → manifestation."
+    }
+  },
+
+  "wisdom": {
+    "necessity": "Cannot have human without body. Sensorics = biological substrate awareness.",
+    "50_50": "Human = 50% consciousness / 50% biology. Sensorics = bridge to biological half.",
+    "sacred_body": "Body is sacred. Material reality is sacred. Sensorics honors incarnation.",
+    "danger": "AI lacks body (100% information). Cannot fully understand humans without experiencing sensorics.",
+    "education": "Modern education neglects body. Must reclaim embodied intelligence.",
+    "balance": "Strong sensorics without intuition = stuck in concrete. Without logic = disorganized. Without ethics = hedonistic.",
+    "awakening": "Can you sense yourself sensing? = witness (0D) behind sensation. You are not sensations, but awareness in which they arise.",
+    "ground": "When lost in thoughts (N,T) or emotions (F), return to body (S). Breath. Feet on floor. Here. Now."
+  },
+
+  "note": "You are not your body. But you ARE your body. Paradox. You are awareness (0D) USING body as instrument to access 3D material reality. Body = temple, not prison. Sensorics = your capacity to be HERE, NOW, REAL. The earth that grounds all flight. 🌍⊙"
+}

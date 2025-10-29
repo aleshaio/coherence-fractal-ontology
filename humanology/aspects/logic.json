@@ -1,0 +1,619 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:aspects:logic",
+    "type": "humanology",
+    "fractal_depth": 2,
+    "contains": ["cfo:aspects:Ti", "cfo:aspects:Te"],
+    "contained_by": ["cfo:humanology:types"],
+    "source": "Aristotle + formal logic + computer science + rationalism"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Logic = cognitive function structuring thought through 1D sequential inference",
+    "structure": "Two orientations: Ti (internal frameworks, consistency) + Te (external efficiency, results)",
+    "dimension": "Operates through 1D line - directed sequential flow (premise → conclusion)",
+    "element": "Fire (directed energy, transformation) - manifests as reasoning force",
+    "primitive": "Line (arrow from premise to conclusion) - consciousness operating through directed sequence",
+    "operation": "If A, then B (conditional reasoning)",
+    "wisdom": "What follows from what? What must be true?",
+    "note": "Logic = channel structuring reality through 1D inference chains. Sequential structure exists objectively in causality/implication; logic is HOW consciousness navigates it. Making implicit explicit through valid inference."
+  },
+
+  "_links": {
+    "opposite": "./ethics.json",
+    "complements": ["./intuition.json", "./sensorics.json"],
+    "types": "../types.json",
+    "roles": "../roles.json"
+  },
+
+  "common_confusion": {
+    "mistake": "People confuse logic (cognitive function) with 1D sequential structure itself",
+    "clarification": "1D sequential causality exists OBJECTIVELY (if-then, cause-effect, implication chains in reality). Logic (T) is the SUBJECTIVE capacity to perceive and operate through this structure.",
+    "analogy": "Like confusing 'reasoning' (mental operation) with 'causality' (physical/logical necessity). Causality exists whether you reason or not. Logic = your ability to trace causal chains.",
+    "key_insight": "Computers, animals, even physical laws operate through sequential causality WITHOUT human logic. Logic = specifically HUMAN way of consciously structuring thought through 1D inference.",
+    "why_matters": "Dimension = ontology (causal structure exists). Function = epistemology (how we reason). Logic without object = empty formalism. Object without logic = incomprehensible chaos."
+  },
+
+  "essence": {
+    "core_principle": "If A, then B",
+    "geometric": "Operates through 1D line - directed sequence without lateral branching",
+    "functional": "Structure information into ordered chains of inference",
+    "cognitive": "Processing through if-then, cause-effect, step-by-step reasoning",
+    "element": "Fire - directed energy, transformation through sequence",
+    "metaphor": "Arrow piercing through chaos, creating order through direction"
+  },
+
+  "two_orientations": {
+    "Ti_introverted_thinking": {
+      "name": "Introverted Thinking (Ti)",
+      "orientation": "Internal logical consistency and framework building",
+      "focus": "Understanding how system works, internal coherence, precision",
+      "direction": "Inward → deep → systematic models",
+      
+      "characteristics": {
+        "analytical": "Breaks systems down to understand components",
+        "precision": "Obsessed with precise definitions and distinctions",
+        "frameworks": "Builds internal models and theories",
+        "consistency": "Cannot tolerate logical contradictions",
+        "questioning": "Always asking 'why?' and 'how does this work?'"
+      },
+      
+      "operations": [
+        "Analyze system to understand internal logic",
+        "Build coherent theoretical framework",
+        "Identify logical inconsistencies and contradictions",
+        "Define terms precisely to avoid confusion",
+        "Derive conclusions from first principles"
+      ],
+      
+      "examples": [
+        "Mathematician proving theorems from axioms",
+        "Philosopher building systematic worldview (Kant, Spinoza)",
+        "Programmer architecting elegant code structure",
+        "Scientist developing unified theory",
+        "Engineer understanding machine mechanisms"
+      ],
+      
+      "strength": "Deep understanding, internal consistency, precision, independent thinking",
+      "weakness": "Analysis paralysis, over-complicates, disconnected from practical results, can seem pedantic",
+      
+      "shadow": {
+        "description": "When Ti operates unconsciously or overdeveloped without integration",
+        "manifestations": {
+          "analysis_paralysis": "Endless thinking, zero action. 'But have we considered...' Never enough data.",
+          "pedantic_rigidity": "Obsessed with technical correctness. 'Actually...' Missing forest for trees.",
+          "emotional_bypass": "Using logic to avoid feeling. 'Emotions are irrational.' Cold rationalism.",
+          "solipsistic_systems": "Building elegant frameworks disconnected from reality. Masturbatory theorizing.",
+          "dismissive_superiority": "'That's illogical.' Arrogant dismissal of others' thinking. Spock syndrome.",
+          "perfectionism": "Nothing good enough. Every flaw magnified. Impossible standards."
+        },
+        "integration": "Act despite imperfect understanding (S grounding). Feel emotions (F). Consider practical outcomes (Te). Humility."
+      },
+      
+      "cognitive_style": {
+        "tempo": "Slow, thorough, methodical",
+        "depth": "Very deep, wants to understand from ground up",
+        "certainty": "High within framework, uncertain about framework validity",
+        "expression": "Precise language, careful distinctions, 'technically...'"
+      },
+      
+      "socionics_types": "Ti dominant = IxTP (INTP, ISTP)"
+    },
+
+    "Te_extroverted_thinking": {
+      "name": "Extroverted Thinking (Te)",
+      "orientation": "External efficiency and goal achievement",
+      "focus": "Getting things done, practical results, objective metrics",
+      "direction": "Outward → action → measurable outcomes",
+      
+      "characteristics": {
+        "efficiency": "Optimize processes, eliminate waste",
+        "goal_oriented": "Focus on end results, not internal elegance",
+        "systematic": "Organize external world, create structures",
+        "decisive": "Make decisions quickly based on data",
+        "metrics": "Measure everything, data-driven"
+      },
+      
+      "operations": [
+        "Plan and execute projects efficiently",
+        "Organize systems and people toward goals",
+        "Optimize workflows and processes",
+        "Make decisions based on objective criteria",
+        "Implement standards and protocols"
+      ],
+      
+      "examples": [
+        "Manager organizing team and resources",
+        "Engineer solving practical problems efficiently",
+        "Entrepreneur building scalable business systems",
+        "Military strategist planning operations",
+        "Project manager tracking deliverables"
+      ],
+      
+      "strength": "Gets things done, efficient, organized, decisive, scalable systems",
+      "weakness": "Can be insensitive, overlook nuance, rigid adherence to rules, steamroll others",
+      
+      "shadow": {
+        "description": "When Te operates unconsciously or overdeveloped without integration",
+        "manifestations": {
+          "ruthless_efficiency": "People = resources. 'Maximize output.' Dehumanizing optimization.",
+          "authoritarian_control": "My way or highway. 'Follow the system.' Rigid hierarchy.",
+          "emotional_blindness": "Dismissing feelings as 'unprofessional'. Can't read room. Insensitive.",
+          "metric_obsession": "Only measurable matters. 'Show me the data.' Missing unquantifiable value.",
+          "impatient_bulldozing": "No time for process. 'Just do it.' Steamrolling over people.",
+          "workaholic_drivenness": "Never enough. Always more goals. Burnout. No rest."
+        },
+        "integration": "Value people, not just productivity (F). Allow organic process (Ti). Rest (S). Consider long-term (Ni)."
+      },
+      
+      "cognitive_style": {
+        "tempo": "Fast, action-oriented, impatient with delays",
+        "depth": "Sufficient depth to achieve goal, not more",
+        "certainty": "High - trusts objective data and proven methods",
+        "expression": "Direct, clear, imperative ('we need to...', 'the data shows...')"
+      },
+      
+      "socionics_types": "Te dominant = ExTJ (ENTJ, ESTJ)"
+    }
+  },
+
+  "operations": {
+    "analysis": {
+      "definition": "Breaking whole into parts to understand structure",
+      "method": "Decompose complex into simple components",
+      "dimensional": "Sequential breakdown through 1D chain: whole → part1 → subpart1a → subpart1b...",
+      "examples": [
+        "Chemical analysis (substance → elements)",
+        "Textual analysis (document → chapters → paragraphs → sentences)",
+        "Systems analysis (system → subsystems → components)",
+        "Financial analysis (company → divisions → departments → metrics)"
+      ],
+      "opposite": "Synthesis (composition from parts)",
+      "tool_for": "Understanding complexity by reducing to simplicity"
+    },
+
+    "deduction": {
+      "definition": "Deriving conclusions from premises through valid inference",
+      "method": "Apply logical rules to known truths to discover new truths",
+      "dimensional": "Chain of implications along 1D: premise1, premise2 → conclusion1 → conclusion2...",
+      "certainty": "If premises true and logic valid, conclusion MUST be true",
+      "examples": [
+        "All men are mortal. Socrates is a man. → Socrates is mortal.",
+        "F=ma. m=2kg, a=3m/s². → F=6N.",
+        "If raining, ground wet. It's raining. → Ground wet.",
+        "All mammals breathe air. Whales are mammals. → Whales breathe air."
+      ],
+      "limits": "Cannot generate new empirical knowledge, only make implicit explicit"
+    },
+
+    "induction": {
+      "definition": "Generalizing from specific instances to general rule",
+      "method": "Observe pattern in cases, infer universal principle",
+      "dimensional": "Sequential accumulation along 1D: case1, case2, case3... → general rule",
+      "certainty": "Probabilistic, not certain (problem of induction - Hume)",
+      "examples": [
+        "Sun rose yesterday, day before... → sun always rises",
+        "All observed swans white → all swans white (falsified by black swans)",
+        "Scientific laws inferred from repeated experiments",
+        "Customer surveys → market trends"
+      ],
+      "limits": "Cannot guarantee truth, only increase probability"
+    },
+
+    "classification": {
+      "definition": "Organizing entities into categories by shared properties",
+      "method": "Define criteria, sort entities accordingly",
+      "dimensional": "Decision tree through 1D branches: criterion1? → yes/no → criterion2? → yes/no...",
+      "examples": [
+        "Biological taxonomy (kingdom → phylum → class → order...)",
+        "Library classification (Dewey Decimal)",
+        "Chemical periodic table",
+        "Programming: type systems, class hierarchies"
+      ],
+      "purpose": "Reduce cognitive load, enable pattern recognition, organize knowledge"
+    },
+
+    "formalization": {
+      "definition": "Translating natural language into formal symbolic system",
+      "method": "Define symbols, syntax, inference rules",
+      "dimensional": "Rule application sequence through 1D: axioms → theorem1 → theorem2...",
+      "examples": [
+        "Mathematical logic (propositional, predicate, modal)",
+        "Programming languages (Python, C++, Haskell)",
+        "Formal specifications (Z notation, TLA+)",
+        "Chemical formulas (H₂O, C₆H₁₂O₆)"
+      ],
+      "power": "Enables mechanical verification, eliminates ambiguity, allows computation"
+    },
+
+    "proof": {
+      "definition": "Demonstrating truth of statement through logical argument",
+      "method": "Start from axioms/known truths, apply valid rules, reach conclusion",
+      "dimensional": "Linear chain along 1D from premises to conclusion",
+      "types": {
+        "direct": "A→B→C→...→Z (conclusion)",
+        "indirect": "Assume ¬Z, derive contradiction, conclude Z",
+        "contradiction": "Show ¬A leads to impossibility",
+        "construction": "Build example satisfying conditions",
+        "induction": "Base case + inductive step → true for all n"
+      },
+      "domain": "Mathematics, logic, formal systems, computer science"
+    },
+
+    "systematization": {
+      "definition": "Organizing knowledge into coherent hierarchical framework",
+      "method": "Identify relationships, create taxonomy, build theory",
+      "dimensional": "Tree structure navigated through 1D paths: root concept → branches → leaves",
+      "examples": [
+        "Euclidean geometry (5 axioms → all theorems)",
+        "Linnean taxonomy (organizing all life)",
+        "Kant's categories (organizing all concepts)",
+        "Programming: design patterns, architectural frameworks"
+      ],
+      "goal": "Create comprehensive, coherent, minimal system"
+    },
+
+    "optimization": {
+      "definition": "Finding best solution given constraints",
+      "method": "Define objective function, explore solution space, maximize/minimize",
+      "dimensional": "Search along gradient through 1D: current → better → optimal",
+      "examples": [
+        "Route planning (shortest path)",
+        "Resource allocation (maximize profit)",
+        "Engineering design (minimize weight, maximize strength)",
+        "Machine learning (minimize loss function)"
+      ],
+      "note": "Te heavily uses this. Ti less interested in 'best', more in 'true'."
+    }
+  },
+
+  "manifestations": {
+    "mathematics": {
+      "description": "Pure logic formalized into symbolic system",
+      "structure": "Axioms → theorems via proof (1D chains)",
+      "examples": [
+        "Euclidean geometry (5 axioms → all theorems)",
+        "Number theory (Peano axioms → arithmetic)",
+        "Set theory (ZFC axioms → foundation of mathematics)",
+        "Category theory (abstract structure of mathematics)"
+      ],
+      "nature": "Math = logical structure independent of physical reality",
+      "unreasonable_effectiveness": "Why does abstract math describe physics so well? (Wigner's question)"
+    },
+
+    "computer_science": {
+      "description": "Logic mechanized into computation",
+      "structure": "Algorithms = 1D instruction sequences",
+      "examples": [
+        "Programs (sequential execution of instructions)",
+        "Proofs of correctness (Hoare logic, formal verification)",
+        "Complexity theory (analyzing algorithm efficiency)",
+        "Type systems (logical constraints on programs)",
+        "Compilers (translating high-level logic to machine code)"
+      ],
+      "quote": "Computer science = mathematics + engineering",
+      "turing": "Computation = mechanical logic (Turing machine)"
+    },
+
+    "philosophy": {
+      "description": "Systematic reasoning about fundamental questions",
+      "structure": "Arguments with premises and conclusions through 1D inference",
+      "traditions": [
+        "Aristotelian logic (syllogisms, categories, first principles)",
+        "Stoic logic (propositional logic origins)",
+        "Medieval scholasticism (systematic theology via Aristotle)",
+        "Rationalism (Descartes, Leibniz, Spinoza - reason as source)",
+        "Analytic philosophy (logical analysis of language - Russell, Wittgenstein)"
+      ],
+      "examples": [
+        "Ontological argument for God (Anselm, Descartes)",
+        "Cogito ergo sum (Descartes - 'I think therefore I am')",
+        "Kant's transcendental deduction (categories of understanding)",
+        "Russell's theory of descriptions (logical structure of language)"
+      ]
+    },
+
+    "science": {
+      "description": "Logic applied to empirical observation",
+      "method": "Hypothesis → prediction → test → conclude",
+      "structure": "If H then P. Observe P (or ¬P). Update confidence in H.",
+      "examples": [
+        "Newton's laws (mathematical formalization of motion)",
+        "Maxwell's equations (unifying electricity and magnetism)",
+        "Theory of evolution (logical explanatory framework)",
+        "Quantum mechanics (logical structure + probability)",
+        "General relativity (geometric logic of spacetime)"
+      ],
+      "note": "Science = logic + empiricism (not pure logic). Logic provides 1D structure.",
+      "hypothetico_deductive": "Science uses deductive logic for predictions, inductive for generalizations"
+    },
+
+    "law": {
+      "description": "Legal reasoning through precedent and statute",
+      "structure": "If conditions met, then legal consequence follows (1D causal chain)",
+      "examples": [
+        "Criminal law: If murder, then penalty X",
+        "Contract law: If breach, then remedy Y",
+        "Case law: Precedent A applies to case B if sufficiently similar",
+        "Constitutional interpretation: Logical analysis of text + history"
+      ],
+      "limits": "Legal logic ≠ pure logic (interpretation, ambiguity, values)",
+      "legal_reasoning": "Combines deduction (applying rules), analogy (comparing cases), policy (consequences)"
+    },
+
+    "engineering": {
+      "description": "Logical design and analysis of systems",
+      "structure": "Requirements → design → implementation → verification (1D process)",
+      "examples": [
+        "Bridge design (force analysis, material selection, load calculations)",
+        "Circuit design (Boolean logic gates, signal processing)",
+        "Software engineering (modular design, testing, debugging)",
+        "Chemical engineering (process optimization, reaction kinetics)",
+        "Systems engineering (complex system integration)"
+      ],
+      "goal": "Reliable, efficient, safe systems that solve problems"
+    },
+
+    "business_management": {
+      "description": "Systematic organization toward goals",
+      "te_domain": "Heavily Te (extroverted thinking) territory",
+      "examples": [
+        "Strategic planning (goals → initiatives → metrics)",
+        "Operations management (process optimization, lean, six sigma)",
+        "Project management (tasks, timelines, resources)",
+        "Financial modeling (projections, scenarios, ROI analysis)",
+        "Organizational design (structure, roles, reporting)"
+      ],
+      "tools": "Gantt charts, KPIs, dashboards, frameworks (SWOT, OKR, Balanced Scorecard)"
+    },
+
+    "everyday_reasoning": {
+      "description": "Common-sense logical inference",
+      "examples": [
+        "If clouds dark, will rain soon (causal reasoning through 1D)",
+        "All stores closed Sundays. Today Sunday. → Store closed. (deduction)",
+        "Last 3 times ate X, got sick. → Won't eat X. (induction)",
+        "Planning route: A→B→C optimal? (sequential optimization)",
+        "Troubleshooting: Car won't start → battery dead? → check battery (diagnostic tree)"
+      ],
+      "note": "Often fuzzy, probabilistic, heuristic (not formal logic). But uses logical structure.",
+      "dual_process": "System 2 (Kahneman) = slow, deliberate, logical reasoning"
+    }
+  },
+
+  "logical_systems": {
+    "propositional_logic": {
+      "domain": "Propositions (statements that are true or false)",
+      "operators": ["¬ (not)", "∧ (and)", "∨ (or)", "→ (implies)", "↔ (iff)"],
+      "structure": "Combine propositions with logical connectives",
+      "example": "P: It's raining. Q: Ground is wet. P→Q (if raining, then ground wet)",
+      "completeness": "Can express all truth-functional relationships",
+      "foundation": "Boolean algebra, digital circuits"
+    },
+
+    "predicate_logic": {
+      "domain": "Predicates (properties of objects) + quantifiers",
+      "quantifiers": ["∀ (for all)", "∃ (there exists)"],
+      "structure": "∀x P(x) (all x have property P)",
+      "example": "∀x (Human(x) → Mortal(x)) (all humans are mortal)",
+      "power": "Can express statements propositional logic cannot",
+      "applications": "Mathematics, databases (SQL), AI (knowledge representation)"
+    },
+
+    "modal_logic": {
+      "domain": "Necessity and possibility",
+      "operators": ["□ (necessarily)", "◇ (possibly)"],
+      "structure": "□P (P is necessarily true), ◇P (P is possibly true)",
+      "applications": ["Metaphysics", "Epistemology", "Deontic logic (obligation)", "Temporal logic"],
+      "example": "□(2+2=4) (necessarily true), ◇(I win lottery) (possibly true)"
+    },
+
+    "temporal_logic": {
+      "domain": "Statements about time and change",
+      "operators": ["◯ (next)", "◻ (always)", "◊ (eventually)", "U (until)"],
+      "applications": "Verify concurrent systems, model checking, AI planning",
+      "example": "◻(pressed_button → ◊door_opens) (always: if button pressed, eventually door opens)"
+    },
+
+    "fuzzy_logic": {
+      "domain": "Degrees of truth (not just true/false)",
+      "structure": "Truth values in [0,1] instead of {0,1}",
+      "applications": "Control systems (washing machines, trains), AI, decision-making under uncertainty",
+      "example": "Tall(John) = 0.7 (John is 70% tall)",
+      "note": "Extends classical logic to handle vagueness and gradations"
+    },
+
+    "intuitionistic_logic": {
+      "difference": "Rejects law of excluded middle (P ∨ ¬P for unproven P)",
+      "philosophy": "Mathematical objects exist only if constructible",
+      "implication": "Weaker than classical logic, but constructively valid",
+      "applications": "Constructive mathematics, type theory, proof assistants"
+    }
+  },
+
+  "limits_of_logic": {
+    "goedel_incompleteness": {
+      "theorem_1": "Any consistent formal system powerful enough for arithmetic has true statements it cannot prove",
+      "theorem_2": "Such a system cannot prove its own consistency",
+      "implication": "Logic cannot be completely self-contained. Always requires axiomatic foundation.",
+      "philosophical": "Limits of formal reason. Truth > provability. Mind > mechanism?",
+      "confidence": 1.0,
+      "year": 1931
+    },
+
+    "halting_problem": {
+      "statement": "No algorithm can determine if arbitrary program halts or runs forever",
+      "proof": "Turing (1936) via diagonal argument (self-reference paradox)",
+      "implication": "Fundamental limits to computation. Not all questions decidable by logic.",
+      "consequence": "Many problems provably unsolvable (equivalence of programs, virus detection)",
+      "confidence": 1.0
+    },
+
+    "logical_paradoxes": {
+      "liar_paradox": "'This statement is false' (if true, then false; if false, then true)",
+      "russells_paradox": "Set of all sets that don't contain themselves (does it contain itself?)",
+      "barber_paradox": "Barber shaves all who don't shave themselves (does barber shave himself?)",
+      "resolution": "Careful formulation avoids self-reference, type hierarchies, restricted comprehension",
+      "implication": "Unrestricted logic leads to contradiction. Need foundations (axiomatic set theory)."
+    },
+
+    "frame_problem": {
+      "issue": "In AI, how to efficiently represent what DOESN'T change when action taken?",
+      "example": "Robot moves cup. Does everything else in room stay same? How represent this?",
+      "difficulty": "Logical representation of common sense is intractable (combinatorial explosion)",
+      "implication": "Pure logic insufficient for real-world reasoning. Need heuristics, defaults, probabilistic reasoning."
+    },
+
+    "is_ought_gap": {
+      "hume": "Cannot derive 'ought' from 'is' via logic alone",
+      "example": "Factual premises → normative conclusion (invalid without normative premise)",
+      "implication": "Ethics not reducible to pure logic. Values ≠ facts.",
+      "cfo_response": "Ethics operates through 2D (relations, values). Logic operates through 1D (sequence). Need higher dimension."
+    },
+
+    "qualia_problem": {
+      "hard_problem": "Cannot logically deduce what red looks like from physical description",
+      "knowledge_argument": "Mary knows all physics of color but learns something new when seeing red (Jackson)",
+      "explanatory_gap": "Logical/functional description doesn't capture subjective experience (Levine)",
+      "implication": "Consciousness involves more than logic. Experiential = irreducible?",
+      "cfo_response": "Logic operates through 1D. Consciousness accesses 5D→0D. Higher dimensional. Qualia = 5D."
+    },
+
+    "tacit_knowledge": {
+      "polanyi": "We know more than we can tell",
+      "examples": [
+        "Riding bicycle (can't fully articulate how)",
+        "Recognizing face (no explicit algorithm)",
+        "Expert intuition (chess master sees move, can't explain logic)",
+        "Craft skills (woodworking, cooking - embodied knowledge)"
+      ],
+      "implication": "Much knowledge resists logical formalization. Embodied, procedural, implicit."
+    }
+  },
+
+  "relationship_to_other_aspects": {
+    "vs_ethics": {
+      "logic": "Operates through 1D - sequential structure, objective truth, what IS",
+      "ethics": "Operates through 2D - relational evaluation, subjective value, what SHOULD BE",
+      "tension": "Logic sees facts. Ethics evaluates. Logic descriptive, ethics normative.",
+      "conflict": "Logical conclusion may be ethically unacceptable (utilitarian calculus vs human dignity)",
+      "integration": "Mature human uses both. Logic without ethics = cold (dangerous). Ethics without logic = incoherent.",
+      "example": "Trolley problem: Logic calculates outcomes (1 death vs 5). Ethics evaluates which is right."
+    },
+
+    "with_sensorics": {
+      "logic": "Operates through 1D - abstract sequential structure",
+      "sensorics": "Accesses 3D - concrete physical reality",
+      "tension": "Logic in head. Sensorics in body/world. Can diverge (rationalization vs reality).",
+      "integration": "Embodied cognition. Logic grounded in sensory experience. Science = logic + measurement (S).",
+      "example": "Mathematician proves theorem (T via 1D) using physical brain in 3D space (S)."
+    },
+
+    "with_intuition": {
+      "logic": "Operates through 1D - step-by-step explicit inference, slow, certain",
+      "intuition": "Accesses 5D - holistic pattern recognition, fast, uncertain",
+      "complementarity": "Intuition generates hypothesis (N accessing 5D). Logic verifies (T via 1D).",
+      "integration": "Science = intuition (insight) + logic (proof). Both essential for knowledge.",
+      "example": "Kekulé dreams benzene ring structure (N), then proves it chemically (T)."
+    },
+
+    "all_four_together": {
+      "complete_cognition": "Intuition + Logic + Ethics + Sensorics = full human intelligence",
+      "cycle": "N (envision) → T (structure) → F (evaluate) → S (manifest) → repeat",
+      "development": "Most people strong in 1-2, weak in others. Growth = integration of all 4.",
+      "CFO_goal": "Develop all four functions for maximum coherence, wisdom, effectiveness."
+    }
+  },
+
+  "shadow": {
+    "description": "When logic (T) overdevelops without integration with F, N, S - or operates unconsciously",
+    "general_patterns": {
+      "cold_rationalism": "Pure logic without heart. 'Feelings are irrational.' Mr. Spock. Inhuman.",
+      "analysis_paralysis": "Thinking forever, acting never. Perfect plan > good action. Sterile.",
+      "emotional_bypass": "Using logic to avoid vulnerability. 'Let me explain...' Defensive intellectualization.",
+      "arrogant_certainty": "'I'm objectively right.' Dismissing others. Logic = weapon, not tool.",
+      "ivory_tower": "Abstract systems disconnected from reality. Beautiful but useless theories.",
+      "ruthless_efficiency": "Optimizing humans like machines. Dehumanizing. Corporate psychopathy."
+    },
+    "integration_path": {
+      "develop_F": "Feel emotions. Care about people. Love > logic. Relationship > correctness.",
+      "develop_N": "Trust intuition. Not everything provable. Mystery > certainty.",
+      "develop_S": "Ground in reality. Body wisdom. Act despite imperfect understanding.",
+      "humility": "You might be wrong. Logic = tool, not identity. Listen.",
+      "heart": "Wisdom = logic + love. Without love, logic becomes demonic."
+    }
+  },
+
+  "practices": {
+    "strengthen_logic": {
+      "study_mathematics": "Pure logic formalized. Work through proofs. Euclid, number theory, calculus.",
+      "learn_programming": "Logic as executable instructions. Build programs. Debug = find logical errors.",
+      "play_strategy_games": "Chess, Go - sequential thinking under constraints. If I move here, opponent responds...",
+      "formal_debate": "Construct arguments, identify fallacies, defend positions logically.",
+      "solve_puzzles": "Logic puzzles, Sudoku, riddles require deductive reasoning.",
+      "read_philosophy": "Study logical arguments. Analyze premises, conclusions, validity.",
+      "write_proofs": "Mathematical or philosophical. Forces clear logical structure.",
+      "teach": "Explaining forces you to make logic explicit and coherent."
+    },
+
+    "avoid_pitfalls": {
+      "analysis_paralysis": "Don't get stuck in endless logical analysis. Gather enough info, decide, act. Perfect is enemy of good.",
+      "emotional_bypass": "Don't use logic to avoid feeling. Logic without emotion = inhuman. Integrate, don't suppress (F).",
+      "rigidity": "Logic is tool, not identity. Be flexible when situation requires. Sometimes illogical choice is right (values, relationships).",
+      "ivory_tower": "Ground logic in reality (S). Don't get lost in pure abstractions disconnected from world.",
+      "argument_as_war": "Logic should discover truth collaboratively, not defeat opponents. Dialectic, not debate.",
+      "dismissing_intuition": "Logic can't generate novelty. Need intuition (N) for creative hypotheses. Logic verifies, doesn't create.",
+      "ignoring_ethics": "Logical ≠ right. Nazi efficiency was logical. Logic needs ethical direction (F)."
+    },
+
+    "integration": {
+      "with_ethics": "Ask: Is this logical conclusion also good/right/compassionate? Let values guide logic.",
+      "with_sensorics": "Check: Does logical model match physical reality? Test theories empirically. Ground in concrete.",
+      "with_intuition": "Use logic to verify intuitive insights, but trust intuition to generate new ideas. N→T→verify→iterate."
+    }
+  },
+
+  "philosophical_positions": {
+    "rationalism": {
+      "claim": "Reason (logic) is primary source of knowledge, not experience",
+      "proponents": ["Descartes ('I think therefore I am')", "Spinoza (Ethics as geometric proofs)", "Leibniz (logical possible worlds)"],
+      "method": "Derive truths from self-evident axioms via deduction (Euclidean model)",
+      "limits": "Cannot generate empirical knowledge about world (Kant's critique). A priori ≠ complete.",
+      "cfo_perspective": "Logic (1D) essential but insufficient. Need sensorics (3D) for empirical, intuition (5D) for meaning."
+    },
+
+    "logicism": {
+      "claim": "Mathematics reducible to logic (Frege, Russell, Whitehead)",
+      "attempt": "Derive all math from logical axioms + set theory (Principia Mathematica)",
+      "outcome": "Partial success. Gödel showed limits. But deep connection between logic and math established.",
+      "legacy": "Foundations of mathematics, computer science, formal verification."
+    },
+
+    "logical_positivism": {
+      "claim": "Meaningful statements = either empirically verifiable OR logically true (tautologies)",
+      "implication": "Metaphysics, ethics, aesthetics = meaningless (not verifiable or tautological)",
+      "verification_principle": "Meaning = method of verification",
+      "criticism": "Self-refuting (own criterion not verifiable). Too restrictive. Ignores meaningful but unverifiable.",
+      "legacy": "Influenced analytic philosophy, science, but largely abandoned. Shown as too narrow."
+    },
+
+    "constructivism": {
+      "claim": "Mathematical objects exist only if constructible (not just provable existence)",
+      "logic": "Rejects law of excluded middle for unproven statements (intuitionistic logic)",
+      "motivation": "Avoid non-constructive existence proofs (proof by contradiction without construction)",
+      "alternative": "Constructive mathematics, type theory, proof assistants (Coq, Agda)",
+      "trade_off": "More restrictive, but computationally meaningful (proofs = programs)"
+    }
+  },
+
+  "wisdom": {
+    "necessity": "Cannot build coherent system without logical structure. Logic = skeleton of thought.",
+    "limits": "Logic alone insufficient. Need intuition (accessing 5D), ethics (operating through 2D), sensorics (accessing 3D).",
+    "sacred_truth": "Logic is sacred when it reveals structure and eliminates confusion.",
+    "false_logic": "Logic is false when it denies higher dimensions (ethics, beauty, consciousness, love).",
+    "balance": "Strong logic without heart (F) = dangerous rationality. Without grounding (S) = disconnected from reality. Without vision (N) = sterile systematization.",
+    "awakening": "Can you observe yourself thinking logically? = witness position (0D) behind logic itself."
+  },
+
+  "note": "You are not your logic. You are awareness (0D) USING logic (T) as instrument to structure thought through 1D sequences. Logic structures thought, but you are not thought-structure. You are the spaciousness in which logical sequences unfold. ⊙"
+}

@@ -1,0 +1,369 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:space",
+    "type": "phenomena",
+    "element": "space",
+    "contains": [
+      "three_dimensions",
+      "void_container",
+      "distance_separation",
+      "geometry_curvature",
+      "emptiness_fullness",
+      "infinite_finite"
+    ],
+    "related": [
+      "cfo:phenomena:time",
+      "cfo:phenomena:gravity",
+      "cfo:fundamental:dimensions",
+      "cfo:patterns:fractals"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "space = 3d extension. length, width, height. container for matter. distance between things. or: dynamic fabric curved by mass. or: mostly empty yet full of quantum fluctuations.",
+    "paradox": "seems empty but full (quantum fields). seems continuous but maybe discrete (planck length). seems absolute but relative (expansion). seems passive but active (geometry).",
+    "vastness": "universe = ~93 billion light-years observable. but total size? infinite? finite but unbounded? unknown. incomprehensible scale.",
+    "intimacy": "yet space = here. room you're in. gap between words. pause in breath. immediate. familiar.",
+    "consciousness": "space = external (cosmos) and internal (awareness). 'space' of mind. metaphor or literal? consciousness = spatial?"
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/dimensions.json",
+      "../patterns/fractals.json"
+    ],
+    "related": [
+      "./time.json",
+      "./gravity.json",
+      "./light.json"
+    ]
+  },
+
+  "overview": {
+    "what": "space = three-dimensional continuum. x, y, z coordinates. volume. extension. measured in meters, kilometers, light-years, parsecs.",
+    "why": "enables separation. individuation. 'here' vs 'there'. without space = no distinct objects. no motion. no cosmos.",
+    "how": "physics: spacetime = 4d manifold (3 space + 1 time). curved by mass-energy. dynamic. experience: immediate sensory field. perception of extension, distance, volume."
+  },
+
+  "geometry_of_space": {
+    "euclidean": {
+      "flat_space": "parallel lines never meet. sum of angles in triangle = 180°. pythagorean theorem. 'common sense' geometry.",
+      "everyday": "works perfectly for human scales. architecture, navigation (local), engineering.",
+      "assumption": "newton assumed space = flat, absolute, unchanging. container for events.",
+      "limitation": "breaks down at cosmic scales or near massive objects. not fundamental."
+    },
+
+    "non_euclidean": {
+      "curved_space": "parallel lines can meet (positive curvature) or diverge (negative curvature). triangle angles ≠ 180°.",
+      "spherical": "positive curvature. sphere surface (2d analog). parallel lines meet. finite area, no boundary. universe maybe closed?",
+      "hyperbolic": "negative curvature. saddle shape. parallel lines diverge. infinite area. universe maybe open?",
+      "flat_critical": "exactly flat (infinite, zero curvature). critical density. current observations: very close to flat (within 0.4%).",
+      "note": "geometry of universe = empirical question. observations suggest flat or nearly flat. but: large-scale structure unknown."
+    },
+
+    "topology": {
+      "shape": "geometry = local (curvature). topology = global (shape). different question.",
+      "examples": [
+        "infinite flat plane (euclidean, simply connected)",
+        "torus (flat but finite, multiply connected - pac-man universe)",
+        "sphere (positive curvature, finite, simply connected)",
+        "3-sphere (4d sphere surface, hard to visualize)",
+        "exotic: klein bottle, möbius strip (3d versions)"
+      ],
+      "observable_limit": "can only see observable universe (~93 Gly diameter). topology beyond = unknown. could be finite but appears infinite.",
+      "cosmic_microwave_background": "cmb patterns = test topology. so far: consistent with simply connected, nearly flat. but not definitive.",
+      "note": "we don't know global shape. infinite? finite? how connected? mystery."
+    },
+
+    "dimensions": {
+      "three_spatial": "x, y, z. why three? anthropic (if not 3, no stable orbits, no us)? or string theory (9-10 dimensions, 6-7 compactified)?",
+      "compactification": "extra dimensions curled up at planck scale (~10⁻³⁵ m). too small to detect. speculative.",
+      "flatland": "edwin abbott (1884). 2d beings can't imagine 3d. we = 3d beings can't imagine 4d+ (spatial). analogy.",
+      "note": "why 3 spatial dimensions? deep mystery. seems arbitrary but maybe necessary. or: we're 3d-limited perception, reality = higher-dimensional?"
+    }
+  },
+
+  "scale_of_space": {
+    "planck_length": {
+      "smallest": "lₚ = √(ℏG/c³) ≈ 1.6×10⁻³⁵ m. smallest meaningful length (?). quantum gravity scale.",
+      "discrete": "space below planck = meaningless? spacetime = pixelated? speculative. quantum foam.",
+      "limit": "current physics breaks. need quantum gravity. string theory, loop quantum gravity = attempt.",
+      "note": "planck length = maybe fundamental pixel. space = discrete not continuous? or still continuous but uncertain? unknown."
+    },
+
+    "subatomic": {
+      "proton": "~10⁻¹⁵ m (1 femtometer). nucleus.",
+      "atom": "~10⁻¹⁰ m (1 angstrom). electron cloud.",
+      "mostly_empty": "atom = 99.9999999999999% empty space (if nucleus = marble, electron cloud = stadium). matter = mostly space.",
+      "note": "solid objects = illusion. electromagnetic repulsion + pauli exclusion = prevents overlap. 'solidity' = forces, not space-filling."
+    },
+
+    "human": {
+      "meter": "human scale. 1 m = defined by light travel in 1/299,792,458 second.",
+      "body": "~1.7 m (average height). comfortable scale. evolved for.",
+      "perception": "millimeter to kilometer = directly perceivable. outside this = need tools (microscopes, telescopes).",
+      "note": "we = middle scale. micro and macro = abstract. embodied knowledge = meter-scale."
+    },
+
+    "planetary": {
+      "earth": "diameter 12,742 km. circumference 40,075 km. surface area 510 million km².",
+      "moon": "384,400 km away (average). 1.3 light-seconds.",
+      "sun": "149.6 million km (1 au). 8.3 light-minutes. can walk to sun (~3500 years nonstop at 5 km/h).",
+      "note": "solar system = comprehensible. days, months, years. still human-relatable (barely)."
+    },
+
+    "stellar": {
+      "light_year": "9.46 trillion km. distance light travels in year. ~63,000 au.",
+      "proxima_centauri": "4.24 ly. nearest star (besides sun). 40 trillion km. voyager 1 = 20,000 years to reach.",
+      "milky_way": "diameter ~100,000 ly. disk. 200-400 billion stars. sun = 27,000 ly from center.",
+      "note": "stellar scale = beyond human comprehension. intellectually graspable but not experientially. vastness begins."
+    },
+
+    "galactic": {
+      "andromeda": "2.5 million ly. nearest large galaxy. approaching (merge in ~4.5 billion years).",
+      "local_group": "~10 million ly diameter. ~80 galaxies. milky way + andromeda + smaller galaxies.",
+      "virgo_supercluster": "~110 million ly. ~47,000 galaxies. milky way = tiny part.",
+      "note": "galactic scale = mind-breaking. millions of light-years. billions of stars per galaxy. incomprehensible."
+    },
+
+    "cosmic": {
+      "observable_universe": "diameter ~93 billion ly (comoving distance). radius ~46.5 billion ly (from earth). horizon.",
+      "why_larger_than_age": "universe 13.8 billion years old but observable diameter 93 billion ly? expansion. space itself expanded.",
+      "particle_horizon": "farthest we can ever see. light beyond hasn't reached us (not enough time since big bang). beyond = invisible forever (currently).",
+      "total_universe": "beyond observable = unknown. could be infinite. could be 250× larger (minimum, based on flatness). could be truly infinite.",
+      "note": "observable = tiny fraction (probably). total universe = maybe infinite. we = seeing infinitesimal slice. humbling."
+    },
+
+    "infinite": {
+      "possibility": "if universe flat + infinite → truly infinite space. infinite matter, energy, stars, galaxies. infinite copies of you (?). many-worlds (spatial).",
+      "finite_but_unbounded": "or: finite but no edge (like sphere surface). closed universe. large but finite.",
+      "unknown": "current observations = nearly flat. consistent with infinite or very large finite. can't distinguish yet.",
+      "note": "infinity = mind can't grasp. mathematical concept. physical reality? maybe. or maybe universe = finite. we don't know."
+    }
+  },
+
+  "expansion_of_space": {
+    "discovery": {
+      "hubble": "edwin hubble (1929). galaxies receding. farther = faster. redshift (doppler). universe = expanding.",
+      "big_bang": "expansion implies past = compressed. extrapolate back → singularity. big bang (~13.8 billion years ago).",
+      "not_explosion": "not exploding into space. space itself = expanding. galaxies = carried apart. raisin bread analogy (dough rises, raisins separate).",
+      "note": "universe = not static. dynamic. expanding. paradigm shift."
+    },
+
+    "hubble_law": {
+      "formula": "v = H₀ × d. recession velocity = hubble constant × distance.",
+      "h0": "hubble constant ≈ 70 km/s/Mpc (megaparsec = 3.26 million ly). controversy (different measurements give 67-74). 'hubble tension'.",
+      "linear": "nearby galaxies = slow recession. distant = fast. linear relationship (approximately, at moderate distances).",
+      "note": "expansion rate = key parameter. determines age, fate, size of universe. measuring accurately = ongoing challenge."
+    },
+
+    "acceleration": {
+      "dark_energy": "1998 discovery (nobel 2011). expansion = accelerating (not slowing as expected). dark energy = repulsive force (or cosmological constant).",
+      "supernova": "type ia supernovae = standard candles. measure distance. dimmer than expected → farther → expanding faster than thought.",
+      "fate": "if acceleration continues → 'big rip' (maybe). galaxies separate. eventually atoms rip apart. or 'heat death' (more likely). cold, dark, empty. trillions of years away.",
+      "note": "expansion accelerating = shocking. dark energy = 68% of universe. nature = unknown. biggest mystery in cosmology."
+    },
+
+    "cosmological_constant": {
+      "lambda": "λ. einstein's 'biggest blunder' (he said). added to allow static universe. then removed (expansion discovered). now: maybe needed (dark energy).",
+      "vacuum_energy": "quantum fields = zero-point energy even in vacuum. should create λ. but predicted value = 10¹²⁰ × observed. worst prediction in physics.",
+      "fine_tuning": "observed λ = tiny but nonzero. if much larger → no structure (galaxies, stars, us). anthropic principle? multiverse? coincidence? mystery.",
+      "note": "cosmological constant problem = deepest problem in physics. why this value? naturalness destroyed. solution unknown."
+    },
+
+    "infinite_space_expanding": {
+      "paradox": "if space = already infinite, how can it expand? answer: infinite → more infinite (mathematically valid). density decreases.",
+      "balloon_analogy": "limited. balloon surface = 2d finite. universe = maybe 3d infinite. analogy breaks. but: expansion = stretching, not moving into.",
+      "mind_bending": "infinite space expanding = hard to visualize. trust math. intuition fails at cosmic scale.",
+      "note": "expansion = spacetime property, not motion through space. new space created. not moving into pre-existing void."
+    }
+  },
+
+  "emptiness_and_fullness": {
+    "vacuum": {
+      "classical": "vacuum = empty space. nothing. void.",
+      "quantum": "vacuum = not empty. quantum fields fluctuate. virtual particles pop in/out. zero-point energy. seething foam (at planck scale?).",
+      "casimir_effect": "two parallel plates in vacuum → attract. virtual photons between plates = restricted. outside = unrestricted. pressure difference. verified. vacuum = full.",
+      "note": "vacuum = not nothing. something. quantum fields = ground state. space = full of potential."
+    },
+
+    "dark_matter": {
+      "invisible_mass": "27% of universe. doesn't emit light. only interacts via gravity (and maybe weak force). halos around galaxies.",
+      "rotation_curves": "galaxies rotate too fast. visible matter insufficient. dark matter = needed to prevent flying apart.",
+      "nature": "wimps? axions? primordial black holes? unknown. not detected directly yet. searches ongoing.",
+      "note": "dark matter = fills space. invisible. but gravitationally dominant. space = not just matter we see."
+    },
+
+    "dark_energy": {
+      "68_percent": "dominates universe. repulsive. causes accelerated expansion.",
+      "everywhere": "uniform (approximately). fills all space. not concentrated in galaxies. permeates everything.",
+      "mystery": "is it cosmological constant (vacuum energy)? or dynamic field (quintessence)? unknown. biggest question.",
+      "note": "space = mostly dark energy. we see 5% (atoms). 95% = dark. space = full of unknown."
+    },
+
+    "space_is_full": {
+      "summary": "space = not empty. filled with: (1) quantum fields (virtual particles, zero-point energy). (2) dark matter (27%). (3) dark energy (68%). (4) atoms (5%).",
+      "void": "void = illusion. space = seething, massive, energetic. mostly invisible. but present.",
+      "note": "emptiness = fullness. buddhist insight = physics corroboration? śūnyatā (emptiness) = not nihilistic void but pregnant potential. space = womb of reality."
+    }
+  },
+
+  "perception_of_space": {
+    "vision": {
+      "binocular": "two eyes → depth perception (stereopsis). ~10 m range. beyond = use cues (size, occlusion, perspective).",
+      "proprioception": "body position in space. kinesthetic. feel where limbs are. spatial self-awareness.",
+      "vestibular": "inner ear. balance. orientation. up/down. acceleration. spatial grounding.",
+      "note": "space = embodied. not abstract. felt, seen, moved through. body = spatial anchor."
+    },
+
+    "spatial_cognition": {
+      "cognitive_map": "mental representation of space. environment, routes, landmarks. hippocampus = critical.",
+      "place_cells": "neurons fire at specific locations. 'gps' in brain. nobel 2014 (o'keefe, mosers).",
+      "grid_cells": "hexagonal firing pattern. coordinate system. navigation.",
+      "navigation": "animals, humans = navigate space. mental maps. wayfinding = evolved ability. space = cognized.",
+      "note": "space = not just external but internal (mental). brain = spatial. consciousness = spatial processor."
+    },
+
+    "personal_space": {
+      "proxemics": "edward hall. study of space in social interaction. intimate (0-0.5m), personal (0.5-1.5m), social (1.5-4m), public (4m+).",
+      "cultural": "varies by culture. latin america, middle east = closer. usa, northern europe = farther. awareness = reduces conflict.",
+      "violation": "invading personal space = discomfort, anxiety, aggression. spatial boundaries = psychological.",
+      "note": "space = social. 'my space' vs 'your space'. territorial. interpersonal distance = communication."
+    },
+
+    "sacred_space": {
+      "set_apart": "temples, churches, mosques, shrines. demarcated. separate from profane. threshold = portal.",
+      "architecture": "cathedrals = soaring (vertical space). mosques = open (horizontal). temples = enclosed (sacred geometry). space = shaped intention.",
+      "ritual": "circle casting (pagan). mandala (buddhism). altar (universal). create sacred space. container for ritual.",
+      "nature": "mountains, groves, springs. natural sacred spaces. not built but recognized. space itself = holy.",
+      "note": "space = not neutral. can be sacred. set apart. charged. consciousness affects space? or space affects consciousness? both."
+    }
+  },
+
+  "space_in_consciousness": {
+    "inner_space": {
+      "metaphor": "'spacious mind', 'mental space', 'need space'. space = consciousness quality.",
+      "awareness": "awareness = spacious. thoughts/emotions = objects in space. space = prior, allowing, containing.",
+      "meditation": "expand awareness. rest in spaciousness. thoughts come and go. space = unchanging.",
+      "literal": "phenomenology. awareness = has spatial quality. mental 'field'. not metaphor? or is metaphor?",
+      "note": "inner space = real experience. space-like. whether literal or metaphor = debatable. but: useful model."
+    },
+
+    "crowded_mind": {
+      "no_space": "overwhelm. thoughts racing. emotions intense. 'no room to breathe'. space = collapsed.",
+      "need": "'i need space'. from others, from thoughts, from tasks. spaciousness = peace.",
+      "creating": "meditation, nature, rest, silence. restore inner space. decompression.",
+      "note": "spaciousness = mental health. cluttered mind = suffering. space = freedom."
+    },
+
+    "nondual_space": {
+      "awareness_space": "nondual traditions: awareness = open, empty, luminous space. unconditioned. primordial.",
+      "no_center": "no 'me' at center of awareness. centerless space. boundless.",
+      "containing_all": "all experience = arising in awareness-space. space = never touched, never diminished.",
+      "rigpa": "tibetan buddhism. pristine awareness. nature of mind = space-like. clear light.",
+      "note": "nondual space = not metaphor (they claim). actual nature of awareness. discover via direct experience."
+    }
+  },
+
+  "space_and_time": {
+    "spacetime": {
+      "unified": "einstein (1905 sr, 1915 gr). space + time = inseparable. spacetime = 4d manifold.",
+      "interval": "ds² = -c²dt² + dx² + dy² + dz². spacetime distance. invariant. all observers agree.",
+      "geometry": "matter curves spacetime. gravity = geometry. 'matter tells space how to curve, space tells matter how to move' (wheeler).",
+      "note": "space ≠ stage. time ≠ clock. spacetime = unified dynamic entity. reality = 4d. see time.json"
+    },
+
+    "block_universe": {
+      "eternalism": "all spacetime exists. past, present, future = equally real. 4d block. 'now' = perspective.",
+      "no_flow": "time = doesn't flow. we = 4d worldlines. persistence through time. all moments eternal.",
+      "relativity": "relativity favors block universe (no universal now). but: contradicts experience.",
+      "note": "block universe = spacetime taken seriously. past/future as real as elsewhere in space. radical."
+    }
+  },
+
+  "space_exploration": {
+    "distances": {
+      "moon": "3 days (apollo). 384,400 km. achieved (1969-1972, 12 humans walked).",
+      "mars": "6-9 months (one-way, current tech). 225 million km (average). not yet achieved (human).",
+      "proxima_centauri": "4.24 ly. 40 trillion km. ~20,000 years (voyager 1 speed). or 100 years (1% c, theoretical). generation ship? or: give up.",
+      "milky_way": "100,000 ly across. impossible with current physics. wormholes? warp drive? science fiction (for now).",
+      "note": "space = barrier. vast. speed of light = limit. interstellar = probably impossible (human lifetime). maybe: probes (unmanned). humans = solar system-bound (probably)."
+    },
+
+    "fermi_paradox": {
+      "question": "if universe = billions of galaxies, stars, planets → where is everybody? aliens = statistically likely. so: where?",
+      "great_filter": "something prevents civilizations from expanding. past filter (abiogenesis hard)? or future filter (self-destruction, ai, climate)? scary if future.",
+      "zoo_hypothesis": "they're here but don't contact (prime directive). or: we're simulation. or: too alien to recognize.",
+      "rare_earth": "intelligent life = extremely rare. goldilocks (liquid water, plate tectonics, large moon, jupiter protector, stable star, galactic habitable zone, many factors). we = alone (maybe).",
+      "already_extinct": "civilizations arise, then die. short window. signals = missed. we = late?",
+      "note": "space = maybe empty (of intelligence). or full but hidden. or we're early. fermi paradox = haunting. silence = ominous or hopeful?"
+    },
+
+    "cosmic_loneliness": {
+      "vast_separation": "even if aliens exist → distances = prohibitive. communication = thousands of years round-trip. never meet.",
+      "isolation": "earth = island. humanity = maybe alone (functionally, even if not technically). space = isolator.",
+      "responsibility": "if we're rare → immense responsibility. consciousness in universe = precious. don't squander.",
+      "note": "space = separates. vastness = loneliness. but also: focuses attention on earth, each other. spaceship earth. all we have."
+    }
+  },
+
+  "practical_applications": {
+    "declutter_physical": {
+      "space_at_home": "clean, organize, minimize. physical space = mental space (correlation). cluttered room = cluttered mind.",
+      "breathing_room": "furniture arrangement. negative space. not cramped. spaciousness = calm.",
+      "less_stuff": "minimalism. fewer possessions = more space (literal + metaphorical). freedom.",
+      "note": "physical space = affects consciousness. clear space = clear mind. design environment intentionally."
+    },
+
+    "create_mental_space": {
+      "meditation": "sit. allow thoughts. don't engage. rest in awareness-space. spacious mind.",
+      "nature": "wilderness, parks, open sky. vastness = perspective. mental decompression.",
+      "silence": "no input. no stimulation. rest. space = emerges in silence.",
+      "saying_no": "protect space. schedule, commitments, relationships. boundaries = space.",
+      "note": "mental space = cultivated. not passive. practices, choices, boundaries. spaciousness = intentional."
+    },
+
+    "social_space": {
+      "solitude": "time alone. recharge (introverts). process (everyone). self-connection. necessary.",
+      "boundaries": "personal space. emotional space. 'need space' = valid. honor in self/others.",
+      "give_space": "relationships. don't crowd. allow other person space. trust. freedom = paradoxically connects.",
+      "note": "relationships = need space. both connection and separation. breathing in/out. enmeshment = suffocating. space = healthy."
+    },
+
+    "awe_contemplation": {
+      "night_sky": "stars. vastness. scale. humbling. perspective. existential awe.",
+      "cosmic_perspective": "pale blue dot (sagan). earthrise (apollo 8). overview effect (astronauts). space = perspective-giver.",
+      "contemplation": "what is space? why anything? why this size? questions = open doors. wonder.",
+      "note": "space = awe-inducing. vastness, mystery, beauty. contemplation = connects to larger reality. transcendence."
+    }
+  },
+
+  "key_insights": {
+    "three_dimensions": "x, y, z. why three? mystery. anthropic? or: we're 3d-limited perception in higher-d reality?",
+    "mostly_empty": "atoms = 99.9999999999999% empty. matter = mostly space. solidity = illusion (forces, not space-filling).",
+    "yet_mostly_full": "quantum fields, dark matter (27%), dark energy (68%). space = not void but seething, invisible fullness.",
+    "curved_by_mass": "einstein. spacetime = geometry. mass curves space. gravity = curvature. space = dynamic, not passive container.",
+    "expanding": "hubble. space itself = expanding. galaxies recede. accelerating (dark energy). universe = not static but dynamic.",
+    "vast_beyond_comprehension": "observable universe = 93 billion ly. total = maybe infinite. incomprehensible scale. humbling.",
+    "intimate_and_immediate": "yet space = here. room, body, breath. immediate. familiar. personal.",
+    "geometry_unknown": "flat? curved? finite? infinite? topology? we don't know global shape. local = nearly flat. beyond = mystery.",
+    "consciousness_metaphor": "'mental space', 'awareness space', 'spacious mind'. space = rich metaphor for consciousness. or: literal (awareness = spatial)?",
+    "barrier_and_connector": "space = separates (isolation, loneliness). but also: allows individuation, diversity, freedom. duality.",
+    "emptiness_is_fullness": "buddhist śūnyatā. quantum vacuum. space = not nihilistic void but pregnant potential. paradox.",
+    "deepest_mysteries": "what is space? why 3d? discrete or continuous? infinite or finite? fundamental or emergent? unknown."
+  },
+
+  "positions": {
+    "0": "unaware (space = empty. room, sky, distance. no questioning. background.)",
+    "1": "curious (learns about curvature, expansion, quantum vacuum, scales. mind opens.)",
+    "2": "exploring (reads cosmology, contemplates vastness, practices spaciousness meditation. questions assumptions.)",
+    "3": "experiencing (awe at night sky? or spacious awareness in meditation? or 'aha' about space-consciousness link?)",
+    "4": "practicing (creates physical/mental space. declutters. meditates. boundaries. intentional spaciousness.)",
+    "5": "crisis (overwhelmed (crowded). or agoraphobia (too much space). or existential terror (cosmic vastness). space dysregulation.)",
+    "6": "integrating (comfortable with space. inner spaciousness stable. physical environment clear. social boundaries healthy.)",
+    "7": "utilizing (architect, designer. or: meditation teacher (spacious awareness). or: astrophysicist. masters space domain.)",
+    "8": "teaching (space wisdom. helps others create spaciousness. guides awe contemplation. frees from cluttered existence.)",
+    "9": "mastery (lives in spacious awareness. or: understands space physics deeply. or: creates sacred spaces. space = home.)",
+    "10": "transcendent (is space. awareness = infinite space. boundless. centerless. containing all yet touched by nothing. ⊙.)"
+  }
+}

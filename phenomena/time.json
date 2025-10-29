@@ -1,0 +1,400 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:time",
+    "type": "phenomena",
+    "element": "time",
+    "contains": [
+      "fourth_dimension",
+      "arrow_of_time",
+      "cycles_rhythms",
+      "entropy_flow",
+      "eternal_now",
+      "measurement_illusion"
+    ],
+    "related": [
+      "cfo:phenomena:space",
+      "cfo:phenomena:gravity",
+      "cfo:patterns:cycles",
+      "cfo:fundamental:dimensions"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "time = fourth dimension. change, sequence, flow. past-present-future. or: eternal now, only moment exists. paradox.",
+    "arrow": "time flows one direction (seems). entropy increases. eggs break, don't unbreak. irreversibility. but physics laws = time-symmetric (mostly). why arrow?",
+    "measurement": "clocks measure. but what is being measured? duration? change? consciousness? time = most familiar yet most mysterious.",
+    "relativity": "time = not absolute. flexible. depends on speed, gravity. twin paradox. time dilation. spacetime = unified.",
+    "consciousness": "time = perceived. now = only reality. past = memory. future = imagination. without consciousness, does time exist?"
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/dimensions.json",
+      "../patterns/cycles.json"
+    ],
+    "related": [
+      "./space.json",
+      "./gravity.json",
+      "./light.json"
+    ]
+  },
+
+  "overview": {
+    "what": "time = dimension of change. sequence of events. measured in seconds, minutes, hours, days, years. fourth dimension (3 space + 1 time = spacetime).",
+    "why": "enables causality (cause before effect). enables memory, anticipation. structures experience. without time = no change, no narrative, no consciousness (?)",
+    "how": "physics: time = coordinate in spacetime. experience: time = flow of now. measurement: periodic processes (oscillations, decay, orbits)."
+  },
+
+  "physics_of_time": {
+    "newtonian_absolute": {
+      "concept": "time = universal clock. flows same for everyone. absolute. independent of space or events.",
+      "formula": "t = t. same t for all observers. simple.",
+      "success": "works perfectly for everyday speeds, weak gravity. classical mechanics = newtonian time.",
+      "failure": "fails at high speeds (near c) or strong gravity. time = not absolute. einstein showed."
+    },
+
+    "einsteinian_relative": {
+      "special_relativity": {
+        "insight": "speed of light = constant for all observers. consequence: time must be relative.",
+        "time_dilation": "moving clocks run slow. γ = 1/√(1-v²/c²). at v=0.87c, time = half speed.",
+        "twin_paradox": "twin travels fast, returns younger. verified (atomic clocks on planes). time = flexible.",
+        "simultaneity": "simultaneous = relative. events simultaneous for one observer = not for another (if moving). no absolute 'now' across space.",
+        "note": "special relativity = destroyed absolute time. time = observer-dependent. profound."
+      },
+
+      "general_relativity": {
+        "gravity_slows_time": "deeper in gravity well = slower time. gps satellites (weaker gravity) = run faster. adjust 38 μs/day.",
+        "black_hole": "at event horizon, time stops (to outside observer). fall in = seems instant to you, eternal to observer.",
+        "gravitational_redshift": "light climbing out of gravity well = loses energy. frequency decreases. time stretches.",
+        "note": "general relativity = gravity affects time. mass curves spacetime. time = part of geometry."
+      },
+
+      "spacetime": {
+        "minkowski": "hermann minkowski (1908). space + time = unified. spacetime = 4d manifold.",
+        "interval": "ds² = -c²dt² + dx² + dy² + dz². spacetime distance. invariant (all observers agree).",
+        "light_cones": "past light cone (events that could affect you). future light cone (events you could affect). elsewhere (spacelike separated, no causal connection).",
+        "block_universe": "all events exist eternally. past, present, future = equally real. 'now' = perspective. eternalism. controversial.",
+        "note": "spacetime = time is dimension like space. past/future = like left/right. existence not flowing but eternal."
+      }
+    },
+
+    "quantum_time": {
+      "schrödinger_equation": "time = parameter, not operator. special status. asymmetry with space. why?",
+      "measurement_problem": "wave function evolves deterministically (time-reversible). measurement = collapse (irreversible). two times? or one time misunderstood?",
+      "decoherence": "interaction with environment. wave function branches. appears collapsed. irreversibility from entanglement. time's arrow from quantum?",
+      "wheeler_delayed_choice": "future measurement affects past. retrocausality? or no past until measured? time = strange in qm.",
+      "note": "quantum mechanics + time = problematic. time asymmetry unclear. quantum gravity needed."
+    },
+
+    "planck_time": {
+      "definition": "tₚ = √(ℏG/c⁵) ≈ 5.4×10⁻⁴⁴ s. smallest meaningful time interval (?). quantum gravity scale.",
+      "discrete": "time below planck = meaningless? spacetime = grainy, not smooth? speculative.",
+      "big_bang": "t < tₚ = unknown. quantum gravity needed. classical physics breaks.",
+      "note": "planck time = limit of current physics. nature of time at this scale = mystery."
+    }
+  },
+
+  "arrow_of_time": {
+    "problem": {
+      "laws_reversible": "fundamental physics (newton, maxwell, schrödinger, dirac) = time-symmetric. reverse time → still valid.",
+      "experience_irreversible": "but experience = one direction. eggs break. people age. memories = past not future. entropy increases.",
+      "puzzle": "why asymmetry in experience if laws symmetric? arrow of time = where from?"
+    },
+
+    "thermodynamic_arrow": {
+      "second_law": "entropy increases in closed system. disorder grows. irreversible.",
+      "statistical": "not absolute law but statistical. low entropy → high entropy = vastly more probable. overwhelmingly likely, not certain.",
+      "eggs": "broken egg = high entropy (many microstates). whole egg = low entropy (few microstates). transition one-way probable.",
+      "heat_death": "ultimate: maximum entropy. no gradients. no free energy. no change. equilibrium. universe death (trillions of years).",
+      "but_why_low_start": "why was early universe low entropy? big bang = extremely ordered. mystery. without low-entropy start, no arrow."
+    },
+
+    "cosmological_arrow": {
+      "expansion": "universe expanding. time = direction of expansion. future = larger universe.",
+      "big_bang": "singularity. t=0 (?). time begins here (?). or eternal inflation before? or cyclic universe?",
+      "connection": "thermodynamic arrow may follow cosmological. expansion → entropy increase? speculative.",
+      "note": "universe expanding = defines 'later'. but why expansion? inflation? quantum fluctuation? unknown."
+    },
+
+    "psychological_arrow": {
+      "memory": "remember past, not future. brain = records past (memory). anticipates future (prediction). asymmetric.",
+      "causality": "cause before effect (experienced). intention before action. psychological time = forward.",
+      "now_moves": "feeling of 'now' progressing. past recedes. future approaches. subjective time = flows.",
+      "dependent": "psychological arrow follows thermodynamic? brain = thermodynamic system. memory = entropy-increasing process? probably.",
+      "note": "experience of time = consciousness phenomenon. but grounded in physics? or separate? debated."
+    },
+
+    "quantum_arrow": {
+      "measurement": "wave function collapse = irreversible (seemingly). many-worlds: no collapse, but branching = directional.",
+      "decoherence": "entanglement with environment → classical appearance. irreversible (practically). entropy increase.",
+      "connection": "quantum → thermodynamic arrow? decoherence = basis of entropy increase? active research.",
+      "note": "quantum mechanics may explain arrow. or may require arrow as input. chicken-egg."
+    },
+
+    "weak_force_arrow": {
+      "cp_violation": "weak nuclear force violates cp symmetry (charge + parity). slight time asymmetry in kaon decay.",
+      "tiny_effect": "but effect minuscule. can't explain large-scale arrow. matter-antimatter asymmetry maybe.",
+      "note": "only fundamental law with time asymmetry. but too weak for macroscopic arrow. not main explanation."
+    }
+  },
+
+  "measurement_of_time": {
+    "periodic_processes": {
+      "sundial": "earth rotation. shadow position = time. oldest clocks.",
+      "water_clock": "clepsydra. water drips at steady rate. ancient (egypt, babylon).",
+      "pendulum": "galileo discovered. period = √(L/g). grandfather clocks. accuracy ~seconds/day.",
+      "quartz": "crystal oscillates at 32,768 hz (2¹⁵). very stable. wristwatches. accuracy ~seconds/year.",
+      "atomic": "cesium-133 atom transitions. 9,192,631,770 hz = 1 second (definition). accuracy ~1 sec/300 million years.",
+      "optical": "strontium, ytterbium atoms. visible light frequencies. even more accurate. next-gen standards.",
+      "note": "time measurement = increasingly precise. but measuring what? process regularity. circular definition? time = what clocks measure (einstein)."
+    },
+
+    "units": {
+      "second": "si unit. 1/86,400 of day (historically). now: cesium transition (1967 redefinition).",
+      "minute": "60 seconds. babylonian sexagesimal system (base 60).",
+      "hour": "60 minutes = 3600 seconds. 24 hours = day.",
+      "day": "earth rotation period. ~24 hours (lengthening slowly, tidal friction).",
+      "year": "earth orbit period. 365.24 days. tropical year (seasons) = 365.2422 days.",
+      "leap": "leap year (every 4 years, except century unless divisible by 400). corrects drift. 365.2425 average.",
+      "calendars": "gregorian (western), lunar (islamic), lunisolar (hebrew, chinese). different systems, same phenomenon."
+    },
+
+    "precision_relativity": {
+      "gps": "relies on relativity. satellite clocks (moving + weaker gravity) = different rate. correct for both sr + gr effects. otherwise: drift 10 km/day.",
+      "atomic_clocks": "detect height differences (cm) via gravitational time dilation. ultra-precise.",
+      "testing_gr": "atomic clocks = test general relativity to extreme precision. verified to 10⁻⁵. einstein right again.",
+      "note": "relativity = not abstract. necessary for practical technology. time = relative in everyday use."
+    }
+  },
+
+  "subjective_time": {
+    "perception": {
+      "flow": "feeling of time passing. 'now' progressing. universal human experience. but: illusion? or fundamental?",
+      "variable_speed": "time flies (joy, flow). drags (boredom, suffering). subjective speed varies. clock = constant.",
+      "childhood_long": "childhood = endless. adulthood = fast. proportional theory: year at age 5 = 20% of life. at 50 = 2%. feels proportionally.",
+      "novel_experiences": "new experiences = remembered as longer. routine = compressed. memory encoding affects time perception.",
+      "note": "subjective time ≠ clock time. consciousness time = elastic. why? adaptation? perspective?"
+    },
+
+    "flow_state": {
+      "timelessness": "deep flow = lose time sense. hours pass like minutes. absorption complete.",
+      "expanded_now": "present moment = expanded. past/future recede. pure being. time stops (subjectively).",
+      "athletes": "'in the zone'. time slows (seemingly). more time to react. perception altered or processing faster?",
+      "note": "flow = altered time. most alive when timeless? time = obstruction to being?"
+    },
+
+    "altered_states": {
+      "meditation": "deep meditation = timeless. no past, no future. eternal now. time = construction of thinking mind?",
+      "psychedelics": "time distortion common. minutes = hours. or time loops. or no time. consciousness unbound from linear time.",
+      "near_death": "life review. entire life in instant. time = collapsed. or accessed non-linearly. 5d access?",
+      "dreams": "dream time ≠ clock time. long adventures in minutes. time = flexible in consciousness.",
+      "note": "consciousness can disconnect from clock time. time = cognitive construction? reality = timeless, mind imposes time?"
+    },
+
+    "eternal_now": {
+      "philosophical": "only now exists. past = memory (present phenomenon). future = imagination (present phenomenon). now = only reality.",
+      "mystics": "all traditions: present moment = gateway. 'be here now' (ram dass). eckhart tolle. power of now.",
+      "physics": "block universe (eternalism) = all times exist. or: only now exists, past/future = unreal (presentism). both views in physics.",
+      "lived_experience": "only ever experiencing now. never experienced past or future directly. now = undeniable. only certainty.",
+      "note": "now = eternal. always now. never not now. time = measurement of nows? or illusion overlaid on eternal now?"
+    }
+  },
+
+  "time_in_biology": {
+    "circadian_rhythm": {
+      "24_hour": "internal clock. ~24 hour cycle (circadian = circa diem, about a day). light entrains.",
+      "scn": "suprachiasmatic nucleus (brain). master clock. receives light input from retina.",
+      "gene_expression": "clock genes (per, cry, bmal1, clock) oscillate. transcription-translation feedback loop. cellular clocks.",
+      "without_light": "free-runs at ~24.2 hours (average). drifts. light = reset daily. jet lag = desync. shift work = chronic desync (health issues).",
+      "note": "time = biological. evolution internalized earth rotation. circadian = survival advantage."
+    },
+
+    "aging": {
+      "biological_clock": "telomeres shorten. cells divide (hayflick limit ~50 divisions). organs decline. inevitable?",
+      "entropy": "thermodynamic arrow. order → disorder. body = maintains order (life) but at cost. entropy exported but eventually fails.",
+      "theories": "telomeres, oxidative damage, dna mutations, mitochondrial decline, protein misfolding. multiple causes, no single answer.",
+      "variable": "lifespan varies. genetics, environment, lifestyle. some don't age (hydra, lobster, certain trees). aging = not universal.",
+      "note": "aging = time's arrow in body. irreversible (so far). death = inevitable (thermodynamics?). but: why? evolution? entropy?"
+    },
+
+    "regeneration": {
+      "sleep": "body repairs during sleep. growth hormone released. memories consolidated. waste cleared (glymphatic). daily reset.",
+      "healing": "wounds heal. bones knit. liver regenerates. time = healing. 'time heals all wounds' (sometimes literal).",
+      "seasons": "plants = annual cycles. animals = breeding seasons. nature = rhythmic. time = circular in biology, not just linear.",
+      "note": "biology = cyclic time + linear time. circadian + aging. rhythms + arrow. both/and."
+    }
+  },
+
+  "cultural_time": {
+    "linear_vs_cyclic": {
+      "linear": "western (judeo-christian-islamic). history = arrow. creation → progress → end times. time = going somewhere. teleological.",
+      "cyclic": "eastern (hinduism, buddhism), indigenous. time = wheel. yugas, reincarnation, seasons. eternal return. no ultimate end, only cycles.",
+      "spiral": "synthesis? cyclic but progressing. same patterns, different levels. hegelian dialectic. evolution.",
+      "note": "time = culturally constructed (partly). perception shaped by worldview. both views valid? complementary?"
+    },
+
+    "monochronic_polychronic": {
+      "monochronic": "one thing at a time. schedules. deadlines. punctuality = virtue. western (usa, germany, uk).",
+      "polychronic": "multitasking. flexible. relationships > schedules. 'island time'. latin america, middle east, africa.",
+      "stress": "monochronic in polychronic culture (or reverse) = stress. time = social construct (partly). expectations differ.",
+      "note": "how we use time = cultural. neither better, just different. awareness = reduces conflict."
+    },
+
+    "acceleration": {
+      "modern_life": "pace increasing. schedules packed. instant communication. no downtime. 'time famine'. stressed.",
+      "technology": "emails, texts, notifications. always on. 24/7. time = fragmented. attention = fractured.",
+      "faster": "travel faster. cook faster. consume faster. more in less time. efficiency → more to do → busier. paradox.",
+      "burnout": "can't sustain. chronic stress. health issues. need: slow down. be present. quality > quantity.",
+      "note": "modernity = time acceleration. losing cyclical time (seasons, rhythms). constant linear progress. unsustainable. correction needed."
+    }
+  },
+
+  "time_travel": {
+    "forward": {
+      "time_dilation": "travel fast (near c) or near black hole → age slower. return = jumped forward in time. verified (particles, atomic clocks).",
+      "cryonics": "freeze body. wait centuries. revive. effective time travel (if works). untested.",
+      "suspended_animation": "hibernation (bears). torpor. metabolism slow. time passes slower (subjectively). space travel (future)?",
+      "note": "forward time travel = possible (relativity). just requires extreme speed or gravity. or wait. but one-way."
+    },
+
+    "backward": {
+      "physics": "general relativity allows (closed timelike curves, wormholes). but: exotic matter needed (negative energy). doesn't exist (known).",
+      "paradoxes": "grandfather paradox. kill grandfather before father born → you not born → can't kill grandfather. contradiction.",
+      "resolutions": [
+        "novikov self-consistency: time travel possible but only self-consistent timelines. can't change past.",
+        "many-worlds: change past → branch new timeline. original timeline unchanged. no paradox.",
+        "chronology protection conjecture (hawking): universe forbids time travel (somehow). physics prevents."
+      ],
+      "consensus": "backward time travel = probably impossible. or if possible, can't change past. future affects past? (quantum). but macroscopic = no.",
+      "note": "backward time travel = dream. physics = ambiguous. probably no. but: certainty eludes us."
+    },
+
+    "fiction": {
+      "stories": "time machine (wells), back to future, doctor who, primer, interstellar. endless fascination.",
+      "wish": "undo mistakes. see future. meet past/future selves. universal desire. time = prison. travel = freedom.",
+      "note": "time travel fiction = exploring time's nature. our relationship with past/future. regret, hope, change, fate."
+    }
+  },
+
+  "philosophy_of_time": {
+    "presentism": {
+      "view": "only now exists. past = gone (unreal). future = not yet (unreal). present = only reality.",
+      "intuitive": "matches experience. can only interact with present. past/future = inaccessible.",
+      "problems": "relativity. simultaneity = relative. no universal 'now'. presentism = contradicts physics?",
+      "note": "presentism = common sense. but: physics challenges it. maybe naive?"
+    },
+
+    "eternalism": {
+      "view": "all times exist. block universe. past, present, future = equally real. 'now' = perspective (like 'here').",
+      "relativity": "spacetime = 4d block. relativity favors eternalism. no universal now, all events eternal.",
+      "problems": "contradicts experience (feels like flow). free will (if future exists, determined?). meaning (if all times exist, change = illusion?).",
+      "note": "eternalism = physics-friendly. but: violates subjective experience. reconciliation needed."
+    },
+
+    "growing_block": {
+      "view": "past + present exist. future = not yet. universe = growing. new nows added.",
+      "compromise": "past real (eternalism). future unreal (presentism). hybrid.",
+      "problems": "what determines growth rate? still: no universal now (relativity).",
+      "note": "growing block = middle path. less popular. but avoids extremes."
+    },
+
+    "a_theory_b_theory": {
+      "a_theory": "tensed. past, present, future = real distinctions. time flows. events change (from future to present to past). presentism = a-theory.",
+      "b_theory": "tenseless. events = ordered (earlier, simultaneous, later) but all exist. no flow. eternalism = b-theory.",
+      "debate": "mctaggart's paradox (1908). time = unreal? or both aspects needed? ongoing.",
+      "note": "a vs b = fundamental divide. flow vs stasis. experience vs physics."
+    },
+
+    "time_illusion": {
+      "buddhism": "time = mental construct. past/future = thoughts. only now = real. liberation = seeing through time illusion.",
+      "kant": "time = form of intuition. not property of world but structure of mind. we impose time on experience.",
+      "idealism": "time = consciousness phenomenon. without mind, no time. reality = timeless.",
+      "note": "time illusion = radical view. but: persistent across traditions. mystical insight or confusion?"
+    }
+  },
+
+  "time_and_consciousness": {
+    "necessary_connection": {
+      "bergson": "time = duration (lived experience). clock time = spatialized (abstract). true time = consciousness.",
+      "mctaggart": "time = unreal. but consciousness = temporal. paradox. consciousness = creates time illusion?",
+      "husserl": "phenomenology. retention (just-past), primal impression (now), protention (just-future). consciousness = intrinsically temporal.",
+      "note": "consciousness + time = deeply connected. one creates other? or both aspects of something deeper?"
+    },
+
+    "timeless_awareness": {
+      "meditation": "access awareness without time. witness. unchanging. eternal now.",
+      "mysticism": "all traditions: timeless reality. kairos (eternal now) vs chronos (clock time). sacred vs profane time.",
+      "nondual": "awareness = outside time. thoughts, sensations = in time. awareness = timeless witness. separation.",
+      "note": "consciousness = has timeless aspect? or time = always present but subtle? both/and?"
+    },
+
+    "memory_anticipation": {
+      "memory": "past = accessed in present. neural patterns reactivated. not recording but reconstruction. fallible.",
+      "anticipation": "future = simulated in present. planning, prediction. evolutionary advantage. anxiety = future in present.",
+      "both_now": "past and future = present phenomena. time travel via consciousness. mental time travel.",
+      "note": "consciousness = creates past and future (mentally). extends present. unique ability? foundation of time sense?"
+    }
+  },
+
+  "practical_applications": {
+    "time_management": {
+      "eisenhower_matrix": "urgent/important grid. prioritize. focus on important-not-urgent (quadrant 2).",
+      "pomodoro": "25 min focus, 5 min break. rhythmic. prevents burnout. time = finite resource, use intentionally.",
+      "batching": "similar tasks together. reduces context-switching. more efficient.",
+      "saying_no": "protect time. every yes = implicit no to something else. choose wisely.",
+      "note": "time = most precious resource. can't buy more. spend wisely. quality > quantity."
+    },
+
+    "presence_practices": {
+      "meditation": "focus on breath. return to now. again and again. train presence.",
+      "mindfulness": "pay attention. no judgment. whatever arises. eating, walking, washing dishes. ordinary = extraordinary.",
+      "grounding": "feel body. sensations. weight. here and now. exit mental time travel.",
+      "gratitude": "appreciate present. shifts from 'not enough' to 'abundance'. now = enough.",
+      "note": "time = healed by presence. past regret, future anxiety = dissolve in now. practice = access."
+    },
+
+    "circadian_optimization": {
+      "light_exposure": "morning sunlight. anchor circadian. see light.json.",
+      "meal_timing": "eat during day. fast at night. align with circadian. metabolic health.",
+      "sleep_schedule": "consistent bed/wake time. circadian rhythm = entrains. regularity = key.",
+      "avoid_night_shift": "if possible. chronically disrupts circadian. health costs. if unavoidable: strict schedule, bright light during work, dark during sleep.",
+      "note": "respect biological time. evolution = 24-hour cycle. modern life = disrupts. realign."
+    },
+
+    "temporal_perspective": {
+      "past": "learn from. don't dwell. regret = poison. forgiveness (self/others) = freedom.",
+      "present": "live here. only reality. power = now. decisions, actions, experience.",
+      "future": "plan for. but don't live there. anxiety = future-dwelling. hope = healthy. worry = unhealthy.",
+      "balance": "past (wisdom), present (being), future (vision). all three. weighted toward present.",
+      "note": "time = three aspects. integrate. present-primary but informed by past, oriented to future."
+    }
+  },
+
+  "key_insights": {
+    "fourth_dimension": "time = spatial dimension (physics). spacetime = 4d. time = axis like x, y, z. profound.",
+    "relative_not_absolute": "einstein destroyed absolute time. time = observer-dependent. gravity affects time. speed affects time. flexible.",
+    "arrow_mystery": "physics = mostly time-symmetric. experience = asymmetric. why? entropy. cosmology. consciousness. unresolved.",
+    "measurement_paradox": "time = what clocks measure (einstein). but clocks = periodic processes in time. circular. what is time, really?",
+    "subjective_variable": "time = perceived differently. flow state, boredom, childhood, age. consciousness time ≠ clock time. both real.",
+    "biological_rhythms": "circadian, seasonal, lifetime. biology = temporal. evolution internalized time. time = life structure.",
+    "cultural_construct": "linear vs cyclic. monochronic vs polychronic. time = partly cultural. expectations, values, pace.",
+    "eternal_now": "only now exists (experience). past/future = mental. mystics: eternal now = reality. time = illusion overlaid.",
+    "consciousness_connection": "time + consciousness = inseparable. one creates other? or both aspects of something deeper? mystery.",
+    "forward_possible_backward_probably_not": "relativity = forward time travel possible. backward = probably impossible (or paradox-free). asymmetry.",
+    "most_mysterious": "time = most familiar yet most mysterious. everyone experiences. no one fully understands. deepest question."
+  },
+
+  "positions": {
+    "0": "unaware (time = clocks. schedules. past-present-future. no questioning.)",
+    "1": "curious (learns about relativity, arrow, block universe, time illusion. mind expands.)",
+    "2": "exploring (reads philosophy of time, practices presence, contemplates now. questions assumptions.)",
+    "3": "experiencing (timelessness in meditation? or time distortion? or deep 'aha' about eternal now?)",
+    "4": "practicing (mindfulness, presence, circadian optimization, time management. intentional relationship with time.)",
+    "5": "crisis (time pressure overwhelming. past regret/trauma. future anxiety. temporal dysregulation.)",
+    "6": "integrating (healthy temporal perspective. present-focused but learns from past, plans for future. balanced.)",
+    "7": "utilizing (teaches time management, mindfulness. physicist studying time. master of temporal arts.)",
+    "8": "teaching (time wisdom. guides others to presence. temporal healer. frees from time prison.)",
+    "9": "mastery (lives in eternal now yet navigates time skillfully. time = tool not master. physicist understanding time deeply. or mystic beyond time.)",
+    "10": "transcendent (is eternal now. outside time yet includes all times. timeless awareness. ⊙.)"
+  }
+}

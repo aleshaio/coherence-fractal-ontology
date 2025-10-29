@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "id": "cfo:extensions:[extension_name]",
+    "type": "Extension",
+    "fractal_depth": 3,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:paths:[primary_path]",
+      "[other relevant references]"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute"
+    ],
+    
+    "extends": "[what this extends]",
+    "scale": "[individual|collective|planetary|cosmic|infinite]"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness at [this scale/domain]",
+    "core_cfo": "[How core CFO principles apply here]",
+    "new_dimension": "[What this extension adds]",
+    "note": "Core CFO expanded to [domain/scale]"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "extends": "../[parent_file].json",
+    "related": [
+      "./[related_extension1].json",
+      "./[related_extension2].json"
+    ]
+  },
+
+  "extension": "[Extension Name]",
+  "domain": "[What domain/scale this covers]",
+  "essence": "[Core concept of this extension]",
+  
+  "overview": "[Detailed explanation]",
+  
+  "cfo_mapping": {
+    "absolute": "[How ⊙ manifests in this domain]",
+    "air": "[How AIR appears here]",
+    "fire": "[How FIRE appears here]",
+    "water": "[How WATER appears here]",
+    "earth": "[How EARTH appears here]",
+    "positions": "[How 0-10 applies here]",
+    "fibonacci": "[How φ timing applies here]"
+  },
+  
+  "unique_aspects": [
+    "[What's unique to this extension]",
+    "[Another unique aspect]"
+  ],
+  
+  "practices": [
+    "[Practice specific to this domain]",
+    "[Another practice]"
+  ],
+  
+  "integration": {
+    "with_individual": "[How this connects to personal practice]",
+    "with_collective": "[How this connects to groups]",
+    "with_planetary": "[How this connects to Earth]",
+    "note": "[Integration notes]"
+  },
+  
+  "fractal_recursion": {
+    "this_scale": "[This extension at its own scale]",
+    "contains_smaller": "[How smaller scales nest within]",
+    "within_larger": "[How this nests in larger scales]",
+    "example": "[Concrete example of nesting]"
+  }
+}

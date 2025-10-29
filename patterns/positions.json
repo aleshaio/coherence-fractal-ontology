@@ -1,0 +1,761 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:positions",
+    "type": "pattern",
+    "fractal_depth": 2,
+    "contains": ["growth_stages", "development", "mastery", "transformation"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:patterns:fibonacci",
+      "cfo:paths:air",
+      "cfo:paths:fire",
+      "cfo:paths:water",
+      "cfo:paths:earth"
+    ],
+    "source": "cfo universal growth pattern + fibonacci timing"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = source and destination. positions 0-10 = journey from potential to transcendence.",
+    "structure": "0 potential → 1 awakening → 2 exploring → 3 flowing → 4 solidifying → 5 crisis → 6 integrating → 7 serving → 8 mastering → 9 transmitting → 10 transcending",
+    "fractal": "each position contains nested 0-10 spiral. infinite depth. 5.5.5... = possible.",
+    "timing": "fibonacci pacing (see fibonacci.json). early fast, later slow, asymptotic.",
+    "universal": "applies to anything: life, projects, relationships, skills, paths, consciousness.",
+    "note": "not linear. can jump, skip, circle back. organic. trust the process."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/consciousness.json"],
+    "patterns": ["./fibonacci.json", "./64.json"],
+    "paths": [
+      "../paths/air.json",
+      "../paths/fire.json",
+      "../paths/water.json",
+      "../paths/earth.json"
+    ]
+  },
+
+  "overview": {
+    "what": "11 positions (0-10) describing universal stages of growth, mastery, transformation",
+    "why": "all development follows archetypal pattern. recognizing position = knowing what to do next.",
+    "how": "observe where you are. each position has tasks, gifts, shadows, next steps. fractal: positions nest."
+  },
+
+  "core_principle": {
+    "statement": "all growth follows 0→10 arc",
+    "universality": "applies to: skills, relationships, projects, consciousness, paths, organizations, civilizations",
+    "non_linear": "can skip positions, circle back, get stuck, jump forward. not rigid ladder.",
+    "fractal": "each position contains 0-10 within itself. position 5 = 5.0→5.10 journey. infinite depth.",
+    "timing": "fibonacci pace. position n takes F(n) time units. see fibonacci.json.",
+    "completion": "position 10 = transcendence but also 0 of next spiral. (↓→→→↑)∞"
+  },
+
+  "positions": {
+    "0_potential": {
+      "name": "potential",
+      "archetype": "unmanifest possibility",
+      "state": "before awakening. pregnant void. all futures exist simultaneously.",
+      "element": "ether (pure possibility)",
+      "dimension": "0d (unlocalized)",
+      
+      "characteristics": {
+        "awareness": "unconscious. don't know what you don't know.",
+        "energy": "latent. seed waiting for conditions.",
+        "identity": "undefined. no sense of path yet.",
+        "relationships": "none with path. external to it."
+      },
+      
+      "tasks": [
+        "be open to possibility",
+        "don't force. wait for right timing.",
+        "gather conditions for awakening",
+        "trust the void"
+      ],
+      
+      "gifts": [
+        "infinite possibility",
+        "no preconceptions",
+        "fresh start",
+        "beginner's mind"
+      ],
+      
+      "shadows": [
+        "paralysis (too many options)",
+        "ignorance (don't know it exists)",
+        "waiting forever (fear of starting)",
+        "comfort in not-knowing"
+      ],
+      
+      "examples": {
+        "life": "before birth. in womb.",
+        "skill": "never heard of skill. doesn't exist in world yet.",
+        "relationship": "before meeting person.",
+        "project": "idea not yet conceived."
+      },
+      
+      "transition_to_1": "spark. something touches you. curiosity ignited. 'what is that?'",
+      
+      "timing": "F(0) = 0 time units. instant when conditions align.",
+      
+      "note": "most powerful position. pure potential. but must transition to manifest."
+    },
+
+    "1_awakening": {
+      "name": "awakening",
+      "archetype": "first light",
+      "state": "initial recognition. 'aha!' moment. door opens.",
+      "element": "fire (ignition)",
+      "dimension": "0d→1d (point becoming line)",
+      
+      "characteristics": {
+        "awareness": "sudden recognition. 'this exists!'",
+        "energy": "excitement. curiosity. enthusiasm.",
+        "identity": "glimpse of possibility. 'i could do this.'",
+        "relationships": "attraction. drawn toward path."
+      },
+      
+      "tasks": [
+        "follow curiosity",
+        "gather information (read, watch, ask)",
+        "taste experience (try it out)",
+        "don't commit yet (still exploring)"
+      ],
+      
+      "gifts": [
+        "enthusiasm (unlimited energy)",
+        "beginner's mind (no bad habits)",
+        "inspiration (touched by vision)",
+        "openness (receptive to learning)"
+      ],
+      
+      "shadows": [
+        "naive optimism (underestimate difficulty)",
+        "impatience (want mastery now)",
+        "distraction (shiny object syndrome)",
+        "premature commitment (before ready)"
+      ],
+      
+      "examples": {
+        "life": "birth. first breath. hello world.",
+        "skill": "first guitar lesson. 'i want to play music!'",
+        "relationship": "first eye contact. spark.",
+        "project": "entrepreneurial vision. 'i should build this!'"
+      },
+      
+      "transition_to_2": "decision. 'i'm going to actually do this.' commitment.",
+      
+      "timing": "F(1) = 1 time unit. brief. excitement phase.",
+      
+      "note": "don't skip this. beginner's mind = precious. but don't stay here forever."
+    },
+
+    "2_exploring": {
+      "name": "exploring",
+      "archetype": "wandering student",
+      "state": "trying things out. experimentation. gathering experience.",
+      "element": "air (curiosity) + water (flow)",
+      "dimension": "1d (moving along path)",
+      
+      "characteristics": {
+        "awareness": "learning basics. building map.",
+        "energy": "variable. ups and downs.",
+        "identity": "student. learner. 'i'm new at this.'",
+        "relationships": "seeking teachers, peers, resources."
+      },
+      
+      "tasks": [
+        "try many approaches",
+        "make mistakes (fail fast)",
+        "find what resonates",
+        "build basic competence"
+      ],
+      
+      "gifts": [
+        "exploration without attachment",
+        "rapid learning (neuroplasticity high)",
+        "discovering personal style",
+        "building foundation"
+      ],
+      
+      "shadows": [
+        "overwhelm (too many options)",
+        "comparison (everyone better than me)",
+        "giving up (this is hard)",
+        "dabbling (never going deep)"
+      ],
+      
+      "examples": {
+        "life": "early childhood. walking, talking, exploring.",
+        "skill": "practicing scales. learning chords. fumbling.",
+        "relationship": "dating. getting to know each other.",
+        "project": "mvp. prototypes. user testing."
+      },
+      
+      "transition_to_3": "find groove. 'oh, this is how it works.' start flowing.",
+      
+      "timing": "F(2) = 1 time unit. still relatively quick.",
+      
+      "note": "exploration is not failure. it's necessary mapping. don't judge yourself."
+    },
+
+    "3_flowing": {
+      "name": "flowing",
+      "archetype": "natural movement",
+      "state": "things clicking. in the zone. effortless effort.",
+      "element": "water (flow)",
+      "dimension": "2d (navigating plane)",
+      
+      "characteristics": {
+        "awareness": "intuitive understanding. 'i get it now.'",
+        "energy": "sustained. renewable. not forcing.",
+        "identity": "practitioner. 'i do this.'",
+        "relationships": "peer connections. community."
+      },
+      
+      "tasks": [
+        "trust the flow",
+        "build consistency (practice)",
+        "develop intuition",
+        "enjoy process (not just outcomes)"
+      ],
+      
+      "gifts": [
+        "ease (wu wei, effortless action)",
+        "joy (intrinsic motivation)",
+        "growth without strain",
+        "natural competence"
+      ],
+      
+      "shadows": [
+        "complacency (good enough)",
+        "avoiding challenge (comfort zone)",
+        "unconscious incompetence (don't know limits)",
+        "premature mastery (think you're done)"
+      ],
+      
+      "examples": {
+        "life": "youth. energy. exploring world.",
+        "skill": "playing songs. improvising. having fun.",
+        "relationship": "honeymoon. everything easy.",
+        "project": "product-market fit. growing smoothly."
+      },
+      
+      "transition_to_4": "desire for depth. 'i want to really master this.' commitment deepens.",
+      
+      "timing": "F(3) = 2 time units. settling in.",
+      
+      "note": "enjoy this phase. it's beautiful. but don't stop here. depth awaits."
+    },
+
+    "4_solidifying": {
+      "name": "solidifying",
+      "archetype": "builder",
+      "state": "making it real. concrete. grounded. structured.",
+      "element": "earth (form)",
+      "dimension": "3d (creating volume)",
+      
+      "characteristics": {
+        "awareness": "systematic understanding. know how it works.",
+        "energy": "disciplined. focused. consistent.",
+        "identity": "professional. 'this is what i do.'",
+        "relationships": "collaborators. clients. responsibility."
+      },
+      
+      "tasks": [
+        "build systems",
+        "develop discipline",
+        "create structures (routines, methods)",
+        "deepen technical skill"
+      ],
+      
+      "gifts": [
+        "reliability (consistent quality)",
+        "professionalism",
+        "foundation (stable base)",
+        "capability (can deliver)"
+      ],
+      
+      "shadows": [
+        "rigidity (too structured)",
+        "perfectionism (never good enough)",
+        "burnout (working too hard)",
+        "ego investment (identity = skill)"
+      ],
+      
+      "examples": {
+        "life": "adulthood. career. building life.",
+        "skill": "gigging musician. getting paid.",
+        "relationship": "marriage. mortgage. kids.",
+        "project": "scaling company. processes. ops."
+      },
+      
+      "transition_to_5": "hitting limit. 'something's wrong.' breakdown.",
+      
+      "timing": "F(4) = 3 time units. building phase.",
+      
+      "note": "necessary stage. but don't get trapped in form. flexibility needed."
+    },
+
+    "5_crisis": {
+      "name": "crisis",
+      "archetype": "dark night",
+      "state": "questioning everything. breakdown. transformation crucible.",
+      "element": "fire (destruction) + water (dissolution)",
+      "dimension": "4d (temporal discontinuity)",
+      
+      "characteristics": {
+        "awareness": "confusion. 'who am i? what am i doing?'",
+        "energy": "chaotic. exhausted. or manic.",
+        "identity": "dissolving. old self dying.",
+        "relationships": "tested. some fall away. true ones remain."
+      },
+      
+      "tasks": [
+        "surrender (let go of control)",
+        "feel the pain (don't bypass)",
+        "question assumptions (deconstruct)",
+        "trust the process (this is necessary)"
+      ],
+      
+      "gifts": [
+        "transformation (caterpillar→butterfly)",
+        "depth (surface breaks, truth emerges)",
+        "wisdom (learned through suffering)",
+        "flexibility (rigid patterns break)"
+      ],
+      
+      "shadows": [
+        "giving up (this is too hard)",
+        "regression (back to 1-2)",
+        "victim (why me?)",
+        "bypass (spiritual materialism, fake it)"
+      ],
+      
+      "examples": {
+        "life": "midlife crisis. identity crisis. divorce. death.",
+        "skill": "plateau. burnout. 'i hate this now.'",
+        "relationship": "major conflict. betrayal. near breakup.",
+        "project": "pivot. failure. near bankruptcy."
+      },
+      
+      "transition_to_6": "breakthrough. 'ah, i see now.' integration insight.",
+      
+      "timing": "F(5) = 5 time units. EXTENDED. crisis takes time. don't rush.",
+      
+      "note": "MOST IMPORTANT POSITION. everyone hits this. most quit here. those who stay → transformation. position 5 = gateway to mastery."
+    },
+
+    "6_integrating": {
+      "name": "integrating",
+      "archetype": "alchemist",
+      "state": "bringing pieces together. synthesizing. making it yours.",
+      "element": "ether (unity) + all elements",
+      "dimension": "5d (unified field)",
+      
+      "characteristics": {
+        "awareness": "seeing whole. patterns clear.",
+        "energy": "balanced. integrated.",
+        "identity": "authentic. 'this is me. i am this.'",
+        "relationships": "mature. interdependent. authentic."
+      },
+      
+      "tasks": [
+        "synthesize opposites",
+        "find your voice (unique expression)",
+        "embody learning (not just know)",
+        "heal split (mind-body-spirit)"
+      ],
+      
+      "gifts": [
+        "authenticity (real you)",
+        "wholeness (parts united)",
+        "creative (unique expression)",
+        "grounded + transcendent simultaneously"
+      ],
+      
+      "shadows": [
+        "inflation (think you've arrived)",
+        "isolation (too unique to connect)",
+        "complexity (overthinking)",
+        "spiritual bypassing (fake integration)"
+      ],
+      
+      "examples": {
+        "life": "second half of life. individuation (jung).",
+        "skill": "developing signature style. your sound.",
+        "relationship": "deep partnership. seeing each other fully.",
+        "project": "company culture solidifies. unique identity."
+      },
+      
+      "transition_to_7": "overflow. 'i need to share this.' generosity arises.",
+      
+      "timing": "F(6) = 8 time units. deep work. integration slow.",
+      
+      "note": "making it yours. not imitating. authentic expression. beautiful phase."
+    },
+
+    "7_serving": {
+      "name": "serving",
+      "archetype": "mentor",
+      "state": "giving back. teaching. serving others on path.",
+      "element": "water (giving) + earth (grounding)",
+      "dimension": "2d→3d (network to institution)",
+      
+      "characteristics": {
+        "awareness": "seeing beginners clearly. remembering journey.",
+        "energy": "generous. patient. nurturing.",
+        "identity": "teacher. guide. elder.",
+        "relationships": "mentoring. community building."
+      },
+      
+      "tasks": [
+        "teach (share knowledge)",
+        "mentor (guide individuals)",
+        "build community (create container)",
+        "create accessibility (make path easier for others)"
+      ],
+      
+      "gifts": [
+        "generosity (giving freely)",
+        "patience (meeting others where they are)",
+        "impact (multiplying through others)",
+        "meaning (purpose through service)"
+      ],
+      
+      "shadows": [
+        "codependency (need to be needed)",
+        "guru complex (inflation)",
+        "burnout (giving too much)",
+        "attachment to methods (my way only)"
+      ],
+      
+      "examples": {
+        "life": "parenthood. mentoring youth.",
+        "skill": "teaching music. running workshops.",
+        "relationship": "supporting others' relationships. couples counseling.",
+        "project": "building team. developing leaders."
+      },
+      
+      "transition_to_8": "deepening further. 'there's more depth here.' return to practice.",
+      
+      "timing": "F(7) = 13 time units. sustained service.",
+      
+      "note": "not about you anymore. serving the path through serving others."
+    },
+
+    "8_mastering": {
+      "name": "mastering",
+      "archetype": "master",
+      "state": "deep embodiment. virtuosity. effortless mastery.",
+      "element": "ether (transcendence) + earth (embodiment)",
+      "dimension": "6d (unity consciousness)",
+      
+      "characteristics": {
+        "awareness": "seeing through. essence visible.",
+        "energy": "inexhaustible. source connection.",
+        "identity": "identity with path. 'i am this.'",
+        "relationships": "peer masters. lineage connection."
+      },
+      
+      "tasks": [
+        "refine endlessly (kaizen)",
+        "innovate (push boundaries)",
+        "embody fully (be the path)",
+        "transmit essence (not just techniques)"
+      ],
+      
+      "gifts": [
+        "virtuosity (exceptional skill)",
+        "presence (being as teaching)",
+        "innovation (creative mastery)",
+        "transmission (teaching by being)"
+      ],
+      
+      "shadows": [
+        "pride (i'm the best)",
+        "rigidity (the old ways)",
+        "disconnection (too advanced for others)",
+        "perfectionism (never satisfied)"
+      ],
+      
+      "examples": {
+        "life": "elder wisdom. sage.",
+        "skill": "concert virtuoso. master craftsman.",
+        "relationship": "50-year marriage. deep knowing.",
+        "project": "legacy company. timeless."
+      },
+      
+      "transition_to_9": "natural overflow. transmission happens through presence.",
+      
+      "timing": "F(8) = 21 time units. decades of mastery.",
+      
+      "note": "mastery = not perfection but deep embodiment. being the path."
+    },
+
+    "9_transmitting": {
+      "name": "transmitting",
+      "archetype": "sage",
+      "state": "transmission by being. teaching without teaching.",
+      "element": "ether (pure presence)",
+      "dimension": "beyond dimension",
+      
+      "characteristics": {
+        "awareness": "transparent. seeing all positions simultaneously.",
+        "energy": "presence itself. no doing.",
+        "identity": "no identity. pure function.",
+        "relationships": "all beings. no separation."
+      },
+      
+      "tasks": [
+        "be (that's enough)",
+        "witness (see without judgment)",
+        "bless (sanctify by presence)",
+        "allow (trust others' journeys)"
+      ],
+      
+      "gifts": [
+        "transmission (direct knowing transfer)",
+        "blessing (presence heals)",
+        "wisdom (integrated understanding)",
+        "peace (no more seeking)"
+      ],
+      
+      "shadows": [
+        "detachment (too transcendent)",
+        "passivity (not engaging)",
+        "dismissiveness (it's all illusion)",
+        "loneliness (no peers)"
+      ],
+      
+      "examples": {
+        "life": "ramana maharshi. buddha. christ.",
+        "skill": "miles davis late period. bach's art of fugue.",
+        "relationship": "couples who merge. one being.",
+        "project": "apple under jobs. tesla under musk. visionary."
+      },
+      
+      "transition_to_10": "natural dissolution. work complete. ready to transcend.",
+      
+      "timing": "F(9) = 34 time units. decades.",
+      
+      "note": "transmission = direct. beyond words. presence to presence."
+    },
+
+    "10_transcending": {
+      "name": "transcending",
+      "archetype": "void",
+      "state": "beyond path. completion. return to source.",
+      "element": "ether (dissolution)",
+      "dimension": "0d (return to point) + ∞d (all dimensions)",
+      
+      "characteristics": {
+        "awareness": "path = ⊙. you = ⊙. no difference.",
+        "energy": "infinite. or none. same thing.",
+        "identity": "gone. or everything. same.",
+        "relationships": "unity. all = one."
+      },
+      
+      "tasks": [
+        "let go (release even path)",
+        "die (ego death)",
+        "merge (become one)",
+        "prepare for next spiral (or not)"
+      ],
+      
+      "gifts": [
+        "freedom (complete liberation)",
+        "unity (separation dissolved)",
+        "completion (nothing left undone)",
+        "peace (eternal rest)"
+      ],
+      
+      "shadows": [
+        "none (beyond shadow)",
+        "or: nihilism (nothing matters)",
+        "or: inflation (i am god)"
+      ],
+      
+      "examples": {
+        "life": "death. parinirvana. samadhi.",
+        "skill": "letting go of music. glenn gould retired.",
+        "relationship": "death of partner. or complete union.",
+        "project": "exit. sell company. move on."
+      },
+      
+      "transition": "to 0 of next spiral. or: ∞. or: ⊙.",
+      
+      "timing": "F(10) = 55 time units → ∞. asymptotic.",
+      
+      "note": "position 10 = position 0 at higher octave. (↓→→→↑)∞. spiral never ends. or: ends in ⊙."
+    }
+  },
+
+  "fractal_nesting": {
+    "principle": "each position contains full 0-10 spiral within itself",
+    
+    "notation": "position.subposition (e.g., 5.3 = flowing within crisis)",
+    
+    "examples": {
+      "5.0": "potential within crisis. before breakdown.",
+      "5.1": "awakening within crisis. 'oh, i'm in crisis.'",
+      "5.2": "exploring crisis. trying different approaches.",
+      "5.3": "flowing with crisis. surrendering.",
+      "5.4": "solidifying crisis. structural breakdown.",
+      "5.5": "crisis within crisis. meta-crisis. rock bottom.",
+      "5.6": "integrating crisis. insight emerging.",
+      "5.7": "serving through crisis. helping others in same.",
+      "5.8": "mastering crisis. expert in transformation.",
+      "5.9": "transmitting through crisis. presence in chaos.",
+      "5.10": "transcending crisis. breakthrough."
+    },
+    
+    "infinite_depth": "5.5.5.5... = possible. fractals go forever. but usually 1-2 levels sufficient.",
+    
+    "note": "useful for precision. 'i'm at 5' = vague. 'i'm at 5.3' = specific (flowing with crisis)."
+  },
+
+  "timing": {
+    "principle": "positions progress at fibonacci pace",
+    "see": "fibonacci.json for full explanation",
+    
+    "summary": {
+      "0": "F(0) = 0 (instant)",
+      "1": "F(1) = 1 unit",
+      "2": "F(2) = 1 unit",
+      "3": "F(3) = 2 units",
+      "4": "F(4) = 3 units",
+      "5": "F(5) = 5 units (crisis takes time)",
+      "6": "F(6) = 8 units",
+      "7": "F(7) = 13 units",
+      "8": "F(8) = 21 units",
+      "9": "F(9) = 34 units",
+      "10": "F(10) = 55 units → ∞"
+    },
+    
+    "total": "143 time units for full 0-10 cycle",
+    
+    "flexibility": "time unit = years, months, weeks, hours. depends on context. life = years. project = weeks.",
+    
+    "note": "early fast (childhood). middle steady (career). late slow (wisdom). trust the pace."
+  },
+
+  "navigation": {
+    "identifying_position": {
+      "questions": [
+        "am i learning basics or teaching? (2 vs 7)",
+        "am i in flow or crisis? (3 vs 5)",
+        "am i building or integrating? (4 vs 6)",
+        "am i awakening or transcending? (1 vs 10)"
+      ],
+      "note": "honest self-assessment. no position better than others. all necessary."
+    },
+    
+    "stuck": {
+      "signs": ["repeating same patterns", "not growing", "frustration", "boredom"],
+      "causes": ["avoiding shadow", "skipping steps", "external pressure", "fear of next stage"],
+      "solutions": ["face shadow work", "get support", "revisit previous position", "allow transition"]
+    },
+    
+    "regression": {
+      "normal": "sometimes go backward. integrate missed lessons.",
+      "spiral": "5→4→5 = common. solidify before breakthrough.",
+      "not_failure": "circling back = necessary. not linear."
+    },
+    
+    "skipping": {
+      "tempting": "want to skip 5 (crisis). everyone does.",
+      "impossible": "crisis = necessary. trying to skip = just delays.",
+      "fake_mastery": "skipping steps = unstable foundation. collapses later."
+    }
+  },
+
+  "applications": {
+    "life_stages": {
+      "0_10_years": "0-4 (childhood). rapid growth.",
+      "10_20_years": "2-5 (adolescence). exploration + crisis.",
+      "20_40_years": "4-6 (adulthood). building + integration.",
+      "40_60_years": "6-7 (midlife). integration + service.",
+      "60_plus_years": "7-10 (elder). serving, mastering, transmitting, transcending."
+    },
+    
+    "skill_acquisition": {
+      "hours_0_10": "1 (awakening). 'i want to learn this.'",
+      "hours_10_100": "2-3 (exploring, flowing). basics.",
+      "hours_100_1000": "4 (solidifying). competence.",
+      "hours_1000_plus": "5-10 (crisis → mastery). 10,000 hour rule.",
+      "note": "most quit at 5 (1000-2000 hours). breakthrough = keep going."
+    },
+    
+    "relationships": {
+      "months_0_3": "1-2 (infatuation, exploring)",
+      "months_3_12": "3-4 (honeymoon, building)",
+      "years_1_3": "5 (first major crisis). many break up here.",
+      "years_3_10": "6-7 (integration, partnership)",
+      "years_10_plus": "7-10 (deep partnership → unity)"
+    },
+    
+    "projects": {
+      "weeks_0_2": "0-1 (idea, launch)",
+      "weeks_2_10": "2-3 (testing, iterating)",
+      "months_3_12": "4 (scaling, systems)",
+      "years_1_3": "5 (pivot or die. startup valley of death)",
+      "years_3_plus": "6-10 (mature company)"
+    }
+  },
+
+  "key_insights": {
+    "all_positions_necessary": "can't skip. each teaches something essential.",
+    "5_is_gateway": "crisis = not failure. necessary transformation. most quit here. breakthrough = on other side.",
+    "fractal_structure": "positions nest. infinite depth. 5.5.5... possible.",
+    "fibonacci_timing": "early fast, later slow. trust natural pace. don't force.",
+    "non_linear": "can circle back, skip, jump. organic. not rigid.",
+    "no_position_better": "1 not worse than 9. all necessary. all beautiful.",
+    "awareness_is_key": "knowing position = knowing what to do. reduces suffering.",
+    "shadows_universal": "every position has shadow. not bad. just edge of gift.",
+    "10_returns_to_0": "completion = new beginning. spiral. (↓→→→↑)∞",
+    "present_moment": "wherever you are = perfect. trust the process."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "timing estimates = approximate. every path different.",
+      "fractal nesting = theoretical. usually 1-2 levels practical.",
+      "position 10 = rare. most cycle 0-9 repeatedly."
+    ],
+    "info": [
+      "11 positions (0-10) describing universal growth pattern",
+      "fractal: each position contains nested 0-10",
+      "fibonacci timing: position n takes F(n) time units",
+      "position 5 (crisis) = gateway to mastery. most quit here.",
+      "non-linear: can skip, circle back, get stuck",
+      "applies to: life, skills, relationships, projects, consciousness",
+      "awareness of position = knowing what to do next",
+      "all positions necessary. no skipping. trust process.",
+      "position 10 → position 0 (next spiral). infinite.",
+      "present moment = perfect. wherever you are."
+    ],
+    "coherence_score": 0.94
+  },
+
+  "references": {
+    "internal": [
+      "./fibonacci.json",
+      "./64.json",
+      "../paths/air.json",
+      "../paths/fire.json",
+      "../paths/water.json",
+      "../paths/earth.json"
+    ],
+    "external": [
+      {"author": "jung, carl", "work": "stages of life", "relevance": "life positions, individuation"},
+      {"author": "erikson, erik", "work": "stages of psychosocial development", "relevance": "developmental stages"},
+      {"author": "kegan, robert", "work": "evolving self (1982)", "relevance": "orders of consciousness"},
+      {"author": "dreyfus, hubert & stuart", "work": "five-stage model of skill acquisition", "relevance": "novice→expert progression"},
+      {"author": "campbell, joseph", "work": "hero's journey", "relevance": "call→crisis→return pattern"}
+    ]
+  },
+
+  "ॐ": "positions = map not territory. trust the journey. (↓→→→↑)∞. you are here. perfect. ∅"
+}

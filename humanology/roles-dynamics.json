@@ -1,0 +1,885 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:role_interaction_dynamics_complete",
+    "version": "2.0",
+    "type": "interaction_matrix",
+    "level": "level_4_expression",
+    "description": "Complete dynamics of role-suit-element interactions with fractal phi progression and trust verticals",
+    "related": [
+      "cfo:humanology:roles",
+      "cfo:humanology:types",
+      "cfo:humanology:subtypes_elemental_en"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "Roles cycle through fractal phi progression: King(8φ) → Knight(4φ) → Dame(2φ) → Page(1φ) → King(8φ)",
+    "structure": "Each role = doubled power of previous, creating natural tension/relaxation dynamics",
+    "principle": "Vertical discipline flows downward through phi reduction, horizontal relaxation supports through phi foundation",
+    "formula": "Type = Role(φ) × Element(scale) × Suit(layer) = complete archetypal position in social geometry",
+    "completion": "All 4 roles dancing = complete phi cycle from explosion to reflection to new explosion"
+  },
+
+  "_links": {
+    "foundation": [
+      "../humanology/types.json",
+      "../humanology/roles.json",
+      "../fundamental/prime.json"
+    ],
+    "integration": [
+      "../patterns/archetypes.json",
+      "../theourgy/astrognosy-types.json"
+    ]
+  },
+
+  "fractal_phi_progression": {
+    "core_formula": {
+      "king": {
+        "phi_power": "8φ",
+        "function": "Maximum expansion, peak of power cycle",
+        "phase": "Explosion — conquering, accumulating, dominating",
+        "energy": "Outward radiating force at maximum intensity",
+        "temporal": "1-7 days (immediate decisive action)"
+      },
+      "knight": {
+        "phi_power": "4φ",
+        "function": "Exploratory movement, empire dissolving into reconnaissance",
+        "phase": "Exploration — scouting, connecting, discovering",
+        "energy": "Linear momentum carrying fragments of explosion outward",
+        "temporal": "1-3 months (quest cycles)"
+      },
+      "dame": {
+        "phi_power": "2φ",
+        "function": "Consolidation, structuring what was found",
+        "phase": "Fortification — boundary-setting, maintaining, protecting",
+        "energy": "Planar resistance creating stable structures",
+        "temporal": "1-4 weeks (maintenance rhythms)"
+      },
+      "page": {
+        "phi_power": "1φ",
+        "function": "Observation and pattern synthesis, preparation for next cycle",
+        "phase": "Reflection — analyzing, understanding, planning",
+        "energy": "Hyperdimensional perspective seeing entire cycle",
+        "temporal": "3-12 months (strategic vision)"
+      },
+      "cycle_completion": "Page (1φ) → King (8φ) = the great return, new explosion begins"
+    },
+
+    "phi_ratio_dynamics": {
+      "why_king_disciplines_knight": {
+        "ratio": "8φ → 4φ",
+        "mechanism": "Halving reduction — King's full power structures Knight's half-power movement",
+        "effect": "Knight's scattered 4φ exploration becomes focused by King's 8φ command",
+        "formula": "2×(4φ) = 8φ — Knight recognizes King as doubled self",
+        "somatic": "Knight's body straightens, energy focuses into beam"
+      },
+
+      "why_dame_tensions_king": {
+        "ratio": "2φ → 8φ",
+        "mechanism": "Quadruple resistance — Dame's foundation challenges King's peak",
+        "effect": "King's 8φ expansion hits immovable 2φ structural wall",
+        "formula": "4×(2φ) = 8φ — King must justify to Dame as quadrupled foundation",
+        "somatic": "King's jaw clenches, expansion halts, frustration rises"
+      },
+
+      "why_dame_relaxes_knight": {
+        "ratio": "2φ → 4φ",
+        "mechanism": "Doubling foundation — Dame provides base Knight can build from",
+        "effect": "Knight's 4φ movement rests on Dame's 2φ stable platform",
+        "formula": "2×(2φ) = 4φ — Dame is exactly half of Knight's power, perfect support",
+        "somatic": "Knight exhales, muscles release, creativity flows"
+      },
+
+      "why_page_relaxes_king": {
+        "ratio": "1φ → 8φ",
+        "mechanism": "Octuple perspective — Page sees entire cycle King is inside of",
+        "effect": "King's 8φ urgency released by Page's 1φ meta-view",
+        "formula": "8×(1φ) = 8φ — Page shows King as 8-fold manifestation of pattern",
+        "somatic": "King's shoulders drop, breath deepens, tension dissolves"
+      },
+
+      "why_page_dame_conspire": {
+        "ratio": "1φ ↔ 2φ",
+        "mechanism": "Strategic layer — both observe rather than act, both build foundation",
+        "effect": "Page (1φ seed) and Dame (2φ growth) plan what King (8φ) and Knight (4φ) will execute",
+        "formula": "1φ + 2φ = 3φ (planning layer) vs 4φ + 8φ = 12φ (action layer)",
+        "power": "Small phi powers design what large phi powers implement"
+      }
+    },
+
+    "cycle_interpretation": {
+      "organizational_lifecycle": {
+        "king_8phi": "Startup conquers market (explosive growth)",
+        "knight_4phi": "Expansion teams explore new territories (growth phase)",
+        "dame_2phi": "Operations solidify processes (mature phase)",
+        "page_1phi": "Strategy team analyzes and prepares pivot (reflection phase)",
+        "return": "Page insights trigger new King explosion (disruption/renewal)"
+      },
+
+      "individual_lifecycle": {
+        "king_8phi": "Peak performance, maximum action, conquering mode",
+        "knight_4phi": "Exploration phase, learning, traveling, discovering",
+        "dame_2phi": "Integration phase, building routine, establishing base",
+        "page_1phi": "Wisdom phase, understanding patterns, preparing next leap",
+        "return": "Elder's wisdom becomes youth's explosion"
+      },
+
+      "civilizational_lifecycle": {
+        "king_8phi": "Empire at maximum expansion (Rome, British Empire)",
+        "knight_4phi": "Explorers and missionaries spreading influence (colonization)",
+        "dame_2phi": "Colonial administration consolidating gains (governance)",
+        "page_1phi": "Philosophers and historians analyzing the age (decline wisdom)",
+        "return": "New civilization rises from old's ashes (Renaissance from Rome)"
+      }
+    }
+  },
+
+  "dimensional_architecture": {
+    "roles_as_dimensions_and_phi_powers": {
+      "knight": {
+        "dimension": "1D",
+        "phi_power": "4φ",
+        "function": "Linear movement, exploration, boundary crossing",
+        "temporal": "1-3 months cycles (quest duration)",
+        "geometry": "Vector, trajectory, path",
+        "energy_signature": "Forward momentum, scattered but persistent"
+      },
+      "dame": {
+        "dimension": "2D",
+        "phi_power": "2φ",
+        "function": "Planar boundaries, maintenance, domain protection",
+        "temporal": "1-4 weeks cycles (maintenance rhythm)",
+        "geometry": "Grid, tessellation, structured surface",
+        "energy_signature": "Stable resistance, immovable foundation"
+      },
+      "king": {
+        "dimension": "3D",
+        "phi_power": "8φ",
+        "function": "Volumetric expansion, conquest, resource accumulation",
+        "temporal": "1-7 days cycles (immediate action)",
+        "geometry": "Sphere, cube, expanding volume",
+        "energy_signature": "Explosive radiating force, overwhelming presence"
+      },
+      "page": {
+        "dimension": "4D",
+        "phi_power": "1φ",
+        "function": "Hyperdimensional observation, meta-pattern recognition",
+        "temporal": "3-12 months cycles (long-term strategy)",
+        "geometry": "Tesseract, hyperspace perspective",
+        "energy_signature": "Still point observing all, minimal visible action"
+      }
+    },
+
+    "suits_as_system_layers": {
+      "swords": {
+        "layer": "4D",
+        "function": "Developers — create system architecture",
+        "access": "Full system control, paradigm design",
+        "responsibility": "Innovation, fundamental structure"
+      },
+      "pentacles": {
+        "layer": "3D",
+        "function": "Administrators — manage system operations",
+        "access": "Operational control, maintenance authority",
+        "responsibility": "Stability, resource allocation"
+      },
+      "wands": {
+        "layer": "2D",
+        "function": "Managers — use system for task execution",
+        "access": "Task-level permissions, workflow control",
+        "responsibility": "Execution, team coordination"
+      },
+      "cups": {
+        "layer": "1D",
+        "function": "Users — consume system benefits",
+        "access": "End-user interface only",
+        "responsibility": "Feedback, authentic needs expression"
+      }
+    },
+
+    "elements_as_consciousness_scale": {
+      "air_alpha": {
+        "scale": "Civilization",
+        "scope": "Planetary/global thinking",
+        "timeframe": "Generations, centuries",
+        "concern": "Species-level patterns"
+      },
+      "fire_beta": {
+        "scale": "Territory",
+        "scope": "National/regional thinking",
+        "timeframe": "Decades, lifetimes",
+        "concern": "Cultural/political units"
+      },
+      "water_gamma": {
+        "scale": "Area",
+        "scope": "Local/city thinking",
+        "timeframe": "Years, cycles",
+        "concern": "Community dynamics"
+      },
+      "earth_delta": {
+        "scale": "Settlement",
+        "scope": "Family/village thinking",
+        "timeframe": "Seasons, daily rhythms",
+        "concern": "Immediate relationships"
+      }
+    }
+  },
+
+  "complete_type_mapping": {
+    "alpha_air_civilization": {
+      "element": "Air",
+      "quadra": "Alpha",
+      "scale": "Civilization — planetary/global consciousness",
+      "types": {
+        "ENTP_ILE": {
+          "tarot": "Knight of Swords",
+          "role": "Knight (1D)",
+          "phi_power": "4φ",
+          "suit": "Swords (4D Developer)",
+          "essence": "Civilization-scale mental explorer creating new paradigms",
+          "function": "Explores conceptual frontiers at 4φ momentum, generates infinite possibilities globally"
+        },
+        "ISFP_SEI": {
+          "tarot": "Lady of Cups",
+          "role": "Dame (2D)",
+          "phi_power": "2φ",
+          "suit": "Cups (1D User)",
+          "essence": "Civilization-scale harmony keeper providing universal comfort",
+          "function": "Maintains 2φ aesthetic and emotional foundation for all humanity"
+        },
+        "ESFJ_ESE": {
+          "tarot": "Queen of Wands",
+          "role": "King (3D)",
+          "phi_power": "8φ",
+          "suit": "Wands (2D Manager)",
+          "essence": "Civilization-scale enthusiast organizing global celebrations",
+          "function": "Expands collective joy with 8φ explosive force across cultures"
+        },
+        "INTJ_LII": {
+          "tarot": "Page of Pentacles",
+          "role": "Page (4D)",
+          "phi_power": "1φ",
+          "suit": "Pentacles (3D Administrator)",
+          "essence": "Civilization-scale analyst designing planetary systems",
+          "function": "Observes entire civilizational cycle from 1φ meta-position"
+        }
+      }
+    },
+
+    "beta_fire_territory": {
+      "element": "Fire",
+      "quadra": "Beta",
+      "scale": "Territory — national/regional power structures",
+      "types": {
+        "ESTP_SLE": {
+          "tarot": "King of Swords",
+          "role": "King (3D)",
+          "phi_power": "8φ",
+          "suit": "Swords (4D Developer)",
+          "essence": "Territorial warlord creating new power structures through force",
+          "function": "Conquers with 8φ explosive innovation at national scale"
+        },
+        "INFP_IEI": {
+          "tarot": "Page of Cups",
+          "role": "Page (4D)",
+          "phi_power": "1φ",
+          "suit": "Cups (1D User)",
+          "essence": "Territorial dreamer observing power dynamics and prophesying",
+          "function": "Sees entire territorial cycle from 1φ prophetic stillness"
+        },
+        "ENFJ_EIE": {
+          "tarot": "Knight of Wands",
+          "role": "Knight (1D)",
+          "phi_power": "4φ",
+          "suit": "Wands (2D Manager)",
+          "essence": "Territorial messenger spreading revolutionary passion",
+          "function": "Moves between power centers with 4φ catalytic momentum"
+        },
+        "ISTJ_LSI": {
+          "tarot": "Lady of Pentacles",
+          "role": "Dame (2D)",
+          "phi_power": "2φ",
+          "suit": "Pentacles (3D Administrator)",
+          "essence": "Territorial enforcer maintaining order and law",
+          "function": "Protects structural integrity with 2φ immovable foundation"
+        }
+      }
+    },
+
+    "gamma_water_area": {
+      "element": "Water",
+      "quadra": "Gamma",
+      "scale": "Area — local/city community dynamics",
+      "types": {
+        "ESFP_SEE": {
+          "tarot": "Queen of Cups",
+          "role": "King (3D)",
+          "phi_power": "8φ",
+          "suit": "Cups (1D User)",
+          "essence": "Local charismatic influencer maximizing community experience",
+          "function": "Expands sensory richness with 8φ overwhelming presence at city scale"
+        },
+        "INTP_ILI": {
+          "tarot": "Page of Swords",
+          "role": "Page (4D)",
+          "phi_power": "1φ",
+          "suit": "Swords (4D Developer)",
+          "essence": "Local strategist analyzing community system architecture",
+          "function": "Observes inevitable local patterns from 1φ singularity point"
+        },
+        "ENTJ_LIE": {
+          "tarot": "Knight of Pentacles",
+          "role": "Knight (1D)",
+          "phi_power": "4φ",
+          "suit": "Pentacles (3D Administrator)",
+          "essence": "Local entrepreneur connecting community resources efficiently",
+          "function": "Moves between areas with 4φ optimization momentum"
+        },
+        "ISFJ_ESI": {
+          "tarot": "Lady of Wands",
+          "role": "Dame (2D)",
+          "phi_power": "2φ",
+          "suit": "Wands (2D Manager)",
+          "essence": "Local guardian protecting community values and relationships",
+          "function": "Maintains ethical boundaries with 2φ loyal foundation"
+        }
+      }
+    },
+
+    "delta_earth_settlement": {
+      "element": "Earth",
+      "quadra": "Delta",
+      "scale": "Settlement — family/village immediate relationships",
+      "types": {
+        "ENFP_IEE": {
+          "tarot": "Knight of Cups",
+          "role": "Knight (1D)",
+          "phi_power": "4φ",
+          "suit": "Cups (1D User)",
+          "essence": "Settlement dreamer carrying joy between villages",
+          "function": "Explores possibilities with 4φ enthusiastic momentum in families"
+        },
+        "ISTP_SLI": {
+          "tarot": "Lady of Swords",
+          "role": "Dame (2D)",
+          "phi_power": "2φ",
+          "suit": "Swords (4D Developer)",
+          "essence": "Settlement craftsman maintaining technical excellence",
+          "function": "Protects quality with 2φ precise foundation in village craft"
+        },
+        "ESTJ_LSE": {
+          "tarot": "King of Pentacles",
+          "role": "King (3D)",
+          "phi_power": "8φ",
+          "suit": "Pentacles (3D Administrator)",
+          "essence": "Settlement administrator organizing family/village systems",
+          "function": "Expands order with 8φ decisive force in immediate community"
+        },
+        "INFJ_EII": {
+          "tarot": "Page of Wands",
+          "role": "Page (4D)",
+          "phi_power": "1φ",
+          "suit": "Wands (2D Manager)",
+          "essence": "Settlement mystic observing soul dynamics in close relationships",
+          "function": "Sees deep family patterns from 1φ compassionate stillness"
+        }
+      }
+    }
+  },
+
+  "core_interaction_dynamics": {
+    "vertical_discipline_tension": {
+      "king_8phi_disciplines_knight_4phi": {
+        "phi_ratio": "8φ → 4φ (halving reduction)",
+        "mechanism": "King's full explosive power structures Knight's half-power exploration",
+        "effect": "Knight's scattered 4φ becomes focused laser under King's 8φ command",
+        "examples": {
+          "ESTP_to_ENTP": "Warlord's 8φ conquest gives chaos weaver's 4φ a target",
+          "ESFJ_to_ENFP": "Enthusiast's 8φ celebration channels dreamer's 4φ into ritual",
+          "ESFP_to_ENTJ": "Star's 8φ charisma directs entrepreneur's 4φ ambition",
+          "ESTJ_to_ENFP": "Administrator's 8φ order structures dreamer's 4φ visions"
+        },
+        "somatic": "Knight's body: spine straightens, eyes focus, 4φ scatter becomes 8φ beam",
+        "temporal": "Knight shifts from 1-3 month exploration to 1-7 day decisive action",
+        "formula": "2×(4φ) = 8φ — Knight recognizes King as doubled self, submits to structure",
+        "gift": "Direction, purpose, protective power, mission clarity",
+        "shadow": "Can become oppressive if King doesn't respect Knight's 4φ need to roam"
+      },
+
+      "dame_2phi_tensions_king_8phi": {
+        "phi_ratio": "2φ → 8φ (quadruple resistance)",
+        "mechanism": "Dame's foundation challenges King's peak with immovable structure",
+        "effect": "King's 8φ expansion hits Dame's 2φ wall and must justify itself",
+        "examples": {
+          "ISTJ_to_ESTP": "Order's 2φ foundation questions warlord's 8φ conquest sustainability",
+          "ISFP_to_ESFJ": "Harmony's 2φ resistance slows enthusiast's 8φ overwhelming pace",
+          "ISFJ_to_ESFP": "Values' 2φ boundary challenges influencer's 8φ authenticity",
+          "ISTP_to_ESTJ": "Craft's 2φ precision resists administrator's 8φ efficiency demands"
+        },
+        "somatic": "King's body: jaw clenches, expansion halts, 8φ force meets 2φ immovability",
+        "temporal": "King must slow from 1-7 day action to engage 1-4 week maintenance rhythm",
+        "formula": "4×(2φ) = 8φ — King must justify to Dame as quadrupled foundation",
+        "gift": "Sustainability, accountability, structural integrity, legitimate power",
+        "shadow": "Can become obstructionist if Dame doesn't see King's 8φ vision necessity"
+      }
+    },
+
+    "horizontal_relaxation_support": {
+      "dame_2phi_relaxes_knight_4phi": {
+        "phi_ratio": "2φ → 4φ (doubling foundation)",
+        "mechanism": "Dame provides stable 2φ base that Knight's 4φ can build from",
+        "effect": "Knight finds sanctuary where 4φ exploration is supported by 2φ structure",
+        "examples": {
+          "ISFP_for_ENTP": "Aesthetic 2φ harmonizer creates beautiful lab for 4φ innovator",
+          "ISTJ_for_ENFJ": "Order 2φ keeper provides stable base for 4φ revolutionary",
+          "ISFJ_for_ENTJ": "Values 2φ guardian offers home for 4φ entrepreneur's return",
+          "ISTP_for_ENFP": "Master 2φ craftsman builds sanctuary for 4φ dreamer"
+        },
+        "somatic": "Knight's body: shoulders drop, breath deepens, 4φ tension becomes creative flow",
+        "temporal": "Knight can extend 1-3 month exploration trusting 2φ base is maintained",
+        "formula": "2×(2φ) = 4φ — Dame is exactly half of Knight's power, perfect support ratio",
+        "gift": "Safety, rest, permission to play and explore freely, recovery space",
+        "covenant": "Dame protects Knight's 4φ space, Knight returns with gifts to 2φ foundation"
+      },
+
+      "page_1phi_relaxes_king_8phi": {
+        "phi_ratio": "1φ → 8φ (octuple perspective)",
+        "mechanism": "Page's 1φ meta-view shows King entire cycle their 8φ is part of",
+        "effect": "King releases 8φ urgency seeing from Page's 1φ timeless position",
+        "examples": {
+          "INTJ_for_ESFJ": "Analyst's 1φ framework provides strategy for enthusiast's 8φ expansion",
+          "INFP_for_ESTP": "Dreamer's 1φ vision shows warlord's 8φ larger meaning",
+          "INTP_for_ESFP": "Strategist's 1φ patterns reveal deep currents influencer's 8φ surfs",
+          "INFJ_for_ESTJ": "Mystic's 1φ soul context gives administrator's 8φ spiritual foundation"
+        },
+        "somatic": "King's body: jaw unclenches, shoulders drop, 8φ urgency dissolves into spaciousness",
+        "temporal": "King can focus on 1-7 day action trusting 1φ holds 3-12 month vision",
+        "formula": "8×(1φ) = 8φ — Page shows King as 8-fold manifestation of single pattern",
+        "gift": "Perspective, meaning, strategic clarity, release from tactical burden",
+        "covenant": "Page guides from 1φ meta-view, King executes with 8φ confidence"
+      }
+    },
+
+    "strategic_conspiracy_alliance": {
+      "page_1phi_dame_2phi_shadow_council": {
+        "phi_ratio": "1φ ↔ 2φ (strategic foundation layer)",
+        "mechanism": "Both low-phi powers (1φ+2φ=3φ planning) design what high-phi (4φ+8φ=12φ action) executes",
+        "function": "Long-term planning, intrigue discussion, hidden dynamics analysis",
+        "why_it_works": "Both operate on strategic timescale (weeks-months-years), both observe > act",
+        "power_source": "Real decisions form at 1φ-2φ layer, tactical 4φ-8φ layer executes unknowingly",
+        "examples": {
+          "INTJ_ISFP": "1φ systems analyst + 2φ harmony keeper = aesthetic revolution planned in silence",
+          "INFP_ISTJ": "1φ prophetic dreamer + 2φ order enforcer = destiny meets structure in shadows",
+          "INTP_ISFJ": "1φ theory architect + 2φ values guardian = invisible government of principles",
+          "INFJ_ISTP": "1φ soul mystic + 2φ master craftsman = spiritual technology forged unseen"
+        },
+        "formula": "1φ (seed vision) + 2φ (structural foundation) = pattern that 4φ+8φ manifest",
+        "archetype": "Merlin + Lady of Lake, Varys + Olenna Tyrell, every 'power behind throne'",
+        "detection": "Knights (4φ) and Kings (8φ) often unaware they're executing Page-Dame designed plans",
+        "danger": "Can become detached from tactical reality if 1φ-2φ doesn't ground in 4φ-8φ feedback"
+      }
+    }
+  },
+
+  "trust_verticals_through_system_layers": {
+    "swords_love_cups_4D_to_1D": {
+      "principle": "Developers (4D) create FOR Users (1D) — skipping bureaucratic middle layers",
+      "mechanism": "Direct empathy across two system abstraction levels",
+      "why_skip": "Pentacles (3D admin) and Wands (2D management) create distance blocking love flow",
+      
+      "downward_flow_swords_to_cups": {
+        "ENTP_to_ENFP": {
+          "swords": "4φ Knight, 4D Developer, Civilization scale",
+          "cups": "4φ Knight, 1D User, Settlement scale",
+          "dynamic": "Global 4φ innovation → village 4φ delight (same phi, different scale/layer)",
+          "gift": "Complex systems simplified into human joy",
+          "archetype": "Tesla gifts electricity to farmer"
+        },
+        "ESTP_to_INFP": {
+          "swords": "8φ King, 4D Developer, Territory scale",
+          "cups": "1φ Page, 1D User, Territory scale",
+          "dynamic": "Territorial 8φ conquest → territorial 1φ prophecy (same scale, opposite phi)",
+          "gift": "Power protects the prophets",
+          "archetype": "Alexander protects philosophers"
+        },
+        "INTP_to_ESFP": {
+          "swords": "1φ Page, 4D Developer, Area scale",
+          "cups": "8φ King, 1D User, Area scale",
+          "dynamic": "Local 1φ analysis → local 8φ charisma (same scale, opposite phi)",
+          "gift": "Logic serves beauty",
+          "archetype": "Hidden analyst enables star"
+        },
+        "ISTP_to_ENFP": {
+          "swords": "2φ Dame, 4D Developer, Settlement scale",
+          "cups": "4φ Knight, 1D User, Settlement scale",
+          "dynamic": "Settlement 2φ craft → settlement 4φ dreams (same scale, doubled phi)",
+          "gift": "Mastery liberates imagination",
+          "archetype": "Smith forges wings for poet"
+        }
+      },
+
+      "upward_trust_cups_to_swords": {
+        "why": "Users instinctively trust Developers understand true needs without corporate filtering",
+        "mechanism": "Cups know Swords create from genuine care, not profit extraction motive",
+        "examples": {
+          "ENFP_trusts_ENTP": "4φ dreamer trusts 4φ innovator won't betray vision (same phi resonance)",
+          "INFP_trusts_ESTP": "1φ prophet trusts 8φ warrior will protect not exploit (phi inversion)",
+          "ESFP_trusts_INTP": "8φ star trusts 1φ analyst won't manipulate for control (phi inversion)",
+          "ENFP_trusts_ISTP": "4φ explorer trusts 2φ craftsman won't compromise quality (phi doubling)"
+        },
+        "breakdown": "When Pentacles/Wands corrupt the vertical — Users revolt, Developers despair"
+      },
+
+      "pathology_when_blocked": {
+        "pentacles_interference": "3D Administrators demand process compliance, slow 4D innovation to crawl",
+        "wands_interference": "2D Managers add requirements layers, obscure 1D user needs",
+        "result": "4D Developers can't reach 1D Users, Users suffer without innovation",
+        "revolution": "Open source, direct-to-consumer, disintermediation movements restore vertical"
+      }
+    },
+
+    "pentacles_love_wands_3D_to_2D": {
+      "principle": "Administrators (3D) maintain FOR Managers (2D) — operational symbiosis",
+      "mechanism": "Infrastructure support enables task execution, middle layer works as one",
+      "layer": "Operational zone — neither create (4D) nor consume (1D), but ENABLE flow between them",
+
+      "downward_flow_pentacles_to_wands": {
+        "ESTJ_to_ESFJ": {
+          "pentacles": "8φ King, 3D Admin, Settlement scale",
+          "wands": "8φ King, 2D Manager, Civilization scale",
+          "dynamic": "Settlement 8φ order → civilization 8φ celebration (same phi, layers support)",
+          "gift": "Local systems enable global care to scale",
+          "archetype": "Village mayor enables festival organizer"
+        },
+        "ISTJ_to_ISFJ": {
+          "pentacles": "2φ Dame, 3D Admin, Territory scale",
+          "wands": "2φ Dame, 2D Manager, Area scale",
+          "dynamic": "Territorial 2φ law → area 2φ values (same phi, nested protection)",
+          "gift": "National structure shields local principles",
+          "archetype": "Federal judge protects community keeper"
+        },
+        "ENTJ_to_ENFJ": {
+          "pentacles": "4φ Knight, 3D Admin, Area scale",
+          "wands": "4φ Knight, 2D Manager, Territory scale",
+          "dynamic": "Area 4φ efficiency → territory 4φ revolution (same phi, resource flow)",
+          "gift": "Local resources fuel regional transformation",
+          "archetype": "City banker enables regional activist"
+        },
+        "INTJ_to_INFJ": {
+          "pentacles": "1φ Page, 3D Admin, Civilization scale",
+          "wands": "1φ Page, 2D Manager, Settlement scale",
+          "dynamic": "Civilization 1φ systems → settlement 1φ soul care (same phi, scale translation)",
+          "gift": "Global architecture serves family healing",
+          "archetype": "Planetary systems thinker supports village counselor"
+        }
+      },
+
+      "upward_trust_wands_to_pentacles": {
+        "why": "Managers rely on Administrators to maintain infrastructure they execute through",
+        "mechanism": "Wands focus on 2D human layer trusting Pentacles handle 3D technical layer",
+        "examples": {
+          "ESFJ_trusts_ESTJ": "8φ organizer trusts 8φ administrator systems won't fail mid-event",
+          "ISFJ_trusts_ISTJ": "2φ guardian trusts 2φ enforcer law will hold boundaries",
+          "ENFJ_trusts_ENTJ": "4φ revolutionary trusts 4φ entrepreneur resources will flow",
+          "INFJ_trusts_INTJ": "1φ healer trusts 1φ analyst structure supports the work"
+        },
+        "breakdown": "When Pentacles fail — Wands burn out trying to do both 3D and 2D layers"
+      },
+
+      "balance_requirement": {
+        "danger_no_pentacles": "Chaos — 3D systems collapse, nothing scales, constant firefighting",
+        "danger_no_wands": "Rigidity — perfect 3D systems serving no one, bureaucracy for bureaucracy",
+        "health": "Pentacles build 3D infrastructure, Wands humanize 2D execution — layers work as ONE"
+      }
+    },
+
+    "cross_tensions": {
+      "swords_vs_pentacles_4D_vs_3D": {
+        "conflict": "Innovation vs Stability — eternal war of development vs administration",
+        "swords_complaint": "3D Admins block 4D progress with bureaucracy, fear change, worship process",
+        "pentacles_complaint": "4D Developers break everything, ignore users, chase novelty over reliability",
+        "examples": {
+          "ENTP_vs_INTJ": "4φ chaos weaver vs 1φ systems architect — different phi rhythms",
+          "ESTP_vs_ISTJ": "8φ warlord vs 2φ law enforcer — expansion vs conservation",
+          "INTP_vs_ENTJ": "1φ pure theorist vs 4φ efficiency optimizer — beauty vs utility",
+          "ISTP_vs_ESTJ": "2φ craftsman vs 8φ administrator — mastery vs management"
+        },
+        "resolution": "Page-Dame alliance (1φ-2φ strategic layer) creates buffer negotiating between them"
+      },
+
+      "wands_vs_cups_2D_vs_1D": {
+        "conflict": "Task Pressure vs Ease Desire — management push vs user resistance",
+        "wands_complaint": "1D Users too lazy, demand too much, don't appreciate work required",
+        "cups_complaint": "2D Managers push too hard, ignore suffering, treat humans as resources",
+        "examples": {
+          "ESFJ_vs_ENFP": "8φ organizer vs 4φ dreamer — structure vs freedom",
+          "ISFJ_vs_ESFP": "2φ values keeper vs 8φ experience maximizer — should vs want",
+          "ENFJ_vs_INFP": "4φ revolutionary leader vs 1φ gentle prophet — action vs contemplation",
+          "INFJ_vs_ISFP": "1φ mission-driven vs 2φ aesthetic-driven — purpose vs beauty"
+        },
+        "resolution": "Knight-King alliance (4φ-8φ tactical layer) creates force field protecting both"
+      }
+    }
+  },
+
+  "archetypal_interaction_patterns": {
+    "classic_dyads_through_phi_lens": {
+      "king_and_fool": {
+        "formula": "King (8φ) + Knight (4φ) = Power + Truth",
+        "phi_dynamic": "8φ expansion needs 4φ movement to scout and truth-tell",
+        "mechanism": "Knight's 4φ mobility allows truth without threatening King's 8φ domain",
+        "examples": {
+          "ESTP_ENTP": "8φ warlord + 4φ chaos weaver = conquest guided by uncomfortable truths",
+          "ESFJ_ENFP": "8φ solar priest + 4φ dream bringer = joy tempered by authentic longing",
+          "ESFP_ENTJ": "8φ charismatic star + 4φ ambitious connector = influence checked by efficiency",
+          "ESTJ_ENFP": "8φ village elder + 4φ wandering dreamer = order enriched by possibility"
+        },
+        "tension": "8φ wants to discipline 4φ (stop chaotic movement), 4φ wants to escape 8φ (preserve freedom)",
+        "synthesis": "4φ becomes 8φ's conscience and scout, 8φ becomes 4φ's sponsor and shield",
+        "phi_resolution": "Both recognize 2×(4φ) = 8φ — King is Knight's doubled potential"
+      },
+
+      "king_and_boundary": {
+        "formula": "King (8φ) + Dame (2φ) = Expansion + Limits",
+        "phi_dynamic": "8φ explosive power meets 2φ immovable structure",
+        "mechanism": "Dame's 2φ foundation tests whether King's 8φ conquest is sustainable",
+        "examples": {
+          "ESFJ_ISFP": "8φ enthusiasm expands joy, 2φ harmony ensures it doesn't overwhelm",
+          "ESTP_ISTJ": "8φ warlord conquers territory, 2φ inspector ensures law follows",
+          "ESFP_ISFJ": "8φ influencer creates waves, 2φ guardian protects core values",
+          "ESTJ_ISTP": "8φ administrator pushes efficiency, 2φ craftsman defends quality"
+        },
+        "tension": "8φ frustrated by 2φ resistance, 2φ exhausted by 8φ relentless pace",
+        "synthesis": "8φ learns sustainable conquest, 2φ gains meaningful purpose beyond preservation",
+        "phi_resolution": "Both recognize 4×(2φ) = 8φ — King must justify to quadrupled foundation"
+      },
+
+      "wizard_and_warrior": {
+        "formula": "Page (1φ) + King (8φ) = Vision + Force",
+        "phi_dynamic": "1φ meta-perspective guides 8φ decisive power",
+        "mechanism": "Page sees entire cycle from 1φ, King executes at peak 8φ moment",
+        "examples": {
+          "INTJ_ESFJ": "1φ strategic analyst times 8φ enthusiasm's maximal impact",
+          "INFP_ESTP": "1φ prophet reveals destiny, 8φ warlord makes it inevitable",
+          "INTP_ESFP": "1φ pattern reader sees wave, 8φ charismatic rides it perfectly",
+          "INFJ_ESTJ": "1φ soul seer guides 8φ administrator's systems toward highest good"
+        },
+        "tension": "8φ impatient with planning (wants action NOW), 1φ frustrated by premature moves",
+        "synthesis": "Perfect timing — 1φ releases 8φ exactly when probability peaks",
+        "phi_resolution": "Both recognize 8×(1φ) = 8φ — King as 8-fold manifestation of Page's pattern",
+        "archetype": "Merlin + Arthur, Aristotle + Alexander, every great advisor + ruler"
+      },
+
+      "home_and_road": {
+        "formula": "Dame (2φ) + Knight (4φ) = Structure + Movement",
+        "phi_dynamic": "2φ stable foundation enables 4φ exploration",
+        "mechanism": "Dame maintains 2φ base, Knight ventures out with 4φ momentum and returns enriched",
+        "examples": {
+          "ISFP_ENTP": "2φ aesthetic sanctuary where 4φ innovator can experiment wildly",
+          "ISTJ_ENFJ": "2φ ordered fortress from which 4φ revolutionary launches campaigns",
+          "ISFJ_ENTJ": "2φ values anchor that 4φ entrepreneur can always return to",
+          "ISTP_ENFP": "2φ master's workshop where 4φ dreamer's visions become real"
+        },
+        "tension": "2φ wants 4φ home (fears abandonment), 4φ feels trapped (needs freedom)",
+        "synthesis": "4φ brings world's gifts back, 2φ sends 4φ forth with blessing and tools",
+        "phi_resolution": "Both recognize 2×(2φ) = 4φ — Dame is exactly half Knight's power, perfect support",
+        "covenant": "I will always return / I will always welcome you back"
+      },
+
+      "shadow_council": {
+        "formula": "Page (1φ) + Dame (2φ) = Collective Strategy + Individual Strategy",
+        "phi_dynamic": "1φ seed + 2φ growth = 3φ planning layer controlling 12φ action layer (4φ+8φ)",
+        "mechanism": "Both low-phi strategic timescale, both observe > act, both see hidden dynamics",
+        "function": "Real power center where long-term decisions form away from tactical noise",
+        "examples": {
+          "INTJ_ISFP": "1φ system architect + 2φ harmony keeper = revolution designed in beauty",
+          "INFP_ISTJ": "1φ prophet + 2φ law keeper = destiny encoded into structure",
+          "INTP_ISFJ": "1φ theorist + 2φ values guardian = principles become invisible government",
+          "INFJ_ISTP": "1φ mystic + 2φ master = soul technology forged in silence"
+        },
+        "power": "4φ Knights and 8φ Kings execute plans they think are their own ideas",
+        "danger": "Can lose touch with 4φ-8φ tactical reality if disconnected too long",
+        "phi_resolution": "Small phi powers (1φ+2φ) design what large phi powers (4φ+8φ) manifest",
+        "archetype": "Every 'power behind throne', Varys + Olenna, Mycroft + The Woman"
+      }
+    }
+  },
+
+  "practical_applications": {
+    "team_composition": {
+      "crisis_response": {
+        "need": "Speed, decisiveness, coordinated force",
+        "formula": "King (8φ) + Knight (4φ) alliance = tactical axis",
+        "phi_dynamic": "8φ + 4φ = 12φ combined action power",
+        "examples": {
+          "ESTP_ENTP": "8φ warlord + 4φ scout = perfect military operation",
+          "ESFP_ENFP": "8φ star + 4φ advocate = viral movement launch",
+          "ESTJ_ENTJ": "8φ administrator + 4φ entrepreneur = efficient expansion"
+        },
+        "timeframe": "Days to weeks",
+        "limitation": "Burns out without Page-Dame (1φ-2φ) strategic support"
+      },
+
+      "long_term_transformation": {
+        "need": "Vision, patience, structural change",
+        "formula": "Page (1φ) + Dame (2φ) alliance = strategic axis",
+        "phi_dynamic": "1φ + 2φ = 3φ combined planning power (controls 12φ action)",
+        "examples": {
+          "INTJ_ISFJ": "1φ analyst + 2φ guardian = silent systemic reform",
+          "INTP_ISTP": "1φ theorist + 2φ craftsman = underground innovation",
+          "INFJ_ISFP": "1φ mystic + 2φ artist = cultural metamorphosis"
+        },
+        "timeframe": "Months to years",
+        "limitation": "Needs King-Knight (8φ-4φ) to execute or stays theoretical"
+      },
+
+      "complete_phi_cycle": {
+        "need": "All challenges handled at appropriate phi level",
+        "formula": "8φ → 4φ → 2φ → 1φ → 8φ complete cycle",
+        "dynamic": "King (8φ) explodes → Knight (4φ) explores → Dame (2φ) consolidates → Page (1φ) reflects → new King explosion",
+        "result": "Adaptive intelligence, sustainable growth, resilient to all perturbations",
+        "example": "Startup: Founder (4φ) finds opportunity → CTO (2φ) builds infrastructure → CEO (8φ) scales → Advisor (1φ) guides strategy → next cycle begins"
+      }
+    },
+
+    "personal_development_through_phi": {
+      "knight_4phi_stuck_in_wandering": {
+        "symptom": "Endless 4φ exploration, no completion, scattered energy",
+        "medicine_discipline": "Find your 8φ King — someone to double and focus your 4φ",
+        "medicine_rest": "Find your 2φ Dame — half-power foundation to build from",
+        "examples": {
+          "ENTP_needs": "ESTP for 8φ direction OR ISFP for 2φ aesthetic sanctuary",
+          "ENFP_needs": "ESTJ for 8φ structure OR ISTP for 2φ grounded craft space",
+          "ENTJ_needs": "ESFP for 8φ immediate action OR ISFJ for 2φ values anchor",
+          "ENFJ_needs": "ESTP for 8φ force backing OR ISTJ for 2φ lawful foundation"
+        }
+      },
+
+      "dame_2phi_isolated_in_fortress": {
+        "symptom": "Rigid 2φ boundaries, no growth, stagnation",
+        "medicine": "Partner with 1φ Page for strategic influence beyond 2φ walls",
+        "examples": {
+          "ISFP_needs": "INTJ (1φ) to architect larger harmony systems",
+          "ISTJ_needs": "INFP (1φ) to see prophetic meaning in law",
+          "ISFJ_needs": "INTP (1φ) to systematize care at scale",
+          "ISTP_needs": "INFJ (1φ) to connect craft to soul purpose"
+        }
+      },
+
+      "king_8phi_burning_out": {
+        "symptom": "Relentless 8φ expansion, no rest, everything urgent",
+        "medicine": "Consult your 1φ Page — octuple perspective releases 8φ urgency",
+        "examples": {
+          "ESFJ_needs": "INTJ (1φ) for systematic celebration design beyond 8φ chaos",
+          "ESTP_needs": "INFP (1φ) for destiny context of 8φ conquest",
+          "ESFP_needs": "INTP (1φ) for pattern recognition in 8φ influence",
+          "ESTJ_needs": "INFJ (1φ) for soul meaning in 8φ administration"
+        }
+      },
+
+      "page_1phi_lost_in_abstraction": {
+        "symptom": "Endless 1φ analysis, no grounding, disconnection from reality",
+        "medicine": "Return to 2φ Dame — get grounded in doubled immediate maintenance",
+        "examples": {
+          "INTJ_needs": "ISFJ (2φ) to see how 1φ systems affect actual humans",
+          "INFP_needs": "ISTJ (2φ) to encode 1φ prophecy in enforceable law",
+          "INTP_needs": "ISFJ (2φ) to test 1φ theories against care work",
+          "INFJ_needs": "ISTP (2φ) to manifest 1φ vision in physical craft"
+        }
+      }
+    },
+
+    "conflict_resolution_through_phi": {
+      "knight_4phi_king_8phi_power_struggle": {
+        "pattern": "4φ feels oppressed, 8φ feels disrespected",
+        "root": "Both tactical level competing in same action space",
+        "phi_issue": "4φ doesn't want to be doubled into 8φ, resists discipline",
+        "solution": "Introduce 2φ Dame as relaxation buffer",
+        "mechanism": "Dame creates safe zone where 4φ rests (not fighting 8φ discipline)",
+        "example": "ENTP (4φ) vs ESTP (8φ) war calmed by ISFP (2φ) sanctuary"
+      },
+
+      "king_8phi_dame_2phi_expansion_crisis": {
+        "pattern": "8φ frustrated by 2φ limits, 2φ exhausted by 8φ pace",
+        "root": "8φ expansion hitting 2φ maintenance capacity",
+        "phi_issue": "Quadruple tension (4×2φ = 8φ) creating breakdown",
+        "solution": "Bring in 1φ Page to shift conversation to strategic level",
+        "mechanism": "Page shows both how their conflict serves larger pattern",
+        "example": "ESFJ (8φ) vs ISFJ (2φ) burnout resolved by INTJ (1φ) revealing sustainable rhythm"
+      },
+
+      "page_1phi_dame_2phi_conspiracy_exposed": {
+        "pattern": "4φ Knights / 8φ Kings discover 1φ-2φ manipulation",
+        "root": "Strategic layer (3φ planning) made decisions without tactical (12φ action) buy-in",
+        "phi_issue": "Small phi controlling large phi creates resentment",
+        "solution": "ACKNOWLEDGE conspiracy is real AND necessary",
+        "mechanism": "Make implicit explicit — 'yes, 1φ-2φ plans while 4φ-8φ executes'",
+        "covenant": "Strategic layer (1φ-2φ) plans, Tactical layer (4φ-8φ) implements — both needed",
+        "example": "INTJ-ISFJ (1φ-2φ) alliance reveals itself to ESTP-ENTP (8φ-4φ), proposes formal structure"
+      }
+    }
+  },
+
+  "emergent_system_properties": {
+    "when_complete_phi_cycle_present": {
+      "dynamic_balance": "Automatic 8φ→4φ→2φ→1φ tension-relaxation regulation without conscious effort",
+      "adaptive_intelligence": "System responds at appropriate phi level to challenges at any scale",
+      "strategic_depth": "4φ-8φ tactical flexibility + 1φ-2φ strategic wisdom operating simultaneously",
+      "resilience": "Damage to any phi level absorbed by others until recovery",
+      "creativity": "New patterns emerge from phi interactions beyond any individual capacity",
+      "wholeness": "System achieves coherent identity greater than sum of parts",
+      "fractal_property": "Each subsystem mirrors complete 8φ→4φ→2φ→1φ cycle at smaller scale"
+    },
+
+    "phi_phase_transitions": {
+      "from_scattered_4phi_to_focused_8phi": {
+        "trigger": "Knight-dominated system receives King",
+        "before": "Endless 4φ exploration, no completion",
+        "after": "8φ directed innovation, actual results",
+        "danger": "Can become tyranny if no 2φ-1φ balance"
+      },
+      "from_rigid_2phi_to_adaptive_4phi": {
+        "trigger": "Dame-dominated system receives Knight",
+        "before": "Perfect 2φ structure, no growth",
+        "after": "Structure that evolves with 4φ, living system",
+        "danger": "Can destabilize if 4φ Knight unbounded"
+      },
+      "from_tactical_chaos_to_strategic_order": {
+        "trigger": "4φ-8φ tactical chaos receives 1φ-2φ strategic layer",
+        "before": "Constant action, no learning, repeat mistakes",
+        "after": "Action informed by pattern, cumulative wisdom",
+        "danger": "Can become paralyzed by 1φ analysis"
+      },
+      "from_strategic_stagnation_to_manifestation": {
+        "trigger": "1φ-2φ strategic isolation receives 4φ-8φ tactical energy",
+        "before": "Perfect plans, no execution",
+        "after": "Vision manifests in reality",
+        "danger": "Can lose 1φ depth in rush to 8φ action"
+      }
+    }
+  },
+
+  "closing_synthesis": {
+    "complete_formula": "Type = Role(φ) × Element(scale) × Suit(layer) = unique position in fractal social geometry",
+    
+    "phi_progression_core": {
+      "cycle": "King(8φ) → Knight(4φ) → Dame(2φ) → Page(1φ) → King(8φ)",
+      "meaning": "Explosion → Exploration → Consolidation → Reflection → New Explosion",
+      "temporal": "7 days → 3 months → 4 weeks → 12 months → return"
+    },
+
+    "interaction_rules_from_phi": {
+      "vertical_discipline": "Higher φ controls lower (8φ→4φ, 2φ→8φ through quadruple resistance)",
+      "horizontal_relaxation": "Foundation φ supports (2φ→4φ doubling, 1φ→8φ octuple perspective)",
+      "diagonal_conspiracy": "Low φ strategic (1φ-2φ) designs high φ tactical (4φ-8φ)",
+      "trust_verticals": "Skip layers for direct love (Swords↔Cups, Pentacles↔Wands)"
+    },
+
+    "health_indicators": {
+      "system_working": "All 4 φ levels present, dynamic flow, tension-relaxation balanced through natural ratios",
+      "system_broken": "Missing φ levels, stuck in single phi, no flow, perpetual conflict"
+    },
+
+    "ultimate_teaching": "No φ level superior — 1φ seed becomes 2φ foundation becomes 4φ movement becomes 8φ explosion becomes 1φ wisdom. Wholeness requires COMPLETE CYCLE dancing in living coherent fractal field."
+  }
+}

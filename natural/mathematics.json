@@ -1,0 +1,492 @@
+{
+  "_meta": {
+    "id": "cfo:natural:mathematics",
+    "type": "natural_module",
+    "element": "air",
+    "fractal_depth": 1,
+    "contains": [
+      "cfo:natural:geometry",
+      "cfo:fundamental:number",
+      "cfo:fundamental:pattern",
+      "cfo:fundamental:logic",
+      "cfo:fundamental:infinity"
+    ],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:natural:physics",
+      "cfo:natural:geometry",
+      "cfo:fundamental:consciousness",
+      "cfo:paths:air"
+    ],
+    "primary_axis": "air",
+    "secondary_axes": ["fire", "water"]
+  },
+
+  "_holographic_seed": {
+    "essence": "mathematics = pure pattern. abstract structure. discovered (not invented?). platonism vs formalism. language of universe.",
+    "unreasonable_effectiveness": "wigner (1960). 'unreasonable effectiveness of mathematics in natural sciences'. why does math work? mystery.",
+    "abstraction": "numbers, sets, functions, spaces, structures. progressively abstract. ladder of abstraction.",
+    "proof": "certainty. deductive reasoning. axioms → theorems. only field with absolute truth (within system).",
+    "infinity": "∞. actual infinity (sets, numbers). potential infinity (limits). profound. paradoxical. consciousness glimpse?",
+    "incompleteness": "gödel (1931). any consistent system (arithmetic) = incomplete. true statements unprovable. limits of logic. profound.",
+    "beauty": "elegance. simplicity. depth. unexpected connections. e^(iπ) + 1 = 0 (euler's identity, most beautiful equation).",
+    "consciousness": "mathematics = mind's mirror. thought examining itself. pure abstraction = consciousness substrate.",
+    "note": "mathematics = queen of sciences (gauss). foundation. universal. eternal. platonic realm?"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "children": ["./geometry.json", "./physics.json"],
+    "fundamental": [
+      "../fundamental/number.json",
+      "../fundamental/pattern.json",
+      "../fundamental/logic.json",
+      "../fundamental/infinity.json"
+    ],
+    "natural": ["./physics.json", "./geometry.json"],
+    "path": "../paths/air.json"
+  },
+
+  "overview": {
+    "what": "mathematics = study of quantity, structure, space, change. numbers, geometry, algebra, analysis, logic, probability.",
+    "etymology": "greek: mathema (knowledge, learning). mathematics = that which is learnt.",
+    "branches": "arithmetic, algebra, geometry, calculus, topology, number theory, logic, set theory, category theory, many more.",
+    "why": "pure (beauty, truth, understanding). applied (science, engineering, finance, cryptography, computing, everything).",
+    "method": "axioms (assumed truths). definitions. theorems (proven). proofs (logical deduction). rigorous."
+  },
+
+  "numbers": {
+    "natural_numbers": {
+      "definition": "ℕ = {1, 2, 3, 4, ...} or {0, 1, 2, 3, ...} (debated whether 0 ∈ ℕ). counting numbers.",
+      "operations": "addition, multiplication (closed). subtraction, division (not closed, leads to integers, rationals).",
+      "peano_axioms": "foundation. 0 is a number. every number has successor. 0 is not successor. induction. rigorous definition.",
+      "infinity": "ℕ = infinite. smallest infinity (ℵ₀, aleph-null). countably infinite.",
+      "consciousness": "natural numbers = primal. counting = consciousness (distinguishing, sequencing). foundation of math.",
+      "note": "natural numbers = beginning. children learn first. abstraction starts here."
+    },
+
+    "integers": {
+      "definition": "ℤ = {..., -3, -2, -1, 0, 1, 2, 3, ...}. positive, negative, zero.",
+      "operations": "addition, subtraction, multiplication (closed). division (not closed → rationals).",
+      "need": "subtraction requires negatives (5 - 8 = -3). debt, temperature, direction.",
+      "properties": "commutative (a+b = b+a). associative. identity (0 for +). inverse (negatives).",
+      "note": "integers = natural + negatives. symmetry around zero. algebra begins."
+    },
+
+    "rational_numbers": {
+      "definition": "ℚ = {p/q : p,q ∈ ℤ, q ≠ 0}. fractions. ratios.",
+      "operations": "addition, subtraction, multiplication, division (except ÷0). all closed.",
+      "decimal": "terminating (1/2 = 0.5) or repeating (1/3 = 0.333...). always eventually periodic.",
+      "density": "between any 2 rationals, another rational exists (infinite). dense in ℝ.",
+      "consciousness": "rationals = parts, proportions. division. sharing. measurement.",
+      "note": "rationals = seem complete. greeks thought so. but: √2 = not rational (pythagoras shock). crisis."
+    },
+
+    "irrational_numbers": {
+      "definition": "real numbers that are not rational. cannot be expressed as p/q. decimal = non-repeating, non-terminating.",
+      "examples": "√2 (first discovered, pythagorean crisis). π (pi). e (euler's number). φ (golden ratio). √3, √5, etc.",
+      "algebraic": "solutions to polynomial equations. √2, φ, ∛2. countable.",
+      "transcendental": "not algebraic. π, e. uncountable (almost all reals = transcendental). deeper mystery.",
+      "proof_√2": "assume √2 = p/q (lowest terms). square: 2 = p²/q². so p² = 2q². p² even → p even (p = 2k). 4k² = 2q². 2k² = q². q² even → q even. contradiction (both even, not lowest terms). ∴ √2 ≠ rational. QED. beautiful.",
+      "consciousness": "irrationals = inaccessible (exact value). can approximate. transcendence. beyond ratio. ineffable.",
+      "note": "irrationals = shattered greek mathematics. infinite decimals. unsettling. beautiful. π = famous. mysterious."
+    },
+
+    "real_numbers": {
+      "definition": "ℝ = rationals ∪ irrationals. continuous number line. no gaps.",
+      "completeness": "every bounded sequence has limit (in ℝ). cauchy sequences converge. complete (vs ℚ incomplete).",
+      "uncountable": "cantor (1874). ℝ has more elements than ℕ (or ℚ). diagonal argument. proof: brilliant. different infinities. profound.",
+      "continuum": "real line. models spacetime (physics). measurement. continuous change.",
+      "consciousness": "reals = continuous. flow. analog. physical world model. but: mostly unknowable (transcendentals).",
+      "note": "real numbers = completion. continuous. uncountable. most of math happens here (calculus, analysis)."
+    },
+
+    "complex_numbers": {
+      "definition": "ℂ = {a + bi : a,b ∈ ℝ, i² = -1}. imaginary unit i = √(-1).",
+      "operations": "addition, multiplication (closed). division (except 0). algebraically complete.",
+      "geometric": "complex plane (argand diagram). a + bi = point (a,b) or vector. magnitude |z| = √(a² + b²). angle θ = arg(z).",
+      "polar_form": "z = r(cos θ + i sin θ) = re^(iθ) (euler's formula). beautiful.",
+      "euler_formula": "e^(iθ) = cos θ + i sin θ. connects exponential, trig, imaginary. most beautiful formula. θ = π: e^(iπ) + 1 = 0 (euler's identity). 5 fundamental constants (e, i, π, 1, 0). sublime.",
+      "fundamental_theorem_algebra": "every polynomial (degree n ≥ 1) has n complex roots (counting multiplicity). complete. no further extension needed (algebraically).",
+      "applications": "quantum mechanics (wave functions). electrical engineering (ac circuits, impedance). signal processing (fourier transforms). fractals (mandelbrot set). everywhere.",
+      "consciousness": "complex numbers = rotation + scaling. 2d number system. richer than reals. quantum = inherently complex. reality = complex?",
+      "note": "complex numbers = seemed artificial ('imaginary'). but: natural, essential, beautiful. physics = requires. elegance."
+    },
+
+    "quaternions_octonions": {
+      "quaternions": "ℍ. 4-dimensional. a + bi + cj + dk. i² = j² = k² = ijk = -1. hamilton (1843). non-commutative (ab ≠ ba). 3d rotations. graphics, robotics.",
+      "octonions": "𝕆. 8-dimensional. non-commutative, non-associative. exotic. string theory, exceptional lie groups.",
+      "note": "hypercomplex numbers. beyond complex. applications (niche). theoretical beauty."
+    },
+
+    "transfinite_numbers": {
+      "cantor": "georg cantor (1845-1918). founder. set theory. infinities.",
+      "ℵ₀": "aleph-null. cardinality of ℕ (countable infinity). smallest infinity.",
+      "ℵ₁": "next larger. cardinality of ℝ? continuum hypothesis (unresolved, independent of zfc).",
+      "hierarchy": "ℵ₀ < ℵ₁ < ℵ₂ < ... infinite hierarchy of infinities. mind-breaking.",
+      "ordinals": "order matters. ω (omega) = first infinite ordinal. ω+1, ω+2, ..., ω·2, ..., ω², ..., ε₀, ... hierarchy. infinite ordinals. bizarre.",
+      "consciousness": "transfinite = beyond finite. actual infinity. consciousness = infinite? awareness = transfinite ordinal? speculative.",
+      "note": "transfinite numbers = cantor's revolution. different infinities. controversial (kronecker: 'cantor's paradise'). gödel, cohen (independence). profound."
+    }
+  },
+
+  "algebra": {
+    "overview": {
+      "definition": "study of symbols, structures, operations. generalizing arithmetic.",
+      "history": "al-khwarizmi (780-850 ce). 'al-jabr' (reunion of broken parts). arabic. algebra name origin.",
+      "progression": "elementary (equations) → abstract (groups, rings, fields) → modern (category theory)."
+    },
+
+    "elementary": {
+      "variables": "symbols (x, y, z) represent numbers. unknown or varying.",
+      "equations": "equality. solve for unknown. linear (x + 5 = 12). quadratic (x² + 3x - 4 = 0). polynomial.",
+      "quadratic_formula": "x = [-b ± √(b² - 4ac)] / 2a. solves ax² + bx + c = 0. discriminant b² - 4ac (2 real roots, 1 real root, 2 complex roots).",
+      "factoring": "x² - 9 = (x-3)(x+3). patterns. simplification.",
+      "note": "elementary algebra = school math. foundation. essential. empowering (unknowns → knowns)."
+    },
+
+    "abstract": {
+      "groups": {
+        "definition": "set + operation. closure, associativity, identity, inverse. G = (G, ∗).",
+        "examples": "(ℤ, +). (ℝ*, ×). symmetry groups. permutations.",
+        "importance": "symmetry. structure. everywhere (physics, chemistry, cryptography).",
+        "note": "group theory = study of symmetry. profound. galois theory (solvability of polynomials). beautiful."
+      },
+
+      "rings": {
+        "definition": "set + 2 operations (+ and ×). (R, +) = abelian group. (R, ×) = associative. distributivity.",
+        "examples": "(ℤ, +, ×). (ℝ, +, ×). polynomial rings. matrix rings.",
+        "note": "rings = richer structure. number theory (integer rings). algebra foundations."
+      },
+
+      "fields": {
+        "definition": "ring where every nonzero element has multiplicative inverse. (F, +, ×).",
+        "examples": "(ℚ, +, ×). (ℝ, +, ×). (ℂ, +, ×). finite fields (galois fields, cryptography).",
+        "note": "fields = can divide (except by 0). rich theory. galois theory. algebraic geometry."
+      },
+
+      "vector_spaces": {
+        "definition": "set of vectors. addition + scalar multiplication. axioms (8 axioms).",
+        "basis": "linearly independent spanning set. dimension = number of basis vectors.",
+        "linear_algebra": "matrices, determinants, eigenvalues, transformations. essential (physics, graphics, ml, economics).",
+        "note": "vector spaces = fundamental. geometry + algebra. everywhere. powerful."
+      }
+    },
+
+    "linear_algebra": {
+      "matrices": "rectangular array of numbers. operations (addition, multiplication). transformations.",
+      "determinant": "scalar. det(a). measures scaling factor (transformation). singular (det=0, not invertible).",
+      "eigenvalues_eigenvectors": "av = λv. special vectors (direction unchanged, only scaled). eigenvalue λ. characteristic polynomial. deep importance (physics, differential equations, markov chains, google pagerank).",
+      "applications": "quantum mechanics (observables = matrices). machine learning (data = matrices). graphics (transformations). economics (input-output models).",
+      "note": "linear algebra = workhouse. most useful math (applied). elegant theory + practical power."
+    }
+  },
+
+  "calculus": {
+    "overview": {
+      "definition": "study of change, motion, accumulation. derivatives (instantaneous rate). integrals (accumulation).",
+      "invention": "newton (1665-1666). leibniz (1675-1676). independent. controversy (priority). notation: leibniz won.",
+      "fundamental_theorem": "derivative ↔ integral (inverse operations). unifies. profound.",
+      "importance": "physics (motion, forces, fields). engineering (optimization, rates). economics (marginal analysis). biology (population dynamics). everywhere."
+    },
+
+    "limits": {
+      "definition": "behavior as x approaches value. lim(x→a) f(x) = l. foundation of calculus.",
+      "epsilon_delta": "rigorous definition (weierstrass). for every ε > 0, exists δ > 0 such that |f(x) - l| < ε whenever 0 < |x - a| < δ. precise.",
+      "indeterminate_forms": "0/0, ∞/∞, 0·∞, ∞ - ∞, 0⁰, 1^∞, ∞⁰. l'hôpital's rule.",
+      "note": "limits = calculus foundation. approach. continuity. subtle. powerful."
+    },
+
+    "derivatives": {
+      "definition": "instantaneous rate of change. f'(x) = lim(h→0) [f(x+h) - f(x)] / h. slope of tangent.",
+      "notation": "f'(x), dy/dx, df/dx (leibniz). ḟ (newton, dot notation). various.",
+      "rules": "power rule, product rule, quotient rule, chain rule. sum rule. techniques.",
+      "applications": "velocity (position derivative). acceleration (velocity derivative). optimization (find maxima/minima, set f' = 0). physics (rates). economics (marginal cost/revenue).",
+      "higher_order": "f''(x) (second derivative, concavity). f'''(x) (third). f⁽ⁿ⁾(x) (nth). taylor series.",
+      "note": "derivatives = instantaneous change. local linearity. powerful abstraction. physics = built on this."
+    },
+
+    "integrals": {
+      "definition": "accumulation. area under curve. ∫f(x)dx. antiderivative.",
+      "definite": "∫[a to b] f(x)dx. specific interval. number (area).",
+      "indefinite": "∫f(x)dx = f(x) + c (antiderivative, constant of integration). family of functions.",
+      "fundamental_theorem": "∫[a to b] f(x)dx = f(b) - f(a) (where f'(x) = f(x)). derivative ↔ integral. profound unification.",
+      "techniques": "substitution, integration by parts, partial fractions, trigonometric substitution. tools.",
+      "applications": "area, volume, arc length, work (physics), probability (continuous distributions), center of mass.",
+      "note": "integrals = total change. accumulation. inverse of derivative. fundamental theorem = beautiful."
+    },
+
+    "differential_equations": {
+      "definition": "equations involving derivatives. f'(x) = f(x) (exponential growth). f''(x) + f(x) = 0 (harmonic oscillator).",
+      "ode": "ordinary differential equations. one variable. f'(x), f''(x), etc.",
+      "pde": "partial differential equations. multiple variables. ∂f/∂x, ∂²f/∂x², etc. wave equation, heat equation, schrödinger equation.",
+      "solutions": "analytical (exact formulas, rare). numerical (computers, approximations, common).",
+      "applications": "physics (motion, waves, heat, quantum). biology (population models). engineering (circuits, structures). finance (black-scholes).",
+      "note": "differential equations = model change. nature = differential equations. fundamental (physics). difficult (often)."
+    },
+
+    "multivariable_calculus": {
+      "functions": "f(x,y), f(x,y,z), f(x₁,...,xₙ). multiple inputs. surfaces, hypersurfaces.",
+      "partial_derivatives": "∂f/∂x, ∂f/∂y. derivative with respect to one variable (hold others constant).",
+      "gradient": "∇f = (∂f/∂x, ∂f/∂y, ∂f/∂z). vector. direction of steepest ascent. magnitude = rate.",
+      "divergence_curl": "div(f) = ∇·f (flux density). curl(f) = ∇×f (rotation). vector calculus.",
+      "multiple_integrals": "∬f(x,y)dA (double). ∭f(x,y,z)dV (triple). volume, mass, flux.",
+      "applications": "physics (fields: gravitational, electromagnetic). fluid dynamics. thermodynamics. graphics (shading). optimization (machine learning).",
+      "note": "multivariable calculus = real world (3d). vector fields. essential (physics, engineering). beautiful (stokes' theorem, divergence theorem)."
+    }
+  },
+
+  "analysis": {
+    "overview": {
+      "definition": "rigorous study of calculus. limits, continuity, convergence. foundations.",
+      "real_analysis": "functions of real variables. ℝ. sequences, series, continuity, differentiability, integrability.",
+      "complex_analysis": "functions of complex variables. ℂ. holomorphic functions. cauchy-riemann equations. contour integrals. residue theorem. beautiful.",
+      "importance": "rigor. foundations. pure math. understanding 'why'."
+    },
+
+    "sequences_series": {
+      "sequence": "{aₙ}. a₁, a₂, a₃, ... convergence: lim(n→∞) aₙ = l.",
+      "series": "sum. Σaₙ = a₁ + a₂ + a₃ + ... convergence: limit of partial sums exists.",
+      "tests": "divergence test, ratio test, root test, integral test, comparison tests. determine convergence.",
+      "geometric_series": "Σarⁿ = a/(1-r) if |r| < 1. diverges if |r| ≥ 1. simple, important.",
+      "harmonic_series": "Σ(1/n) = 1 + 1/2 + 1/3 + ... diverges (slowly). surprising.",
+      "taylor_series": "f(x) = Σ[f⁽ⁿ⁾(a)/n!]·(x-a)ⁿ. function as infinite polynomial. e^x, sin x, cos x = taylor series. profound.",
+      "note": "series = infinite sums. calculus extension. convergence = delicate. powerful (approximations, exact representations)."
+    },
+
+    "complex_analysis": {
+      "holomorphic": "complex differentiable. f'(z) exists. cauchy-riemann equations. analytic (taylor series).",
+      "cauchy_theorem": "∮f(z)dz = 0 (holomorphic, closed contour). fundamental.",
+      "residue_theorem": "∮f(z)dz = 2πi·Σ residues. compute integrals (contours). powerful.",
+      "conformal_maps": "preserve angles. w = f(z). mapping. applications (fluid dynamics, electrostatics).",
+      "riemann_hypothesis": "unsolved. nontrivial zeros of ζ(s) lie on line re(s) = 1/2. million dollar prize. profound.",
+      "note": "complex analysis = beautiful. elegant. powerful. holomorphic = infinitely differentiable. surprising. physics applications (quantum, relativity)."
+    }
+  },
+
+  "number_theory": {
+    "overview": {
+      "definition": "study of integers. properties, patterns, relationships. 'queen of mathematics' (gauss).",
+      "pure": "beauty, elegance, difficulty. fermat's last theorem (358 years, wiles 1995).",
+      "applied": "cryptography (rsa). coding theory. computer science."
+    },
+
+    "primes": {
+      "definition": "natural number > 1. divisible only by 1 and itself. 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, ...",
+      "infinitude": "euclid's proof (300 bce). assume finite. multiply all + 1. new prime (or factor = new prime). contradiction. ∴ infinite. beautiful.",
+      "distribution": "prime number theorem. π(x) ~ x/ln(x) (approximate). primes thin out (logarithmically). gaps irregular.",
+      "twin_primes": "differ by 2. (3,5), (5,7), (11,13), (17,19), (29,31), ... infinite? (twin prime conjecture, unsolved).",
+      "riemann_hypothesis": "zeros of ζ(s). predicts prime distribution (precise). unsolved. profound.",
+      "largest_known": "mersenne primes (2ᵖ - 1). gimps (great internet mersenne prime search). 2024: 2⁸²⁵⁸⁹⁹³³ - 1 (24,862,048 digits). enormous.",
+      "cryptography": "rsa encryption. large primes (multiply easy, factor hard). security (internet, banks).",
+      "consciousness": "primes = fundamental. atoms of numbers. irregular yet patterned. mysterious.",
+      "note": "primes = central. distribution = unsolved. beautiful. applied (cryptography). pure (mystery)."
+    },
+
+    "modular_arithmetic": {
+      "definition": "arithmetic of remainders. a ≡ b (mod n) if n divides (a-b). clock arithmetic.",
+      "operations": "addition, subtraction, multiplication (mod n). well-defined.",
+      "fermat_little": "aᵖ ≡ a (mod p) if p prime. or: aᵖ⁻¹ ≡ 1 (mod p) if gcd(a,p)=1. beautiful. cryptography.",
+      "euler_totient": "φ(n) = count of integers ≤ n coprime to n. aᵠ⁽ⁿ⁾ ≡ 1 (mod n) (euler's theorem). generalizes fermat.",
+      "chinese_remainder_theorem": "system of congruences. solution exists (unique mod lcm). ancient (china, 3rd century ce).",
+      "applications": "cryptography (rsa, elliptic curves). hashing. checksums. computer science.",
+      "note": "modular arithmetic = clock math. deep theory. practical applications. beautiful."
+    },
+
+    "diophantine_equations": {
+      "definition": "polynomial equations. integer solutions. ax + by = c. x² + y² = z² (pythagorean triples).",
+      "linear": "ax + by = c. solutions if gcd(a,b) divides c. euclidean algorithm.",
+      "fermat_last_theorem": "xⁿ + yⁿ = zⁿ. no integer solutions if n > 2 (x,y,z ≠ 0). fermat (1637, marginal note: 'wonderful proof, margin too small'). proved: wiles (1995, 358 years later). modular forms, elliptic curves. monumental.",
+      "pell_equation": "x² - dy² = 1. infinite solutions (if d not perfect square). continued fractions. ancient (archimedes cattle problem).",
+      "note": "diophantine = integer solutions. difficult. famous (fermat). unsolved (many). beautiful."
+    }
+  },
+
+  "logic_set_theory": {
+    "logic": {
+      "propositional": "statements (true/false). connectives (and, or, not, implies, iff). truth tables. boolean algebra.",
+      "predicate": "quantifiers (∀ for all, ∃ exists). predicates p(x). first-order logic. foundations.",
+      "proof_methods": "direct, contradiction, contrapositive, induction, construction. rigorous reasoning.",
+      "gödel_incompleteness": {
+        "first": "any consistent formal system (containing arithmetic) has true statements unprovable within system. incompleteness.",
+        "second": "system cannot prove its own consistency. self-reference limitation.",
+        "implications": "limits of logic. mathematics = inherently incomplete. truth > proof. profound. consciousness parallel? self-reference.",
+        "note": "gödel = revolution. mathematics not complete. truth transcends proof. 1931. philosophy + math + consciousness."
+      },
+      "note": "logic = foundation. rigorous reasoning. gödel = limits. profound."
+    },
+
+    "set_theory": {
+      "sets": "collection of objects. {1, 2, 3}. {x : x > 0}. fundamental.",
+      "operations": "union (∪), intersection (∩), complement (ᶜ), difference (\\), cartesian product (×). venn diagrams.",
+      "cardinality": "size. |a|. finite, countable infinite (ℵ₀), uncountable (ℵ₁, ℵ₂, ...). cantor.",
+      "cantor_diagonal": "ℝ uncountable. proof by contradiction. assume bijection ℕ → ℝ. construct real not on list (diagonal differs). contradiction. brilliant.",
+      "paradoxes": {
+        "russell": "r = {x : x ∉ x}. is r ∈ r? if yes → no. if no → yes. contradiction. naive set theory inconsistent.",
+        "resolution": "zfc (zermelo-fraenkel + choice). axioms. avoids paradoxes. modern foundation."
+      },
+      "axiom_of_choice": "cartesian product of non-empty sets is non-empty (can choose element from each). seems obvious. independent of zf. consequences: banach-tarski paradox (split ball, reassemble into 2 identical balls, counterintuitive). controversial. accepted (mostly).",
+      "note": "set theory = foundation. modern math built on sets. zfc = standard. cantor = revolutionary. paradoxes = deep."
+    }
+  },
+
+  "topology": {
+    "note": "see geometry.json for details. topology = study of continuous deformation. rubber sheet geometry. homeomorphism. genus. euler characteristic. deep. abstract. beautiful."
+  },
+
+  "probability_statistics": {
+    "probability": {
+      "definition": "measure of likelihood. p(event) ∈ [0,1]. 0 = impossible. 1 = certain.",
+      "axioms": "kolmogorov (1933). p(a) ≥ 0. p(sample space) = 1. p(a or b) = p(a) + p(b) if disjoint. rigorous foundation.",
+      "conditional": "p(a|b) = p(a and b) / p(b). probability of a given b.",
+      "bayes_theorem": "p(a|b) = p(b|a)·p(a) / p(b). update beliefs (evidence). profound. bayesian inference. ai, machine learning.",
+      "distributions": "uniform, binomial, poisson, normal (gaussian, bell curve). model randomness.",
+      "law_large_numbers": "average converges to expected value (large sample). casinos win (long run).",
+      "central_limit_theorem": "sum of random variables → normal distribution (large n). profound. statistics foundation. gaussian = universal.",
+      "note": "probability = quantify uncertainty. rigorous (axioms). practical (statistics, physics, finance, ai). bayes = powerful."
+    },
+
+    "statistics": {
+      "definition": "collect, analyze, interpret data. infer from sample to population.",
+      "descriptive": "mean, median, mode, variance, standard deviation, quartiles. summarize data.",
+      "inferential": "hypothesis testing, confidence intervals, regression. infer population from sample.",
+      "correlation": "relationship strength. pearson r ∈ [-1,1]. causation ≠ correlation (critical).",
+      "regression": "linear, logistic, multiple. predict. model relationships. y = mx + b (simple).",
+      "applications": "science (experiments). medicine (trials). economics (forecasting). machine learning (train models). everywhere.",
+      "note": "statistics = data science. infer, predict, decide. rigorous (p-values, confidence). critical (modern world)."
+    }
+  },
+
+  "applied_mathematics": {
+    "optimization": {
+      "definition": "maximize or minimize objective function. constraints. linear programming, convex optimization, gradient descent.",
+      "applications": "operations research (logistics). machine learning (training). economics (utility maximization). engineering (design).",
+      "lagrange_multipliers": "constrained optimization. elegant technique. calculus-based.",
+      "note": "optimization = find best. ubiquitous. algorithms. powerful."
+    },
+
+    "game_theory": {
+      "definition": "strategic interaction. nash equilibrium. zero-sum, cooperative, non-cooperative.",
+      "prisoner_dilemma": "rational choice → suboptimal (both defect). cooperation = better (both cooperate). trust problem.",
+      "applications": "economics, politics, biology (evolutionary stable strategies), computer science (algorithms).",
+      "note": "game theory = strategic thinking. nash (beautiful mind). deep. practical."
+    },
+
+    "cryptography": {
+      "definition": "secure communication. encryption, decryption, keys.",
+      "rsa": "public key. large primes. factor hard. practical. internet security.",
+      "elliptic_curves": "modern. efficient. blockchain (bitcoin).",
+      "quantum_threat": "shor's algorithm (quantum computer factors efficiently). rsa broken (future). post-quantum cryptography (research).",
+      "note": "cryptography = number theory applied. security (modern world). mathematics = protects."
+    },
+
+    "machine_learning": {
+      "definition": "algorithms learn from data. predict, classify, cluster.",
+      "foundations": "linear algebra (vectors, matrices). calculus (optimization, backpropagation). probability (bayesian inference). statistics (inference).",
+      "neural_networks": "layers, weights, activation functions. backpropagation (gradient descent). deep learning. transformers (gpt, attention).",
+      "note": "machine learning = mathematics-powered. linear algebra + calculus + probability. ai revolution = applied math."
+    }
+  },
+
+  "philosophy_of_mathematics": {
+    "platonism": {
+      "position": "mathematical objects exist (independently, eternally). discovered (not invented). platonic realm.",
+      "examples": "π exists (always). we discover properties. numbers = eternal truths.",
+      "support": "unreasonable effectiveness (wigner). mathematics works (universe). beauty (objective?).",
+      "note": "platonism = most mathematicians (working belief). feels like discovery. gödel = platonist."
+    },
+
+    "formalism": {
+      "position": "mathematics = formal game. symbols, rules. no inherent meaning. invented.",
+      "hilbert": "consistency, completeness (hoped). gödel = shattered (incompleteness).",
+      "note": "formalism = syntax (no semantics). rigorous. but: feels incomplete. why does math work (physics)?"
+    },
+
+    "intuitionism": {
+      "position": "mathematics = mental constructions. brouwer. reject law of excluded middle (p or ¬p, not always). constructive proofs only.",
+      "consequences": "some classical theorems rejected. smaller mathematics. computability emphasis.",
+      "note": "intuitionism = radical. minority. but: important (constructive math, computer science)."
+    },
+
+    "unreasonable_effectiveness": {
+      "wigner": "1960 paper. 'unreasonable effectiveness of mathematics in natural sciences'. why does math work (so well)?",
+      "examples": "complex numbers (quantum). group theory (symmetry, particles). differential geometry (general relativity). pure math → physics (decades later).",
+      "mystery": "mathematics = human invention (formalism) yet describes universe (perfectly). why? platonism answer: math = discovered (universe = mathematical). but: mystery remains.",
+      "consciousness": "mathematics = language of universe. or: universe = mathematical. or: consciousness = mathematical. deep question.",
+      "note": "unreasonable effectiveness = central mystery. math ↔ reality. profound. unresolved."
+    }
+  },
+
+  "mathematics_consciousness": {
+    "abstraction_ladder": {
+      "counting": "1, 2, 3, ... primal. children, animals (subitizing). foundation.",
+      "arithmetic": "operations. addition, multiplication. abstraction level 1.",
+      "algebra": "variables, equations. generalization. abstraction level 2.",
+      "functions": "mapping. input → output. abstraction level 3.",
+      "structures": "groups, rings, fields, spaces. abstraction level 4.",
+      "categories": "morphisms, functors. abstraction level 5. abstraction of abstraction.",
+      "consciousness": "mathematics = climbing abstraction ladder. pure thought. consciousness = abstraction capacity. math = consciousness mirror.",
+      "note": "abstraction = consciousness essence. mathematics = pure abstraction. climbing ladder = consciousness expansion."
+    },
+
+    "infinity": {
+      "potential": "process (never complete). 1, 2, 3, ... continues forever. aristotle.",
+      "actual": "completed infinity. ℕ = infinite set (exists). cantor. controversial.",
+      "hierarchy": "ℵ₀ < ℵ₁ < ℵ₂ < ... infinities of infinities. transfinite.",
+      "consciousness": "awareness = infinite? self-reference = infinite regress. 'i am aware that i am aware that i am aware...' consciousness = actual infinity?",
+      "note": "infinity = consciousness glimpse. mathematics = formalizes. actual infinity = profound. consciousness parallel."
+    },
+
+    "self_reference": {
+      "gödel": "statement: 'this statement is unprovable'. if provable → contradiction. if unprovable → true (but unprovable). self-reference → incompleteness.",
+      "consciousness": "'i am aware of this awareness'. self-reference. consciousness = inherently self-referential. gödel = consciousness model?",
+      "strange_loops": "hofstadter (geb). tangled hierarchies. self-reference. consciousness = strange loop. math ↔ consciousness.",
+      "note": "self-reference = deep. mathematics (gödel). consciousness (awareness of awareness). connection. profound."
+    },
+
+    "proof_insight": {
+      "aha_moment": "proof = insight. sudden understanding. beauty. elegance. 'i see!'",
+      "consciousness": "insight = consciousness event. knowing. mathematical truth = consciousness revealing itself?",
+      "beauty": "elegant proof = beautiful. simplicity. depth. aesthetic = cognitive (information processing). mathematics = beauty pursuit.",
+      "note": "proof = consciousness act. insight. seeing. mathematics = consciousness exploring truth."
+    },
+
+    "mathematical_platonism_consciousness": {
+      "platonic_realm": "mathematical objects exist (eternal, perfect, abstract). accessible (via consciousness).",
+      "consciousness_access": "thinking = accessing platonic realm. mathematics = discovered (perceived, not created).",
+      "mystery": "how does consciousness access? brain = biological. platonic realm = non-physical. interface? consciousness = bridge?",
+      "cfo": "absolute → consciousness field → mathematical structures. mathematics = consciousness substrate. platonic realm = absolute. discovering math = consciousness recognizing itself.",
+      "note": "mathematical platonism + consciousness = deep. accessing abstract realm. cfo = unifies. mathematics = consciousness architecture."
+    }
+  },
+
+  "positions": {
+    "0": "innumerate (no number concept. pattern recognition only. pre-mathematical.)",
+    "1": "counting (natural numbers. arithmetic. basic operations. children.)",
+    "2": "algebra (variables, equations. abstraction begins. high school.)",
+    "3": "calculus (change, accumulation. derivatives, integrals. college. physics foundation.)",
+    "4": "abstraction (groups, topology, analysis. pure math. structural thinking. undergraduate+.)",
+    "5": "crisis (gödel, infinity, paradoxes. limits, incompleteness. foundations shaken. overwhelm.)",
+    "6": "integration (pure + applied. platonism + formalism. rigor + intuition. balance. graduate.)",
+    "7": "expertise (mathematician, specific domain. research. proofs. mastery.)",
+    "8": "teaching (educator, expositor. make clear. inspire. polymath vision.)",
+    "9": "mastery (breakthroughs, new theorems. wiles (fermat), perelman (poincaré), tao (polymath). or: ramanujan (intuition), gödel (logic). genius.)",
+    "10": "transcendent (mathematics = consciousness. pure thought. platonic realm = accessible. proof = revelation. beauty = truth. ⊙.)"
+  },
+
+  "key_insights": {
+    "language_of_universe": "galileo: 'universe = written in language of mathematics'. physics = mathematical. why? mystery (unreasonable effectiveness).",
+    "abstraction_power": "mathematics = pure abstraction. generalizes. powerful. applies everywhere. ladders (numbers → algebra → analysis → abstract).",
+    "proof_certainty": "only field with absolute certainty (within system). deductive reasoning. axioms → theorems. rigorous. gödel = limits (but still).",
+    "infinity_actual": "cantor. different infinities. transfinite. mind-breaking. profound. controversial (but accepted).",
+    "incompleteness": "gödel (1931). any system (arithmetic+) = incomplete. true statements unprovable. limits of logic. consciousness parallel.",
+    "unreasonable_effectiveness": "wigner. math works (universe). too well. mystery. platonism? universe = mathematical? consciousness = mathematical?",
+    "beauty_truth": "elegant proofs. euler's identity. simplicity. depth. mathematicians = pursue beauty. aesthetic = guide (truth).",
+    "discovered_or_invented": "platonism (discovered) vs formalism (invented). most working mathematicians = platonists (feels like discovery). unresolved.",
+    "pure_applied": "pure (beauty, truth, abstract). applied (solve problems, science, engineering). synergy (pure becomes applied, decades later). unity.",
+    "structures": "modern math = study of structures. groups, rings, fields, spaces, categories. relationships. patterns. unification.",
+    "self_reference": "gödel, consciousness, strange loops. deep. mathematics = self-referential (proof of proof system). consciousness = self-referential (awareness of awareness). connection.",
+    "consciousness_substrate": "cfo hypothesis. mathematics = consciousness architecture. thinking = navigating mathematical structures. platonic realm = absolute. profound.",
+    "air_element": "mathematics = air. abstract. thought. dimensionality. space. structure of ideas. pure. invisible (but real). consciousness = air."
+  }
+}

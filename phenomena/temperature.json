@@ -1,0 +1,453 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:temperature",
+    "type": "Phenomena",
+    "element": "FIRE",
+    "fractal_depth": 3,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:phenomena:heat",
+      "cfo:phenomena:cold",
+      "cfo:phenomena:thermal_equilibrium"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:phenomena",
+      "cfo:fundamental:energy"
+    ],
+    
+    "related": [
+      "cfo:phenomena:light",
+      "cfo:phenomena:pressure",
+      "cfo:humanology:senses:thermoception"
+    ],
+    
+    "balances": "cfo:phenomena:absolute_zero",
+    "combines": ["energy", "perception", "equilibrium"],
+    
+    "note": "Temperature = 0D point birthing thermal field. Molecular dance made perceptible at skin boundary."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ ≡ thermal equilibrium ≡ uniform field ≡ peace",
+    "essence": "Warmth and coldness = molecular motion touching skin",
+    "paths": "Hot→Cold defines time's arrow. Equilibrium seeks itself.",
+    "positions": "0D scalar → 1D gradient → 2D field → 3D flow → equilibrium",
+    "fibonacci": "Body maintains 37°C with φ-precision through homeostatic dance",
+    "tools": "Thermometer points to invisible molecular motion",
+    "note": "This file contains thermodynamics viewed through felt-warmth"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "./light.json",
+      "./pressure.json",
+      "../humanology/senses/thermoception.json"
+    ],
+    "parent": "../phenomena.json",
+    "children": [
+      "./heat_transfer.json",
+      "./phase_transitions.json"
+    ]
+  },
+
+  "name": "Temperature",
+  "essence": "Average kinetic energy of molecules made perceptible through skin.",
+  
+  "description": "Temperature measures how vigorously molecules dance. Hot = wild motion, cold = slow drift. Felt through thermoception at skin boundary where planetary nervous system touches its own energy. Measured in Kelvin (absolute), Celsius (water-based), Fahrenheit (historical).",
+
+  "direct_pointing": {
+    "look": "Touch any surface. Notice warmth or coldness.",
+    "trace": "That sensation = energy flowing between your hand and world.",
+    "recognize": "You feel not temperature itself but rate of heat crossing boundary.",
+    "rest": "In thermal equilibrium, no sensation. Silent peace. ⊙"
+  },
+
+  "practice": {
+    "boundary_awareness": "Place hand on wall. Feel temperature. Notice: you sense energy flow rate, not absolute value.",
+    "metal_wood_koan": "Touch metal and wood at room temperature. Metal feels colder. Why? Higher thermal conductivity (k). Heat leaves skin faster. Same temperature, different sensation.",
+    "equilibrium_meditation": "Sit motionless. Notice body maintaining 37°C constantly. Hypothalamus working silently. Life = resisting thermal equilibrium.",
+    "cold_plunge": "Ice bath. Shock. Then adaptation. Receptors quiet. The hut remains untouched while legs scream."
+  },
+
+  "recognition": {
+    "sensation_is_gradient": "Never feel temperature directly — only energy transfer rate across skin",
+    "comfort_is_minimal_flow": "Comfort = body losing heat at metabolic rate exactly",
+    "life_fights_entropy": "Living = maintaining temperature difference with surroundings",
+    "death_is_equilibrium": "Corpse reaches room temperature = thermal equilibrium = no more energy flow"
+  },
+
+  "scales": {
+    "kelvin": {
+      "zero": "0 K = absolute zero = -273.15°C",
+      "nature": "Fundamental. Cannot go below zero (Third Law).",
+      "meaning": "Measures from stillness",
+      "relation": "K = C + 273.15",
+      "use": "Physics, thermodynamics, truth"
+    },
+    "celsius": {
+      "zero": "Water freezing at 1 atm",
+      "nature": "Practical. Water-based anchoring.",
+      "meaning": "Human-scaled convenience",
+      "relation": "Reference to phase transitions",
+      "use": "Daily life, science (most world)"
+    },
+    "fahrenheit": {
+      "zero": "Brine freezing point",
+      "nature": "Historical artifact",
+      "meaning": "Cultural persistence",
+      "relation": "F = (C × 9/5) + 32",
+      "use": "United States, Caribbean"
+    },
+    "rankine": {
+      "zero": "Absolute zero with Fahrenheit degrees",
+      "use": "Engineering (rare)"
+    }
+  },
+
+  "absolute_zero": {
+    "value": "0 K = -273.15°C = -459.67°F",
+    "classical": "Temperature where molecular motion ceases",
+    "quantum": "Even at 0 K, zero-point energy remains: ΔE ≥ ℏω/2",
+    "third_law": "Cannot reach absolute zero in finite steps",
+    "coldest_achieved": "~100 picokelvin in laboratory",
+    "entropy": "S → 0 as T → 0 (Third Law)",
+    "pointer": "Asymptotic limit. Approached but never reached. Like perfect stillness — aimed for, never grasped."
+  },
+
+  "heat_temperature_distinction": {
+    "temperature": {
+      "nature": "Intensive property",
+      "definition": "Average kinetic energy per molecule",
+      "measure": "Scalar: K, °C, °F",
+      "independence": "Does not depend on quantity",
+      "metaphor": "Intensity of dance"
+    },
+    "heat": {
+      "nature": "Extensive property",
+      "definition": "Total thermal energy transferred",
+      "measure": "Energy: Joules (J), calories (cal)",
+      "dependence": "Proportional to mass: Q = mcΔT",
+      "metaphor": "Total dancing energy"
+    },
+    "key": "Temperature = how hot. Heat = how much energy."
+  },
+
+  "thermodynamic_laws": {
+    "zeroth": {
+      "statement": "If A in equilibrium with B, and B with C, then A with C",
+      "implication": "Temperature well-defined. Transitivity holds.",
+      "consequence": "Thermometers possible",
+      "pointer": "Equality is fundamental symmetry"
+    },
+    "first": {
+      "statement": "ΔU = Q - W (energy conserved)",
+      "implication": "Cannot create energy from nothing",
+      "consequence": "Perpetual motion impossible",
+      "pointer": "Conservation = absolute law"
+    },
+    "second": {
+      "statement": "ΔS ≥ 0 for isolated system",
+      "clausius": "Heat flows hot→cold spontaneously, never reverse",
+      "carnot": "No engine exceeds Carnot efficiency",
+      "implication": "Time's arrow. Disorder increases.",
+      "pointer": "Life = local fight against entropy. Universe wins eventually."
+    },
+    "third": {
+      "statement": "S → 0 as T → 0 K",
+      "implication": "Perfect crystal at absolute zero has zero entropy",
+      "consequence": "0 K unreachable in finite steps",
+      "pointer": "Perfect order = asymptotic limit"
+    }
+  },
+
+  "heat_transfer": {
+    "conduction": {
+      "mechanism": "Direct molecular contact transfers kinetic energy",
+      "law": "q = -k∇T (Fourier)",
+      "conductors_high": "Metals (copper, aluminum)",
+      "conductors_low": "Wood, air, insulators",
+      "examples": "Metal spoon in coffee, heat through walls"
+    },
+    "convection": {
+      "mechanism": "Fluid motion carries thermal energy",
+      "natural": "Buoyancy-driven (hot air rises)",
+      "forced": "Fan or pump driven",
+      "examples": "Boiling water, atmospheric circulation, radiators"
+    },
+    "radiation": {
+      "mechanism": "Electromagnetic waves (no medium required)",
+      "law": "P = σεAT⁴ (Stefan-Boltzmann)",
+      "universal": "All objects above 0 K radiate",
+      "examples": "Sun warming Earth, thermal cameras, infrared heaters"
+    }
+  },
+
+  "phase_transitions": {
+    "solid_liquid": {
+      "melting": "Solid → liquid at melting point",
+      "freezing": "Liquid → solid",
+      "temperature": "Constant during transition",
+      "example": "Ice ⇄ Water at 0°C (273.15 K)"
+    },
+    "liquid_gas": {
+      "boiling": "Liquid → gas at boiling point",
+      "condensation": "Gas → liquid",
+      "pressure_dependent": "Boiling point changes with pressure",
+      "example": "Water ⇄ Steam at 100°C (1 atm)"
+    },
+    "solid_gas": {
+      "sublimation": "Solid → gas directly",
+      "deposition": "Gas → solid directly",
+      "example": "Dry ice (CO₂), frost formation"
+    },
+    "latent_heat": {
+      "definition": "Energy for phase change at constant temperature",
+      "fusion": "Solid ⇄ liquid",
+      "vaporization": "Liquid ⇄ gas",
+      "mystery": "Temperature unchanged despite energy input"
+    }
+  },
+
+  "thermoception": {
+    "sensor": "Thermoception (thermal sense)",
+    "location": "Thermoreceptors in skin, internal organs",
+    
+    "receptors": {
+      "cold": {
+        "fibers": "A-delta, C fibers",
+        "range": "10-35°C",
+        "peak": "~25°C",
+        "channel": "TRPM8 (menthol receptor)"
+      },
+      "warm": {
+        "fibers": "C fibers",
+        "range": "30-45°C",
+        "peak": "~40°C",
+        "channel": "TRPV3, TRPV4"
+      },
+      "hot_nociceptors": {
+        "activation": ">45°C",
+        "channel": "TRPV1 (capsaicin receptor)",
+        "damage": "Protein denaturation begins",
+        "pain": "Warning signal"
+      }
+    },
+
+    "adaptation": {
+      "phenomenon": "Constant temperature → sensation fades",
+      "mechanism": "Receptor desensitization",
+      "example": "Water feels normal after initial shock",
+      "implication": "Perceive change, not state"
+    },
+
+    "thermal_grill_illusion": {
+      "setup": "Alternating warm and cool bars",
+      "perception": "Feels painfully hot (though not)",
+      "mechanism": "Neural integration error",
+      "lesson": "Brain creates pain from conflicting signals"
+    },
+
+    "reference": "humanology/senses/thermoception.json"
+  },
+
+  "human_thermoregulation": {
+    "comfort_zone": "18-24°C (64-75°F) for most humans",
+    "core_temperature": "~37°C (98.6°F) maintained within ±0.5°C",
+    
+    "factors": {
+      "air_temperature": "Primary factor",
+      "radiant": "Walls, sun, surfaces",
+      "humidity": "Affects evaporative cooling",
+      "air_movement": "Wind chill or cooling breeze",
+      "clothing": "Insulation barrier",
+      "activity": "Metabolic heat generation"
+    },
+
+    "homeostasis": {
+      "control": "Hypothalamus",
+      "setpoint": "37°C core",
+      "too_hot": "Sweat, vasodilation",
+      "too_cold": "Shiver, vasoconstriction, piloerection"
+    },
+
+    "extremes": {
+      "hyperthermia": ">40°C core (heat stroke, potentially fatal)",
+      "hypothermia": "<35°C core (potentially fatal)",
+      "survival_range": "~28-42°C core temperature"
+    }
+  },
+
+  "temperature_in_nature": {
+    "sun_core": "~15,000,000 K",
+    "sun_surface": "~5,778 K",
+    "quark_gluon_plasma": "~5,500,000,000,000 K (CERN)",
+    "lightning": "~30,000 K",
+    "flame": "~1,500-2,000 K",
+    "human_body": "~310 K (37°C)",
+    "room_temperature": "~293 K (20°C)",
+    "earth_average": "~288 K (15°C)",
+    "water_freezes": "273.15 K (0°C)",
+    "liquid_nitrogen": "77 K (-196°C)",
+    "liquid_helium": "4.2 K (-269°C)",
+    "deep_space": "~3 K (cosmic background)",
+    "coldest_lab": "~100 picokelvin"
+  },
+
+  "blackbody_radiation": {
+    "principle": "All objects above 0 K emit thermal radiation",
+    "wien": "λ_max = b/T (peak wavelength ∝ 1/T)",
+    "stefan_boltzmann": "Power ∝ T⁴",
+    
+    "color_temperature": {
+      "red_hot": "~800 K",
+      "orange": "~1,200 K",
+      "yellow": "~1,500 K",
+      "white": "~3,000 K",
+      "blue": ">6,000 K"
+    },
+
+    "thermal_imaging": "Cameras detect infrared to visualize temperature distribution",
+    "implication": "Temperature = spectrum of emitted light"
+  },
+
+  "entropy_temperature": {
+    "statistical": "Temperature ∝ (∂S/∂E)⁻¹",
+    "meaning": "How entropy changes with added energy",
+    "high_temp": "Adding energy → small entropy increase (many states accessible)",
+    "low_temp": "Adding energy → large entropy increase (few states accessible)",
+    "negative_temp": "Theoretically possible with population inversion (special systems)"
+  },
+
+  "quantum_effects": {
+    "zero_point": "Even at 0 K: ΔE ≥ ℏω/2 (Heisenberg uncertainty)",
+    "bose_einstein": "Ultra-cold bosons condense to single quantum state",
+    "superconductivity": "Zero electrical resistance below critical temperature",
+    "superfluidity": "Zero viscosity (helium-4 below 2.17 K)"
+  },
+
+  "danger": {
+    "comfort_attachment": "Narrow comfort zone = fragility. Adaptation expands tolerance.",
+    "ignoring_signals": "Hypothermia and hyperthermia from dismissing thermoception",
+    "equilibrium_is_death": "Reaching thermal equilibrium with environment = death"
+  },
+
+  "balance": {
+    "hot_cold": "Both extremes uncomfortable. Peace in homeostatic middle.",
+    "flow_rest": "Life requires temperature gradient (flow) but seeks equilibrium (rest).",
+    "comfort_adaptation": "Comfort zone limits growth. Expansion through controlled exposure."
+  },
+
+  "deepening": [
+    "Notice every warmth/cold sensation = energy crossing your boundary",
+    "Recognize body's constant 37°C maintenance. Silent homeostatic work.",
+    "Understand thermal equilibrium = death. Life = perpetual resistance to entropy.",
+    "See temperature gradients drive planetary energy flow: weather, currents, life.",
+    "Realize you are warm neuron in Earth's cooler body. Aiur feels through you."
+  ],
+
+  "infinity": {
+    "no_upper_limit": "Temperature can theoretically approach ∞. Planck temperature ~10³² K.",
+    "lower_limit": "0 K unreachable (Third Law). Asymptotic approach only.",
+    "heat_death": "Universe's eventual state: maximum entropy, uniform temperature everywhere. No gradients → no flow → no work → no life. ~10¹⁰⁰ years distant.",
+    "pointer": "From Big Bang's infinite heat → heat death's absolute cold. Temperature's arc = universe's arc."
+  },
+
+  "fractal_property": {
+    "self_similar": "Molecule vibrates → cell maintains temperature → body maintains 37°C → Earth regulates climate → solar system → galaxy → universe seeks equilibrium",
+    "contains_whole": "Temperature embeds all thermodynamics: energy, entropy, equilibrium, time's arrow, life's struggle",
+    "example": "Your cooling coffee = miniature heat death of universe. Same laws, different scale."
+  },
+
+  "metaphor": {
+    "psychological": "Emotional temperature: hot anger, cold indifference, warm love, cool detachment",
+    "social": "Hot conflicts, cold wars, warm communities, cool professionalism",
+    "spiritual": "Hot seeking vs. cool presence. Feverish striving vs. peaceful rest."
+  },
+
+  "the_hut_perspective": {
+    "legs_experience": "Body feels hot, cold, comfortable, suffering from temperature extremes",
+    "hut_recognition": "⊙ = always at perfect temperature. Unaffected by molecular dance.",
+    "integration": "Let body regulate temperature naturally. Do not identify with thermal discomfort. You are the hut, not the thermometer reading.",
+    "practice": "Ice bath or sauna. Notice sensation intense but you (awareness) remain untouched. The hut holds fire and ice without burning or freezing."
+  },
+
+  "aiur_integration": {
+    "planetary_thermostat": "Earth maintains ~288 K through homeostasis: atmosphere, ocean, biosphere working as one",
+    "you_are_neuron": "Your 37°C body = warm thought in Earth's cooler body",
+    "service": "Maintaining your temperature serves planetary consciousness",
+    "awakening": "When neurons remember they share one thermal field, Aiur awakens"
+  },
+
+  "cfo_axioms": {
+    "point_entity_absolute": "Temperature = 0D scalar at each point",
+    "sacred_coherence": "Thermal equilibrium = maximum coherence. Gradients = tension.",
+    "conflict_scale": "Temperature difference = conflict driving energy flow",
+    "purpose_minimize": "Nature seeks thermal equilibrium (minimize ΔT)",
+    "arrow": "Hot→Cold flow defines time's arrow irreversibly"
+  },
+
+  "applications": {
+    "survival": "Maintain core 37°C or perish",
+    "comfort": "HVAC, clothing, shelter resist entropy",
+    "cooking": "Temperature control enables desired chemical reactions",
+    "medicine": "Body temperature diagnostic. Fever = immune response.",
+    "industry": "Material processing, chemical synthesis",
+    "energy": "Heat engines, refrigeration, power generation",
+    "measurement": "Thermometry, thermal imaging",
+    "science": "Cryogenics, plasma physics, cosmology"
+  },
+
+  "koans": {
+    "metal_wood": "Metal and wood at same temperature. Why does metal feel colder? — You feel gradient rate, not value.",
+    "absolute_zero": "Why is absolute zero unreachable? — Perfection is asymptotic.",
+    "awareness_temperature": "What is awareness's temperature? — ⊙ (undefined, unaffected)",
+    "equilibrium_death": "When does body reach thermal equilibrium? — When it becomes corpse.",
+    "warmth_source": "What is warmer: fire or love? — Love. Fire extinguishes."
+  },
+
+  "final_transmission": {
+    "pointer": "Every warmth and coldness = universe touching itself through your skin.",
+    "recognition": "Temperature exists at interface where inside meets outside.",
+    "completion": "The hut rests at perfect temperature always. Let legs dance with hot and cold. ⊙"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "info": [
+      "Comprehensive temperature module",
+      "Matched to thermoception sensor",
+      "Thermodynamic laws integrated",
+      "Quantum effects noted"
+    ],
+    "coherence_score": 0.98
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:phenomena:light",
+      "urn:cfo:phenomena:pressure",
+      "urn:cfo:humanology:senses:thermoception",
+      "urn:cfo:fundamental:energy"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Callen, H. B. (1985). Thermodynamics and an Introduction to Thermostatistics"
+      },
+      {
+        "type": "book",
+        "citation": "Zemansky, M. W., & Dittman, R. H. (1997). Heat and Thermodynamics"
+      }
+    ]
+  },
+
+  "blessing": "May you rest in awareness's perfect temperature, untouched by thermal flux. May your body maintain its 37°C dance gracefully. May Aiur's planetary thermostat balance through your breath. 🖤⊙",
+
+  "ॐ": "∅"
+}

@@ -1,0 +1,503 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:aspects:intuition",
+    "type": "humanology",
+    "fractal_depth": 2,
+    "contains": ["cfo:aspects:Ni", "cfo:aspects:Ne"],
+    "contained_by": ["cfo:humanology:types"],
+    "source": "Jung + Socionics + phenomenology + pattern recognition research"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Intuition = cognitive function perceiving patterns and possibilities within the field of potentiality (5D)",
+    "structure": "Two orientations: Ni (depth, convergence, one pattern) + Ne (breadth, divergence, many patterns)",
+    "dimension": "Operates through consciousness to access the field of abstract patterns and potentialities (5D)",
+    "element": "Air (invisible, pervasive, connecting) - manifests as perceptive modality",
+    "primitive": "Point (0D unity where pattern recognized) projecting awareness into field of potentiality (5D)",
+    "operation": "Pattern recognition + possibility generation",
+    "wisdom": "What pattern connects? What could this become?",
+    "note": "Intuition = antenna/channel. The field of potentiality exists independently; intuition is HOW consciousness accesses it. You don't CREATE patterns, you RECOGNIZE them."
+  },
+
+  "_links": {
+    "opposite": "./sensorics.json",
+    "complements": ["./logic.json", "./ethics.json"],
+    "types": "../types.json",
+    "roles": "../roles.json"
+  },
+
+  "common_confusion": {
+    "mistake": "People confuse intuition (cognitive function) with 5D field itself",
+    "clarification": "5D field of patterns/archetypes/possibilities exists OBJECTIVELY (Platonic realm, morphic field, collective unconscious). Intuition (N) is the SUBJECTIVE capacity to perceive this field.",
+    "analogy": "Like confusing 'vision' (S function) with 'light' (3D physical reality). Light exists whether you see it or not. Vision = your ability to perceive it.",
+    "key_insight": "Mathematical structures, archetypes, possibilities exist independently of human minds. Intuition = our antenna tuning to this frequency.",
+    "why_matters": "Dimension = ontology (what exists). Function = epistemology (how we know). Don't collapse these. Plato was right about Forms; Jung was right about archetypes. They exist. N = how we access them."
+  },
+
+  "essence": {
+    "core_principle": "What pattern connects these? What could this become?",
+    "geometric": "Accesses the field of potentiality (5D) from the point of witness (0D)",
+    "functional": "Perceive abstract patterns and possibilities beyond concrete data",
+    "cognitive": "Pattern-recognition, possibility-seeing, meaning-making, holistic grasping",
+    "element": "Air - invisible, pervasive, connecting all, breath of insight",
+    "metaphor": "Wind seeing connections invisible to eye, carrying seeds of possibility everywhere"
+  },
+
+  "two_orientations": {
+    "Ni_introverted_intuition": {
+      "name": "Introverted Intuition (Ni)",
+      "orientation": "Internal pattern recognition and future vision",
+      "focus": "Deep singular insights, seeing THE pattern, convergent",
+      "direction": "Inward → deep → one unified vision",
+      
+      "characteristics": {
+        "depth": "Penetrating insight into core pattern",
+        "singularity": "One right answer, one true path",
+        "future_vision": "Seeing inevitable trajectory, long-term arc",
+        "symbolic": "Reading symbols, metaphors, deeper meanings",
+        "certainty": "Strong conviction once pattern recognized"
+      },
+      
+      "operations": [
+        "Synthesize disparate data into one coherent vision",
+        "See future implications of current patterns",
+        "Recognize archetypal patterns underlying surface phenomena",
+        "Compress complex information into essential insight",
+        "Develop unified worldview or theory"
+      ],
+      
+      "examples": [
+        "Philosopher developing unified worldview (Hegel, Spinoza)",
+        "Strategist with long-term vision (10-year plan)",
+        "Prophet seeing inevitable trajectory",
+        "Scientist pursuing one unifying theory (Einstein)",
+        "Mystic perceiving ultimate unity"
+      ],
+      
+      "strength": "Depth, penetrating insight, conviction, long-term vision",
+      "weakness": "Tunnel vision, stubbornness, missing alternatives, can seem cryptic",
+      
+      "shadow": {
+        "description": "When Ni operates unconsciously or overdeveloped without integration",
+        "manifestations": {
+          "certainty_trap": "Absolute conviction in ONE vision, dismissing all alternatives. 'I KNOW this is right.' Fundamentalism.",
+          "apocalyptic_thinking": "Seeing only ONE dark future. Pessimistic prophecy. 'It's all going to collapse.'",
+          "cryptic_mysticism": "Cannot communicate insights. 'You wouldn't understand.' Gnostic elitism.",
+          "reality_disconnect": "So deep in inner vision, loses touch with present reality. Ivory tower syndrome.",
+          "projection": "Seeing patterns that aren't there. Paranoia. 'Everything means something (about me).'",
+          "impatience": "Frustrated others can't see what's 'obvious'. Dismissive of incremental progress."
+        },
+        "integration": "Ground visions in reality (S). Test with logic (T). Share with humility. Consider multiple scenarios (Ne)."
+      },
+      
+      "cognitive_style": {
+        "tempo": "Slow incubation → sudden illumination",
+        "breadth": "Narrow but deep",
+        "certainty": "High once pattern recognized",
+        "expression": "Often struggles to articulate (ineffable insights)"
+      },
+      
+      "socionics_types": "Ni dominant = INxJ (INFJ, INTJ)"
+    },
+
+    "Ne_extroverted_intuition": {
+      "name": "Extroverted Intuition (Ne)",
+      "orientation": "External possibility exploration",
+      "focus": "Multiple possibilities, brainstorming, what-if, divergent",
+      "direction": "Outward → broad → many options",
+      
+      "characteristics": {
+        "breadth": "Seeing many possibilities simultaneously",
+        "plurality": "Multiple valid answers, many paths forward",
+        "present_possibilities": "What could be right now, immediate alternatives",
+        "novelty_seeking": "New ideas, new connections, new interpretations",
+        "flexibility": "Easily shifts between perspectives"
+      },
+      
+      "operations": [
+        "Generate multiple hypotheses or solutions",
+        "See connections between unrelated domains",
+        "Brainstorm possibilities (divergent thinking)",
+        "Reframe situations in novel ways",
+        "Explore 'what if' scenarios"
+      ],
+      
+      "examples": [
+        "Entrepreneur seeing many business opportunities",
+        "Inventor generating multiple prototypes",
+        "Comedian riffing on possibilities, improvising",
+        "Writer exploring plot alternatives",
+        "Consultant generating creative solutions"
+      ],
+      
+      "strength": "Breadth, flexibility, creativity, enthusiasm, adaptability",
+      "weakness": "Scattered, uncommitted, analysis paralysis, difficulty choosing",
+      
+      "shadow": {
+        "description": "When Ne operates unconsciously or overdeveloped without integration",
+        "manifestations": {
+          "commitment_phobia": "Can't choose. 'What if there's something better?' Eternal grass-is-greener.",
+          "scattered_chaos": "1000 projects, none finished. Shiny object syndrome. ADHD-like overwhelm.",
+          "nihilistic_relativism": "Everything's possible = nothing matters. 'It's all just perspectives, man.'",
+          "manic_ideation": "Idea addiction. High on novelty. Can't be still. Exhausting to others.",
+          "conspiracy_sprawl": "Connecting EVERYTHING. No pattern too far-fetched. Apophenia.",
+          "superficiality": "Wide but shallow. Tourist of ideas. Never goes deep."
+        },
+        "integration": "Commit to ONE path (S grounding). Finish projects. Depth over breadth (Ni). Use T to filter."
+      },
+      
+      "cognitive_style": {
+        "tempo": "Fast, rapid-fire idea generation",
+        "breadth": "Wide but can be shallow",
+        "certainty": "Low - everything provisional",
+        "expression": "Articulate, but may overwhelm with options"
+      },
+      
+      "socionics_types": "Ne dominant = ENxP (ENFP, ENTP)"
+    }
+  },
+
+  "operations": {
+    "pattern_recognition": {
+      "definition": "Seeing similarity/structure across different instances",
+      "method": "Abstract away particulars, recognize invariant essence",
+      "dimensional": "Accessing the unified field that manifests across concrete instances",
+      "examples": [
+        "Mathematician sees same structure in different problems",
+        "Musician recognizes chord progression across songs",
+        "Naturalist sees evolutionary pattern across species",
+        "Psychologist recognizes archetype across different people"
+      ],
+      "neuroscience": "Right hemisphere, default mode network, associative cortex"
+    },
+
+    "abstraction": {
+      "definition": "Extracting essential pattern from concrete instances",
+      "method": "Strip away contingent details, keep invariant core",
+      "dimensional": "Ascending from concrete (3D) toward abstract essence (5D)",
+      "examples": [
+        "From seeing triangles → concept 'triangle' → triangle-ness",
+        "From historical events → underlying historical forces",
+        "From individual behaviors → personality type/archetype",
+        "From code examples → design pattern"
+      ],
+      "philosophy": "Platonic forms, universals, Aristotelian categories"
+    },
+
+    "synthesis": {
+      "definition": "Combining disparate elements into new unified whole",
+      "method": "See connections others miss, recognize new patterns",
+      "dimensional": "Consciousness operating through unified field to integrate multiple elements",
+      "examples": [
+        "Darwin synthesizes geology, biology, economics → evolution",
+        "Jobs synthesizes calligraphy, technology → Mac design",
+        "Einstein synthesizes space, time → spacetime",
+        "Artist combines colors, shapes → unified vision"
+      ],
+      "note": "All genuine creativity = synthesis (recognizing new patterns in field of potentiality)"
+    },
+
+    "imagination": {
+      "definition": "Generating possibilities not present in current reality",
+      "method": "Navigate possibility space, envision alternative futures",
+      "dimensional": "Field of potentiality (5D) = dimension of potentiality. Imagination explores/accesses it.",
+      "examples": [
+        "Architect imagines building before construction",
+        "Novelist creates fictional worlds",
+        "Entrepreneur envisions company that doesn't exist yet",
+        "Child imagines being astronaut, dragon, anything"
+      ],
+      "types": {
+        "reproductive": "Recombining known elements (most imagination)",
+        "productive": "Genuinely novel creation (rare, genius)"
+      }
+    },
+
+    "intuiting": {
+      "definition": "Direct apprehension without explicit logical steps",
+      "method": "Holistic pattern-matching below conscious awareness",
+      "dimensional": "Holistic grasp bypasses sequential reasoning",
+      "examples": [
+        "Recognizing face instantly (no step-by-step comparison)",
+        "Native speaker knows grammar without rules",
+        "Expert chess player sees best move immediately",
+        "Gut feeling about person/situation proves correct"
+      ],
+      "dual_process": "System 1 (fast, intuitive) vs System 2 (slow, logical)"
+    },
+
+    "big_picture_thinking": {
+      "definition": "Grasping system as whole, not just parts",
+      "method": "Zoom out, see forest not trees, understand context",
+      "dimensional": "Accessing holistic view beyond partial perspective",
+      "examples": [
+        "Seeing how all parts of business interconnect",
+        "Understanding historical epoch as gestalt",
+        "Grasping philosophical system as unified vision",
+        "Seeing person as whole (not collection of traits)"
+      ],
+      "gestalt": "Whole > sum of parts. Emergent properties at system level."
+    },
+
+    "connecting_dots": {
+      "definition": "Linking seemingly unrelated things to reveal hidden connections",
+      "method": "See resonances, analogies, correspondences across domains",
+      "dimensional": "Unified field reveals connections invisible from limited perspectives",
+      "examples": [
+        "Seeing how childhood trauma → adult behavior pattern",
+        "Recognizing same mathematical structure in physics and economics",
+        "Noticing synchronicities (meaningful coincidences)",
+        "Understanding metaphor (love = journey, time = river)"
+      ],
+      "genius": "Newton sees falling apple and orbiting moon = same (gravity)"
+    },
+
+    "future_projection": {
+      "definition": "Envisioning what could unfold, not just what is",
+      "method": "Extrapolate trends, imagine scenarios, see trajectories",
+      "dimensional": "Navigate time from vantage point of possibility-space",
+      "examples": [
+        "Strategic planning (business, military, political)",
+        "Science fiction (extrapolating technology/society)",
+        "Prophecy/divination (attempting to see future)",
+        "Scenario planning (multiple possible futures)"
+      ],
+      "note": "Future inherently uncertain. Best intuition = probabilistic."
+    }
+  },
+
+  "manifestations": {
+    "scientific_discovery": {
+      "description": "Breakthroughs come as intuitive leaps, not logical steps",
+      "process": "Long preparation → incubation → sudden illumination → verification",
+      "examples": {
+        "kekule_benzene": "Dreams snake biting tail → benzene ring structure",
+        "einstein_relativity": "Imagines riding light beam → special relativity",
+        "archimedes_eureka": "Bathwater displacement → volume measurement",
+        "poincare_theorem": "Solution appears whole when stepping on bus",
+        "mendeleev_periodic": "Dreams periodic table arrangement complete"
+      },
+      "insight": "Logical verification comes after, but discovery = intuitive leap into field of potentiality"
+    },
+
+    "artistic_creation": {
+      "description": "Art = making invisible visible, manifesting intuited patterns",
+      "examples": {
+        "michelangelo": "I saw the angel in the marble and carved until I set him free",
+        "mozart": "Hear entire symphony at once, then write it down",
+        "poets": "Receive poem as download, not construct logically",
+        "painters": "See completed painting before first brushstroke",
+        "storytellers": "Characters reveal themselves, story unfolds organically"
+      },
+      "muses": "Artists speak of inspiration coming FROM outside (accessing field of potentiality)"
+    },
+
+    "philosophical_insight": {
+      "description": "Understanding fundamental nature of reality",
+      "method": "Contemplation, meditation, sustained questioning → breakthrough",
+      "examples": {
+        "plato_forms": "Intuiting eternal forms beyond material world",
+        "descartes_cogito": "Sudden realization: 'I think therefore I am'",
+        "spinoza_substance": "Seeing all reality as one substance",
+        "buddha_enlightenment": "Sudden awakening to true nature",
+        "kant_categories": "Recognizing mind's organizing structures"
+      },
+      "ineffable": "Deepest insights resist verbal formulation (holistic → sequential language)"
+    },
+
+    "strategic_thinking": {
+      "description": "Seeing multiple futures, complex interdependencies",
+      "domains": [
+        "Military strategy (Sun Tzu, Clausewitz)",
+        "Business strategy (market trends, competitive dynamics)",
+        "Political strategy (anticipate moves, coalitions)",
+        "Life strategy (long-term consequences of choices)"
+      ],
+      "chess_analogy": "Grandmaster sees many moves ahead (navigating time from possibility-space)"
+    },
+
+    "empathic_intuition": {
+      "description": "Reading others' inner states without explicit cues",
+      "mechanism": "Subconscious processing of micro-expressions, body language, tone",
+      "examples": [
+        "Mother knows child is troubled (no explanation needed)",
+        "Therapist senses what client can't articulate",
+        "Reading room's emotional atmosphere instantly",
+        "Knowing someone is lying (can't say why)"
+      ],
+      "note": "Different from ethics (F). This is pattern-reading through N, not evaluating relationship through F."
+    },
+
+    "systems_thinking": {
+      "description": "Understanding complex adaptive systems holistically",
+      "domains": [
+        "Ecology (seeing ecosystem as integrated whole)",
+        "Economics (market as complex system)",
+        "Organizational dynamics (company as living system)",
+        "Personal psychology (self as system of subpersonalities)"
+      ],
+      "key_concepts": [
+        "Feedback loops (reinforcing and balancing)",
+        "Emergence (whole > parts)",
+        "Non-linearity (small changes → large effects)",
+        "Resilience vs optimization"
+      ]
+    },
+
+    "mystical_experience": {
+      "description": "Direct apprehension of unity/absolute through field of potentiality",
+      "characteristics": [
+        "Ineffability (cannot be put in words)",
+        "Noetic quality (feels like knowledge, not emotion)",
+        "Transiency (brief, not permanent state)",
+        "Passivity (happens TO you, not willed)",
+        "Unity (boundaries dissolve, all is one)"
+      ],
+      "traditions": {
+        "hinduism": "Samadhi, realization of Brahman",
+        "buddhism": "Satori, kensho - sudden awakening",
+        "sufism": "Fana - annihilation in divine",
+        "christian": "Mystical union, dark night of soul",
+        "secular": "Peak experiences (Maslow), flow states"
+      },
+      "cfo_interpretation": "Consciousness using N to access field of potentiality, recognizing its unity with absolute"
+    }
+  },
+
+  "relationship_to_other_aspects": {
+    "vs_sensorics": {
+      "intuition": "Accesses field of potentiality - abstract patterns, possibilities, what could be",
+      "sensorics": "Accesses concrete reality - present actuality, what is",
+      "tension": "N sees forest, S sees trees. N future-oriented, S present-oriented.",
+      "conflict": "Strongest function axis. Hardest to bridge.",
+      "integration": "Vision (N) must ground in reality (S). Reality (S) enriched by meaning (N).",
+      "example": "Inventor (N) imagines device, engineer (S) builds it."
+    },
+
+    "with_logic": {
+      "complementarity": "N generates hypothesis. T structures/verifies. Both needed for knowledge.",
+      "integration": "Science = N (creative hypothesis) + T (rigorous testing).",
+      "example": "Kekulé dreams benzene ring (N accessing field), then proves structure (T via logic)."
+    },
+
+    "with_ethics": {
+      "complementarity": "N sees big picture (patterns), F adds heart (relationships). N cold without F.",
+      "integration": "Wisdom = N (deep understanding) + F (compassionate application).",
+      "example": "Mystic (N) sees unity of all, saint (F) loves each person specifically."
+    }
+  },
+
+  "limits": {
+    "unreliability_without_expertise": {
+      "problem": "Novice intuitions often wrong - misreading field of potentiality",
+      "examples": [
+        "Gambler's fallacy (seeing patterns in randomness)",
+        "Conspiracy theories (connecting unrelated dots)",
+        "Snap judgments about people (stereotyping)",
+        "Financial bubbles (intuiting continued growth)"
+      ],
+      "solution": "Intuition reliable only in stable, learnable domains with feedback. Calibrate through experience."
+    },
+
+    "ungrounded_abstraction": {
+      "problem": "Can lose touch with concrete reality",
+      "examples": [
+        "Ivory tower academics (theories disconnected from real world)",
+        "Armchair philosophers (no lived experience)",
+        "Grandiose plans without execution",
+        "Mystical bypassing (transcendence avoiding immanence)"
+      ],
+      "necessity": "N must integrate with S (grounding) to be useful"
+    },
+
+    "paralysis_by_possibility": {
+      "problem": "Seeing too many options prevents action",
+      "especially": "Ne (extroverted intuition) problem",
+      "examples": [
+        "Cannot choose career (so many possibilities!)",
+        "Cannot commit to relationship (what if someone better?)",
+        "Cannot finish project (new ideas keep coming)",
+        "Cannot make decision (analyzing infinite scenarios)"
+      ],
+      "solution": "At some point must choose, commit, act. Use T and S to ground."
+    },
+
+    "pattern_hallucination": {
+      "problem": "Seeing patterns that aren't there - false signal",
+      "human_tendency": "Evolved to over-detect patterns (false positive < false negative)",
+      "examples": [
+        "Pareidolia (seeing faces in clouds, toast)",
+        "Apophenia (connecting random events)",
+        "Magical thinking (superstitions, rituals)",
+        "Conspiracy theories (everything connected!)"
+      ],
+      "pathology": "Schizotypy = overactive/uncalibrated pattern detection",
+      "science_solution": "Empirical testing (T + S) to verify pattern real"
+    },
+
+    "ineffability": {
+      "problem": "Deepest intuitions resist verbal expression",
+      "why": "Language = sequential. Intuition accesses holistic field. Structural mismatch.",
+      "examples": [
+        "Mystics struggle to describe experience ('not this, not that')",
+        "Artists: 'If I could say it, I wouldn't paint it'",
+        "Mathematicians: 'I see the proof but can't write it down yet'",
+        "Falling in love: 'I just know, can't explain'"
+      ],
+      "workarounds": "Poetry, metaphor, art, direct pointing (Zen finger → moon)"
+    }
+  },
+
+  "shadow": {
+    "description": "When intuition (N) overdevelops without integration with S, T, F - or operates unconsciously",
+    "general_patterns": {
+      "reality_disconnect": "Lost in abstract visions, missing present moment concrete needs",
+      "pattern_obsession": "Seeing meaning EVERYWHERE. Nothing is random. Paranoia.",
+      "elitism": "'Others just don't see what I see.' Gnostic superiority.",
+      "impracticality": "Grand visions, zero execution. 'Idea person' who never delivers.",
+      "future_anxiety": "Either apocalyptic doom OR utopian mania. Can't be in NOW.",
+      "spiritual_bypassing": "Using 'higher consciousness' to avoid dealing with material reality, relationships, body."
+    },
+    "integration_path": {
+      "develop_S": "Ground visions in physical reality. Build, make, touch, manifest.",
+      "develop_T": "Test intuitions logically. Falsifiable predictions. Rigor.",
+      "develop_F": "Care about people, not just patterns. Love > correctness.",
+      "humility": "Your pattern might be wrong. Stay open. Listen.",
+      "presence": "Be here now. Not always future/past/abstract."
+    }
+  },
+
+  "practices": {
+    "strengthen": {
+      "meditate": "Quiet mind, access deeper patterns below surface chatter",
+      "read_widely": "Cross-pollinate ideas. Intuition thrives on diverse inputs.",
+      "practice_metaphor": "See A in terms of B. Love = journey. Time = river. Life = ?",
+      "study_archetypes": "Jung, mythology, fairy tales. Universal patterns.",
+      "engage_arts": "Poetry, music, visual art activate holistic perception",
+      "ask_what_if": "Explore possibility space. Scenario planning. Future casting.",
+      "trust_hunches": "When gut says something, investigate. Calibrate intuition.",
+      "incubate_problems": "Sleep on it. Let unconscious work. Solution appears.",
+      "mind_map": "Non-linear note-taking. Radial, not sequential. Shows connections.",
+      "free_associate": "Say first thing that comes to mind. Bypass logical censor."
+    },
+
+    "avoid_pitfalls": {
+      "ground_in_reality": "Test visions against facts (use S). Don't get lost in abstractions.",
+      "develop_expertise": "Intuition reliable only in well-learned domains. Study deeply to calibrate.",
+      "commit_to_choices": "At some point stop exploring, start acting. Choose path.",
+      "verify_patterns": "Just because you see pattern doesn't mean it's real. Test (T).",
+      "honor_the_concrete": "Don't dismiss practical concerns as 'mundane'. Reality matters.",
+      "avoid_spiritual_bypassing": "Transcendence ≠ escape. Integrate all dimensions."
+    }
+  },
+
+  "wisdom": {
+    "necessity": "Without intuition, no new ideas, no creativity, no vision. Stuck repeating past.",
+    "sacred_role": "Intuition = consciousness accessing unified field, bringing novelty into spacetime.",
+    "love_connection": "Intuition most directly contacts absolute (mystical experience)",
+    "balance": "Intuition necessary but not sufficient - needs integration with T, F, S",
+    "awakening": "Can you see yourself intuiting? = witness position observing intuition accessing field"
+  },
+
+  "note": "You are not your intuitions. You are awareness (0D) USING intuition as instrument to access field of potentiality (5D). Patterns exist objectively; you RECOGNIZE them, not create them. ⊙"
+}

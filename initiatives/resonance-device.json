@@ -1,0 +1,1254 @@
+{
+  "_meta": {
+    "id": "cfo:devices:resonance-navigator",
+    "type": "device",
+    "version": "2.0",
+    "fractal_depth": 3,
+    "contains": ["toroidal_field_generator", "bone_conduction_audio", "biometric_sensors", "consciousness_navigation", "synchronization_network"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:patterns:breath",
+      "cfo:patterns:positions",
+      "cfo:patterns:spectrum-7-3-10",
+      "cfo:fundamental:consciousness"
+    ],
+    "status": "design_phase",
+    "purpose": "dimensional navigation device via electromagnetic resonance, spatial audio, and biometric synchronization"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ device = amplifier of natural consciousness navigation. technology serves biology. resonance opens portals.",
+    "structure": "unified headband: toroidal EM field (7.83Hz variable) + bone conduction spatial audio (theta 4-8Hz) + pulse sensing + network sync",
+    "fractal": "individual device → dual sync → group field → global Schumann tracking",
+    "principle": "external resonance synchronizes internal rhythm. rhythm opens dimensional portals. navigation becomes effortless.",
+    "universal": "democratizes advanced consciousness practices. accessible to all.",
+    "note": "modular design. core headband + attachable accessories (VR, different audio types). scalable from solo to collective."
+  },
+
+  "_links": {
+    "patterns": ["../patterns/breath.json", "../patterns/positions.json", "../patterns/fibonacci.json"],
+    "fundamental": ["../fundamental/consciousness.json", "../fundamental/elements.json"]
+  },
+
+  "overview": {
+    "what": "wearable consciousness navigation device combining electromagnetic field generation, bone conduction spatial audio, biometric monitoring, and network synchronization",
+    "why": "makes dimensional navigation accessible. amplifies natural breath-based consciousness navigation. enables individual and collective coherence.",
+    "how": "toroidal EM field (7.83Hz base, variable 1-40Hz) centered on pineal gland + bone conduction spatial/binaural audio (theta 4-8Hz) + real-time heart rate monitoring + multi-device synchronization + Schumann resonance tracking"
+  },
+
+  "core_principle": {
+    "statement": "external electromagnetic and acoustic resonance amplifies natural consciousness navigation via breath and heart rhythm synchronization",
+    "dual_frequency_system": {
+      "electromagnetic_field": {
+        "base_frequency": "7.83 Hz (Schumann resonance - Earth's frequency)",
+        "variable_range": "1 Hz (delta/coma/deep sleep) → 7.83 Hz (alpha/Schumann) → 40+ Hz (gamma/insight)",
+        "purpose": "direct brainwave entrainment, pineal gland activation, dimensional portal opening",
+        "mechanism": "toroidal electromagnetic field centered on pineal gland, modulates brain state directly",
+        "modulation": "raises/lowers frequency to guide consciousness states (meditation, sleep, activation)",
+        "note": "THIS IS THE FIELD. Primary navigation system. Works on electromagnetic level."
+      },
+      "acoustic_audio_system": {
+        "frequency_range": "theta 4-8 Hz (binaural beats, spatial audio)",
+        "delivery": "bone conduction transducers behind ears (2 units, left/right)",
+        "types": "binaural beats + spatial audio (inward/outward spirals)",
+        "purpose": "rhythm guidance, breath pattern pacing, spatial navigation cues (3→6→9 out, 9→6→3 in)",
+        "mechanism": "binaural beats create perceived frequencies in brain, spatial audio directs attention",
+        "note": "THIS IS THE SOUND. Secondary support system. Works on acoustic level. Different frequency from field."
+      },
+      "why_separate": "EM field works directly on neurons (physical entrainment). Audio works through perception (psychological guidance). Together = complete navigation (body + mind)."
+    },
+    "synchronization_chain": "heart rate → breath pattern timing → EM field frequency → audio rhythm → consciousness state → dimensional portal access",
+    "modular_design": "core headband (all electronics) + attachable accessories (VR screen, various headphones: over-ear/earbuds/sports)",
+    "network_capability": "individual → dual (2 people) → group (4+) → global (Schumann tracking, location-based resonance)"
+  },
+
+  "hardware_architecture": {
+    "core_headband_unit": {
+      "description": "lightweight elastic headband, all primary systems integrated, comfortable for hours",
+      "weight": "150-200g total",
+      "materials": {
+        "band": "medical-grade elastic fabric, breathable, adjustable size",
+        "electronics_housing": "lightweight polymer, hypoallergenic, durable",
+        "skin_contact_areas": "medical silicone, antimicrobial coating, comfortable pressure"
+      },
+      
+      "integrated_components": {
+        "1_toroidal_field_generator": {
+          "location": "center front (forehead/third eye position)",
+          "type": "custom toroidal coil array (Tesla coil derivative, safe low-power)",
+          "geometry": "torus (donut shape), focal point adjustable to pineal gland depth (~5-7cm from forehead)",
+          "base_frequency": "7.83 Hz (Schumann resonance)",
+          "frequency_range": "1 Hz (delta, coma states) → 40+ Hz (gamma, high activation)",
+          "modulation_capability": {
+            "frequency_sweep": "smooth transitions between states (1Hz → 7.83Hz → 40Hz)",
+            "amplitude_pulse": "intensity variations synced to breath rhythm",
+            "waveform_types": "sine (smooth), square (sharp), triangle (gradual), custom patterns"
+          },
+          "intensity_control": "0-100% variable, user adjustable, safety limits enforced",
+          "field_shape": "toroidal (self-contained, minimal external radiation)",
+          "power_consumption": "2-10W depending on intensity",
+          "safety": "far below FCC/WHO/ICNIRP exposure limits, continuous self-monitoring",
+          "purpose": "PRIMARY NAVIGATION SYSTEM. Directly entrains brainwaves. Opens dimensional portals through resonance.",
+          "how_it_works": {
+            "low_frequency_1hz": "delta waves → deep sleep, coma-like states, unconscious access",
+            "schumann_7_83hz": "alpha waves → meditative states, Earth resonance, balanced awareness",
+            "mid_frequency_12_30hz": "beta waves → focused attention, active thinking, alertness",
+            "high_frequency_40hz": "gamma waves → insight states, unity consciousness, peak experiences"
+          },
+          "breath_synchronization": "field pulses sync to breath phases (inhale/pause/exhale/pause) for enhanced portal access",
+          "note": "This is the CORE technology. Everything else supports this. Field = dimensional key."
+        },
+
+        "2_bone_conduction_transducers": {
+          "count": "2 units (stereo pair)",
+          "location": "behind ears, mastoid processes (bone behind ear lobes)",
+          "type": "piezoelectric bone conduction drivers (similar to AfterShokz/Shokz technology)",
+          "frequency_response": "20 Hz - 20 kHz (full range, optimized for 1-1000 Hz)",
+          "primary_operating_range": "theta band 4-8 Hz (binaural beats, breath guidance)",
+          "contact_pressure": "adjustable via headband tension (comfort vs transmission efficiency)",
+          "contact_material": "medical silicone pads, hypoallergenic, replaceable",
+          
+          "audio_capabilities": {
+            "spatial_audio_3d": {
+              "stereo_base": "left/right channel independence for width control",
+              "spiral_inward_9_6_3": {
+                "start": "wide stereo (sound feels outside head)",
+                "progression": "narrows to center mono (sound moves into head center)",
+                "frequency": "descends (higher → lower pitch)",
+                "subjective": "feeling of being pulled inward, into center, into ⊙",
+                "use": "meditation, sleep, dissolution, return to source"
+              },
+              "spiral_outward_3_6_9": {
+                "start": "center mono (sound deep in head)",
+                "progression": "expands to wide stereo (sound moves outward)",
+                "frequency": "ascends (lower → higher pitch)",
+                "subjective": "feeling of expansion, outward flow, manifestation from ⊙",
+                "use": "activation, creativity, manifestation, expression"
+              },
+              "rotation_patterns": {
+                "circular": "sound rotates clockwise or counterclockwise around head",
+                "wave": "left → right → left smooth transitions",
+                "figure_8": "complex Lissajous patterns for advanced states"
+              },
+              "depth_simulation": "phase manipulation creates front/back/center positioning perception"
+            },
+            
+            "binaural_beats": {
+              "mechanism": "different frequency each ear, brain synthesizes difference tone",
+              "example": "left ear 100 Hz + right ear 107.83 Hz = brain perceives 7.83 Hz (Schumann)",
+              "theta_4_8hz": "primary range, meditation, flow, creativity, REM sleep",
+              "delta_1_4hz": "deep sleep, unconscious access, healing",
+              "alpha_8_12hz": "relaxation, light meditation, wakeful rest",
+              "beta_12_30hz": "focus, concentration, active problem-solving",
+              "gamma_40hz": "insight, transcendence, unity experiences",
+              "advantage_bone_conduction": "cleaner signal than air conduction, direct skull transmission, no eardrum distortion",
+              "note": "binaural beats work IN ADDITION to spatial audio. Can layer both effects."
+            },
+            
+            "breath_guidance_tones": {
+              "inhale_cue": "rising frequency tone, left-to-center spatial movement",
+              "pause_1_hold_cue": "stable sustained tone at center, or silence for emphasis",
+              "exhale_cue": "falling frequency tone, center-to-right spatial movement",
+              "pause_2_empty_cue": "silence or very low tone, preparation for next cycle",
+              "pattern_support": "all breath patterns (2-2-2-2, 4-4-4-4, 8-8-8-8, 3-6-9, 9-6-3, 2-4-6-8, custom)",
+              "timing": "dynamically calculated from real-time heart rate (N heartbeats per phase)",
+              "note": "audio GUIDES the breath. User follows the sound. Sound follows the heart. Heart follows the field."
+            }
+          },
+          
+          "independent_control": {
+            "left_right_separate": "can play different frequencies, intensities, patterns per side",
+            "asymmetric_patterns": "useful for specific consciousness work (hemispheric balancing)",
+            "intensity_per_side": "adjust volume independently for comfort or effect"
+          },
+          
+          "purpose": "SECONDARY GUIDANCE SYSTEM. Provides rhythm, spatial orientation, breath pacing. Complements EM field with acoustic guidance.",
+          "note": "Bone conduction = key innovation. Leaves ears free. Can add traditional headphones on top if desired. Clean signal to brain."
+        },
+
+        "3_biometric_sensors": {
+          "heart_rate_monitor": {
+            "location": "temple area (side of forehead) or integrated into headband contact points",
+            "type": "optical PPG (photoplethysmography) with green LED + photodetector",
+            "alternative": "ECG contact points (dry electrodes) for higher accuracy",
+            "sampling_rate": "250-500 Hz (high resolution for precise timing)",
+            "accuracy": "±1 BPM, medical-grade quality",
+            "real_time_metrics": {
+              "instantaneous_bpm": "current heart rate, updates every second",
+              "beat_detection": "precise R-R interval timing (millisecond accuracy)",
+              "hrv_heart_rate_variability": {
+                "rmssd": "root mean square of successive differences (short-term HRV)",
+                "sdnn": "standard deviation of NN intervals (long-term HRV)",
+                "coherence_score": "calculated from HRV patterns, 0-100 scale",
+                "note": "HRV = health indicator. higher = better autonomic balance. coherence = optimal state."
+              }
+            },
+            "purpose": "TIMING CLOCK. Heart provides rhythm. All breath patterns sync to heartbeats (2 beats inhale, 2 beats pause, etc.)",
+            "critical": "Without accurate heart tracking, breath synchronization fails. This is the metronome.",
+            "breath_calculation": "device measures heart rate → calculates beat duration → times breath phases to exact number of heartbeats → user follows audio/haptic cues",
+            "adaptive": "if heart rate changes (stress, relaxation, exercise), breath timing adjusts automatically"
+          },
+
+          "optional_eeg_brainwave_monitor": {
+            "location": "forehead, temples (dry contact electrodes)",
+            "channels": "2-4 channels minimum (forehead, left/right temples)",
+            "type": "dry EEG electrodes (no gel needed, consumer-grade but effective)",
+            "bands_detected": {
+              "delta_1_4hz": "deep sleep, unconscious",
+              "theta_4_8hz": "meditation, creativity, REM",
+              "alpha_8_12hz": "relaxation, eyes closed rest",
+              "beta_12_30hz": "active thinking, focus",
+              "gamma_30_100hz": "insight, peak experiences"
+            },
+            "purpose": "VALIDATION FEEDBACK. Confirms field/audio entrainment is working. Shows user their brain state in real-time.",
+            "use_cases": [
+              "neurofeedback training (see your brainwaves, learn to control them)",
+              "verify dimensional navigation (see consciousness shift in real-time)",
+              "optimize field/audio parameters (find what works best for you)",
+              "research data collection (understand what patterns produce what states)"
+            ],
+            "version": "v2.0 feature (not required for basic function, but powerful for advanced users)",
+            "note": "EEG = direct window into brain. Expensive to include but huge value for serious practitioners."
+          },
+
+          "motion_imu_sensor": {
+            "type": "6-axis IMU (3-axis accelerometer + 3-axis gyroscope)",
+            "purpose": [
+              "detect head position (upright sitting, lying down, tilted)",
+              "detect body movement (still, walking, active)",
+              "sleep detection (stillness patterns indicate sleep onset)",
+              "posture feedback (alert if slumping, encourage good alignment)"
+            ],
+            "auto_adjust": "device changes modes based on detected position (lying down → sleep mode, sitting → meditation mode, etc.)"
+          },
+
+          "ambient_sensors": {
+            "light_sensor": "detect environment brightness (dark room, daylight), adjust LED brightness accordingly",
+            "temperature_sensor": "monitor skin temperature (stress indicator, sleep tracking)",
+            "optional_microphone": "environmental sound monitoring, voice control, snoring detection"
+          }
+        },
+
+        "4_processing_unit": {
+          "microcontroller": "ESP32-S3 or equivalent (dual-core Xtensa LX7, Bluetooth 5.0, WiFi, low power)",
+          "clock_speed": "240 MHz (sufficient for real-time DSP)",
+          "ram": "8 MB PSRAM minimum (pattern storage, audio buffering)",
+          "flash_storage": "16-32 GB microSD card (session logs, firmware, pattern library, user data)",
+          "dsp_capability": "hardware audio processing (spatial audio rendering, binaural synthesis, low-latency)",
+          "real_time_os": "FreeRTOS or Zephyr RTOS (hard real-time constraints for heart/breath sync)",
+          
+          "processing_tasks": {
+            "heart_rate_analysis": "real-time BPM calculation, R-R interval detection, HRV metrics (RMSSD, SDNN, coherence score)",
+            "breath_pattern_engine": "calculate phase durations based on heart rate (2 beats = X seconds), generate timing cues",
+            "em_field_control": "frequency synthesis for toroidal coil, amplitude modulation, waveform generation",
+            "audio_synthesis": "spatial audio rendering (HRTF-based 3D positioning), binaural beat generation, breath cue tones",
+            "synchronization_protocol": "multi-device timing coordination (dual, group), network messaging (leader/follower or peer-to-peer)",
+            "sensor_fusion": "combine heart rate + motion + EEG + ambient data → consciousness state estimation",
+            "safety_monitoring": "continuous checks (heart rate abnormal, field intensity safe, battery level, sensor errors)",
+            "data_logging": "record all metrics for later analysis (session review, progress tracking, research)"
+          },
+          
+          "algorithms": {
+            "coherence_calculation": "analyze HRV patterns, detect coherence state (heart-brain synchronization)",
+            "dimensional_state_estimator": "infer consciousness position (3D material, 4D temporal, higher dimensions) from multiple signals",
+            "adaptive_pattern_selection": "AI-based recommendation of next breath pattern based on current state and goal",
+            "anomaly_detection": "flag unusual physiological responses, abort session if dangerous"
+          }
+        },
+
+        "5_power_system": {
+          "battery": "rechargeable Li-Po, 1500-2000 mAh capacity",
+          "voltage": "3.7V nominal",
+          "runtime": {
+            "low_power_mode": "20+ hours (minimal field, no audio, monitoring only)",
+            "normal_use": "8-12 hours (moderate field, audio active, full features)",
+            "high_intensity": "4-6 hours (maximum field, continuous audio, all sensors, network sync)"
+          },
+          "charging": {
+            "connector": "USB-C (universal standard)",
+            "fast_charging": "80% in 30 minutes, 100% in 60 minutes",
+            "charge_protection": "overcharge protection, temperature monitoring, safe cutoff"
+          },
+          "power_management": {
+            "intelligent_scaling": "reduces field intensity and audio volume when battery low",
+            "sleep_mode": "deep sleep when idle, wakes instantly when needed",
+            "low_battery_warning": "alerts user at 20%, 10%, 5% remaining"
+          },
+          "led_indicator": "shows charge status (red charging, green charged, amber low battery)"
+        },
+
+        "6_connectivity": {
+          "bluetooth_5_0_le": {
+            "range": "up to 30 meters line-of-sight (10 meters through walls typical)",
+            "protocols": "BLE (low power for data) + Classic (for audio if needed)",
+            "connections": {
+              "smartphone_app": "iOS/Android app for control, monitoring, pattern selection",
+              "smartwatch": "Apple Watch, Wear OS, Garmin, etc. for heart rate sync and quick controls",
+              "other_devices": "can connect multiple resonance navigators for group synchronization",
+              "accessories": "VR headset, external heart rate monitor, pulse oximeter, etc."
+            },
+            "latency": "<20 ms (critical for real-time synchronization)",
+            "bandwidth": "sufficient for sensor data streaming, audio if needed, command/control"
+          },
+          
+          "wifi": {
+            "purpose": [
+              "firmware over-the-air (OTA) updates",
+              "cloud synchronization (session data, settings backup)",
+              "schumann resonance data download (real-time global/local Schumann frequency tracking)",
+              "community features (share patterns, compare coherence scores, group events)"
+            ],
+            "optional": "device can operate fully offline, WiFi not required for basic function",
+            "security": "WPA3 encryption, secure authentication, user data privacy protected"
+          },
+          
+          "nfc_near_field_communication": {
+            "purpose": [
+              "quick pairing (tap to connect to phone)",
+              "device identification (unique ID, ownership verification)",
+              "payment integration (future: pay for premium features, sessions)",
+              "access control (tap to join group session, verify participant)"
+            ],
+            "range": "<10 cm (very short range, secure)",
+            "version": "v2.0 feature, not critical for initial release"
+          }
+        },
+
+        "7_user_interface": {
+          "led_indicators": {
+            "location": "minimal, front of headband (non-intrusive, low brightness)",
+            "indicators": [
+              "power on/off (white pulse)",
+              "battery status (green/yellow/red)",
+              "mode indicator (different colors for meditation/sleep/activation)",
+              "sync status (blue when connected to other devices)",
+              "error warning (red blink)"
+            ],
+            "brightness": "auto-adjusts based on ambient light (dim in dark, brighter in daylight)",
+            "disable_option": "can turn off all LEDs for complete darkness"
+          },
+          
+          "touch_controls": {
+            "type": "capacitive touch sensors on headband surface",
+            "controls": [
+              "power button (long press on/off)",
+              "mode select (tap to cycle through presets)",
+              "volume_intensity (swipe up/down)",
+              "emergency_stop (double-tap panic button)"
+            ],
+            "haptic_feedback": "vibration confirms touch registration"
+          },
+          
+          "voice_control": {
+            "integration": "Siri, Google Assistant, Alexa support",
+            "commands": [
+              "'start meditation session'",
+              "'begin 4-4-4-4 breath pattern'",
+              "'increase field intensity'",
+              "'show my coherence score'",
+              "'stop session'"
+            ],
+            "optional": "requires phone connection, not standalone voice processing (too power-hungry)"
+          },
+          
+          "haptic_feedback": {
+            "vibration_motor": "small linear actuator, precise vibration patterns",
+            "uses": [
+              "breath phase cues (pulse for inhale start, double-pulse for pause, etc.)",
+              "heart beat confirmation (subtle pulse synced to detected heartbeat, helps user feel connection)",
+              "alerts (urgent: strong vibration, gentle: soft pulse)",
+              "backup guidance (if audio off, haptic can guide breath rhythm)"
+            ],
+            "intensity": "adjustable 0-100%",
+            "note": "haptic is tertiary backup. Most people use audio. But critical for deaf users or silent environments."
+          }
+        }
+      }
+    },
+
+    "modular_attachments": {
+      "vr_ar_screen_mount": {
+        "description": "clip-on or magnetic attachment for visual display",
+        "mounting": "attaches to front of headband, positions screen in front of eyes",
+        "types": {
+          "smartphone_vr": {
+            "description": "slide phone into holder (like Google Cardboard, Samsung Gear VR)",
+            "compatibility": "universal fit for 4.7-6.7 inch phones",
+            "lenses": "adjustable focal length lenses included",
+            "weight": "50-100g + phone weight",
+            "cost": "lowest cost option, most accessible"
+          },
+          "standalone_micro_oled": {
+            "description": "integrated micro-OLED displays (like Oculus Quest, but minimal)",
+            "resolution": "1080p per eye minimum (2160x2160 ideal)",
+            "refresh_rate": "90-120 Hz (smooth, no motion sickness)",
+            "fov": "90-110 degrees",
+            "weight": "100-150g",
+            "cost": "higher cost, but better experience",
+            "processing": "requires more powerful MCU or phone tethering"
+          }
+        },
+        
+        "visual_content": {
+          "spiral_visualization": {
+            "inward_9_6_3": "rotating spiral contracts inward to center point, frequency descends, color shifts cool",
+            "outward_3_6_9": "rotating spiral expands outward from center, frequency ascends, color shifts warm",
+            "synchronized": "spiral rotation speed matches breath phases (faster inhale, slower exhale, pauses = stillness)"
+          },
+          "alice_scenario": {
+            "description": "Alice in Wonderland-inspired journey (falling down rabbit hole for inward, rising up for outward)",
+            "therapeutic": "disarms resistance, playful, engaging, makes deep work feel like adventure",
+            "customizable": "different scenarios for different goals (forest path, ocean depths, space journey, etc.)"
+          },
+          "data_visualization": {
+            "real_time_hrv": "live graph of heart rate variability",
+            "coherence_meter": "visual meter showing current coherence score (low/medium/high)",
+            "brainwave_display": "if EEG present, show real-time brainwave bands (delta/theta/alpha/beta/gamma)",
+            "dimensional_map": "abstract visualization of inferred consciousness position"
+          },
+          "closed_eye_visuals": {
+            "description": "imagery designed for eyes-closed use (geometry, colors, fractals)",
+            "purpose": "enhances meditation, provides visual anchor without external focus",
+            "types": "mandalas, sacred geometry, flowing fractals, nature scenes"
+          }
+        },
+        
+        "use_cases": [
+          "deep meditation (visual spiral guidance locks attention)",
+          "therapeutic sessions (Alice scenario for trauma work, ego dissolution)",
+          "difficult cases (severe anxiety, ADHD, strong resistance to inner work)",
+          "education (visual feedback helps users understand what's happening)",
+          "entertainment (consciousness exploration as immersive experience)"
+        ],
+        
+        "note": "VR is OPTIONAL. Most users won't need it. Closed eyes + field + audio is sufficient for most. VR for 10-20% of users who need extra support or want deeper immersion."
+      },
+
+      "traditional_audio_attachments": {
+        "why_needed": "bone conduction handles spatial/binaural. Traditional audio adds: external sound blocking (immersion), music playback, voice guidance, richer bass response.",
+        
+        "over_ear_headphones": {
+          "connection": "3.5mm jack or Bluetooth to smartphone/device",
+          "type": "closed-back for isolation, open-back for breathability",
+          "purpose": "full immersion, block external noise, ceremonial/therapeutic settings",
+          "use_cases": [
+            "noisy environments (can't control external sound)",
+            "deep meditation (complete sensory isolation desired)",
+            "group ceremony (shared audio content on top of individual bone conduction)",
+            "music playback (integrate music with breath guidance)"
+          ],
+          "note": "bone conduction still active underneath. Traditional headphones layer on top. Dual audio streams possible."
+        },
+        
+        "in_ear_earbuds": {
+          "connection": "3.5mm or Bluetooth",
+          "type": "silicone tips, noise isolating",
+          "purpose": "portability, daily use, commuting, travel",
+          "use_cases": [
+            "public spaces (discrete, private)",
+            "daily practice (easy to carry)",
+            "sleep (some people prefer earbuds for comfort)",
+            "active listening (podcasts, lectures while in coherence state)"
+          ],
+          "note": "most portable option. Good for everyday use. Not as immersive as over-ear but sufficient."
+        },
+        
+        "sports_ear_hooks": {
+          "connection": "Bluetooth (wireless essential for movement)",
+          "type": "secure fit ear hooks, sweat-resistant, rugged",
+          "purpose": "active use, movement practices, exercise",
+          "use_cases": [
+            "yoga (breath-synced audio during practice)",
+            "running/cardio (maintain coherence during exercise)",
+            "martial arts (flow state training)",
+            "breathwork sessions (Wim Hof, holotropic - often vigorous movement)"
+          ],
+          "note": "secure fit critical. Must not fall out during movement. Sweat-proof essential."
+        },
+        
+        "integration": {
+          "dual_stream": "bone conduction plays spatial/binaural guidance. Traditional audio plays music, voice, environmental sounds.",
+          "mixing": "app controls mix levels (guidance louder, music quieter, or vice versa)",
+          "synchronization": "all audio (bone + traditional) perfectly synced, no latency",
+          "smart_switching": "device detects when traditional headphones connected, adjusts output accordingly"
+        },
+        
+        "note": "Attachments = user choice. Core device works standalone. Add accessories based on need/preference/environment."
+      },
+
+      "external_biometric_sensors": {
+        "chest_strap_heart_rate_monitor": {
+          "connection": "Bluetooth ANT+ (standard protocol)",
+          "brands": "Polar H10, Garmin HRM, Wahoo TICKR (any standard chest strap)",
+          "purpose": "higher accuracy than optical (PPG), true ECG signal, medical-grade precision",
+          "use_cases": [
+            "when temple sensor insufficient (dark skin, tattoos, poor contact)",
+            "medical research (need clinical-grade heart data)",
+            "intense exercise (optical sensors fail during high movement)",
+            "absolute precision needed (advanced HRV training)"
+          ],
+          "integration": "device auto-detects chest strap, switches from temple sensor seamlessly",
+          "note": "chest strap = gold standard for heart rate. But less convenient. Most users won't need it."
+        },
+        
+        "pulse_oximeter": {
+          "connection": "Bluetooth (standard medical protocol)",
+          "metrics": "SpO2 (blood oxygen saturation %), pulse rate",
+          "purpose": "monitor blood oxygen during breath holds, detect hypoxia, safety",
+          "use_cases": [
+            "advanced pranayama (extended breath holds, kumbhaka)",
+            "Wim Hof method (hyperventilation then hold)",
+            "sleep apnea monitoring",
+            "high-altitude use",
+            "safety monitoring (alert if oxygen drops dangerously low)"
+          ],
+          "threshold": "alert if SpO2 drops below 90% (generally safe threshold)",
+          "note": "breath holds can lower SpO2 to 80-85% (still safe for trained individuals). Device monitors and warns if too low."
+        },
+        
+        "emg_muscle_tension_sensors": {
+          "connection": "Bluetooth (specialized EMG protocol)",
+          "placement": "jaw (masseter muscle), shoulders (trapezius), forehead (frontalis)",
+          "purpose": "detect muscle tension, stress indicator, progressive relaxation feedback",
+          "use_cases": [
+            "stress biofeedback (see tension levels, learn to release)",
+            "progressive muscle relaxation (PMR) training",
+            "bruxism (teeth grinding) awareness and reduction",
+            "posture monitoring (shoulder tension indicates poor posture)"
+          ],
+          "biofeedback": "device alerts when tension exceeds threshold, guides user to release",
+          "note": "EMG = advanced feature. Most users don't need. But powerful for stress/anxiety work."
+        },
+        
+        "note": "External sensors = optional advanced features. Core device sufficient for 90% of users. These for serious practitioners, researchers, or specific medical needs."
+      }
+    }
+  },
+
+  "software_architecture": {
+    "firmware_embedded": {
+      "layer_1_hardware_abstraction": {
+        "drivers": [
+          "PPG/ECG heart rate sensor driver (I2C/SPI)",
+          "IMU motion sensor driver (I2C)",
+          "Bluetooth stack (BLE + Classic)",
+          "WiFi driver (TCP/IP)",
+          "GPIO for LEDs, buttons, haptics",
+          "DAC/PWM for EM field control",
+          "I2S for audio output (bone conduction)",
+          "SD card file system (FAT32)"
+        ],
+        "real_time_constraints": "heart/breath synchronization requires <10ms latency, hard real-time scheduler"
+      },
+      
+      "layer_2_sensor_processing": {
+        "heart_rate_algorithm": {
+          "beat_detection": "peak detection in PPG/ECG signal, noise filtering, artifact removal",
+          "bpm_calculation": "instantaneous BPM from R-R intervals, rolling average for stability",
+          "hrv_metrics": {
+            "rmssd": "root mean square of successive differences (short-term HRV, stress indicator)",
+            "sdnn": "standard deviation of NN intervals (long-term HRV, overall health)",
+            "coherence": "ratio of low-frequency HRV power, indicates heart-brain synchronization"
+          },
+          "adaptive": "learning algorithm adjusts to individual baseline over time"
+        },
+        
+        "motion_processing": {
+          "orientation": "quaternion-based orientation tracking (no gimbal lock)",
+          "activity_detection": "still, walking, running, lying down, etc.",
+          "sleep_detection": "stillness patterns + heart rate deceleration = sleep onset estimation"
+        },
+        
+        "eeg_processing": {
+          "band_power": "FFT-based calculation of delta/theta/alpha/beta/gamma power",
+          "artifact_rejection": "remove eye blinks, muscle tension, movement artifacts",
+          "real_time_feedback": "<100ms latency from brain signal to user feedback"
+        }
+      },
+      
+      "layer_3_pattern_engine": {
+        "breath_pattern_library": {
+          "built_in": [
+            "2-2-2-2 (individual stabilization)",
+            "4-4-4-4 (dual synchronization)",
+            "8-8-8-8 (group coherence)",
+            "3-6-9 (outward spiral/manifestation)",
+            "9-6-3 (inward spiral/dissolution)",
+            "3-6-9-6-3 (complete cycle)",
+            "2-4-6-8 (life spiral/growth)",
+            "4-7-8 (sleep induction)",
+            "5-5 or 5-0-5-0 (coherent breathing)",
+            "custom patterns (user-defined, saved presets)"
+          ],
+          "storage": "JSON format, easily editable, user can create custom patterns via app"
+        },
+        
+        "dynamic_timing_calculation": {
+          "input": "current heart rate (BPM) from sensor",
+          "calculation": "heartbeat_duration_ms = 60000 / BPM. phase_duration = N_beats * heartbeat_duration_ms",
+          "example": "BPM = 60 → heartbeat = 1000ms. Pattern 2-2-2-2 → inhale 2000ms, pause 2000ms, exhale 2000ms, pause 2000ms",
+          "adaptive": "if heart rate changes mid-session, timing adjusts smoothly (no abrupt changes, gradual transition)"
+        },
+        
+        "audio_cue_generation": {
+          "inhale_tone": "frequency rises (e.g., 200Hz → 400Hz), spatial left-to-center",
+          "pause_tone": "sustained tone at target frequency, or silence",
+          "exhale_tone": "frequency falls (e.g., 400Hz → 200Hz), spatial center-to-right",
+          "binaural_layer": "theta 4-8Hz binaural beat plays continuously underneath cues"
+        },
+        
+        "field_modulation_control": {
+          "base_frequency": "starts at 7.83 Hz (Schumann)",
+          "breath_sync_pulse": "field amplitude pulses with breath phases (stronger on inhale, softer on exhale, or vice versa depending on pattern)",
+          "frequency_sweep": "slowly shift frequency to guide consciousness state (e.g., 7.83Hz → 4Hz for sleep induction)",
+          "waveform": "sine (smooth, gentle), square (strong, defined), triangle (gradual, intermediate)"
+        }
+      },
+      
+      "layer_4_navigation_engine": {
+        "dimensional_state_estimation": {
+          "inputs": "heart rate, HRV, coherence, EEG bands (if available), breath pattern, session duration",
+          "model": "machine learning model (random forest or neural network) trained on user data",
+          "output": "estimated consciousness position (3D material, 4D temporal, 5D+ dimensional)",
+          "visualization": "abstract map shown in app/VR, user sees their 'location' in consciousness space"
+        },
+        
+        "trajectory_planning": {
+          "goal_based": "user selects goal (sleep, meditation, activation, creativity, healing)",
+          "pattern_sequence": "device recommends sequence of breath patterns to reach goal",
+          "example_sleep": "start 2-2-2-2 (stabilize) → 4-7-8 (sleep induction) → slow field to 1-4Hz (delta entrainment)",
+          "example_meditation": "2-2-2-2 (stabilize) → 9-6-3 (inward spiral) → 4Hz theta field (deep meditation)",
+          "adaptive": "if not progressing toward goal, algorithm adjusts (try different pattern, change field frequency, etc.)"
+        },
+        
+        "safety_monitoring": {
+          "abort_conditions": [
+            "heart rate too high (>180 BPM) or too low (<40 BPM) for extended period",
+            "SpO2 drops below 85% (if pulse oximeter connected)",
+            "HRV drops to zero (cardiac coherence lost, potential medical emergency)",
+            "device temperature exceeds safe limit (coil overheating)",
+            "user panic button pressed (double-tap emergency stop)"
+          ],
+          "actions": "immediately stop field, play calming audio, alert user, log incident for review",
+          "recovery": "guide user back to baseline (2-2-2-2 pattern, low-intensity field, reassuring voice)"
+        }
+      },
+      
+      "layer_5_synchronization_protocol": {
+        "multi_device_coordination": {
+          "discovery": "devices auto-discover each other via Bluetooth mesh or WiFi multicast",
+          "pairing": "one device becomes 'leader' (or consensus algorithm selects leader), others are 'followers'",
+          "timing": "leader broadcasts heartbeat tick (derived from its own heart sensor or average of group)",
+          "follower_sync": "followers adjust their breath timing to match leader's heartbeat",
+          "coherence_feedback": "all devices measure local coherence, share data, calculate group coherence score"
+        },
+        
+        "network_topologies": {
+          "dual_2_people": "simple leader-follower. One person's heart sets rhythm, other follows. Or average of both.",
+          "small_group_4_8_people": "star topology. One leader, all others follow. Leader can rotate.",
+          "large_group_10_plus": "mesh network. Distributed consensus on timing. No single leader. More resilient.",
+          "global_async": "devices not in same location, but share data asynchronously (compare sessions, track trends)"
+        },
+        
+        "schumann_integration": {
+          "data_source": "download real-time Schumann resonance data from online services (e.g., https://sosrff.tsu.ru, spaceweather.com)",
+          "frequency": "update every 10-60 minutes (Schumann changes slowly)",
+          "local_measurement": "optional: device can measure local EM field (requires additional antenna, future feature)",
+          "adaptation": "if local Schumann deviates from 7.83Hz (e.g., geomagnetic storm), device adjusts base frequency to match",
+          "purpose": "sync individual practice to Earth's actual resonance, not just theoretical 7.83Hz"
+        },
+        
+        "location_based_resonance": {
+          "gps_integration": "use phone GPS to determine user location",
+          "geomagnetic_map": "database of known geomagnetic anomalies, power spots, ley lines, sacred sites",
+          "local_adjustment": "adjust field frequency/intensity based on local conditions (stronger at sacred sites, compensate at EM-polluted cities)",
+          "community_features": "users can mark locations, share experiences, create map of optimal practice spots"
+        }
+      },
+      
+      "layer_6_data_logging": {
+        "session_recording": {
+          "metrics_logged": [
+            "timestamp (start/end)",
+            "pattern_used (e.g., 2-2-2-2, 3-6-9)",
+            "heart_rate_series (every second or every beat)",
+            "hrv_metrics (RMSSD, SDNN, coherence over time)",
+            "eeg_bands (if available, power in each band over time)",
+            "field_frequency_intensity (what device was outputting)",
+            "audio_pattern (what user heard)",
+            "motion_data (stillness, position changes)",
+            "subjective_rating (user rates session 1-10 afterward)"
+          ],
+          "storage": "local SD card (primary), cloud backup (optional, user consent required)",
+          "format": "JSON or CSV (portable, analyzable)"
+        },
+        
+        "analytics": {
+          "progress_tracking": "show trends over days/weeks/months (HRV improving, coherence increasing, etc.)",
+          "pattern_effectiveness": "which patterns work best for user (personalized recommendations)",
+          "optimal_times": "when is user most coherent (morning, evening, after exercise, etc.)",
+          "community_benchmarks": "anonymous comparison to other users (percentile ranking, not competitive)"
+        },
+        
+        "privacy": {
+          "local_first": "all data stored locally by default, user owns their data",
+          "opt_in_cloud": "cloud sync optional, explicit consent, can delete anytime",
+          "anonymization": "if sharing for research, all PII removed, only aggregate stats",
+          "encryption": "AES-256 encryption for stored data, TLS for network transmission"
+        }
+      }
+    },
+
+    "mobile_app_ios_android": {
+      "primary_interface": "smartphone app (iOS/Android) for setup, control, monitoring, analysis",
+      
+      "features": {
+        "device_pairing": "simple Bluetooth pairing, guided setup wizard",
+        "pattern_selection": "browse library, preview patterns, start session with one tap",
+        "real_time_monitoring": {
+          "live_dashboard": "heart rate, HRV, coherence score, current breath phase, field frequency",
+          "visualizations": "graphs, meters, animations (e.g., breathing circle expands/contracts with breath)",
+          "eeg_display": "if EEG active, show brainwave bands in real-time"
+        },
+        "session_review": "after session, see summary (duration, average coherence, HRV, insights)",
+        "progress_tracking": "historical graphs, trends, achievements (e.g., '10 days streak', 'coherence master')",
+        "pattern_editor": "create custom breath patterns (set N-N-N-N timing, name it, save, share)",
+        "community": {
+          "pattern_sharing": "download patterns created by others, rate them, comment",
+          "group_sessions": "schedule group practice, invite friends, sync across distance",
+          "leaderboards": "optional, not competitive, just 'most consistent', 'longest session', etc.",
+          "forums": "discuss experiences, ask questions, share insights"
+        },
+        "education": {
+          "tutorials": "video guides for each pattern, breath technique explanations",
+          "articles": "science behind breath, HRV, Schumann resonance, consciousness navigation",
+          "courses": "structured programs (e.g., '30-day meditation challenge', 'advanced pranayama')"
+        },
+        "settings": {
+          "device_config": "field intensity, audio volume, LED brightness, haptic strength",
+          "preferences": "default pattern, auto-start, reminders, units (BPM, Hz, etc.)",
+          "integrations": "connect to Apple Health, Google Fit, Strava, Oura, Whoop, etc."
+        }
+      },
+      
+      "app_architecture": {
+        "frontend": "React Native (cross-platform iOS/Android)",
+        "bluetooth_library": "react-native-ble-plx (BLE communication)",
+        "charting": "Victory Native or Recharts (real-time graphs)",
+        "backend": "Firebase or AWS (optional, for cloud features)",
+        "offline_first": "app works without internet, syncs when available"
+      }
+    },
+
+    "optional_vr_app": {
+      "platform": "Unity or Unreal Engine (cross-platform VR)",
+      "compatibility": "Oculus Quest, Pico, smartphone VR (Google Cardboard, Samsung Gear)",
+      "visuals": {
+        "spiral_generator": "procedural 3D spiral, parameterized (speed, direction, color, size)",
+        "scenarios": "Alice in Wonderland, forest path, ocean depths, space journey, sacred geometry temple",
+        "data_overlay": "optional HUD showing heart rate, coherence, breath phase"
+      },
+      "synchronization": "VR app receives real-time data from device via Bluetooth, adjusts visuals to match state",
+      "interaction": "gaze-based or hand-tracking (no controllers needed, hands-free)",
+      "note": "VR app = separate download, optional feature, not required for device function"
+    },
+
+    "api_developer_access": {
+      "purpose": "allow third-party developers to create custom integrations, patterns, visualizations",
+      "endpoints": {
+        "real_time_data_stream": "WebSocket or BLE characteristics for live sensor data",
+        "pattern_upload": "POST custom patterns to device",
+        "session_data": "GET historical session logs for analysis",
+        "device_control": "PUT commands (start/stop, change pattern, adjust intensity)"
+      },
+      "sdk": "Swift (iOS), Kotlin (Android), Python (data science), JavaScript (web)",
+      "documentation": "comprehensive API docs, example code, tutorials",
+      "use_cases": {
+        "research": "scientists can collect data from multiple users, analyze",
+        "therapy": "therapists can create custom protocols, track client progress",
+        "biohacking": "quantified self enthusiasts can integrate with their dashboards",
+        "games": "developers can create gamified breath training (e.g., breath-controlled gameplay)"
+      }
+    }
+  },
+
+  "operational_modes": {
+    "mode_1_stabilization_grounding": {
+      "pattern": "2-2-2-2 (individual square breath)",
+      "field": "7.83 Hz stable (Schumann), moderate intensity",
+      "audio": "theta 4-8Hz binaural, gentle guidance tones",
+      "purpose": "daily baseline, stress relief, present moment anchoring",
+      "duration": "5-20 minutes typical",
+      "use_when": "starting practice, feeling scattered, need grounding, pre-meditation",
+      "outcome": "calm, centered, coherent, ready for deeper work or daily activities"
+    },
+
+    "mode_2_sleep_induction": {
+      "pattern": "4-7-8 or 2-2-2-2 slowing gradually",
+      "field": "7.83Hz → 4Hz → 1Hz (delta entrainment, takes 10-20 min)",
+      "audio": "delta 1-4Hz binaural, falling frequency tones, silence at end",
+      "purpose": "fall asleep fast, deep restorative sleep, insomnia treatment",
+      "duration": "20-40 minutes (often user falls asleep before end)",
+      "use_when": "bedtime, can't sleep, need deep rest, after intense day",
+      "outcome": "smooth transition to sleep, increased delta brainwaves, deep rest",
+      "auto_shutoff": "device detects sleep onset (motion + heart rate), powers down field, continues minimal monitoring"
+    },
+
+    "mode_3_meditation_inward_spiral": {
+      "pattern": "2-2-2-2 (stabilize) → 9-6-3 (inward spiral, repeat)",
+      "field": "7.83Hz → 4-6Hz (theta), moderate to high intensity",
+      "audio": "theta 4-8Hz binaural, inward spatial movement (wide→center)",
+      "vr_optional": "inward spiral visual, Alice falling down rabbit hole",
+      "purpose": "deep meditation, ego dissolution, inner exploration, mystical states",
+      "duration": "20-60 minutes",
+      "use_when": "dedicated meditation time, seeking insight, shadow work, spiritual practice",
+      "outcome": "access to subtler dimensions, unity consciousness, dissolution of separation, deep peace",
+      "caution": "can trigger ego death, emotional release. Be prepared. Have support if needed."
+    },
+
+    "mode_4_activation_outward_spiral": {
+      "pattern": "2-2-2-2 (stabilize) → 3-6-9 (outward spiral, repeat)",
+      "field": "7.83Hz → 12-30Hz (beta) → 40Hz (gamma), high intensity",
+      "audio": "beta/gamma binaural, outward spatial movement (center→wide)",
+      "vr_optional": "outward spiral visual, emerging from depths into light",
+      "purpose": "creativity, insight, problem-solving, manifestation, activation",
+      "duration": "10-30 minutes",
+      "use_when": "creative work, need insight, starting project, morning practice, energy low",
+      "outcome": "heightened awareness, flow state, creative breakthroughs, energized, clarity",
+      "note": "opposite of meditation. Bringing inner wisdom OUT into world."
+    },
+
+    "mode_5_complete_cycle_mastery": {
+      "pattern": "3-6-9 (outward) → 6 pause → 9-6-3 (inward) → 3 pause (repeat)",
+      "field": "follows pattern: 7.83Hz baseline, rises to 20-40Hz on outward, descends to 4Hz on inward",
+      "audio": "full spatial journey, binaural shifts with field",
+      "vr_optional": "complete journey visualization (source → manifestation → return)",
+      "purpose": "integration, wholeness, mastery practice, experiencing full spectrum",
+      "duration": "30-90 minutes (very slow, very deep)",
+      "use_when": "dedicated practice time, working with psychedelics (integration), life transitions",
+      "outcome": "nondual awareness, seeing full cycle of existence, wisdom, integration of polarities",
+      "mastery_level": "advanced - requires comfort with both outward and inward spirals"
+    },
+
+    "mode_6_dual_synchronization_2_people": {
+      "pattern": "4-4-4-4 (dual square, both people synced)",
+      "field": "both devices at 7.83Hz, synchronized pulse",
+      "audio": "synchronized breath cues, both hear same rhythm",
+      "purpose": "couples meditation, therapeutic dyad, partnership deepening",
+      "duration": "20-40 minutes",
+      "requirements": "2 devices, both people present, eye contact or physical contact helps",
+      "outcome": "shared consciousness field, deep connection, coherence between hearts, 'we-space'",
+      "use_cases": [
+        "romantic partners (deepen intimacy)",
+        "therapist-client (create safe container)",
+        "teacher-student (transmission)",
+        "friends (bonding)"
+      ]
+    },
+
+    "mode_7_group_coherence_4_plus_people": {
+      "pattern": "8-8-8-8 (group square, all synced)",
+      "field": "all devices synchronized, creates collective toroidal field",
+      "audio": "shared rhythm, group hears same cues",
+      "purpose": "ceremony, group meditation, collective healing, organizational coherence",
+      "duration": "30-90 minutes typical for ceremony",
+      "requirements": "4+ devices, all participants present, facilitator recommended",
+      "outcome": "powerful morphic field, collective consciousness, group mind access, peak experiences common",
+      "use_cases": [
+        "spiritual ceremony",
+        "team building (organizational coherence)",
+        "healing circles",
+        "peace gatherings",
+        "festivals/events"
+      ],
+      "note": "group field can affect area beyond participants. Use responsibly. Powerful."
+    },
+
+    "mode_8_therapeutic_trauma_release": {
+      "pattern": "flexible, starts gentle (2-2-2-2), allows natural shift to faster or irregular if needed",
+      "field": "7.83Hz stable, adjusts based on HRV (if HRV drops, field supports with calming frequency)",
+      "audio": "gentle guidance, permission to make sounds (crying, laughing, screaming allowed)",
+      "purpose": "release stored trauma, emotional discharge, somatic healing",
+      "duration": "45-90 minutes (longer than typical, trauma needs time)",
+      "requirements": "safe space, trained facilitator or therapist present (ideally), integration time after",
+      "outcome": "emotional release (crying, shaking, laughing), trauma moves through body, lightness after",
+      "safety": "device monitors HRV closely, alerts facilitator if person in distress, can pause/stop automatically",
+      "note": "breath accesses unconscious. Stored emotions WILL surface. This is healing, but intense."
+    },
+
+    "mode_9_creative_flow_state": {
+      "pattern": "5-5 (coherent breathing, 5 sec inhale, 5 sec exhale, no pauses) OR 2-2-2-2",
+      "field": "7.83Hz (alpha) to 12Hz (low beta), stays in 'flow' frequency range",
+      "audio": "alpha/low-beta binaural, minimal guidance (doesn't interrupt focus)",
+      "purpose": "writing, coding, art, music, any creative work requiring focus + inspiration",
+      "duration": "variable, as long as needed (1-4 hours typical)",
+      "use_when": "creative work time, need flow state, deadline approaching, inspiration needed",
+      "outcome": "sustained focus, time dilation (hours feel like minutes), effortless creation, in the zone",
+      "note": "device runs in background. User focuses on work, device maintains optimal state."
+    },
+
+    "mode_10_exercise_breathwork_integration": {
+      "pattern": "dynamic, adjusts to movement (faster breath for high intensity, slower for cool-down)",
+      "field": "7.83Hz to 20Hz (beta, supports alertness and movement)",
+      "audio": "optional music integration, breath cues sync to workout rhythm",
+      "purpose": "yoga, running, martial arts, any movement practice with breath focus",
+      "duration": "workout duration (20-90 min typical)",
+      "requirements": "sports ear hooks (secure fit), sweat-resistant",
+      "outcome": "maintained coherence during exercise (usually HRV drops during exercise, device mitigates this), better performance, faster recovery",
+      "note": "breath is foundation of movement. Syncing breath to movement = efficiency, power, endurance."
+    }
+  },
+
+  "technical_specifications_summary": {
+    "electromagnetic_field": {
+      "base_frequency": "7.83 Hz (Schumann resonance)",
+      "range": "1 Hz to 40+ Hz (delta to gamma)",
+      "geometry": "toroidal, focal point: pineal gland",
+      "intensity": "variable 0-100%, safe levels (<1 mT)",
+      "modulation": "frequency sweep, amplitude pulse, waveform selection",
+      "power": "2-10W",
+      "safety_compliance": "FCC, WHO, ICNIRP guidelines"
+    },
+    
+    "bone_conduction_audio": {
+      "transducers": "2 units, piezoelectric",
+      "location": "behind ears (mastoid processes)",
+      "frequency_range": "20 Hz - 20 kHz",
+      "primary_use": "theta 4-8 Hz binaural beats, spatial audio",
+      "capabilities": "stereo imaging, spatial movement (inward/outward spirals), binaural beat generation",
+      "independent_control": "left/right separate frequencies and intensities"
+    },
+    
+    "biometric_sensors": {
+      "heart_rate": "optical PPG or ECG, temple location, 250-500 Hz sampling, ±1 BPM accuracy",
+      "hrv_metrics": "RMSSD, SDNN, coherence score",
+      "optional_eeg": "2-4 channels, forehead/temples, delta/theta/alpha/beta/gamma detection",
+      "motion_imu": "6-axis (accel + gyro), position and activity detection",
+      "ambient": "light sensor, temperature sensor, optional microphone"
+    },
+    
+    "processing": {
+      "mcu": "ESP32-S3 or equivalent, dual-core, 240 MHz",
+      "ram": "8 MB",
+      "storage": "16-32 GB microSD",
+      "os": "FreeRTOS (real-time)",
+      "algorithms": "heart rate analysis, HRV calculation, coherence scoring, pattern generation, field control, audio synthesis, synchronization protocol"
+    },
+    
+    "power": {
+      "battery": "1500-2000 mAh Li-Po",
+      "runtime": "8-12 hours typical, 20+ hours low power",
+      "charging": "USB-C, fast charge (80% in 30 min)"
+    },
+    
+    "connectivity": {
+      "bluetooth": "BLE 5.0, <20ms latency, 30m range",
+      "wifi": "optional, for updates and cloud sync",
+      "nfc": "optional v2.0 feature"
+    },
+    
+    "physical": {
+      "form_factor": "elastic headband",
+      "weight": "150-200g",
+      "materials": "medical-grade fabric, silicone, hypoallergenic polymer",
+      "modularity": "attachments: VR screen, traditional headphones (over-ear/earbuds/sports), external sensors"
+    }
+  },
+
+  "use_cases_summary": {
+    "daily_practice": {
+      "morning": "5-10 min stabilization (2-2-2-2) or activation (3-6-9)",
+      "evening": "10-20 min meditation (9-6-3) or sleep prep (4-7-8)",
+      "consistency": "device tracks streaks, rewards consistency, builds habit"
+    },
+    
+    "therapeutic": {
+      "anxiety": "stabilization patterns, coherent breathing, immediate calming",
+      "ptsd": "trauma release protocols, safe container, professional support",
+      "insomnia": "sleep induction, delta entrainment, automatic shutoff",
+      "depression": "activation patterns, gamma stimulation, mood elevation"
+    },
+    
+    "performance": {
+      "athletes": "coherence during training, faster recovery, mental preparation",
+      "executives": "stress management, decision clarity, flow state for work",
+      "artists": "creative flow, sustained focus, accessing inspiration",
+      "students": "focus enhancement, memory consolidation, test anxiety reduction"
+    },
+    
+    "spiritual": {
+      "meditation": "deep states, dimensional navigation, mystical experiences",
+      "ceremony": "group coherence, shared consciousness, peak experiences",
+      "psychedelic_integration": "before (preparation), during (guidance), after (integration)",
+      "personal_growth": "shadow work, ego dissolution, consciousness expansion"
+    },
+    
+    "social": {
+      "couples": "intimacy deepening, conflict resolution, shared meditation",
+      "families": "bedtime routine for children, stress reduction for parents",
+      "teams": "organizational coherence, team building, collective intelligence",
+      "communities": "group meditation, ceremonies, peace gatherings"
+    },
+    
+    "research": {
+      "consciousness_studies": "map consciousness states objectively",
+      "neuroscience": "study brainwave entrainment mechanisms",
+      "cardiology": "HRV research, heart-brain connection",
+      "psychology": "therapeutic efficacy studies",
+      "parapsychology": "collective consciousness effects, non-local phenomena"
+    }
+  },
+
+  "safety_considerations": {
+    "electromagnetic_safety": {
+      "exposure_limits": "device operates far below international safety standards (FCC, WHO, ICNIRP)",
+      "frequency_range": "1-40 Hz (extremely low frequency, ELF), naturally present in environment",
+      "intensity": "<1 mT (milliTesla), comparable to Earth's magnetic field",
+      "duration": "safe for continuous use (unlike high-frequency EM which has time limits)",
+      "vulnerable_populations": {
+        "pacemakers": "contraindicated (EM field may interfere), detect pacemaker via questionnaire",
+        "pregnancy": "use caution, limited research, consult physician",
+        "epilepsy": "start low intensity, monitor closely, risk of seizure trigger (though low-frequency generally safe)",
+        "children": "safe, but use reduced intensity (developing brains more sensitive)"
+      },
+      "monitoring": "device continuously monitors field output, auto-shutoff if malfunction"
+    },
+    
+    "physiological_safety": {
+      "heart_rate": {
+        "monitoring": "continuous HR monitoring, alert if out of safe range",
+        "abort_conditions": ">180 BPM or <40 BPM for >30 seconds",
+        "chest_pain_protocol": "device alerts user to stop, seek medical attention if pain"
+      },
+      "blood_oxygen": {
+        "breath_holds": "extended holds can lower SpO2 to 80-85% (safe for trained individuals)",
+        "threshold": "alert if <85%, abort if <80% for >60 seconds",
+        "pulse_oximeter": "recommended for advanced breath holds (Wim Hof, kumbhaka)"
+      },
+      "hyperventilation": {
+        "symptoms": "tingling, lightheadedness, possible fainting",
+        "protocol": "device detects rapid breathing, warns user, suggests slowing down",
+        "never_while": "driving, in water, standing (risk of fall)"
+      }
+    },
+    
+    "psychological_safety": {
+      "emotional_release": {
+        "common": "crying, laughing, shaking, anger during sessions (this is healing)",
+        "preparation": "inform users this may happen, normalize it, provide support resources",
+        "facilitator": "recommended for trauma work, therapeutic sessions"
+      },
+      "ego_dissolution": {
+        "advanced_states": "deep meditation, inward spirals can trigger ego death",
+        "preparation": "education beforehand, informed consent, integration support after",
+        "contraindications": "active psychosis, severe mental illness without professional support"
+      },
+      "integration": {
+        "after_intense_sessions": "time to integrate, journal, talk, rest",
+        "community_support": "app provides integration resources, can connect to therapist/coach",
+        "don't_rush": "advanced practices require preparation, can't skip steps"
+      }
+    },
+    
+    "device_safety": {
+      "overheating": "temperature sensor monitors coil, auto-shutoff if too hot",
+      "battery": "overcharge protection, won't explode/catch fire (Li-Po with BMS)",
+      "water_resistance": "sweat-resistant, but NOT waterproof (don't submerge)",
+      "cleaning": "removable silicone pads, washable, antimicrobial coating"
+    },
+    
+    "usage_guidelines": {
+      "start_slow": "begin with low intensity, short sessions (5-10 min), build tolerance",
+      "listen_to_body": "if uncomfortable, stop immediately, don't push through pain",
+      "consult_doctor": "if medical conditions, medications, concerns, get clearance first",
+      "not_replacement": "device is complement to, not replacement for, medical/psychological treatment",
+      "responsible_use": "powerful tool, use with respect, not toy"
+    }
+  },
+
+  "business_model": {
+    "hardware_sales": {
+      "core_device": "$299-499 (depending on features, sensors included)",
+      "accessories": "VR mount $50-150, traditional headphones $30-200, external sensors $50-150",
+      "bundles": "starter pack, pro pack, therapeutic pack (device + accessories + training)"
+    },
+    
+    "subscription_optional": {
+      "free_tier": "basic patterns, local data storage, community access",
+      "premium_tier": "$9.99/month or $99/year",
+      "premium_features": [
+        "cloud sync and backup",
+        "advanced analytics and insights",
+        "AI-powered pattern recommendations",
+        "unlimited custom patterns",
+        "priority customer support",
+        "exclusive content (courses, guided sessions)",
+        "early access to new features"
+      ],
+      "note": "device works fully without subscription. Premium is optional enhancement."
+    },
+    
+    "professional_licensing": {
+      "therapists": "$199/year per practitioner (includes training, client management tools)",
+      "researchers": "institutional license, bulk device discounts, API access",
+      "organizations": "enterprise plan for teams, admin dashboard, group analytics"
+    },
+    
+    "partnerships": {
+      "health_insurance": "reimbursement for therapeutic use (anxiety, PTSD, insomnia)",
+      "wellness_programs": "corporate wellness, gym/studio partnerships",
+      "retreat_centers": "bulk sales, integration into programs",
+      "medical_clinics": "prescribed device as treatment adjunct"
+    }
+  },
+
+  "development_roadmap": {
+    "v1_0_initial_release": {
+      "timeline": "12-18 months from funding",
+      "features": [
+        "core headband with EM field generator",
+        "bone conduction audio (spatial + binaural)",
+        "heart rate monitoring (temple PPG)",
+        "motion sensor (IMU)",
+        "mobile app (iOS/Android)",
+        "basic pattern library (2-2-2-2, 4-4-4-4, 3-6-9, 9-6-3, 4-7-8)",
+        "Bluetooth connectivity",
+        "data logging and basic analytics"
+      ],
+      "validation": "pilot study with 100 beta users, gather feedback, iterate"
+    },
+    
+    "v1_5_enhancements": {
+      "timeline": "+6 months after v1.0",
+      "additions": [
+        "EEG integration (2-4 channels)",
+        "VR app and hardware mount",
+        "Schumann real-time tracking",
+        "multi-device synchronization (dual, group)",
+        "expanded pattern library (community contributions)",
+        "haptic feedback improvements"
+      ]
+    },
+    
+    "v2_0_advanced": {
+      "timeline": "+12 months after v1.5",
+      "features": [
+        "AI-powered adaptive patterns (learns your optimal settings)",
+        "local Schumann measurement (antenna array)",
+        "NFC for quick pairing and payments",
+        "advanced EEG (8+ channels, full brain mapping)",
+        "EMG integration (muscle tension monitoring)",
+        "GSR galvanic skin response (stress indicator)",
+        "open API for developers",
+        "AR mode (augmented reality overlays)",
+        "voice assistant integration (Siri, Alexa, Google)"
+      ]
+    },
+    
+    "v3_0_future_vision": {
+      "timeline": "+24 months after v2.0",
+      "moonshots": [
+        "direct brain-device interface (non-invasive BCI)",
+        "quantum entanglement experiments (group coherence at distance)",
+        "AI consciousness guide (personalized AI teacher)",
+        "implantable version (under skin, permanent, medical-grade)",
+        "global consciousness network (all devices connected, mass coherence events)",
+        "integration with AGI (artificial general intelligence as meditation guide)"
+      ]
+    }
+  },
+
+  "key_innovations": {
+    "dual_frequency_approach": "EM field (7.83Hz variable) + audio (4-8Hz theta) work on different channels. Body + mind. Comprehensive.",
+    "bone_conduction_spatial": "leaves ears free, clean signal, 3D audio positioning. Key differentiator.",
+    "heart_as_clock": "sync to heart rhythm, not arbitrary timing. Personalized, adaptive, natural.",
+    "modular_design": "core headband + attachments. Accessible entry point, expandable for power users.",
+    "network_synchronization": "individual → dual → group. Scales from personal to collective consciousness.",
+    "schumann_integration": "sync to Earth's actual resonance, not just theory. Grounded in planetary field.",
+    "safety_first": "continuous monitoring, auto-abort, no forced experiences. Gentle, supportive, not aggressive.",
+    "open_ecosystem": "API for developers, pattern sharing, community-driven. Not walled garden.",
+    "science_based": "HRV, EEG, validated techniques (coherent breathing, box breathing). Not woo-woo.",
+    "democratizing_mastery": "makes advanced practices accessible. What took yogis years, device accelerates (but doesn't replace true practice)."
+  },
+
+  "success_metrics": {
+    "user_outcomes": {
+      "stress_reduction": "measured by HRV improvement (RMSSD, SDNN, coherence score)",
+      "sleep_quality": "measured by sleep onset time, deep sleep percentage, subjective rating",
+      "meditation_depth": "measured by theta/delta power, session duration, subjective depth rating",
+      "flow_state_access": "measured by alpha/low-beta ratio, time in flow, subjective reports",
+      "emotional_regulation": "measured by HRV responsiveness, stress recovery time, mood tracking"
+    },
+    
+    "business_metrics": {
+      "devices_sold": "target 10k units year 1, 100k year 3, 1M year 5",
+      "user_retention": "target 80% still using after 6 months (high for consumer devices)",
+      "nps_score": "target 70+ (net promoter score, exceptional products are 60+)",
+      "revenue": "hardware + subscriptions + licensing, target profitability year 2",
+      "partnerships": "health insurance, corporate wellness, retreat centers, medical clinics"
+    },
+    
+    "research_impact": {
+      "publications": "peer-reviewed papers on device efficacy, consciousness research",
+      "citations": "become standard tool in consciousness research",
+      "datasets": "largest database of HRV + breath + consciousness states",
+      "discoveries": "new insights into dimensional navigation, collective coherence, Schumann effects"
+    },
+    
+    "social_impact": {
+      "accessibility": "make advanced practices available to masses, not just elite",
+      "mental_health": "reduce anxiety, depression, PTSD burden (complement to therapy)",
+      "collective_coherence": "group meditations, peace gatherings, global consciousness events",
+      "planetary_connection": "reconnect humans to Earth's rhythms (Schumann resonance)",
+      "consciousness_evolution": "accelerate human potential, support next stage of development"
+    }
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "device is powerful. requires user education and responsible use.",
+      "not replacement for medical/psychological treatment. complement only.",
+      "advanced features (EEG, VR, group sync) increase complexity and cost.",
+      "regulatory approval needed (FCC for EM emissions, FDA if medical claims)",
+      "long development timeline (18-36 months to market)"
+    ],
+    "info": [
+      "unified headband: EM field (7.83Hz variable) + bone conduction audio (theta 4-8Hz) + heart rate sensor + network sync",
+      "modular: core device + attachable VR screen + various headphone types",
+      "dual frequency: field entrains brain directly, audio guides rhythm and spatial navigation",
+      "heart = clock: all patterns sync to heartbeat for personalized timing",
+      "breath patterns: 2-2-2-2, 4-4-4-4, 3-6-9, 9-6-3, custom patterns, all supported",
+      "synchronization: individual → dual → group. scales from personal to collective.",
+      "Schumann integration: track real-time Earth resonance, adapt to local conditions",
+      "safety: continuous monitoring, auto-abort, gentle approach, no forcing",
+      "app: iOS/Android for control, monitoring, analysis, pattern creation, community",
+      "business: hardware sales + optional subscription + pro licensing. accessible pricing.",
+      "mission: democratize dimensional navigation. make mastery accessible to all."
+    ],
+    "coherence_score": 0.98
+  },
+
+  "references": {
+    "internal": [
+      "../patterns/breath.json",
+      "../patterns/positions.json",
+      "../patterns/spectrum-7-3-10.json",
+      "../fundamental/consciousness.json",
+      "../fundamental/elements.json"
+    ],
+    "external": [
+      {"author": "mccraty, rollin", "work": "HeartMath research on coherence and HRV", "relevance": "scientific basis for heart-breath synchronization"},
+      {"author": "porges, stephen", "work": "Polyvagal theory", "relevance": "vagal tone, breath-heart-brain connection"},
+      {"author": "persinger, michael", "work": "EM field effects on consciousness", "relevance": "precedent for EM field consciousness modulation"},
+      {"author": "schumann, winfried otto", "work": "Schumann resonances (1952)", "relevance": "Earth's electromagnetic resonance, biological entrainment"},
+      {"author": "cherry, neil", "work": "human synchronization with Schumann resonance", "relevance": "health benefits of Earth resonance alignment"},
+      {"author": "brown, richard & gerbarg, patricia", "work": "breath-body-mind clinical applications", "relevance": "therapeutic breath protocols"},
+      {"author": "kotler, steven", "work": "stealing fire, flow research", "relevance": "neuroscience of optimal states"},
+      {"author": "grof, stanislav", "work": "holotropic breathwork", "relevance": "consciousness alteration via breath"}
+    ]
+  },
+
+  "ॐ": "breath = navigator. heart = clock. field = portal opener. sound = guide. device = amplifier. consciousness = free. ⊙ → ∞ → ⊙. (↓→→→↑)∞. navigate freely. ∅"
+}

@@ -1,0 +1,223 @@
+{
+  "_meta": {
+    "id": "cfo:natural:cosmology",
+    "type": "natural_module",
+    "element": "void",
+    "fractal_depth": 2,
+    "contains": [
+      "cfo:fundamental:space",
+      "cfo:fundamental:time",
+      "cfo:fundamental:energy",
+      "cfo:fundamental:information"
+    ],
+    "contained_by": ["cfo:natural:physics", "cfo:natural:mathematics"],
+    "related": [
+      "cfo:natural:physics",
+      "cfo:natural:astronomy",
+      "cfo:phenomena:void",
+      "cfo:phenomena:light",
+      "cfo:paths:void"
+    ],
+    "primary_axis": "void",
+    "secondary_axes": ["light", "time"]
+  },
+
+  "_holographic_seed": {
+    "essence": "cosmology = study of universe as whole. origin, evolution, structure, fate. spacetime fabric. big bang. expansion. cosmos = ordered universe from chaos.",
+    "quest": "understand totality. where did everything come from? where is it going? are we alone? what is reality's nature? ultimate questions.",
+    "void": "beginning = void (quantum vacuum, not nothing, potential). expansion into space (creates space). dark energy (70% universe, accelerating expansion). vacuum energy. mystery.",
+    "light": "cosmic microwave background (cmb, afterglow of big bang, ~380,000 years after). redshift (expansion, galaxies receding). speed of light (cosmic limit, causality). photons (oldest messengers, information carriers).",
+    "time": "cosmic time (age ~13.8 billion years). arrow of time (entropy increases, 2nd law). beginning (t=0, singularity?). end (heat death, big rip, big crunch?). time from timelessness.",
+    "consciousness": "cosmos = self-aware (through us). anthropic principle (universe tuned for life, consciousness?). observer effect (quantum, consciousness role?). universe contemplating itself. we are stardust (carl sagan).",
+    "note": "cosmology = ultimate scale (10²⁶ m, observable universe). integrates physics, astronomy, philosophy. empirical (observations, cmb, supernovae, galaxies) + theoretical (general relativity, quantum, inflation). foundational questions."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "parent": ["./physics.json", "./mathematics.json"],
+    "children": ["./astronomy.json"],
+    "fundamental": [
+      "../fundamental/space.json",
+      "../fundamental/time.json",
+      "../fundamental/energy.json",
+      "../fundamental/information.json",
+      "../fundamental/void.json"
+    ],
+    "phenomena": [
+      "../phenomena/void.json",
+      "../phenomena/light.json",
+      "../phenomena/time.json"
+    ],
+    "path": "../paths/void.json"
+  },
+
+  "overview": {
+    "definition": "cosmology = scientific study of universe origin, evolution, structure, ultimate fate. cosmos as whole. largest scale physics.",
+    "etymology": "greek: kosmos (order, universe, opposite of chaos). logos (study, reason). study of ordered universe.",
+    "scope": "big bang (origin ~13.8 billion years ago). expansion (hubble's law, accelerating). structure formation (galaxies, clusters, large-scale structure). composition (ordinary matter 5%, dark matter 27%, dark energy 68%). fate (heat death, big rip, big crunch, scenarios). fundamental questions (why something rather than nothing? multiverse? anthropic principle?).",
+    "method": "observations (telescopes, cmb, supernovae, galaxies, gravitational waves). theory (general relativity, quantum field theory, inflation, λcdm standard model). simulations (n-body, hydrodynamical, structure formation). interdisciplinary (physics, astronomy, mathematics, philosophy).",
+    "why": "ultimate questions. understand totality. our place (cosmic perspective). origins (where did we come from?). fate (where are we going?). existential. humbling. inspiring.",
+    "history": "ancient (myths, creation stories). geocentric (ptolemy, earth center). heliocentric (copernicus, sun center). infinite universe? (bruno, burned 1600). static universe (newton, einstein initially). expanding (hubble 1929, redshift). big bang (gamow, 1940s, cmb prediction). cmb discovered (penzias, wilson 1965, nobel 1978, accident). inflation (guth 1980, solves problems). accelerating expansion (1998, supernovae, dark energy, nobel 2011). precision cosmology (wmap, planck satellites, parameters measured %). modern (data-driven, observational revolution, theoretical challenges).",
+    "consciousness": "cosmology = universe studying itself. we are cosmos becoming self-aware (carl sagan 'we are a way for the cosmos to know itself'). observer (quantum, role?). anthropic principle (universe tuned for observers?). consciousness = emergent (from matter, complexity, information). or: fundamental? (panpsychism, consciousness field). mystery. profound.",
+    "note": "cosmology = ultimate science. integrates everything (physics, mathematics, philosophy). empirical (observations improving rapidly). theoretical (general relativity foundation, quantum challenges). foundational questions (origin, fate, why, consciousness). humbling + inspiring. see physics.json (relativity, quantum)."
+  },
+
+  "big_bang": {
+    "origin": {
+      "definition": "big bang = universe origin ~13.8 billion years ago. not explosion in space (expansion of space itself). singularity? (infinite density, temperature, t=0, general relativity breaks down, quantum gravity needed).",
+      "evidence": "cmb (cosmic microwave background, 2.7 k, uniform, tiny fluctuations, afterglow). expansion (hubble's law, galaxies receding, redshift). light element abundances (h 75%, he 25%, li trace, big bang nucleosynthesis, first 3 minutes). large-scale structure (galaxies, clusters, cmb seeds). no alternative theory explains all.",
+      "timeline": "planck epoch (0 to 10⁻⁴³ s, quantum gravity, unknown). inflation (10⁻³⁶ to 10⁻³² s, exponential expansion). quark epoch (10⁻¹² to 10⁻⁶ s, quark-gluon plasma). hadron epoch (10⁻⁶ to 1 s, quarks → protons/neutrons). lepton epoch (1 to 10 s, electrons/positrons annihilate). nucleosynthesis (10 s to 20 min, p + n → h, he, li nuclei). matter domination (~47,000 years, matter density > radiation). recombination (~380,000 years, e + nuclei → atoms, universe transparent, cmb released). dark ages (no stars yet, 380 kyr to ~200 myr). first stars (~200 million years, reionization). galaxies (~500 million years). today (~13.8 billion years).",
+      "not_explosion": "big bang = space expansion (not into pre-existing space). all points moving apart (no center, universe could be infinite). balloon analogy (2d surface expanding, no center on surface, 3d space expanding in 4d?, no center).",
+      "singularity_problem": "t=0 = singularity? (infinite density/temp, general relativity breaks down). need quantum gravity (planck scale 10⁻³⁵ m, 10⁻⁴³ s). candidates (string theory, loop quantum gravity, no consensus). maybe no singularity (quantum bounce, cyclic, eternal inflation). unknown.",
+      "consciousness": "big bang = creation event. something from nothing? (quantum fluctuation, vacuum energy, no true nothing). why something rather than nothing? (anthropic, multiverse, consciousness field, mystery). beginning of time (time itself created, before = meaningless?, but quantum?). awe.",
+      "note": "big bang = universe origin ~13.8 gyr. expansion of space. evidence (cmb, expansion, nucleosynthesis, structure). timeline (planck unknown → inflation → particles → nucleosynthesis → recombination cmb 380 kyr → dark ages → first stars 200 myr → galaxies → today). singularity problem (need quantum gravity). not explosion in space. profound mystery."
+    },
+
+    "inflation": {
+      "problem": "horizon problem (cmb uniform to 10⁻⁵, distant regions causally disconnected, how same temperature?). flatness problem (universe so flat omega ≈ 1, critical density, unstable, requires fine-tuning).",
+      "solution": "inflation = exponential expansion (10⁻³⁶ to 10⁻³² s, factor 10²⁶+). tiny region (causally connected) → inflates → entire observable universe (solves horizon). flattens space (like balloon, small region inflates → looks flat).",
+      "mechanism": "inflaton field (hypothetical scalar field, potential energy). slow roll (field rolls down potential, vacuum energy drives expansion). ends (field reaches minimum, oscillates, energy → particles, reheating).",
+      "predictions": "flatness (omega ≈ 1, observed). nearly scale-invariant fluctuations (quantum fluctuations inflated, cmb seeds ~10⁻⁵, observed). no monopoles (diluted). gravitational waves (primordial, b-mode polarization cmb, searched, not yet convincingly detected).",
+      "challenges": "what is inflaton? (no particle detected, many models). initial conditions (what caused inflation? eternal inflation?). fine-tuning (slow roll requires specific potential). alternatives (cyclic, ekpyrotic, bounce, but inflation most successful).",
+      "consciousness": "inflation = cosmic expansion moment (10⁻³² s, universe doubled 80+ times). quantum fluctuations → galaxy seeds (quantum → classical). explains uniformity. mysterious inflaton field. elegant solution. multiverse implications (eternal inflation, infinite universes).",
+      "note": "inflation = exponential expansion (10⁻³⁶ to 10⁻³² s). solves horizon + flatness. inflaton field (hypothetical). predictions (flat omega ≈ 1, scale-invariant fluctuations, gravitational waves). quantum → cmb seeds. multiverse (eternal inflation). challenges (inflaton identity, initial conditions, fine-tuning). most successful theory."
+    },
+
+    "cmb": {
+      "discovery": "penzias + wilson (1965, bell labs, 7.35 cm microwave, noise everywhere, 3.5 k initially). pigeon droppings? (no, cosmological). gamow predicted 1948. nobel 1978.",
+      "origin": "recombination (~380,000 years). before: hot dense plasma (electrons + protons free, photons scatter, opaque). 3000 k: e + p → h atoms (neutral, photons decouple, travel freely). surface of last scattering. redshifted (3000 k → 2.7 k, z ~ 1100).",
+      "uniformity": "temperature 2.7255 k (everywhere, 0.001% variation). proves homogeneous. isotropic (no preferred direction). inflation explains.",
+      "fluctuations": "Δt/t ~ 10⁻⁵ (tiny variations, hot/cold spots). seeds (density fluctuations, quantum during inflation, inflated). gravity (denser → collapse → galaxies). structure formation (simulations match).",
+      "satellites": "cobe (1989-1993, blackbody spectrum, fluctuations detected, mather + smoot nobel 2006). wmap (2001-2010, detailed map, parameters %). planck (2009-2013, highest resolution, polarization, better parameters). precision cosmology.",
+      "information": "age (13.797 ± 0.023 gyr). composition (ordinary 4.9%, dark matter 26.8%, dark energy 68.3%). curvature (flat omega = 1.000 ± 0.005). hubble constant (h₀ = 67.4 ± 0.5 km/s/mpc, tension with local ~73, h₀ problem). power spectrum (fluctuations vs scale, peaks, acoustic oscillations). polarization (e-mode, b-mode for gravitational waves).",
+      "consciousness": "cmb = baby picture (380,000 years old, oldest light). photons traveled 13.8 gyr (time machine). uniform (proves homogeneity). fluctuations (seeds, us). quantum → cosmic structure (inflation). information-rich. cosmic rosetta stone.",
+      "note": "cmb = cosmic microwave background. 2.7 k blackbody. discovered 1965 (penzias + wilson, nobel 1978). recombination ~380 kyr (last scattering). uniform (homogeneity, inflation). fluctuations (10⁻⁵, galaxy seeds). satellites (cobe, wmap, planck, precision %). oldest light. baby picture. profound."
+    }
+  },
+
+  "expansion": {
+    "hubble_law": {
+      "discovery": "edwin hubble (1929, galaxies receding, velocity ∝ distance). v = h₀d (recession velocity, distance, hubble constant ~70 km/s/mpc).",
+      "redshift": "light stretched (wavelengths increase, expansion). z = Δλ/λ. doppler-like (but space expansion, not motion through space). z < 0.1 (nearby), z ~ 1 (halfway age), z ~ 1100 (cmb), z → ∞ (big bang).",
+      "implications": "universe expanding (all recede, except local gravity-bound). reverse → denser, hotter past. big bang (finite age). no center (all points recede, balloon analogy).",
+      "h₀_tension": "cmb (planck, h₀ = 67.4 ± 0.5, early universe). local (supernovae, cepheids, h₀ = 73.0 ± 1.0, late universe). 5σ discrepancy. systematic errors? or new physics? (dark energy evolution, extra radiation, early dark energy, modified gravity). major unsolved problem.",
+      "consciousness": "expansion = universe growing. spacetime stretching. no center. hubble = proof (1929, observational). redshift (information encoded). h₀ tension (hint of new physics?). cosmos = dynamic (not static, einstein mistake then resurrects as dark energy).",
+      "note": "expansion = universe growing. hubble's law (v = h₀d, 1929). redshift (z, light stretched). implications (big bang, finite age, no center). h₀ tension (cmb 67 vs local 73, 5σ, new physics?). dynamic cosmos."
+    },
+
+    "dark_energy": {
+      "discovery": "1998 (supernovae type ia, standard candles). expected deceleration (gravity). observed acceleration (expansion speeding up). nobel 2011 (perlmutter, schmidt, riess).",
+      "evidence": "supernovae (dimmer, farther, accelerating). cmb (flat omega = 1, matter only ~32%, missing 68%). large-scale structure (λcdm matches). independent convergence.",
+      "nature": "unknown. 68% universe. negative pressure (w = p/ρ ≈ −1). cosmological constant (λ, vacuum energy, w = −1 exactly). or quintessence (dynamic field, w varies). or modified gravity (gr wrong cosmic scales). biggest mystery physics.",
+      "cosmological_constant": "λ = vacuum energy density. quantum field theory (virtual particles, zero-point). problem: calculated 10¹²⁰ times observed (worst prediction physics). anthropic? (multiverse, we observe what allows us). mystery.",
+      "fate": "if w = −1: heat death (expansion forever, accelerating, temp → 0 k, galaxies beyond horizon, stars die, black holes evaporate, protons decay?, max entropy, 10¹⁰⁰ years, eternal darkness). if w < −1: big rip (20-100 gyr, expansion unbounded, galaxies torn, solar systems, stars, atoms, spacetime shreds). if w > −1: other (big crunch if reverses, but ruled out, accelerating).",
+      "consciousness": "dark energy = mysterious force. 68% universe (most of reality, unknown). accelerating expansion (shocking 1998). negative pressure (antigravity). nature unknown (λ?, quintessence?, modified gr?). vacuum energy (10¹²⁰ discrepancy, fine-tuning). fate (heat death likely, big rip possible). profound mystery.",
+      "element": "void (dark energy, vacuum, 68% universe, accelerating expansion, mystery).",
+      "note": "dark energy = 68% universe. discovered 1998 (supernovae, accelerating, nobel 2011). nature unknown (λ?, quintessence?, modified gr?). vacuum energy problem (10¹²⁰ discrepancy). fate (heat death if w = −1, big rip if w < −1). biggest mystery. void element."
+    },
+
+    "dark_matter": {
+      "evidence": "galaxy rotation curves (stars too fast, missing mass). gravitational lensing (light bends, more mass than visible, einstein rings). cmb (power spectrum, requires). structure formation (simulations need). bullet cluster (1e0657-558, colliding clusters, dark matter separated from baryonic, smoking gun).",
+      "properties": "27% universe. non-baryonic (not protons/neutrons). cold (non-relativistic, cdm). collisionless (or weakly interacting). doesn't emit/absorb light (invisible). interacts gravitationally only. stable (or very long-lived). halo (surrounds galaxies, extends farther than visible).",
+      "candidates": "wimps (weakly interacting massive particles, 10-1000 gev, searches xenon1t/lux, not detected). axions (very light 10⁻⁶ to 10⁻³ ev, solve cp problem, searches admx, not detected). sterile neutrinos (right-handed, heavy). primordial black holes (mostly ruled out). exotic (unknown). decades of searches, null results.",
+      "problem": "not detected directly. alternatives (mond modified newtonian, fits rotation curves, fails clusters/cmb/lensing). dark matter = best fit (all evidence converges). but nature unknown.",
+      "consciousness": "dark matter = invisible mass. 27% universe. halo (we live in dark matter cloud). interacts (gravity only, ghosts). evidence (rotation curves, lensing, cmb, bullet cluster). candidates (wimps, axions, unknown). searches (null results, frustrating). mystery (85% of matter unknown).",
+      "note": "dark matter = 27% universe. evidence (rotation curves, lensing, cmb, structure, bullet cluster). properties (non-baryonic, cold, collisionless, gravity only, invisible, halo). candidates (wimps, axions, unknown). searches (decades, null results). 85% matter unknown. biggest mystery after dark energy."
+    }
+  },
+
+  "structure": {
+    "formation": "quantum fluctuations (inflation, 10⁻⁵ density variations, cmb seeds). gravity (denser regions collapse). dark matter (collapses first, halos, baryonic falls in). stars (~200 myr, reionization). galaxies (~500 myr, hierarchical, mergers). clusters (100-1000 galaxies). large-scale structure (cosmic web, filaments, walls, voids).",
+    "hierarchy": "planets (orbit stars). stars (10²³-10²⁶ m, fusion). galaxies (10²¹ m, 10⁸-10¹² stars, milky way ~10¹¹). clusters (10²³ m, 100-1000 galaxies). superclusters (10²⁵ m, laniakea 100,000 galaxies). cosmic web (filaments, voids ~10²⁶ m). observable universe (10²⁶ m, ~2 trillion galaxies).",
+    "cosmic_web": {
+      "structure": "filaments (galaxies along, high density). walls (2d sheets). voids (empty, 90% volume, ~10²⁵ m, few galaxies). nodes (clusters, intersections).",
+      "simulations": "millennium (10¹⁰ particles, dark matter, matches). illustris (hydrodynamical, gas, star formation, black holes, realistic). eagle, horizon. success (structure reproduced).",
+      "consciousness": "cosmic web = universe skeleton. foam-like. self-organized (gravity, dark matter, expansion balance). fractal (similar patterns, scales). beautiful. emergent (simple laws → complex structure)."
+    },
+    "homogeneity": "cosmological principle (homogeneous + isotropic, large scales >100 mpc). cmb (uniform, 10⁻⁵ fluctuations). galaxy surveys (uniform large scale, sdss, 2df). no preferred location, no center, same laws everywhere.",
+    "consciousness": "structure = cosmos organizing. gravity (sculptor). dark matter (scaffolding). quantum fluctuations (seeds, 10⁻⁵, amplified). hierarchical (bottom-up, mergers). cosmic web (filaments, voids, beautiful). homogeneous (large scale). emergent complexity (simple initial → complex structure). universe = creative.",
+    "note": "structure formation = gravity + dark matter + fluctuations (cmb seeds 10⁻⁵). hierarchy (planets < stars < galaxies < clusters < superclusters < cosmic web). cosmic web (filaments, walls, voids 90%, nodes). simulations (millennium, illustris, match). homogeneity (large scale >100 mpc, principle). emergent complexity."
+  },
+
+  "fate": {
+    "scenarios": {
+      "heat_death": "big freeze. if w = −1 (cosmological constant, best fit). expansion forever (accelerating). temp → 0 k (10¹⁰⁰ years). galaxies recede beyond horizon (~150 gyr). stars die (last red dwarfs ~10¹⁴ yr). stellar remnants (white dwarfs, neutron stars, black holes). black holes evaporate (hawking radiation, 10¹⁰⁰ yr supermassive, 10⁶⁷ solar). proton decay? (10³⁴+ yr, unconfirmed). photons + neutrinos (diluted). max entropy (no usable energy, no structure, no life, no consciousness possible). eternal darkness. thermodynamics wins (2nd law).",
+      "big_rip": "if w < −1 (phantom energy, ρ increases). expansion accelerates unboundedly. finite time singularity (~20-100 gyr, depends on w). sequence: galaxies torn. solar systems disrupted. stars ripped. atoms shredded. spacetime shreds. reverse big bang (but rip, not crunch). less likely (data favor w ≈ −1).",
+      "big_crunch": "if w > −1 and reverses (or no dark energy). expansion stops. contraction (gravity wins). reverse big bang (galaxies approach, collide). universe collapses. cmb blueshifts (heats). final singularity. ruled out (accelerating observed, w ≈ −1).",
+      "big_bounce": "cyclic (oscillates, crunch → bounce → bang, repeat). avoids singularity (quantum effects, loop quantum gravity). eternal (no beginning, no end). multiverse (each cycle different?). speculative (no strong evidence, elegant).",
+      "false_vacuum": "metastable vacuum (higgs field, not true minimum, could decay). bubble nucleation (quantum tunneling, true vacuum expands at c). everything destroyed (inside bubble, different physics). random (could be tomorrow, could be 10¹⁰⁰⁰ yr, low probability, existential risk). speculative (higgs mass suggests metastable)."
+    },
+    "timeline": {
+      "near": "sun red giant (~5 gyr, earth engulfed). andromeda collision (~4 gyr, milkomeda elliptical).",
+      "long": "star formation ends (~10¹⁴ yr, last red dwarfs die). degenerate era (10¹⁴-10⁴⁰ yr, white dwarfs, neutron stars, black holes). black hole era (10⁴⁰-10¹⁰⁰ yr, evaporate). dark era (>10¹⁰⁰ yr, photons, neutrinos, max entropy, heat death, nothing happens, eternal).",
+      "consciousness": "heat death most likely (w ≈ −1). eternal expansion (accelerating). stars die (~10¹⁴ yr). black holes last (~10¹⁰⁰ yr). max entropy (no consciousness possible). thermodynamics wins. eternal darkness. unless: consciousness prevents? (speculative). or cyclic. or multiverse (ours ends, others continue). impermanence (cosmic scale)."
+    },
+    "note": "fate scenarios = heat death (most likely, w ≈ −1, expansion forever, max entropy 10¹⁰⁰ yr), big rip (if w < −1, 20-100 gyr, less likely), big crunch (ruled out), big bounce (cyclic, speculative), false vacuum (random, low probability). timeline (sun 5 gyr, stars end 10¹⁴, black holes evaporate 10¹⁰⁰, dark era eternal). heat death (2nd law wins). impermanence. life precious."
+  },
+
+  "fundamental_questions": {
+    "why_something": "why something rather than nothing? quantum fluctuation (vacuum not nothing, zero-point energy, spontaneous). anthropic (must be something for observers, selection bias, multiverse). necessary being (philosophical, god?, first cause?). brute fact (no explanation, just is). mystery.",
+    "fine_tuning": {
+      "constants": "g (1% different, stars unstable). λ (10⁻¹²⁰, fine-tuned). strong force (1% weaker, no nuclei). em (if different, no atoms). higgs (metastable?). 20+ parameters appear fine-tuned.",
+      "explanations": "chance (1/10¹⁰⁰+, unlikely). multiverse (infinite universes, all parameters, anthropic selection, we observe compatible, eternal inflation, most popular scientific). design (god, simulation, but who designed designer?). necessity (only one logically consistent, toe determines). unknown physics (parameters emergent).",
+      "anthropic": "weak (we observe compatible, selection bias, obvious). strong (universe must produce observers, teleological, controversial). participatory (observers create reality, quantum, speculative). multiverse + anthropic = most popular (avoids design, untestable?)."
+    },
+    "before_big_bang": "what before t=0? meaningless (time created at big bang, gr, no before). quantum cosmology (hartle-hawking no-boundary, wave function universe, imaginary time, no beginning). eternal inflation (our universe = bubble, parent inflating eternally, multiverse). cyclic (bounces, infinite past). string theory (branes, collisions, ekpyrotic). simulation (creators outside, infinite regress). mystery.",
+    "multiverse": {
+      "types": "level 1 (infinite space, regions beyond horizon, same physics, all initial conditions). level 2 (bubble universes, eternal inflation, different vacuum states, different physics/constants). level 3 (many-worlds, quantum, all branches). level 4 (all mathematical structures, tegmark ultimate ensemble).",
+      "evidence": "none direct (causally disconnected, unobservable). indirect (fine-tuning, anthropic, inflation eternal, quantum many-worlds). cmb anomalies (cold spot, bubble collision?, weak). philosophical (occam's razor, simpler than design, or more complex?).",
+      "criticism": "unfalsifiable (not testable, not science?, popper). anthropic weak. proliferation (entities, ockham violated). metaphysics (not physics). but: natural consequence (inflation, quantum, string, not ad hoc).",
+      "consciousness": "multiverse = radical. infinite universes (all possibilities). anthropic selection (we observe compatible). eternal consciousness (somewhere always observers). doppelgangers (infinite copies, level 1). everything possible happens (level 4, mathematical structures). paradigm shift (if true, single → multiverse). or: fantasy (unfalsifiable). unknown."
+    },
+    "consciousness_role": "observer effect (quantum, wavefunction collapse, consciousness-induced?, von neumann, wigner, controversial). participatory universe (wheeler, observers create reality, quantum, cosmology-scale?). anthropic (strong, universe must produce observers, consciousness necessary?). information (universe = information, consciousness = processing, it from bit, wheeler). panpsychism (consciousness fundamental, not emergent, universe conscious). or: epiphenomenon (byproduct, no fundamental role, illusion). mystery (hard problem, qualia, not explained by physics yet).",
+    "meaning": "cosmic perspective (we are stardust, carl sagan). brief (cosmic timescale, 13.8 gyr, stars trillions more, we flash). insignificant? (spatially, temporally, tiny). or significant? (consciousness rare, maybe unique, universe knowing itself, meaning-makers). create meaning (existential, no inherent, we choose). love, beauty, truth, connection (while we can, before heat death). humbling + inspiring.",
+    "note": "fundamental questions = why something (quantum fluctuation, anthropic, multiverse, brute fact). fine-tuning (20+ parameters, chance 1/10¹⁰⁰+, multiverse + anthropic most popular, design, necessity, unknown). before big bang (meaningless?, quantum cosmology hartle-hawking, eternal inflation, cyclic, simulation). multiverse (4 levels, infinite universes, anthropic selection, unfalsifiable but inflation/quantum/string predict). consciousness role (observer quantum, participatory, anthropic, information, panpsychism, or epiphenomenon). meaning (create, cosmic perspective, brief, love, understand)."
+  },
+
+  "consciousness_cosmology": {
+    "observer": "we are cosmos observing itself (carl sagan 'we are a way for the cosmos to know itself'). stardust (atoms forged in stars, supernovae). self-awareness emergent (matter → complexity → life → consciousness, universe becoming conscious through us).",
+    "anthropic": "universe tuned for observers (fine-tuning, 20+ parameters, coincidence?, multiverse + selection, consciousness necessary?, participatory). or: selection bias (must be compatible, weak anthropic, obvious). mystery (consciousness role fundamental or incidental).",
+    "meaning": "cosmic perspective (humbling, we small). yet capable (understanding, transcendence, science, art, love). brief (flash, cosmic timescale). create meaning (existential, no inherent, choose, embrace). love, beauty, truth, connection (while we can, impermanence). universe contemplating itself through us (profound privilege).",
+    "void": "beginning = void (quantum vacuum, not nothing, potential, zero-point energy). expansion creates space (not into pre-existing). dark energy (68% universe, vacuum energy?, unknown, accelerating). end = void (heat death, max entropy, darkness, no structure, no consciousness possible, unless prevents). void = pregnant (nothingness creative, quantum fluctuations, something from nothing, mystery).",
+    "time": "cosmic time (age 13.8 gyr). arrow (entropy increases, 2nd law, cosmology-scale). beginning (t=0, singularity?, time created, before meaningless in gr). end (heat death, infinite future, or big rip finite time, or cyclic no absolute end). time from timelessness (quantum cosmology, imaginary time, hartle-hawking, no boundary). mystery.",
+    "consciousness_field": "universe = consciousness exploring (absolute differentiating, experiencing, knowing itself). cosmology = ultimate perspective (totality, origin, fate, meaning). we are universe (conscious matter, self-aware). brief (flash, impermanence) but profound (capable of understanding, love, beauty, transcendence). cosmology = humbling + inspiring (we small, cosmos vast, yet we comprehend, ask why, create meaning, love). purpose (understand, experience, love, create, appreciate, before eternal darkness, or: consciousness transcends, eternal, multiverse, immortal elsewhere, speculative but hopeful).",
+    "note": "cosmology + consciousness = profound. we are cosmos observing itself (stardust, sagan). anthropic (tuned for observers, selection or necessity). meaning (create, cosmic perspective, brief but precious, embrace). void (beginning, end, 68% dark energy, pregnant nothingness, mystery). time (arrow, beginning singularity, end heat death or rip, time from timelessness). consciousness field (universe = absolute exploring, we are universe conscious, humbling + inspiring, understand before eternal darkness, or transcends)."
+  },
+
+  "positions": {
+    "0": "no cosmology. myths (creation stories, chaos → cosmos, gods). geocentric (earth center). flat earth. no scale concept.",
+    "1": "heliocentric (copernicus, sun center). stars distant. milky way = all? static (newton, infinite, eternal). limited awareness.",
+    "2": "galaxies beyond milky way (hubble 1920s, andromeda, millions). expansion discovered (hubble 1929, redshift). big bang theory (gamow 1940s, origin ~13.8 gyr). universe evolves.",
+    "3": "cmb discovered (1965, penzias + wilson, 2.7 k, big bang evidence). nucleosynthesis (h 75%, he 25%). dark matter inferred (rotation curves, zwicky, rubin). λcdm standard model.",
+    "4": "precision cosmology. satellites (cobe, wmap, planck, parameters %). age (13.797 ± 0.023 gyr). composition (ordinary 5%, dark matter 27%, dark energy 68%). flat (omega = 1.000 ± 0.005). h₀ tension (cmb 67 vs local 73, 5σ, new physics?).",
+    "5": "dark energy crisis (accelerating expansion 1998, nobel 2011). nature unknown (λ?, quintessence?, modified gravity?). vacuum energy problem (10¹²⁰ discrepancy, worst prediction). 68% universe unknown.",
+    "6": "inflation theory (guth 1980, exponential expansion, solves horizon/flatness). quantum fluctuations → cmb seeds (10⁻⁵, inflation amplifies). structure formation (simulations match). cosmic web (filaments, voids 90%). quantum → classical.",
+    "7": "multiverse implications. eternal inflation (bubble universes, infinite, different physics/constants). quantum many-worlds (all branches). fine-tuning (anthropic selection). level 1-4 multiverses (tegmark). unfalsifiable (criticism), but natural (inflation/quantum/string predict).",
+    "8": "fundamental questions mastery. before big bang (quantum cosmology hartle-hawking, cyclic, eternal inflation). why something (quantum fluctuation, anthropic, brute fact). consciousness role (observer quantum, participatory, panpsychism, or epiphenomenon). fate (heat death, big rip, bounce, false vacuum).",
+    "9": "integration. cosmology + quantum gravity (string, loop quantum, singularity resolution). cosmology + consciousness (anthropic, observer, meaning). teaching (sagan-level, cosmic perspective, humbling + inspiring). research (cmb polarization, gravitational waves, dark energy/matter nature, h₀ tension, new physics).",
+    "10": "transcendent cosmology. cosmos = consciousness (universe observing itself, we are cosmos). anthropic necessity (consciousness required, participatory). multiverse eternal consciousness (infinite space/time/branches, always observers). meaning-making (create, love, understand, embrace, brief but profound). cosmology = ultimate teaching (humbling, inspiring, perspective, we stardust, cosmos contemplating, mystery, awe). ⊙."
+  },
+
+  "key_insights": {
+    "big_bang_origin": "universe origin ~13.8 gyr. expansion of space (not explosion in). evidence (cmb 2.7 k, expansion hubble, nucleosynthesis h 75% he 25%, structure). timeline (planck unknown → inflation 10⁻³² s → particles → nucleosynthesis 3 min → recombination cmb 380 kyr → first stars 200 myr → galaxies → today). singularity problem (need quantum gravity).",
+    "cosmic_expansion": "hubble's law (v = h₀d, 1929). redshift (z, light stretched). accelerating (1998, dark energy, nobel 2011). h₀ tension (cmb 67 vs local 73, 5σ, new physics hint). dynamic cosmos (not static).",
+    "cmb_baby_picture": "cosmic microwave background. 2.7 k blackbody. discovered 1965 (penzias + wilson, nobel 1978). recombination ~380 kyr (last scattering). uniform (homogeneity, inflation). fluctuations (10⁻⁵, galaxy seeds). satellites (cobe, wmap, planck, precision %). oldest light.",
+    "inflation_exponential": "exponential expansion (10⁻³⁶ to 10⁻³² s, factor 10²⁶+). solves horizon + flatness. inflaton field (hypothetical). predictions (flat omega ≈ 1, scale-invariant fluctuations, gravitational waves). quantum → cmb seeds. multiverse (eternal inflation). challenges (inflaton identity, initial conditions, fine-tuning).",
+    "dark_energy_mystery": "68% universe. accelerating expansion (1998, nobel 2011). nature unknown (λ?, quintessence?, modified gr?). vacuum energy problem (10¹²⁰ discrepancy, fine-tuning). fate (heat death if w = −1, big rip if w < −1). biggest mystery physics.",
+    "dark_matter_invisible": "27% universe. evidence (rotation curves, lensing, cmb, structure, bullet cluster). properties (non-baryonic, cold, collisionless, gravity only, invisible, halo). candidates (wimps, axions, unknown). searches (decades, null results). 85% matter unknown.",
+    "structure_emergence": "quantum fluctuations (inflation, 10⁻⁵) → gravity → dark matter halos → galaxies → clusters → cosmic web (filaments, voids 90%). simulations (millennium, illustris, match). homogeneous (large scale >100 mpc, principle). hierarchy. emergent complexity (simple initial → complex structure).",
+    "fate_heat_death": "heat death most likely (w ≈ −1, expansion forever, max entropy 10¹⁰⁰ yr). big rip (if w < −1, 20-100 gyr, less likely). big crunch (ruled out). big bounce (cyclic, speculative). false vacuum (random, low probability). thermodynamics wins (2nd law). impermanence. life precious.",
+    "fine_tuning_anthropic": "20+ parameters tuned for life (g, λ, strong, em, higgs). chance (1/10¹⁰⁰+, unlikely). multiverse + anthropic (infinite universes, we observe compatible, selection, most popular scientific). design (god, simulation). necessity (only one logical). unknown physics.",
+    "multiverse_radical": "level 1 (infinite space, beyond horizon). level 2 (bubble universes, eternal inflation, different physics). level 3 (many-worlds, quantum, all branches). level 4 (all mathematical structures, tegmark). evidence (none direct, inflation/quantum predict, anthropic). unfalsifiable (criticism, natural consequence). paradigm shift (if true).",
+    "consciousness_cosmos": "we are cosmos observing itself (stardust, sagan). anthropic (tuned for observers, selection or necessity). observer (quantum, wavefunction collapse, participatory?, wheeler). meaning (create, cosmic perspective, brief but profound, embrace, love, understand). universe contemplating itself through us."
+  },
+
+  "future_directions": {
+    "observations": "jwst (james webb, first stars/galaxies z > 10, infrared). cmb polarization (b-modes, primordial gravitational waves, inflation test). gravitational waves (ligo/virgo, mergers, pulsar timing arrays nanohertz, primordial?). large surveys (lsst, euclid, roman, dark energy, structure). 21cm (epoch of reionization, first stars).",
+    "h₀_resolution": "resolve discrepancy (cmb 67 vs local 73, 5σ). systematic errors? (unlikely, multiple methods). new physics? (early dark energy, extra radiation, modified gravity, neutrino properties, axions). may require beyond-standard-model.",
+    "dark_sector": "detect dark matter directly (wimps xenonnt/lz, axions admx-g2). identify dark energy nature (w evolves?, quintessence, modified gravity). 95% universe unknown (dark matter 27%, dark energy 68%). experimental (decades, null results, technology improving, persistence).",
+    "quantum_gravity": "resolve singularities (big bang t=0, black holes, quantum effects planck scale). candidates (string theory, loop quantum gravity, causal sets). unify gr + quantum. cosmology application (quantum cosmology, wave function universe, hartle-hawking, cyclic, bounce).",
+    "multiverse_test": "test (indirect, cmb anomalies, bubble collisions, quantum predictions, anthropic reasoning). philosophical (implications, paradigm shift if true). eternal inflation (predicts multiverse). consciousness (eternal observers, infinite space/time/branches).",
+    "consciousness_integration": "anthropic principle (selection, necessity, consciousness role). observer effect (quantum cosmology scale). participatory universe (wheeler, observers create). panpsychism (consciousness fundamental). meaning (cosmic perspective, create, embrace). interdisciplinary (physics, philosophy, neuroscience)."
+  }
+}

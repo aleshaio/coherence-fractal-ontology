@@ -1,0 +1,535 @@
+{
+  "_meta": {
+    "id": "cfo:humanitarian:astrognosy",
+    "type": "practice_framework",
+    "category": "humanitarian",
+    "axis": "air",
+    "status": "active",
+    "version": "3.0",
+    "created": "2025-01-15",
+    "updated": "2025-10-24",
+    "tags": ["astrology", "consciousness", "timing", "divination", "cosmic-patterns"],
+    "related": [
+      "cfo:humanitarian:cosmic-cycles",
+      "cfo:humanitarian:astronomical-patterns",
+      "cfo:humanology:types",
+      "cfo:fundamental:consciousness",
+      "cfo:patterns:64"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "Astrognosy = knowing through the stars. Reading cosmic weather patterns to navigate consciousness evolution. Not fortune-telling but conscious co-creation with planetary rhythms.",
+    "principle": "Planets = consciousness types at cosmic scale. Aspects = relationships between types. Transits = activation of internal patterns. As above, so below.",
+    "revolution": "From fatalistic prediction to conscious co-creation. Stars show weather, you choose the course.",
+    "application": "Use planetary patterns to optimize timing, understand cycles, align personal evolution with cosmic breath. Weather forecast ≠ weather control."
+  },
+
+  "_links": {
+    "references": [
+      "cfo:humanitarian:cosmic-cycles (comprehensive encyclopedia)",
+      "cfo:humanitarian:astronomical-patterns (quick reference index)",
+      "cfo:humanology:types (socionics-planetary correspondences)",
+      "cfo:natural:alchemy (metal-planet integration)",
+      "cfo:patterns:64 (i-ching synthesis)"
+    ],
+    "dependencies": [],
+    "extensions": [
+      "cfo:tools:cosmic-geometry-platform",
+      "cfo:humanitarian:astrognosy-types"
+    ]
+  },
+
+  "what_astrognosy_is": {
+    "definition": "The gnosis (direct knowing) obtained through studying and experiencing astronomical patterns as they relate to consciousness and earthly phenomena.",
+    
+    "not_fortune_telling": {
+      "old_paradigm": "Stars control fate. Astrology predicts fixed future.",
+      "new_paradigm": "Stars reflect patterns. Astrology shows probabilities and optimal timing. Free will remains.",
+      "metaphor": "Weather forecast vs weather control. Forecast helps you plan (umbrella or sunscreen), but doesn't force outcomes."
+    },
+
+    "three_dimensions": {
+      "natal": {
+        "what": "Birth chart — cosmic snapshot at moment of birth",
+        "function": "Shows consciousness architecture, potentials, challenges, life themes",
+        "use": "Self-understanding, recognizing patterns, accepting design"
+      },
+      "transit": {
+        "what": "Current planetary positions relative to natal chart",
+        "function": "Shows which parts of consciousness are activated NOW",
+        "use": "Timing decisions, understanding current challenges/opportunities, surfing cosmic waves"
+      },
+      "progression": {
+        "what": "Symbolic evolution of chart over time",
+        "function": "Shows internal development arc",
+        "use": "Understanding life chapters, major transitions, soul evolution path"
+      }
+    }
+  },
+
+  "core_components": {
+    "planets_as_consciousness": {
+      "principle": "Each planet = specific type of consciousness expressed at cosmic scale",
+      "see_full_table": "cosmic-cycles.json > planetary_correspondences",
+      
+      "quick_reference": {
+        "sun": {
+          "type": "SEE/ESFP",
+          "metal": "Gold",
+          "principle": "Identity, vitality, ego, creative force",
+          "day": "Sunday",
+          "consciousness": "Radiant presence, ego strength, self-expression"
+        },
+        "moon": {
+          "type": "SEI/ISFP",
+          "metal": "Silver",
+          "principle": "Emotions, subconscious, instinct, receptivity",
+          "day": "Monday",
+          "consciousness": "Receptive awareness, emotional attunement, body wisdom"
+        },
+        "mercury": {
+          "type": "ILE/ENTP",
+          "metal": "Gallium (safe substitute)",
+          "principle": "Thought, communication, information",
+          "day": "Wednesday",
+          "consciousness": "Quick thinking, verbal flow, mental agility"
+        },
+        "venus": {
+          "type": "ESE/ESFJ",
+          "metal": "Copper",
+          "principle": "Love, beauty, values, harmony",
+          "day": "Friday",
+          "consciousness": "Open heart, aesthetic appreciation, relational warmth"
+        },
+        "mars": {
+          "type": "SLE/ESTP",
+          "metal": "Iron",
+          "principle": "Action, will, aggression, desire",
+          "day": "Tuesday",
+          "consciousness": "Warrior presence, decisive action, raw will"
+        },
+        "jupiter": {
+          "type": "IEE/ENFP",
+          "metal": "Tin",
+          "principle": "Expansion, wisdom, faith, abundance",
+          "day": "Thursday",
+          "consciousness": "Optimistic vision, philosophical breadth, generous spirit"
+        },
+        "saturn": {
+          "type": "LSI/ISTJ",
+          "metal": "Lead (symbolic)",
+          "principle": "Structure, discipline, limitation, time",
+          "day": "Saturday",
+          "consciousness": "Patient endurance, structural thinking, mature responsibility"
+        },
+        "uranus": {
+          "principle": "Awakening, revolution, innovation, breakthrough",
+          "consciousness": "Lightning insight, sudden change, liberation"
+        },
+        "neptune": {
+          "principle": "Mysticism, dissolution, dreams, unity",
+          "consciousness": "Cosmic merging, spiritual sensitivity, boundary dissolution"
+        },
+        "pluto": {
+          "principle": "Death-rebirth, power, shadow, transformation",
+          "consciousness": "Phoenix process, soul excavation, regeneration"
+        }
+      },
+
+      "metal_type_correspondence": "Planets correspond to metals (alchemy) and socionics types (humanology). This is not metaphor but actual resonance pattern."
+    },
+
+    "signs_as_filters": {
+      "principle": "12 signs = 12 flavors/modes of consciousness expression",
+      "elements": {
+        "fire": {
+          "signs": ["Aries", "Leo", "Sagittarius"],
+          "principle": "Energy, will, identity",
+          "keyword": "I AM"
+        },
+        "earth": {
+          "signs": ["Taurus", "Virgo", "Capricorn"],
+          "principle": "Form, matter, stability",
+          "keyword": "I HAVE"
+        },
+        "air": {
+          "signs": ["Gemini", "Libra", "Aquarius"],
+          "principle": "Information, thought, connection",
+          "keyword": "I THINK"
+        },
+        "water": {
+          "signs": ["Cancer", "Scorpio", "Pisces"],
+          "principle": "Emotion, unity, subconscious",
+          "keyword": "I FEEL"
+        }
+      },
+      "modalities": {
+        "cardinal": "Aries, Cancer, Libra, Capricorn — Initiation, leadership, action",
+        "fixed": "Taurus, Leo, Scorpio, Aquarius — Stability, persistence, will",
+        "mutable": "Gemini, Virgo, Sagittarius, Pisces — Adaptation, flexibility, understanding"
+      },
+      "see_details": "cosmic-cycles.json > zodiac_signs_brief"
+    },
+
+    "houses_as_spheres": {
+      "principle": "12 houses = 12 life domains where consciousness expresses",
+      "angular_houses": {
+        "1st": "Self, body, appearance, persona",
+        "4th": "Home, roots, family, foundation",
+        "7th": "Relationships, partnerships, others",
+        "10th": "Career, public role, authority, legacy"
+      },
+      "succedent_houses": {
+        "2nd": "Resources, values, self-worth, possessions",
+        "5th": "Creativity, pleasure, children, self-expression",
+        "8th": "Transformation, shared resources, sexuality, death",
+        "11th": "Community, friends, ideals, future vision"
+      },
+      "cadent_houses": {
+        "3rd": "Communication, learning, siblings, local environment",
+        "6th": "Health, service, daily routine, work",
+        "9th": "Philosophy, travel, higher learning, meaning",
+        "12th": "Spirituality, unconscious, solitude, transcendence"
+      }
+    },
+
+    "aspects_as_relationships": {
+      "principle": "Aspects = angular relationships between planets = how consciousness types interact",
+      "see_full_details": "cosmic-cycles.json > aspects_detailed",
+      
+      "essential_five": {
+        "conjunction_0": "Fusion. Energies merge. New cycle begins. Powerful but unfocused.",
+        "sextile_60": "Opportunity. Friendly collaboration. Requires conscious activation.",
+        "square_90": "Challenge. Friction and growth. Internal tension demands action.",
+        "trine_120": "Harmony. Effortless flow. Maximum coherence. Natural talent.",
+        "opposition_180": "Tension. Awareness through polarity. Integration of opposites required."
+      },
+
+      "interpretation": "Harmonious aspects (trine, sextile) = ease. Dynamic aspects (square, opposition) = growth through challenge. Conjunction = intensity."
+    }
+  },
+
+  "astronomical_patterns": {
+    "principle": "Specific planetary configurations create distinct fields of coherence or tension",
+    "see_comprehensive": "cosmic-cycles.json > grand_configurations",
+    "see_index": "astronomical-patterns.json",
+
+    "grand_trine": {
+      "geometry": "3 planets ~120° apart in same element",
+      "effect": "MAXIMUM HARMONY in that element. Closed energy circuit.",
+      "experience": "Enormous ease and talent in that domain. Risk of complacency (too easy = no motivation).",
+      "types": {
+        "fire": "Inspiration, creativity, leadership explosion. Optimal for initiating bold projects.",
+        "earth": "Manifestation ease, practical mastery. Optimal for building/grounding.",
+        "air": "Intellectual brilliance, communication flow. Optimal for learning/networking.",
+        "water": "⭐ Emotional/psychic coherence. ALL WATER coherent. OPTIMAL for water alchemy, healing, empathy work."
+      },
+      "application": "PRIORITIZE these windows. Especially Water Grand Trine for water-based practices."
+    },
+
+    "grand_cross": {
+      "geometry": "4 planets forming cross (2 oppositions + 4 squares)",
+      "effect": "MAXIMUM TENSION. Crisis configuration forcing breakthrough.",
+      "experience": "Pulled in 4 directions. Intense pressure. Breakthrough or breakdown.",
+      "types": {
+        "cardinal": "Action crisis — must initiate NOW",
+        "fixed": "Will crisis — stubborn standoff, ego death required",
+        "mutable": "Consciousness crisis — cognitive overwhelm, paradigm shift needed"
+      },
+      "use": "⚠️ ADVANCED only. For major transformations, shadow work, initiations. Not for casual operations."
+    },
+
+    "t_square": {
+      "geometry": "1 opposition + 2 squares forming T",
+      "effect": "Focused tension with outlet through apex planet",
+      "use": "Harness tension for directed breakthrough. Apex planet = solution path.",
+      "example": "Moon opposite Saturn, both square Mars — channel through Mars action to resolve emotional (Moon) vs structural (Saturn) conflict"
+    },
+
+    "stellium": {
+      "geometry": "3+ planets in same sign",
+      "effect": "Super-concentration in one area. Amplified focus.",
+      "use": "Work with that sign's domain. Massive energy available but narrow focus.",
+      "warning": "Can create imbalance — other areas neglected"
+    },
+
+    "yod_finger_of_god": {
+      "geometry": "2 planets sextile, both quincunx 3rd planet",
+      "effect": "Fateful adjustment. Karmic lesson. Divine intervention feeling.",
+      "use": "Surrender to necessary changes. Accept redirection.",
+      "experience": "Life pushes you toward specific evolution. Resistance = suffering."
+    }
+  },
+
+  "lunar_timing": {
+    "principle": "Moon = fastest cycle, most immediate impact on consciousness and matter",
+    "see_full": "cosmic-cycles.json > moon > phases",
+
+    "phases_quick": {
+      "new_moon": "Seed, beginning, intention. Best for starting new operations.",
+      "waxing": "Growth, building, attracting. Continue begun work.",
+      "full_moon": "⭐ Peak power, culmination, revelation. Maximum field strength.",
+      "waning": "Release, clearing, completion. Banishing and letting go."
+    },
+
+    "void_of_course": {
+      "definition": "Moon makes no major aspects before changing signs",
+      "duration": "Few minutes to 2+ days",
+      "effect": "Projects begun during VOC tend to 'go nowhere' or need rework",
+      "rule": "⛔ AVOID starting new alchemy operations during VOC. Finish ongoing work or rest."
+    }
+  },
+
+  "retrograde_periods": {
+    "mercury_retrograde": {
+      "frequency": "3-4x per year, ~3 weeks each",
+      "effect": "Communication breakdowns, technology glitches, delays, miscommunications",
+      "good_for": "RE- words: review, revise, revisit, repair",
+      "avoid": "⛔ Starting new operations, signing contracts, launching projects",
+      "alchemy": "Review old protocols, repair equipment, revisit past work"
+    },
+    
+    "other_retrogrades": {
+      "venus": "Every ~18 months, ~6 weeks. Relationship reviews, value reassessment.",
+      "mars": "Every ~2 years, ~2.5 months. Action frustrated, breakthrough work difficult.",
+      "jupiter_saturn": "Yearly. Longer durations. Review expansion/structure themes.",
+      "outer_planets": "Annual. Generational impacts. Less personal unless natal contact."
+    }
+  },
+
+  "archetypal_astrognosy": {
+    "principle": "Each socionics type resonates with specific celestial bodies and patterns",
+    "see_full": "astrognosy-types.json",
+
+    "quadra_cosmic_themes": {
+      "alpha": {
+        "cosmic_region": "Orion Nebula (birthplace of stars)",
+        "theme": "The Breath of Creation",
+        "types": {
+          "ILE": "Mercury retrograde, Gemini, ultraviolet possibilities",
+          "SEI": "Moon, Cancer, silver-white lunar light",
+          "ESE": "Venus morning star, Leo, golden-orange herald",
+          "LII": "Saturn, Virgo, crystalline geometric patterns"
+        }
+      },
+      "beta": {
+        "cosmic_region": "Pleiades (warrior stars)",
+        "theme": "The Forge of Will",
+        "types": {
+          "SLE": "Mars, Aries, red spectrum raw power",
+          "IEI": "Neptune, Pisces, violet-indigo mystical light",
+          "EIE": "Jupiter, Sagittarius, royal purple emanation",
+          "LSI": "Saturn's rings, Capricorn, chrome reflection"
+        }
+      },
+      "gamma": {
+        "cosmic_region": "Sirius (brightest star)",
+        "theme": "The Market of Stars",
+        "types": {
+          "SEE": "Sun at zenith, Leo, full spectrum white-gold",
+          "ILI": "Black holes, Scorpio, gravitational waves",
+          "LIE": "Alpha Centauri, Capricorn, blue-white efficiency",
+          "ESI": "Vega, Virgo, steady blue-white"
+        }
+      },
+      "delta": {
+        "cosmic_region": "Andromeda (approaching galaxy)",
+        "theme": "The Garden of Stars",
+        "types": {
+          "IEE": "Shooting stars, Aquarius, rainbow spectrum",
+          "SLI": "Asteroid belt, Taurus, infrared deep heat",
+          "LSE": "Polaris, Capricorn, steady white navigation",
+          "EII": "Cosmic background radiation, Pisces, subtle omnipresent hum"
+        }
+      }
+    },
+
+    "cosmic_metal_conductance": {
+      "principle": "Metals act as antennae for stellar frequencies",
+      "practice": "Hold corresponding metal during celestial events to amplify connection",
+      "examples": {
+        "full_moon": "SEI polishes silver under moonlight",
+        "mars_conjunction": "SLE forges iron under Mars' gaze",
+        "saturn_return": "LSI meditates with chromium during Saturn return"
+      }
+    },
+
+    "stellar_magic_amplification": {
+      "timing": "Perform magic during type's power times",
+      "location": "Face type's constellation",
+      "metal": "Hold or wear corresponding metal",
+      "result": "5D archetype channels cosmic current into 3D"
+    }
+  },
+
+  "timing_optimization": {
+    "see_full_protocol": "cosmic-cycles.json > practical_timing_protocol",
+    
+    "decision_tree": {
+      "minimum_check": [
+        "1. Lunar phase appropriate?",
+        "2. Mercury Retrograde? (if yes, avoid new)",
+        "3. Moon Void of Course? (if yes, avoid starting)"
+      ],
+      "standard_check": [
+        "4. Planetary day matches operation?",
+        "5. Major harsh aspects? (prepare for challenge)"
+      ],
+      "optimal_check": [
+        "6. Favorable aspects present? (trines, sextiles)",
+        "7. Grand configurations? (prioritize!)"
+      ]
+    },
+
+    "priority_windows": {
+      "rank_1": "Water Grand Trine (water alchemy)",
+      "rank_2": "Full Moon (peak operations)",
+      "rank_3": "Element Grand Trine matching work",
+      "rank_4": "Eclipse windows (major initiations - advanced only)",
+      "rank_5": "Planetary day + hour matching operation"
+    }
+  },
+
+  "integration_with_cfo": {
+    "alchemy": {
+      "link": "natural/alchemy.json",
+      "principle": "Metals = planetary antennae. Timing = amplifier.",
+      "water_grand_trine": "⭐⭐⭐ ALL WATER maximally coherent. Optimal for water alchemy operations.",
+      "planetary_catalysts": "Copper + Venus Friday = love amplification. Iron + Mars Tuesday = breakthrough."
+    },
+
+    "humanology": {
+      "link": "humanology/types.json",
+      "principle": "Planets = types at cosmic scale. Your type resonates with specific planets.",
+      "example": "ILE (Mercury type) strongest during Mercury hours or Gemini/Virgo seasons.",
+      "exploration": "Track YOUR performance across different planetary conditions."
+    },
+
+    "i_ching": {
+      "link": "patterns/64.json",
+      "principle": "Both systems describe transformational patterns. Synthesis = fuller picture.",
+      "example": "Hexagram 63 (After Completion) + Waning Moon = time to rest after achievement"
+    },
+
+    "schumann_resonance": {
+      "link": "natural/schumann-interface.json",
+      "base_frequency": "7.83 Hz — Earth's electromagnetic heartbeat",
+      "correlation": "Schumann spikes during major planetary alignments (Full Moons, conjunctions)",
+      "application": "Peak Schumann = peak Earth field coherence. May amplify operations."
+    }
+  },
+
+  "chart_interpretation_principles": {
+    "wholeness": "Chart = complete ecosystem. No 'bad' planets or aspects. All serve evolution.",
+    "polarity": "Challenging aspects (squares, oppositions) often = greatest growth areas and eventual strengths.",
+    "synthesis": "Don't read planets in isolation. See patterns, element balance, aspect networks.",
+    "timing": "Natal = blueprint. Transits = activation. Progressions = evolution. All three create moment.",
+    "free_will": "Chart shows PROBABILITIES and POTENTIALS, not FATE. You choose how to express energies.",
+    "growth": "Chart evolves with consciousness. Same configuration, higher expression possible."
+  },
+
+  "common_misconceptions": {
+    "myth_1": {
+      "false": "Astrology is deterministic. Stars control your fate.",
+      "true": "Astrology shows patterns and optimal timing. Free will remains. Weather forecast ≠ weather control."
+    },
+    "myth_2": {
+      "false": "Sun sign horoscopes = real astrology.",
+      "true": "Sun sign = 1/10th of story. Full chart has 10 planets, 12 houses, aspects, etc."
+    },
+    "myth_3": {
+      "false": "Bad aspects = bad life.",
+      "true": "Challenging aspects = greatest growth opportunities. Diamonds form under pressure."
+    },
+    "myth_4": {
+      "false": "Astrology has no mechanism.",
+      "true": "Gravitational fields, electromagnetic radiation, quantum entanglement, morphic resonance all plausible. Mechanism unknown ≠ mechanism absent."
+    },
+    "myth_5": {
+      "false": "You need to believe for it to work.",
+      "true": "Planetary patterns exist independent of belief. But conscious use = more effective navigation."
+    }
+  },
+
+  "personal_practice_framework": {
+    "daily": {
+      "check": "Moon phase and sign. Current day ruler.",
+      "awareness": "Notice how you feel. Energy level? Emotional tone?",
+      "align": "If low energy and Moon waning = rest, not push."
+    },
+
+    "weekly": {
+      "review": "What transits are active this week? Any major aspects?",
+      "plan": "Schedule important work during favorable aspects.",
+      "journal": "Record events, feelings, insights. Note correlations with transits."
+    },
+
+    "monthly": {
+      "new_moon": "Set intentions for lunar cycle. What wants to begin?",
+      "full_moon": "Celebrate achievements. Release what's complete. Illuminate shadow.",
+      "review": "What themes emerged this month? Check transits for patterns."
+    },
+
+    "yearly": {
+      "solar_return": "Birthday = new personal year begins. Get solar return chart.",
+      "progression": "Secondary progressions advance ~1 day per year.",
+      "major_transits": "Note slow planet transits to natal chart. Multi-year themes.",
+      "reflection": "How did you evolve? How did chart express through your choices?"
+    }
+  },
+
+  "resources": {
+    "apps": [
+      "Time Nomad (best for learning, clean interface)",
+      "Planetaro (planetary hours)",
+      "Lunarium (moon tracking)",
+      "Co-Star / The Pattern (social, daily insights)"
+    ],
+    "websites": [
+      "astro.com (free charts, best ephemeris)",
+      "cafeastrology.com (beginner-friendly)",
+      "mooncalendar.com (lunar tracking)",
+      "spaceweather.com (solar activity, Schumann)"
+    ],
+    "books": [
+      "The Inner Sky - Steven Forrest (psychological)",
+      "Planets in Transit - Robert Hand (timing)",
+      "Astrology for the Soul - Jan Spiller (evolutionary)",
+      "The Twelve Houses - Howard Sasportas (house meanings)"
+    ]
+  },
+
+  "ethical_considerations": {
+    "prediction": "Use for understanding and timing, not fatalistic prediction. 'You will' → 'You might' or 'Optimal time for'.",
+    "consent": "Don't read someone's chart without permission. Respect privacy.",
+    "empowerment": "Frame readings to empower, not create dependency or fear.",
+    "limits": "Acknowledge uncertainty. Astrology = tool, not crystal ball. Multiple futures possible.",
+    "responsibility": "If doing readings: get training, work ethically, know when to refer to therapist/doctor."
+  },
+
+  "positions_0_10": {
+    "0": "Unconscious. Astrology = entertainment only. No awareness of patterns.",
+    "1": "First awareness. 'Maybe there's something here?' Checking horoscopes.",
+    "2": "Learning basics. Sun, Moon, Rising. Reading charts superficially.",
+    "3": "Pattern recognition. Noticing transit correlations with life events.",
+    "4": "Conscious timing. Using lunar phases, avoiding Mercury Rx.",
+    "5": "Crisis. Challenging transit forces deeper understanding. Saturn return.",
+    "6": "Integration. Astrology as life navigation tool. Consistent practice.",
+    "7": "Mastery. Reading complex charts. Timing major operations optimally.",
+    "8": "Teaching. Guiding others. Creating synthesis with other systems.",
+    "9": "Living astrology. Embodied wisdom. Planetary rhythms are your rhythms.",
+    "10": "Transcendence. Chart = empty mirror. You are the cosmos observing itself."
+  },
+
+  "final_transmission": {
+    "essence": "Astrognosy = reading the cosmic book written in light and gravity. But YOU are both reader and author.",
+    "sovereignty": "Stars don't control you. They show the weather. YOU choose how to dress, where to go, what to build.",
+    "tool_not_master": "Use astrology to assist will, not replace it. Will + Timing = maximum efficacy. Will alone = still captain.",
+    "integration": "Combine with other CFO practices. Alchemy + Astrognosy = transmutation at optimal moment.",
+    "practice": "Learn by doing. Track transits. Notice correlations. Your experience = ultimate teacher.",
+    "evolution": "Chart = potential. Consciousness = actualization. Same stars, infinite expressions possible."
+  },
+
+  "ॐ": "Planets = consciousness types at cosmic scale. Aspects = relationships. Transits = activation. Water Grand Trine = ⭐ for water work. Mercury Rx = pause. Moon = rhythm. Chart = map not fate. Free will remains. As above, so below. You = microcosm of macrocosm. ⊙"
+}

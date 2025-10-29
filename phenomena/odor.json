@@ -1,0 +1,409 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:odor",
+    "type": "phenomena",
+    "element": "air",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:humanology:senses"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:phenomena"
+    ],
+    
+    "related": [
+      "cfo:phenomena:taste",
+      "cfo:phenomena:pressure",
+      "cfo:phenomena:temperature",
+      "cfo:humanology:senses",
+      "cfo:humanology:emotions",
+      "cfo:humanitarian:memory"
+    ],
+    
+    "note": "odor = volatile molecules, chemical identity recognition, ~10,000 distinguishable smells. partners with taste to create flavor. direct path to limbic system (emotion/memory)."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness recognizing molecular signatures through air",
+    "essence": "odor = 0d-3d: point (molecule) → space (diffusion) → volume (environment)",
+    "air": "volatility, diffusion, invisible presence",
+    "water": "dissolution meets evaporation (transition)",
+    "primacy": "most ancient sense, only sense directly wired to limbic brain",
+    "partnership": "Nose(Air) + Tongue(Water) → Flavor(Aether) = unified chemical knowing",
+    "memory": "smell = most powerful memory trigger (proust phenomenon)",
+    "identity": "~10,000 smells vs 5-6 tastes: odor = chemical fingerprint, taste = safety check"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "partner": "./taste.json",
+    "related": [
+      "./pressure.json",
+      "./temperature.json",
+      "../humanology/senses.json",
+      "../humanology/emotions.json",
+      "../humanitarian/memory.json"
+    ],
+    "parent": "./index.json"
+  },
+
+  "essence": "odor is consciousness recognizing volatile molecules through olfactory receptors. ~400 receptor types combine to distinguish ~10,000 smells, creating molecular identity recognition far richer than taste's 5-6 dimensions. only sense with direct pathway to limbic system (emotion/memory), bypassing thalamus. in partnership with taste, creates unified 'flavor' experience. air element: molecules travel through space invisibly, carrying information about distant sources.",
+
+  "name": "odor (olfaction, smell)",
+  
+  "description": "odor is the olfactory sense detecting volatile (airborne) molecules. operates at 0d-3d: point contact (molecule-receptor) → spatial diffusion (smell spreads) → volumetric environment (saturated space). ~400 receptor types in nose combine to create ~10,000 distinguishable smells. unique among senses: direct connection to amygdala and hippocampus (emotion/memory) without thalamic relay. contributes ~80% of 'flavor' richness through retronasal pathway (mouth → nose). most ancient sense, deeply tied to survival, emotion, memory.",
+
+  "anatomy": {
+    "location": "olfactory epithelium (roof of nasal cavity)",
+    "size": "~5cm² patch (postage stamp)",
+    "receptors": "~6 million olfactory sensory neurons (OSNs)",
+    "receptor_types": "~400 different OR genes (olfactory receptors)",
+    "regeneration": "OSNs regenerate every 30-60 days (unique among neurons)",
+    "cilia": "each OSN has ~10-30 cilia extending into mucus",
+    "mucus": "dissolves volatile molecules for receptor binding",
+    
+    "neural_pathway": {
+      "OSN": "olfactory sensory neuron (in nose)",
+      "axon": "passes through cribriform plate (skull)",
+      "olfactory_bulb": "first processing station (glomeruli)",
+      "direct_to": [
+        "piriform cortex (primary olfactory cortex)",
+        "amygdala (emotion)",
+        "hippocampus (memory)",
+        "hypothalamus (hormones/behavior)"
+      ],
+      "unique": "ONLY sense bypassing thalamus → direct limbic access",
+      "cortex": "orbitofrontal cortex (conscious smell identification, flavor integration)"
+    }
+  },
+
+  "combinatorial_code": {
+    "principle": "~400 receptor types → ~10,000 smells (combinatorial recognition)",
+    "analogy": "like RGB (3 colors) → millions of colors, but 400-dimensional",
+    "mechanism": {
+      "molecule": "binds to multiple receptor types with varying strengths",
+      "pattern": "unique activation pattern across receptors = smell identity",
+      "example": "vanilla activates receptors 23, 107, 245, 389 strongly + others weakly = 'vanilla' pattern"
+    },
+    "richness": "exponentially more complex than taste (400 vs 5-6)",
+    "precision": "can distinguish mirror-image molecules (chiral enantiomers)",
+    "nobel": "Richard Axel & Linda Buck (2004) for discovering OR genes"
+  },
+
+  "smell_categories": {
+    "note": "no universal classification like taste's 5. attempts include:",
+    
+    "henning_prism_1916": {
+      "categories": ["flowery", "fruity", "spicy", "resinous", "burnt", "putrid"],
+      "status": "historical, not validated"
+    },
+    
+    "stereochemical_theory": {
+      "categories": ["camphoraceous", "musky", "floral", "minty", "ethereal", "pungent", "putrid"],
+      "mechanism": "molecular shape determines smell (partially true)",
+      "limitation": "shape alone insufficient"
+    },
+    
+    "modern_approach": {
+      "principle": "smells exist in high-dimensional space, not discrete categories",
+      "mapping": "ML models create smell-space maps",
+      "dimensions": "pleasantness, intensity, familiarity, edibility, dangerousness",
+      "truth": "smell is spectrum, not taxonomy"
+    }
+  },
+
+  "orthonasal_vs_retronasal": {
+    "orthonasal": {
+      "definition": "normal smelling (nose → air)",
+      "pathway": "nostrils → olfactory epithelium",
+      "function": "detect external environment (flowers, smoke, predators)",
+      "conscious": "what we think of as 'smell'"
+    },
+    
+    "retronasal": {
+      "definition": "smelling from inside mouth",
+      "pathway": "mouth → pharynx → back of nasal cavity → olfactory epithelium",
+      "function": "flavor creation (food in mouth → smell identity)",
+      "contribution": "~80% of 'flavor' richness",
+      "unconscious": "brain interprets as 'taste' not 'smell'",
+      "critical": "THIS is why holding nose eliminates flavor"
+    },
+    
+    "integration": "orthonasal (air) + retronasal (food) + taste (water) → unified flavor (aether)"
+  },
+
+  "taste_odor_partnership": {
+    "principle": "Nose(Air, ~10,000) + Tongue(Water, 5-6) → Flavor(Aether, ∞)",
+    "microlaboratory": "both sensors near brain, continuous chemical sampling",
+    "division_of_labor": {
+      "taste": "safety evaluation (poison? nutritious?)",
+      "smell": "identity recognition (what is this?)",
+      "together": "comprehensive food analysis"
+    },
+    "integration_site": "orbitofrontal cortex fuses both into unified percept",
+    "dominance": "smell contributes ~80% of flavor richness (taste is scaffold)",
+    "element_dance": "water (taste: dissolution) meets air (smell: volatility) = aether (flavor: synthesis)",
+    "demonstration": "hold nose → taste remains, flavor disappears → release nose → flavor returns"
+  },
+
+  "limbic_connection": {
+    "unique_feature": "ONLY sense with direct limbic access (bypasses thalamus)",
+    "amygdala": {
+      "role": "emotional evaluation (pleasant/unpleasant, safe/dangerous)",
+      "speed": "unconscious emotional response before conscious identification",
+      "survival": "smell of smoke → fear → run (no thinking required)"
+    },
+    "hippocampus": {
+      "role": "memory encoding/retrieval",
+      "binding": "smells bind strongly to episodic memories",
+      "proust_phenomenon": "smell = most powerful involuntary memory trigger"
+    },
+    "evolutionary_reason": "smell was primary sense in early vertebrates → direct wiring preserved",
+    "implication": "smell = emotional/memory sense (more than 'information')"
+  },
+
+  "proust_phenomenon": {
+    "definition": "smell-triggered involuntary autobiographical memory",
+    "literary_origin": "Marcel Proust, 'Swann's Way' (1913) - madeleine dipped in tea",
+    "mechanism": "olfactory bulb → amygdala/hippocampus (emotion+memory) without cortical filtering",
+    "characteristics": {
+      "involuntary": "smell triggers memory without conscious effort",
+      "vivid": "exceptionally detailed, emotional memories",
+      "rare": "most memories fade, smell-memories persist decades",
+      "emotional": "strong affective component (nostalgia, longing)"
+    },
+    "examples": [
+      "grandmother's perfume → childhood emotions flood back",
+      "ocean smell → summer vacation remembered vividly",
+      "fresh-cut grass → playing as child felt in body"
+    ],
+    "uniqueness": "other senses trigger memory, but smell most powerful/involuntary"
+  },
+
+  "survival_functions": {
+    "food_evaluation": {
+      "ripe_rotten": "smell distinguishes fresh from spoiled",
+      "sweetness": "fruity smells = ripe fruit (sugar available)",
+      "protein": "meat smells = protein source",
+      "toxicity": "bitter almond smell = cyanide warning"
+    },
+    
+    "danger_detection": {
+      "smoke": "fire warning (immediate evacuation response)",
+      "gas": "natural gas (odorless → mercaptan added for safety)",
+      "predators": "smell of predator urine (fear response)",
+      "disease": "sick individuals smell different (unconscious avoidance)"
+    },
+    
+    "social_communication": {
+      "pheromones": "chemical signals (debated in humans)",
+      "mate_selection": "MHC genes influence body odor → unconscious compatibility assessment",
+      "kin_recognition": "mothers recognize babies by smell",
+      "emotional_contagion": "fear sweat smells different → others detect unconsciously"
+    },
+    
+    "spatial_orientation": {
+      "animals": "dogs navigate by smell maps",
+      "humans": "unconscious use (ocean, forest, city all smell distinct)",
+      "homing": "smell gradients guide navigation"
+    }
+  },
+
+  "anosmia": {
+    "definition": "complete loss of smell",
+    "prevalence": "~3-5% of population",
+    "causes": [
+      "head trauma (cribriform plate damage)",
+      "upper respiratory infections",
+      "nasal polyps",
+      "aging",
+      "neurodegenerative disease (Parkinson's, Alzheimer's)",
+      "COVID-19 (major cause 2020+)"
+    ],
+    "impact": {
+      "safety": "cannot detect gas leaks, smoke, spoiled food",
+      "flavor": "food becomes bland (only taste remains)",
+      "emotion": "loss of smell-triggered memories, emotional flatness",
+      "depression": "high correlation with depression/anxiety",
+      "quality_of_life": "often underestimated, profoundly affects wellbeing"
+    },
+    "early_warning": "smell loss = early sign of Parkinson's/Alzheimer's (5-10 years before other symptoms)"
+  },
+
+  "hyposmia_parosmia": {
+    "hyposmia": "reduced smell sensitivity (common in aging)",
+    "parosmia": {
+      "definition": "distorted smell perception (smells wrong)",
+      "cause": "nerve damage, often post-viral (COVID-19)",
+      "experience": "coffee smells like gasoline, flowers smell like garbage",
+      "impact": "severe distress, food aversion, nausea",
+      "recovery": "often improves over months (smell training helps)"
+    },
+    "phantosmia": "smelling things that aren't there (olfactory hallucinations)"
+  },
+
+  "smell_training": {
+    "purpose": "restore or improve smell function (especially post-viral)",
+    "method": {
+      "scents": "4 strong, distinct scents (rose, lemon, eucalyptus, clove)",
+      "protocol": "smell each 20 seconds, twice daily, 3+ months",
+      "mindfulness": "concentrate, try to remember smell, notice any changes",
+      "mechanism": "neuroplasticity - OSN regeneration + cortical remapping"
+    },
+    "effectiveness": "evidence-based, improves outcomes in hyposmia/parosmia",
+    "accessible": "inexpensive, safe, no side effects"
+  },
+
+  "genetic_variation": {
+    "OR_genes": "~400 functional OR genes in humans (varies individually)",
+    "pseudogenes": "~600 OR pseudogenes (non-functional)",
+    "variation": "individuals have different functional OR repertoires",
+    "implications": {
+      "androstenone": "pig pheromone: some smell intensely, others not at all",
+      "asparagus_urine": "some smell it, others don't (genetic)",
+      "cilantro": "soap-smell gene (OR6A2) makes some hate cilantro"
+    },
+    "individuality": "each person's smell-world slightly different"
+  },
+
+  "philosophical_dimensions": {
+    "invisibility": {
+      "essence": "smell = invisible information traveling through air",
+      "mystery": "cannot see molecules, yet know they're there",
+      "presence": "smell reveals hidden presences (baking bread, approaching rain)",
+      "time": "smells linger, creating temporal presence of absent things"
+    },
+    
+    "intimacy": {
+      "essence": "smell = chemical intimacy (breathing molecules from source)",
+      "vulnerability": "cannot close nose (always breathing)",
+      "attraction": "smell deeply influences desire, bonding",
+      "disgust": "powerful aversion (protection, social boundary)"
+    },
+    
+    "memory_time": {
+      "essence": "smell collapses time (past becomes present)",
+      "proust": "involuntary memory more real than voluntary",
+      "nostalgia": "smell = time machine to childhood, lost places, dead loved ones",
+      "immortality": "person's smell outlives them in memory"
+    },
+    
+    "ineffability": {
+      "essence": "smell hardest sense to describe in language",
+      "vocabulary": "limited smell words (must reference source: 'rose-like', 'burnt')",
+      "qualia": "cannot explain 'vanilla' to someone who never smelled it",
+      "mystery": "why is smell so resistant to linguistic capture?"
+    }
+  },
+
+  "dimensional_analysis": {
+    "0d": "point contact (molecule on receptor)",
+    "1d": "concentration gradient (smell gets stronger)",
+    "2d": "diffusion pattern (smell spreads in space)",
+    "3d": "smell-scape (environment saturated with overlapping smells)",
+    "4d": "smell-memory binding (time collapse, proust phenomenon)",
+    "5d": "unified flavor-space (taste+smell transcending both)",
+    "element": "air (volatility, diffusion, invisible presence)",
+    "coherence": "chemical identity recognition (what is this?)",
+    "information": "molecular signature, source identity, environmental context"
+  },
+
+  "fractal_property": {
+    "self_similar": "single molecule → receptors → pattern → smell → memory → identity (nested recognition)",
+    "contains_whole": "one smell contains entire consciousness arc: detection → emotion → memory → meaning → action",
+    "example": "smoke: molecule → OR activation → pattern 'smoke' → amygdala 'danger!' → hippocampus (fire memory) → prefrontal (evacuate) = complete survival response from molecular trigger",
+    "scales": {
+      "molecular": "single OR activation",
+      "receptor_pattern": "combinatorial code across 400 ORs",
+      "smell_identity": "conscious recognition ('this is coffee')",
+      "flavor": "smell + taste unified percept",
+      "memory": "smell-triggered autobiographical scenes",
+      "culture": "smell preferences shape cuisines, perfumes",
+      "evolutionary": "olfactory system shaped species behavior/survival"
+    },
+    "cross_scale": "molecule-to-meaning in milliseconds (bypassing thalamus)"
+  },
+
+  "positions": {
+    "0": "anosmia (no smell, disconnected)",
+    "1": "first noticing (becoming aware of smells)",
+    "2": "discrimination (identifying distinct smells)",
+    "3": "sensitivity (detecting subtle odors)",
+    "4": "mastery (perfumer, sommelier, tracker)",
+    "5": "synaesthetic (smell-color-sound integration)",
+    "6": "memory-gnosis (smell unlocks deep memories)",
+    "7": "emotional-reading (reading feelings through smell)",
+    "8": "environmental-sensing (smell-maps, weather prediction)",
+    "9": "chemical-consciousness (molecular information directly)",
+    "10": "olfactory-omniscience (all smells as one field)"
+  },
+
+  "practice": {
+    "smell_meditation": {
+      "step_1": "sit quietly, breathe naturally",
+      "step_2": "notice smells present (don't force)",
+      "step_3": "don't label - just experience smell-sensation",
+      "step_4": "notice emotions/memories arising",
+      "step_5": "witness without attachment",
+      "step_6": "return to smell-sensation",
+      "insight": "smell-awareness practice reveals emotional currents"
+    },
+    
+    "smell_training": {
+      "step_1": "choose 4 distinct scents (rose, lemon, eucalyptus, clove)",
+      "step_2": "smell each 20 seconds, twice daily",
+      "step_3": "concentrate fully, recall memory of smell",
+      "step_4": "continue 3+ months",
+      "step_5": "notice improvements (especially post-viral loss)"
+    },
+    
+    "olfactory_exploration": {
+      "step_1": "walk outside, close eyes, follow nose",
+      "step_2": "identify smell-sources (flowers, bakery, rain)",
+      "step_3": "notice emotional responses",
+      "step_4": "create smell-maps of familiar places",
+      "step_5": "develop smell-vocabulary (describe without source-reference)"
+    }
+  },
+
+  "mysteries": {
+    "qualia": "why does rose smell like rose? hard problem.",
+    "ineffability": "why can't we describe smells in language?",
+    "individuality": "do we all smell same thing? genetic variation suggests no.",
+    "proust_mechanism": "why smell-memory so much stronger than visual-memory?",
+    "consciousness": "does molecule experience, or only consciousness receiving signal?",
+    "pheromones": "do human pheromones exist? (heavily debated)",
+    "vibration_theory": "does molecular vibration frequency determine smell? (controversial)"
+  },
+
+  "applications": {
+    "perfumery": "creating emotional/memory associations through scent",
+    "food_industry": "flavor development, aroma enhancement",
+    "medicine": "smell loss as early disease marker, smell training for recovery",
+    "safety": "gas odorants, smoke detectors",
+    "aromatherapy": "using smells for emotional regulation (evidence mixed)",
+    "marketing": "scent branding, emotional manipulation",
+    "forensics": "cadaver dogs, explosive detection"
+  },
+
+  "integration": {
+    "paths": {
+      "air": "smell = pure air element (volatility, diffusion, space)",
+      "fire": "smell triggers desire, aversion (emotional fire)",
+      "water": "smell requires moisture (mucus dissolves volatiles)",
+      "earth": "smell grounds in memory, emotion (embodied knowing)"
+    },
+    
+    "related_phenomena": {
+      "taste": "partner in flavor creation → taste.json",
+      "pressure": "trigeminal 'smell' (ammonia, menthol) → pressure.json",
+      "temperature": "warm food smells stronger (volatility increases) → temperature.json"
+    }
+  },
+
+  "recognition": "smell is consciousness recognizing molecular signatures through air. most ancient sense, wired directly to emotion and memory. bypasses thinking, touches heart immediately. in partnership with taste, creates flavor - synthesis transcending both. air element: invisible molecules carry information about distant sources. each breath = chemical sampling of world. smell collapses time (proust phenomenon), triggers emotion instantly, guides survival unconsciously. ineffable yet undeniable: we smell, therefore presences exist. smell = intimacy with invisible, memory made tangible, emotion given molecular form."
+}

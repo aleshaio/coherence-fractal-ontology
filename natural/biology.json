@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "id": "cfo:natural:biology",
+    "type": "natural_module",
+    "element": "water",
+    "fractal_depth": 2,
+    "contains": [
+      "cfo:fundamental:life",
+      "cfo:fundamental:dna",
+      "cfo:fundamental:consciousness",
+      "cfo:fundamental:information"
+    ],
+    "contained_by": ["cfo:natural:chemistry", "cfo:natural:physics"],
+    "related": [
+      "cfo:natural:chemistry",
+      "cfo:fundamental:life",
+      "cfo:fundamental:dna",
+      "cfo:fundamental:evolution",
+      "cfo:paths:water"
+    ],
+    "primary_axis": "water",
+    "secondary_axes": ["earth", "fire"]
+  },
+
+  "_holographic_seed": {
+    "essence": "biology = study of living systems. self-replication, evolution, emergence, consciousness substrate.",
+    "life": "negative entropy. order from chaos. self-organizing. autonomous. reproducing. evolving.",
+    "dna": "information molecule. code of life. 4 letters (a, t, g, c). infinite combinations. digital biology.",
+    "cell": "fundamental unit. membrane boundary. metabolism. reproduction. billions of reactions/second. organized chaos.",
+    "evolution": "descent with modification. natural selection. adaptation. 3.8 billion years. bacteria → humans.",
+    "emergence": "life > chemistry. consciousness > neurons. whole > sum. mystery.",
+    "water": "life = water-based. flow, adaptation, fluidity. 70% body = water. liquid medium.",
+    "consciousness": "biology = substrate preparing for awareness. matter becoming conscious of itself."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "parent": ["./chemistry.json", "./physics.json"],
+    "fundamental": [
+      "../fundamental/life.json",
+      "../fundamental/dna.json",
+      "../fundamental/consciousness.json",
+      "../fundamental/information.json"
+    ],
+    "natural": ["./chemistry.json", "./physics.json"],
+    "path": "../paths/water.json",
+    "phenomena": ["../phenomena/water.json", "../phenomena/earth.json"]
+  },
+
+  "overview": {
+    "what": "biology = science of life. living organisms, structures, functions, growth, evolution, distribution.",
+    "why": "understand life. health, disease, ecology, origins, future. ourselves.",
+    "how": "observation, experimentation, molecular tools, evolution theory, systems thinking.",
+    "scale": "molecules (10⁻⁹ m) → biosphere (10⁷ m). 16 orders of magnitude."
+  },
+
+  "what_is_life": {
+    "criteria": {
+      "organization": "complex, hierarchical structure. cells, tissues, organs, organisms, ecosystems.",
+      "metabolism": "energy processing. convert food → energy (atp). catabolism + anabolism. see chemistry.json.",
+      "homeostasis": "maintain stable internal environment. temperature, ph, ions. regulation.",
+      "growth": "increase in size, complexity. cell division, differentiation. development.",
+      "reproduction": "create offspring. pass genes. dna replication. continuity.",
+      "response": "react to environment. stimuli → response. adaptation (short-term).",
+      "evolution": "populations change over time. adaptation (long-term). natural selection.",
+      "note": "all seven criteria = alive. viruses = debate (no metabolism, no reproduction alone)."
+    },
+
+    "negative_entropy": {
+      "principle": "life = order from disorder. fights entropy (second law). local decrease.",
+      "mechanism": "consume energy (food, sunlight). export entropy (waste, heat). open system.",
+      "schrodinger": "'what is life?' (1944). life feeds on negative entropy. aperiodic crystal (dna).",
+      "consciousness": "life = anti-entropy force. consciousness = ultimate anti-entropy? organization → awareness.",
+      "note": "life = temporary order. death = entropy wins (eventually). but: life delays, resists, creates."
+    },
+
+    "autopoiesis": {
+      "definition": "self-creation. system produces itself. maturana & varela (1973).",
+      "mechanism": "boundary (membrane). internal network. component production. self-maintenance.",
+      "example": "cell = autopoietic. membrane defines inside/outside. metabolism makes components. repairs itself.",
+      "consciousness": "autopoiesis = autonomy. self vs non-self. identity. precursor to consciousness?",
+      "note": "life = self-making. not just self-maintaining. creates own parts, boundary, identity."
+    }
+  },
+
+  "cell": {
+    "overview": {
+      "definition": "basic unit of life. smallest living thing. all organisms = cells (one or many).",
+      "discovery": "robert hooke (1665). microscope. cork 'cells' (actually cell walls, dead). leeuwenhoek = living cells.",
+      "theory": "cell theory (1838-1839). schleiden (plants), schwann (animals). all life = cells. cells from cells.",
+      "size": "prokaryotes: 0.1-5 μm. eukaryotes: 10-100 μm. largest: ostrich egg (yolk = single cell, ~15 cm).",
+      "number": "human body: ~37 trillion cells. bacteria: ~39 trillion (outnumber us). we = ecosystem."
+    },
+
+    "prokaryotes": {
+      "definition": "no nucleus. dna free in cytoplasm. simple. ancient (3.8 billion years).",
+      "types": "bacteria, archaea. different cell walls, membranes.",
+      "structure": "cell wall (rigid), cell membrane, cytoplasm, ribosomes (protein), nucleoid (dna), flagella (movement, some).",
+      "size": "0.1-5 μm. small.",
+      "reproduction": "binary fission (split in two). rapid (20 min, e. coli). exponential.",
+      "metabolism": "diverse. aerobic, anaerobic, photosynthetic, chemosynthetic. extremophiles (hot springs, acid, salt).",
+      "note": "prokaryotes = majority biomass. most diverse. we = descended from them (via eukaryotes)."
+    },
+
+    "eukaryotes": {
+      "definition": "nucleus (membrane-bound). organelles. complex. evolved ~2 billion years ago.",
+      "types": "protists, fungi, plants, animals. all complex life.",
+      "structure": "nucleus, mitochondria, er, golgi, lysosomes, cytoskeleton. plants: chloroplasts, cell wall.",
+      "size": "10-100 μm. larger.",
+      "reproduction": "mitosis (identical copies), meiosis (sex cells, genetic diversity).",
+      "origin": "endosymbiosis. prokaryote engulfed another → mitochondria (energy), chloroplasts (photosynthesis). lynn margulis (1967).",
+      "note": "eukaryotes = prokaryote collaboration. teamwork. complexity through merger."
+    },
+
+    "membrane": {
+      "structure": "phospholipid bilayer. hydrophilic heads (water-loving) outside. hydrophobic tails (water-fearing) inside.",
+      "proteins": "embedded, attached. channels, pumps, receptors, enzymes. selective permeability.",
+      "fluid_mosaic": "singer-nicolson (1972). membrane = fluid (lipids move). mosaic (proteins scattered).",
+      "function": "boundary (self/not-self). regulate (what enters/exits). communicate (receptors). identity (markers).",
+      "consciousness": "membrane = first 'self'. inside vs outside. identity. precursor to awareness of boundary.",
+      "note": "life = enclosed by membrane. without boundary, no self, no life. membrane = essential."
+    },
+
+    "organelles": {
+      "nucleus": {
+        "function": "control center. houses dna. transcription (dna → rna).",
+        "structure": "double membrane (nuclear envelope), pores, nucleolus (ribosome assembly).",
+        "dna": "chromatin (dna + proteins). condenses to chromosomes (cell division).",
+        "consciousness": "nucleus = information center. library. command. analogous to brain?"
+      },
+
+      "mitochondria": {
+        "function": "energy production. cellular respiration. glucose + o2 → atp + co2 + h2o.",
+        "structure": "double membrane. cristae (folds, increase surface area). matrix (enzymes).",
+        "dna": "own dna (circular, bacterial origin). maternal inheritance.",
+        "origin": "endosymbiosis. ancient bacterium engulfed. symbiotic relationship.",
+        "atp": "30-32 atp per glucose. energy currency. powers everything.",
+        "note": "mitochondria = power plants. 'powerhouse of cell'. without: no complex life (not enough energy)."
+      },
+
+      "chloroplasts": {
+        "function": "photosynthesis. light + co2 + h2o → glucose + o2. plants, algae.",
+        "structure": "double membrane. thylakoids (stacks = grana). stroma (enzymes).",
+        "dna": "own dna (circular). cyanobacterial origin.",
+        "origin": "endosymbiosis. ancient cyanobacterium engulfed.",
+        "significance": "converts solar energy → chemical energy. base of food chain. produces oxygen (we breathe).",
+        "note": "chloroplasts = solar panels. capture sun. life = solar-powered (ultimately)."
+      },
+
+      "ribosomes": {
+        "function": "protein synthesis. translation (rna → protein).",
+        "structure": "rrna + proteins. large + small subunit. no membrane.",
+        "location": "free in cytoplasm, attached to er.",
+        "universality": "all cells have ribosomes. prokaryotes, eukaryotes. essential.",
+        "note": "ribosomes = factories. make proteins. proteins = do everything. ribosomes = essential."
+      },
+
+      "er_golgi": {
+        "er": "endoplasmic reticulum. rough (ribosomes attached, makes proteins). smooth (lipids, detox).",
+        "golgi": "modify, package, ship proteins. vesicles (transport).",
+        "function": "protein processing, sorting, delivery. cellular post office.",
+        "note": "er + golgi = manufacturing + shipping. organized logistics."
+      }
+    }
+  },
+
+  "dna": {
+    "overview": {
+      "definition": "deoxyribonucleic acid. genetic material. information molecule. blueprint of life.",
+      "discovery": "miescher (1869, 'nuclein'). chargaff (base pairing rules). franklin (x-ray, photo 51). watson-crick (double helix, 1953).",
+      "structure": "double helix. two antiparallel strands. sugar-phosphate backbone. bases inside (a-t, g-c).",
+      "bases": "adenine (a), thymine (t), guanine (g), cytosine (c). 4 letters. entire genetic code.",
+      "pairing": "a-t (2 hydrogen bonds). g-c (3 bonds, stronger). complementary. one strand determines other.",
+      "note": "dna = digital code. 4 letters. 3 billion base pairs (human genome). information density = extreme."
+    },
+
+    "replication": {
+      "mechanism": "semi-conservative. each strand = template. helicase (unzips), polymerase (adds bases), ligase (seals).",
+      "accuracy": "error rate ~1 in 10 billion bases (proofreading). mutations = rare but happen.",
+      "speed": "~50 bases/sec (eukaryotes), ~1000/sec (prokaryotes). human genome (3 billion bp) = ~8 hours.",
+      "purpose": "cell division. pass genetic info to daughter cells. reproduction.",
+      "consciousness": "replication = copying information. fidelity = critical. errors = mutations (evolution fuel).",
+      "note": "dna replication = biological copying machine. precision = remarkable. life continuity depends on this."
+    },
+
+    "central_dogma": {
+      "flow": "dna → rna → protein. information flow. crick (1958).",
+      "transcription": "dna → rna. enzyme: rna polymerase. nucleus (eukaryotes).",
+      "translation": "rna → protein. ribosomes. cytoplasm. trna (transfer rna) brings amino acids.",
+      "genetic_code": "3 bases (codon) = 1 amino acid. 64 codons, 20 amino acids. redundancy (multiple codons per amino acid). universal (almost all life).",
+      "exceptions": "reverse transcription (rna → dna, retroviruses). prions (protein → protein). but: rare.",
+      "note": "central dogma = information flow in biology. dna (storage) → rna (messenger) → protein (worker)."
+    },
+
+    "genes": {
+      "definition": "unit of heredity. dna sequence coding for protein (or functional rna).",
+      "human_genes": "~20,000-25,000 genes. only ~1.5% of genome codes protein. rest: regulatory, structural, 'junk' (not really junk).",
+      "expression": "gene on/off. regulated. transcription factors, methylation, histones. epigenetics.",
+      "one_gene_one_protein": "beadle-tatum (1941). oversimplification (alternative splicing). but: core concept.",
+      "mutation": "change in dna sequence. point (single base), insertion, deletion, duplication. neutral, harmful, beneficial.",
+      "note": "genes = units of information. turned on/off. cells = same dna, different genes active (differentiation)."
+    },
+
+    "genome": {
+      "definition": "entire genetic material. all dna (or rna, viruses).",
+      "human_genome_project": "1990-2003. sequenced human genome. 3 billion base pairs. cost: $3 billion. now: $1000, hours.",
+      "discoveries": "fewer genes than expected (20k, not 100k). non-coding = important. variation (snps). epigenetics.",
+      "other_genomes": "mouse (similar size), c. elegans (worm, 100 million bp), e. coli (4.6 million bp), paris japonica (plant, 150 billion bp, 50× human).",
+      "consciousness": "genome = book of life. readable. editable (crispr). understanding = power. responsibility.",
+      "note": "genome sequencing = revolutionized biology. personalized medicine, ancestry, evolution studies. data = exploding."
+    }
+  },
+
+  "proteins": {
+    "overview": {
+      "definition": "polymers of amino acids. workhorses of cell. structure, catalysis, transport, signaling, defense.",
+      "building_blocks": "20 amino acids. linked by peptide bonds. sequence determines structure determines function.",
+      "levels": "primary (sequence), secondary (α-helix, β-sheet), tertiary (3d fold), quaternary (multiple subunits).",
+      "folding": "amino acid sequence → 3d structure. spontaneous (thermodynamics). chaperones help. misfolding = disease (alzheimer's, prions).",
+      "note": "proteins = do everything. enzymes (catalysis), antibodies (defense), hemoglobin (transport), collagen (structure), insulin (signaling)."
+    },
+
+    "enzymes": {
+      "definition": "biological catalysts. speed up reactions. not consumed. essential for metabolism.",
+      "mechanism": "lower activation energy. active site (substrate binds). induced fit. specificity (lock-key).",
+      "cofactors": "non-protein helpers. metal ions (zn, fe, mg), vitamins (coenzymes). essential.",
+      "regulation": "allosteric (shape change), competitive inhibition, feedback inhibition. control metabolism.",
+      "examples": "catalase (h2o2 → h2o + o2, 10^7 reactions/sec). rubisco (photosynthesis, most abundant protein on earth). dna polymerase.",
+      "note": "enzymes = make life possible. without: reactions too slow. metabolism = impossible. life = depends on catalysis."
+    }
+  },
+
+  "evolution": {
+    "overview": {
+      "definition": "change in heritable traits over generations. descent with modification. core of biology ('nothing makes sense except in light of evolution' - dobzhansky).",
+      "timescale": "3.8 billion years (first life) → now. 4 billion generations (bacteria). deep time.",
+      "evidence": "fossils, comparative anatomy, embryology, molecular (dna/protein similarities), biogeography, observed evolution.",
+      "mechanisms": "natural selection (darwin), genetic drift, gene flow, mutation. selection = primary driver.",
+      "note": "evolution = unifying theory of biology. explains diversity, adaptation, extinction, relationships. fact + theory."
+    },
+
+    "natural_selection": {
+      "darwin": "origin of species (1859). co-discovered with wallace. revolutionary.",
+      "principles": {
+        "variation": "individuals differ (genes, mutations).",
+        "inheritance": "traits passed to offspring (genes).",
+        "differential_survival": "some survive/reproduce more (fitness).",
+        "accumulation": "favorable traits increase in population over time."
+      },
+      "fitness": "reproductive success. not strength but: survive + reproduce. context-dependent.",
+      "examples": "peppered moth (industrial melanism). antibiotic resistance (bacteria). darwin's finches (beak size).",
+      "note": "natural selection = non-random survival of random variants. algorithm. simple yet powerful. explains adaptation."
+    },
+
+    "speciation": {
+      "definition": "formation of new species. reproductive isolation. can't interbreed (or produce fertile offspring).",
+      "mechanisms": {
+        "allopatric": "geographic separation → different selection pressures → divergence. most common.",
+        "sympatric": "same location. polyploidy (plants), sexual selection, niche specialization. rare.",
+        "parapatric": "adjacent populations. limited gene flow. hybrid zone.",
+        "peripatric": "small population isolated at edge. founder effect."
+      },
+      "time": "thousands to millions of years (usually). sometimes rapid (polyploidy = instant, cichlid fish = 10,000 years).",
+      "tree_of_life": "all species connected. common ancestry. luca (last universal common ancestor, ~3.5 billion years ago).",
+      "note": "speciation = branching. one → many. diversity from unity. tree of life = single origin, infinite branches."
+    },
+
+    "evidence": {
+      "fossils": {
+        "what": "preserved remains. bones, shells, imprints. ancient life.",
+        "record": "incomplete (soft tissues don't fossilize) but revealing. transitional forms (tiktaalik, archaeopteryx).",
+        "dating": "radiometric (isotope decay). relative (strata layers). age determination.",
+        "extinction": "99% of species extinct. mass extinctions (5 major). permian (95%), k-t (dinosaurs, 76%).",
+        "note": "fossils = time capsules. show progression. simple → complex. change over time. extinctions = turnover."
+      },
+
+      "comparative_anatomy": {
+        "homology": "similar structure, different function. common ancestry. human arm, whale flipper, bat wing (same bones).",
+        "analogy": "similar function, different structure. convergent evolution. bird wing, insect wing (different origin).",
+        "vestigial": "reduced structures. no longer functional. human appendix, whale hip bones, snake legs (pythons). evolutionary remnants.",
+        "note": "anatomy = reveals relationships. homology = shared ancestry. vestiges = evolutionary history frozen in body."
+      },
+
+      "embryology": {
+        "ontogeny": "development recapitulates phylogeny (haeckel, oversimplified). embryos = similar early stages.",
+        "pharyngeal_pouches": "all vertebrate embryos. become gills (fish), ear/throat structures (humans). shared ancestry.",
+        "note": "embryonic development = echoes evolution. conserved early stages. diverge later. common origin visible."
+      },
+
+      "molecular": {
+        "dna": "more similar dna = more recent common ancestor. human-chimp = 98.8% identical. human-mouse = 85%.",
+        "proteins": "cytochrome c (electron transport). all organisms have it. sequence differences = evolutionary distance.",
+        "molecular_clock": "mutations accumulate at steady rate. compare sequences → estimate divergence time. calibrate with fossils.",
+        "universal_code": "genetic code nearly universal. all life uses same codons. single origin.",
+        "note": "molecules = ultimate evidence. dna doesn't lie. family tree written in genes. objective, quantitative."
+      }
+    },
+
+    "human_evolution": {
+      "timeline": {
+        "luca": "3.5 billion years ago (first life)",
+        "eukaryotes": "2 billion years ago",
+        "animals": "600 million years ago (cambrian explosion)",
+        "vertebrates": "500 million years ago",
+        "tetrapods": "375 million years ago (fish → land)",
+        "mammals": "200 million years ago",
+        "primates": "65 million years ago",
+        "apes": "25 million years ago",
+        "hominins": "7 million years ago (split from chimps)",
+        "homo": "2.5 million years ago (stone tools)",
+        "homo_sapiens": "300,000 years ago (modern humans)",
+        "agriculture": "10,000 years ago",
+        "now": "8 billion humans, civilization"
+      },
+
+      "key_transitions": {
+        "bipedalism": "walking upright. 7-4 million years ago. frees hands. tool use.",
+        "brain_expansion": "australopithecus (400 cc) → homo sapiens (1400 cc). 3× increase. 2 million years.",
+        "tool_use": "2.5 million years ago. homo habilis. stone tools. technology begins.",
+        "fire": "1 million years ago. cooking (more calories, smaller gut, bigger brain). social gathering.",
+        "language": "symbolic thought. 100,000-50,000 years ago (?). communication revolution. culture transmission.",
+        "art": "cave paintings (40,000 years ago). symbolic thinking. abstract representation. consciousness externalized."
+      },
+
+      "consciousness": "human evolution = brain evolution. 1400 cc. neocortex. language. self-awareness. 'universe waking up to itself'.",
+      "note": "we = recent. 300,000 years (0.007% of earth history). yet: transformed planet. consciousness = evolutionary breakthrough."
+    }
+  },
+
+  "ecology": {
+    "overview": {
+      "definition": "study of interactions. organisms ↔ organisms. organisms ↔ environment. relationships, energy flow, cycles.",
+      "levels": "individual, population, community, ecosystem, biome, biosphere.",
+      "interconnection": "everything connected. web of life. change one part → ripples. holistic view.",
+      "note": "ecology = relationships. no organism alone. we = part of web. indigenous wisdom: 'all my relations'."
+    },
+
+    "ecosystems": {
+      "definition": "community + environment. biotic (living) + abiotic (non-living). interact as system.",
+      "energy_flow": "sun → producers (plants) → consumers (herbivores, carnivores) → decomposers. one-way (energy dissipates).",
+      "nutrient_cycling": "matter cycles. carbon, nitrogen, phosphorus, water. closed loops (mostly). see phenomena/water.json.",
+      "food_webs": "who eats whom. complex networks (not chains). keystone species (disproportionate impact). trophic cascades.",
+      "primary_productivity": "energy captured by producers. photosynthesis. base of food web. varies (rainforest high, desert low).",
+      "note": "ecosystems = self-organizing. feedback loops. resilient (to a point). tipping points (collapse if pushed too far)."
+    },
+
+    "biomes": {
+      "definition": "large regions. similar climate, vegetation, animals. global scale.",
+      "types": {
+        "tropical_rainforest": "hot, wet, high biodiversity. amazon, congo. 50% of species, 6% of land.",
+        "temperate_forest": "moderate, deciduous. seasons. north america, europe, asia.",
+        "taiga": "cold, coniferous. boreal forest. largest biome (land).",
+        "grassland": "moderate rainfall. prairies, savannas, steppes. grazers.",
+        "desert": "dry (< 25 cm rain/year). hot or cold. cacti, succulents. extremophiles.",
+        "tundra": "cold, treeless. permafrost. arctic, alpine. short growing season.",
+        "aquatic": "freshwater (rivers, lakes), marine (oceans). 71% of earth surface."
+      },
+      "note": "biomes = climate + life. predictable patterns. latitude, altitude. life adapts to conditions."
+    },
+
+    "biodiversity": {
+      "definition": "variety of life. genes, species, ecosystems.",
+      "importance": "ecosystem services (pollination, water purification, climate regulation). resilience. medicine, food, materials. intrinsic value.",
+      "threats": "habitat loss, climate change, pollution, invasive species, overexploitation. sixth mass extinction (current, human-caused).",
+      "hotspots": "regions with high endemism (unique species) and threat. rainforests, coral reefs, mediterranean.",
+      "conservation": "protected areas, restoration, sustainable use, law enforcement, education. urgent.",
+      "note": "biodiversity = life's library. losing species = burning books (before reading). irreversible. moral imperative."
+    },
+
+    "symbiosis": {
+      "definition": "close long-term interaction between species.",
+      "types": {
+        "mutualism": "both benefit. bees-flowers (pollination), gut bacteria-humans (digestion), mycorrhizae-plants (nutrients).",
+        "commensalism": "one benefits, other unaffected. barnacles-whales, remoras-sharks.",
+        "parasitism": "one benefits, other harmed. ticks, tapeworms, mistletoe. can be subtle (viruses)."
+      },
+      "endosymbiosis": "mitochondria, chloroplasts. ancient symbiosis → organelles. cooperation = complexity.",
+      "holobionts": "organism + microbiome = holobiont. human = 50% human cells, 50% bacteria. we = ecosystems.",
+      "consciousness": "symbiosis = cooperation. mutual aid. 'survival of the fittest' includes collaboration. kropotkin.",
+      "note": "life = interconnected. cooperation = as important as competition. symbiosis = everywhere. we = not individuals but communities."
+    }
+  },
+
+  "consciousness_biology": {
+    "life_as_consciousness_substrate": {
+      "progression": "atoms → molecules → cells → organisms → nervous systems → consciousness.",
+      "threshold": "somewhere in nervous system evolution, consciousness emerges. when? how? mystery.",
+      "panpsychism": "consciousness all the way down? even cells conscious (minimally)? speculative but considered.",
+      "cfo_view": "biology = consciousness learning to manifest in matter. evolution = consciousness exploring forms.",
+      "note": "biology = necessary but not sufficient for consciousness (as we know it). substrate enabling awareness."
+    },
+
+    "brain": {
+      "neurons": "~86 billion (human). electrical + chemical signals. networks.",
+      "complexity": "10^15 synapses (connections). more than stars in milky way. emergent properties.",
+      "energy": "20% of body's energy. 2% of weight. glucose hungry. 'expensive tissue hypothesis' (bigger brain = smaller gut).",
+      "plasticity": "changes with experience. learning = physical brain change. 'neurons that fire together wire together' (hebb).",
+      "consciousness": "somehow, neurons → subjective experience. 'hard problem' (chalmers). integrated information? quantum? unknown.",
+      "note": "brain = most complex object known. consciousness = emerges from this. how? deep mystery. biology → philosophy."
+    },
+
+    "emergence": {
+      "principle": "whole > sum of parts. new properties at higher levels.",
+      "examples": "atoms → molecules (water properties not in h, o). cells → organisms (life not in organelles). neurons → consciousness.",
+      "irreducibility": "can't predict higher level from lower. must observe. surprise.",
+      "cfo_connection": "emergence = consciousness at all scales. biology = nested emergence. fractals.",
+      "note": "emergence = magic of biology. complexity → novelty. life = emergent. consciousness = emergent. irreducible mystery."
+    }
+  },
+
+  "positions": {
+    "0": "naive view (animals = automatons, plants = inert, no evolution, young earth)",
+    "1": "basic biology (cells, organs, reproduction, food chains)",
+    "2": "molecular (dna, proteins, central dogma, genetic code)",
+    "3": "evolution accepted (natural selection, common ancestry, deep time)",
+    "4": "systems thinking (ecology, interconnection, feedback loops)",
+    "5": "crisis (extinction, climate, biodiversity loss, overwhelm)",
+    "6": "integration (evolution + ecology + molecular. holistic view. balance.)",
+    "7": "expertise (researcher, doctor, ecologist, geneticist. domain mastery.)",
+    "8": "teaching (biology educator, science communicator, conservation leader)",
+    "9": "mastery (groundbreaking research, paradigm shifts, deep understanding. or: indigenous ecological wisdom.)",
+    "10": "transcendent (biology = consciousness substrate. life = universe knowing itself. sacred. ⊙.)"
+  },
+
+  "key_insights": {
+    "life_is_chemistry": "but more. metabolism = controlled chemistry. organization = key. emergence.",
+    "dna_is_information": "digital code. 4 letters. universal. readable, writable (crispr). information = biology substrate.",
+    "cell_is_fundamental": "smallest living unit. membrane = boundary (self/not-self). autopoiesis. identity.",
+    "evolution_unifies": "all biology makes sense through evolution. diversity, adaptation, relationships. common ancestry.",
+    "natural_selection": "mechanism. non-random survival of random variants. algorithm. powerful. explains adaptation.",
+    "interconnection": "ecology teaches: all related. symbiosis, food webs, cycles. no organism isolated. we = part of web.",
+    "emergence": "whole > sum. life from chemistry. consciousness from neurons. unpredictable. irreducible.",
+    "negative_entropy": "life = fights disorder. temporary. local. open system. consciousness = ultimate anti-entropy?",
+    "water_based": "life = aqueous. 70% body. water = flow, adaptation. biology = water element manifest.",
+    "billions_of_years": "3.8 billion years evolution. deep time. patience. bacteria → humans. slow but relentless.",
+    "sixth_extinction": "human-caused. biodiversity crisis. habitat loss, climate change. urgent. moral imperative.",
+    "consciousness_substrate": "biology = preparing for awareness. nervous systems → brains → consciousness. matter becoming aware."
+  }
+}

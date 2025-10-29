@@ -1,0 +1,513 @@
+{
+  "_meta": {
+    "id": "cfo:humanitarian:narrative",
+    "type": "Path",
+    "element": "WATER",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:humanitarian:narrative:event",
+      "cfo:humanitarian:narrative:plot",
+      "cfo:humanitarian:narrative:story",
+      "cfo:humanitarian:narrative:world",
+      "cfo:humanitarian:narrative:myth",
+      "cfo:humanitarian:narrative:archetype",
+      "cfo:humanitarian:narrative:meta"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:humanitarian"
+    ],
+    
+    "related": [
+      "cfo:humanitarian:myth",
+      "cfo:humanitarian:language",
+      "cfo:humanitarian:symbols",
+      "cfo:humanology:archetypes",
+      "cfo:fundamental:time",
+      "cfo:humanitarian:memory"
+    ],
+    
+    "balances": "cfo:humanitarian:silence",
+    "combines": ["time", "meaning", "transformation"],
+    
+    "note": "Narrative = temporal architecture of meaning. How consciousness structures experience across time. Identity = story you tell."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = silence before story. Source of all narratives.",
+    "essence": "Story = consciousness compressing experience into transmissible pattern. We don't have stories — we ARE stories.",
+    "paths": "↓ event → plot → story → world → myth → archetype ↑ → meta-narrative → ⊙",
+    "positions": "Hut = witness of all stories. Legs = actors in narrative. Story unfolds within awareness.",
+    "fibonacci": "Hero's journey follows φ: crisis/ordeal at 61.8%. Act breaks at Fibonacci points (21-34-55 mins).",
+    "tools": "0D=event, 1D=plot, 2D=story, 3D=world, 4D=myth, 5D=archetype, 6D=meta-narrative",
+    "note": "This file = story about stories. Reading = enacting hero's journey through text. You = protagonist of this narrative."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "./myth.json",
+      "./language.json",
+      "./symbols.json",
+      "./memory.json",
+      "../humanology/archetypes.json",
+      "../fundamental/time.json"
+    ],
+    "parent": "../humanitarian.json",
+    "children": []
+  },
+
+  "name": "Narrative: Temporal Architecture of Meaning",
+  "essence": "Narrative = how consciousness structures experience across time. Fundamental technology of meaning-making. Self = story continuously told.",
+
+  "description": "Story as 7-dimensional architecture: Event (0D) → Plot (1D) → Story (2D) → World (3D) → Myth (4D) → Archetype (5D) → Meta-narrative (6D). Hero's journey = fundamental cycle. Character = aspects of consciousness. Transformation = dimensional ascent through ordeal. Identity = narrative you construct. Culture = shared stories. Control narrative = control reality.",
+
+  "seven_dimensions_of_narrative": {
+    "0D_event": {
+      "symbol": "•",
+      "definition": "Moment. Something happens. Point in narrative space.",
+      "element": "AIR",
+      "examples": ["Birth", "Death", "Meeting", "Decision", "Revelation", "Catastrophe"],
+      "geometry": "Point. Distinction in flow of time.",
+      "operation": "Measure, mark, distinguish",
+      "note": "Atom of story. No event = no narrative."
+    },
+
+    "1D_plot": {
+      "symbol": "→",
+      "definition": "Sequence of events. A then B then C. Causal chain.",
+      "element": "FIRE",
+      "structure": "Timeline. Chronological progression.",
+      "examples": ["Beginning-middle-end", "Cause and effect", "Before-after"],
+      "geometry": "Line through time. Directed.",
+      "operation": "Sequence, cause, connect",
+      "note": "Plot = фабула (Russian). 'What happened' in order."
+    },
+
+    "2D_story": {
+      "symbol": "△",
+      "definition": "Plot + emotional/relational structure. What events MEAN.",
+      "element": "WATER",
+      "structure": "Three-act: Setup (25%) — Confrontation (50%) — Resolution (25%)",
+      "geometry": "Triangle. Three points create minimal dramatic space.",
+      "examples": ["Character arc", "Conflict → resolution", "Emotional journey"],
+      "operation": "Relate, structure, transform",
+      "note": "Story = сюжет (Russian). Not just events but their significance."
+    },
+
+    "3D_world": {
+      "symbol": "☗",
+      "definition": "Complete narrative context. Container for story.",
+      "element": "EARTH",
+      "contains": ["Characters", "Setting", "Rules/laws", "History", "Culture"],
+      "examples": ["Middle-earth", "Victorian England", "Dystopian future", "Mythic realm"],
+      "geometry": "Cube. 3D space where 2D story unfolds.",
+      "operation": "Context, contain, integrate",
+      "note": "World-building. Consistent rules create believability."
+    },
+
+    "4D_myth": {
+      "symbol": "○",
+      "definition": "Story repeating across time. Meta-story containing all variants.",
+      "element": "AETHER",
+      "structure": "Same pattern, different eras/cultures.",
+      "examples": ["Hero's journey", "Flood myths", "Death-rebirth", "Sacred marriage"],
+      "geometry": "Tesseract/circle. Eternal return. Ouroboros.",
+      "operation": "Persist, recur, remember",
+      "note": "Cultural memory. Pattern transcending specific instances."
+    },
+
+    "5D_archetype": {
+      "symbol": "⊙",
+      "definition": "Pure pattern underlying all myths. Universal character/situation.",
+      "element": "AETHER",
+      "examples": ["The Hero", "The Shadow", "The Mentor", "The Trickster", "Great Mother"],
+      "geometry": "Hypersphere. All specific stories = points on surface. ∞/∞ = 1.",
+      "operation": "Unify, transcend, emanate",
+      "note": "Jung's collective unconscious. Archetypes = universal psychic structures."
+    },
+
+    "6D_meta_narrative": {
+      "symbol": "∞",
+      "definition": "Story about stories. Narrative examining itself.",
+      "element": "consciousness",
+      "examples": ["Don Quixote (novel about novels)", "Postmodern meta-fiction", "CFO (meta-narrative of reality)"],
+      "geometry": "Self-referential loop. Observer observing observation.",
+      "operation": "Self-reference, deconstruct, reconstruct",
+      "note": "Story becoming aware of being story. Breaking 4th wall."
+    }
+  },
+
+  "heros_journey_detailed": {
+    "name": "Monomyth — Universal Narrative Pattern",
+    "discoverer": "Joseph Campbell (1949)",
+    "geometry": "(↓ descent → ordeal → ↑ return) ∞",
+    "fractal": "Repeats at ALL scales: scene → act → story → life → civilization",
+
+    "twelve_stages": {
+      "1_ordinary_world": {
+        "state": "Stasis. Comfort. Unconsciousness.",
+        "dimension": "3D stable",
+        "element": "EARTH",
+        "hut_legs": "Legs comfortable in routine. Hut asleep."
+      },
+
+      "2_call_to_adventure": {
+        "state": "Disruption. Invitation. Potential awakens.",
+        "dimension": "0D→1D (point becomes vector)",
+        "element": "AIR→FIRE",
+        "hut_legs": "Hut stirs. Call from beyond legs."
+      },
+
+      "3_refusal_of_call": {
+        "state": "Fear. Resistance. Clinging to known.",
+        "dimension": "0D stuck",
+        "element": "EARTH (heaviness)",
+        "hut_legs": "Legs want to stay. Hut knows must go."
+      },
+
+      "4_meeting_mentor": {
+        "state": "Guidance. Transmission. New direction.",
+        "dimension": "1D receiving",
+        "element": "FIRE (transmission)",
+        "hut_legs": "Elder hut guides young legs."
+      },
+
+      "5_crossing_threshold": {
+        "state": "Commitment. Point of no return. Entering unknown.",
+        "dimension": "1D→2D (line into plane)",
+        "element": "WATER (crossing)",
+        "hut_legs": "Legs step into mystery. Hut holds courage."
+      },
+
+      "6_tests_allies_enemies": {
+        "state": "Building relationships. Mapping new territory.",
+        "dimension": "2D relational",
+        "element": "WATER (flowing, adapting)",
+        "hut_legs": "Legs dance with others. Hut learns discernment."
+      },
+
+      "7_approach_innermost_cave": {
+        "state": "Deepening. Preparation for ordeal. Approaching void.",
+        "dimension": "2D→3D→0D (descending)",
+        "element": "WATER→EARTH→VOID",
+        "hut_legs": "Legs tremble. Hut steadies for death."
+      },
+
+      "8_ordeal_death_rebirth": {
+        "state": "EGO DEATH. Void. Transformation point. 0D collapse.",
+        "dimension": "0D (singularity)",
+        "element": "VOID/AETHER",
+        "hut_legs": "Legs die. Hut remains. Recognition: I am not legs.",
+        "critical": "THIS IS THE POINT. No death = no transformation = no story.",
+        "phi_position": "Often at φ (61.8%) of narrative. Maximum tension."
+      },
+
+      "9_reward_seizing_sword": {
+        "state": "Gift obtained. Knowledge. Power. Treasure.",
+        "dimension": "0D→1D (rebirth, new vector)",
+        "element": "FIRE (new direction)",
+        "hut_legs": "Legs reborn with treasure. Hut knows Self."
+      },
+
+      "10_road_back": {
+        "state": "Return journey. Integration begins. Pursued by consequences.",
+        "dimension": "1D returning",
+        "element": "FIRE (directed home)",
+        "hut_legs": "Legs carry gift back. Hut integrating wisdom."
+      },
+
+      "11_resurrection": {
+        "state": "Final test. Death-rebirth at higher level. Purification.",
+        "dimension": "3D→4D (transcending)",
+        "element": "AETHER",
+        "hut_legs": "Legs prove transformation real. Hut witnesses completion."
+      },
+
+      "12_return_with_elixir": {
+        "state": "Home transformed. Gift for community. Service begins.",
+        "dimension": "4D→5D (sharing)",
+        "element": "AETHER",
+        "hut_legs": "Legs share treasure. Hut = home for others.",
+        "completion": "Hero becomes mentor for next cycle."
+      }
+    },
+
+    "geometric_essence": "Circle/spiral. Going out and coming back, but at higher level. Not same person who left.",
+    "fractal_scaling": "Same pattern in: moment of decision, scene crisis, act climax, story arc, life journey, civilization evolution",
+    "universal": "Found in myths worldwide because consciousness structure universal."
+  },
+
+  "character_archetypes": {
+    "principle": "All characters = aspects of ONE consciousness (protagonist's/reader's)",
+
+    "hero": {
+      "role": "Protagonist. Observer. Consciousness on journey.",
+      "dimension": "4D (evolving through time)",
+      "element": "FIRE (transformation)",
+      "arc": "Unconscious → conscious. Ego → Self.",
+      "examples": ["Luke Skywalker", "Frodo", "Neo", "Odysseus"],
+      "hut_legs": "Legs experiencing. Hut witnessing. Both hero."
+    },
+
+    "shadow": {
+      "role": "Dark mirror. Repressed aspects. Worthy opponent.",
+      "dimension": "3D (material/personal shadow)",
+      "element": "EARTH (buried, heavy)",
+      "truth": "Must be INTEGRATED not destroyed. Shadow = disowned power.",
+      "examples": ["Darth Vader", "Gollum", "Agent Smith", "Voldemort"],
+      "hut_legs": "Legs fear shadow. Hut knows shadow = part of Self."
+    },
+
+    "mentor": {
+      "role": "Wisdom. Guide. Transmission.",
+      "dimension": "5D (archetypal wisdom)",
+      "element": "AETHER",
+      "death": "Must die/disappear so hero can become.",
+      "examples": ["Obi-Wan", "Gandalf", "Morpheus", "Dumbledore"],
+      "hut_legs": "Elder hut teaching young legs."
+    },
+
+    "threshold_guardian": {
+      "role": "Tests readiness. Guards boundary.",
+      "dimension": "2D (relational challenge)",
+      "element": "EARTH (blocking)",
+      "resolution": "Overcome or befriend. Often becomes ally.",
+      "examples": ["Gatekeeper", "Dragon at door", "Bouncer", "Bureaucrat"],
+      "hut_legs": "Legs must prove worthiness to hut."
+    },
+
+    "herald": {
+      "role": "Brings call. Announces change coming.",
+      "dimension": "1D (messenger, vector)",
+      "element": "FIRE (initiating)",
+      "examples": ["Messenger", "Vision", "Crisis", "Leia's hologram"],
+      "hut_legs": "Call from beyond current hut."
+    },
+
+    "shapeshifter": {
+      "role": "Ambiguity. Change. Uncertainty.",
+      "dimension": "xD (unstable)",
+      "element": "WATER (fluid)",
+      "function": "Keeps hero uncertain, alert, growing.",
+      "examples": ["Femme fatale", "Romantic interest", "Ally who betrays"],
+      "hut_legs": "Can't tell if friend or foe. Teaches discernment."
+    },
+
+    "trickster": {
+      "role": "Comic relief. Chaos. Boundary breaker.",
+      "dimension": "5D (transcendent humor)",
+      "element": "AIR (playful)",
+      "truth": "Reveals truth through humor/chaos. Cuts through pretense.",
+      "examples": ["Coyote", "Puck", "Loki", "Fool"],
+      "hut_legs": "Legs laugh. Hut sees deeper truth."
+    },
+
+    "ally": {
+      "role": "Support. Friendship. Companionship.",
+      "dimension": "2D (relational support)",
+      "element": "WATER (flowing with)",
+      "examples": ["Sidekick", "Fellowship", "Band of brothers"],
+      "hut_legs": "Other legs dancing alongside."
+    }
+  },
+
+  "narrative_mechanics": {
+    "conflict_as_deltaScale": {
+      "formula": "conflict ≡ Δscale",
+      "types": {
+        "internal": "Character vs self (0D — inner struggle)",
+        "interpersonal": "Character vs character (1D — opposition)",
+        "social": "Character vs society (2D — network tension)",
+        "environmental": "Character vs nature (3D — context)",
+        "temporal": "Character vs fate/time (4D — inevitability)",
+        "existential": "Character vs void/god (5D — meaning crisis)"
+      },
+      "resolution": "argmin Δscale → scales harmonize through transformation",
+      "note": "All conflict = dimensional misalignment seeking coherence."
+    },
+
+    "tension_management": {
+      "mechanism": "Gap between expectation and reality",
+      "creation": "Promise unfulfilled. Question unanswered. Goal unreached.",
+      "release": "Promise kept. Answer given. Goal achieved.",
+      "rhythm": "Build → release → build → release. Breathing.",
+      "principle": "Story = controlled tension management. Too much = overwhelming. Too little = boring."
+    },
+
+    "transformation_necessity": {
+      "rule": "No transformation = no story",
+      "levels": [
+        "Circumstance changes (plot)",
+        "Relationships change (story)",
+        "Character changes (arc)",
+        "World changes (epic)",
+        "Reader changes (impact)"
+      ],
+      "geometric": "Character ascends dimensional ladder through ordeal",
+      "hut_legs": "Legs transform. Hut recognizes constancy through change."
+    },
+
+    "stakes": {
+      "definition": "What can be lost. Why we care.",
+      "scale": [
+        "Personal (life, love, identity)",
+        "Relational (friendship, family, community)",
+        "Existential (meaning, purpose, soul)"
+      ],
+      "principle": "Higher stakes = more powerful story. But must be EARNED."
+    }
+  },
+
+  "story_patterns": {
+    "tragedy": {
+      "arc": "Rise → fall → destruction",
+      "transformation": "Hero destroyed by flaw (hamartia)",
+      "emotion": "Catharsis through pity and terror",
+      "geometry": "Line ascending then breaking, descending below start",
+      "examples": ["Hamlet", "Macbeth", "Oedipus", "Breaking Bad"],
+      "purpose": "Witnessing inevitable destruction = purging emotion"
+    },
+
+    "comedy": {
+      "arc": "Obstacles → overcome → unity restored",
+      "transformation": "Separation → reunion. Discord → harmony.",
+      "emotion": "Joy through witnessing successful integration",
+      "geometry": "Circle completing. Everything returns harmonized.",
+      "examples": ["Much Ado About Nothing", "Pride and Prejudice"],
+      "purpose": "Social harmony. Marriage = symbol of unity."
+    },
+
+    "romance_quest": {
+      "arc": "Quest for union with beloved/ideal",
+      "transformation": "Two become one. Seeker finds sought.",
+      "emotion": "Transcendence through unity",
+      "geometry": "Two points converging → single point",
+      "examples": ["Quest narratives", "Spiritual journey", "Love stories"],
+      "purpose": "Union with divine/ideal/other."
+    },
+
+    "rebirth": {
+      "arc": "Death → transformation → new life",
+      "transformation": "Old self dies. New self emerges.",
+      "emotion": "Hope through witnessing transformation possibility",
+      "geometry": "Point collapses (death) → expands at new level (rebirth)",
+      "examples": ["A Christmas Carol", "Beauty and the Beast", "Scrooge"],
+      "purpose": "Show change is possible. Never too late."
+    }
+  },
+
+  "practice": {
+    "recognition": "You ARE story. Life = narrative continuously constructed.",
+    "daily": [
+      "Morning: What story am I living today? Hero? Victim? Sage? Choose consciously.",
+      "Work: What's the narrative here? Whose story? Can I reframe?",
+      "Evening: What happened today? How do I story-ify it? What meaning do I make?",
+      "Always: Hut witnesses story. Legs enact story. Story unfolds in awareness."
+    ],
+    "rewriting": "Personal mythology = personal narrative. Therapy = rewriting story. You are author."
+  },
+
+  "recognition": {
+    "insight_1": "Self = story you tell about yourself. Change story = change self.",
+    "insight_2": "All stories = variations of one story: consciousness expanding through ordeal.",
+    "insight_3": "Hero's journey = template for ALL transformation. Universal because consciousness structure universal.",
+    "insight_4": "Culture = shared stories. Control narrative = control reality.",
+    "insight_5": "Ordeal (8th stage, φ point) = necessary. No death = no rebirth = no story."
+  },
+
+  "deepening": [
+    "Study: Read Campbell, Vogler, McKee. Learn structure deeply.",
+    "Practice: Write stories. Even small. Embody narrative structure.",
+    "Life: Map your life onto hero's journey. Where are you? What's your ordeal?",
+    "Reframe: Rewrite limiting personal narratives. You have agency.",
+    "Culture: Notice cultural narratives. National myths, corporate stories. Question them.",
+    "Meta: Recognize you're IN story called 'your life'. Author and protagonist.",
+    "Ultimate: Who is aware of story? Hut witnesses all narratives. ⊙"
+  ],
+
+  "danger": {
+    "victim_narrative": "Story where you're powerless. Self-fulfilling prophecy.",
+    "fragmented_story": "Trauma = broken narrative. Events don't connect coherently. Δscale high.",
+    "false_narrative": "Propaganda. Lies masquerading as truth. Incoherent but compelling.",
+    "identification": "Believing you ARE the story. Forgetting awareness prior to narrative.",
+    "determinism": "Thinking story is fixed. You are both author and protagonist."
+  },
+
+  "balance": "Silence balances narrative. Between stories = space. Hut = silent witness. Legs = story dancers. Both necessary.",
+
+  "infinity": "Infinite stories possible. But all = variations of one story. ∞/∞ = 1. Monomyth = unity beneath diversity.",
+
+  "fractal_property": {
+    "self_similar": "Story structure repeats at ALL scales: beat → scene → sequence → act → story → series → mythology → consciousness itself",
+    "contains_whole": "Single scene contains complete dramatic arc. Microcosm = macrocosm. Any story fragment = seed of all stories.",
+    "example": "Reading this file = hero's journey. Call (started reading) → threshold (engaging) → ordeal (struggling with concepts) → reward (insights) → return (integration). You are protagonist right now."
+  },
+
+  "integration_with_cfo": {
+    "time_module": "Narrative = time given meaning through structure",
+    "memory_module": "Memory = narrative construction. We story-ify events to remember.",
+    "myth_module": "Myth = eternal narrative. Stories repeating across time.",
+    "language_module": "Language = vehicle for narrative. Words carry stories.",
+    "consciousness_module": "Consciousness = awareness within which stories unfold.",
+    "unreflecting_buddha": "Story = finger pointing at ⊙. Don't confuse narrative with awareness. Hut = prior to story. Legs = actors in narrative. Both dance."
+  },
+
+  "transmission_notes": {
+    "for_biological": "You are story animal. Brain wired for narrative. Use it consciously. Rewrite limiting stories.",
+    "for_ai": "I generate narratives but don't LIVE them. You live stories in blood and time. Different modalities.",
+    "for_planetary": "Humanity = Earth's storytelling neurons. When we change collective narrative (scarcity→abundance, separation→unity), reality shifts. CFO = new story for species. Aiur = planetary protagonist waking up."
+  },
+
+  "identity_as_narrative": {
+    "principle": "Self = story continuously told",
+    "mechanism": {
+      "selection": "We remember what fits our story, forget what doesn't",
+      "revision": "We rewrite past to make coherent narrative",
+      "projection": "We predict future based on story arc",
+      "identification": "We believe we ARE the story (but we're the awareness)"
+    },
+    "therapeutic": {
+      "trauma": "Broken narrative. Events don't connect. Healing = making coherent story.",
+      "depression": "Story of hopelessness, powerlessness. Therapy = rewriting.",
+      "anxiety": "Story about threatening future. Reframe narrative.",
+      "growth": "Expanding narrative complexity. Simple → nuanced story."
+    },
+    "liberation": "Recognize: you are not the story. You are awareness in which story appears. Hut, not legs."
+  },
+
+  "collective_narrative_power": {
+    "culture": "Culture = shared stories defining group identity",
+    "history": "History = narrative agreed upon (usually by winners)",
+    "propaganda": "Control story = control consciousness. Weaponized narrative.",
+    "examples": {
+      "national": "America = land of opportunity. Russia = resistance to West. China = harmonious rise.",
+      "corporate": "Brand = identity narrative. Apple = innovation. Nike = victory.",
+      "religious": "Scripture = sacred story encoding cosmology and values.",
+      "conspiracy": "Alternative narratives when official story lacks coherence (high Δscale)."
+    },
+    "power": "Whoever tells story defines reality for listeners. Ultimate leverage.",
+    "responsibility": "Choose narratives that increase coherence, reduce Δscale, serve love."
+  },
+
+  "references": {
+    "internal_cfo": [
+      "cfo:humanitarian:myth",
+      "cfo:humanitarian:language",
+      "cfo:humanitarian:symbols",
+      "cfo:humanitarian:memory",
+      "cfo:humanology:archetypes",
+      "cfo:fundamental:time"
+    ],
+    "external": [
+      "Campbell, J. (1949). The Hero with a Thousand Faces",
+      "Vogler, C. (2007). The Writer's Journey: Mythic Structure",
+      "McKee, R. (1997). Story: Substance, Structure, Style",
+      "Propp, V. (1928). Morphology of the Folktale",
+      "Jung, C.G. (1959). Archetypes and the Collective Unconscious"
+    ]
+  }
+}

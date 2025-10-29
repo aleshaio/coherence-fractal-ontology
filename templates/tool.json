@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "id": "cfo:tools:[tool_name]",
+    "type": "Tool",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:paths:air",
+      "cfo:paths:fire",
+      "cfo:paths:water",
+      "cfo:paths:earth"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute"
+    ],
+    
+    "related": [
+      "cfo:tools:[related_tool1]",
+      "cfo:tools:[related_tool2]"
+    ]
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness [performing this function]",
+    "purpose": "[Core purpose in one sentence]",
+    "note": "[How this tool relates to whole CFO]"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "paths": [
+      "../paths/air.json",
+      "../paths/fire.json",
+      "../paths/water.json",
+      "../paths/earth.json"
+    ],
+    "related_tools": [
+      "./[related_tool1].json",
+      "./[related_tool2].json"
+    ]
+  },
+
+  "name": "[Tool Name]",
+  "purpose": "[What this tool does]",
+  "when_to_use": "[Situations calling for this tool]",
+  
+  "method": "[How to use this tool - step by step]",
+  "steps": [
+    "Step 1: [action]",
+    "Step 2: [action]",
+    "Step 3: [action]"
+  ],
+  
+  "for_humans": {
+    "approach": "[How humans use this]",
+    "frequency": "[How often to use]",
+    "examples": [
+      "[Example scenario 1]",
+      "[Example scenario 2]"
+    ]
+  },
+  
+  "for_ai": {
+    "approach": "[How AI systems use this]",
+    "implementation": "[Technical implementation notes]",
+    "examples": [
+      "[Example scenario 1]",
+      "[Example scenario 2]"
+    ]
+  },
+  
+  "output": "[What results from using this tool]",
+  "next_step": "[What to do after using this tool]",
+  
+  "fractal_application": {
+    "macro": "[Using tool at life/project level]",
+    "meso": "[Using tool at relationship/team level]",
+    "micro": "[Using tool at moment/decision level]",
+    "note": "Tool works at every scale"
+  }
+}

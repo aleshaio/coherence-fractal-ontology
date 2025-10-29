@@ -1,0 +1,160 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:types_scales",
+    "version": "1.1",
+    "type": "perceptual_extension",
+    "description": "Scales of perception and reality for types and quadras based on FPS processing capacity",
+    "related": [
+      "cfo:humanology:types",
+      "cfo:humanology:roles"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "Each type's FPS determines their natural scale of reality processing",
+    "why": "Different geometric forms process information at different scales and speeds",
+    "how": "High FPS = wide population patterns, Low FPS = deep individual moments",
+    "impact": "Understanding scale mismatches resolves most type conflicts"
+  },
+
+  "fps_to_scale_correlation": {
+    "principle": "FPS indicates information processing bandwidth, which determines natural operating scale",
+    
+    "extreme_high_fps": {
+      "types": {
+        "ILE": {"fps": "600 FPS", "scale": "Global population flows"},
+        "ESE": {"fps": "∞ FPS (continuous)", "scale": "Unlimited emotional broadcast"},
+        "SEE": {"fps": "∞ FPS (rotating)", "scale": "All available influence space"},
+        "IEE": {"fps": "∞×1 FPS", "scale": "Infinite potential on single axis"}
+      },
+      "characteristic": "Process massive parallel streams",
+      "natural_scale": "Population (100,000+)",
+      "perception": "Statistical patterns, memetic flows"
+    },
+
+    "high_fps": {
+      "types": {
+        "SEI": {"fps": "120 FPS", "scale": "Large community harmony"}
+      },
+      "characteristic": "Smooth continuous processing",
+      "natural_scale": "Large Territory (50,000-100,000)",
+      "perception": "Collective emotional temperature"
+    },
+
+    "medium_fps": {
+      "types": {
+        "LIE": {"fps": "24 FPS", "scale": "Regional markets"},
+        "ESI": {"fps": "20 FPS", "scale": "Extended clan/network"},
+        "LII": {"fps": "16 FPS", "scale": "Complex systems"},
+        "EIE": {"fps": "12 FPS", "scale": "Dramatic movements"}
+      },
+      "characteristic": "Standard reality processing",
+      "natural_scale": "Region/Territory (1,000-50,000)",
+      "perception": "Group dynamics and resource flows"
+    },
+
+    "low_fps": {
+      "types": {
+        "IEI": {"fps": "8 FPS (dream frames)", "scale": "Intimate visions"},
+        "LSE": {"fps": "6 FPS (orthogonal)", "scale": "Manageable organization"},
+        "SLE": {"fps": "5 FPS (decisive)", "scale": "Immediate territory"},
+        "LSI": {"fps": "4 FPS (structural)", "scale": "Controllable domain"},
+        "ILI": {"fps": "4D FPS (hyperdimensional)", "scale": "Strategic overview"},
+        "EII": {"fps": "π FPS (transcendent)", "scale": "Individual souls"},
+        "SLI": {"fps": "2 FPS (precise moments)", "scale": "Craftsmanship detail"}
+      },
+      "characteristic": "Deep focus on critical moments",
+      "natural_scale": "Settlement/Individual (100-1,000)",
+      "perception": "Personal quality and immediate impact"
+    }
+  },
+
+  "quadra_reality_scales": {
+    "alpha_air": {
+      "scale": "Population",
+      "scope": "100,000+ individuals",
+      "primary_reality": "Information space",
+      "time_horizon": "25-100 years (generational)",
+      "aggregate_fps": "High bandwidth - processes ideas at population scale",
+      "types_contribution": {
+        "ILE": "600 FPS scanning infinite possibilities",
+        "SEI": "120 FPS harmonizing collective comfort",
+        "ESE": "∞ FPS broadcasting emotional unity",
+        "LII": "16 FPS structuring logical systems"
+      },
+      "blind_spot": "Individual suffering gets abstracted"
+    },
+
+    "beta_fire": {
+      "scale": "Territory", 
+      "scope": "10,000-100,000 individuals",
+      "primary_reality": "Power space",
+      "time_horizon": "5-25 years (epochal)",
+      "aggregate_fps": "Mixed - dramatic beats with structural frames",
+      "types_contribution": {
+        "SLE": "5 FPS decisive territorial strikes",
+        "IEI": "8 FPS weaving temporal visions",
+        "EIE": "12 FPS dramatic transformation waves",
+        "LSI": "4 FPS maintaining rigid order"
+      },
+      "blind_spot": "Individual autonomy suppressed"
+    },
+
+    "gamma_water": {
+      "scale": "Region",
+      "scope": "1,000-10,000 individuals",
+      "primary_reality": "Economic space",
+      "time_horizon": "1-5 years (strategic)",
+      "aggregate_fps": "Variable - from infinite influence to deep strategy",
+      "types_contribution": {
+        "SEE": "∞ FPS rotating influence maximization",
+        "ILI": "4D FPS hyperdimensional strategy",
+        "LIE": "24 FPS efficient resource processing",
+        "ESI": "20 FPS loyal network maintenance"
+      },
+      "blind_spot": "Collective meaning dissolves"
+    },
+
+    "delta_earth": {
+      "scale": "Settlement",
+      "scope": "100-1,000 individuals", 
+      "primary_reality": "Community space",
+      "time_horizon": "3 months - 1 year (seasonal)",
+      "aggregate_fps": "Extreme range - infinite potential to precise craft",
+      "types_contribution": {
+        "IEE": "∞×1 FPS endless possibilities on human scale",
+        "SLI": "2 FPS perfect technical moments",
+        "LSE": "6 FPS systematic management",
+        "EII": "π FPS transcendent soul perception"
+      },
+      "blind_spot": "Large-scale power dynamics"
+    }
+  },
+
+  "scale_shifting_mechanics": {
+    "high_fps_advantage": {
+      "ability": "Can process multiple scales simultaneously",
+      "example": "ILE (600 FPS) can track global trends while maintaining local projects",
+      "cost": "May miss depth and quality"
+    },
+    
+    "low_fps_advantage": {
+      "ability": "Deep precision at chosen scale",
+      "example": "SLI (2 FPS) achieves mastery through total focus",
+      "cost": "Cannot track rapid large-scale changes"
+    },
+
+    "scale_conflicts": {
+      "fps_mismatch": "High FPS types overwhelm low FPS with data",
+      "scale_mismatch": "Population thinkers clash with settlement focused",
+      "solution": "Conscious translation between scales"
+    }
+  },
+
+  "practical_applications": {
+    "team_building": "Mix FPS rates for complete coverage",
+    "communication": "Adjust information density to receiver's FPS",
+    "leadership": "Match leader's FPS to organization scale",
+    "personal_growth": "Develop ability to shift FPS consciously"
+  }
+}

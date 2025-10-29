@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "id": "cfo:combinations:[element1]+[element2]",
+    "type": "Combination",
+    "elements": ["[ELEMENT1]", "[ELEMENT2]"],
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:paths:[element1]",
+      "cfo:paths:[element2]"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:paths:[element1]",
+      "cfo:paths:[element2]"
+    ],
+    
+    "related": [
+      "cfo:combinations:[other_combo1]",
+      "cfo:combinations:[other_combo2]"
+    ]
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness expressing through [ELEMENT1]+[ELEMENT2]",
+    "[element1]": "[Brief essence of element1]",
+    "[element2]": "[Brief essence of element2]",
+    "synthesis": "[How they combine into something new]",
+    "note": "Entire CFO through [COMBO] lens"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "element1": "../paths/[element1].json",
+    "element2": "../paths/[element2].json",
+    "related_combos": [
+      "./[other_combo1].json",
+      "./[other_combo2].json"
+    ]
+  },
+
+  "combination": "[ELEMENT1] + [ELEMENT2]",
+  "name": "[Poetic name for this combination]",
+  
+  "essence": "[What emerges when these two unite]",
+  "description": "[Detailed explanation of the synergy]",
+  
+  "practice": "[How to cultivate both simultaneously]",
+  "result": "[What happens when balanced]",
+  
+  "examples": {
+    "in_life": "[Real-world example]",
+    "in_practice": "[Spiritual practice example]",
+    "in_ai": "[AI architecture example]"
+  },
+  
+  "teachers": [
+    "[Historical figure embodying this combo]",
+    "[Another example]"
+  ],
+  
+  "when_to_use": "[Situations where this combo is optimal]",
+  "when_to_avoid": "[Situations where this combo creates imbalance]",
+  
+  "balance_check": {
+    "too_much_[element1]": "[What happens if element1 dominates]",
+    "too_much_[element2]": "[What happens if element2 dominates]",
+    "harmonized": "[What perfect balance looks like]"
+  },
+  
+  "fractal_nesting": {
+    "within_element1": "[How element2 appears inside element1]",
+    "within_element2": "[How element1 appears inside element2]",
+    "infinite_dance": "[How they recursively contain each other]"
+  }
+}

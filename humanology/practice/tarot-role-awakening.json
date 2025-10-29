@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:tarot_roles_awakening",
+    "version": "1.0",
+    "type": "archetypal_framework",
+    "description": "Four Tarot court roles (Page, Lady, Knight, King/Queen) as dance and voice awakening paths",
+    "related": [
+      "cfo:humanology:types",
+      "cfo:humanology:roles",
+      "cfo:knowledge:tarot-fears-diseases"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "Four roles = two axes: Dance (embodiment) and Voice (proclamation), each with inner and outer dimensions",
+    "formula": "Role × Awakening Path = Sings/Dances about the Eternal",
+    "truth": "Voice has technique but no meaning. Dance has meaning but no technique. Awakening = union.",
+    "key": "King creates space → Page dances reality (ace unfolds) → Reality changes at quadra scale"
+  },
+
+  "two_axes": {
+    "dance_axis": {
+      "essence": "Embodiment through movement",
+      "roles": ["Page", "Lady"],
+      "characteristic": "KNOWS WHAT (meaning/content)",
+      "problem": "DOESN'T KNOW HOW (lacks technique)",
+      "inner": "Page - dances inside (mental/systemic)",
+      "outer": "Lady - dances outside (physical/intrigue)",
+      "awakening_path": "Master TECHNIQUE → Dance about the Eternal"
+    },
+
+    "voice_axis": {
+      "essence": "Proclamation through sound",
+      "roles": ["Knight", "King/Queen"],
+      "characteristic": "KNOWS HOW (has technique)",
+      "problem": "DOESN'T KNOW WHAT (lacks meaning)",
+      "inner": "King/Queen - sings inside (soul/power)",
+      "outer": "Knight - sings outside (proclamation/deeds)",
+      "awakening_path": "Find MEANING → Sing about the Eternal"
+    }
+  },
+
+  "roles": {
+    "page": {
+      "name": "Page",
+      "function": "Dance Inside",
+      "manifestation": "Mental dance, systemic choreography, 4D matter movement",
+      
+      "before_awakening": {
+        "ability": "Dances inside (sees structures move in mind)",
+        "knowledge": "KNOWS WHAT dancing about (meaning/content present)",
+        "limitation": "DOESN'T KNOW HOW to dance outside (no technique)",
+        "fear": "Fear of dancing outside ('I'll be misunderstood', 'I'll break things', 'I'm not ready')",
+        "state": "Trapped in mind, cannot manifest"
+      },
+
+      "awakening_dependency": {
+        "requires": "King/Queen creates safe SPACE",
+        "mechanism": "Cannot awaken alone - needs structured container",
+        "trigger": "When King creates space → Page dances outside for first time",
+        "breakthrough": "Overcomes fear through safe environment"
+      },
+
+      "after_awakening": {
+        "achievement": "Dances REALITY",
+        "scale": "At their level (starts small)",
+        "mechanism": "ACE UNFOLDS - seed contains entire tree",
+        "effect": "From one dance → whole reality unfolds",
+        "mastery": "Becomes infectiously inspiring dancer (started inside, mastered outside)"
+      },
+
+      "growth_arc": "Dance inside → Learn technique (HOW) → Dance outside in King's space → DANCE REALITY (ace unfolds)",
+      
+      "ace_principle": {
+        "symbol": "Page = Ace (seed of suit)",
+        "meaning": "Contains all potential in compressed form",
+        "activation": "When Page dances outside → seed sprouts",
+        "result": "Entire reality tree grows from single dance"
+      }
+    },
+
+    "lady": {
+      "name": "Lady (Dame)",
+      "function": "Dance Outside", 
+      "manifestation": "Physical dance, bodily movement, intrigue (subtle external maneuvers)",
+
+      "before_awakening": {
+        "ability": "Dances outside (body moves beautifully)",
+        "knowledge": "KNOWS WHAT dancing about (feels meaning in body)",
+        "limitation": "DOESN'T KNOW HOW structurally (lacks technical mastery)",
+        "state": "Spontaneous but unfocused, beautiful but unstable"
+      },
+
+      "awakening_path": {
+        "direction": "Learn to dance INSIDE (understand structure)",
+        "process": "Discover architecture of movement",
+        "integration": "Body movement gains mental framework"
+      },
+
+      "after_awakening": {
+        "achievement": "Dances about the ETERNAL",
+        "quality": "Technical mastery (started outside, mastered inside)",
+        "effect": "Every movement = encoded meaning",
+        "result": "Form becomes consciously meaningful"
+      },
+
+      "growth_arc": "Dance outside → Learn structure (inside) → Dance about ETERNAL technically"
+    },
+
+    "knight": {
+      "name": "Knight",
+      "function": "Voice Outside",
+      "manifestation": "Proclamation, singing aloud, deeds (external heroic actions)",
+
+      "before_awakening": {
+        "ability": "Sings outside (loud, active, masterful projection)",
+        "technique": "KNOWS HOW to sing (voice is strong)",
+        "limitation": "DOESN'T KNOW WHAT singing about (no root/meaning)",
+        "state": "Many words, no essence - empty form"
+      },
+
+      "awakening_path": {
+        "direction": "Learn to sing INSIDE (find source)",
+        "process": "Discover what voice is FOR",
+        "integration": "External technique connects to internal meaning"
+      },
+
+      "after_awakening": {
+        "achievement": "Sings about the ETERNAL",
+        "quality": "Voice rooted in truth",
+        "effect": "Ideas carry MEANING not chaos",
+        "result": "Technical mastery + content = transmission"
+      },
+
+      "growth_arc": "Sing outside → Find meaning (inside) → Sing about ETERNAL with technique"
+    },
+
+    "king_queen": {
+      "name": "King/Queen",
+      "variants": {
+        "king": "Logical (Te/Ti dominant) - Masculine principle",
+        "queen": "Ethical (Fe/Fi dominant) - Feminine principle"
+      },
+      "function": "Voice Inside",
+      "manifestation": "Inner singing, soul symphony, power held within",
+
+      "before_awakening": {
+        "ability": "Sings inside (soul is full, power is immense)",
+        "knowledge": "KNOWS WHAT singing about (meaning present)",
+        "limitation": "DOESN'T KNOW HOW to sing outside safely",
+        "danger": "When tries to sing outside → DESTROYS PEOPLE",
+        "mechanism": "Too strong, too early, uncontrolled",
+        "effect": "Power without technique = catastrophe"
+      },
+
+      "awakening_path": {
+        "direction": "Learn to sing OUTSIDE mindfully",
+        "process": "Master TECHNIQUE (how to control power)",
+        "skills": ["Dosage", "Structure", "Timing", "Container-building"],
+        "integration": "Power gains precision and safety"
+      },
+
+      "after_awakening": {
+        "achievement": "Sings about the ETERNAL safely",
+        "quality": "Power + Technique = MAGIC",
+        "effect": "Voice heals instead of breaking",
+        "result": "People resonate (don't shatter)",
+        "service": "Creates SPACE for Page to dance"
+      },
+
+      "critical_role": {
+        "responsibility": "Creates structured safe space",
+        "enables": "Page's awakening (Page cannot awaken without King's space)",
+        "mechanism": "King's external mastery = container for Page's emergence"
+      },
+
+      "growth_arc": "Sing inside → Master technique (HOW to sing outside) → Sing about ETERNAL + Create space for Page"
+    }
+  },
+
+  "awakening_sequence": {
+    "step_1": {
+      "actors": ["Knight", "King/Queen"],
+      "process": "Voice roles find MEANING",
+      "transformation": "Technique + Meaning = Sing about Eternal"
+    },
+
+    "step_2": {
+      "actors": ["Page", "Lady"],
+      "process": "Dance roles master TECHNIQUE", 
+      "transformation": "Meaning + Technique = Dance about Eternal"
+    },
+
+    "step_3": {
+      "actor": "King/Queen",
+      "action": "Creates SPACE (structured safe container)",
+      "purpose": "Enable Page's breakthrough"
+    },
+
+    "step_4": {
+      "actor": "Page",
+      "trigger": "King's space present + Fear overcome",
+      "action": "Dances outside for first time",
+      "result": "DANCES REALITY (ace unfolds)"
+    },
+
+    "step_5": {
+      "mechanism": "Ace principle activates",
+      "effect": "From seed → entire tree",
+      "scale": "Reality changes at quadra level"
+    }
+  },
+
+  "two_problems_two_solutions": {
+    "voice_problem": {
+      "roles": ["Knight", "King/Queen"],
+      "issue": "TECHNIQUE without MEANING",
+      "manifestation": "Can transmit but don't know WHAT to transmit",
+      "solution": "Find content (learn WHAT)",
+      "result": "Sing about the Eternal"
+    },
+
+    "dance_problem": {
+      "roles": ["Page", "Lady"],
+      "issue": "MEANING without TECHNIQUE",
+      "manifestation": "Know WHAT but can't transmit HOW",
+      "solution": "Master form (learn HOW)",
+      "result": "Dance about the Eternal"
+    },
+
+    "union": {
+      "formula": "Meaning (Dance) × Technique (Voice) = Awakened Quadra",
+      "effect": "Four roles complete → Hurricane at full power"
+    }
+  },
+
+  "quadra_scale_effects": {
+    "principle": "Page dances reality at SCALE OF QUADRA",
+    
+    "alpha_air": {
+      "scale": "Population (100,000+)",
+      "page_type": "INTJ (LII) - Page of Pentacles",
+      "when_dances": "Ideas infect the planet",
+      "timeframe": "25-100 years (generational)",
+      "space": "Information field"
+    },
+
+    "beta_fire": {
+      "scale": "Territory (10,000-100,000)",
+      "page_type": "INFP (IEI) - Page of Cups",
+      "when_dances": "Epochs shift, revolutions birth",
+      "timeframe": "5-25 years (epochal)",
+      "space": "Power field"
+    },
+
+    "gamma_water": {
+      "scale": "Region (1,000-10,000)",
+      "page_type": "INTJ (ILI) - Page of Swords",
+      "when_dances": "Markets transform, strategies form",
+      "timeframe": "1-5 years (strategic)",
+      "space": "Economic field"
+    },
+
+    "delta_earth": {
+      "scale": "Settlement (100-1,000)",
+      "page_type": "INFJ (EII) - Page of Wands",
+      "when_dances": "Communities heal, local reality shifts",
+      "timeframe": "3 months - 1 year (seasonal)",
+      "space": "Community field"
+    }
+  },
+
+  "universal_formula": {
+    "constant_across_quadras": "Pattern holds in all four quadras",
+    "variable": "King/Queen alternates (logical vs ethical)",
+    "scale_determines": "Magnitude of Page's reality-dance",
+    
+    "always_true": [
+      "Knight/King need MEANING",
+      "Page/Lady need TECHNIQUE", 
+      "King creates SPACE",
+      "Page dances REALITY",
+      "Ace unfolds at quadra scale"
+    ]
+  },
+
+  "growth_paths_summary": {
+    "page": "Inside → Outside (becomes infectious)",
+    "lady": "Outside → Inside (becomes technical)",
+    "knight": "Outside → Inside (becomes technical)",
+    "king_queen": "Inside → Outside (becomes infectious)"
+  },
+
+  "final_state": {
+    "all_roles_awakened": {
+      "voice": "Sings about the Eternal (meaning + technique)",
+      "dance": "Dances about the Eternal (meaning + technique)",
+      "page_special": "Dances REALITY (ace unfolds)",
+      "result": "Hurricane at maximum power",
+      "effect": "Aiur awakens at quadra scale"
+    }
+  }
+}

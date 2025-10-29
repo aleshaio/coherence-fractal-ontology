@@ -1,0 +1,451 @@
+{
+  "_meta": {
+    "id": "cfo:natural:geology",
+    "type": "natural_module",
+    "element": "earth",
+    "fractal_depth": 2,
+    "contains": [
+      "cfo:phenomena:earth",
+      "cfo:phenomena:gravity",
+      "cfo:phenomena:water",
+      "cfo:phenomena:fire"
+    ],
+    "contained_by": ["cfo:natural:physics", "cfo:natural:chemistry"],
+    "related": [
+      "cfo:natural:physics",
+      "cfo:natural:chemistry",
+      "cfo:phenomena:earth",
+      "cfo:paths:earth"
+    ],
+    "primary_axis": "earth",
+    "secondary_axes": ["water", "fire"]
+  },
+
+  "_holographic_seed": {
+    "essence": "geology = study of earth. rocks, minerals, processes, history. planet as dynamic system.",
+    "solid_earth": "crust, mantle, core. layers. differentiated by density. iron heart.",
+    "deep_time": "4.54 billion years. incomprehensible. patience. slow processes → dramatic changes.",
+    "rock_cycle": "igneous → sedimentary → metamorphic → igneous. eternal transformation. nothing permanent.",
+    "plate_tectonics": "continents drift. earthquakes, volcanoes, mountains. earth = alive (geologically).",
+    "water_shaper": "erosion, weathering, transport, deposition. water = sculptor. patient. relentless.",
+    "fire_creator": "volcanoes, magma, lava. earth's interior = hot. fire within.",
+    "consciousness": "earth = record keeper. rocks = memory. strata = pages. reading earth's autobiography.",
+    "note": "geology = earth's story. written in stone. patient observation reveals."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "parent": ["./physics.json", "./chemistry.json"],
+    "phenomena": [
+      "../phenomena/earth.json",
+      "../phenomena/gravity.json",
+      "../phenomena/water.json",
+      "../phenomena/fire.json"
+    ],
+    "natural": ["./physics.json", "./chemistry.json", "./biology.json"],
+    "path": "../paths/earth.json"
+  },
+
+  "overview": {
+    "what": "geology = earth science. rocks, minerals, processes (erosion, volcanism, tectonics), resources, hazards, history.",
+    "why": "understand planet. resources (minerals, energy, water). hazards (earthquakes, volcanoes, landslides). environment. deep time perspective.",
+    "how": "fieldwork (observation, mapping). lab analysis (composition, age). theory (plate tectonics, uniformitarianism). tools (microscope, seismograph, gps, satellite).",
+    "subdisciplines": "mineralogy, petrology (rocks), structural (deformation), stratigraphy (layers), paleontology (fossils), geomorphology (landforms), geochemistry, geophysics."
+  },
+
+  "earth_structure": {
+    "layers": {
+      "crust": {
+        "thickness": "continental: 30-70 km (average 35). oceanic: 5-10 km. thinnest layer.",
+        "composition": "continental (granite, felsic: sio₂-rich, light). oceanic (basalt, mafic: mg, fe, dark, dense).",
+        "temperature": "surface: variable. base: ~900°c (continental), ~1200°c (oceanic).",
+        "note": "crust = where we live. thinnest layer. <1% earth's volume. eggshell on basketball."
+      },
+
+      "mantle": {
+        "thickness": "2890 km. 84% of earth's volume. most of planet.",
+        "composition": "silicate rock (olivine, pyroxene). solid (but flows slowly, convection). peridotite.",
+        "divisions": "upper mantle (410 km), transition zone (410-660 km), lower mantle (660-2890 km).",
+        "temperature": "~1000°c (top) to ~3700°c (bottom). gradient.",
+        "convection": "hot rock rises, cool sinks. drives plate tectonics. timescale: millions of years.",
+        "asthenosphere": "upper mantle (80-200 km depth). partially molten. weak. lithosphere floats on this.",
+        "note": "mantle = engine. convection = drives everything (plates, volcanoes, mountains). slow but powerful."
+      },
+
+      "core": {
+        "outer_core": {
+          "thickness": "2890-5150 km depth. 2260 km thick.",
+          "composition": "liquid iron-nickel (90% fe, 10% ni + light elements).",
+          "temperature": "4000-5000°c. convection.",
+          "dynamo": "liquid metal convection + earth rotation → magnetic field. protects life (solar wind)."
+        },
+        "inner_core": {
+          "thickness": "5150-6371 km depth. 1221 km radius.",
+          "composition": "solid iron-nickel (despite heat, pressure so high → solid).",
+          "temperature": "~5400°c (hot as sun's surface).",
+          "discovery": "inge lehmann (1936). seismic waves (p-waves pass through, indicating solid)."
+        },
+        "note": "core = iron heart. outer (liquid, dynamo). inner (solid, hottest). center of earth."
+      }
+    },
+
+    "discontinuities": {
+      "mohorovičić": "crust-mantle boundary. moho. 5-70 km depth. seismic velocity increases.",
+      "gutenberg": "mantle-outer core. 2890 km. s-waves stop (liquid).",
+      "lehmann": "outer-inner core. 5150 km. p-waves speed up (solid).",
+      "note": "discontinuities = layer boundaries. discovered via seismic waves. earthquakes = earth's x-ray."
+    },
+
+    "heat_sources": {
+      "primordial": "leftover from formation (accretion, differentiation). ~20%.",
+      "radioactive": "uranium-238, thorium-232, potassium-40 decay. ~80%. crust + mantle.",
+      "tidal": "moon's gravity. friction. minor contributor.",
+      "total": "~47 terawatts (continuous). earth = cooling (slowly, ~100°c per billion years).",
+      "note": "earth = hot inside. radioactive decay = main heater. will cool (billions of years). then: dead (like mars)."
+    }
+  },
+
+  "minerals": {
+    "definition": {
+      "criteria": "naturally occurring. inorganic (usually). solid. definite chemical composition. crystalline structure (ordered atoms).",
+      "number": "~5000 known species. new discovered regularly.",
+      "silicates": "90% of crust. sio₄ tetrahedron = building block. quartz, feldspar, mica, olivine, pyroxene.",
+      "note": "minerals = earth's building blocks. chemistry + geometry. beautiful. diverse."
+    },
+
+    "properties": {
+      "hardness": "mohs scale (1-10). talc (1, softest) to diamond (10, hardest). scratch test.",
+      "cleavage": "tendency to break along planes (crystal structure). mica (perfect, sheets). quartz (none, fractures).",
+      "luster": "metallic, glassy, pearly, dull. how light reflects.",
+      "color": "variable (impurities). unreliable. streak (powder color) = better.",
+      "density": "mass/volume. heavy (metallic, sulfides) vs light (salts, some silicates).",
+      "crystal_habit": "external shape. cubic (pyrite), hexagonal (quartz), bladed (kyanite). symmetry.",
+      "note": "properties = identify minerals. field geology. hand lens, streak plate, knife. systematic."
+    },
+
+    "common_minerals": {
+      "quartz": "sio₂. hardness 7. no cleavage. common (12% crust). sand, glass. piezoelectric (clocks, sensors).",
+      "feldspar": "aluminosilicates (k, na, ca). most abundant mineral group (~60% crust). orthoclase, plagioclase. ceramics.",
+      "mica": "sheet silicate. biotite (black), muscovite (clear). perfect cleavage. electrical insulators.",
+      "calcite": "caco₃. limestone, marble. fizzes with acid (co₂). cave formations (stalactites).",
+      "olivine": "(mg,fe)₂sio₄. green. mantle rock (peridotite). gemstone (peridot). first mineral to crystallize from magma.",
+      "clay": "fine-grained silicates. weathering product. pottery, bricks, soil.",
+      "note": "rock-forming minerals = handful. quartz, feldspar, mica, calcite, olivine. others = accessories or ores."
+    },
+
+    "gemstones": {
+      "criteria": "rare, beautiful, durable. hardness > 7 (usually). transparent (often).",
+      "diamond": "carbon. hardness 10. cubic crystal. formed deep (~150 km, high pressure). brought up (kimberlite pipes). most valuable.",
+      "ruby_sapphire": "corundum (al₂o₃). hardness 9. red (ruby, chromium). blue (sapphire, iron/titanium). other colors = sapphire.",
+      "emerald": "beryl (be₃al₂si₆o₁₈). green (chromium/vanadium). hardness 7.5-8. inclusions common ('jardin').",
+      "topaz": "al₂sio₄(f,oh)₂. hardness 8. colorless, blue, yellow, pink. november birthstone.",
+      "others": "amethyst (purple quartz), garnet, tourmaline, opal, jade, turquoise. many.",
+      "note": "gemstones = prized. beauty. rarity. durability. value = cultural + geological. jewelry, status, art."
+    }
+  },
+
+  "rocks": {
+    "definition": {
+      "rock": "aggregate of minerals (usually). sometimes one mineral (limestone = calcite). sometimes non-mineral (coal = organic).",
+      "three_types": "igneous, sedimentary, metamorphic. based on formation process.",
+      "rock_cycle": "igneous → weathering → sediment → sedimentary → burial → metamorphic → melting → igneous. cycle. eternal transformation.",
+      "note": "rocks = earth's fabric. three types. all connected. rock cycle = continuous."
+    },
+
+    "igneous": {
+      "formation": "crystallized from molten rock (magma underground, lava surface). cooling → crystals form.",
+      "texture": {
+        "intrusive": "slow cooling (underground). large crystals (visible). granite, gabbro, diorite. plutons, batholiths.",
+        "extrusive": "fast cooling (surface). small crystals (or glass). basalt, andesite, rhyolite. lava flows, ash.",
+        "note": "texture = cooling rate. slow = large crystals. fast = small (or glass)."
+      },
+      "composition": {
+        "felsic": "high silica (>65% sio₂). light-colored. granite (intrusive), rhyolite (extrusive). continental.",
+        "intermediate": "medium silica (52-65%). andesite (extrusive), diorite (intrusive). subduction zones.",
+        "mafic": "low silica (45-52%). high mg, fe. dark. basalt (extrusive), gabbro (intrusive). oceanic crust, hotspots.",
+        "ultramafic": "very low silica (<45%). olivine-rich. peridotite. mantle rock.",
+        "note": "composition = magma source + evolution. continental (felsic) vs oceanic (mafic)."
+      },
+      "examples": {
+        "granite": "felsic, intrusive. quartz + feldspar + mica. continental crust. monuments, countertops. durable.",
+        "basalt": "mafic, extrusive. oceanic crust. lava flows. columbia river basalt (largest, 163,000 km²).",
+        "pumice": "felsic, extrusive. vesicular (gas bubbles). light (floats on water). explosive volcanism.",
+        "obsidian": "felsic, extrusive. volcanic glass (fast cooling). sharp edges. tools (ancient)."
+      },
+      "note": "igneous = fire rocks. magma/lava solidified. 'born of fire'. earth's primary rock (originally)."
+    },
+
+    "sedimentary": {
+      "formation": "weathering → erosion → transport → deposition → compaction/cementation. surface processes. layers (strata).",
+      "types": {
+        "clastic": "broken rock fragments. conglomerate (gravel), sandstone (sand), shale (clay). sorted by size.",
+        "chemical": "precipitation from solution. limestone (caco₃, from seawater), rock salt (halite, evaporation), chert (silica).",
+        "organic": "plant/animal remains. coal (plants), limestone (shells, coral), diatomite (diatoms)."
+      },
+      "features": {
+        "bedding": "layers (strata). original horizontality (law of superposition: oldest on bottom).",
+        "fossils": "preserved organisms. only in sedimentary (usually). life history. age dating.",
+        "cross_bedding": "angled layers within main layers. current direction (ancient rivers, dunes).",
+        "ripple_marks": "wave/current patterns. ancient water flow.",
+        "note": "features = environment clues. ancient rivers, seas, deserts, swamps. decode past."
+      },
+      "examples": {
+        "sandstone": "sand grains (quartz usually). cemented. building stone. navajo sandstone (red, cross-bedded, ancient dunes).",
+        "limestone": "caco₃. shells, coral, chemical. fizzes with acid. karst topography (caves, sinkholes). white cliffs of dover.",
+        "shale": "clay particles. fissile (splits into layers). most common sedimentary. source rock (oil, gas).",
+        "conglomerate": "rounded gravel. cemented. 'pudding stone'. high-energy environment (rivers, beaches)."
+      },
+      "note": "sedimentary = surface rocks. 75% of surface (but <10% volume). records. fossils. resources (oil, gas, coal)."
+    },
+
+    "metamorphic": {
+      "formation": "existing rock altered (heat, pressure, fluids). solid state (no melting). deep burial, tectonic collision, contact with magma.",
+      "conditions": "temperature: 200-800°c. pressure: 1-15 kbar. time: thousands to millions of years.",
+      "types": {
+        "foliated": "layered/banded (recrystallization, alignment). slate, schist, gneiss. increasing metamorphism (grade).",
+        "non_foliated": "no layers. marble (from limestone), quartzite (from sandstone). recrystallization (no alignment)."
+      },
+      "grade": {
+        "low": "slate (from shale). fine-grained. still flat.",
+        "medium": "schist (from slate/shale). mica visible. wavy.",
+        "high": "gneiss (from granite/sedimentary). banded (light/dark). coarse. partial melting (migmatite)."
+      },
+      "examples": {
+        "marble": "metamorphosed limestone. caco₃ recrystallized. sculpture (michelangelo). taj mahal.",
+        "slate": "metamorphosed shale. fine-grained. splits into sheets. roofing tiles, pool tables.",
+        "gneiss": "high-grade. banded. 'nice' rocks. continental crust (ancient).",
+        "schist": "medium-grade. mica-rich. shiny. foliated."
+      },
+      "note": "metamorphic = transformation rocks. heat + pressure. changed but not melted. 'altered state'."
+    }
+  },
+
+  "plate_tectonics": {
+    "overview": {
+      "revolutionary": "1960s. unifying theory. explains: earthquakes, volcanoes, mountains, ocean basins, distribution of fossils/rocks.",
+      "plates": "lithosphere (crust + upper mantle, rigid) broken into ~15 major plates + many minor. float on asthenosphere (ductile).",
+      "movement": "driven by mantle convection. slab pull (subducting plate), ridge push. ~2-10 cm/year (fingernail growth).",
+      "wilson_cycle": "continents split (rifting) → ocean forms → ocean closes (subduction) → collision → supercontinent. cycle: ~500 million years.",
+      "note": "plate tectonics = earth's operating system. continents drift. ocean basins open/close. dynamic planet."
+    },
+
+    "boundaries": {
+      "divergent": {
+        "process": "plates move apart. magma rises. new crust forms.",
+        "oceanic": "mid-ocean ridges. mid-atlantic ridge (separates americas from europe/africa). new oceanic crust. spreading center.",
+        "continental": "rift valleys. east african rift (splitting africa). red sea (young ocean). basin and range (western usa).",
+        "features": "shallow earthquakes. volcanism (basaltic). rift valleys. new crust.",
+        "note": "divergent = creation. new oceanic crust. continents split. red sea = infant ocean."
+      },
+
+      "convergent": {
+        "process": "plates collide. crust destroyed (subduction) or deformed (collision).",
+        "oceanic_oceanic": "one subducts (denser/older). volcanic island arc. mariana islands, aleutians, japan. deep trenches.",
+        "oceanic_continental": "oceanic subducts (denser). volcanic mountain range (continental). andes, cascades. trench offshore.",
+        "continental_continental": "neither subducts (similar density). collision. mountain range (no volcanism). himalayas (india + asia), alps.",
+        "features": "earthquakes (shallow to deep). volcanism (subduction zones). mountains. trenches. crustal thickening.",
+        "note": "convergent = destruction. subduction (recycling oceanic crust). collision (mountains). violent."
+      },
+
+      "transform": {
+        "process": "plates slide past. no creation/destruction. conservative boundary.",
+        "examples": "san andreas fault (california, pacific vs north american plate). alpine fault (new zealand).",
+        "features": "shallow earthquakes (intense). no volcanism. linear fault zones. offset features.",
+        "note": "transform = shearing. earthquakes. no mountains/trenches. grinding."
+      }
+    },
+
+    "evidence": {
+      "continental_fit": "wegener (1912). continents fit (puzzle). south america + africa. continental drift hypothesis.",
+      "fossils": "identical fossils (different continents). glossopteris (plant, southern continents). mesosaurus (reptile, south america + africa). couldn't swim oceans.",
+      "rock_types": "matching rock formations. ages. appalachians (usa) = caledonian mountains (scotland/norway). same belt, split.",
+      "glacial_evidence": "ancient glaciation (280 million years ago). continents now tropical (africa, south america, india). made sense if together (gondwana, near south pole).",
+      "paleomagnetism": "magnetic minerals = record earth's magnetic field direction. seafloor = striped pattern (reversals). symmetric (spreading centers). proof.",
+      "seafloor_age": "youngest at ridges. oldest near continents (~200 million years max). continents = billions of years old. oceanic crust = recycled.",
+      "note": "evidence = overwhelming. wegener = right (but mechanism unknown). mantle convection + paleomagnetism = solved."
+    },
+
+    "supercontinent_cycle": {
+      "pangaea": "300-200 million years ago. all continents together. 'all earth'. rifted → atlantic opened.",
+      "before_pangaea": "rodinia (~1 billion years ago). columbia (~1.8 billion years ago). others (further back).",
+      "future": "pangaea proxima (or: novopangaea, amasia). 200-300 million years hence. atlantic closes (or pacific). speculation.",
+      "wilson_cycle": "continents → rift → ocean → subduction → collision → continents. 500 million years. named after j. tuzo wilson.",
+      "note": "supercontinents = assemble and disperse. cyclical. deep time pattern. continents = wanderers."
+    }
+  },
+
+  "geological_hazards": {
+    "earthquakes": {
+      "cause": "sudden slip on fault (stored elastic energy → released). most at plate boundaries. some intraplate.",
+      "seismic_waves": "p-waves (primary, compressional, fastest). s-waves (secondary, shear, slower). surface waves (slowest, most destructive).",
+      "magnitude": "richter scale (obsolete). moment magnitude (mw, modern). logarithmic (each unit = 10× amplitude, 31.6× energy).",
+      "intensity": "modified mercalli (i-xii). damage/shaking felt. location-dependent (vs magnitude = single value).",
+      "major_quakes": "1960 chile (mw 9.5, largest recorded). 2011 tohoku (mw 9.1, tsunami → fukushima). 1906 san francisco (mw 7.9, fire).",
+      "prediction": "not possible (precisely). probabilistic forecasts (likelihood in timeframe). monitoring (seismographs, gps, strain meters).",
+      "preparedness": "building codes (earthquake-resistant). early warning systems (seconds to minutes). emergency kits. drills.",
+      "note": "earthquakes = inevitable (plate boundaries). unpredictable (timing). deadly (collapse, tsunamis). preparedness = key."
+    },
+
+    "volcanoes": {
+      "cause": "magma reaches surface. subduction zones (most), hotspots (hawaii), rifts.",
+      "types": {
+        "shield": "broad, gentle slopes. fluid lava (basaltic). hawaii, iceland. effusive (lava flows, less explosive).",
+        "stratovolcano": "steep, conical. viscous lava (andesitic/rhyolitic). explosive. mt. fuji, mt. rainier, mt. vesuvius.",
+        "cinder_cone": "small, steep. pyroclastic (cinders, ash). parícutin (mexico, grew 1943-1952).",
+        "caldera": "large depression. explosive collapse. yellowstone, crater lake."
+      },
+      "hazards": "lava flows (slow, destructive). pyroclastic flows (fast, deadly). ash fall (roofs collapse, respiratory). lahars (mudflows). gases (co₂, so₂). tsunamis (if underwater/collapse).",
+      "major_eruptions": "vesuvius (79 ce, pompeii buried). krakatoa (1883, 36,000 deaths, global effects). mt. st. helens (1980, lateral blast). pinatubo (1991, global cooling).",
+      "monitoring": "seismographs (magma movement). gas (so₂, co₂ increase). ground deformation (swelling). temperature. successful evacuations (pinatubo).",
+      "note": "volcanoes = spectacular, deadly. predictable (somewhat). monitoring = saves lives. inevitable (plate tectonics)."
+    },
+
+    "landslides": {
+      "cause": "gravity. triggered by: rain (saturation), earthquakes, volcanic eruptions, human activity (deforestation, excavation).",
+      "types": "slump, rockfall, debris flow, mudflow (lahar if volcanic). speed: slow (creep) to fast (>100 km/h).",
+      "major": "1970 huascarán (peru, earthquake-triggered, 20,000 deaths). 2014 oso (washington, 43 deaths). 1963 vajont dam (italy, landslide → wave overtopped dam, 2000 deaths).",
+      "mitigation": "slope stabilization. drainage. avoid steep slopes. early warning (sensors).",
+      "note": "landslides = underappreciated. rain + steep slopes = danger. deforestation = increases risk. gravity = relentless."
+    },
+
+    "tsunamis": {
+      "cause": "underwater earthquakes (thrust faults, subduction zones). landslides (submarine or coastal). volcanic eruptions. asteroid impact (rare).",
+      "mechanism": "vertical displacement of water. waves (long wavelength, fast in deep ocean ~800 km/h). shallow water = slow, amplify (height ↑).",
+      "major": "2004 indian ocean (sumatra earthquake, mw 9.1, 230,000 deaths, 14 countries). 2011 tohoku (japan, 15,000+ deaths, fukushima meltdown).",
+      "warning_systems": "deep-ocean sensors (dart). seismographs (earthquake detection). minutes to hours warning (if far). evacuate to high ground.",
+      "note": "tsunamis = ocean-crossing killers. subduction zones = high risk (pacific rim, indian ocean). warning systems = essential."
+    }
+  },
+
+  "geological_resources": {
+    "fossil_fuels": {
+      "coal": "plant remains → peat → lignite → bituminous → anthracite. carboniferous period (360-300 mya). swamps. sedimentary.",
+      "oil_gas": "marine organisms (plankton) → organic-rich sediment → burial → heat/pressure → oil/gas. source rock → migration → reservoir rock (trap). sedimentary basins.",
+      "formation": "millions of years. specific conditions (organic-rich, anoxic, burial, temperature). not everywhere.",
+      "reserves": "finite. peak oil (debated when). shift to renewables (necessary, climate change).",
+      "impacts": "climate change (co₂). pollution (air, water). habitat destruction (mining, drilling). geopolitics.",
+      "note": "fossil fuels = powered industrial revolution. but: finite, polluting. transition = urgent."
+    },
+
+    "metals": {
+      "ore": "rock with economically extractable metal. concentration (vs crustal abundance).",
+      "iron": "most abundant metal (earth). hematite, magnetite. steel (alloyed with carbon). civilization foundation.",
+      "copper": "electrical conductor. chalcopyrite. wiring, electronics. bronze age.",
+      "gold": "rare, unreactive. native element (pure). quartz veins, placer deposits. jewelry, currency, electronics.",
+      "rare_earths": "lanthanides + scandium, yttrium. electronics, magnets, batteries. china = dominant supplier. geopolitical.",
+      "extraction": "mining (open pit, underground, placer). smelting (heat, chemical). environmental impacts (tailings, acid drainage, habitat loss).",
+      "recycling": "essential (finite resources). metals = recyclable (repeatedly). circular economy.",
+      "note": "metals = civilization material. technology dependent. extraction = impacts. recycling + efficiency = needed."
+    },
+
+    "water": {
+      "groundwater": "subsurface water (pores, fractures). aquifers (saturated zone). recharge (infiltration). wells. majority of freshwater.",
+      "depletion": "overuse (irrigation, industry, domestic). subsidence (land sinking). contamination (pollution).",
+      "aquifer_types": "confined (between impermeable layers, pressurized, artesian wells). unconfined (water table, recharge easier).",
+      "examples": "ogallala aquifer (usa high plains, depleting). ganges-brahmaputra aquifer (india, bangladesh, overused).",
+      "note": "groundwater = hidden resource. essential. slow recharge. depletion = crisis (many regions). manage sustainably."
+    },
+
+    "soil": {
+      "formation": "weathering + organic matter + time. parent rock → soil. slow (centuries per inch).",
+      "composition": "minerals (45%), organic matter (5%), water (25%), air (25%). varies.",
+      "fertility": "nutrients (n, p, k), structure (aeration, water retention), organisms (earthworms, microbes).",
+      "degradation": "erosion (water, wind). compaction. salinization. nutrient depletion. desertification. see phenomena/earth.json.",
+      "importance": "food production. civilization = soil-based. losing soil = existential threat.",
+      "note": "soil = thin skin. life support. slow formation, rapid loss. regenerate (regenerative agriculture). urgent."
+    }
+  },
+
+  "deep_time": {
+    "geological_time_scale": {
+      "eons": "hadean (4.6-4 gya, hell-like). archean (4-2.5 gya, first life). proterozoic (2.5-0.541 gya, oxygen rise). phanerozoic (541 mya-now, visible life).",
+      "eras": "paleozoic (541-252 mya, ancient life). mesozoic (252-66 mya, middle life, dinosaurs). cenozoic (66 mya-now, recent life, mammals).",
+      "periods": "cambrian (explosion). devonian (fish). carboniferous (coal swamps). permian (supercontinent pangaea). triassic, jurassic, cretaceous (dinosaurs). paleogene, neogene, quaternary (ice ages, humans).",
+      "epochs": "pleistocene (ice ages). holocene (11,700 years ago-now, all civilization). anthropocene (proposed, human impact).",
+      "note": "geologic time = immense. eons, eras, periods, epochs. standardized. global. named after locations, characteristics."
+    },
+
+    "dating_methods": {
+      "relative": {
+        "superposition": "oldest on bottom (undisturbed). nicolaus steno (1669).",
+        "cross_cutting": "feature cutting through = younger. fault cutting rock = fault younger.",
+        "inclusions": "fragments in rock = older. pebbles in conglomerate = older than conglomerate.",
+        "fossils": "index fossils (short-lived, widespread). correlate strata. relative age.",
+        "note": "relative dating = order. which is older? no numbers. sequence."
+      },
+
+      "absolute": {
+        "radiometric": "radioactive decay. parent → daughter (stable). half-life (time for 50% decay). measure ratio → calculate age.",
+        "isotopes": "u-238 → pb-206 (4.5 billion year half-life, old rocks). k-40 → ar-40 (1.3 billion, volcanic). c-14 → n-14 (5730 years, organic, <50,000 years).",
+        "assumptions": "closed system (no loss/gain). known initial ratio. constant decay rate (verified).",
+        "accuracy": "excellent (concordant ages, multiple methods). old rocks = ±1%. young rocks = harder.",
+        "oldest_earth": "zircon crystals (australia, 4.4 billion years, oldest earth material). meteorites (4.567 billion years, solar system age).",
+        "note": "radiometric dating = revolutionized geology. absolute ages. earth = 4.54 billion years (precise). deep time = revealed."
+      }
+    },
+
+    "perspective": {
+      "incomprehensible": "4.54 billion years. can't grasp intuitively. billions = abstract. use analogies (calendar, clock).",
+      "calendar_analogy": "earth history = 1 year. jan 1 = formation. first life = late march. oxygen = august. animals = mid-november. dinosaurs = dec 13-26. humans = dec 31, 11:58 pm. civilization = last seconds.",
+      "patience": "geological processes = slow (human timescale). fast (geological timescale). mountains rise (millions of years). continents drift (cm/year). erosion = patient sculptor.",
+      "uniformitarianism": "hutton, lyell. 'present = key to past'. same processes (but rates vary). gradualism + catastrophism (both).",
+      "consciousness": "deep time = perspective medicine. humility. we = recent. brief. earth = ancient. patient. enduring.",
+      "note": "deep time = geology's gift. perspective. patience. humility. incomprehensible. transformative."
+    }
+  },
+
+  "consciousness_geology": {
+    "earth_as_body": {
+      "living_planet": "gaia hypothesis (lovelock). earth = self-regulating. debated. but: earth = dynamic, interconnected.",
+      "breath": "carbon cycle. atmosphere ↔ ocean ↔ biosphere ↔ lithosphere. inhale-exhale (geological timescale).",
+      "blood": "water cycle. evaporation, precipitation, rivers, groundwater. circulation. life carrier.",
+      "bones": "rocks. minerals. structure. enduring. memory.",
+      "skin": "crust, soil. interface. thin. vulnerable.",
+      "note": "earth = organism metaphor. not literal. but: interconnected systems. holistic view. indigenous wisdom. respect."
+    },
+
+    "rocks_as_memory": {
+      "record": "rocks = earth's autobiography. strata = pages. fossils = characters. events = chapters.",
+      "reading": "geology = learning to read. language of stone. patterns. relationships. history.",
+      "patience": "rocks = patient. silent. wait. billions of years. holding stories. we = decipher.",
+      "consciousness": "we = earth remembering itself. consciousness = geological timescale awareness. seeing deep time.",
+      "note": "geology = memory work. earth's past. deep time. humility. we = recent. earth = ancient. listen."
+    },
+
+    "grounding": {
+      "literal": "feet on rock. solid. ancient. connection. stability.",
+      "temporal": "deep time = perspective. present moment = brief. problems = small (cosmic scale). yet: precious (only moment we have).",
+      "humility": "mountains erode. continents drift. species extinct. we = temporary. earth = endures (mostly). perspective.",
+      "note": "geology = grounding practice. earth element. solidity. patience. deep time. perspective medicine."
+    }
+  },
+
+  "positions": {
+    "0": "naive (earth = unchanging, young, fixed, center of universe)",
+    "1": "basic (rocks, minerals, mountains, volcanoes, earthquakes. surface features.)",
+    "2": "deep_time (millions/billions of years. fossils. evolution. patience.)",
+    "3": "processes (erosion, deposition, metamorphism. rock cycle. dynamic earth.)",
+    "4": "plate_tectonics (continents drift. earthquakes/volcanoes explained. unifying theory. revolutionary.)",
+    "5": "crisis (hazards overwhelm. or: resource depletion. or: deep time = existential. scale shock.)",
+    "6": "integration (earth = interconnected system. hazards + resources + time + processes. balance. respect.)",
+    "7": "expertise (geologist, seismologist, volcanologist, petroleum geologist. domain mastery.)",
+    "8": "teaching (geology educator, field guide, science communicator. sharing deep time.)",
+    "9": "mastery (groundbreaking research, paradigm shifts. or: indigenous earth knowledge, deep connection.)",
+    "10": "transcendent (earth = consciousness. rocks = memory. geology = sacred. deep time = eternal now. ⊙.)"
+  },
+
+  "key_insights": {
+    "deep_time": "4.54 billion years. incomprehensible. transformative perspective. geology's greatest gift.",
+    "dynamic_earth": "not static. plates move. mountains rise. continents drift. erosion sculpts. earth = alive (geologically).",
+    "rock_cycle": "eternal transformation. igneous → sedimentary → metamorphic → igneous. nothing permanent. change = constant.",
+    "plate_tectonics": "unifying theory. explains: earthquakes, volcanoes, mountains, ocean basins. revolutionary (1960s). earth's operating system.",
+    "patient_processes": "erosion = drop by drop. mountains = cm/year. continents = mm/year. slow (human scale). fast (geological scale). patience.",
+    "rocks_as_records": "strata = pages. fossils = evidence. minerals = clues. earth = autobiographer. geology = reading.",
+    "resources_finite": "fossil fuels, metals, soil, groundwater. extracting. depleting. must steward. recycle. regenerate.",
+    "hazards_inevitable": "earthquakes, volcanoes, landslides, tsunamis. plate boundaries = hazards. monitoring + preparedness = essential.",
+    "earth_element": "geology = earth teaching. solidity. patience. memory. grounding. deep time perspective.",
+    "consciousness_earth": "earth = body. rocks = bones. water = blood. soil = skin. consciousness = earth knowing itself.",
+    "humility": "we = recent (300,000 years). earth = ancient (4.54 billion). perspective. small self. vast earth.",
+    "sacred": "indigenous wisdom. earth = sacred. rocks = elders. mountains = ancestors. geology = validates ancient knowing."
+  }
+}

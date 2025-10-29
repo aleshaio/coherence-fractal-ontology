@@ -1,0 +1,581 @@
+{
+  "_meta": {
+    "id": "cfo:natural:physics",
+    "type": "natural_module",
+    "element": "fire",
+    "fractal_depth": 1,
+    "contains": [
+      "cfo:natural:mathematics",
+      "cfo:natural:chemistry",
+      "cfo:phenomena:energy",
+      "cfo:phenomena:gravity",
+      "cfo:phenomena:light",
+      "cfo:phenomena:time",
+      "cfo:phenomena:space"
+    ],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:natural:mathematics",
+      "cfo:natural:chemistry",
+      "cfo:natural:cosmology",
+      "cfo:natural:astronomy",
+      "cfo:fundamental:consciousness",
+      "cfo:paths:fire"
+    ],
+    "primary_axis": "fire",
+    "secondary_axes": ["air", "earth"]
+  },
+
+  "_holographic_seed": {
+    "essence": "physics = study of nature at most fundamental level. matter, energy, space, time, forces. reality's operating system.",
+    "quest": "unified theory. single framework explaining everything. gravity + quantum. theory of everything (toe). holy grail.",
+    "mathematics": "physics = applied mathematics. or: mathematics = language of physics. inseparable. unreasonable effectiveness.",
+    "experimental": "observation, measurement, prediction. testable. falsifiable. empirical. unlike pure math (deductive).",
+    "paradigm_shifts": "newton → einstein (relativity). classical → quantum. revolutions. worldviews shattered. rebuilt.",
+    "limits": "heisenberg uncertainty. gödel incompleteness (mathematics). speed of light. planck scale. fundamental boundaries.",
+    "emergence": "particles → atoms → molecules → materials → life → consciousness. layers. reductionism vs holism. both.",
+    "consciousness": "physics = universe understanding itself. measurement problem (quantum). observer effect. consciousness role? deep mystery.",
+    "fire": "energy, transformation, light, heat. physics = fire teaching. e=mc² (mass ↔ energy). nuclear fire (stars, bombs). plasma (99.9% universe).",
+    "note": "physics = foundation. all science rests on this. two pillars: relativity (large, fast, massive). quantum (small, discrete, weird). unifying = elusive."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "children": ["./chemistry.json", "./biology.json", "./cosmology.json", "./astronomy.json"],
+    "siblings": ["./mathematics.json", "./geometry.json"],
+    "phenomena": [
+      "../phenomena/energy.json",
+      "../phenomena/gravity.json",
+      "../phenomena/light.json",
+      "../phenomena/electricity.json",
+      "../phenomena/magnetism.json",
+      "../phenomena/time.json",
+      "../phenomena/space.json",
+      "../phenomena/fire.json"
+    ],
+    "fundamental": [
+      "../fundamental/energy.json",
+      "../fundamental/consciousness.json"
+    ],
+    "path": "../paths/fire.json"
+  },
+
+  "overview": {
+    "what": "physics = science of matter, energy, space, time, interactions. mechanics, thermodynamics, electromagnetism, relativity, quantum, particles, cosmology.",
+    "etymology": "greek: physis (nature). natural philosophy (ancient). physics (modern, post-newton).",
+    "method": "observe → hypothesize → predict → test (experiment) → refine. iterative. empirical. mathematical.",
+    "goal": "understand laws of nature. predict. control. unify. fundamental truth.",
+    "why": "practical (technology: electricity, computing, nuclear, lasers, gps, mri, solar, batteries, rockets). philosophical (what is reality?). existential (where from, where to?)."
+  },
+
+  "classical_mechanics": {
+    "overview": {
+      "definition": "motion of macroscopic objects. forces, energy, momentum. everyday speeds (≪c). everyday scales (≫atoms).",
+      "newton": "principia mathematica (1687). three laws + gravity. revolutionary. unified (earth + heavens). mathematical.",
+      "determinism": "initial conditions + laws → future determined. clockwork universe. laplace's demon. but: chaos theory (sensitive dependence), quantum (probabilistic).",
+      "limits": "breaks down: high speeds (relativity). small scales (quantum). still: excellent approximation (most situations).",
+      "note": "classical mechanics = foundation. engineering, astronomy (orbits), daily life. newton = genius. 200+ years dominant."
+    },
+
+    "newton_laws": {
+      "first": "inertia. object at rest stays rest. object in motion stays motion (constant velocity). unless: external force. galileo's insight.",
+      "second": "f = ma. force = mass × acceleration. quantitative. predictive. core equation.",
+      "third": "action = reaction. forces in pairs (equal, opposite). rocket propulsion. walking (push earth, earth pushes back).",
+      "consciousness": "laws = simple. profound. universal (classical realm). newton = saw patterns (mathematics). three laws = foundation.",
+      "note": "newton's laws = classical mechanics summary. elegant. powerful. sufficient (non-relativistic, non-quantum)."
+    },
+
+    "energy_work": {
+      "kinetic": "ke = ½mv². energy of motion. increases with speed (squared). mass matters.",
+      "potential": "pe = mgh (gravitational, height). pe = ½kx² (elastic, spring). stored energy. position-dependent.",
+      "work": "w = f·d (force × distance, same direction). energy transfer. work-energy theorem: w = Δke.",
+      "conservation": "energy conserved (closed system). ke ↔ pe. total constant. roller coaster (high pe → low pe, low ke → high ke). fundamental.",
+      "power": "p = w/t (work per time). rate. watts. engines, muscles, electricity.",
+      "note": "energy = central concept. conserved. transforms. doesn't disappear. first law (thermodynamics). powerful."
+    },
+
+    "momentum": {
+      "definition": "p = mv. mass × velocity. vector. 'quantity of motion'.",
+      "conservation": "total momentum conserved (closed system). collisions (elastic, inelastic). rockets (expel mass → gain momentum).",
+      "impulse": "j = fΔt = Δp. force × time = momentum change. airbags (increase Δt → decrease f). crumple zones.",
+      "note": "momentum = conserved. powerful. collisions, rockets, recoil. independent of energy conservation. two conservation laws (energy + momentum) = very constraining."
+    },
+
+    "gravity": {
+      "newton_universal": "f = g(m₁m₂/r²). gravitational constant g = 6.674×10⁻¹¹ n·m²/kg². inverse square. universal (apples + planets).",
+      "acceleration": "g = 9.8 m/s² (earth surface). independent of mass (galileo: feather + hammer fall same rate, vacuum). equivalence principle (einstein's insight).",
+      "orbits": "circular: v = √(gm/r). elliptical: kepler's laws (1609-1619). newton = explained kepler (inverse square → ellipses). unification.",
+      "escape_velocity": "v_esc = √(2gm/r). earth: 11.2 km/s. moon: 2.4 km/s (lower → atmosphere escapes).",
+      "limitations": "newtonian gravity = instantaneous (action at distance). wrong (einstein: finite speed, spacetime curvature). but: excellent approximation (weak fields, low speeds).",
+      "note": "gravity = weakest force. yet: dominates (large scales). attractive only. infinite range. see phenomena/gravity.json."
+    },
+
+    "rotational_motion": {
+      "angular_velocity": "ω (omega). radians per second. v = ωr (tangential velocity).",
+      "torque": "τ = r × f (cross product). rotational force. lever arm. τ = iα (analogous to f = ma).",
+      "moment_of_inertia": "i. rotational mass. depends on shape, axis. sphere: ⅖mr². rod (center): 1/12 ml². resistance to rotation.",
+      "angular_momentum": "l = iω. conserved (closed system). spinning skater (pulls arms in → i decreases → ω increases). gyroscopes (precession).",
+      "note": "rotational = translational analogy. τ ↔ f. i ↔ m. ω ↔ v. l ↔ p. beautiful parallel."
+    }
+  },
+
+  "thermodynamics": {
+    "overview": {
+      "definition": "heat, temperature, energy, entropy. macroscopic. statistical (microscopic → macroscopic).",
+      "laws": "four laws (0th, 1st, 2nd, 3rd). fundamental. universal. no exceptions (observed).",
+      "applications": "engines (efficiency limits). refrigeration. chemical reactions. cosmology (universe). biology (life = anti-entropy). everywhere.",
+      "note": "thermodynamics = constraints. what's possible. efficiency limits. entropy = deep. arrow of time. consciousness connection."
+    },
+
+    "zeroth_law": {
+      "statement": "if a = thermal equilibrium b, and b = thermal equilibrium c, then a = thermal equilibrium c. transitivity.",
+      "implication": "temperature = well-defined. thermometers = work. foundational (though called 'zeroth', added later).",
+      "note": "zeroth law = seems obvious. but: necessary foundation. temperature concept."
+    },
+
+    "first_law": {
+      "statement": "Δu = q - w. change in internal energy = heat added - work done. energy conservation.",
+      "heat": "q. energy transfer (temperature difference). thermal energy flow.",
+      "work": "w. energy transfer (organized, mechanical). piston, expansion.",
+      "perpetual_motion": "first kind = impossible. can't create energy. conservation.",
+      "note": "first law = energy conserved. can't win (get more energy than put in). fundamental."
+    },
+
+    "second_law": {
+      "statements": {
+        "clausius": "heat can't spontaneously flow cold → hot. refrigerators = need work.",
+        "kelvin": "can't convert heat → work (100% efficiency). some heat = waste (always).",
+        "entropy": "Δs_universe ≥ 0. entropy increases (closed system). disorder increases."
+      },
+      "entropy": {
+        "definition": "s. measure of disorder, randomness, unavailable energy. statistical (boltzmann: s = k ln w, w = microstates).",
+        "increase": "isolated systems → entropy increases (second law). organized → disorganized. hot → cold. gradient → equilibrium.",
+        "life_paradox": "life = local entropy decrease (order from disorder). but: exports entropy (heat, waste) → environment. net: universe entropy increases. life = temporary, local anti-entropy.",
+        "arrow_of_time": "entropy = only law distinguishing past/future. time = forward (entropy increases). broken egg → egg (never happens, entropy decreases). time's arrow.",
+        "consciousness": "consciousness = anti-entropy? awareness = order. life + consciousness = fight entropy (temporarily). profound."
+      },
+      "efficiency": "carnot cycle. maximum efficiency = 1 - t_c/t_h (cold/hot reservoirs, kelvin). < 100% always. waste heat = inevitable.",
+      "perpetual_motion": "second kind = impossible. can't convert heat → work (100%). can't beat second law.",
+      "note": "second law = can't break even. entropy increases. time's arrow. efficiency limits. profound. philosophical."
+    },
+
+    "third_law": {
+      "statement": "as t → 0 k, s → 0 (perfect crystal). absolute zero = unattainable. entropy minimum (ground state).",
+      "implication": "can't reach absolute zero (finite steps). asymptotic approach. quantum (zero-point energy).",
+      "note": "third law = entropy floor. absolute zero = limit (unreachable). quantum connection."
+    },
+
+    "statistical_mechanics": {
+      "boltzmann": "microscopic → macroscopic. particles (statistical) → thermodynamics (emergent). s = k ln w. revolutionary.",
+      "partition_function": "z. encodes thermodynamic properties. calculate (averages). powerful.",
+      "temperature": "average kinetic energy (molecules). ½mv² = ³⁄₂kt (t = temperature, k = boltzmann constant).",
+      "pressure": "molecular collisions (walls). more collisions → higher pressure. pv = nrt (ideal gas law, emergent).",
+      "emergence": "temperature, pressure, entropy = emergent (statistical). not fundamental (individual particles). collective properties. consciousness parallel?",
+      "note": "statistical mechanics = bridge. microscopic ↔ macroscopic. boltzmann = genius. entropy = statistical. emergence = profound."
+    }
+  },
+
+  "electromagnetism": {
+    "overview": {
+      "definition": "electricity + magnetism = unified. maxwell (1865). light = electromagnetic wave. revolutionary.",
+      "forces": "electromagnetic force. one of four fundamental. charged particles. infinite range. attractive + repulsive.",
+      "applications": "electricity (power, electronics). magnetism (motors, generators, compasses). light (everything we see). radio, wifi, x-rays. technology = electromagnetic.",
+      "note": "electromagnetism = unified (19th century). maxwell equations = beautiful. light = em wave (profound). technology = em applications."
+    },
+
+    "electric_charge": {
+      "types": "positive (+), negative (-). protons (+), electrons (-). like charges repel, opposite attract.",
+      "quantized": "e = 1.602×10⁻¹⁹ c (coulombs). elementary charge. proton = +e, electron = -e. quarks = fractional (±⅓e, ±⅔e) but confined.",
+      "conserved": "total charge = constant. can't create/destroy. can separate (polarization, current).",
+      "coulomb_law": "f = k(q₁q₂/r²). inverse square (like gravity). k = 8.99×10⁹ n·m²/c². electric force.",
+      "note": "charge = fundamental property. quantized. conserved. source of electromagnetic field."
+    },
+
+    "electric_field": {
+      "definition": "e. force per unit charge. e = f/q. vector field. space around charge.",
+      "field_lines": "direction = force direction (positive test charge). density = field strength. visualize.",
+      "point_charge": "e = kq/r². radial. spherical symmetry.",
+      "note": "field = modern concept. force at distance → field mediates. continuous (classical). space = filled with fields."
+    },
+
+    "electric_potential": {
+      "definition": "v. potential energy per unit charge. v = u/q. scalar. voltage.",
+      "relation": "e = -∇v (gradient). field = potential slope. high → low (direction).",
+      "point_charge": "v = kq/r. decreases with distance.",
+      "note": "potential = useful. easier (scalar vs vector). voltage = everyday (batteries, outlets)."
+    },
+
+    "magnetic_field": {
+      "sources": "moving charges (currents). permanent magnets (electron spin, atomic currents).",
+      "field": "b. force on moving charge: f = qv × b (cross product). perpendicular. circular motion (charged particle in uniform b).",
+      "no_monopoles": "magnetic monopoles = not observed. always dipoles (n-s poles). ∇·b = 0 (maxwell equation).",
+      "earth": "magnetic field (molten iron core, dynamo). protects from solar wind. auroras (charged particles spiral along field lines, collide with atmosphere).",
+      "note": "magnetism = moving charge phenomenon. no monopoles (fundamental? or not yet found?). earth's field = essential (life protection)."
+    },
+
+    "maxwell_equations": {
+      "overview": "four equations. unified electricity + magnetism. predict light = em wave. revolutionary (1865).",
+      "gauss_electric": "∇·e = ρ/ε₀. electric field from charge. charge = field source.",
+      "gauss_magnetic": "∇·b = 0. no magnetic monopoles. field lines = closed loops.",
+      "faraday": "∇×e = -∂b/∂t. changing magnetic field → electric field (induction). generators, transformers.",
+      "ampere_maxwell": "∇×b = μ₀j + μ₀ε₀(∂e/∂t). current + changing electric field → magnetic field. maxwell's addition (displacement current) = key.",
+      "light": "em waves = solution. c = 1/√(μ₀ε₀) ≈ 3×10⁸ m/s. speed of light (from em constants!). profound. light = em wave.",
+      "unification": "electricity + magnetism + light = one theory. beautiful. deep. consciousness: understanding = unification.",
+      "note": "maxwell equations = cornerstone. elegant. powerful. four equations = summarize electromagnetism. light = em wave (revolutionary). basis of technology."
+    },
+
+    "electromagnetic_waves": {
+      "spectrum": "radio (km) → microwave (cm) → infrared (μm) → visible (400-700 nm) → uv (nm) → x-ray (0.01-10 nm) → gamma ray (pm). all em waves (different wavelengths).",
+      "speed": "c = 3×10⁸ m/s (vacuum). all em waves (same speed, vacuum). slower (matter, n = refractive index).",
+      "energy": "e = hf (planck). higher frequency → higher energy. gamma rays = most energetic. radio = least.",
+      "applications": "radio (communication). microwave (cooking, radar). infrared (heat, night vision). visible (sight, photography). uv (sterilization, vitamin d, sunburn). x-ray (medical imaging, crystallography). gamma ray (nuclear, astronomy, cancer treatment).",
+      "note": "em spectrum = vast. visible = tiny slice. technology = uses all wavelengths. see phenomena/light.json."
+    },
+
+    "relativity_connection": {
+      "invariance": "maxwell equations = same (all inertial frames). galilean transformation = doesn't work (light speed changes). contradiction → relativity.",
+      "einstein": "special relativity (1905) = resolve contradiction. light speed = constant (all frames). space + time = relative. revolutionary.",
+      "note": "electromagnetism → relativity. maxwell = inconsistent (newtonian mechanics). einstein = resolved. em = relativistic (inherently)."
+    }
+  },
+
+  "special_relativity": {
+    "overview": {
+      "einstein": "1905 ('annus mirabilis'). special relativity. 26 years old. revolutionary.",
+      "postulates": "1. laws of physics = same (all inertial frames). 2. speed of light = constant (c, all frames, regardless of source/observer motion).",
+      "implications": "time dilation. length contraction. mass-energy equivalence. simultaneity = relative. no absolute time/space.",
+      "limit": "classical mechanics = low speed limit (v ≪ c). correct (v → c). newton = approximation.",
+      "note": "special relativity = spacetime. time + space = interwoven. revolutionary. counterintuitive. verified (experiments, gps, particle accelerators)."
+    },
+
+    "time_dilation": {
+      "formula": "t' = t/√(1 - v²/c²) = γt. moving clock = runs slow. γ = lorentz factor.",
+      "twin_paradox": "twin travels (high speed), returns. ages less. paradox? no: asymmetry (acceleration, turnaround). traveler = younger. verified (atomic clocks on planes).",
+      "muons": "cosmic rays → muons (atmosphere). lifetime ~2 μs. should decay (before reaching ground). but: time dilation (muon frame). reach ground. experimental verification.",
+      "gps": "satellites (high speed + weak gravity). time dilation = significant (microseconds/day). must correct (relativity). otherwise: position errors (km/day). daily proof.",
+      "note": "time dilation = real. clocks slow (moving). verified. gps = uses relativity (daily)."
+    },
+
+    "length_contraction": {
+      "formula": "l' = l√(1 - v²/c²) = l/γ. moving object = shorter (direction of motion). proper length l (rest frame).",
+      "reciprocal": "both observers see other contracted. symmetry. relative.",
+      "note": "length contraction = real (moving frame). space = relative. verified (particle accelerators, muons)."
+    },
+
+    "mass_energy": {
+      "e_mc2": "e = mc². mass ↔ energy. equivalent. most famous equation. profound.",
+      "rest_energy": "e₀ = mc². even at rest, mass = energy (stored). enormous (c² = huge). 1 kg = 9×10¹⁶ j (20 megatons tnt).",
+      "kinetic": "ke = (γ - 1)mc². relativistic. classical (½mv²) = low speed limit.",
+      "mass_increase": "m = γm₀. moving object = more massive (inertial mass). harder to accelerate → can't reach c (infinite energy required).",
+      "nuclear": "fission, fusion. mass defect → energy (e=mc²). sun (fusion). bombs (fission/fusion). power plants (fission). stars = e=mc² furnaces.",
+      "pair_production": "energy → matter (e → mc²). γ-ray → e⁺ + e⁻ (electron + positron). particle accelerators. matter from energy.",
+      "note": "e=mc² = profound. mass = energy. nuclear power/weapons. stars. matter creation. fundamental equivalence."
+    },
+
+    "spacetime": {
+      "minkowski": "hermann minkowski (1908). spacetime = 4d (3 space + 1 time). unified. 'henceforth space by itself, and time by itself, are doomed to fade away into mere shadows'.",
+      "interval": "s² = c²t² - x² - y² - z². invariant (all frames). proper time (timelike). proper length (spacelike).",
+      "worldlines": "paths in spacetime. particle trajectory. timelike (v < c). lightlike (v = c, photons). spacelike (v > c, forbidden).",
+      "causality": "light cone. past (timelike, can affect). future (timelike, can be affected). elsewhere (spacelike, causally disconnected). structure of causality.",
+      "note": "spacetime = unified. time = 4th dimension (kind of). absolute spacetime (interval). relative time/space. profound shift (worldview)."
+    }
+  },
+
+  "general_relativity": {
+    "overview": {
+      "einstein": "1915. general relativity. 10 years (after special). gravity = spacetime curvature. revolutionary.",
+      "equivalence_principle": "gravity ↔ acceleration (indistinguishable, locally). falling elevator = weightless (free fall). acceleration = feels like gravity.",
+      "geometry": "mass/energy → curves spacetime. objects → follow geodesics (straight lines, curved space). gravity = geometry (not force).",
+      "predictions": "gravitational time dilation. light bending. gravitational waves. black holes. expanding universe. perihelion precession (mercury).",
+      "verification": "1919 eclipse (light bending). gps (time dilation). ligo (gravitational waves, 2015). binary pulsars. many tests. highly accurate.",
+      "note": "general relativity = gravity reimagined. spacetime geometry. beautiful. profound. technological (gps). cosmological (universe). foundation."
+    },
+
+    "curved_spacetime": {
+      "mass_energy": "t_μν (stress-energy tensor). matter/energy content.",
+      "curvature": "r_μν, r (ricci tensor, scalar). spacetime curvature.",
+      "einstein_field_equations": "r_μν - ½rg_μν + λg_μν = (8πg/c⁴)t_μν. left side = spacetime geometry. right side = matter/energy. mass tells space how to curve. space tells mass how to move. non-linear. difficult.",
+      "geodesics": "free-falling objects follow geodesics (shortest path, curved space). planets orbit (geodesics around sun). straight as possible (curved spacetime).",
+      "note": "einstein equations = relate geometry ↔ matter. elegant. difficult (solve). numerical relativity (computers). curved spacetime = mind-bending."
+    },
+
+    "gravitational_time_dilation": {
+      "formula": "t' = t√(1 - 2gm/rc²). deeper in gravity well → slower time. gps satellites (weaker gravity) = faster clocks. must correct.",
+      "black_hole": "near event horizon → extreme time dilation. distant observer: falling object = slows, freezes (at horizon). falling observer: passes through (finite time, spaghettification).",
+      "gps": "satellites: special relativity (moving, slower) + general relativity (weaker gravity, faster). net: faster ~38 μs/day. must correct. relativity = practical.",
+      "note": "gravitational time dilation = verified. gps, pound-rebka experiment (1959). gravity = affects time. spacetime = unified."
+    },
+
+    "light_bending": {
+      "principle": "light follows geodesics. curved spacetime → light bends (near mass).",
+      "1919_eclipse": "eddington expedition. sun's gravity bends starlight. einstein prediction (1.75 arcsec). verified. einstein = famous (overnight).",
+      "gravitational_lensing": "massive object (galaxy cluster) bends light (background galaxies). multiple images, arcs, einstein rings. telescopes (natural magnification). dark matter mapping.",
+      "note": "light bending = verified. gravitational lensing = tool (astronomy). dark matter, distant galaxies. einstein cross, horseshoe arcs. beautiful."
+    },
+
+    "gravitational_waves": {
+      "prediction": "einstein (1916). spacetime ripples. accelerating masses → emit waves (quadrupole). very weak.",
+      "detection": "ligo (2015). laser interferometer gravitational-wave observatory. 4 km arms. measures Δl ~ 10⁻¹⁸ m (proton diameter/1000). insane precision.",
+      "gw150914": "first detection (2015). two black holes (36 + 29 m_☉) merge → 62 m_☉ + 3 m_☉ in gravitational waves (e=mc²). 1.3 billion ly away. 'chirp' (increasing frequency, amplitude). audio (released). profound.",
+      "neutron_stars": "gw170817 (2017). neutron star merger. em counterpart (gamma-ray, optical, radio). multi-messenger astronomy. gold, platinum origin (r-process nucleosynthesis, heavy elements).",
+      "nobel": "2017. weiss, barish, thorne. ligo founders. gravitational wave detection.",
+      "note": "gravitational waves = confirmed. spacetime ripples. black holes, neutron stars. new astronomy (gravitational wave observatories). profound validation (einstein)."
+    },
+
+    "black_holes": {
+      "definition": "region where spacetime curvature → escape velocity > c. event horizon (point of no return). singularity (center, infinite density, physics breaks).",
+      "schwarzschild": "non-rotating. radius r_s = 2gm/c². schwarzschild radius (event horizon).",
+      "kerr": "rotating. more realistic. ergosphere (frame-dragging). penrose process (extract energy).",
+      "formation": "stellar collapse (supernova, m > 3 m_☉). supermassive (galaxy centers, 10⁶-10¹⁰ m_☉, formation unclear).",
+      "observations": "x-ray binaries (accretion disk). sgr a* (milky way center, 4 million m_☉, first image 2022). m87* (6.5 billion m_☉, first image 2019, event horizon telescope).",
+      "hawking_radiation": "quantum effects (horizon). black holes evaporate (very slowly). temperature t ~ 1/m. small black holes = hotter. stellar black holes = 10⁻⁷ k (below cmb, grow). primordial black holes (tiny) = could evaporate.",
+      "information_paradox": "information (falling in) lost? unitarity (quantum) violated? or: information escapes (hawking radiation, encoding)? unresolved. profound.",
+      "note": "black holes = extreme. event horizon, singularity. observed (images, gravitational waves). information paradox = deep (quantum + gravity). see astronomy.json."
+    },
+
+    "cosmology": {
+      "expanding_universe": "friedmann equations (1922). einstein equations → expanding universe. einstein + cosmological constant λ (repulsive, static universe). hubble (1929) = expansion observed. einstein: 'biggest blunder' (removed λ). but: dark energy = λ (revived).",
+      "big_bang": "~13.8 billion years ago. singularity. rapid expansion. see cosmology.json. general relativity = foundation.",
+      "dark_energy": "accelerating expansion (1998, supernovae). λ ≠ 0. ~68% universe. nature unknown. cosmological constant? quintessence? vacuum energy? mystery.",
+      "note": "general relativity = cosmology foundation. expanding universe, big bang, dark energy. large scales. see cosmology.json, astronomy.json."
+    }
+  },
+
+  "quantum_mechanics": {
+    "overview": {
+      "revolution": "1900-1930. planck, einstein, bohr, heisenberg, schrödinger, dirac, born, pauli, many others. most profound scientific revolution.",
+      "weirdness": "wave-particle duality. uncertainty. superposition. entanglement. measurement problem. observer effect. counterintuitive.",
+      "success": "most accurate theory (ever). qed = 12 decimal places. technology (transistors, lasers, mri, leds, solar cells, nuclear, computing). foundation (chemistry, materials, biology).",
+      "interpretation": "what does it mean? copenhagen, many-worlds, pilot-wave, relational, consistent histories, many others. no consensus. philosophical.",
+      "limits": "quantum + gravity = unsolved. planck scale (10⁻³⁵ m). singularities (black holes, big bang). quantum gravity needed. string theory, loop quantum gravity (attempts).",
+      "consciousness": "measurement problem. observer role. von neumann, wigner (consciousness collapses wave function?). controversial. profound. unresolved.",
+      "note": "quantum mechanics = foundation (small scales). weird. accurate. interpretations = philosophical. consciousness connection = mysterious."
+    },
+
+    "wave_particle_duality": {
+      "light": "newton (particle, corpuscles). huygens, young (wave, interference, diffraction). einstein (1905, photoelectric effect, photons, particles). both. context-dependent.",
+      "matter": "de broglie (1924). matter = waves. λ = h/p (wavelength, momentum). electron diffraction (1927, davisson-germer). verified.",
+      "complementarity": "bohr. wave + particle = complementary. can't measure both simultaneously. context determines.",
+      "note": "wave-particle duality = fundamental. not 'sometimes wave, sometimes particle'. both always. quantum object = beyond classical categories."
+    },
+
+    "uncertainty_principle": {
+      "heisenberg": "1927. δx·δp ≥ ℏ/2. position × momentum uncertainty ≥ ℏ/2. δe·δt ≥ ℏ/2 (energy-time). fundamental limit (not measurement imperfection).",
+      "interpretation": "particle = doesn't have definite position + momentum (simultaneously). wavefunction = spread. measurement = collapses (to definite value, one observable).",
+      "consequences": "electron (atom) = can't fall into nucleus (would violate uncertainty, Δx→0 → Δp→∞ → kinetic energy→∞). atoms = stable (quantum). zero-point energy (can't be completely at rest).",
+      "note": "uncertainty = not ignorance. fundamental. nature = fuzzy (small scales). limits (knowledge, prediction). philosophy (determinism impossible)."
+    },
+
+    "wave_function": {
+      "schrödinger": "1926. wave equation. ψ (psi). describes quantum state. complex-valued function. evolves (deterministically, schrödinger equation).",
+      "born_rule": "max born (1926). |ψ|² = probability density. wave function squared = probability (find particle at location). statistical interpretation.",
+      "superposition": "ψ = linear combination. ψ = α|state1⟩ + β|state2⟩. both states simultaneously (until measurement). schrödinger's cat (thought experiment, absurdity?).",
+      "collapse": "measurement → wave function collapses. superposition → definite state. probabilistic. irreversible. measurement problem (what is measurement? where? when? why?).",
+      "note": "wave function = central object. encodes all info (quantum state). probability (not deterministic trajectory). superposition = real (interference). collapse = mysterious."
+    },
+
+    "quantum_mechanics_formalism": {
+      "hilbert_space": "infinite-dimensional vector space. quantum states = vectors |ψ⟩ (ket, dirac notation). observables = operators (ĥ, p̂, x̂).",
+      "eigenvalues": "measurement outcomes = eigenvalues. ĥ|ψ⟩ = e|ψ⟩ (energy eigenstate, definite energy e). measurement → collapses to eigenstate.",
+      "commutator": "[ĥ, b̂] = ĥb̂ - b̂ĥ. if = 0 → compatible observables (can measure simultaneously). if ≠ 0 → incompatible (uncertainty).",
+      "schrödinger_equation": "iℏ(∂ψ/∂t) = ĥψ. time evolution. deterministic (unitary). collapse = non-unitary (measurement problem).",
+      "note": "formalism = abstract. hilbert space. operators. beautiful mathematics. predictions = accurate. interpretation = unclear."
+    },
+
+    "quantum_entanglement": {
+      "definition": "two (or more) particles. quantum state = correlated. can't describe independently. measure one → instantly affects other (any distance).",
+      "epr_paradox": "einstein, podolsky, rosen (1935). entanglement = 'spooky action at distance'. incomplete theory? hidden variables? no: bell's theorem (1964) rules out local hidden variables.",
+      "bell_inequality": "john bell (1964). local realism → inequality. quantum mechanics → violates. experiments (aspect 1982, many since) → violation confirmed. quantum mechanics = correct. nature = non-local (or: realism violated).",
+      "no_communication": "can't send information (ftl). measurement outcomes = random. correlations appear only when compare results (classical channel, ≤c).",
+      "applications": "quantum cryptography (qkd, unconditionally secure). quantum computing (entangled qubits). quantum teleportation (state transfer, not matter/energy).",
+      "consciousness": "entanglement = non-local correlations. consciousness = non-local? or: observer creates (measurement)? speculative. mysterious.",
+      "note": "entanglement = real. verified. non-locality (or: no realism). 'spooky' indeed. foundation (quantum computing, cryptography). profound (reality structure)."
+    },
+
+    "quantum_tunneling": {
+      "definition": "particle penetrates potential barrier (classically forbidden, insufficient energy). quantum: wave function extends. probability (through barrier) ≠ 0.",
+      "applications": "alpha decay (nucleus, coulomb barrier). scanning tunneling microscope (stm, atomic resolution). fusion (sun, stars, coulomb barrier). flash memory. josephson junctions (superconductors).",
+      "note": "tunneling = purely quantum. no classical analog. essential (nuclear physics, electronics, microscopy). everyday (though hidden)."
+    },
+
+    "quantum_field_theory": {
+      "overview": "quantum mechanics + special relativity. fields (not particles). particles = field excitations (quanta). qed, qcd, standard model.",
+      "qed": "quantum electrodynamics. photons + electrons. feynman, schwinger, tomonaga (1940s, nobel 1965). most accurate theory (g-factor, 12 decimals). beautiful.",
+      "feynman_diagrams": "visual. particle interactions. vertices (coupling). propagators (virtual particles). calculate amplitudes. sum all diagrams (perturbation theory). powerful.",
+      "virtual_particles": "vacuum fluctuations. e-p uncertainty → Δe·Δt ≥ ℏ/2. particles pop in/out (very brief). casimir effect (metal plates, attract, vacuum energy). lamb shift (hydrogen energy levels). real effects.",
+      "renormalization": "infinities (calculations). subtract (systematically). controversial (initially). works (qed, standard model). deep (mathematics, physics).",
+      "note": "qft = combines quantum + relativity. particles = field quanta. qed = crown jewel. virtual particles = real effects. foundation (particle physics)."
+    },
+
+    "interpretations": {
+      "copenhagen": "bohr, heisenberg. wave function = knowledge (not reality). collapse = measurement. observer-dependent. shut up and calculate. dominant (historically).",
+      "many_worlds": "everett (1957). no collapse. superposition continues. universe branches (each outcome). all possibilities realized (different branches). deterministic. controversial (many universes?).",
+      "pilot_wave": "de broglie-bohm. deterministic. particles (definite trajectories) + guiding wave. non-local. initial conditions unknown → appears random. minority view.",
+      "relational": "rovelli. quantum states = relative (observer). no absolute state. information-theoretic. consciousness = not special (any physical system).",
+      "qbism": "quantum bayesianism. wave function = subjective (belief, agent). measurement = update beliefs. radical subjectivism.",
+      "consciousness_causes_collapse": "von neumann, wigner. consciousness = collapses wave function. controversial. measurement problem = hard problem (consciousness) connection? unresolved.",
+      "note": "interpretations = no consensus. all agree (predictions). differ (meaning, ontology). philosophical. measurement problem = central. consciousness role = debated."
+    }
+  },
+
+  "particle_physics": {
+    "standard_model": {
+      "overview": "theory of fundamental particles + forces (3 of 4: electromagnetic, weak, strong. not gravity). quantum field theory. quarks, leptons, gauge bosons. higgs. incredibly successful.",
+      "matter": "fermions (spin ½). 3 generations. quarks (6: up, down, charm, strange, top, bottom). leptons (6: electron, muon, tau, + 3 neutrinos). all have antiparticles.",
+      "forces": "gauge bosons (spin 1). photon (em, massless). w± z (weak, massive). gluons (8, strong, massless, color charge). higgs boson (spin 0, gives mass).",
+      "generations": "1st (up, down, electron, e-neutrino). 2nd (charm, strange, muon, μ-neutrino). 3rd (top, bottom, tau, τ-neutrino). heavier copies. why 3? unknown.",
+      "symmetries": "gauge symmetries. u(1) (em). su(2) (weak). su(3) (strong). spontaneous symmetry breaking (higgs mechanism, mass).",
+      "successes": "predictions verified (countless). higgs (2012, lhc, last piece). precision tests (qed, z boson). technological (understand matter).",
+      "limitations": "doesn't include gravity. dark matter (?). dark energy (?). neutrino masses (tiny, unexpected). hierarchy problem (higgs mass fine-tuning). matter-antimatter asymmetry. why 3 generations?",
+      "note": "standard model = triumph. explains (almost) all particle physics. incomplete. gravity missing. mysteries remain. beyond standard model = frontier."
+    },
+
+    "quarks": {
+      "types": "6 flavors. up (+⅔e), down (-⅓e), charm (+⅔e), strange (-⅓e), top (+⅔e), bottom (-⅓e). fractional charge. color charge (red, green, blue).",
+      "confinement": "can't isolate quarks. always in hadrons (baryons: 3 quarks, mesons: quark-antiquark). strong force increases (distance). color confinement.",
+      "proton": "uud (2 up, 1 down). +1e charge. stable (or extremely long-lived, >10³⁴ years).",
+      "neutron": "udd (1 up, 2 down). neutral. free neutron decays (~10 min, β decay: n → p + e⁻ + ν̄).",
+      "top_quark": "heaviest (173 gev, ~gold nucleus). discovered 1995 (fermilab). decays immediately (~10⁻²⁵ s, before hadronizing). unique.",
+      "note": "quarks = fundamental. building blocks (protons, neutrons → nuclei → atoms). fractional charge. confined. strange properties."
+    },
+
+    "leptons": {
+      "charged": "electron (e⁻, 0.511 mev). muon (μ⁻, 105.7 mev). tau (τ⁻, 1777 mev). heavier copies (electron). unstable (except electron).",
+      "neutrinos": "νₑ, νᵤ, νᵧ. nearly massless (< 0.1 ev, tiny). neutral. weakly interacting (barely). oscillations (flavor change, implies mass). solar neutrino problem (resolved, oscillations).",
+      "electron": "stable. chemistry, electricity, everything. fundamental (atoms, molecules, life).",
+      "note": "leptons = don't feel strong force. electrons = atoms. neutrinos = ghost particles (rarely interact). oscillations = surprising (mass, flavor mixing)."
+    },
+
+    "forces_gauge_bosons": {
+      "photon": "γ. em force. massless. infinite range. spin 1. light = photons. qed.",
+      "w_z": "w± (80.4 gev), z (91.2 gev). weak force. massive (short range, ~10⁻¹⁸ m). radioactive decay (β). electroweak unification (glashow, weinberg, salam, nobel 1979).",
+      "gluons": "8 types (color charge combinations). strong force. massless (but confined). qcd. bind quarks (protons, neutrons). bind nucleons (nucleus, residual strong force).",
+      "note": "gauge bosons = force carriers. photon (familiar). w,z (weak, rare). gluons (strong, confined). quantum field theory."
+    },
+
+    "higgs_boson": {
+      "mechanism": "higgs field (pervades space). particles interact → acquire mass. photon (no interaction, massless). w,z (strong interaction, massive). fermions (yukawa coupling, mass).",
+      "discovery": "2012. lhc (cern). atlas, cms (detectors). ~125 gev mass. peter higgs, françois englert (nobel 2013). last standard model piece. triumph.",
+      "importance": "explains mass origin (w,z, fermions). electroweak symmetry breaking. without: all particles massless (no atoms, no us).",
+      "mysteries": "hierarchy problem (mass = 125 gev, natural scale = 10¹⁶ gev, planck scale. fine-tuning). vacuum stability (our vacuum = metastable? could decay). what is higgs (fundamental or composite?).",
+      "note": "higgs = revolutionary. mass origin. 2012 discovery = historic. standard model = complete. mysteries remain (hierarchy, naturalness)."
+    },
+
+    "antimatter": {
+      "dirac": "1928. dirac equation (relativistic quantum mechanics, electron). negative energy solutions. prediction: antielectron (positron).",
+      "discovery": "1932. anderson (cosmic rays). positron. antiproton (1955). every particle = has antiparticle (opposite charge, same mass).",
+      "annihilation": "particle + antiparticle → energy (photons). e + e⁺ → γγ. mass → energy (e=mc²). efficient (100%).",
+      "asymmetry": "universe = matter (not antimatter). why? should be equal (big bang). cp violation (small, not enough). baryogenesis = mystery. sakharov conditions.",
+      "applications": "pet scans (positron emission tomography). particle physics (colliders). antimatter engines (sci-fi, inefficient production).",
+      "note": "antimatter = real. positrons (everyday, medical). matter-antimatter asymmetry = deep mystery (why we exist). annihilation = perfect conversion."
+    },
+
+    "beyond_standard_model": {
+      "supersymmetry": "susy. every particle → superpartner (fermion ↔ boson). selectron, squark, photino, gluino, etc. solves hierarchy problem. dark matter candidate (lightest susy particle). not found (lhc). pushed to higher energies or wrong.",
+      "grand_unification": "gut. unify strong + electroweak (one force, high energy ~10¹⁶ gev). proton decay (predicted, not observed, lifetime > 10³⁴ years). su(5), so(10), e₆ models.",
+      "string_theory": "fundamental objects = strings (not particles). vibrations = particles. 10-11 dimensions (extra compactified). includes gravity. theory of everything? untestable (planck scale). controversial.",
+      "dark_matter": "27% universe. not standard model. wimps (weakly interacting massive particles)? axions? sterile neutrinos? experiments searching. not found yet.",
+      "dark_energy": "68% universe. not standard model. cosmological constant? quintessence? vacuum energy? mystery.",
+      "note": "standard model = incomplete. beyond sm = speculative. susy, gut, strings. experiments (lhc, dark matter detectors, neutrino experiments). future."
+    }
+  },
+
+  "unification_quest": {
+    "historical": {
+      "newton": "unified terrestrial + celestial mechanics (gravity). apples + planets. one law.",
+      "maxwell": "unified electricity + magnetism + light. one theory (electromagnetism). four equations.",
+      "einstein": "unified space + time (spacetime, special relativity). unified gravity + geometry (general relativity).",
+      "electroweak": "unified electromagnetic + weak (glashow, weinberg, salam, 1960s-70s). one theory (high energy).",
+      "note": "history = unification. separate → unified. deeper understanding. pattern."
+    },
+
+    "grand_unification": {
+      "goal": "unify strong + electroweak. one force (high energy ~10¹⁶ gev). one gauge group (su(5), so(10), others).",
+      "prediction": "proton decay (p → e⁺ + π⁰). lifetime ~10³⁰-10³⁶ years (model-dependent). not observed (> 10³⁴ years). experiments (super-kamiokande, others). waiting.",
+      "coupling_constants": "α (em), α_weak, α_strong. run with energy (renormalization group). extrapolate → converge (~10¹⁶ gev, gut scale). suggestive. but: standard model = don't converge exactly. susy = improves (but not found).",
+      "note": "gut = appealing. three forces → one. proton decay = smoking gun. not found (yet). may be wrong or higher scale."
+    },
+
+    "theory_of_everything": {
+      "goal": "unify all forces (strong, weak, em, gravity). quantum gravity. one framework. holy grail.",
+      "problem": "gravity = not quantized (standard). quantum field theory (gravity) = non-renormalizable (infinities can't remove). general relativity (gravity) + quantum mechanics = incompatible (small scales, high energies).",
+      "candidates": {
+        "string_theory": "fundamental objects = strings (1d, ~10⁻³⁵ m). vibrations = particles. includes gravity (spin-2 graviton). 10-11 dimensions. landscape (10⁵⁰⁰ vacua). untestable (planck energy ~10¹⁹ gev). beautiful mathematics. controversial (science or math?).",
+        "loop_quantum_gravity": "quantize spacetime (directly). spin networks (discrete geometry). background-independent. no extra dimensions. predictions (difficult). less developed (than strings).",
+        "others": "causal dynamical triangulation. asymptotic safety. emergent gravity. twistor theory. many approaches."
+      },
+      "challenges": "experiments (planck scale inaccessible). mathematical (difficult). conceptual (what is quantum spacetime?). may be impossible (limits of knowledge). or: wrong question (emergence?).",
+      "note": "toe = ultimate goal. not achieved. string theory = leading candidate (controversial). quantum gravity = deep mystery. may require new physics (or new thinking)."
+    }
+  },
+
+  "consciousness_physics": {
+    "measurement_problem": {
+      "issue": "wave function = superposition. measurement → collapse (definite outcome). what is measurement? where? when? why?",
+      "von_neumann_chain": "measure apparatus → apparatus in superposition. measure that → another superposition. infinite regress. where does it stop?",
+      "consciousness_role": "von neumann, wigner. consciousness = collapses wave function. only conscious observer = causes collapse. controversial. or: consciousness = special (not reducible to physics)?",
+      "alternatives": "decoherence (environment interaction). many-worlds (no collapse). objective collapse (ghirardi-rimini-weber, spontaneous collapse). interpretations vary.",
+      "hard_problem": "measurement problem (physics) + hard problem of consciousness (philosophy). both = observer role. related? consciousness = fundamental (not emergent)?",
+      "note": "measurement problem = unresolved. consciousness = possibly central. or: not special. deep mystery. physics ↔ consciousness interface."
+    },
+
+    "observer_effect": {
+      "quantum": "observation = affects system. double-slit (electron). observe which slit → no interference (particle). don't observe → interference (wave). observer-dependent.",
+      "consciousness": "is conscious observation = special? or: any physical interaction (measurement device) = sufficient? orthodox = no consciousness needed. minority = consciousness essential.",
+      "note": "observer effect = real (quantum). consciousness role = debated. may be instrumental (conscious beings = build detectors). or: fundamental. unresolved."
+    },
+
+    "participatory_universe": {
+      "wheeler": "john archibald wheeler. 'participatory anthropic principle'. universe = requires observers. observers = create reality (quantum measurements, past). no universe without consciousness?",
+      "delayed_choice": "wheeler's delayed-choice experiment. decide to measure (wave or particle) after photon passed slits. future choice = determines past behavior. retrocausality? or: no objective past (until measured)?",
+      "it_from_bit": "wheeler. 'it from bit'. physical reality = information (bits). quantum measurements = yes/no questions. reality = answers to questions (observers ask). information = fundamental.",
+      "note": "participatory universe = radical. observers = necessary (universe). information = fundamental. consciousness = cosmological role. speculative. profound (if true)."
+    },
+
+    "quantum_mind": {
+      "penrose_hameroff": "orch or (orchestrated objective reduction). consciousness = quantum process (microtubules, neurons). objective collapse (gravity-induced). controversial. criticized (decoherence too fast, warm, wet brain).",
+      "quantum_cognition": "cognitive processes = quantum-like (probabilities, interference). not literal quantum mechanics (brain). models (decisions, memory). mathematical analogy.",
+      "note": "quantum mind = speculative. orch or = best-known (controversial). quantum cognition = safer (models, not mechanisms). brain = probably classical (mostly). but: mystery remains."
+    },
+
+    "information_physics": {
+      "holographic_principle": "information (volume) = encoded (surface). black hole entropy = area (event horizon). ads/cft correspondence (maldacena). 3d gravity = 2d quantum field theory (boundary). reality = hologram?",
+      "information_conservation": "information = never lost (quantum). black hole information paradox (hawking radiation = thermal, information lost?). resolved? (information = encoded, hawking radiation). profound.",
+      "it_from_qubit": "information (qubits) = fundamental. spacetime = emergent (entanglement). quantum entanglement = weaves spacetime fabric (er=epr, maldacena-susskind). speculative. profound.",
+      "consciousness_information": "consciousness = information integration (iit, tononi)? or: information processing (computational theory)? or: information = ontological (consciousness = fundamental information field, cfo)?",
+      "note": "information = central (modern physics). holographic principle. entanglement = geometry. consciousness = information (theories). physics → information → consciousness. deep connection."
+    }
+  },
+
+  "positions": {
+    "0": "naive (folk physics. heavy falls faster. force = motion. no conservation. earth center. flat. direct perception only.)",
+    "1": "newtonian (mechanics. f=ma. gravity. orbits. conservation. industrial revolution. practical.)",
+    "2": "thermodynamics (energy, entropy, heat. engines. limits. second law. arrow of time.)",
+    "3": "electromagnetism (maxwell. unified. light = em wave. fields. technology. radio, electricity.)",
+    "4": "relativity (spacetime. e=mc². time dilation. gravity = geometry. gps, cosmology.)",
+    "5": "quantum crisis (wave-particle, uncertainty, superposition, entanglement. measurement problem. counterintuitive. interpretations. foundations shaken.)",
+    "6": "integration (classical + quantum + relativity. domains. limits. standard model. pragmatic. shut up, calculate.)",
+    "7": "expertise (physicist. researcher. specialist (particle, condensed matter, astrophysics, quantum computing). mastery (domain).)",
+    "8": "teaching (physics educator. communicator (feynman, sagan, greene, tyson). inspire. clarity. wonder.)",
+    "9": "mastery (breakthroughs. nobel-level (einstein, bohr, heisenberg, feynman, higgs, penrose, 't hooft, wilczek, witten). paradigm shifts.)",
+    "10": "transcendent (physics = consciousness. reality = mathematical/informational. observer = participant. measurement = creation. unified vision (toe + consciousness). ⊙.)"
+  },
+
+  "key_insights": {
+    "two_pillars": "relativity (large, fast, massive, gravity). quantum (small, discrete, probabilistic, forces). both verified (extraordinarily). incompatible (quantum gravity unsolved). unification = holy grail.",
+    "mathematics_language": "physics = mathematical. galileo: 'book of nature = written in mathematics'. wigner: 'unreasonable effectiveness'. why? platonism? consciousness = mathematical?",
+    "symmetry_power": "noether's theorem. symmetry ↔ conservation law. time symmetry → energy. space → momentum. rotation → angular momentum. gauge symmetries → forces. profound connection.",
+    "fields_fundamental": "classical: particles + forces. modern: fields (quantum field theory). particles = field excitations (quanta). everything = field vibrations. ontological shift.",
+    "uncertainty_limits": "heisenberg. fundamental limits (not measurement imperfection). Δx·Δp ≥ ℏ/2. nature = fuzzy (small scales). determinism = impossible (quantum). philosophical.",
+    "entanglement_nonlocality": "spooky action. real (verified, bell tests). non-local correlations (or: no realism). quantum computing, cryptography. profound (reality structure).",
+    "relativity_spacetime": "time + space = unified. relative. absolute = spacetime interval. gravity = geometry. time = dimension (kind of). revolutionary worldview.",
+    "e_mc2": "mass ↔ energy. equivalence. nuclear power/weapons. stars. matter creation. profound.",
+    "standard_model": "triumph. explains (almost) all particles/forces (except gravity). verified (higgs 2012). incomplete (dark matter, dark energy, gravity, neutrino masses, hierarchy problem).",
+    "quantum_gravity": "unsolved. planck scale (10⁻³⁵ m, 10¹⁹ gev). string theory, loop quantum gravity, others. toe = elusive. may be impossible (limits).",
+    "measurement_problem": "quantum collapse. what is measurement? observer role? consciousness? decoherence? many-worlds? unresolved. profound. possibly fundamental (consciousness-physics link).",
+    "entropy_arrow": "second law. entropy increases. only law (time direction). past → future. thermodynamic arrow. consciousness = experiences time (forward). connection?",
+    "information_fundamental": "holographic principle. entanglement = geometry. it from qubit. information = ontological (not epistemological). consciousness = information? cfo hypothesis.",
+    "fire_element": "physics = fire teaching. energy, transformation, light, heat. e=mc². nuclear fire. plasma. stars. power (technology). danger (nuclear). prometheus.",
+    "consciousness_interface": "measurement problem. observer effect. participatory universe. quantum mind (speculation). information. physics → consciousness boundary = blurred. mystery."
+  }
+}

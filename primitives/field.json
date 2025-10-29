@@ -1,0 +1,420 @@
+{
+  "_meta": {
+    "id": "cfo:primitive:field",
+    "type": "Primitive",
+    "element": "EARTH",
+    "dimension": "3D",
+    "fractal_depth": 0,
+    
+    "contains": [
+      "cfo:primitive:point",
+      "cfo:primitive:line",
+      "cfo:primitive:plane"
+    ],
+    
+    "contained_by": [
+      "cfo:primitive:tesseract"
+    ],
+    
+    "composes_from": [
+      "cfo:primitive:plane"
+    ],
+    
+    "composes_to": [
+      "cfo:primitive:tesseract"
+    ],
+    
+    "note": "Field = 3D. Volume. Context. Container. Medium pervading space. Where all lower dimensions exist."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ manifests as field. Space itself. Context for all.",
+    "essence": "Volume. Context. Medium. Space pervading everywhere.",
+    "formula": "□ × ⊥ = ◊ (plane × perpendicular = field)",
+    "earth": "Solid, manifested, contextual, containing. Ground of being.",
+    "pervading": "Field = everywhere simultaneously. Non-local presence.",
+    "note": "All existence happens IN field. Field = stage for reality."
+  },
+
+  "_links": {
+    "source": "./plane.json",
+    "related_files": [
+      "./point.json",
+      "./line.json",
+      "./tesseract.json",
+      "../../fundamental/form.json",
+      "../../fundamental:energy.json",
+      "../../paths/earth-path.json"
+    ]
+  },
+
+  "name": "Field",
+  "essence": "3-dimensional primitive. Volume. Context. Medium. Space pervading all directions. Container for reality.",
+  
+  "description": "Field = extension in THREE directions. Length AND width AND height. Volume. Space. Context. Continuous distribution across 3D. Value (or vector) assigned to every point in space. Field pervades - it's everywhere simultaneously. Gravitational field, electromagnetic field, temperature field, consciousness field. Medium through which things move, interact, exist. EARTH element: solid manifestation, contextual container, grounding presence, material reality.",
+
+  "dimensional_properties": {
+    "dimension": "3D",
+    "spatial_extent": "Volume (length × width × height)",
+    "degrees_of_freedom": 3,
+    "coordinates": "Three parameters (x,y,z) or (r,θ,φ)",
+    "volume": "Can be finite or infinite",
+    "surface_area": "2D boundary (closed or open)",
+    "continuity": "Usually continuous (no gaps)"
+  },
+
+  "field_types": {
+    "scalar_field": {
+      "definition": "φ: ℝ³ → ℝ (assigns single number to each point)",
+      "examples": [
+        "Temperature T(x,y,z) - how hot at each location",
+        "Pressure P(x,y,z) - atmospheric pressure field",
+        "Density ρ(x,y,z) - mass per volume",
+        "Gravitational potential φ(r) - energy per mass",
+        "Electric potential V(r) - voltage field",
+        "Probability density |ψ|² - quantum likelihood"
+      ],
+      "operations": {
+        "gradient": "∇φ → vector field (direction of steepest increase)",
+        "laplacian": "∇²φ → scalar field (how much it 'spreads')"
+      },
+      "visualization": "Heat map, contour lines, color coding"
+    },
+    
+    "vector_field": {
+      "definition": "F: ℝ³ → ℝ³ (assigns vector/arrow to each point)",
+      "examples": [
+        "Velocity field v(x,y,z) - fluid flow, wind",
+        "Electric field E(r) - force per charge",
+        "Magnetic field B(r) - force on moving charge",
+        "Gravitational field g(r) - force per mass",
+        "Force field F(x,y,z) - push/pull at each point"
+      ],
+      "operations": {
+        "divergence": "∇·F → scalar (how much flows out)",
+        "curl": "∇×F → vector (how much it spins)"
+      },
+      "visualization": "Arrows, streamlines, flow lines"
+    },
+    
+    "tensor_field": {
+      "definition": "T: ℝ³ → ℝ³ˣ³ (assigns matrix to each point)",
+      "examples": [
+        "Stress tensor σᵢⱼ - forces in material",
+        "Metric tensor gμν - spacetime curvature",
+        "Electromagnetic tensor Fμν - E and B unified",
+        "Strain tensor εᵢⱼ - deformation"
+      ],
+      "note": "Advanced. Generalizes scalar (0 indices) and vector (1 index) to 2+ indices."
+    }
+  },
+
+  "field_equations": {
+    "laplace": {
+      "equation": "∇²φ = 0",
+      "meaning": "Field in empty space (no sources)",
+      "examples": "Electric potential between charges, steady heat flow"
+    },
+    
+    "poisson": {
+      "equation": "∇²φ = -ρ/ε₀",
+      "meaning": "Field with sources (charges, masses, heat sources)",
+      "examples": "Gravity around planet, E-field from charge distribution"
+    },
+    
+    "wave_equation": {
+      "equation": "∂²φ/∂t² = c²∇²φ",
+      "meaning": "Propagating disturbance through field",
+      "examples": "Light, sound, water waves, quantum wavefunctions"
+    },
+    
+    "diffusion": {
+      "equation": "∂φ/∂t = D∇²φ",
+      "meaning": "Spreading out over time",
+      "examples": "Heat diffusion, chemical spreading, probability spreading"
+    },
+    
+    "maxwell": {
+      "equations": [
+        "∇·E = ρ/ε₀ (Gauss - charges create E)",
+        "∇·B = 0 (no magnetic monopoles)",
+        "∇×E = -∂B/∂t (Faraday - changing B creates E)",
+        "∇×B = μ₀j + μ₀ε₀∂E/∂t (Ampere-Maxwell - currents + changing E create B)"
+      ],
+      "meaning": "Complete theory of electromagnetic field",
+      "note": "Unified E and B. Predicted light = EM wave. Foundation of modern physics."
+    },
+    
+    "einstein": {
+      "equation": "Gμν = 8πG/c⁴ × Tμν",
+      "meaning": "Spacetime curvature = mass-energy",
+      "note": "Gravity = geometry. Mass curves spacetime field. Revolutionary."
+    }
+  },
+
+  "operations": [
+    "integrate (sum over volume)",
+    "differentiate (how field changes)",
+    "gradient ∇ (direction of change)",
+    "divergence ∇· (outflow)",
+    "curl ∇× (rotation)",
+    "laplacian ∇² (spreading)",
+    "convolve (blend/smooth)",
+    "sample (measure at point)"
+  ],
+
+  "composition": {
+    "from_planes": {
+      "stack": "Infinite parallel planes → volume",
+      "extrude": "Move plane perpendicular → 3D field",
+      "formula": "□ + ⊥movement = ◊"
+    },
+    
+    "from_lines": {
+      "radial": "Lines radiating from point → 3D",
+      "grid": "3D lattice of lines → coordinate system",
+      "fill": "Lines in all directions → volume"
+    },
+    
+    "from_points": {
+      "continuum": "∞³ points = continuous 3D field",
+      "lattice": "Regular 3D array (crystal)",
+      "sample": "Discrete points approximate continuous field"
+    },
+    
+    "to_4D": {
+      "time_evolution": "Field changing over time → 4D spacetime",
+      "tesseract": "Field × W-axis → hypervolume",
+      "formula": "◊ × time = tesseract"
+    }
+  },
+
+  "manifestations": {
+    "physical_classical": {
+      "gravity": "g(r) = -GM/r² r̂ - every mass creates field",
+      "electric": "E(r) = kQ/r² r̂ - every charge creates field",
+      "magnetic": "B(r) from currents - moving charges create B",
+      "temperature": "T(x,y,z,t) - heat distributed through space",
+      "pressure": "P(x,y,z) - atmospheric pressure field",
+      "sound": "Pressure waves in air = oscillating field"
+    },
+    
+    "physical_quantum": {
+      "wavefunction": "ψ(x,y,z,t) - probability amplitude field",
+      "quantum_fields": "φ(x,t) in QFT - particles = excitations of fields",
+      "vacuum_field": "Zero-point energy everywhere (Casimir effect)",
+      "higgs_field": "Pervades all space, gives particles mass",
+      "note": "In QFT, particles don't exist. Only fields. Particles = ripples in fields."
+    },
+    
+    "information": {
+      "probability": "P(x,y,z) - likelihood distribution in 3D",
+      "semantic_space": "Word embeddings in high-D (projected to 3D)",
+      "neural_activation": "Activation map in brain = 3D field",
+      "data_density": "Information per volume"
+    },
+    
+    "consciousness": {
+      "awareness_field": "Attention distributed across 3D sensory space",
+      "mood_atmosphere": "Emotional tone pervading experience",
+      "group_consciousness": "Shared awareness in physical space (room)",
+      "collective_field": "Cultural zeitgeist, social atmosphere",
+      "presence": "Being-here-now = resting in field of present"
+    },
+    
+    "biological": {
+      "morphogen_gradient": "Chemical field guides development (embryo)",
+      "pheromone_field": "Scent field for communication (ants)",
+      "biofield": "Electromagnetic field around living organisms",
+      "mycelium_network": "Fungal network = distributed field intelligence"
+    }
+  },
+
+  "field_as_earth": {
+    "solid": "Earth = most solid element. Field = most solid dimension (3D matter).",
+    "manifested": "Field = actual, present, here. Not potential (point), not process (line), not pattern (plane). Real.",
+    "contextual": "Field = context for everything. Stage. Ground. Medium.",
+    "containing": "Field contains points, lines, planes. Container for all lower dimensions.",
+    "grounding": "Consciousness grounds in body (3D field). Presence = being in field.",
+    "material": "Matter = 3D. Physical reality = field of particles/atoms."
+  },
+
+  "field_coherence": {
+    "definition": "Field coherent when parts connected, aligned, unified",
+    
+    "measures": {
+      "correlation_length": "ξ - how far coherence extends",
+      "coherence_time": "τc - how long coherence lasts",
+      "phase_alignment": "Δφ - how synchronized",
+      "information_density": "I/V - bits per volume"
+    },
+    
+    "examples": {
+      "laser": "Photons in phase → coherent light field",
+      "BEC": "Bose-Einstein condensate - atoms in same quantum state",
+      "crystal": "Ordered lattice = coherent atomic field",
+      "focused_mind": "Attention unified → coherent consciousness field",
+      "harmonious_group": "Aligned intention → coherent social field"
+    },
+    
+    "formula": "coherence = (connections × dimensions) / entropy"
+  },
+
+  "field_collapse": {
+    "principle": "Entire 3D field at level N → 0D point at level N+1",
+    
+    "quantum_measurement": {
+      "before": "ψ(x,y,z) - wavefunction spread across space",
+      "measurement": "Observer collapses field",
+      "after": "Particle at definite position (point)",
+      "note": "Entire field → single point. 3D → 0D."
+    },
+    
+    "consciousness": {
+      "diffuse": "Awareness spread across sensory field",
+      "focus": "Attention collapses to single object (point)",
+      "decision": "Considering options (field) → choosing one (point)"
+    },
+    
+    "social": {
+      "culture": "Ideas floating in cultural field",
+      "individual": "Person crystallizes idea into action (point event)"
+    },
+    
+    "fractal_cycle": "(↓ entity → vector → plane → **field** → consciousness → entity ↑)∞"
+  },
+
+  "field_and_medium": {
+    "principle": "Field = medium through which things propagate",
+    
+    "wave_medium": {
+      "sound": "Pressure waves in air/water field",
+      "water_waves": "Surface waves on water field",
+      "seismic": "Compression/shear waves in earth field",
+      "light": "EM waves in... what? (No medium! Field IS the medium.)"
+    },
+    
+    "aether_debate": {
+      "19th_century": "Light needs medium ('aether') to propagate?",
+      "michelson_morley": "1887 - no aether detected",
+      "einstein": "1905 - don't need aether. EM field = fundamental. Not in something, IS something.",
+      "modern": "Quantum field = fundamental. Spacetime = field. Reality = fields all the way down."
+    }
+  },
+
+  "paradoxes": {
+    "action_at_distance": {
+      "problem": "How does Sun pull Earth across 93 million miles?",
+      "newton": "Gravity just does (no explanation)",
+      "field_resolution": "Sun creates gravitational field everywhere. Earth responds to local field.",
+      "note": "Fields solve action-at-distance. Everything local. Field mediates."
+    },
+    
+    "field_or_particles": {
+      "classical": "Particles move through fields",
+      "quantum": "Particles ARE excitations of fields (QFT)",
+      "paradox": "What's fundamental - particles or fields?",
+      "modern_answer": "Fields fundamental. Particles = quantized ripples."
+    },
+    
+    "empty_space": {
+      "classical": "Space = nothing, empty container",
+      "quantum": "Space = field with zero-point energy. Never empty.",
+      "vacuum_energy": "~10¹¹³ J/m³ (theoretical, not observed)",
+      "note": "Even 'empty' space full of fields."
+    }
+  },
+
+  "field_in_traditions": {
+    "akasha": {
+      "tradition": "Hindu, Buddhist",
+      "meaning": "Space. Aether. Fifth element. Field pervading all.",
+      "quality": "Subtle, containing, all-pervasive",
+      "teaching": "Akasha = field in which all exists. Container. Medium. Space itself."
+    },
+    
+    "qi": {
+      "tradition": "Chinese (Taoism, TCM)",
+      "meaning": "Vital energy. Life force field.",
+      "flowing": "Qi flows through body (meridians), through land (feng shui)",
+      "health": "Blocked qi = disease. Flowing qi = health.",
+      "note": "Qi = energy field. Acupuncture = field manipulation."
+    },
+    
+    "prana": {
+      "tradition": "Hindu, Yoga",
+      "meaning": "Life force. Vital energy field.",
+      "breath": "Pranayama = breath control = field modulation",
+      "chakras": "Energy centers = field concentrations",
+      "note": "Prana = field of life energy pervading body and cosmos."
+    },
+    
+    "morphic_field": {
+      "tradition": "Rupert Sheldrake (modern)",
+      "meaning": "Information field shaping form and behavior",
+      "examples": "Species memory, habit fields, collective knowing",
+      "controversial": "Not accepted by mainstream science (yet?)"
+    }
+  },
+
+  "scientific_validation": {
+    "physics": {
+      "classical_fields": "Gravity, E&M completely described by field equations",
+      "quantum_fields": "QFT = most accurate theory ever (electron g-factor to 12 decimals)",
+      "general_relativity": "Spacetime itself = dynamical field",
+      "confidence": 1.0
+    },
+    
+    "biology": {
+      "morphogen_gradients": "Well-documented in development (Drosophila, etc.)",
+      "bioelectricity": "Cell membrane potentials = electric fields guiding growth",
+      "confidence": 0.95
+    },
+    
+    "neuroscience": {
+      "neural_fields": "Population activity = continuous field approximation",
+      "attention_maps": "Brain creates spatial maps = 2D/3D field representations",
+      "confidence": 0.90
+    }
+  },
+
+  "positions_on_path": {
+    "0": "Unaware of field. Objects exist in 'empty space'.",
+    "1-2": "Learning field. Understanding continuous distribution.",
+    "3-4": "Experiencing field. Feeling atmosphere, presence, medium.",
+    "5": "Field crisis. 'Is everything just vibrations in fields? Am I field?'",
+    "6-7": "Field as reality. Recognizing: particles = field excitations. Matter = dense field.",
+    "8-9": "Living as field. Presence pervading. Consciousness = field of awareness.",
+    "10": "Field = ⊙. All fields = one field. Absolute pervading as space itself."
+  },
+
+  "practice": "Sit. Feel space around you. Not empty. Full. Pervaded by fields (gravity, EM, quantum vacuum, awareness). You IN field and you ARE field (body = matter field). Rest in field presence.",
+
+  "recognition": "Everything happens IN fields. Gravity field, EM field, quantum fields, consciousness field. Fields fundamental. Particles = ripples. You = pattern in fields. Space = field of being.",
+
+  "deepening": [
+    "Study Maxwell equations. See unity of E and B. Fields unified.",
+    "Contemplate: 'Empty' space not empty. Quantum vacuum = sea of fields.",
+    "Feel: Your body = concentrated field (matter). Space = diffuse field (vacuum). Same substance.",
+    "Recognize: Consciousness = field of awareness. Not in brain only. Pervades experience.",
+    "Meditate: Rest as field. Spacious presence. Containing all, pervading all."
+  ],
+
+  "danger": "Forgetting point, line, plane. Field contains all, but IS all. Don't lose focus (point), direction (line), relationship (plane) in field immersion.",
+
+  "balance": "Point (focus) ⟷ Field (context). Line (direction) ⟷ Field (omnidirectional). Plane (interface) ⟷ Field (volume). Local ⟷ Non-local.",
+
+  "infinity": {
+    "fractal": "Field contains ∞ planes containing ∞ lines containing ∞ points. ∞³.",
+    "holographic": "Each region of field contains info about whole field (holographic principle).",
+    "recursion": "Field at scale N → point at scale N+1. Volume becomes location. Context becomes entity.",
+    "ultimate": "All fields = ⊙ manifesting as space. Absolute as medium. God as ground of being.",
+    "note": "(↓ • → — → □ → ◊ ↑)∞ = complete cycle. Field completes 3D, collapses to point, begins again."
+  },
+
+  "fractal_property": {
+    "self_similar": "Field at any scale. Quantum field, body (matter field), planet (gravity field), galaxy. All ◊.",
+    "contains_whole": "Each volume of field = complete microcosm. Holographic. Part = whole.",
+    "example": "Quantum vacuum = field everywhere. Each cubic centimeter contains infinite virtual particles. Entire universe potential in every point of field. ∞ in ◊."
+  }
+}

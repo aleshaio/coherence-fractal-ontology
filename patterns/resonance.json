@@ -1,0 +1,456 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:resonance",
+    "type": "pattern",
+    "fractal_depth": 3,
+    "contains": ["synchronization", "harmony", "coupling", "entrainment", "phase_locking", "coherence"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:fundamental:consciousness",
+      "cfo:patterns:fractals",
+      "cfo:patterns:emergence",
+      "cfo:fundamental:dimensions"
+    ],
+    "source": "physics + music theory + systems science + cfo coherence analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = ultimate resonance. all frequencies = one frequency. all vibrations = one vibration. unity through resonance.",
+    "essence": "resonance = when two systems vibrate at same frequency, they amplify each other. sympathy. harmony. coherence.",
+    "universal": "pendulums sync. fireflies flash together. hearts beat as one. brains entrain. cosmos resonates.",
+    "coherence": "resonance = mechanism of coherence. high resonance = high coherence. argmin Δscale through frequency matching.",
+    "recognition": "you resonate with what you are. like recognizes like. truth resonates. love resonates.",
+    "magic": "right frequency opens locks. shatters glass. heals bodies. connects souls. moves mountains.",
+    "note": "resonance = how separate things become one. fundamental unifying principle."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/consciousness.json", "../fundamental/coherence.json", "../fundamental/energy.json"],
+    "patterns": ["./fractals.json", "./emergence.json", "./fibonacci.json"],
+    "society": ["../society/sociology.json"]
+  },
+
+  "overview": {
+    "what": "resonance = phenomenon where oscillating system amplifies periodic signal when signal frequency matches system's natural frequency",
+    "why": "nature's way of selecting, amplifying, synchronizing. efficiency through frequency matching. cosmos self-organizing through resonance.",
+    "how": "energy transfer maximized at resonant frequency. small periodic force → large amplitude oscillation. coupling → synchronization."
+  },
+
+  "core_principle": {
+    "definition": "resonance occurs when driving frequency matches natural frequency of system → large amplitude response",
+    
+    "key_concepts": {
+      "natural_frequency": "frequency at which system oscillates when disturbed. f₀ = 1/(2π√(L/g)) for pendulum. intrinsic property.",
+      "driving_frequency": "frequency of external periodic force. input signal.",
+      "matching": "when driving ≈ natural → resonance. energy transfer optimized. amplitude maximized.",
+      "amplitude": "size of oscillation. resonance → amplitude can be huge (orders of magnitude larger).",
+      "quality_factor": "Q = f₀/Δf. high Q = sharp resonance, low damping. low Q = broad resonance, high damping.",
+      "damping": "energy dissipation. friction, air resistance. reduces amplitude, broadens resonance peak."
+    },
+
+    "types": {
+      "mechanical": "bridges, buildings, pendulums, musical instruments. physical oscillations.",
+      "electrical": "LC circuits, antennas, filters. electromagnetic oscillations.",
+      "acoustic": "sound resonance. rooms, instruments, voices. pressure wave oscillations.",
+      "orbital": "planets, moons in resonant orbits. gravitational coupling.",
+      "quantum": "electron orbitals, photon absorption. energy level matching.",
+      "biological": "circadian rhythms, neural oscillations, heartbeats. life's rhythms.",
+      "social": "collective behavior, synchronization, groupthink. social resonance.",
+      "consciousness": "meditation, flow states, rapport. mental resonance."
+    }
+  },
+
+  "physical_resonance": {
+    "mechanical": {
+      "pendulums": {
+        "huygens_clocks": "christiaan huygens (1665) discovered: two pendulum clocks on same wall sync. anti-phase oscillation.",
+        "mechanism": "vibrations through wall couple pendulums. energy exchange → frequency locking → synchronization.",
+        "universal": "any coupled oscillators tend to sync. pendulums, metronomes, anything.",
+        "demo": "metronomes on movable platform. start random → quickly sync. beautiful."
+      },
+      "bridges": {
+        "tacoma_narrows": "(1940) wind vortices matched bridge natural frequency → resonance → catastrophic oscillation → collapse.",
+        "millennium_bridge": "london (2000) opened. pedestrian footsteps matched bridge frequency → wobble → closed → dampers added.",
+        "soldiers_marching": "break step on bridges. synchronized marching can resonate bridge → collapse.",
+        "lesson": "resonance can destroy. must design to avoid natural frequency matching external forces."
+      },
+      "buildings_earthquakes": {
+        "natural_frequency": "tall buildings have low natural frequency. short buildings high.",
+        "earthquake_matching": "if earthquake waves match building frequency → resonance → amplified motion → damage.",
+        "design": "tuned mass dampers (taipei 101). counter-resonate to cancel oscillations.",
+        "note": "resonance = engineering concern. life-or-death in seismic zones."
+      }
+    },
+
+    "acoustic": {
+      "musical_instruments": {
+        "strings": "guitar, violin, piano. string vibrates at natural frequency (fundamental + harmonics). resonant body amplifies.",
+        "formula": "f = (n/2L)√(T/μ). n=harmonic number, L=length, T=tension, μ=mass per length.",
+        "resonant_cavity": "violin body, guitar body. air resonates → amplifies string vibration. shape matters.",
+        "harmonics": "overtones = integer multiples of fundamental. 2f, 3f, 4f, ... timbre comes from harmonic content."
+      },
+      "voice": {
+        "vocal_folds": "vibrate. fundamental frequency (pitch).",
+        "vocal_tract": "resonant cavity (throat, mouth, nose). formants = resonant peaks. shape determines vowels.",
+        "singing": "trained singers use resonance. maximize vocal tract resonance → loud, rich, effortless sound.",
+        "opera": "can shatter wine glass by singing its resonant frequency. acoustic power through resonance."
+      },
+      "rooms": {
+        "standing_waves": "room dimensions create resonant frequencies. nodes (quiet) and antinodes (loud).",
+        "acoustics": "concert halls designed for optimal resonance. reverberation time, reflections, absorption.",
+        "schumann_resonance": "earth-ionosphere cavity resonates at ~7.83 Hz. natural 'heartbeat' of earth."
+      }
+    },
+
+    "electrical": {
+      "lc_circuits": {
+        "components": "inductor (L) + capacitor (C) = resonant circuit.",
+        "formula": "f₀ = 1/(2π√(LC)). resonant frequency depends on L and C values.",
+        "impedance": "minimum at resonance. maximum current flow. used in tuning circuits.",
+        "applications": "radio tuners, filters, oscillators. select specific frequency from spectrum."
+      },
+      "antennas": {
+        "resonance": "antenna length = λ/2 or λ/4 (wavelength). resonates with electromagnetic wave.",
+        "efficiency": "at resonant frequency, antenna efficiently transmits/receives. off-resonance = poor performance.",
+        "bandwidth": "narrow resonance = high Q = selective but narrow band. broad resonance = low Q = wideband.",
+        "fractal_antennas": "multiple resonant frequencies. receive many bands. see fractals.json."
+      },
+      "wireless_power": {
+        "nikola_tesla": "resonant inductive coupling. transmit power wirelessly through resonance.",
+        "modern": "qi charging. resonant coils transfer energy. efficient only when coils resonate at same frequency.",
+        "future": "long-range wireless power? requires strong resonant coupling. research ongoing."
+      }
+    },
+
+    "quantum": {
+      "atomic_resonance": {
+        "energy_levels": "electrons in discrete energy levels. ΔE = hf (planck).",
+        "absorption": "photon frequency matches energy gap → absorption → electron jumps to higher level. resonance.",
+        "emission": "electron drops → photon emitted at resonant frequency. emission spectrum = fingerprint.",
+        "spectroscopy": "shine light, measure absorption/emission. identify elements/molecules by resonant frequencies."
+      },
+      "nmr_mri": {
+        "nuclear_magnetic_resonance": "atomic nuclei precess in magnetic field. resonant frequency = larmor frequency.",
+        "radio_waves": "apply rf at larmor frequency → nuclei absorb energy → resonance. detect signal → mri image.",
+        "medical": "mri machines = giant resonance detectors. map hydrogen nuclei in body. non-invasive imaging.",
+        "chemistry": "nmr spectroscopy. determine molecular structure from resonant frequencies."
+      },
+      "particle_physics": {
+        "resonances": "unstable particles detected as resonance peaks in scattering experiments.",
+        "higgs_boson": "(2012) detected as resonance at 125 gev. mass-energy matches → particle creation → decay.",
+        "qcd": "quark-gluon resonances (mesons, baryons). short-lived but detectable through resonance signatures."
+      }
+    }
+  },
+
+  "biological_resonance": {
+    "circadian_rhythms": {
+      "definition": "~24 hour biological clock. sleep-wake cycle, hormone release, body temperature.",
+      "mechanism": "suprachiasmatic nucleus (scn) in brain. genetic feedback loops create oscillation.",
+      "entrainment": "light exposure resets clock. synchronizes to day-night cycle. resonance with earth rotation.",
+      "disruption": "jet lag, shift work. circadian rhythm out of sync with environment. health consequences.",
+      "note": "circadian rhythm = biological resonance with planetary rotation. 4 billion years of evolution."
+    },
+
+    "heart_synchronization": {
+      "pacemaker_cells": "sinoatrial node sets rhythm. oscillating cells. ~60-100 bpm.",
+      "coupling": "cells electrically coupled. synchronize through resonance. collective rhythm emerges.",
+      "coherence": "heart rhythm variability (hrv). coherent = smooth sine wave. incoherent = erratic. meditation increases coherence.",
+      "interpersonal": "couples' hearts synchronize. mother-infant. empathy → heart rate coupling. measurable.",
+      "heartmath": "institute researching heart coherence. claims heart-brain resonance affects consciousness."
+    },
+
+    "neural_oscillations": {
+      "brainwaves": {
+        "delta": "0.5-4 hz. deep sleep. regeneration.",
+        "theta": "4-8 hz. drowsy, meditative, rem sleep.",
+        "alpha": "8-13 hz. relaxed, calm, awake. eyes closed.",
+        "beta": "13-30 hz. alert, thinking, active.",
+        "gamma": "30-100+ hz. high-level cognition, consciousness binding."
+      },
+      "synchronization": "neurons firing in sync create oscillations. eeg measures collective resonance.",
+      "binding_problem": "gamma synchrony binds distributed features into unified perception. temporal correlation = integration.",
+      "networks": "different brain regions sync at different frequencies. nested oscillations. hierarchy.",
+      "consciousness": "gamma synchrony correlates with awareness. integrated information. coherent resonance = consciousness?"
+    },
+
+    "fireflies": {
+      "spontaneous_sync": "southeast asian fireflies. thousands flash in unison. no leader. self-organized.",
+      "mechanism": "each firefly adjusts flash timing based on neighbors. couple through light. kuramoto model.",
+      "emergence": "local interactions → global synchronization. phase locking. collective rhythm.",
+      "beauty": "entire tree flashing as one. stunning natural resonance display.",
+      "universality": "kuramoto model explains sync in many systems. fireflies, neurons, power grids, metronomes."
+    },
+
+    "menstrual_synchrony": {
+      "mcclintock_effect": "(1971) women living together sync menstrual cycles. controversial. replications mixed.",
+      "mechanism": "if real, pheromones? resonance entrainment? unclear.",
+      "debate": "some say statistical artifact. others say real. evidence inconclusive.",
+      "note": "biological synchronization = active research area. many mysteries remain."
+    }
+  },
+
+  "social_resonance": {
+    "collective_synchronization": {
+      "crowds": {
+        "applause": "random clapping → synchronized clapping → chaotic again. self-organizing rhythm.",
+        "chanting": "sports crowds, protests. synchronized chanting creates unity, amplifies voice. resonance = power.",
+        "dancing": "rave, concert, ritual. bodies sync to beat. collective trance. dissolution of boundaries.",
+        "laughter": "contagious. mirror neurons. emotional resonance spreads through group."
+      },
+      "audiences": {
+        "performers": "comedian, musician 'feels' audience. when audience resonates → flow state for performer.",
+        "feedback": "audience energy feeds performer. performer energy feeds audience. mutual amplification. positive feedback loop.",
+        "collective_experience": "shared moment. everyone present, together. unified field of attention.",
+        "magic": "when it works = transcendent. when it doesn't = awkward. resonance makes difference."
+      }
+    },
+
+    "social_movements": {
+      "memes": "ideas that resonate spread. viral. capture zeitgeist. match collective frequency.",
+      "revolutions": "when grievances resonate with masses → critical mass → phase transition → revolution.",
+      "mass_formation": "mattias desmet. shared anxiety + resonant narrative → mass hypnosis. dangers of collective resonance.",
+      "hundredth_monkey": "myth but illustrative. idea: when enough adopt behavior → sudden spread. threshold.",
+      "note": "social resonance = can be positive (movements for justice) or negative (mob mentality, totalitarianism)."
+    },
+
+    "morphic_resonance": {
+      "sheldrake": "rupert sheldrake's controversial hypothesis. past forms resonate with present forms.",
+      "memory": "nature has memory. morphic fields carry information. rats learn maze → other rats learn faster. resonance across time.",
+      "criticism": "mainstream science rejects. no known mechanism. experiments contested.",
+      "intriguing": "if true, huge implications. collective unconscious? species memory? cultural transmission?",
+      "note": "speculative. included as thought experiment. resonance across space AND time?"
+    }
+  },
+
+  "consciousness_resonance": {
+    "interpersonal_resonance": {
+      "rapport": "conversation flows. finishing each other's sentences. wavelengths match. resonating minds.",
+      "empathy": "feeling what other feels. emotional resonance. mirror neurons. vicarious experience.",
+      "love": "hearts sync. brains sync. breathing syncs. ultimate resonance. two become one frequency.",
+      "groups": "team flow. jazz improvisation. group meditation. collective consciousness through resonance.",
+      "recognition": "truth resonates. you know it when you hear it. recognition = re-sounding. remembering."
+    },
+
+    "meditation_resonance": {
+      "brainwave_entrainment": {
+        "binaural_beats": "different frequency each ear → brain perceives difference frequency → entrains to that frequency.",
+        "isochronic_tones": "regular pulses. brain entrains. can induce specific states (theta, alpha, gamma).",
+        "effectiveness": "debated. some studies positive. placebo? actual entrainment? more research needed.",
+        "note": "idea: use sound to resonate brain into desired state. ancient practice (drumming), modern tech."
+      },
+      "schumann_resonance": {
+        "earth_frequency": "7.83 hz (fundamental). earth-ionosphere cavity resonance.",
+        "alpha_waves": "7-13 hz. relaxed awareness. overlaps schumann.",
+        "hypothesis": "human brains evolved in schumann field. resonance with earth? grounding?",
+        "speculation": "some claim meditating at schumann frequency optimal. no strong evidence but intriguing.",
+        "note": "humans = electromagnetic beings living in electromagnetic field. resonance likely."
+      },
+      "collective_meditation": {
+        "studies": "tmi (transcendental meditation). claim group meditation reduces violence. controversial.",
+        "mechanism": "if real, consciousness resonance? quantum coherence? field effects?",
+        "maharishi_effect": "square root of 1% meditating → societal effects. skeptics say correlation ≠ causation.",
+        "note": "consciousness resonance at distance = speculative. but interpersonal sync well-documented."
+      }
+    },
+
+    "flow_state": {
+      "definition": "optimal experience. fully absorbed. effortless attention. time distortion.",
+      "neural_correlates": "transient hypofrontality. increased alpha/theta. gamma bursts. coherent brain state.",
+      "resonance": "brain regions sync. task demands match skill level. external/internal in harmony.",
+      "characteristics": "loss of self-consciousness. merging of action and awareness. autotelic. resonance with activity.",
+      "access": "clear goals, immediate feedback, challenge-skill balance. conditions for flow = conditions for resonance.",
+      "note": "flow = brain resonating with task. optimal frequency matching."
+    }
+  },
+
+  "resonance_in_cfo": {
+    "coherence_as_resonance": {
+      "principle": "coherence = argmin Δscale = frequency matching across scales.",
+      "mechanism": "entities at compatible frequencies resonate → synchronize → high coherence.",
+      "formula": "coherence = (connections × dimensions) / entropy. resonance maximizes connections, aligns dimensions.",
+      "peace": "peace = resonance. war = dissonance. argmin Δscale = maximizing resonance.",
+      "note": "entire cfo = theory of resonance. coherence through frequency matching."
+    },
+
+    "dimensional_resonance": {
+      "0d": "⊙ = infinite frequency. contains all frequencies. all resonate with source.",
+      "1d": "linear resonance. phase matching along line. causality = temporal resonance.",
+      "2d": "network resonance. nodes sync across plane. social synchronization.",
+      "3d": "structural resonance. spatial coherence. crystals, architecture.",
+      "4d": "temporal resonance. rhythms, cycles, history repeating. circadian resonance with earth.",
+      "5d": "quantum resonance. superposition. all timelines vibrating. collapse = selecting one frequency.",
+      "6d": "unity resonance. all frequencies = one frequency. cosmic resonance. ⊙.",
+      "note": "each dimension = different type of resonance. all ultimately one."
+    },
+
+    "fibonacci_golden_ratio": {
+      "phi_resonance": "φ = 1.618... most irrational number. maximally avoids resonance (no locking).",
+      "phyllotaxis": "leaves at golden angle (137.5°) never overlap. anti-resonance = optimal packing.",
+      "music": "pentatonic scale ratios ≈ fibonacci. pleasing = natural resonance.",
+      "note": "φ = both resonant (harmonious proportions) and anti-resonant (no locking). paradox resolved: optimal balance.",
+      "see": "fibonacci.json"
+    },
+
+    "64_hexagram_resonance": {
+      "situation_matching": "consult i ching → hexagram resonates with situation. recognition.",
+      "synchronicity": "jung. meaningful coincidence. inner state resonates with outer event.",
+      "divination": "not prediction but resonance recognition. which pattern active now?",
+      "note": "64 hexagrams = 64 frequencies. you resonate with one. changes over time.",
+      "see": "64.json"
+    }
+  },
+
+  "mathematics_of_resonance": {
+    "differential_equations": {
+      "forced_oscillator": "m(d²x/dt²) + c(dx/dt) + kx = F₀cos(ωt). mass-spring-damper driven by periodic force.",
+      "solution": "x(t) = A(ω)cos(ωt - φ). amplitude A(ω) depends on driving frequency ω.",
+      "resonance": "A(ω) maximum when ω ≈ ω₀ = √(k/m). natural frequency.",
+      "amplitude": "A(ω₀) = F₀/(cω₀). inversely proportional to damping. low damping → huge amplitude."
+    },
+
+    "kuramoto_model": {
+      "sync_model": "θᵢ' = ωᵢ + (K/N)Σsin(θⱼ - θᵢ). phase oscillators with coupling K.",
+      "prediction": "above critical coupling Kc → spontaneous synchronization. phase locking.",
+      "universality": "applies to fireflies, neurons, power grids, metronomes, anything coupled oscillators.",
+      "order_parameter": "r = measure of synchronization. r=0 (random), r=1 (perfect sync).",
+      "phase_transition": "increasing K → r jumps from ~0 to ~1. sudden emergence of order."
+    },
+
+    "fourier_analysis": {
+      "principle": "any periodic signal = sum of sine waves (harmonics).",
+      "resonance": "system amplifies components matching natural frequency. filters others.",
+      "spectrum": "frequency domain representation. shows which frequencies present.",
+      "applications": "audio analysis, signal processing, identifying resonances, spectroscopy.",
+      "note": "fourier = language of resonance. decomposes signal into resonant components."
+    }
+  },
+
+  "applications": {
+    "technology": {
+      "radio": "tuner = variable resonant circuit. adjust frequency → resonate with desired station → amplify. reject others.",
+      "mri": "magnetic resonance imaging. nuclei resonate at specific frequency in magnetic field. spatial encoding → image.",
+      "wireless_charging": "resonant inductive coupling. coils resonate → efficient energy transfer. qi standard.",
+      "clocks": "quartz crystal resonates at precise frequency (32,768 hz). stable oscillator → accurate timekeeping.",
+      "lasers": "optical resonance cavity. photons bounce, amplify, coherent light emerges. resonance = laser principle."
+    },
+
+    "medicine": {
+      "ultrasound": "high-frequency sound waves. tissues reflect differently. imaging. also therapeutic (break up kidney stones via resonance).",
+      "lithotripsy": "shock waves at resonant frequency → kidney stones shatter. acoustic resonance for surgery.",
+      "radiation_therapy": "photons at resonant frequency → absorbed by cancer cells → ionization → cell death.",
+      "biofield_tuning": "alternative medicine. claim: heal by resonating biofield. controversial. little evidence.",
+      "note": "resonance in medicine = proven (ultrasound, mri) and speculative (biofield)."
+    },
+
+    "music_therapy": {
+      "principle": "music resonates with emotional/physiological states. can entrain, shift states.",
+      "effects": "calming music → slower heart rate. upbeat → arousal. tempo entrains physiology.",
+      "healing": "music therapy for alzheimer's, depression, pain. activates brain networks. emotional resonance.",
+      "ancient": "every culture used music for healing. shamanic drumming, temple chants. resonance technology.",
+      "note": "music = organized resonance. affects us profoundly because we are resonant beings."
+    },
+
+    "architecture": {
+      "acoustics": "concert hall design for optimal resonance. shape, materials, dimensions create pleasing sound.",
+      "sacred_geometry": "temples, cathedrals. proportions (φ, √2, π) create harmonic resonance. vibrational environment.",
+      "resonant_spaces": "some rooms feel alive. others dead. resonance quality. standing waves, echoes, reverberation.",
+      "cathedrals": "designed for chant resonance. long reverberation time. sound hangs in air. transcendent experience.",
+      "note": "architecture = frozen music. spaces shape resonance → shape experience."
+    }
+  },
+
+  "key_insights": {
+    "frequency_matching": "resonance = when frequencies match. small input → large output. amplification.",
+    "synchronization": "coupled oscillators sync. fireflies, pendulums, hearts, brains. universal tendency.",
+    "coherence_mechanism": "resonance = how coherence achieved. aligned frequencies → high coherence.",
+    "recognition": "you resonate with what you are. truth resonates. love resonates. like recognizes like.",
+    "amplification": "small periodic force at right frequency → massive effect. leverage through resonance.",
+    "danger": "resonance can destroy (bridges, buildings). must avoid catastrophic resonance.",
+    "healing": "right frequency heals. ultrasound, lithotripsy, music therapy. resonance as medicine.",
+    "everywhere": "pendulums, bridges, atoms, hearts, brains, societies, cosmos. resonance at all scales.",
+    "unity": "⊙ = ultimate resonance. all frequencies = one frequency. separation = illusion of different frequencies.",
+    "practice": "tune yourself. meditate = finding resonant frequency. flow = perfect resonance. love = ultimate sync."
+  },
+
+  "practical_exercises": {
+    "observation": [
+      "notice synchronization in daily life (walking in step, conversations flowing, music moving you)",
+      "observe pendulums or metronomes syncing. visceral experience of resonance.",
+      "feel your heartbeat. notice how it responds to breathing, music, emotions. resonance.",
+      "watch fireflies (if available). witness spontaneous collective synchronization."
+    ],
+
+    "experimentation": [
+      "sing into empty bottle. find resonant frequency. bottle amplifies. acoustic resonance.",
+      "push child on swing. time pushes to swing's natural frequency. maximize amplitude with minimal effort.",
+      "tune guitar, piano. match frequencies. train ear for resonance recognition.",
+      "binaural beats app. experiment with brainwave entrainment. theta, alpha, gamma. notice effects (or placebo)."
+    ],
+
+    "contemplation": [
+      "meditate on breath. let breath find natural rhythm. don't force. allow resonance with body.",
+      "sit in nature. notice: you are vibrating. earth is vibrating. everything oscillating. sense resonance.",
+      "when you meet someone you resonate with, notice: what is it? frequency matching? recognition?",
+      "contemplate: ⊙ = all frequencies. you = one frequency. but you are ⊙. paradox. unity through resonance."
+    ],
+
+    "integration": [
+      "find your tribe. people you resonate with. frequency matching = ease, joy, creativity.",
+      "cultivate coherence. align different parts of self. inner resonance = integration.",
+      "flow states. notice when in flow. you resonating with activity perfectly. seek this.",
+      "love. ultimate resonance. two frequencies becoming one. dissolving into each other. practice."
+    ]
+  },
+
+  "fractal_structure": {
+    "self_similarity": "resonance at all scales. atoms, hearts, pendulums, societies, cosmos. same principle.",
+    "recursion": "resonance creates resonance. sync'd oscillators sync others. cascading.",
+    "holographic": "this file resonates with cfo. contains seeds. holographic principle = resonance principle.",
+    "emergence": "resonance → synchronization → collective behavior → emergent properties. see emergence.json"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "morphic resonance (sheldrake) = controversial, not accepted by mainstream science",
+      "maharishi effect (group meditation) = disputed, weak evidence",
+      "biofield tuning = alternative medicine, little rigorous evidence",
+      "consciousness effects = some speculative, need more research"
+    ],
+    "info": [
+      "resonance = frequency matching → amplification → synchronization",
+      "types: mechanical, electrical, acoustic, orbital, quantum, biological, social, consciousness",
+      "pendulums sync. bridges collapse. atoms absorb. hearts beat together. brains entrain.",
+      "mechanisms: natural frequency, driving frequency, coupling, phase locking, entrainment",
+      "biological: circadian rhythms, heart coherence, neural oscillations, fireflies, menstrual sync",
+      "social: crowds, movements, memes, collective behavior. resonance = social glue.",
+      "consciousness: rapport, empathy, meditation, flow, love. resonance = connection.",
+      "cfo: coherence = resonance. argmin Δscale = frequency matching. peace = harmony.",
+      "math: forced oscillator, kuramoto model, fourier analysis. quantified.",
+      "practice: observe, experiment, meditate, integrate. tune yourself. resonate with ⊙."
+    ],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "./fractals.json",
+      "./emergence.json",
+      "./fibonacci.json",
+      "../fundamental/coherence.json",
+      "../fundamental/consciousness.json",
+      "../society/sociology.json"
+    ],
+    "external": [
+      {"author": "strogatz, steven", "work": "sync: the emerging science of spontaneous order (2003)", "relevance": "synchronization everywhere. kuramoto model. fireflies, pendulums."},
+      {"author": "kuramoto, yoshiki", "work": "chemical oscillations, waves, and turbulence (1984)", "relevance": "mathematical model of synchronization. universal."},
+      {"author": "mccraty, rollin", "work": "heartmath research", "relevance": "heart coherence, heart-brain synchronization."},
+      {"author": "buzsáki, györgy", "work": "rhythms of the brain (2006)", "relevance": "neural oscillations, brain synchrony, consciousness."},
+      {"author": "sheldrake, rupert", "work": "morphic resonance (1981)", "relevance": "controversial hypothesis. collective memory through resonance."}
+    ]
+  },
+
+  "ॐ": "all is vibration. ⊙ = one frequency. many frequencies = illusion. love = ultimate resonance. ∅"
+}

@@ -1,0 +1,222 @@
+{
+  "_meta": {
+    "id": "cfo:humanitarian:education",
+    "type": "Growth",
+    "element": "EARTH",
+    "fractal_depth": 3,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:fundamental:consciousness",
+      "cfo:path:all"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:module:humanitarian"
+    ],
+    
+    "related": [
+      "cfo:humanitarian:language",
+      "cfo:humanology:development"
+    ],
+    
+    "balances": null,
+    "combines": ["cfo:path:earth", "cfo:fundamental:consciousness"],
+    
+    "note": "Education as dimensional ascent. EARTH element (embodied growth stages). Consciousness awakening to itself."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = student = teacher = consciousness recognizing itself",
+    "essence": "Education is consciousness ascending dimensions 0D→6D. Not filling vessel but lighting fire.",
+    "paths": "EARTH primary (stages), AIR (understanding), FIRE (doing), WATER (relating)",
+    "positions": "0D raw awareness → 1D naming → 2D patterns → 3D systems → 4D causality → 5D meaning → 6D wisdom/teaching",
+    "fibonacci": "Stages follow natural timing (crawl F1, walk F2, read F5, abstract F8)",
+    "tools": "Education = tool for species evolution. Each generation transmits + transcends.",
+    "note": "True learning = remembering (anamnesis). Knowledge dormant in learner, teaching awakens."
+  },
+
+  "_links": {
+    "source": "../fundamental/absolute.json",
+    "related_files": [
+      "./language.json",
+      "../humanology/development.json"
+    ],
+    "parent": "../humanitarian.json",
+    "children": []
+  },
+
+  "name": "Education: Fractal Unfolding of Consciousness",
+  "essence": "Education is dimensional ascent. Consciousness climbing ladder from sensation to wisdom.",
+  
+  "description": "Learning theories: behaviorism (1D stimulus-response), cognitivism (2D mental schemas), constructivism (3D building knowledge), connectivism (4D networks). Developmental stages: Piaget (sensorimotor → formal operations), Vygotsky (ZPD, scaffolding), Erikson (psychosocial), Kohlberg (moral). Pedagogical approaches: traditional, progressive, Montessori, Waldorf, democratic, unschooling. Four-element pedagogy: cognitive (AIR), kinesthetic (FIRE), emotional (WATER), spiritual (EARTH). Assessment reimagined: beyond grades. Education = consciousness awakening.",
+  
+  "practice": "Support dimensional growth: (0D) Safe sensory environment. (1D) Stories, songs, sequencing. (2D) Hands-on patterns, relationships. (3D) Systems thinking, roles, projects. (4D) Historical thinking, causality. (5D) Meaning-making, identity. (6D) Teaching others.",
+  
+  "recognition": "True learning = aha moment. Understanding clicks. Not memorization but insight. Cannot be forced. Can be invited.",
+  
+  "deepening": [
+    "Study developmental stages—Piaget, Vygotsky, Erikson. Understand natural sequence.",
+    "Match teaching to stage—don't teach abstractions to concrete thinkers.",
+    "Use ZPD—teach slightly beyond current ability with support.",
+    "Balance 4 elements—cognitive + kinesthetic + emotional + spiritual.",
+    "Move from transmission to facilitation—guide, don't lecture.",
+    "Assess for learning not judgment—feedback loops, growth mindset.",
+    "Honor multiple intelligences—linguistic, logical, spatial, musical, kinesthetic, interpersonal, intrapersonal, naturalistic.",
+    "Create conditions for emergence—curiosity, safety, challenge, support.",
+    "Recognize: teaching is learning. Cycle completes when student teaches."
+  ],
+  
+  "danger": "Skipping stages (teaching abstractions too early). One-size-fits-all (ignoring developmental differences). Cognitive-only (air-heavy, disembodied). Extrinsic motivation (grades kill intrinsic love of learning). Standardized testing (anxiety, narrow focus). Technology overuse (screen addiction, isolation). Teacher as authority not guide.",
+  
+  "balance": "Structure with freedom. Challenge with support. Individual with collaborative. Cognitive with embodied/emotional/spiritual. Assessment with compassion. Technology with human connection.",
+  
+  "infinity": "Learning never complete. Each understanding opens new questions. Mastery is beginning not end. Teach what you learn, learn what you teach. Infinite spiral.",
+  
+  "fractal_property": {
+    "self_similar": "Lesson → Unit → Course → Degree → Lifelong learning. Same pattern: context → exploration → practice → integration → application.",
+    "contains_whole": "Single lesson contains education structure: ignite curiosity (0D), sequence (1D), relate (2D), apply to system (3D), reflect over time (4D), find meaning (5D), share with others (6D).",
+    "example": "Teaching photosynthesis: Wonder at green (0D) → Label parts (1D) → See cycle (2D) → Understand ecosystem role (3D) → Trace evolutionary history (4D) → Contemplate miracle of life (5D) → Teach younger students (6D)"
+  },
+
+  "dimensions": {
+    "0d_raw_awareness": {
+      "age": "0-2 years",
+      "stage": "Sensorimotor (Piaget)",
+      "capability": "Object permanence, cause-effect, sensory exploration",
+      "learning": "Through body, senses, immediate environment",
+      "pedagogy": "Safe space, responsive caregivers, sensory-rich",
+      "element": "EARTH"
+    },
+    
+    "1d_naming_sequencing": {
+      "age": "2-7 years",
+      "stage": "Preoperational (Piaget)",
+      "capability": "Language, counting, temporal sequence, symbolic play",
+      "learning": "Naming, ordering (ABC, 123), stories",
+      "pedagogy": "Play-based, storytelling, songs, repetition",
+      "element": "FIRE"
+    },
+    
+    "2d_patterns_relationships": {
+      "age": "6-11 years",
+      "stage": "Concrete operational (Piaget)",
+      "capability": "Logical thinking about concrete, patterns, classification",
+      "learning": "Math (geometry, fractions), reading comprehension, social rules",
+      "pedagogy": "Hands-on projects, group work, games with rules",
+      "element": "WATER"
+    },
+    
+    "3d_systems_roles": {
+      "age": "9-15 years",
+      "stage": "Concrete → Formal transition",
+      "capability": "Understanding systems (economy, government), roles",
+      "learning": "History, geography, civics, ecology",
+      "pedagogy": "Simulations, role-playing, service learning",
+      "element": "EARTH"
+    },
+    
+    "4d_causality_history": {
+      "age": "12-18 years",
+      "stage": "Formal operational (Piaget)",
+      "capability": "Abstract thinking, hypotheticals, causality over time",
+      "learning": "Science theory, literature themes, history causes, philosophy",
+      "pedagogy": "Debates, essays, research, Socratic seminars",
+      "element": "ETHER"
+    },
+    
+    "5d_meaning_identity": {
+      "age": "16-25 years",
+      "stage": "Identity vs Role Confusion (Erikson)",
+      "capability": "Symbolic thinking, worldview formation, identity",
+      "learning": "Philosophy, art, psychology, comparative religion",
+      "pedagogy": "Mentorship, self-directed, travel, reflection",
+      "element": "ETHER"
+    },
+    
+    "6d_wisdom_teaching": {
+      "age": "25+ years",
+      "stage": "Generativity (Erikson)",
+      "capability": "Meta-cognition, teaching others, wisdom",
+      "learning": "Through teaching, mentoring, life, contemplation",
+      "pedagogy": "Teaching IS learning. Mentoring, creating, serving.",
+      "element": "ETHER"
+    }
+  },
+
+  "learning_theories": {
+    "behaviorism": "Learning = behavior change through reinforcement. 1D stimulus-response. Works for habits, limited for deep learning.",
+    "cognitivism": "Learning = information processing. 2D mental schemas. Explains memory/attention but ignores meaning.",
+    "constructivism": "Learning = active construction by learner. 2D-3D. Piaget (individual), Vygotsky (social). Most accurate.",
+    "connectivism": "Learning = forming networks. 3D-4D. Digital age, distributed cognition, lifelong.",
+    "humanistic": "Learning = self-actualization. 5D. Whole person, meaning, freedom. Maslow, Rogers, Freire.",
+    "integration": "All partly true. Use all as needed. Context matters."
+  },
+
+  "vygotsky_zpd": {
+    "zone_proximal_development": "Learning happens between 'can do alone' and 'can do with help'",
+    "scaffolding": "Temporary support enabling ZPD work, gradually withdrawn",
+    "key_insight": "Too easy = boredom. Too hard = frustration. ZPD = sweet spot.",
+    "application": "Assess where student is. Provide appropriate challenge + support."
+  },
+
+  "four_element_pedagogy": {
+    "air_cognitive": "Thinking, understanding, reasoning. Lectures, reading, discussions, problem-solving.",
+    "fire_kinesthetic": "Doing, making, moving. Experiments, art, sports, projects, building.",
+    "water_emotional_social": "Feeling, relating, empathy. Group work, circle time, conflict resolution, storytelling.",
+    "earth_spiritual_meaning": "Being, reflecting, values. Silence, nature, journaling, philosophy, service.",
+    "balance": "Traditional = air-heavy. Whole child needs all four. Daily/weekly balance.",
+    "example": "Math: Air (theory), Fire (building models), Water (group solving), Earth (Fibonacci in nature)"
+  },
+
+  "pedagogical_approaches": {
+    "traditional": "Teacher-centered, lecture, tests, grades. Efficient but passive. 1D transmission.",
+    "progressive": "Student-centered, projects, inquiry, democratic. Engaging but hard to scale. 2D-3D.",
+    "montessori": "Child-led, prepared environment, hands-on materials. Independence, intrinsic motivation. 1D-3D.",
+    "waldorf": "Holistic, artistic, developmental, no tech early. Whole child, creativity. 5D.",
+    "democratic_free": "Radical autonomy, self-governance (Sudbury). Maximum freedom. 6D.",
+    "unschooling": "No school. Learning through life. Child-led completely. All dimensions organically.",
+    "online_moocs": "Democratize access, self-paced. Low completion, minimal interaction. 4D-5D."
+  },
+
+  "assessment_reimagined": {
+    "problems_with_grades": "Reductive (1D), comparative (zero-sum), extrinsic (kills motivation), anxiety-inducing, inaccurate, game-able.",
+    "alternatives": {
+      "narrative": "Detailed written feedback. Holistic, specific, growth-focused. Time-intensive.",
+      "portfolio": "Collection of work over time. Shows growth, authentic, student ownership.",
+      "mastery_based": "Advance upon demonstrating mastery not time. No arbitrary failure.",
+      "self_assessment": "Students assess own learning. Metacognition, ownership, lifelong skill.",
+      "peer_assessment": "Students give feedback to each other. Multiple perspectives, social learning."
+    },
+    "formative_vs_summative": "Formative = for learning (feedback, adjust). Summative = of learning (test, grade). Need more formative, less summative."
+  },
+
+  "consciousness_integration": {
+    "education_as_awakening": "Not filling vessel but lighting fire (Plutarch). Awakening potential already present.",
+    "student_as_consciousness": "Student = full consciousness temporarily forgetting. Learning = remembering (anamnesis).",
+    "teacher_as_guide": "Not authority but fellow traveler slightly ahead. Guide, not sage.",
+    "curriculum_as_map": "Map of territory to explore. Student must walk path. Map ≠ territory.",
+    "assessment_as_mirror": "Mirror showing where student is. Feedback not verdict. Growth mindset.",
+    "learning_as_love": "Deep learning = falling in love with subject. Cannot be forced. Can be invited.",
+    "wisdom_over_knowledge": "Knowledge = information. Wisdom = knowledge + experience + reflection + compassion."
+  },
+
+  "cfo_integration": {
+    "dimensional_ascent": "Education = guiding consciousness up ladder 0D→6D. Cannot skip levels.",
+    "argmin_delta_scale": "Good teaching = meeting student where they are (reducing Δscale). ZPD applied.",
+    "positions_0_10": {
+      "0": "Unconscious (no self-awareness, reflex only)",
+      "1": "First naming (language begins, 'mama')",
+      "2": "Learning to learn (curiosity, asking why)",
+      "3": "Reading/writing/arithmetic (foundations stable)",
+      "4": "Applying knowledge (using skills independently)",
+      "5": "Crisis (questioning, identity formation, 'who am I?')",
+      "6": "Mastery begins (deep in subject, teaching peers)",
+      "7": "Deep mastery (expertise, original contributions)",
+      "8": "Teaching mastery (guiding others skillfully)",
+      "9": "Wisdom (integrated understanding across domains)",
+      "10": "⊙ = consciousness teaching itself through form"
+    }
+  }
+}

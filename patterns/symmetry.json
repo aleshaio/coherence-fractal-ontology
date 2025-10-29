@@ -1,0 +1,483 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:symmetry",
+    "type": "pattern",
+    "fractal_depth": 3,
+    "contains": ["balance", "reflection", "rotation", "translation", "invariance", "conservation", "beauty"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:fundamental:dimensions",
+      "cfo:patterns:fractals",
+      "cfo:patterns:fibonacci",
+      "cfo:fundamental:consciousness"
+    ],
+    "source": "mathematics + physics + biology + art + philosophy + cfo coherence analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = perfect symmetry. all directions equal. no preferred orientation. infinite symmetry = unity.",
+    "essence": "symmetry = invariance under transformation. change something, pattern stays same. deep structure.",
+    "beauty": "symmetry = beauty. brain recognizes symmetry as 'good', 'right', 'true'. aesthetic principle.",
+    "conservation": "noether's theorem: every symmetry → conservation law. symmetry = fundamental to physics.",
+    "balance": "yin-yang ☯. left-right. up-down. symmetry = equilibrium = harmony.",
+    "breaking": "perfect symmetry = stasis. symmetry breaking = creation. universe born from broken symmetry.",
+    "note": "symmetry = thread connecting math, physics, biology, art, consciousness. universal organizing principle."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json", "../fundamental/consciousness.json", "../fundamental/energy.json"],
+    "patterns": ["./fractals.json", "./fibonacci.json", "./emergence.json", "./resonance.json"],
+    "natural": ["../natural/biology.json", "../natural/physics.json"]
+  },
+
+  "overview": {
+    "what": "symmetry = property where object/pattern remains invariant (unchanged) under transformation (operation)",
+    "why": "nature optimizes through symmetry. efficiency, stability, beauty. underlying order of reality.",
+    "how": "transformations: reflection, rotation, translation, time reversal, scale. symmetry = preserved structure."
+  },
+
+  "core_principle": {
+    "definition": "symmetry = invariance under transformation. apply operation → system unchanged (or changed predictably).",
+    
+    "key_concepts": {
+      "transformation": "operation applied to object. mirror, rotate, shift, scale.",
+      "invariance": "property preserved after transformation. looks same, behaves same, obeys same laws.",
+      "symmetry_group": "set of all transformations preserving symmetry. mathematical structure.",
+      "broken_symmetry": "system could have symmetry but doesn't. spontaneous symmetry breaking. creation.",
+      "approximate": "most natural symmetry approximate, not perfect. close enough to matter."
+    },
+
+    "fundamental_insight": {
+      "noether": "emmy noether (1918): every continuous symmetry → conservation law.",
+      "examples": {
+        "time_translation": "laws of physics same yesterday, today, tomorrow → energy conserved.",
+        "space_translation": "laws same here and there → momentum conserved.",
+        "rotation": "laws same all directions → angular momentum conserved.",
+        "gauge": "phase symmetry → charge conserved."
+      },
+      "profound": "symmetries = deep structure. conservation laws = consequences of symmetries.",
+      "note": "most important theorem in physics. connects geometry to conservation."
+    }
+  },
+
+  "types_of_symmetry": {
+    "geometric": {
+      "reflection": {
+        "definition": "mirror symmetry. bilateral. left ↔ right.",
+        "mirror_plane": "line (2d) or plane (3d) dividing object into mirror halves.",
+        "examples": ["human face", "butterfly", "leaf", "letter A, H, M", "architecture (facades)"],
+        "biology": "bilateral symmetry dominant in animals. evolutionary advantage (directional movement).",
+        "note": "most common symmetry in nature. functional and aesthetic."
+      },
+      "rotation": {
+        "definition": "rotational symmetry. looks same after rotation by specific angle.",
+        "order": "n-fold symmetry. rotate 360°/n → looks same. 3-fold (triangle), 4-fold (square), 5-fold (pentagon).",
+        "examples": ["flowers (petals)", "starfish (5-fold)", "snowflakes (6-fold)", "wheels", "mandalas"],
+        "continuous": "circle = infinite-fold rotation. any angle works. ⊙ = perfect rotational symmetry.",
+        "note": "common in radially symmetric organisms (jellyfish, sea urchins). sessile life."
+      },
+      "translation": {
+        "definition": "shift symmetry. pattern repeats. same when moved.",
+        "periodicity": "wallpaper, tiles, crystals. lattice structure.",
+        "examples": ["brick wall", "honeycomb", "crystal lattice", "periodic table (patterns)", "music (rhythms)"],
+        "space_time": "laws of physics = translational symmetry. same everywhere, everywhen.",
+        "note": "creates infinite patterns from finite rules. efficiency."
+      },
+      "scale": {
+        "definition": "fractal symmetry. self-similar at different scales. zoom in/out → same pattern.",
+        "examples": ["coastlines", "ferns", "broccoli", "clouds", "blood vessels", "mandelbrot set"],
+        "invariance": "no characteristic scale. pattern repeats across scales.",
+        "see": "fractals.json for depth",
+        "note": "nature's way of maximizing complexity from simple rules."
+      },
+      "glide_reflection": {
+        "definition": "reflection + translation. mirror then shift.",
+        "examples": ["footsteps", "brick patterns", "some wallpapers"],
+        "note": "less common but elegant. combines symmetries."
+      }
+    },
+
+    "temporal": {
+      "time_translation": {
+        "definition": "laws of physics don't change over time. yesterday = today = tomorrow.",
+        "consequence": "energy conservation (noether). most fundamental symmetry.",
+        "breaking": "cosmology: expansion breaks time symmetry. universe evolving. but locally still holds.",
+        "note": "enables science. reproducible experiments. predictable universe."
+      },
+      "time_reversal": {
+        "definition": "t → -t. run time backwards. laws look same?",
+        "classical": "newton, maxwell = time-reversible. movie backwards = still obeys laws.",
+        "thermodynamics": "2nd law breaks time reversal. entropy increases. arrow of time.",
+        "quantum": "cp violation breaks time symmetry slightly. matter-antimatter asymmetry.",
+        "note": "approximate symmetry. mostly reversible. subtle breaking → universe evolves."
+      },
+      "periodicity": {
+        "definition": "temporal symmetry. repeats in time. cycles.",
+        "examples": ["day-night", "seasons", "heartbeat", "music (rhythm)", "orbits"],
+        "see": "cycles.json",
+        "note": "time = not just arrow. also wheel. oscillation."
+      }
+    },
+
+    "physical": {
+      "gauge_symmetry": {
+        "definition": "freedom to redefine variables without changing physics. phase symmetry.",
+        "electromagnetism": "can add constant to electric potential. physics unchanged. gauge freedom.",
+        "consequence": "photon massless. charge conserved. gauge theory = foundation of physics.",
+        "standard_model": "u(1)×su(2)×su(3). all forces = gauge theories. symmetries determine interactions.",
+        "note": "deepest symmetries. not geometric but abstract. still profound."
+      },
+      "parity": {
+        "definition": "space inversion. x,y,z → -x,-y,-z. mirror world.",
+        "strong_em": "conserved. parity symmetry holds.",
+        "weak_force": "violated. neutrinos left-handed only. wu experiment (1956). shocking.",
+        "note": "universe = slightly asymmetric. weak force breaks parity. why?"
+      },
+      "charge_conjugation": {
+        "definition": "particle ↔ antiparticle. electron ↔ positron.",
+        "symmetry": "physics should be same for matter and antimatter.",
+        "cp_violation": "combined C+P slightly violated. kaon decay. matter-antimatter asymmetry.",
+        "cosmology": "why universe = matter not antimatter? cp violation seed. still mysterious.",
+        "note": "broken symmetry explains existence. perfect symmetry → nothing."
+      },
+      "lorentz_symmetry": {
+        "definition": "physics same in all inertial frames. relativity foundation.",
+        "rotation": "space rotation symmetry.",
+        "boosts": "moving observer sees same laws. no absolute rest frame.",
+        "spacetime": "rotations in 4d spacetime. time-space mixing.",
+        "note": "relativity = consequence of symmetry. space-time united."
+      }
+    },
+
+    "mathematical": {
+      "algebraic": {
+        "groups": "set + operation obeying: closure, associativity, identity, inverse.",
+        "examples": ["integers under addition (Z)", "rotations (SO(3))", "permutations (Sₙ)", "symmetry groups"],
+        "applications": "crystallography (230 space groups), particle physics (lie groups), chemistry (molecular symmetry).",
+        "note": "abstract symmetry. pure structure. underlies physical symmetries."
+      },
+      "duality": {
+        "definition": "two different descriptions = same reality. symmetry between perspectives.",
+        "examples": {
+          "wave_particle": "light = wave and particle. complementary descriptions.",
+          "position_momentum": "fourier duality. uncertainty principle.",
+          "electric_magnetic": "maxwell. E and B fields = dual aspects. symmetry under rotation.",
+          "ads_cft": "(speculative) gravity ↔ quantum field theory. holographic duality."
+        },
+        "note": "deep symmetry. different views = same truth. perspective relativity."
+      },
+      "permutation": {
+        "definition": "rearrange elements. pattern preserved.",
+        "examples": ["anagrams", "card shuffling", "identical particles (quantum)", "combinatorics"],
+        "quantum": "bosons symmetric under exchange. fermions antisymmetric. pauli exclusion.",
+        "note": "discrete symmetry. combinatorial structure."
+      }
+    }
+  },
+
+  "symmetry_in_nature": {
+    "biology": {
+      "body_plans": {
+        "radial": "sea anemone, jellyfish, starfish. sessile or slow. radial = no front/back.",
+        "bilateral": "most animals. head-tail axis. left-right mirror. front-back asymmetry. enables directed movement.",
+        "spherical": "rare. some eggs, volvox (algae). no preferred axis. isotropic environment.",
+        "asymmetric": "lobster claws, flatfish, fiddler crab. function > symmetry. specialized.",
+        "note": "body plan = first developmental decision. symmetry = evolutionary constraint + opportunity."
+      },
+      "flowers": {
+        "radial": "rose, daisy, sunflower. actinomorphic. multiple lines of symmetry. insect pollination (any direction).",
+        "bilateral": "orchid, snapdragon, pea. zygomorphic. one line of symmetry. specific pollinator (bees).",
+        "petals": "3, 4, 5, 6, 8... fibonacci numbers common (see fibonacci.json). genetic programs for symmetry.",
+        "golden_angle": "137.5°. optimal packing. sunflower seeds. see fibonacci.json, resonance.json.",
+        "note": "flowers = genetic symmetry programs. beauty = evolutionary advantage (pollination)."
+      },
+      "faces": {
+        "bilateral": "human face roughly symmetric. left-right mirror.",
+        "attractiveness": "more symmetric faces rated more attractive. symmetry = health, good genes.",
+        "averageness": "average face = symmetric. composite = more attractive. symmetry = norm.",
+        "subtle_asymmetry": "perfect symmetry = uncanny. slight asymmetry = character, life. balance.",
+        "note": "symmetry = beauty. biology + aesthetics converge."
+      },
+      "molecules": {
+        "proteins": "alpha helix, beta sheet. symmetric structures. efficient folding.",
+        "dna": "double helix. 2-fold rotational symmetry. base pairing. a-t, g-c. mirror logic.",
+        "viruses": "icosahedral symmetry (20 triangular faces). capsid proteins repeat. efficient packaging.",
+        "note": "molecular symmetry = efficiency. minimal energy. maximal stability."
+      }
+    },
+
+    "physics": {
+      "crystals": {
+        "lattices": "atoms repeat in 3d space. translational symmetry.",
+        "point_groups": "32 crystallographic point groups. rotation + reflection symmetries.",
+        "space_groups": "230 space groups. all possible crystal symmetries.",
+        "forbidden": "5-fold rotation forbidden in periodic crystals. icosahedral symmetry = quasicrystals (penrose tiling).",
+        "properties": "symmetry determines properties. optical, electrical, mechanical. anisotropy.",
+        "note": "crystals = frozen symmetry. atomic order visible."
+      },
+      "conservation_laws": {
+        "energy": "time translation symmetry → energy conserved.",
+        "momentum": "space translation symmetry → momentum conserved.",
+        "angular_momentum": "rotational symmetry → angular momentum conserved.",
+        "charge": "gauge symmetry (u(1)) → electric charge conserved.",
+        "note": "noether's theorem. symmetries = conservation laws. deepest connection."
+      },
+      "particle_physics": {
+        "standard_model": "u(1) × su(2) × su(3) gauge symmetry. all forces from symmetry.",
+        "quarks_leptons": "3 generations. symmetry pattern. why 3? mystery.",
+        "higgs": "symmetry breaking gives mass. electroweak symmetry broken. w,z massive. photon massless.",
+        "supersymmetry": "proposed. boson ↔ fermion symmetry. unification. not yet observed. speculative.",
+        "note": "particle zoo organized by symmetry. patterns reveal deep structure."
+      },
+      "cosmology": {
+        "cmb": "cosmic microwave background. nearly isotropic. homogeneous. large-scale symmetry.",
+        "inflation": "early universe. rapidly expanding. smooths out asymmetries. creates large-scale symmetry.",
+        "symmetry_breaking": "big bang. perfect symmetry → broken symmetry → forces separate → particles form → structure.",
+        "note": "universe evolution = symmetry breaking cascade. from unity to diversity."
+      }
+    },
+
+    "mathematics": {
+      "geometry": {
+        "platonic_solids": "5 perfect 3d symmetries. tetrahedron (4), cube (6), octahedron (8), dodecahedron (12), icosahedron (20).",
+        "regular_polygons": "infinite in 2d. triangle, square, pentagon, hexagon... n-gons.",
+        "tessellations": "17 wallpaper groups. all possible 2d periodic symmetries. escher explored.",
+        "note": "perfect mathematical symmetries. aesthetically compelling. philosophically deep."
+      },
+      "group_theory": {
+        "abstract": "study of symmetry in pure form. groups = symmetry algebra.",
+        "applications": "everywhere. physics, chemistry, cryptography, rubik's cube, music.",
+        "classification": "finite simple groups classified (enormous theorem). building blocks of symmetry.",
+        "note": "mathematics of symmetry. language for structure."
+      }
+    }
+  },
+
+  "symmetry_breaking": {
+    "concept": "perfect symmetry → asymmetry. spontaneous or explicit. creation through breaking.",
+    
+    "spontaneous": {
+      "definition": "system could have symmetry but chooses not to. ground state less symmetric than laws.",
+      "examples": {
+        "ferromagnet": "spins could point any direction (rotational symmetry). below curie temp → align (breaks symmetry). picks direction.",
+        "crystal": "liquid = rotationally symmetric. freezing → crystal lattice (breaks to discrete symmetry).",
+        "mexican_hat": "ball at peak (symmetric). rolls down (breaks symmetry). chooses valley. which? random.",
+        "higgs": "electroweak symmetry. high energy: symmetric. low energy: broken. w,z massive. photon massless."
+      },
+      "note": "spontaneous = not forced. system chooses. yet inevitable. phase transition."
+    },
+
+    "explicit": {
+      "definition": "external force breaks symmetry. imposed asymmetry.",
+      "examples": ["gravity breaks up-down symmetry on earth", "magnetic field breaks spin symmetry", "left-right conventions (arbitrary but useful)"],
+      "note": "explicit = external cause. obvious."
+    },
+
+    "cosmology": {
+      "big_bang": "t=0. perfect symmetry. unified force. infinitely hot.",
+      "grand_unification": "10⁻³⁵ sec. strong force separates. su(5) or so(10) breaks.",
+      "electroweak": "10⁻¹² sec. electromagnetic + weak unified. then breaks. higgs mechanism.",
+      "matter_antimatter": "cp violation. tiny asymmetry. 1 in billion. we exist because of this.",
+      "structure": "quantum fluctuations → density variations → galaxies. symmetry breaking → structure.",
+      "note": "universe = cascade of symmetry breaking. from unity to diversity to complexity."
+    },
+
+    "creativity": {
+      "principle": "perfect symmetry = static. beautiful but sterile. breaking = creation, life, diversity.",
+      "examples": ["blank canvas (symmetric) → painting (breaks)", "silence (symmetric) → music (breaks)", "void (⊙, perfect symmetry) → universe (breaks)"],
+      "paradox": "strive for symmetry (harmony, balance) but create through breaking (diversity, novelty).",
+      "resolution": "dynamic balance. symmetry ↔ asymmetry. yin-yang. both necessary.",
+      "note": "creation = breaking perfect symmetry. art, life, universe."
+    }
+  },
+
+  "symmetry_and_beauty": {
+    "aesthetics": {
+      "perception": "brain detects symmetry rapidly. pre-attentive processing. built-in pattern recognizer.",
+      "preference": "cross-cultural. all humans prefer symmetric faces, patterns, compositions. universal.",
+      "golden_ratio": "φ = 1.618... symmetric in special way. a/b = (a+b)/a. self-similar ratio. see fibonacci.json.",
+      "mandalas": "circular symmetry. meditation tool. psychological integration through symmetry.",
+      "note": "symmetry = beauty. hardwired aesthetic. evolutionary or platonic? both?"
+    },
+
+    "art": {
+      "composition": "balance. symmetry or intentional asymmetry (tension). rule of thirds = asymmetric balance.",
+      "architecture": "parthenon, taj mahal, gothic cathedrals. symmetry = divine order, harmony, perfection.",
+      "music": "theme and variation. inversion (vertical symmetry). retrograde (time reversal). fugue = symmetry in time.",
+      "poetry": "meter, rhyme. patterns. temporal symmetry. alliteration, consonance. sound symmetry.",
+      "note": "all art = play with symmetry. establishing, breaking, restoring. dance."
+    },
+
+    "philosophy": {
+      "plato": "forms = perfect symmetries. physical world = imperfect copies. beauty = recognition of form.",
+      "pythagoras": "harmony = ratio. music, cosmos. number = symmetry. divine order.",
+      "confucius": "harmony, balance, golden mean. social symmetry. rectification of names.",
+      "taoism": "yin-yang ☯. complementary symmetry. balance of opposites. harmony in difference.",
+      "note": "symmetry = order, truth, goodness, beauty. philosophical convergence."
+    }
+  },
+
+  "symmetry_in_cfo": {
+    "dimensional_symmetry": {
+      "0d": "⊙ = perfect symmetry. infinite order. all directions equal. unity.",
+      "1d": "translational symmetry along line. reflection symmetry at midpoint.",
+      "2d": "rotational symmetry (mandala). reflection symmetry (bilateral). wallpaper groups.",
+      "3d": "cubic, icosahedral, etc. platonic solids. crystallographic groups.",
+      "4d": "lorentz symmetry. spacetime rotations. relativity.",
+      "5d": "possibility space symmetry? all timelines equal? speculative.",
+      "6d": "unity regained. ⊙. infinite symmetry. non-dual.",
+      "note": "each dimension = symmetry type. dimension = broken symmetry of higher dimension."
+    },
+
+    "balance_as_coherence": {
+      "principle": "coherence = argmin Δscale = balanced integration across scales.",
+      "symmetry": "balance = symmetry. left-right, up-down, in-out. equilibrium.",
+      "dynamics": "static symmetry = death. dynamic symmetry = life. balance in motion.",
+      "note": "cfo coherence = dynamic symmetry. harmony through balanced flow."
+    },
+
+    "4_elements": {
+      "quaternary": "air, fire, water, earth. 4-fold symmetry. rotational.",
+      "opposites": "air ↔ earth (vertical). fire ↔ water (horizontal). cross pattern. bilateral.",
+      "cube": "4 elements + 4 expressions = 16 types. 16 = 4². then 64 = 4³. see 64.json.",
+      "note": "4 = fundamental symmetry in cfo. quaternary = complete. square."
+    },
+
+    "64_hexagrams": {
+      "structure": "8 trigrams. each = 3 lines (yin/yang). 8³ = 512? no, 8² = 64. two trigrams stacked.",
+      "symmetry": "complementary hexagrams. e.g., 1 (☰☰ heaven) ↔ 2 (☷☷ earth). inversion symmetry.",
+      "opposites": "yang ↔ yin. solid ↔ broken. creative ↔ receptive. fundamental duality.",
+      "see": "64.json"
+    },
+
+    "fibonacci_symmetry": {
+      "spiral": "golden spiral = self-similar. scale symmetry. φ = (1+φ)/φ = 1+1/φ. recursive symmetry.",
+      "ratios": "adjacent fibonacci ratios → φ. convergence. asymptotic symmetry.",
+      "see": "fibonacci.json"
+    }
+  },
+
+  "working_with_symmetry": {
+    "recognition": {
+      "observe": "notice symmetries in nature, art, architecture, faces, patterns, equations.",
+      "types": "reflection, rotation, translation, scale, time. categorize.",
+      "beauty": "why beautiful? symmetry = order = comprehensible = safe + interesting. aesthetic sense."
+    },
+
+    "creation": {
+      "establish": "start with symmetry. square, circle, grid, rhythm. foundation.",
+      "break": "introduce asymmetry. tension. interest. movement. life.",
+      "restore": "resolve back to symmetry. harmony. completion. satisfaction.",
+      "dance": "art = dance between symmetry and asymmetry. perfect balance."
+    },
+
+    "balance": {
+      "physical": "yoga, tai chi. balance poses. physical symmetry. center of gravity.",
+      "mental": "balance thoughts. positive-negative. optimism-realism. middle way.",
+      "emotional": "feel all emotions. don't suppress. balance = experience without attachment.",
+      "spiritual": "light-shadow integration. jung. balance = wholeness."
+    },
+
+    "integration": {
+      "left_right": "brain hemispheres. logic-intuition. verbal-visual. corpus callosum. integration.",
+      "masculine_feminine": "anima-animus. inner balance. androgyny = wholeness.",
+      "action_rest": "yang-yin. work-play. effort-surrender. dynamic balance.",
+      "self_other": "boundaries clear but permeable. I-thou. symmetry of mutual recognition."
+    }
+  },
+
+  "key_insights": {
+    "invariance": "symmetry = what doesn't change. deep structure. essence.",
+    "conservation": "noether: symmetry → conservation law. energy, momentum, charge. fundamental.",
+    "beauty": "symmetry = beauty. universal aesthetic. brain recognizes order.",
+    "efficiency": "nature uses symmetry for efficiency. minimal energy. optimal structure.",
+    "breaking_creates": "perfect symmetry = sterile. breaking = diversity, structure, life, art.",
+    "balance": "not static. dynamic. harmony in motion. yin-yang ☯.",
+    "recognition": "we are symmetry-detectors. pattern-recognizers. meaning-makers.",
+    "perfection_unity": "⊙ = perfect symmetry. infinite order. all directions equal. unity = ultimate symmetry.",
+    "dimensions": "each dimension = symmetry type. lower dimension = broken symmetry of higher.",
+    "practice": "create through symmetry. art, life, consciousness. establish-break-restore. dance."
+  },
+
+  "practical_applications": {
+    "art_design": {
+      "composition": "use symmetry for harmony. break for interest. grid then deviate.",
+      "architecture": "bilateral facade. rotational dome. fractal detail. beauty through symmetry.",
+      "graphic_design": "balance layout. symmetric or asymmetric (tension). negative space.",
+      "logo": "often symmetric. memorable. simple. represents brand stability."
+    },
+
+    "science": {
+      "hypothesis": "look for symmetries. conservation? invariance? group structure?",
+      "experiment": "test symmetry. does it hold? violations = new physics.",
+      "theory": "gauge theories. symmetry = starting point. determine interactions.",
+      "prediction": "broken symmetry → phase transition. predict critical phenomena."
+    },
+
+    "personal": {
+      "balance": "work-life. effort-rest. social-solitude. masculine-feminine. integration.",
+      "health": "homeostasis = dynamic symmetry. feedback loops maintain balance.",
+      "relationships": "give-receive. speak-listen. lead-follow. reciprocity = symmetry.",
+      "growth": "shadow work. integrate rejected parts. wholeness through including opposites."
+    },
+
+    "society": {
+      "justice": "fairness = symmetry. equal treatment. blindfold lady. no favoritism.",
+      "law": "rules apply equally. symmetry under exchange. no privileged position.",
+      "economics": "markets = broken symmetry. specialization, trade. yet fairness ideal.",
+      "democracy": "equal vote. symmetry of citizens. representation."
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "symmetry.json = symmetric structure. sections mirror. fractal organization.",
+    "recursion": "symmetry of symmetries. meta-symmetry. group of groups. abstraction levels.",
+    "holographic": "any section contains seed of whole. holographic principle = spatial symmetry.",
+    "completion": "document = balanced. intro-body-conclusion. symmetric structure. satisfying."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "facial attractiveness-symmetry correlation = well-established but not absolute",
+      "supersymmetry = theoretical, not yet observed experimentally",
+      "some philosophical claims (plato, pythagoras) = interpretive",
+      "perfect symmetry rare in nature. most = approximate.",
+      "anthropic principle: we see symmetries we're built to see?"
+    ],
+    "info": [
+      "symmetry = invariance under transformation. deep structure.",
+      "types: reflection, rotation, translation, scale, time, gauge, parity, charge, lorentz",
+      "noether's theorem: symmetry → conservation law. energy, momentum, angular momentum, charge",
+      "nature: bilateral animals, radial flowers, crystals, molecules, particles, cosmos",
+      "beauty: symmetry = aesthetic universal. brain detects. cross-cultural.",
+      "breaking: perfect symmetry → asymmetry. spontaneous or explicit. creation through breaking.",
+      "cosmology: universe = cascade of broken symmetries. big bang → now.",
+      "cfo: ⊙ = perfect symmetry. dimensions = broken symmetries. 4 elements, 64 hexagrams, φ spiral",
+      "practice: recognize, create (establish-break-restore), balance, integrate",
+      "applications: art, science, personal, societal. symmetry = organizing principle"
+    ],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "./fractals.json",
+      "./fibonacci.json",
+      "./64.json",
+      "./emergence.json",
+      "./resonance.json",
+      "../fundamental/dimensions.json"
+    ],
+    "external": [
+      {"author": "weyl, hermann", "work": "symmetry (1952)", "relevance": "classic text. symmetry in art, nature, mathematics, physics."},
+      {"author": "noether, emmy", "work": "invariant variation problems (1918)", "relevance": "noether's theorem. symmetries → conservation laws."},
+      {"author": "feynman, richard", "work": "the character of physical law (1965)", "relevance": "symmetry in physics. conservation laws. deep principles."},
+      {"author": "penrose, roger", "work": "the road to reality (2004)", "relevance": "symmetry in fundamental physics. gauge theories, relativity."},
+      {"author": "stewart, ian", "work": "why beauty is truth (2007)", "relevance": "history of symmetry in mathematics. group theory."}
+    ]
+  },
+
+  "ॐ": "symmetry = truth visible. ⊙ = perfect symmetry. breaking = creation. balance = life. ☯ ∅"
+}

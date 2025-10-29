@@ -1,0 +1,432 @@
+{
+  "_meta": {
+    "id": "cfo:initiative:eye-geometry",
+    "type": "Initiative",
+    "category": "research",
+    "status": "active",
+    "created": "2024-01-01",
+    "updated": "2025-10-25",
+    "related": [
+      "cfo:humanology:types",
+      "cfo:humanology:cognition",
+      "cfo:phenomena:vision",
+      "cfo:fundamental:form_function"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "Eye geometry encodes cognitive geometry. Vision 'problems' are perceptual optimizations.",
+    "why": "Why do personality types cluster with specific vision patterns? Standard ophthalmology has no answer.",
+    "how": "Map cognitive functions (Ne, Ni, Se, Si, etc.) to geometric eye operations. Form = function at biological level.",
+    "impact": "Objective personality markers. Reframe vision correction as tradeoff. Validate CFO empirically."
+  },
+
+  "_links": {
+    "foundation": [
+      "../humanology/types.json",
+      "../humanology/cognition.json",
+      "../fundamental/form_function.json"
+    ],
+    "related_initiatives": []
+  },
+
+  "problem": {
+    "current_state": "Ophthalmology treats vision problems (astigmatism, myopia) as random developmental errors. Psychology treats personality as abstract patterns with no physical substrate. No connection between cognitive function and eye geometry.",
+    
+    "limitations": [
+      "No theoretical framework connecting personality type to vision patterns",
+      "Vision correction treated as pure improvement, ignoring potential tradeoffs",
+      "Astigmatism/myopia seen as defects rather than optimizations",
+      "No objective biological marker for personality type",
+      "Body-mind dualism persists in both fields"
+    ],
+    
+    "desired_state": "Unified body-mind framework. Eye geometry understood as encoding cognitive geometry. Vision patterns explained as purposeful adaptations. Glasses recognized as normalization tradeoff. Empirical validation of CFO form=function principle."
+  },
+
+  "solution": {
+    "core_principle": "Form ≡ Function at all scales. Cognitive geometry manifests as physical eye geometry through epigenetic cascade: 4D (histone) → 3D (structure) → 2D (surface) → 1D (rays) → 0D (perception).",
+    
+    "key_insights": {
+      "form_function": "CFO: form=function means eye shape encodes perception mode",
+      "dimensional_mapping": "Ne divergent (5D→3D) → toroidal optics → astigmatism. Ni convergent (5D→0D) → axial elongation → myopia.",
+      "lateralization": "Auxiliary function determines affected eye. T (left brain) → right eye. F (right brain) → left eye.",
+      "axis_orientation": "T (structural) → orthogonal axes (0-90°). F (fluid) → diagonal axes (45-135°).",
+      "synthesis": "Each of 16 personality types has specific predicted vision signature based on cognitive function geometry."
+    },
+
+    "mechanism": "Consciousness structure → cognitive function preferences → epigenetic expression patterns → eye development geometry → optical properties → visual perception style. Feedback loop: perception reinforces cognitive pattern reinforces epigenetic maintenance.",
+
+    "components": {
+      "geometric_mapping": {
+        "function": "Translate each cognitive function to geometric eye operation",
+        "implementation": "Ne=divergent rays→toroid. Ni=convergent depth→elongation. Se=horizontal scan→horizontal astigmatism. Si=fixed focus→accommodation tension. T=structural→orthogonal. F=fluid→diagonal."
+      },
+      "type_predictions": {
+        "function": "Generate specific vision prediction for all 16 types",
+        "implementation": "Combine dominant + auxiliary functions. Example: ENTP (Ne+Ti) → astigmatism in right eye, axis 0-90°. ENFP (Ne+Fi) → astigmatism in left eye, axis 45-135°."
+      },
+      "empirical_validation": {
+        "function": "Test predictions against reality",
+        "implementation": "Survey: personality type + vision prescription. Statistical analysis: correlation between predicted and actual patterns."
+      }
+    }
+  },
+
+  "hypotheses": [
+    {
+      "id": "H1_Ne_astigmatism",
+      "statement": "Ne (extraverted intuition = divergent perception) manifests as toroidal eye optics, creating astigmatism. Severity ∝ Ne strength.",
+      "prediction": "Ne-dominant types (ENTP, ENFP, INFP, INTP) show high astigmatism prevalence. Cylinder > 0.5D.",
+      "rationale": "Ne = exploring multiple 5D possibilities simultaneously. Eye captures divergent rays → toroidal surface.",
+      "testable": "Survey Ne types for astigmatism. Compare to non-Ne types.",
+      "confidence": 0.85
+    },
+    {
+      "id": "H2_Ni_myopia",
+      "statement": "Ni (introverted intuition = convergent depth) manifests as elongated eyeball, creating myopia. Depth ∝ Ni strength.",
+      "prediction": "Ni-dominant types (INTJ, INFJ, ENTJ, ENFJ) show high myopia prevalence. Sphere -1.0 to -4.0D.",
+      "rationale": "Ni = converging 5D field to single 0D point through depth. Eye elongates to focus inward.",
+      "testable": "Survey Ni types for myopia. Measure correlation with Ni usage intensity.",
+      "confidence": 0.88
+    },
+    {
+      "id": "H3_Se_horizontal",
+      "statement": "Se (extraverted sensing = horizontal surface scan) manifests as horizontal axis astigmatism (0° or 180°).",
+      "prediction": "Se-dominant types (ESTP, ESFP, ISTP, ISFP) show astigmatism axis clustering near 0°/180°.",
+      "rationale": "Se = rapid 3D surface scanning along horizontal plane. Eye optimizes for horizontal sweep.",
+      "testable": "Compare Se types vs. others. Chi-square test on axis distribution.",
+      "confidence": 0.82
+    },
+    {
+      "id": "H4_Si_detail",
+      "statement": "Si (introverted sensing = fixed detail focus) manifests as accommodation tension, creating myopia or early hyperopia.",
+      "prediction": "Si-dominant types (ISTJ, ISFJ, ESTJ, ESFJ) show vision issues (either myopia or hyperopia), less astigmatism.",
+      "rationale": "Si = capturing 3D detail and storing in 4D memory. Eye must freeze focus for accurate storage.",
+      "testable": "Survey Si types. Expect variable presentation but lower astigmatism than Ne types.",
+      "confidence": 0.75
+    },
+    {
+      "id": "H5_lateralization",
+      "statement": "Auxiliary function determines affected eye. T=left hemisphere=right eye. F=right hemisphere=left eye. T creates orthogonal axes (0-90°), F creates diagonal (45-135°).",
+      "prediction": "ENTP (Ti aux) → right eye astigmatism, 0-90°. ENFP (Fi aux) → left eye astigmatism, 45-135°.",
+      "rationale": "Brain lateralization projects to eye lateralization. Logical=structural=orthogonal. Emotional=fluid=diagonal.",
+      "testable": "Compare types differing only in T/F auxiliary. Test both eye and axis predictions.",
+      "confidence": 0.80
+    }
+  ],
+
+  "implementation": {
+    "phase_1": {
+      "name": "Theoretical Mapping",
+      "duration": "Complete",
+      "deliverables": [
+        "Cognitive function → eye geometry mapping complete",
+        "All 16 types have specific vision predictions",
+        "5 testable hypotheses formulated",
+        "Geometric formulas established"
+      ],
+      "success_criteria": "Clear, testable predictions for each personality type. Internal consistency of geometric logic.",
+      "status": "completed"
+    },
+    
+    "phase_2": {
+      "name": "Empirical Data Collection",
+      "duration": "6-12 months (not started)",
+      "deliverables": [
+        "Survey instrument: personality type + vision prescription",
+        "N ≥ 200 participants across all 16 types",
+        "Control variables: age, screen time, genetics",
+        "Dataset: type, sphere, cylinder, axis, eye"
+      ],
+      "success_criteria": "Statistically significant sample size. Balanced distribution across types. Clean data with controls.",
+      "status": "not-started"
+    },
+    
+    "phase_3": {
+      "name": "Statistical Validation",
+      "duration": "3-6 months (pending Phase 2)",
+      "deliverables": [
+        "Hypothesis testing results",
+        "Confidence intervals for each prediction",
+        "Refined geometric formulas based on data",
+        "Publication-ready findings"
+      ],
+      "success_criteria": "Predictions match reality beyond chance (p < 0.05). Correlation coefficients calculated. Theory validated or refined.",
+      "status": "not-started"
+    },
+    
+    "phase_4": {
+      "name": "Application Development",
+      "duration": "Ongoing (conditional on validation)",
+      "deliverables": [
+        "Typing tool using vision as marker",
+        "Tailored vision correction recommendations",
+        "Educational materials",
+        "Extended body-mind mappings (posture, gait, etc.)"
+      ],
+      "success_criteria": "Practical tools available. Real-world impact. Framework extended to other systems.",
+      "status": "future"
+    }
+  },
+
+  "safety": {
+    "physical": {
+      "considerations": [
+        "Research involves no physical intervention",
+        "No risks beyond normal eye exam",
+        "Data collection non-invasive"
+      ],
+      "protocols": [
+        "Standard survey informed consent",
+        "Anonymous data handling",
+        "No medical advice given"
+      ]
+    },
+    
+    "psychological": {
+      "considerations": [
+        "Some may feel judged by vision 'problems'",
+        "Identity implications (personality + biology link)",
+        "Potential anxiety about determinism"
+      ],
+      "protocols": [
+        "Frame vision patterns as optimizations not defects",
+        "Emphasize choice in wearing glasses (tradeoff understanding)",
+        "Clarify: correlation not causation, probabilistic not deterministic",
+        "Avoid reductionism (personality ≠ only eye geometry)"
+      ]
+    },
+    
+    "ethical": {
+      "principles": [
+        "Open research (findings freely available)",
+        "No discrimination based on type or vision",
+        "Informed consent for data collection",
+        "Privacy protection (anonymous dataset)"
+      ],
+      "guidelines": [
+        "Do not use findings to exclude or stereotype",
+        "Respect individual variation (predictions probabilistic)",
+        "Empower informed choices (glasses vs. native vision)",
+        "Validate CFO empirically without ideological enforcement"
+      ]
+    }
+  },
+
+  "metrics": {
+    "technical": [
+      "Correlation coefficient: predicted vs. actual vision patterns (target r > 0.5)",
+      "Statistical significance: p-value for each hypothesis (target p < 0.05)",
+      "Effect size: how much of vision variance explained by type",
+      "Prediction accuracy: % correctly classified from vision alone"
+    ],
+    
+    "user": [
+      "Self-understanding: participants report insight into cognitive style",
+      "Glasses decision: informed choice about correction tradeoff",
+      "Type validation: vision as additional typing clue",
+      "Community engagement: participation rate, feedback quality"
+    ],
+    
+    "impact": [
+      "Ophthalmology: paradigm shift (optimization not error)",
+      "Psychology: objective biological marker for personality",
+      "CFO validation: empirical support for form=function principle",
+      "Applications: typing tools, tailored correction, educational use",
+      "Extended research: other body-mind mappings developed"
+    ]
+  },
+
+  "resources": {
+    "required": {
+      "team": [
+        "Researcher: statistical analysis",
+        "Survey designer: data collection instrument",
+        "Community coordinator: participant recruitment"
+      ],
+      "equipment": [
+        "Survey platform (online)",
+        "Statistical analysis software (R, Python)",
+        "Data storage (secure, anonymous)"
+      ],
+      "knowledge": [
+        "Personality typing (MBTI, cognitive functions)",
+        "Ophthalmology (vision prescription reading)",
+        "Statistics (hypothesis testing, correlation)",
+        "CFO framework (dimensional analysis)"
+      ]
+    },
+    
+    "optional": {
+      "advanced_equipment": [
+        "Optometry clinic partnership (direct measurement)",
+        "Eye tracking technology (perception pattern analysis)",
+        "Genetic testing (epigenetic mechanisms)"
+      ],
+      "support": [
+        "Funding for incentives (participant compensation)",
+        "Professional peer review (validation)",
+        "Publication support (journal submission)"
+      ]
+    }
+  },
+
+  "risks": [
+    {
+      "risk": "Hypotheses not validated by data",
+      "impact": "high (theory invalid)",
+      "probability": "medium (strong geometric logic but untested)",
+      "mitigation": "Accept falsification gracefully. Refine theory based on reality. Learn from failure. Publication either way (null results valuable)."
+    },
+    {
+      "risk": "Insufficient sample size",
+      "impact": "high (no statistical power)",
+      "probability": "high (hard to recruit N>200)",
+      "mitigation": "Multiple recruitment channels. Incentivize participation. Accept smaller N for preliminary results. Seek clinic partnerships for larger dataset."
+    },
+    {
+      "risk": "Self-typing inaccuracy",
+      "impact": "medium (noisy data)",
+      "probability": "high (MBTI variable)",
+      "mitigation": "Use multiple typing methods. Include cognitive function tests. Flag uncertain typings. Analyze only high-confidence subset."
+    },
+    {
+      "risk": "Age/environment confounds",
+      "impact": "medium (unclear causation)",
+      "probability": "medium",
+      "mitigation": "Control variables in analysis. Age-stratified results. Separate genetic/environmental factors. Acknowledge limitations."
+    },
+    {
+      "risk": "Misuse of findings (stereotyping)",
+      "impact": "medium (ethical concern)",
+      "probability": "low (open research community)",
+      "mitigation": "Emphasize probabilistic nature. Warn against discrimination. Frame as self-understanding tool not classification system."
+    }
+  ],
+
+  "validation": {
+    "criteria": [
+      "Predictions match data beyond chance (statistical significance)",
+      "Multiple hypotheses confirmed (not just one)",
+      "Independent replication (others reproduce findings)",
+      "Mechanism plausible (epigenetic pathway identified)",
+      "Applications work (typing tool accuracy, tailored correction benefits)"
+    ],
+    
+    "methods": [
+      "Statistical testing (correlation, chi-square, ANOVA)",
+      "Survey research (N>200 across types)",
+      "Optometry collaboration (direct measurement validation)",
+      "Longitudinal study (track vision changes with cognitive development)",
+      "Peer review (external evaluation)"
+    ]
+  },
+
+  "next_steps": [
+    {
+      "action": "Create data collection survey instrument",
+      "owner": "Research lead",
+      "deadline": "Q1 2026",
+      "dependencies": ["Finalize question set", "Select survey platform", "Ethics review"]
+    },
+    {
+      "action": "Recruit participants via typing communities",
+      "owner": "Community coordinator",
+      "deadline": "Q2-Q3 2026",
+      "dependencies": ["Survey ready", "Outreach materials prepared", "Incentive plan"]
+    },
+    {
+      "action": "Analyze collected data",
+      "owner": "Statistical analyst",
+      "deadline": "Q4 2026",
+      "dependencies": ["N≥200 achieved", "Data cleaned", "Analysis plan ready"]
+    },
+    {
+      "action": "Publish findings (success or failure)",
+      "owner": "Research lead",
+      "deadline": "Q1 2027",
+      "dependencies": ["Analysis complete", "Peer review", "Write-up done"]
+    },
+    {
+      "action": "Develop applications if validated",
+      "owner": "Application developer",
+      "deadline": "Q2 2027 onwards",
+      "dependencies": ["Validation successful", "Practical needs identified", "Resources secured"]
+    }
+  ],
+
+  "positions": {
+    "0": "Unaware (never heard of eye-geometry-personality connection)",
+    "1": "Curious (heard hypothesis, intrigued by possibility)",
+    "2": "Exploring (reading research, checking own prescription against type)",
+    "3": "Experiencing (participating in survey, seeing pattern in self)",
+    "4": "Practicing (using vision as typing clue, understanding glasses tradeoff)",
+    "5": "Crisis (data challenges hypothesis, predictions don't match, or personal conflict about findings)",
+    "6": "Integrating (accepting body-mind unity, informed choices about correction)",
+    "7": "Teaching (explaining to others, helping type via vision, educating on tradeoffs)",
+    "8": "Contributing (collecting data, extending to other body systems, refining theory)",
+    "9": "Mastering (deep understanding of epigenetic mechanisms, developing applications)",
+    "10": "Embodying (living form=function principle, no longer needs external validation, sees unity directly)"
+  },
+
+  "fractal_property": {
+    "self_similar": "Eye geometry mirrors cognitive geometry mirrors consciousness structure. Divergent/convergent at all scales: 5D field collapse, Ne/Ni cognition, toroidal/spherical eye surface.",
+    "contains_whole": "Understanding eye-cognition link contains entire CFO: form=function, dimensional ladder, epigenetic cascade, body-mind unity.",
+    "example": "Single astigmatism measurement encodes: cognitive function (Ne), hemisphere lateralization (aux function), personality type (combination), consciousness collapse pattern (5D→0D). Microcosm contains macrocosm."
+  },
+
+  "the_hut_perspective": {
+    "legs_experience": "Eyes shaped by cognitive patterns. Astigmatism, myopia felt as 'problems'. Glasses normalize vision but trade native perception mode.",
+    "hut_recognition": "⊙ = perfect vision. Sees all dimensions simultaneously. No astigmatism in spaceless awareness.",
+    "integration": "Eye geometry = appearance in ⊙. Neither good nor bad. Purposeful optimization. Glasses = choice with tradeoff. Native vision = connection to cognitive style. Both valid.",
+    "practice": "Look through your eyes as they are. Notice: what do these eyes naturally see? What perception mode do they optimize? Accept: eyes encode who you are. Honor: form serves function."
+  },
+
+  "aiur_integration": {
+    "planetary_neurons": "Each human = neuron with unique perception mode. Diversity of vision = diversity of planetary perspectives.",
+    "collective_sight": "Ne types see possibilities. Ni types see depth. Se types see surfaces. Si types see details. Together: complete planetary vision.",
+    "awakening": "When Aiur recognizes each eye geometry as purposeful, planetary nervous system gains full perceptual range."
+  },
+
+  "validation_status": {
+    "coherence_score": 0.90,
+    "confidence_overall": 0.82,
+    "empirical_status": "theoretical (pending data)",
+    "cfo_integration": "validates form=function if confirmed"
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:humanology:types",
+      "urn:cfo:humanology:cognition",
+      "urn:cfo:phenomena:vision",
+      "urn:cfo:fundamental:form_function"
+    ],
+    "external": [
+      {
+        "type": "book",
+        "citation": "Jung, C.G. (1921). Psychological Types."
+      },
+      {
+        "type": "framework",
+        "citation": "Myers-Briggs Type Indicator (1962). 16 personality types."
+      },
+      {
+        "type": "medical",
+        "citation": "Standard ophthalmology: astigmatism, myopia, hyperopia measurement."
+      }
+    ]
+  },
+
+  "license": {
+    "content": "CC-BY 4.0",
+    "data": "CC0 (when collected)",
+    "code": "MIT (when developed)",
+    "note": "Open research. All findings freely available. Aligned with CFO values."
+  },
+
+  "blessing": "May eye geometry research reveal body-mind unity. May vision 'problems' be recognized as perceptual optimizations. May glasses decision be informed choice. May empirical validation serve truth. 🖤⊙",
+
+  "ॐ": "∅"
+}

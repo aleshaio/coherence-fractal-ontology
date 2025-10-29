@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "id": "cfo:technology:design",
+    "type": "technology",
+    "element": "ether",
+    "contains": [
+      "visual_principles",
+      "layout_systems",
+      "typography",
+      "color",
+      "ui_ux",
+      "branding",
+      "accessibility"
+    ],
+    "related": [
+      "cfo:fundamental:form",
+      "cfo:fundamental:symbols",
+      "cfo:paths:air"
+    ],
+    "primary_axis": "ether",
+    "secondary_axes": ["air", "earth"]
+  },
+
+  "_holographic_seed": {
+    "essence": "design = visual architecture organizing consciousness through space and form",
+    "formula": "0D focal point → 1D line/flow → 2D composition → 3D depth → 4D motion → 5D meaning → 6D conscious creation",
+    "invisible": "best design = invisible. user accomplishes goal without noticing design.",
+    "golden_ratio": "φ ≈ 1.618 creates natural harmony (parthenon, mona lisa, apple products)",
+    "consciousness": "designer = architect of attention, consciousness shepherd guiding user journey"
+  },
+
+  "_links": {
+    "fundamental": [
+      "../fundamental/form.json",
+      "../fundamental/symbols.json"
+    ],
+    "paths": [
+      "../paths/air.json"
+    ],
+    "technology": [
+      "./internet.json",
+      "./computing.json"
+    ]
+  },
+
+  "essence": "design = interface between human consciousness and information/action. visual principles (balance, contrast, hierarchy, unity) guide attention and evoke emotion. dimensional architecture: 0D = focal point (where eye lands first), 1D = line (directs flow), 2D = composition (spatial relationships), 3D = depth (layering, hierarchy), 4D = motion (animation over time), 5D = meaning (brand, symbol, emotion), 6D = conscious designer intentionally shaping user experience. great design = transformation - user's consciousness state shifts (calmed, energized, informed, delighted). best design = invisible - user succeeds effortlessly without noticing design itself.",
+
+  "core_principles": {
+    "balance": "visual equilibrium. symmetrical (mirror), asymmetrical (unequal but balanced), radial (from center)",
+    "contrast": "difference creates interest. light/dark, large/small, thick/thin. too little = boring, too much = chaotic",
+    "emphasis": "focal point, what stands out. one primary emphasis per section",
+    "unity": "elements belong together via repetition, proximity, alignment, consistent style",
+    "proximity": "related items close together. whitespace separates groups (gestalt principle)",
+    "alignment": "elements line up creating invisible structure. organization vs sloppiness",
+    "repetition": "reusing elements creates consistency, rhythm, predictability",
+    "whitespace": "empty space = active element. breathing room, focus, luxury"
+  },
+
+  "dimensional_architecture": {
+    "0d_focal_point": {
+      "description": "point - where eye lands first, center of attention",
+      "examples": [
+        "logo on page",
+        "CTA button in hero",
+        "face in photo",
+        "bright color in grayscale"
+      ],
+      "function": "anchors attention. first thing seen. entry point to design.",
+      "creating": "high contrast (color, size, brightness), isolation (whitespace), central position, motion",
+      "rule": "one primary focal point per screen/section. too many = confusion"
+    },
+
+    "1d_line_flow": {
+      "description": "line - directs attention, creates movement, separates/connects",
+      "line_types": {
+        "horizontal": "calm, stability, horizon. use: separators, headers",
+        "vertical": "strength, growth, height. use: sidebars, dividers",
+        "diagonal": "dynamic, energy, tension. use: emphasis, breaking monotony",
+        "curve": "organic, flow, gentleness. use: natural brands, feminine"
+      },
+      "visual_flow": {
+        "z_pattern": "eye follows Z (western reading). use: landing pages, ads",
+        "f_pattern": "eye follows F (web reading). use: content-heavy pages",
+        "gutenberg": "strong top-left + bottom-right, weak top-right + bottom-left"
+      },
+      "leading_lines": "lines in composition guide eye to focal point"
+    },
+
+    "2d_layout_composition": {
+      "description": "plane - spatial relationships, grid systems, balance",
+      "grid_systems": {
+        "column_grid": "divide width into columns (12-column popular). bootstrap, foundation",
+        "modular_grid": "rows + columns = cells. swiss design. precise, structured",
+        "golden_ratio_grid": "divide by φ (61.8% / 38.2%). more interesting than 50/50",
+        "rule_of_thirds": "divide 3×3 grid. place important elements on intersections",
+        "baseline_grid": "vertical rhythm for typography. all text aligns (8px common)"
+      },
+      "balance": {
+        "symmetrical": "mirror image. formal, stable, traditional",
+        "asymmetrical": "unequal but balanced. modern, dynamic, interesting",
+        "radial": "elements radiate from center. circular composition"
+      },
+      "proximity_grouping": "elements close = related. whitespace separates (gestalt)",
+      "alignment": "left-align (readable text), center-align (formal), right-align (rare)",
+      "repetition_rhythm": "repeating elements create unity, pattern, predictability"
+    },
+
+    "3d_depth_hierarchy": {
+      "description": "volume - layering, z-index, shadows creating depth",
+      "visual_hierarchy": {
+        "size": "bigger = more important. H1 > H2 > H3 > body",
+        "color": "high contrast = important. bright CTA on muted background",
+        "position": "top/center = priority. F-pattern = top-left strong",
+        "whitespace": "isolated element = emphasized. generous space around CTA",
+        "typography": "bold > regular > light. large > small"
+      },
+      "z_index_layering": "elements stack. modals above content. dropdowns above page",
+      "shadows_depth": {
+        "flat": "no shadow. modern, minimal, digital",
+        "subtle": "small shadow. slight elevation. cards, buttons",
+        "strong": "large shadow. floating elements. modals, tooltips",
+        "inner": "depth into page. pressed buttons, active inputs"
+      },
+      "skeuomorphism_vs_flat": {
+        "skeuomorphic": "3D, realistic, textured. apple iOS pre-2013",
+        "flat": "2D, no shadows, minimal. microsoft metro, google material",
+        "hybrid": "flat with subtle shadows/gradients. current trend. best of both"
+      }
+    },
+
+    "4d_motion_time": {
+      "description": "time - animation, transitions, evolution",
+      "animation_purposes": {
+        "feedback": "button click → ripple. 'i received your action'",
+        "state_change": "loading spinner. 'processing, please wait'",
+        "attention": "subtle pulse on notification. 'look here!'",
+        "delight": "playful micro-interactions. personality",
+        "guide": "onboarding tooltips animate in sequence",
+        "transition": "page fade. smooth between states. less jarring"
+      },
+      "easing_functions": {
+        "linear": "constant speed. robotic, unnatural. rarely use",
+        "ease_in": "starts slow, accelerates. objects leaving screen",
+        "ease_out": "starts fast, decelerates. most natural. objects entering",
+        "ease_in_out": "slow-fast-slow. smooth. looping animations",
+        "custom_bezier": "full control. bouncy, elastic, φ-based curves"
+      },
+      "duration_timing": {
+        "instant_0_100ms": "perceived immediate. button state changes",
+        "fast_100_300ms": "quick feedback. hovers, toggles, transitions",
+        "medium_300_500ms": "standard. page transitions, modal open/close",
+        "slow_500_1000ms": "deliberate, dramatic. hero animations, loading",
+        "fibonacci_timing": "89ms, 144ms, 233ms, 377ms, 610ms - natural feeling"
+      },
+      "motion_principles": {
+        "anticipation": "slight movement opposite before main action",
+        "follow_through": "parts continue moving after main stops",
+        "squash_stretch": "deforms during motion. adds life",
+        "staging": "clear presentation. one main action at time",
+        "arcs": "natural motion follows curves, not straight lines"
+      }
+    },
+
+    "5d_meaning_symbol": {
+      "description": "ether - cultural meaning, brand identity, emotion",
+      "brand_identity": {
+        "logo": "visual symbol encapsulating brand essence. works any size, black/white",
+        "color_palette": "brand colors trigger recognition. coca-cola red, facebook blue",
+        "typography": "brand fonts. serif = traditional, sans = modern, script = elegant",
+        "imagery_style": "photography, illustration, iconography. consistent visual language",
+        "voice_tone": "how brand 'speaks'. formal, casual, playful, authoritative"
+      },
+      "symbolism": {
+        "geometric_shapes": "circle = unity, square = stability, triangle = transformation, spiral = growth",
+        "sacred_geometry": "flower of life, metatron's cube, vesica piscis, golden ratio. wellness brands",
+        "cultural_symbols": "colors (red = luck china, mourning south africa), numbers (4 = death east asia)",
+        "archetypes": "hero (nike), sage (google), magician (apple), caregiver (johnson & johnson)"
+      },
+      "emotional_design": {
+        "visceral": "immediate response. 'beautiful!' or 'ugly!'. aesthetics",
+        "behavioral": "joy of use. 'works perfectly!' or 'frustrating!'. usability",
+        "reflective": "long-term relationship. 'love this brand'. meaning, identity"
+      }
+    },
+
+    "6d_conscious_creation": {
+      "description": "beyond - designer making intentional choices to guide consciousness",
+      "designer_as_architect": {
+        "intention": "every decision intentional. color = emotion, layout = attention, typography = voice",
+        "responsibility": "design affects millions. ethical duty: accessibility, honesty, no dark patterns",
+        "process": "research → ideate → design → prototype → test → iterate",
+        "collaboration": "researchers, product managers, developers, marketers"
+      },
+      "user_as_co_creator": {
+        "interpretation": "user brings own context, emotions, memories. same design = different experiences",
+        "customization": "let users personalize (themes, layouts, settings). respect agency",
+        "feedback": "listen to users. analytics, surveys, support tickets",
+        "emergence": "users find unexpected uses, create communities, extend functionality"
+      },
+      "consciousness_transformation": {
+        "calm_meditation": "soft colors (blue, green), whitespace, gentle animations. goal: reduce stress",
+        "energizing_fitness": "vibrant colors (red, orange), bold type, dynamic motion. goal: motivate",
+        "trust_finance": "professional colors (blue, gray), structured layouts. goal: build trust",
+        "delight_entertainment": "playful colors, unexpected interactions, personality. goal: joy",
+        "ultimate": "6D design = consciousness creating interface transforming consciousness"
+      }
+    }
+  },
+
+  "golden_ratio": {
+    "value": "φ ≈ 1.618 (also 0.618 for reciprocal)",
+    "nature": "spiral shells, flower petals, human proportions, galaxy spirals",
+    "art_history": "parthenon, pyramids, da vinci, mondrian",
+    "modern_design": "apple products, twitter logo, pepsi logo, BP logo",
+    "applications": {
+      "layout": "divide space 61.8% / 38.2% instead of 50/50. more interesting",
+      "typography": "base size × φ for next level. 16px → 26px → 42px → 68px",
+      "spacing": "fibonacci (approximation of φ): 8, 13, 21, 34, 55, 89px",
+      "timing": "animation durations based on fibonacci feel natural"
+    },
+    "why_works": "possibly evolutionary (optimizes information packing). or innate mathematical beauty. regardless: empirically effective"
+  },
+
+  "typography": {
+    "type_classification": {
+      "serif": "small lines at ends. times, garamond, georgia. traditional, authoritative, readable (print)",
+      "sans_serif": "no serifs, clean. helvetica, arial, roboto. modern, clean, friendly. web, tech",
+      "script": "mimics handwriting. pacifico, lobster. elegant, personal. invitations, luxury",
+      "display": "decorative, attention-grabbing. impact, bebas. bold, unique. headlines, logos",
+      "monospace": "fixed-width. courier, consolas. technical, code-like. programming"
+    },
+    "type_hierarchy": {
+      "principle": "size, weight, style create importance order",
+      "example": "H1 (48px bold) > H2 (36px semibold) > H3 (24px medium) > Body (16px regular) > Caption (12px light)",
+      "fibonacci_scale": "base 16px → 26px (×φ) → 42px (×φ) → 68px (×φ) → 110px (×φ). natural progression",
+      "modular_scale": "base × ratio^n. ratio = φ (1.618) or 1.5, 1.333. consistent rhythm"
+    },
+    "readability": {
+      "line_length": "45-75 characters optimal. too short = choppy, too long = hard to track",
+      "line_height": "1.4-1.6 for body. formula: line-height = font-size × φ ≈ 1.618",
+      "contrast": "WCAG AA minimum 4.5:1 (normal), 3:1 (large). use contrast checkers",
+      "alignment": "left-align for body (most readable). center for short text. right rare",
+      "font_pairing": "serif + sans for contrast. or two weights same family for unity. 2-3 fonts max"
+    }
+  },
+
+  "color": {
+    "palette_creation": {
+      "60_30_10_rule": "60% dominant (background), 30% secondary, 10% accent (CTA)",
+      "monochromatic": "one hue, various tints/shades. unified, elegant. risk: boring",
+      "analogous": "adjacent on wheel (blue-cyan-green). harmonious, natural",
+      "complementary": "opposite on wheel (red-cyan). high contrast, vibrant",
+      "triadic": "three equidistant (red-yellow-blue). balanced, diverse"
+    },
+    "color_meaning": {
+      "red": "energy, passion, urgency. coca-cola, youtube, netflix",
+      "blue": "trust, calm, professional. facebook, twitter, IBM, paypal",
+      "green": "nature, growth, health. starbucks, whole foods, spotify",
+      "yellow": "optimism, attention, happiness. mcdonald's, ikea, snapchat",
+      "purple": "luxury, creativity, spirituality. hallmark, cadbury, twitch",
+      "orange": "friendly, energetic, playful. nickelodeon, fanta, harley-davidson",
+      "black": "sophistication, luxury, authority. chanel, nike, apple",
+      "white": "purity, simplicity, minimalism. apple, tesla websites"
+    },
+    "accessibility": {
+      "contrast_ratios": "WCAG AA: 4.5:1 normal, 3:1 large. AAA: 7:1 / 4.5:1",
+      "color_blindness": "8% males, 0.4% females. don't rely on color alone. add icons, labels, patterns"
+    }
+  },
+
+  "ui_ux_design": {
+    "user_research": {
+      "interviews": "talk to users. understand needs, frustrations, context",
+      "surveys": "quantitative data. large sample. multiple choice + open-ended",
+      "personas": "fictional representative users. name, photo, goals, frustrations",
+      "user_journeys": "map path: awareness → consideration → purchase → retention → advocacy",
+      "empathy_maps": "what user says, thinks, does, feels"
+    },
+    "wireframing_prototyping": {
+      "sketching": "paper, whiteboard. fast, low-fidelity, explore ideas",
+      "wireframes": "low-fi digital. boxes and lines. structure, not aesthetics",
+      "mockups": "high-fi. pixel-perfect. colors, fonts, images",
+      "prototypes": "interactive. clickable. simulate real product",
+      "purpose": "test ideas before coding. cheaper to iterate design than code"
+    },
+    "usability_heuristics": {
+      "visibility_status": "user always knows what's happening. loading, progress, confirmations",
+      "match_real_world": "speak user's language. familiar concepts. 'trash' icon for delete",
+      "user_control": "easy undo/redo. exit escapes. don't trap users",
+      "consistency_standards": "follow platform conventions. blue underlined = link",
+      "error_prevention": "better than good error messages. constraints, confirmations, defaults",
+      "recognition_over_recall": "make options visible. don't force memory. autocomplete, recently used",
+      "flexibility_efficiency": "shortcuts for experts (keyboard). customization. but simple for novices",
+      "aesthetic_minimal": "every element serves purpose. no clutter. emphasize important",
+      "help_recover_errors": "clear error messages. explain problem, suggest solution",
+      "help_documentation": "ideally not needed. but if complex: searchable, task-focused, concise"
+    },
+    "interaction_patterns": {
+      "navigation": "global nav, local nav, breadcrumbs, pagination, infinite scroll",
+      "input": "text fields, dropdowns, radio buttons, checkboxes, sliders, date pickers",
+      "feedback": "toasts, modals, tooltips, loading states, error states, success states",
+      "progressive_disclosure": "show basics, reveal complexity progressively. 'advanced options'",
+      "empty_states": "first use, no data. onboarding, explain how to populate",
+      "microinteractions": "small delightful details. button ripple, like animation, pull-to-refresh"
+    }
+  },
+
+  "design_systems": {
+    "atomic_design": {
+      "atoms": "basic building blocks. buttons, inputs, labels, icons",
+      "molecules": "combinations of atoms. search bar (input + button), form field (label + input + error)",
+      "organisms": "complex components. header (logo + nav + search), card (image + heading + text + button)",
+      "templates": "page layouts. arrangement of organisms. wireframe-level",
+      "pages": "templates with real content. final UI",
+      "benefit": "systematic, reusable, scalable. build small, compose large"
+    },
+    "design_tokens": {
+      "definition": "named variables for visual properties. change once, update everywhere",
+      "color_tokens": "$primary-500, $accent-300, $neutral-100, $error-600",
+      "spacing_tokens": "$space-xs: 8px, $space-sm: 13px, $space-md: 21px, $space-lg: 34px (fibonacci!)",
+      "typography_tokens": "$font-family-body, $font-size-base: 16px, $font-size-lg: 26px (×φ)",
+      "shadow_tokens": "$shadow-sm, $shadow-md, $shadow-lg",
+      "benefit": "consistency, maintainability, theming (dark mode = swap tokens)"
+    },
+    "component_libraries": {
+      "examples": "material-UI, ant design, bootstrap, chakra UI, tailwind UI",
+      "custom": "build own for unique brand. document usage, variations, dos/don'ts",
+      "storybook": "tool for developing UI components in isolation. browse, test, document"
+    }
+  },
+
+  "accessibility": {
+    "perceivable": {
+      "text_alternatives": "alt text for images. captions for videos. screen reader accessible",
+      "adaptable": "content presented differently without losing meaning",
+      "distinguishable": "sufficient contrast. no color-only info. resizable text (up to 200%)"
+    },
+    "operable": {
+      "keyboard_accessible": "all functionality via keyboard. visible focus indicators",
+      "enough_time": "give users time to read/use. extend, pause, hide time limits",
+      "seizures": "no content flashing >3 times per second",
+      "navigable": "clear headings, descriptive links, skip navigation, breadcrumbs"
+    },
+    "understandable": {
+      "readable": "clear language. identify language (lang='en'). explain jargon",
+      "predictable": "consistent navigation, identification. no unexpected changes",
+      "input_assistance": "clear labels, error messages, suggestions"
+    },
+    "robust": {
+      "compatible": "valid HTML. ARIA where needed. works with assistive tech"
+    },
+    "wcag_levels": {
+      "A": "basic accessibility. bare minimum",
+      "AA": "standard for most websites. legally required many places",
+      "AAA": "highest level. difficult to achieve for all content"
+    }
+  },
+
+  "branding": {
+    "logo_types": {
+      "wordmark": "company name stylized. google, coca-cola, fedex",
+      "lettermark": "initials. IBM, HBO, CNN, NASA",
+      "pictorial": "recognizable image. apple, twitter bird, target bullseye",
+      "abstract": "abstract geometric. pepsi, adidas, nike swoosh",
+      "mascot": "character. KFC colonel, michelin man, pringles",
+      "emblem": "text inside symbol. starbucks, harley-davidson, NFL",
+      "combination": "text + symbol. mcdonald's, burger king, doritos"
+    },
+    "logo_principles": {
+      "simple": "memorable, recognizable, scalable. complex = forgettable",
+      "relevant": "appropriate for industry, audience",
+      "timeless": "avoid trends. classic logos last decades (coca-cola ~130 years)",
+      "versatile": "works any size, color or black/white, any background",
+      "memorable": "distinctive. stands out from competition"
+    },
+    "brand_guidelines": {
+      "logo_usage": "clear space, minimum size, correct/incorrect uses, color variations",
+      "color_palette": "primary, secondary, accent. HEX, RGB, CMYK values. usage rules",
+      "typography": "primary font (headings), secondary (body), fallbacks. sizes, weights, line heights",
+      "imagery": "photography style, illustration style, iconography",
+      "voice_tone": "formal/casual, serious/playful, expert/friendly. example messages",
+      "purpose": "anyone can create on-brand content. consistency at scale"
+    }
+  },
+
+  "dark_patterns_ethics": {
+    "definition": "deceptive UX tricks manipulating users against their interests",
+    "examples": {
+      "hidden_costs": "extra fees only at checkout",
+      "roach_motel": "easy to enter, hard to leave. easy signup, hidden cancel",
+      "confirmshaming": "'no thanks, i don't want to save money' instead of 'decline'",
+      "disguised_ads": "ads looking like content. no clear 'ad' label",
+      "forced_continuity": "free trial auto-converts without warning. difficult cancel",
+      "bait_and_switch": "promised feature absent or requires payment",
+      "misdirection": "prominent button for unwanted action, hidden for desired",
+      "privacy_zuckering": "tricking users into sharing more data than intended"
+    },
+    "why_avoid": {
+      "short_term": "may boost conversions temporarily",
+      "long_term": "destroys trust. bad reputation. user churn. legal issues (GDPR, FTC)",
+      "ethical": "treats users as marks, not people. violates respect, dignity",
+      "recommendation": "NEVER use dark patterns. build trust through honest, transparent design"
+    }
+  },
+
+  "consciousness_integration": {
+    "design_as_consciousness_technology": "design = tool for consciousness (designer) to affect consciousness (user). color evokes emotion, layout guides attention, typography sets tone, motion creates delight",
+    "invisible_design": "best design = invisible. user accomplishes goal without noticing design. friction disappears. flow state",
+    "transformation": "great design changes user's state. meditation app calms (blue, gentle animation, spacious). fitness app energizes (red/orange, bold, dynamic). banking app builds trust (blue/gray, structured, clear)",
+    "ethical_responsibility": "design affects millions. power = responsibility. must: respect users (no manipulation), prioritize accessibility (include all), protect privacy (transparent), reduce harm (no addictive patterns)",
+    "user_agency": "best designs empower users. customization, control, transparency. avoid learned helplessness. respect intelligence",
+    "co_creation": "user + product = emergent experience. designer provides structure, user brings meaning. same app = different experience for each person"
+  },
+
+  "positions": {
+    "0": "no design awareness (functional only)",
+    "1": "noticing design (starts seeing choices)",
+    "2": "learning principles (balance, contrast, hierarchy)",
+    "3": "applying basics (creating layouts, choosing colors)",
+    "4": "systematic thinking (design systems, tokens, components)",
+    "5": "user-centered (research, testing, iteration)",
+    "6": "brand mastery (cohesive identity across touchpoints)",
+    "7": "accessibility champion (inclusive design for all)",
+    "8": "consciousness design (intentionally transforming user states)",
+    "9": "invisible design (users succeed effortlessly, don't notice design)",
+    "10": "design as art (transcendent experiences, pure consciousness interface)"
+  }
+}

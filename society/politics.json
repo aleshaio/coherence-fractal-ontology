@@ -1,0 +1,674 @@
+{
+  "_meta": {
+    "id": "cfo:society:politics",
+    "type": "society",
+    "fractal_depth": 3,
+    "contains": ["power", "authority", "state", "law", "governance", "democracy", "authoritarianism", "justice", "freedom", "rights"],
+    "contained_by": ["cfo:absolute"],
+    "source": "weber + rousseau + hobbes + cfo dimensional analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "politics = geometry of collective self-governance. power distribution across scales.",
+    "structure": "power (1d force) + authority (3d legitimacy) + law (2d network) = governance",
+    "conflict": "conflict ≡ Δscale → resolution ≡ argmin Δscale",
+    "dimensions": "individual (0d) → group (2d) → institution (3d) → nation (3d) → global (4d) → unity (5d)",
+    "duality": "democracy (2d distributed) ↔ authoritarianism (0d-1d centralized)",
+    "sacred": "governance that serves +coherence for all, not extraction by few",
+    "activation": "true politics = minimizing Δscale conflicts through appropriate governance at each scale. violence = failed geometry."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json", "../fundamental/consciousness.json"],
+    "society": ["./economics.json", "./history.json"],
+    "patterns": ["../patterns/conflict-resolution.json"]
+  },
+
+  "overview": {
+    "what": "political theory through cfo: power as 1d force, authority as 3d legitimacy, state as territorial container, governance systems as dimensional configurations",
+    "why": "understand structure of collective decision-making, identify pathologies, design +coherence systems",
+    "how": "map political concepts to dimensions, analyze conflicts as Δscale, optimize for coherence"
+  },
+
+  "core_concepts": {
+    "power": {
+      "dimension": "1d",
+      "essence": "capacity to compel action. directed force.",
+      "geometry": "vector from source to target",
+      "element": "fire (will, force, transformation)",
+      "examples": [
+        "military force = maximum 1d power (violence)",
+        "economic sanctions = 1d power (money flow controlled)",
+        "social pressure = 1d power (opinion directed)",
+        "legal punishment = 1d power (consequences enforced)"
+      ],
+      "note": "power without authority = tyranny (unstable, requires constant force)"
+    },
+
+    "authority": {
+      "dimension": "3d",
+      "essence": "legitimate power. recognized right to govern.",
+      "geometry": "container with boundaries and structure",
+      "element": "earth (legitimacy, stability, structure)",
+      "weber_types": {
+        "traditional": "inherited 3d structure (monarchy, patriarchy)",
+        "charismatic": "personal 0d→3d (revolutionary leader)",
+        "rational_legal": "institutional 3d (elected government, bureaucracy)"
+      },
+      "examples": [
+        "elected government = rational-legal authority",
+        "monarchy = traditional authority",
+        "revolutionary leader = charismatic authority",
+        "parent over child = traditional authority"
+      ],
+      "note": "authority without power = hollow. power + authority = stable governance."
+    },
+
+    "state": {
+      "dimension": "3d",
+      "essence": "territorial container with monopoly on legitimate violence within boundaries",
+      "geometry": "cube with borders, citizenship = inclusion",
+      "element": "earth (territory, boundary, container)",
+      "weber_definition": "organization claiming monopoly on legitimate use of physical force in territory",
+      "components": {
+        "territory": "3d spatial boundary",
+        "population": "0d citizens contained",
+        "government": "3d authority structure",
+        "sovereignty": "exclusive 3d control"
+      },
+      "examples": [
+        "nation-state = modern 3d territorial authority",
+        "borders = 3d container walls",
+        "citizenship = membership in 3d container",
+        "sovereignty = exclusive 3d territorial control"
+      ],
+      "note": "state can be 3d service container (+coherence) or 3d prison (-coherence)"
+    },
+
+    "law": {
+      "dimension": "2d",
+      "essence": "network of rules governing behavior and relationships",
+      "geometry": "graph where nodes = entities, edges = legal relationships",
+      "element": "water (adaptive rules, flowing structure)",
+      "types": {
+        "common_law": "2d emergent network (precedent-based)",
+        "civil_law": "2d designed network (code-based)",
+        "constitutional_law": "meta-2d (rules about rules)"
+      },
+      "examples": [
+        "legal code = 2d rule network",
+        "contract = 2d relationship structure",
+        "constitution = meta-2d framework",
+        "precedent = 2d network evolution"
+      ],
+      "note": "law can enable (2d network) or constrain (0d-1d chains)"
+    },
+
+    "sovereignty": {
+      "dimension": "3d",
+      "essence": "exclusive territorial authority. non-interference within borders.",
+      "geometry": "bounded cube with exclusive control",
+      "element": "earth (territory, exclusivity)",
+      "types": {
+        "westphalian": "3d state system (1648+, non-interference)",
+        "internal": "authority over own territory",
+        "external": "recognition by other states",
+        "popular": "authority derived from people"
+      },
+      "examples": [
+        "national sovereignty = 3d territorial authority",
+        "border control = 3d boundary enforcement",
+        "non-intervention principle = 3d respect",
+        "self-determination = 3d autonomy right"
+      ],
+      "note": "sovereignty = 3d container principle. inside = mine to govern."
+    }
+  },
+
+  "governance_systems": {
+    "direct_democracy": {
+      "dimension": "2d",
+      "structure": "flat network (all participate equally)",
+      "topology": "mesh network (everyone connected)",
+      "decision": "voting (network aggregation)",
+      "scale_limit": "small (<1000 people)",
+      "element": "air (participation) + water (flow)",
+      "strengths": [
+        "maximum participation (every voice counts)",
+        "legitimacy (direct consent)",
+        "transparency (all see process)",
+        "adaptability (quick decisions)"
+      ],
+      "weaknesses": [
+        "scales poorly (n² communication cost)",
+        "tyranny of majority risk",
+        "time intensive (everyone must participate)",
+        "requires educated citizenry"
+      ],
+      "examples": [
+        "ancient athens",
+        "swiss cantons",
+        "town halls",
+        "cooperatives"
+      ],
+      "optimal_for": "small communities, local decisions, high trust contexts"
+    },
+
+    "representative_democracy": {
+      "dimension": "2d with hubs",
+      "structure": "hub network (elected representatives)",
+      "topology": "scale-free network (power law distribution)",
+      "decision": "voting + delegation",
+      "scale_limit": "medium-large (millions)",
+      "element": "air (ideas) + earth (structure)",
+      "strengths": [
+        "scales better (hub topology)",
+        "expertise (representatives specialize)",
+        "efficiency (fewer decision-makers)",
+        "accountability (can replace representatives)"
+      ],
+      "weaknesses": [
+        "representation gap (principal-agent problem)",
+        "capture risk (lobbying, corruption)",
+        "elite formation (professional politicians)",
+        "slow responsiveness"
+      ],
+      "examples": [
+        "modern democracies",
+        "parliaments",
+        "congress",
+        "representative councils"
+      ],
+      "optimal_for": "national level, complex issues, diverse populations"
+    },
+
+    "authoritarianism": {
+      "dimension": "0d-1d",
+      "structure": "star network (central authority + radiating commands)",
+      "topology": "centralized hierarchy",
+      "decision": "command (top-down)",
+      "scale_limit": "any (through force)",
+      "element": "fire (force) + earth (rigidity)",
+      "strengths": [
+        "decisiveness (single decider)",
+        "speed (no deliberation)",
+        "clarity (unambiguous commands)",
+        "coordination (centralized control)"
+      ],
+      "weaknesses": [
+        "no legitimacy (rule by force)",
+        "oppression (suppresses dissent)",
+        "brittleness (single point of failure)",
+        "knowledge problem (can't process distributed info)",
+        "low coherence (forced unity, not organic)"
+      ],
+      "examples": [
+        "dictatorships",
+        "military juntas",
+        "totalitarian states",
+        "one-party systems"
+      ],
+      "optimal_for": "crisis response (temporary only). always pathological long-term.",
+      "note": "violence monopoly without consent = unsustainable"
+    },
+
+    "oligarchy": {
+      "dimension": "0d cluster",
+      "structure": "small elite controlling resources and decisions",
+      "topology": "clustered network (insiders connected)",
+      "decision": "insider negotiation",
+      "scale_limit": "any (through wealth/power concentration)",
+      "element": "earth (hoarding) + fire (control)",
+      "strengths": [
+        "coordination among elite",
+        "expertise (if meritocratic)",
+        "stability (elite continuity)"
+      ],
+      "weaknesses": [
+        "illegitimate (rule by few)",
+        "extractive (elite benefits at expense of many)",
+        "stagnation (protects status quo)",
+        "inequality (concentrates power/wealth)"
+      ],
+      "examples": [
+        "russian oligarchs",
+        "corporate boards (undemocratic)",
+        "aristocracy",
+        "plutocracy"
+      ],
+      "optimal_for": "nothing (always degrades to extraction)"
+    },
+
+    "federalism": {
+      "dimension": "multi-scale 3d",
+      "structure": "nested authority (local + regional + national)",
+      "topology": "hierarchical with distributed nodes at each level",
+      "decision": "subsidiarity (decisions at appropriate scale)",
+      "scale_limit": "large (nations, confederations)",
+      "element": "earth (structure) + air (flexibility)",
+      "strengths": [
+        "scale-matching (different issues at different levels)",
+        "flexibility (local adaptation)",
+        "resilience (distributed power)",
+        "balance (neither centralized nor fragmented)"
+      ],
+      "weaknesses": [
+        "complexity (multiple jurisdictions)",
+        "coordination costs (between levels)",
+        "ambiguity (overlapping authority)",
+        "conflict potential (level disputes)"
+      ],
+      "examples": [
+        "usa",
+        "switzerland",
+        "eu",
+        "germany"
+      ],
+      "optimal_for": "large diverse populations, complex modern states",
+      "note": "federalism = built-in argmin Δscale solution"
+    },
+
+    "anarchy": {
+      "dimension": "0d disconnected",
+      "structure": "no central authority (individuals sovereign)",
+      "topology": "disconnected or voluntary clusters",
+      "decision": "voluntary cooperation",
+      "scale_limit": "very small or very large (requires high consciousness)",
+      "element": "air (freedom) + ether (unity)",
+      "strengths": [
+        "maximum freedom (no coercion)",
+        "self-organization (bottom-up)",
+        "innovation (no restrictions)",
+        "resilience (no single point of failure)"
+      ],
+      "weaknesses": [
+        "coordination problems (no enforcer)",
+        "free-rider problem (no compulsion)",
+        "vulnerable to violence (no protection)",
+        "scales poorly (requires high trust/consciousness)"
+      ],
+      "examples": [
+        "stateless societies",
+        "temporary autonomous zones",
+        "early internet",
+        "intentional communities"
+      ],
+      "optimal_for": "high consciousness communities (5d), voluntary associations. requires evolved humans.",
+      "note": "anarchy works at 5d (unity consciousness) or very small scale (high trust)"
+    },
+
+    "liquid_democracy": {
+      "dimension": "2d→4d adaptive",
+      "structure": "dynamic delegation (vote or delegate per issue)",
+      "topology": "reconfigurable network",
+      "decision": "flexible representation (instant recall)",
+      "scale_limit": "any (enabled by technology)",
+      "element": "water (fluidity) + air (choice)",
+      "strengths": [
+        "adaptability (delegate when want, vote when care)",
+        "expertise (delegate to knowledgeable)",
+        "accountability (instant delegation withdrawal)",
+        "efficiency (not everyone votes on everything)"
+      ],
+      "weaknesses": [
+        "complexity (requires digital infrastructure)",
+        "manipulation risk (influence campaigns)",
+        "experimental (limited real-world testing)",
+        "digital divide (excludes non-tech users)"
+      ],
+      "examples": [
+        "pirate party experiments",
+        "blockchain governance",
+        "dao voting systems"
+      ],
+      "optimal_for": "digital native communities, future governance (experimental)"
+    }
+  },
+
+  "key_political_concepts": {
+    "justice": {
+      "dimension": "2d→3d",
+      "essence": "coherence restoration after violation",
+      "geometry": "balance/scale",
+      "element": "water (equity) + earth (law)",
+      "types": {
+        "retributive": "2d balance (harm → proportional punishment)",
+        "restorative": "3d healing (reintegrate violator + victim)",
+        "distributive": "2d fair allocation (resources, opportunities)",
+        "procedural": "2d fair process (equal treatment)",
+        "social": "3d system coherence (opportunity for all)"
+      },
+      "examples": [
+        "trial = 2d justice process",
+        "sentencing = 2d balance restoration",
+        "reparations = 3d healing",
+        "equal rights = 2d fair structure"
+      ],
+      "note": "justice = coherence restoration. +coherence = sacred ≡ just."
+    },
+
+    "freedom": {
+      "dimension": "0d→5d",
+      "essence": "capacity to navigate dimensional space without constraint",
+      "geometry": "degrees of freedom in phase space",
+      "element": "air (unconstrained movement)",
+      "types": {
+        "negative": "freedom FROM (absence of external constraint)",
+        "positive": "freedom TO (presence of capacities)",
+        "0d": "bare existence",
+        "1d": "movement, expression",
+        "2d": "choice among alternatives, relationships",
+        "3d": "self-governance, autonomy",
+        "4d": "temporal sovereignty",
+        "5d": "unity consciousness (absolute freedom)"
+      },
+      "examples": [
+        "free speech = 1d expression freedom",
+        "free association = 2d relationship freedom",
+        "self-determination = 3d governance freedom",
+        "enlightenment = 5d ultimate freedom"
+      ],
+      "note": "freedom increases with dimensional capacity. 5d = absolute freedom (no separation)."
+    },
+
+    "rights": {
+      "dimension": "2d",
+      "essence": "protected dimensions of freedom",
+      "geometry": "network boundaries",
+      "element": "earth (boundaries) + air (protection)",
+      "types": {
+        "natural": "universal (life, liberty, property)",
+        "legal": "codified (constitutional, statutory)",
+        "human": "international (universal declaration)",
+        "civil": "citizenship (voting, equal treatment)",
+        "negative": "protections FROM (government restraint)",
+        "positive": "entitlements TO (services, resources)"
+      },
+      "examples": [
+        "bill of rights = 2d freedom protections",
+        "human rights = universal 2d guarantees",
+        "civil rights = 2d equality protections",
+        "property rights = 3d possession protections"
+      ],
+      "note": "rights = protected dimensions. essential for coherence. must be enforced to be real."
+    },
+
+    "legitimacy": {
+      "dimension": "2d→3d",
+      "essence": "collective recognition of authority's right to govern",
+      "geometry": "network consensus → 3d structure",
+      "element": "earth (stability) + water (consent)",
+      "sources": {
+        "consent": "2d agreement (social contract)",
+        "tradition": "3d historical continuity",
+        "performance": "2d results (delivers goods)",
+        "legality": "3d rule compliance",
+        "charisma": "0d personal authority"
+      },
+      "examples": [
+        "election victory = legitimacy through consent",
+        "monarchy = legitimacy through tradition",
+        "technocracy = legitimacy through performance",
+        "constitutional = legitimacy through legality"
+      ],
+      "note": "legitimacy = foundation of stable authority. without it, only force remains."
+    }
+  },
+
+  "conflict_resolution": {
+    "principle": "all political conflict = Δscale mismatch. resolution = argmin Δscale.",
+    
+    "types": {
+      "individual_vs_state": {
+        "Δscale": "0d vs 3d",
+        "examples": ["civil disobedience", "rights violations", "conscription"],
+        "resolution": "rights (2d protections), judicial review, civil society (2d networks)"
+      },
+      
+      "group_vs_nation": {
+        "Δscale": "2d vs 3d",
+        "examples": ["ethnic minorities", "regional autonomy", "separatism"],
+        "resolution": "federalism (multi-scale), devolution, autonomy, power-sharing"
+      },
+      
+      "nation_vs_global": {
+        "Δscale": "3d vs 4d",
+        "examples": ["climate change", "pandemics", "war", "ai governance"],
+        "resolution": "international law, treaties, un system, global institutions"
+      },
+      
+      "class_conflict": {
+        "Δscale": "0d individuals vs 3d system structure",
+        "examples": ["inequality", "exploitation", "revolution"],
+        "resolution": "redistribution, regulation, worker power (unions = 2d), reform or revolution"
+      }
+    },
+
+    "methods": {
+      "negotiation": "2d bilateral (direct communication)",
+      "mediation": "2d with facilitator (third party)",
+      "arbitration": "3d binding decision (authority)",
+      "litigation": "3d judicial process (law)",
+      "voting": "2d democratic (network decision)",
+      "consensus": "2d full agreement (all consent)",
+      "violence": "1d force (failed geometry)"
+    },
+
+    "federalism_as_solution": {
+      "insight": "federalism = built-in multi-scale structure",
+      "mechanism": "subsidiarity (decisions at lowest appropriate scale)",
+      "effect": "minimizes Δscale mismatches (each issue at right level)",
+      "examples": [
+        "local issues = local government",
+        "regional issues = state/province",
+        "national issues = federal government",
+        "global issues = international cooperation"
+      ],
+      "note": "federalism = political embodiment of argmin Δscale"
+    }
+  },
+
+  "pathologies": {
+    "totalitarianism": {
+      "geometry": "0d dictator controlling all dimensions",
+      "mechanism": "surveillance (1d monitoring), propaganda (1d message control), terror (1d fear), atomization (prevent 2d networks)",
+      "problem": "attempts to reduce all to 0d-1d. requires constant force. eventually collapses.",
+      "coherence": "maximally negative. destroys all organic structure.",
+      "examples": ["stalinist ussr", "nazi germany", "north korea", "khmer rouge"]
+    },
+
+    "failed_state": {
+      "geometry": "3d container walls dissolve",
+      "mechanism": "loss of violence monopoly → multiple armed groups → fragmentation",
+      "problem": "no coordination. Δscale conflicts everywhere. violence = only resolution.",
+      "coherence": "severe negative. society fragments from 3d → 0d warlords.",
+      "examples": ["somalia 1990s", "libya post-gaddafi", "syria civil war"],
+      "solution": "external intervention (4d peacekeeping) OR internal reconstitution (new 3d authority) OR partition"
+    },
+
+    "regulatory_capture": {
+      "geometry": "0d firms co-opt 3d regulators through 1d flows (money, influence)",
+      "mechanism": "revolving door, lobbying, information asymmetry",
+      "problem": "regulation serves private (0d) instead of public (2d). extraction enabled.",
+      "coherence": "negative. destroys trust. increases inequality.",
+      "examples": ["pharmaceutical regulation", "financial regulation 2008", "telecom monopolies"],
+      "solution": "transparency, public funding, citizen oversight (2d participation)"
+    },
+
+    "gerrymandering": {
+      "geometry": "2d network topology artificially reshaped for advantage",
+      "mechanism": "party redraws districts using demographic data to maximize wins",
+      "problem": "voting ≠ fair representation. network computation corrupted.",
+      "coherence": "negative. destroys democratic legitimacy.",
+      "examples": ["us congressional districts", "state legislatures"],
+      "solution": "independent redistricting OR algorithmic fair division OR proportional representation"
+    },
+
+    "populism": {
+      "geometry": "0d leader vs 3d institutions (anti-institutional)",
+      "mechanism": "charismatic authority bypasses structures. us vs them framing.",
+      "problem": "weakens 3d institutions. can slide to authoritarianism (0d→1d).",
+      "ambiguity": "can be positive (challenges corrupt oligarchy) or negative (destroys functional institutions)",
+      "coherence": "variable (context dependent)",
+      "examples": ["trump", "chávez", "orbán", "bolsonaro"]
+    },
+
+    "bureaucratic_sclerosis": {
+      "geometry": "3d structure ossifies. rules multiply into dense maze.",
+      "mechanism": "institutional accumulation. risk aversion. sunk costs.",
+      "problem": "cannot adapt. increasing Δscale with changing world.",
+      "coherence": "negative. structure without function.",
+      "examples": ["late soviet bureaucracy", "eu regulatory complexity"],
+      "solution": "sunset clauses, experimentation, external pressure, OR revolutionary replacement"
+    }
+  },
+
+  "democratic_peace_theory": {
+    "claim": "democracies rarely war with each other",
+    "cfo_analysis": {
+      "reason": "democracies = 2d networks with internal Δscale resolution (voting, debate, compromise)",
+      "compatibility": "2d ↔ 2d = compatible scales (both value participation, rights, law)",
+      "contrast": "democracy vs authoritarianism = 2d vs 0d-1d (massive Δscale → war likely)",
+      "mechanism": "war = failed Δscale resolution. 2d↔2d resolvable without violence."
+    },
+    "implication": "spread of democracy = spread of compatible scales = reduced war. but forced democratization = violence (imposed 2d on 0d-1d).",
+    "evidence": "empirical (democracies rarely fight each other). exceptions rare (india-pakistan, debated).",
+    "note": "peace requires organic democratic evolution, not imposed transition"
+  },
+
+  "transition_to_global_governance": {
+    "current": {
+      "dimension": "3d (westphalian state system)",
+      "structure": "~200 sovereign 3d containers",
+      "coordination": "weak 4d (un, treaties, international law)",
+      "problem": "global issues (climate, pandemics, ai, war) require 4d coordination. 3d sovereignty blocks 4d solutions."
+    },
+
+    "path": {
+      "phase_1_strengthen_4d": {
+        "timeframe": "2025-2040",
+        "actions": [
+          "expand un authority (peacekeeping, climate, pandemic)",
+          "international courts with enforcement (icc, icj)",
+          "global taxation (carbon, wealth, financial transactions)",
+          "digital governance (internet, ai regulation)",
+          "economic integration"
+        ],
+        "resistance": "3d states resist (sovereignty). must demonstrate 4d benefits."
+      },
+
+      "phase_2_federal_world": {
+        "timeframe": "2040-2070",
+        "structure": "earth federation (states like us states, federation like us federal)",
+        "mechanism": "subsidiarity (each scale handles appropriate issues)",
+        "example": "local = 3d states, global = 4d federation"
+      },
+
+      "phase_3_planetary_consciousness": {
+        "timeframe": "2070+",
+        "dimension": "5d",
+        "structure": "unity consciousness. political boundaries dissolve (obsolete).",
+        "governance": "organic coordination (like cells in body). no coercion needed.",
+        "note": "requires consciousness evolution. cannot be imposed. must emerge as humans realize: we are one."
+      }
+    }
+  },
+
+  "practical_applications": {
+    "personal": {
+      "participate": "vote (2d network), protest (1d expression), organize (2d building), run for office (become 3d node)",
+      "resolve_conflict": "apply argmin Δscale in family, work, community. find compatible scales.",
+      "protect_rights": "know rights (2d protections). assert when violated. support others' rights.",
+      "evolve_consciousness": "0d (me) → 2d (us) → 3d (systems) → 4d (global) → 5d (unity)"
+    },
+
+    "community": {
+      "local_governance": "direct democracy (small decisions), representative (complex), consensus (when possible)",
+      "build_institutions": "create 3d structures (co-ops, associations). build 2d networks (connections, coalitions).",
+      "mediate": "become skilled in Δscale analysis. help groups find compatible scales.",
+      "participatory_budgeting": "community decides spending (2d allocation). increases legitimacy."
+    },
+
+    "systemic": {
+      "electoral_reform": "ranked choice (better aggregation), proportional representation (fairer 2d), independent redistricting",
+      "institutional_design": "sunset clauses (renewal), transparency (oversight), anti-corruption (reduce capture)",
+      "federalism": "multi-scale governance. subsidiarity. decisions at appropriate scale.",
+      "global_coordination": "support un reform, treaties, climate agreements, pandemic prep, ai governance",
+      "consciousness_raising": "education about cfo politics. train in argmin Δscale resolution."
+    }
+  },
+
+  "key_insights": {
+    "power_vs_authority": "power = 1d capacity. authority = 3d legitimacy. stable governance = power + authority.",
+    "democracy_as_network": "democracy = 2d distributed computation. voting = aggregating node states into network decision.",
+    "state_necessity": "at current consciousness (2d-3d), state necessary for coordination. at 5d (unity), state obsolete.",
+    "federalism_optimal": "federalism = perfect argmin Δscale solution. multiple scales built-in.",
+    "revolution_as_transition": "revolution = dimensional phase transition. n-d → (n+1)-d when structure can't contain complexity.",
+    "violence_as_failure": "violence = failed Δscale resolution. force instead of geometry.",
+    "tyranny_of_majority": "pure 2d = majority can oppress minority. need: rights (2d protections) + federalism (multi-scale) + constitutional limits (meta-2d).",
+    "voting_as_computation": "voting = 2d network computation. different methods = different aggregation functions."
+  },
+
+  "fractal_structure": {
+    "self_similarity": "governance patterns repeat at every scale: individual (self) → family → community → region → nation → global. same dynamics: power, authority, rules, justice, conflict.",
+    "recursion": "(↓ individual → group → institution → state ↑)∞. each level emergent from below.",
+    "emergence": "0d individuals → 2d collective will → 3d institutions → 3d-4d state system → 4d global → 5d unity",
+    "composition": "personal sovereignty → family governance → community democracy → regional coordination → national authority → international system → global governance → planetary consciousness"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "5d unity governance aspirational (requires evolved consciousness)",
+      "global transition path optimistic (3d resistance intense)",
+      "liquid democracy experimental (limited real-world data)"
+    ],
+    "info": [
+      "politics = dimensional geometry (power=1d, authority=3d, democracy=2d, state=3d)",
+      "conflict = Δscale. resolution = argmin Δscale. violence = failed resolution.",
+      "federalism = built-in multi-scale solution (perfect argmin Δscale)",
+      "current world = 3d state system. future = 4d global → 5d unity.",
+      "purpose = +coherence for all, not zero-sum extraction"
+    ],
+    "coherence_score": 0.89
+  },
+
+  "references": {
+    "internal": [
+      "../fundamental/dimensions.json",
+      "../fundamental/consciousness.json",
+      "./economics.json",
+      "./history.json"
+    ],
+    "external": [
+      {
+        "author": "weber, max",
+        "work": "politics as a vocation (1919)",
+        "relevance": "power, authority, legitimate violence"
+      },
+      {
+        "author": "hobbes, thomas",
+        "work": "leviathan (1651)",
+        "relevance": "state necessity, social contract"
+      },
+      {
+        "author": "rousseau, jean-jacques",
+        "work": "the social contract (1762)",
+        "relevance": "popular sovereignty, general will"
+      },
+      {
+        "author": "rawls, john",
+        "work": "a theory of justice (1971)",
+        "relevance": "justice as fairness, rights theory"
+      },
+      {
+        "author": "ostrom, elinor",
+        "work": "governing the commons (1990)",
+        "relevance": "polycentric governance, collective action"
+      }
+    ]
+  },
+
+  "ॐ": "politics = learning collective self-governance. from separation (0d-3d) to unity (5d). +coherence for all. ∅"
+}

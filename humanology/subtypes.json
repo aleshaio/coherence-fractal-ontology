@@ -1,0 +1,364 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:subtypes_elemental_en",
+    "version": "2.0",
+    "description": "A model of 4 elemental subtypes (Air, Fire, Water, Earth) that modify and color the dynamics of the 16 base intertype relations.",
+    "source": "User-provided framework on subtypes and elemental modifiers"
+  },
+  "principles": {
+    "basic_principle": "Each of the 16 socionic types can have 4 subtypes depending on the dominant element.",
+    "formula": "Type × Subtype (Element) = Unique Flavor of the Relationship",
+    "core_rule": "The base intertype relationship remains the same (e.g., Duality remains Duality), but the elemental interaction adds an additional layer of dynamics."
+  },
+  "elements": {
+    "Air": {
+      "name": "Air",
+      "keywords": ["mental", "theoretical", "abstract"]
+    },
+    "Fire": {
+      "name": "Fire",
+      "keywords": ["energetic", "ambitious", "transformative"]
+    },
+    "Water": {
+      "name": "Water",
+      "keywords": ["emotional", "process-oriented", "fluid"]
+    },
+    "Earth": {
+      "name": "Earth",
+      "keywords": ["concrete", "stable", "material"]
+    }
+  },
+  "elemental_interactions": {
+    "Air_Earth": {
+      "pair": "Air ↔ Earth",
+      "interaction_character": "The abstract, theoretical, and ever-changing nature of Air clashes with the concrete, stable, and grounded reality of Earth.",
+      "dynamics": [
+        "Air generates possibilities that Earth finds destabilizing.",
+        "Earth demands tangible proof and consistency, which Air finds limiting.",
+        "In difficult relationships (Conflict, Super-Ego), this amplifies misunderstanding.",
+        "In harmonious relationships (Duality, Activation), it can create a balance of theory and practice."
+      ],
+      "examples": [
+        {
+          "pair": "ILE-Air × ESI-Earth",
+          "relation_type": "Conflict",
+          "description": "Air's theories seem like dangerous nonsense to Earth, while Earth's focus on sensory reality seems like primitive stubbornness to Air."
+        },
+        {
+          "pair": "ILE-Air × SEI-Earth",
+          "relation_type": "Duality",
+          "description": "Air provides ideas, Earth materializes them—an ideal complement."
+        }
+      ]
+    },
+    "Fire_Water": {
+      "pair": "Fire ↔ Water",
+      "interaction_character": "The passionate, expansive, and goal-oriented energy of Fire meets the methodical, process-oriented, and flowing nature of Water.",
+      "dynamics": [
+        "Fire seeks to conquer and transform; Water seeks to establish and perfect a process.",
+        "Fire sees Water as slow and overly cautious.",
+        "Water sees Fire as reckless and destructive.",
+        "In asymmetrical relationships (Benefit, Supervision), this exacerbates the natural pressure."
+      ],
+      "examples": [
+        {
+          "pair": "ILE-Fire × LSE-Water",
+          "relation_type": "Supervision",
+          "description": "The Fire of ILE (a creatively ambitious subtype) constantly criticizes the Water of LSE (a pragmatic, procedural subtype) for being too rigid and failing to see the grand vision."
+        },
+        {
+          "pair": "SLE-Fire × IEI-Water",
+          "relation_type": "Duality",
+          "description": "Fire provides the drive, Water adapts the process—a harmonious combination."
+        }
+      ]
+    },
+    "Air_Fire": {
+      "pair": "Air ↔ Fire",
+      "interaction_character": "A highly energetic and dynamic combination of intellect and action.",
+      "dynamics": [
+        "Air fans the flames of Fire, providing new ideas and possibilities for Fire's energy to pursue.",
+        "Can lead to rapid expansion and innovation.",
+        "Risk: can become scattered and ungrounded, burning out quickly without a stable direction.",
+        "Both are oriented towards novelty and change."
+      ],
+      "examples": [
+        {
+          "pair": "ILE-Air × SLE-Fire",
+          "relation_type": "Business",
+          "description": "Rapid generation and implementation of ideas, but may lack completion."
+        },
+        {
+          "pair": "ILE-Fire × LII-Air",
+          "relation_type": "Mirror",
+          "description": "Both are in a high-energy mode, leading to stimulating discussions with a risk of overheating."
+        }
+      ]
+    },
+    "Air_Water": {
+      "pair": "Air ↔ Water",
+      "interaction_character": "A combination of intellect and process.",
+      "dynamics": [
+        "Air provides the overarching logical framework.",
+        "Water creates the practical, step-by-step system for implementation.",
+        "Air may find Water's need for methodical progress too slow.",
+        "Water may perceive Air's abstract logic as disconnected from the real flow of events."
+      ],
+      "examples": [
+        {
+          "pair": "LII-Air × ESE-Water",
+          "relation_type": "Duality",
+          "description": "Air provides the structure of thought, Water creates the emotional process of harmonization."
+        },
+        {
+          "pair": "ILE-Air × IEI-Water",
+          "relation_type": "Semi-Duality",
+          "description": "Partial understanding, but different paces of information processing."
+        }
+      ]
+    },
+    "Fire_Earth": {
+      "pair": "Fire ↔ Earth",
+      "interaction_character": "A relationship of action and results.",
+      "dynamics": [
+        "Fire provides the driving energy for new projects.",
+        "Earth provides the stability, resources, and perseverance to see them through to completion.",
+        "Conflict: Fire's impatience clashes with Earth's deliberate pace.",
+        "Fire wants to move now; Earth wants to build on solid ground."
+      ],
+      "examples": [
+        {
+          "pair": "SLE-Fire × SEI-Earth",
+          "relation_type": "Semi-Duality",
+          "description": "Fire initiates, Earth stabilizes, but their speeds don't always align."
+        },
+        {
+          "pair": "EIE-Fire × LSI-Earth",
+          "relation_type": "Duality",
+          "description": "Fire inspires change, Earth structures and solidifies it."
+        }
+      ]
+    },
+    "Earth_Water": {
+      "pair": "Earth ↔ Water",
+      "interaction_character": "A very practical and stable combination.",
+      "dynamics": [
+        "Both elements are pragmatic and focused on reality.",
+        "Earth provides the solid foundation and structure.",
+        "Water creates consistent, flowing processes within that structure.",
+        "Excellent for creating stable, long-lasting systems.",
+        "May lack the innovative spark of Air or the ambitious drive of Fire."
+      ],
+      "examples": [
+        {
+          "pair": "SEI-Earth × LSE-Water",
+          "relation_type": "Semi-Duality",
+          "description": "Both are practical and create stable routines."
+        },
+        {
+          "pair": "ESI-Earth × LIE-Water",
+          "relation_type": "Duality",
+          "description": "Earth solidifies values, Water develops systems to implement them."
+        }
+      ]
+    }
+  },
+  "relationship_modification": {
+    "Duality": {
+      "Air_Earth": {
+        "pair": "ILE-Air × SEI-Earth",
+        "description": "The perfect theory-practice connection. Air generates concepts, Earth embodies them materially. Minimum conflict, maximum complementarity."
+      },
+      "Fire_Water": {
+        "pair": "SLE-Fire × IEI-Water",
+        "description": "Drive meets adaptability. Fire pushes forward, Water harmonizes the process. A balance between action and reflection."
+      },
+      "Air_Fire": {
+        "description": "High intellectual and energetic synergy. Risk of burnout without grounding."
+      },
+      "Earth_Water": {
+        "description": "Maximum stability and pragmatism. May lack dynamism."
+      }
+    },
+    "Conflict": {
+      "Air_Earth": {
+        "pair": "ILE-Air × ESI-Earth",
+        "description": "Maximum mutual misunderstanding. Air's abstractions seem unrealistic and dangerous to Earth. Earth's concreteness seems primitive to Air. The elemental conflict reinforces the base type conflict."
+      },
+      "Fire_Water": {
+        "pair": "SLE-Fire × EII-Water",
+        "description": "Fire wants rapid change, Water needs deep processing. Fire's aggressiveness frightens Water. Water's slowness infuriates Fire."
+      }
+    },
+    "Activation": {
+      "Air_Fire": {
+        "pair": "ILE-Air × ESE-Fire",
+        "description": "An explosive energy of ideas and implementation. High risk of burnout. Periods of rest are needed to recover."
+      },
+      "Earth_Water": {
+        "pair": "SEI-Earth × LII-Water",
+        "description": "A calmer activation. Stable and methodical mutual energizing. Less risk of overheating."
+      }
+    },
+    "Supervision": {
+      "Fire_on_Water": {
+        "pair": "ILE-Fire → LSE-Water",
+        "description": "Fiery energy constantly points out the 'wrongness' of the watery process. Water feels its methodical approach is devalued. A maximally painful supervision."
+      },
+      "Air_on_Earth": {
+        "description": "Airy criticism seems detached from reality. Earth feels misunderstood in its practicality."
+      }
+    }
+  },
+  "subtype_examples": {
+    "ILE": {
+      "subtypes": {
+        "Air": {
+          "name": "ILE-Air",
+          "archetype": "Pure Mental Explorer",
+          "description": "Theoretical physicist, philosopher of ideas.",
+          "focus": "Maximally abstract Ne-Ti"
+        },
+        "Fire": {
+          "name": "ILE-Fire",
+          "archetype": "Revolutionary Catalyst",
+          "description": "Startup evangelist, agent of change.",
+          "focus": "Ne with a fiery drive"
+        },
+        "Water": {
+          "name": "ILE-Water",
+          "archetype": "Emotional Connector",
+          "description": "Diplomatic envoy, empathetic traveler.",
+          "focus": "Ne through emotional processes"
+        },
+        "Earth": {
+          "name": "ILE-Earth",
+          "archetype": "Practical Explorer",
+          "description": "Developer of trade routes, field researcher.",
+          "focus": "Ne grounded in the material"
+        }
+      }
+    },
+    "SLE": {
+      "subtypes": {
+        "Air": {
+          "name": "SLE-Air",
+          "archetype": "Tactical Strategist",
+          "description": "Military analyst, power games chessmaster.",
+          "focus": "Se through an intellectual lens"
+        },
+        "Fire": {
+          "name": "SLE-Fire",
+          "archetype": "Classic Conqueror",
+          "description": "Military commander, aggressive CEO.",
+          "focus": "Pure Se-Ti"
+        },
+        "Water": {
+          "name": "SLE-Water",
+          "archetype": "Diplomatic Warrior",
+          "description": "Negotiator from a position of strength.",
+          "focus": "Adapted Se"
+        },
+        "Earth": {
+          "name": "SLE-Earth",
+          "archetype": "Empire Builder",
+          "description": "Industrial magnate, developer.",
+          "focus": "Materialized Se"
+        }
+      }
+    },
+    "SEI": {
+      "subtypes": {
+        "Air": {
+          "name": "SEI-Air",
+          "archetype": "Conceptual Harmonizer",
+          "description": "Designer of comfort systems.",
+          "focus": "Si through mental structures"
+        },
+        "Fire": {
+          "name": "SEI-Fire",
+          "archetype": "Active Hearth-Keeper",
+          "description": "Energetic defender of the home.",
+          "focus": "Si with fiery protection"
+        },
+        "Water": {
+          "name": "SEI-Water",
+          "archetype": "Classic Empath-Guardian",
+          "description": "Family therapist, creator of atmosphere.",
+          "focus": "Pure Si-Fe"
+        },
+        "Earth": {
+          "name": "SEI-Earth",
+          "archetype": "Material Comfort-Maker",
+          "description": "Property manager, traditional keeper.",
+          "focus": "Maximally grounded Si"
+        }
+      }
+    },
+    "LII": {
+      "subtypes": {
+        "Air": {
+          "name": "LII-Air",
+          "archetype": "Pure System Theorist",
+          "description": "Philosopher, mathematician.",
+          "focus": "Ti-Ne abstraction"
+        },
+        "Fire": {
+          "name": "LII-Fire",
+          "archetype": "Revolutionary Thinker",
+          "description": "Paradigm-shifter, ideologue.",
+          "focus": "Ti with transformative power"
+        },
+        "Water": {
+          "name": "LII-Water",
+          "archetype": "Process Analyst",
+          "description": "Methodologist, creator of frameworks.",
+          "focus": "Ti through processes"
+        },
+        "Earth": {
+          "name": "LII-Earth",
+          "archetype": "Practical Systems Engineer",
+          "description": "Engineer, systems architect.",
+          "focus": "Materialized Ti"
+        }
+      }
+    }
+  },
+  "practical_application": {
+    "For_Duality": {
+      "scenario": "If you are an ILE-Fire and your dual is an SEI-Earth:",
+      "dynamics": [
+        "Your fire will provide the energy for change.",
+        "Their earth will stabilize and materialize your ideas."
+      ],
+      "conflict_point": "You will rush them, they will slow you down.",
+      "solution": "Agree on phases of 'acceleration' and 'consolidation'."
+    },
+    "For_Conflict": {
+      "scenario": "If you are an ILE-Air and you meet an ESI-Earth:",
+      "dynamics": [
+        "The elemental conflict reinforces the type conflict.",
+        "Your abstractions will seem like dangerous heresy to them.",
+        "Their concreteness will seem like dull conservatism to you."
+      ],
+      "solution": "Minimal contact or very clear interaction boundaries."
+    },
+    "For_Supervision": {
+      "scenario": "If you are an ILE-Fire supervising an LSE-Water:",
+      "dynamics": [
+        "Your fire will constantly point out their 'slowness'.",
+        "Their water will feel its methodical nature is being devalued.",
+        "This is one of the most painful combinations."
+      ],
+      "solution": "Consciousness from the supervisor and distance from the supervisee."
+    }
+  },
+  "conclusions": [
+    "The element does not change the relationship type, but it colors it.",
+    "Air-Earth and Fire-Water are polar axes, creating maximum friction or complementarity.",
+    "Identical elements lead to easier understanding but may lack complementarity.",
+    "Adjacent elements (Air-Fire, Earth-Water) have good synergy.",
+    "In harmonious relationships (Duality, Activation), different elements complement each other.",
+    "In tense relationships (Conflict, Supervision), different elements amplify the problem."
+  ]
+}

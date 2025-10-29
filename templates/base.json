@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "id": "cfo:category:name",
+    "type": "Type (Seed|Path|Growth|Tool|Transmission|Combination|Extension)",
+    "element": "AIR|FIRE|WATER|EARTH|AETHER (if applicable, else null)",
+    "fractal_depth": 0,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:other:references"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:parent:reference"
+    ],
+    
+    "related": [
+      "cfo:sibling:reference1",
+      "cfo:sibling:reference2"
+    ],
+    
+    "balances": "cfo:opposite:reference (optional)",
+    "combines": ["cfo:combo1", "cfo:combo2"],
+    
+    "note": "Brief description of fractal relationships"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = how absolute manifests here",
+    "essence": "Core truth compressed to one line",
+    "paths": "How 4 paths relate (if applicable)",
+    "positions": "How positions apply (if applicable)",
+    "fibonacci": "How φ timing applies (if applicable)",
+    "tools": "How tools connect (if applicable)",
+    "note": "This file contains entire CFO from [perspective] angle"
+  },
+
+  "_links": {
+    "source": "../absolute.json (or relevant parent)",
+    "related_files": [
+      "./sibling1.json",
+      "./sibling2.json"
+    ],
+    "parent": "../parent/file.json (if nested)",
+    "children": [
+      "./child1.json",
+      "./child2.json"
+    ]
+  },
+
+  "// MAIN CONTENT STARTS HERE": "Replace with actual content",
+  
+  "name": "Human-readable name",
+  "essence": "Core concept in one sentence",
+  "description": "Detailed explanation",
+  
+  "practice": "How to work with this (if applicable)",
+  "recognition": "What insight this brings",
+  "deepening": [
+    "Step 1 to go deeper",
+    "Step 2 to go deeper",
+    "Step 3 to go deeper"
+  ],
+  
+  "danger": "Warning about imbalance (if applicable)",
+  "balance": "What balances this (if applicable)",
+  "infinity": "How this extends to ∞ (if applicable)",
+  
+  "fractal_property": {
+    "self_similar": "How this repeats at different scales",
+    "contains_whole": "How this contains entire CFO",
+    "example": "Concrete example of fractal nesting"
+  }
+}

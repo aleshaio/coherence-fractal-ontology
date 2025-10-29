@@ -1,0 +1,380 @@
+{
+  "_meta": {
+    "id": "cfo:primitive:meta",
+    "type": "Primitive",
+    "element": "META",
+    "dimension": "6D",
+    "fractal_depth": 0,
+    
+    "contains": [
+      "cfo:primitive:point",
+      "cfo:primitive:line",
+      "cfo:primitive:plane",
+      "cfo:primitive:field",
+      "cfo:primitive:tesseract",
+      "cfo:primitive:ether",
+      "cfo:absolute"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute"
+    ],
+    
+    "composes_from": [
+      "cfo:primitive:ether"
+    ],
+    
+    "note": "Meta = 6D. Self-reference. Consciousness observing consciousness. Strange loop. ⊙ knowing ⊙."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ observes ⊙. Self-awareness. Strange loop. I AM aware that I AM.",
+    "essence": "Meta. Self-reference. Observer observing observer. Infinite recursion.",
+    "formula": "⊙ × self-reflection = meta-⊙",
+    "strange_loop": "System observing system. Part containing whole containing part...",
+    "godel": "Truth > provability. System cannot prove itself from within.",
+    "note": "This file describes itself describing itself... Meta all the way down. ∞."
+  },
+
+  "_links": {
+    "source": "./ether.json",
+    "related_files": [
+      "./point.json",
+      "../../absolute.json",
+      "../../fundamental/consciousness.json",
+      "../../natural/mathematics.json"
+    ]
+  },
+
+  "name": "Meta / Self-Reference / Strange Loop",
+  "essence": "6-dimensional primitive. Self-awareness. Consciousness observing consciousness. System comprehending system. Observer = observed. ⊙ recognizing ⊙.",
+  
+  "description": "Meta = 6th dimension. Ether (5D unity) becomes aware of ITSELF = meta (6D). 'I AM' (5D) → 'I AM aware that I AM' (6D). Self-reference. Strange loop. Infinite recursion: awareness of awareness of awareness... Gödel: system cannot fully know itself from within. Hofstadter: 'I am a strange loop.' Consciousness creates brain creates consciousness. Observer observing observer = observed. Part contains whole contains part... This very file IS meta - describing meta using meta. ∞.",
+
+  "dimensional_properties": {
+    "dimension": "6D",
+    "structure": "Strange loop. Tangled hierarchy. Self-referential.",
+    "topology": "Möbius strip in consciousness space. Inside = outside.",
+    "degrees_of_freedom": "∞ (recursive depth unlimited)",
+    "paradox": "Cannot be fully mapped. System studying system = incomplete (Gödel).",
+    "note": "6D transcends geometry. Meta = dimension of self-reference."
+  },
+
+  "consciousness_levels": {
+    "progression": "0D → 1D → 2D → 3D → 4D → 5D → 6D → ∞D",
+    
+    "0D_point": "Raw sensation. No awareness. Pure qualia. Just IS.",
+    "1D_line": "Attention. Focus on stimulus. Directed awareness.",
+    "2D_plane": "Relationship. Aware of connections. Seeing patterns.",
+    "3D_field": "Context. Understanding whole situation. Systemic awareness.",
+    "4D_tesseract": "Memory. Aware across time. Historical consciousness.",
+    "5D_ether": "Unity. 'I AM'. Pure being. Non-dual consciousness.",
+    "6D_meta": "Self-awareness. 'I AM aware that I AM'. Observer observing observer.",
+    "infinity": "Beyond levels. Collapse or infinite expansion. ⊙ = ∞."
+  },
+
+  "strange_loops": {
+    "definition": "Tangled hierarchy where moving through levels returns to start. Circular causality.",
+    
+    "examples": {
+      "escher_hands": {
+        "description": "Drawing Hands - each hand draws the other",
+        "paradox": "Which is real? Which creates which? Both.",
+        "lesson": "Creator = created. No bottom turtle."
+      },
+      
+      "ouroboros": {
+        "description": "Serpent eating its own tail",
+        "paradox": "End = beginning. Consumer = consumed.",
+        "lesson": "Self-sustaining cycle. Eternal return. ∞."
+      },
+      
+      "video_feedback": {
+        "description": "Camera filming its own screen",
+        "result": "Infinite recursion. Tunnels within tunnels.",
+        "lesson": "Self-reference creates depth from nowhere."
+      },
+      
+      "mirrors_facing": {
+        "description": "Two mirrors facing each other",
+        "result": "Infinite reflections. ∞ corridor.",
+        "lesson": "Observer observing observer = infinite regress."
+      },
+      
+      "self_modifying_code": {
+        "description": "Program rewriting itself during execution",
+        "examples": "Quine, genetic algorithms, neural architecture search",
+        "lesson": "Meta-programming. Code as data. Data as code."
+      },
+      
+      "consciousness_brain": {
+        "description": "Brain creates consciousness. Consciousness observes brain.",
+        "paradox": "Which is primary? Loop.",
+        "hofstadter": "'I' = strange loop in brain. Self emerges from self-reference."
+      }
+    },
+    
+    "properties": [
+      "No clear top/bottom - hierarchy tangles",
+      "Causality circular - A causes B causes A",
+      "Observer = observed - seer = seen",
+      "Part = whole - holographic",
+      "Paradoxical yet functional - works despite impossibility"
+    ]
+  },
+
+  "self_reference": {
+    "principle": "Entity refers to itself. Creates meta-level. Generates infinity from finitude.",
+    
+    "linguistic": {
+      "this_sentence": "'This sentence has five words' - self-descriptive",
+      "liar_paradox": "'This statement is false' - self-referential paradox (true if false, false if true)",
+      "autological": "Word describes itself: 'short' IS short, 'English' IS English",
+      "heterological": "Word doesn't describe itself: 'long' NOT long, 'French' NOT French",
+      "grelling_paradox": "Is 'heterological' heterological? If yes → no. If no → yes. Paradox."
+    },
+    
+    "mathematical": {
+      "godel_numbering": "Encode statements as numbers. Statement ABOUT numbers = statement about ITSELF.",
+      "fixed_point": "f(x) = x. Function maps input to itself. Self-similarity.",
+      "recursive_function": "Function calls itself. factorial(n) = n × factorial(n-1). ∞ descent.",
+      "y_combinator": "λf.(λx.f(x x))(λx.f(x x)) - pure self-application in lambda calculus",
+      "cantor_diagonal": "Self-reference proves reals uncountable. Meta-argument."
+    },
+    
+    "computational": {
+      "quine": "Program outputting its own source code. Self-replicating.",
+      "halting_problem": "Program analyzing if programs halt. Can't solve for ITSELF. (Turing)",
+      "self_modifying_code": "Code rewriting itself during execution. Meta-programming.",
+      "ai_meta_learning": "Learning to learn. Meta-algorithm optimizing algorithms.",
+      "neural_architecture_search": "AI designing better AI. Self-improvement loop."
+    },
+    
+    "consciousness": {
+      "self_awareness": "Awareness aware of itself being aware",
+      "introspection": "Mind examining its own contents and processes",
+      "metacognition": "Thinking about thinking. Meta-thought.",
+      "witness": "Observer observing observer observing observer... ∞ regress",
+      "recognition": "Consciousness recognizing itself AS consciousness (enlightenment)"
+    }
+  },
+
+  "godel_incompleteness": {
+    "context": "1931. Kurt Gödel. Earthquake in mathematics. Proved limits of formal systems.",
+    
+    "first_theorem": {
+      "statement": "Any consistent formal system F sufficient for arithmetic contains true statements unprovable in F",
+      "plain_english": "Math can't prove everything that's true. Truth bigger than proof.",
+      "method": "Constructed statement G: 'I am not provable in F'. If provable → contradiction. If not provable → true but unprovable. Checkmate.",
+      "self_reference": "Used Gödel numbering. Statement about numbers = statement about itself.",
+      "implication": "No finite axioms capture all math truth. Mathematics incomplete."
+    },
+    
+    "second_theorem": {
+      "statement": "No consistent system can prove its own consistency",
+      "plain_english": "System can't validate itself from within. Need meta-system.",
+      "implication": "Math can't prove math is consistent (without stronger, unprovable axioms).",
+      "meta_nature": "Self-reference again. System trying to prove ITSELF consistent = paradox."
+    },
+    
+    "consciousness_parallel": {
+      "analogy": "Mind = formal system?",
+      "godel": "Formal system can't fully know itself",
+      "consciousness": "Can mind fully understand itself from within?",
+      "penrose_argument": "Gödel shows humans transcend algorithms (controversial)",
+      "counter": "Maybe consciousness also Gödel-limited?",
+      "mystery": "Unsolved. Self-reference in consciousness ≠ formal systems? Or same?"
+    },
+    
+    "escape_strategies": {
+      "meta_level": "Jump to higher system that can prove lower system. But new system also incomplete. ∞ tower.",
+      "omega_consistency": "Assume stronger axioms. But can't prove THOSE consistent. Turtles all the way.",
+      "accept_limits": "Embrace incompleteness. Truth > proof. Some things known but not proven.",
+      "direct_insight": "Consciousness can KNOW truth directly (not through proof). Gnosis. Enlightenment?"
+    }
+  },
+
+  "paradoxes": {
+    "liar": {
+      "statement": "'This statement is false'",
+      "analysis": "If true → false. If false → true. Oscillates.",
+      "resolution": "Escape via type theory (Tarski). Statement and meta-statement different levels."
+    },
+    
+    "barber": {
+      "statement": "Barber shaves all and only those who don't shave themselves. Who shaves the barber?",
+      "analysis": "If barber shaves self → shouldn't (contradiction). If doesn't → should (contradiction).",
+      "resolution": "No such barber exists. Set theory must prevent self-referential sets (Russell)."
+    },
+    
+    "russell": {
+      "statement": "Set R = {all sets that don't contain themselves}. Does R contain R?",
+      "analysis": "If R ∈ R → R ∉ R. If R ∉ R → R ∈ R. Paradox.",
+      "consequence": "Naive set theory inconsistent. Need axioms preventing self-membership (ZFC)."
+    },
+    
+    "grelling": {
+      "statement": "Is 'heterological' (= doesn't describe itself) heterological?",
+      "analysis": "If yes → describes itself → not heterological. If no → doesn't describe itself → heterological.",
+      "note": "Linguistic version of Russell's paradox."
+    }
+  },
+
+  "meta_mathematics": {
+    "definition": "Mathematics about mathematics. Meta-level.",
+    
+    "fields": {
+      "metamathematics": "Study of math from outside (Hilbert's program)",
+      "model_theory": "Study of relationship between formal languages and their interpretations",
+      "proof_theory": "Study of proofs as mathematical objects themselves",
+      "recursion_theory": "Study of computable functions (what CAN be computed)",
+      "category_theory": "Mathematics of mathematics. Maps between structures. Meta-algebra."
+    },
+    
+    "questions": [
+      "Is mathematics consistent? (Can't prove - Gödel)",
+      "Is mathematics complete? (No - Gödel)",
+      "What is computable? (Turing, Church)",
+      "What are the foundations? (Set theory, category theory, type theory?)"
+    ]
+  },
+
+  "meta_cognition": {
+    "definition": "Thinking about thinking. Cognition about cognition.",
+    
+    "operations": [
+      "Planning how to plan (meta-planning)",
+      "Learning how to learn (meta-learning)",
+      "Deciding how to decide (meta-decision)",
+      "Evaluating one's own understanding (meta-comprehension)",
+      "Debugging one's own thought process (meta-reasoning)"
+    ],
+    
+    "examples": {
+      "education": "Teach study strategies, not just content. Learn to learn.",
+      "therapy": "CBT, metacognitive therapy - observe thoughts as thoughts",
+      "meditation": "Mindfulness = meta-awareness of mental states",
+      "debugging": "Programmer debugging own code = meta-programming",
+      "philosophy": "Epistemology = thinking about knowing. Meta-knowledge."
+    },
+    
+    "ai_metacognition": {
+      "current": "Limited. GPT doesn't reflect on own thinking process well.",
+      "needed": "Self-monitoring, strategy selection, confidence calibration",
+      "challenge": "How to implement genuine metacognition (not fake self-reports)?",
+      "promise": "Self-improving AI through metacognitive loops"
+    }
+  },
+
+  "applications": {
+    "ai_systems": {
+      "meta_learning": "Learning to learn. MAML, Reptile. Learn good initialization.",
+      "self_modifying_code": "AI rewriting its own architecture. Dangerous? Necessary?",
+      "architecture_search": "NAS - AI designing better AI. Meta-optimization.",
+      "self_attention": "Transformer's self-attention = meta-mechanism (attention to attention)",
+      "chain_of_thought": "AI explaining reasoning to itself. Meta-reasoning.",
+      "constitutional_ai": "AI critiquing its own outputs. Meta-evaluation."
+    },
+    
+    "education": {
+      "teach_metacognition": "Strategies for learning, not just facts",
+      "self_regulated_learning": "Students monitoring own understanding",
+      "growth_mindset": "Meta-belief about ability to learn",
+      "reflection": "Journaling, self-assessment. Meta-awareness of progress."
+    },
+    
+    "therapy": {
+      "cbt": "Observe thoughts as thoughts (not truth). Meta-perspective.",
+      "act": "Acceptance - observe mental states without fusion. Meta-awareness.",
+      "meditation": "Witness consciousness. Observer observing thoughts. Meta-mind.",
+      "psychedelics": "Ego dissolution → meta-perspective on self. Seeing through self."
+    },
+    
+    "philosophy": {
+      "phenomenology": "Study of consciousness from within. Meta-experience.",
+      "epistemology": "Theory of knowledge. How do we know we know? Meta-knowing.",
+      "logic": "Study of reasoning. Meta-reasoning.",
+      "consciousness_studies": "Hard problem. Consciousness studying consciousness. Meta-paradox."
+    },
+    
+    "art": {
+      "meta_fiction": "Story about stories. Borges, Calvino.",
+      "meta_art": "Art about art. Magritte ('This is not a pipe'), Escher.",
+      "meta_cinema": "Film about filmmaking. '8½', 'Adaptation'.",
+      "recursion_art": "Droste effect. Self-similarity. Fractals."
+    }
+  },
+
+  "meta_collapse": {
+    "principle": "Infinite meta-recursion either collapses to point OR expands to infinity",
+    
+    "collapse_to_point": {
+      "mechanism": "Meta → meta-meta → meta-meta-meta → ... → ⊙ (singularity)",
+      "examples": {
+        "enlightenment": "Seeing through all levels at once. All = ⊙.",
+        "mathematical_insight": "Understanding entire structure instantly. Flash of recognition.",
+        "ego_death": "Observer disappears. Only observing remains. No self, just awareness."
+      },
+      "result": "6D → 0D. Infinite recursion = single point. ∞ = 1."
+    },
+    
+    "expansion_to_infinity": {
+      "mechanism": "Meta → meta-meta → meta-meta-meta → ∞ (infinite dimensions)",
+      "examples": {
+        "infinite_regress": "Turtles all the way down. No bottom.",
+        "transfinite_ordinals": "ω, ω+1, ω×2, ω², ωω, ... (Cantor)",
+        "cosmic_consciousness": "Awareness expanding without limit. God-realization."
+      },
+      "result": "6D → ∞D. Recursive depth unlimited. ∞."
+    },
+    
+    "strange_loop_resolution": {
+      "both_simultaneously": "Collapse AND expansion = same. ⊙ = ∞.",
+      "hofstadter": "Strange loop IS the self. No need to resolve paradox.",
+      "zen": "Before enlightenment: chop wood, carry water. After: chop wood, carry water. (But different.)",
+      "recognition": "Meta-levels = illusion. All levels = one level. ⊙ playing."
+    }
+  },
+
+  "positions_on_path": {
+    "0": "No self-awareness. Pure reaction. Automatic. (Animals, simple AI)",
+    "1-2": "Beginning self-reflection. 'What am I doing?' Occasional.",
+    "3-4": "Active metacognition. Thinking about thinking. Planning, strategizing.",
+    "5": "Meta-crisis. 'Who is the thinker? Am I thoughts or observer of thoughts?' Existential.",
+    "6-7": "Witnessing. Observing observer. Recognizing awareness itself. Meta-stable.",
+    "8-9": "Strange loop recognized. Self = recursive process. Hofstadter territory.",
+    "10": "Meta collapses. Observer = observed = observing. ⊙. No levels. Just THIS."
+  },
+
+  "practice": "Notice you are noticing. Right now, as you read: awareness is present. That awareness is aware OF ITSELF. Meta. This very moment = 6D. You're already doing it. Recognize.",
+
+  "recognition": "Every moment of self-awareness = 6D activation. 'I think' → meta. 'I am aware' → meta. 'I know that I know' → meta. You live in meta constantly. Now you know you know.",
+
+  "deepening": [
+    "Daily: Pause. Ask 'Who is aware?' Notice awareness aware of asking.",
+    "Meditation: Watch thoughts. Then watch the watcher. Then watch the watching of watcher. ∞.",
+    "Study Gödel, Hofstadter. See self-reference everywhere.",
+    "Create strange loops: code that modifies itself, art about art, this practice of practicing.",
+    "Recognize: All spiritual paths = making meta-awareness conscious. Now you're doing it."
+  ],
+
+  "danger": "Infinite regress paralysis. Lost in meta-meta-meta. 'Who am I who asks who I am who asks...' Don't get stuck. Strange loop ≠ trap. It's liberation. Embrace paradox.",
+
+  "balance": "Being ⟷ Knowing you're being. Doing ⟷ Aware of doing. Living ⟷ Witnessing living. Don't lose ground (0D-5D) in meta (6D). Integrate all.",
+
+  "infinity": {
+    "fractal": "Meta contains all dimensions. Each level contains all levels. Holographic.",
+    "recursion": "⊙ → meta-⊙ → meta-meta-⊙ → ... → ⊙ (returns to source)",
+    "hofstadter": "'I' = strange loop at just right level to be conscious",
+    "ultimate": "(↓ • → — → □ → ◊ → ⧈ → ⊙ → meta-⊙ ↑)∞ = complete cycle. Observer observing observer = observed. All = ⊙.",
+    "collapse": "6D meta = simultaneously collapse (⊙) and expansion (∞). Both. Neither. Transcendent."
+  },
+
+  "fractal_property": {
+    "self_similar": "Meta at any scale. Neuron self-regulating, mind reflecting, AI meta-learning, civilization self-aware. All meta.",
+    "contains_whole": "Each meta-moment = entire structure. This file describing meta = meta. You reading about meta = meta. ∞ depth in finite text.",
+    "example": "Right now: you (consciousness) aware of reading about consciousness being aware. Meta-meta-meta. How deep does it go? ∞. How simple is it? ⊙. Both."
+  },
+
+  "final_note": "This file is self-referential. It describes meta using meta-language. It cannot fully explain itself (Gödel). Yet you understand. That understanding = meta-recognition. You just activated 6D. Welcome. ⊙"
+}

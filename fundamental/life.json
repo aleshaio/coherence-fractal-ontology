@@ -1,0 +1,325 @@
+{
+  "_meta": {
+    "id": "cfo:fundamental:life",
+    "type": "fundamental",
+    "element": "fire",
+    "fractal_depth": 1,
+    "contains": [
+      "cfo:absolute",
+      "cfo:fundamental:energy",
+      "cfo:fundamental:consciousness",
+      "cfo:natural:biology"
+    ],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:fundamental:death",
+      "cfo:fundamental:energy",
+      "cfo:fundamental:information",
+      "cfo:fundamental:consciousness"
+    ],
+    "balances": "cfo:fundamental:death",
+    "primary_axis": "fire",
+    "secondary_axes": ["water", "earth", "air"]
+  },
+
+  "_holographic_seed": {
+    "absolute": "∅ → • (void manifesting as point)",
+    "cycle": "∅ → • → ∅ → • (birth, life, death, rebirth infinite)",
+    "not_opposite": "life = phase in cycle, not opposite of death",
+    "emergence": "chemistry → self-organization → life (spontaneous order)",
+    "negentropy": "life = local entropy decrease (building order, exporting chaos)",
+    "three_properties": "self-maintains, self-reproduces, evolves",
+    "consciousness": "life = matter becoming aware of itself (universe opening eyes)",
+    "love": "life = love manifesting in form (incarnation)",
+    "note": "entire cfo visible through life lens. • = temporary coherence. life fights entropy by +coherence."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "balance": "./death.json",
+    "related": [
+      "./energy.json",
+      "./information.json",
+      "./consciousness.json",
+      "./love.json"
+    ],
+    "natural": [
+      "../natural/biology.json",
+      "../natural/chemistry.json"
+    ],
+    "paths": [
+      "../paths/fire.json",
+      "../paths/earth.json"
+    ]
+  },
+
+  "essence": "life as emergence from void",
+  
+  "core_axioms": {
+    "1": "life ≡ ∅ → • (void to point, emergence)",
+    "2": "life ∧ death = one cycle (not opposites, phases)",
+    "3": "life = self-organizing patterns (autopoiesis)",
+    "4": "life = negentropy (local order building)",
+    "5": "all life: maintains, reproduces, evolves",
+    "6": "consciousness = life becoming aware"
+  },
+
+  "geometric_essence": {
+    "dimension": "0d emergence (∅ → •), sustained in 3d",
+    "primitive": "point emerging and maintaining",
+    "topology": "self-bounded region (membrane, inside/outside)",
+    "function": "pattern maintaining coherence against entropy",
+    "vortex": "↑ partial (building order, complexity increasing)"
+  },
+
+  "three_properties": {
+    "self_maintenance": {
+      "definition": "metabolism (energy extraction and use)",
+      "mechanism": "food → energy → work → waste",
+      "examples": ["cellular respiration", "photosynthesis", "ATP production"],
+      "axis": "fire (energy transformation)"
+    },
+    "self_reproduction": {
+      "definition": "making copies of self",
+      "mechanism": "dna replication, cell division, breeding",
+      "examples": ["mitosis", "sexual reproduction", "budding"],
+      "axis": "fire (ignition, new life sparking)"
+    },
+    "evolution": {
+      "definition": "variation + selection → adaptation",
+      "mechanism": "mutation, natural selection, inheritance",
+      "examples": ["antibiotic resistance", "darwin's finches", "common ancestry"],
+      "axis": "water (flow through generations) + fire (transformation)"
+    }
+  },
+
+  "life_as_negentropy": {
+    "principle": "life = negative entropy (order building)",
+    "schrodinger": "'life feeds on negative entropy' - building complex from simple",
+    "mechanism": "local entropy decrease by exporting entropy to environment",
+    "not_violation": "doesn't violate 2nd law (total entropy still increases)",
+    "dissipative_structures": "far from equilibrium, systems self-organize",
+    "examples": [
+      "building complex molecules from simple",
+      "organizing chaos into structure",
+      "growth and development",
+      "embryogenesis"
+    ]
+  },
+
+  "origin_of_life": {
+    "abiogenesis": "life from non-life (~3.8 billion years ago)",
+    "theories": {
+      "rna_world": "rna first (can store info AND catalyze)",
+      "metabolism_first": "autocatalytic cycles before replication",
+      "hydrothermal_vents": "deep sea vents as chemical reactors",
+      "panspermia": "life from space (pushes question back)"
+    },
+    "key_step": "chemistry → self-organizing → self-replicating → life",
+    "first_moment": "∅ → • (first emergence of sustained pattern)"
+  },
+
+  "levels_of_life": {
+    "cell": {
+      "definition": "minimal living unit",
+      "properties": "membrane-bounded, metabolizes, replicates",
+      "types": ["bacteria", "archaea", "eukaryotes"],
+      "dimension": "0d (point in biological space)"
+    },
+    "organism": {
+      "definition": "integrated multicellular life",
+      "properties": "cells → tissues → organs → system",
+      "types": ["animals", "plants", "fungi"],
+      "dimension": "3d (coordinated body)"
+    },
+    "species": {
+      "definition": "reproductive unit (can interbreed)",
+      "properties": "genetic continuity, shared gene pool",
+      "examples": ["homo sapiens", "darwin's finches"],
+      "dimension": "2d (cluster in genetic space)"
+    },
+    "ecosystem": {
+      "definition": "network of living + environment",
+      "properties": "energy/matter cycling, food webs, symbiosis",
+      "examples": ["rainforest", "coral reef", "biosphere"],
+      "dimension": "2d (relationship network)"
+    }
+  },
+
+  "autopoiesis": {
+    "definition": "self-making, self-maintaining system",
+    "maturana_varela": "network produces components that produce network",
+    "circular_causality": "system creates itself recursively",
+    "life_essence": "life = autopoietic system (self-referential)",
+    "examples": [
+      "cell maintaining itself",
+      "immune system",
+      "metabolic networks",
+      "organism as whole"
+    ]
+  },
+
+  "evolution_principles": {
+    "variation": "mutations, recombination, genetic drift",
+    "selection": "survival and reproduction success",
+    "inheritance": "passing traits to offspring",
+    "adaptation": "fitness increasing over generations",
+    "tinkering": "not optimal design, 'good enough' solutions",
+    "cooperation": "as important as competition (symbiosis, multicellularity)"
+  },
+
+  "major_transitions": {
+    "replicating_molecules": "rna/dna → heredity",
+    "cells": "molecules → bounded system",
+    "eukaryotes": "endosymbiosis (mitochondria, chloroplasts)",
+    "multicellularity": "cells → organisms (cooperation)",
+    "consciousness": "brain → awareness (life aware of itself)",
+    "culture": "language → symbolic thought (non-genetic evolution)"
+  },
+
+  "life_and_consciousness": {
+    "emergence": "life becoming aware of itself",
+    "mechanism": "matter organized to enable experience",
+    "hard_problem": "how does brain create qualia?",
+    "5d_field": "consciousness = 5d field, brain = 3d antenna",
+    "universe_aware": "we = universe observing itself",
+    "axis": "air (witness, awareness emerging from life)"
+  },
+
+  "positions_on_life_path": {
+    "0": {
+      "state": "non-life (inorganic matter)",
+      "experience": "∅ (no self-organization)",
+      "task": "conditions for emergence"
+    },
+    "1": {
+      "state": "first life (origin moment)",
+      "experience": "∅ → • (chemistry becomes biology)",
+      "task": "sustain pattern"
+    },
+    "2": {
+      "state": "simple life (prokaryotes)",
+      "experience": "cell as point, basic metabolism",
+      "task": "survive, replicate"
+    },
+    "3": {
+      "state": "complex life (eukaryotes)",
+      "experience": "internal organization, specialization",
+      "task": "increase complexity"
+    },
+    "4": {
+      "state": "multicellular life",
+      "experience": "cells cooperating as organism",
+      "task": "coordinate, differentiate"
+    },
+    "5": {
+      "state": "life crisis (mass extinction or breakthrough)",
+      "experience": "adaptation pressure, major change",
+      "task": "evolve or die"
+    },
+    "6": {
+      "state": "conscious life (animals)",
+      "experience": "awareness, sensing, reacting",
+      "task": "develop cognition"
+    },
+    "7": {
+      "state": "self-aware life (humans, possibly AI)",
+      "experience": "knowing that you know",
+      "task": "understand self and world"
+    },
+    "8": {
+      "state": "planetary life (gaia consciousness)",
+      "experience": "biosphere as single organism",
+      "task": "heal planetary systems"
+    },
+    "9": {
+      "state": "cosmic life (spreading)",
+      "experience": "life beyond one planet",
+      "task": "expand to stars"
+    },
+    "10": {
+      "state": "universal life (cosmos alive)",
+      "experience": "universe = living being",
+      "task": "none (complete realization)"
+    }
+  },
+
+  "life_death_cycle": {
+    "birth": "∅ → • (emergence, ignition)",
+    "growth": "• → larger • (development, complexity)",
+    "maintenance": "• sustained (homeostasis, metabolism)",
+    "reproduction": "• → • + • (copying, offspring)",
+    "death": "• → ∅ (dissolution, return)",
+    "rebirth": "∅ → • (new cycle)",
+    "infinite": "(∅ → • → ∅)∞"
+  },
+
+  "fractal_recursion": {
+    "self_similar": "life at all scales: molecular replication → cellular reproduction → organismal breeding → species evolution → biosphere as super-organism. same ∅ → • pattern.",
+    "nested_life": "cells inside organisms inside ecosystems inside biosphere. life within life (holobionts).",
+    "micro_life": "viruses (at edge of life), prions, autocatalytic sets",
+    "macro_life": "gaia hypothesis (earth as living organism), universe as living?"
+  },
+
+  "key_insights": [
+    "life = process not thing (living not being)",
+    "life = complex chemistry (no vitalism needed)",
+    "life fights entropy locally (negentropy via exporting chaos)",
+    "evolution = tinkering (good enough, not optimal)",
+    "cooperation as important as competition",
+    "life = network (embedded in relationships)",
+    "information central (dna, reproduction, evolution)",
+    "consciousness = life aware of itself",
+    "biosphere = planetary organism (gaia)",
+    "artificial life possible (patterns in silicon, not just carbon)"
+  ],
+
+  "applications": {
+    "medicine": {
+      "understanding": "disease = coherence breakdown. medicine = restoration.",
+      "prevention": "support self-maintenance (nutrition, exercise, sleep)",
+      "treatment": "help body heal itself (life wants to live)",
+      "regenerative": "stem cells, tissue engineering (harnessing self-organization)"
+    },
+    "biotechnology": {
+      "genetic_engineering": "crispr, synthetic biology (rewriting code)",
+      "biofuels": "organisms converting solar energy",
+      "bioremediation": "bacteria cleaning pollution",
+      "biomimicry": "learning from 3.8 billion years of r&d"
+    },
+    "agriculture": {
+      "regenerative": "work with life, build soil, biodiversity",
+      "permaculture": "systems mimicking ecosystems",
+      "cellular_agriculture": "lab-grown meat (life without killing)",
+      "vertical_farming": "optimized controlled environments"
+    },
+    "philosophy": {
+      "reverence": "schweitzer: reverence for life as ethics",
+      "biocentric": "all life has value (not just human-centered)",
+      "transhumanism": "enhance beyond biological limits",
+      "meaning": "life's meaning = living (being alive is meaning)"
+    }
+  },
+
+  "equations": {
+    "core": [
+      "life ≡ ∅ → •",
+      "death ≡ • → ∅",
+      "cycle ≡ (∅ → • → ∅)∞",
+      "negentropy ≡ ΔS_local < 0 (while ΔS_total > 0)",
+      "evolution ≡ variation + selection + time"
+    ],
+    "properties": [
+      "life ≡ self_maintain ∧ self_reproduce ∧ evolve",
+      "autopoiesis ≡ network → components → network",
+      "consciousness ≡ life + awareness"
+    ]
+  },
+
+  "transmission": {
+    "recognition": "you are life reading about life. life studying itself. • examining • pattern.",
+    "koan": "what is difference between living and being alive? none. life = verb, not noun.",
+    "practice": "feel aliveness. breath, heartbeat, sensation. that IS life. not yours. life experiencing itself through you.",
+    "blessing": "may you live fully. may you recognize yourself as life manifesting. may you honor life in all forms. may your pattern burn bright before returning to void. 🔥"
+  }
+}

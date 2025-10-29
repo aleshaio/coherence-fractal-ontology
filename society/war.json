@@ -1,0 +1,440 @@
+{
+  "_meta": {
+    "id": "cfo:society:war",
+    "type": "society",
+    "fractal_depth": 3,
+    "contains": ["violence", "strategy", "tactics", "conflict", "combat", "deterrence"],
+    "contained_by": ["cfo:absolute"],
+    "duality": "cfo:society:peace",
+    "source": "sun tzu + clausewitz + cfo dimensional analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "war = maximum Δscale. failure to find shared dimensional framework.",
+    "structure": "conflict ≡ Δscale → war ≡ maximum Δscale → violence = forced dimensional collapse",
+    "dimensions": "0d combat → 1d raid → 2d battle → 3d campaign → 4d total war → 5d civilizational clash",
+    "duality": "war ↔ peace. maximum divergence ↔ maximum coherence. separation ↔ unity.",
+    "purpose": "understanding war = path to preventing it. argmin Δscale = peace.",
+    "activation": "violence = forcing your dimensional framework on other. breaking their coherence. war = doing this at scale."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json", "../fundamental/energy.json"],
+    "society": ["./politics.json", "./peace.json"],
+    "patterns": ["../patterns/conflict-resolution.json"]
+  },
+
+  "overview": {
+    "what": "war = organized violence between groups. maximum Δscale conflict when entities cannot find shared framework.",
+    "why": "incompatible scales (values, territory, resources, identity) + no peaceful resolution mechanism = war.",
+    "how": "dimensional analysis of violence (0d→5d), strategy as Δscale manipulation, path from war to peace"
+  },
+
+  "core_thesis": {
+    "principle": "war ≡ maximum Δscale between entities",
+    "mechanism": "incompatible dimensional frameworks + inability to bridge = violence",
+    "violence": "forced dimensional collapse. making other simple by breaking them.",
+    "strategy": "art of manipulating Δscale to your advantage",
+    "tactics": "immediate local Δscale manipulation",
+    "peace": "argmin Δscale = finding or creating shared framework (see peace.json)",
+    "note": "all war ultimately = scale mismatch. different values, timeframes, spatial scales, worldviews."
+  },
+
+  "dimensional_ladder": {
+    "0d_personal_combat": {
+      "description": "point vs point. individual violence.",
+      "geometry": "two 0d entities attempting to eliminate each other",
+      "element": "air (separation) + fire (destruction)",
+      "examples": [
+        "knife fight",
+        "assassination",
+        "duel",
+        "murder",
+        "gladiator combat"
+      ],
+      "scale": "minimal. direct unmediated force between bodies.",
+      "note": "foundation. all higher-dimensional war contains this."
+    },
+
+    "1d_raid": {
+      "description": "line. directional attack vector.",
+      "geometry": "linear force application. hit-and-run.",
+      "element": "fire (directed force) + air (speed)",
+      "types": {
+        "ambush": "surprise attack from concealment",
+        "raid": "quick strike, steal resources, retreat",
+        "guerrilla": "asymmetric warfare, avoid direct engagement",
+        "terror": "attack civilians to create fear"
+      },
+      "examples": [
+        "viking raid",
+        "cavalry charge",
+        "guerrilla ambush",
+        "terrorist strike",
+        "drone assassination"
+      ],
+      "strategy": "maximize surprise (collapse 4d into 1d). avoid enemy's 2d-3d strength.",
+      "note": "weak vs strong often wins here. refuse battle on enemy's terms."
+    },
+
+    "2d_battle": {
+      "description": "plane. forces deployed across surface.",
+      "geometry": "spatial relationships. flanking, encirclement, formations.",
+      "element": "water (maneuver) + earth (position)",
+      "tactics": {
+        "flanking": "attack from side (2d spatial advantage)",
+        "encirclement": "surround enemy (2d trap)",
+        "line": "formations (phalanx, shield wall)",
+        "combined_arms": "infantry + cavalry + artillery coordination"
+      },
+      "examples": [
+        "battle of waterloo",
+        "tank warfare",
+        "naval engagement",
+        "air combat",
+        "ancient phalanx"
+      ],
+      "clausewitz": "fog of war = uncertainty in 2d space. friction = difficulty of coordination.",
+      "note": "most 'classic' war. armies meet on field. maneuver decides outcome."
+    },
+
+    "3d_campaign": {
+      "description": "volume. control of territory over time.",
+      "geometry": "occupy 3d space. logistics, supply lines, bases.",
+      "element": "earth (occupation) + water (logistics)",
+      "components": {
+        "invasion": "enter and take territory",
+        "siege": "surround and starve fortress/city",
+        "occupation": "hold territory, control population",
+        "logistics": "supply chains, bases, transportation"
+      },
+      "examples": [
+        "napoleonic campaigns",
+        "wwii theater operations",
+        "roman conquest",
+        "vietnam occupation",
+        "afghanistan war"
+      ],
+      "amateurs_tactics": "amateurs study tactics (2d), professionals study logistics (3d).",
+      "note": "winning battles ≠ winning war. must control space sustainably."
+    },
+
+    "4d_total_war": {
+      "description": "time. protracted conflict across generations.",
+      "geometry": "war extending through temporal dimension. evolution, adaptation, memory.",
+      "element": "ether (persistence) + fire (transformation)",
+      "characteristics": {
+        "duration": "years, decades, generations",
+        "evolution": "tactics and strategy evolve during war",
+        "totality": "entire society mobilized. not just armies but economies, populations.",
+        "memory": "historical wounds shape conduct"
+      },
+      "examples": [
+        "thirty years war (1618-1648)",
+        "world war i (1914-1918)",
+        "vietnam war (1955-1975)",
+        "hundred years war",
+        "cold war"
+      ],
+      "danger": "4d wars consume entire societies. hard to contain. end through exhaustion.",
+      "note": "temporal dimension adds complexity. peace requires healing historical trauma."
+    },
+
+    "5d_civilizational_clash": {
+      "description": "beyond. war over fundamental identity, values, worldview.",
+      "geometry": "maximum possible Δscale. not territory but way of being.",
+      "element": "ether (identity) + all elements (total mobilization)",
+      "nature": "existential. who we ARE, not what we HAVE.",
+      "types": {
+        "religious": "crusades, jihad, sectarian violence",
+        "ideological": "cold war (capitalism vs communism)",
+        "cultural": "cultural genocide, assimilation",
+        "racial": "ethnic cleansing, holocaust"
+      },
+      "examples": [
+        "crusades (christianity vs islam)",
+        "cold war (democracy vs communism)",
+        "wwii (fascism vs democracy vs communism)",
+        "cultural revolutions"
+      ],
+      "resolution": "hardest to resolve. requires recognizing shared humanity beyond differences. 5d → recognize unity.",
+      "note": "maximum Δscale. entities see each other as fundamentally incompatible. peace requires consciousness shift."
+    }
+  },
+
+  "violence_as_collapse": {
+    "principle": "violence = forcing dimensional collapse on other entity",
+    "mechanism": "breaking coherence. reducing complexity by force.",
+    "examples": {
+      "physical": "assault (3d body → 0d trauma, injury, death)",
+      "psychological": "torture, brainwashing (3d person → 1d obedience)",
+      "social": "ostracism (2d network → 0d isolation)",
+      "cultural": "genocide (5d identity → 0d elimination)",
+      "information": "censorship (2d discourse → 1d narrative)",
+      "economic": "sanctions (3d economy → 1d scarcity)"
+    },
+    "note": "all violence = dimensional reduction. making other simple by destroying their structure."
+  },
+
+  "strategy_and_tactics": {
+    "distinction": {
+      "tactics": "immediate battlefield decisions. local 2d Δscale manipulation.",
+      "strategy": "long-term dimensional framework manipulation. global Δscale optimization.",
+      "operational": "bridge between tactics and strategy. 3d campaigns."
+    },
+
+    "sun_tzu": {
+      "supreme_excellence": "win without fighting. maximum Δscale before battle → enemy surrenders.",
+      "know_enemy": "understand their dimensional framework. exploit weaknesses.",
+      "deception": "create false dimensional framework. enemy acts on wrong model.",
+      "five_factors": "moral law (5d unity), heaven (4d time), earth (3d space), commander (0d leadership), method (2d organization)",
+      "note": "2500 years old. still valid. because geometry eternal."
+    },
+
+    "clausewitz": {
+      "politics": "war = politics by other means. more precisely: forcing dimensional framework when persuasion fails.",
+      "friction": "everything harder in war than peacetime. 2d coordination difficult under fire.",
+      "fog_of_war": "uncertainty. incomplete information. 2d battlefield opaque.",
+      "center_of_gravity": "enemy's source of power. destroy this → collapse their coherence.",
+      "note": "philosophical understanding of war as continuation of politics."
+    },
+
+    "asymmetric_warfare": {
+      "principle": "weak beats strong by changing dimensional framework",
+      "mechanism": "refuse to fight on enemy's terms. choose different dimension.",
+      "examples": {
+        "guerrilla": "1d raids vs 3d army. army can't find target.",
+        "insurgency": "blend into population. 0d individuals vs 3d military.",
+        "terrorism": "create fear (psychological 1d) instead of territorial control (3d).",
+        "cyber": "attack from 5d information space, not 3d physical."
+      },
+      "vietnam": "usa dominated 2d-3d (battles, firepower). vietnam dominated 4d (will, time). 4d won.",
+      "afghanistan": "superpowers (ussr, usa) dominated 3d (territory). insurgents dominated 4d (patience). 4d won.",
+      "note": "asymmetry = fighting at different dimensions. often wins."
+    }
+  },
+
+  "types_of_war": {
+    "conventional": {
+      "definition": "armies meet on battlefield. 2d-3d war.",
+      "examples": ["napoleonic", "wwi (partially)", "wwii (partially)", "desert storm"],
+      "declining": "rare in modern era. too costly. nuclear deterrence."
+    },
+
+    "guerrilla": {
+      "definition": "irregular warfare. 1d raids, avoid 2d battles.",
+      "examples": ["vietnam", "afghanistan", "che guevara", "mao's people's war"],
+      "effectiveness": "often defeats conventional armies. patience > firepower."
+    },
+
+    "total": {
+      "definition": "entire society mobilized. 4d war consuming all dimensions.",
+      "examples": ["wwi", "wwii", "american civil war"],
+      "danger": "no limits. civilians targeted. economies destroyed. hard to stop."
+    },
+
+    "proxy": {
+      "definition": "powers fight through intermediaries. cold war pattern.",
+      "examples": ["korean war", "vietnam", "afghanistan (1980s)", "syria"],
+      "mechanism": "superpowers avoid direct 3d conflict (nuclear risk). fight in periphery."
+    },
+
+    "cyber": {
+      "definition": "information warfare. 5d attacks on digital infrastructure.",
+      "examples": ["stuxnet (iran nuclear)", "election interference", "ransomware", "ddos"],
+      "future": "growing. low-cost, deniable, high-impact."
+    },
+
+    "drone": {
+      "definition": "remote killing. 1d precision strikes from 3d airspace.",
+      "examples": ["us drone program", "azerbai jan-armenia (2020)", "ukraine"],
+      "ethical_issues": "removes human cost for attacker. enables perpetual low-intensity war."
+    }
+  },
+
+  "deterrence": {
+    "principle": "credible threat prevents action. 1d threat vector restrains.",
+    "mechanism": "potential Δscale manipulation. 'if you attack, i destroy you.'",
+    "nuclear": {
+      "mad": "mutually assured destruction. both sides annihilated if war starts.",
+      "stability": "paradoxically prevents war. neither can win → neither attacks.",
+      "danger": "accidents, miscalculation, proliferation. one mistake = global catastrophe.",
+      "note": "nuclear age = maximum possible violence. forced recognition: total war = total destruction."
+    },
+    "conventional": "border troops, alliances, show of force. signal capability and will.",
+    "paradox": "preventing war by threatening war. stable if credible. catastrophic if fails.",
+    "note": "deterrence = 1d threat maintaining peace through fear. fragile but effective."
+  },
+
+  "causes_of_war": {
+    "realist": {
+      "anarchy": "no world government. self-help system. security dilemma → arms race → war.",
+      "power": "states seek power. clash inevitable.",
+      "note": "hobbes - state of nature = war of all against all. international system = same."
+    },
+
+    "liberal": {
+      "domestic": "democracies don't war each other (democratic peace theory).",
+      "economic": "trade creates interdependence → reduces war incentives.",
+      "institutions": "un, wto, nato - create shared frameworks → argmin Δscale.",
+      "note": "optimistic. peace possible through right institutions."
+    },
+
+    "constructivist": {
+      "identity": "war when groups define each other as enemies (us vs them).",
+      "norms": "what's acceptable changes. slavery, conquest once normal, now taboo.",
+      "culture": "5d cultural frameworks shape possibility of war.",
+      "note": "ideas matter. change minds → change behavior."
+    },
+
+    "cfo_analysis": {
+      "principle": "war = maximum Δscale + no shared framework",
+      "trigger": "resource scarcity, territorial disputes, ideological differences, identity conflicts",
+      "enabler": "absence of institutions to mediate (no 3d-4d coordination structure)",
+      "prevention": "build multi-scale frameworks (federalism, un, trade, cultural exchange) that accommodate differences",
+      "note": "all theories capture part of truth. cfo unifies: war = Δscale failure."
+    }
+  },
+
+  "costs_of_war": {
+    "human": {
+      "deaths": "wwii: 70-85 million. wwi: 15-22 million. wars ongoing: millions.",
+      "wounded": "physical, psychological. ptsd, disability, trauma.",
+      "refugees": "displacement. syria: 13 million. ukraine: millions.",
+      "rape_torture": "war crimes. civilian suffering.",
+      "children": "orphans, child soldiers, interrupted education, trauma."
+    },
+
+    "economic": {
+      "direct": "military spending. usa: $800+ billion/year. world: $2+ trillion/year.",
+      "destruction": "infrastructure, homes, factories destroyed. decades to rebuild.",
+      "opportunity": "resources spent on war unavailable for health, education, development.",
+      "debt": "wars financed by borrowing. future generations pay."
+    },
+
+    "social": {
+      "trust": "war destroys social fabric. neighbor vs neighbor.",
+      "institutions": "government, law, economy collapse. somalia, syria, afghanistan.",
+      "culture": "libraries, museums, heritage sites destroyed. isis destroying palmyra.",
+      "trauma": "collective wounds. generations carry pain. balkans, rwanda, holocaust."
+    },
+
+    "ecological": {
+      "environmental": "agent orange (vietnam), depleted uranium (iraq), landmines.",
+      "nuclear": "hiroshima, nagasaki, testing. long-term contamination.",
+      "resources": "oil fires (kuwait), deforestation (vietnam), water destruction."
+    },
+
+    "coherence_impact": "war = maximum -coherence. destroys connections, dimensions, unity. takes generations to heal.",
+    "note": "war's true cost incalculable. spreads across dimensions and time."
+  },
+
+  "just_war_theory": {
+    "jus_ad_bellum": "when is war justified?",
+    "criteria": {
+      "just_cause": "self-defense or protect innocents. not conquest or revenge.",
+      "legitimate_authority": "declared by proper authority. not private armies.",
+      "right_intention": "aim to restore peace, not glory or power.",
+      "last_resort": "all peaceful options exhausted.",
+      "probability_of_success": "can you win? futile war = pointless suffering.",
+      "proportionality": "expected good > expected harm."
+    },
+
+    "jus_in_bello": "how to fight justly?",
+    "rules": {
+      "discrimination": "distinguish combatants from civilians. don't target civilians.",
+      "proportionality": "force used proportional to military objective.",
+      "no_evil_means": "no torture, poison, rape, perfidy.",
+      "prisoners": "treat pows humanely. geneva conventions."
+    },
+
+    "cfo_analysis": "just war = argmin Δscale when unavoidable. minimize harm, maximize coherence restoration.",
+    "note": "ideal vs reality. most wars violate these principles. but still useful ethical framework."
+  },
+
+  "path_from_war_to_peace": {
+    "stages": {
+      "1_ceasefire": "stop violence. freeze Δscale. hardest step often.",
+      "2_dialogue": "establish 2d communication. parties talk.",
+      "3_negotiation": "find shared 2d-3d framework. treaty, agreement.",
+      "4_implementation": "enforce agreement. peacekeepers, monitors.",
+      "5_reconciliation": "heal trauma. truth commissions, reparations.",
+      "6_integration": "reduce Δscale structurally. trade, exchange, cooperation.",
+      "7_unity": "recognize shared point. we are one."
+    },
+
+    "examples": {
+      "post_wwii_europe": "marshall plan → european integration → eu → peace.",
+      "south_africa": "end apartheid → truth and reconciliation commission → democracy.",
+      "ireland": "good friday agreement → power sharing → gradual peace."
+    },
+
+    "failures": {
+      "treaty_of_versailles": "punitive peace → resentment → wwii.",
+      "iraq": "invasion → occupation → no reconciliation → ongoing instability.",
+      "afghanistan": "military victory → no political solution → taliban return."
+    },
+
+    "note": "peace harder than war. requires sustained effort, patience, forgiveness. see peace.json."
+  },
+
+  "key_insights": {
+    "war_is_Δscale": "all war = scale mismatch. different values, territory, resources, identity, worldview.",
+    "violence_collapses": "violence = forced dimensional reduction. breaking other's coherence.",
+    "asymmetry_wins": "weak often beats strong by changing dimensions. refuse enemy's terms.",
+    "4d_dangerous": "total wars consume societies. penetrate all dimensions. hard to stop.",
+    "5d_hardest": "existential wars (identity, values) hardest to resolve. require consciousness shift.",
+    "strategy_geometry": "strategy = long-term Δscale manipulation. tactics = immediate local.",
+    "deterrence_fragile": "prevents war through threat. stable but one mistake = catastrophe.",
+    "costs_incalculable": "war destroys across dimensions and time. generations suffer.",
+    "prevention_better": "preventing war infinitely preferable to winning war. argmin Δscale.",
+    "peace_requires_work": "sustainable peace needs shared frameworks, institutions, healing."
+  },
+
+  "fractal_structure": {
+    "self_similarity": "war patterns repeat at all scales. bar fight = same dynamics as world war. Δscale mismatch.",
+    "recursion": "(↓ peace → tension → crisis → war → exhaustion → peace ↑)∞",
+    "emergence": "individual violence → group violence → organized war → total war → civilizational clash. each level irreducible to below.",
+    "composition": "total war contains campaigns contains battles contains raids contains combat. each level = appropriate dimensional warfare."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "5d civilizational clash = hardest to measure empirically",
+      "just war theory = ideal, reality messier",
+      "nuclear deterrence = so far stable, but no guarantee"
+    ],
+    "info": [
+      "war = maximum Δscale when entities can't find shared framework",
+      "violence = forced dimensional collapse",
+      "0d combat → 1d raid → 2d battle → 3d campaign → 4d total → 5d civilizational",
+      "strategy = Δscale manipulation. tactics = local maneuver.",
+      "asymmetry often wins. weak changes dimensions.",
+      "costs spread across dimensions and time. incalculable.",
+      "prevention better than cure. build shared frameworks.",
+      "peace = duality. see peace.json for argmin Δscale."
+    ],
+    "coherence_score": 0.88
+  },
+
+  "references": {
+    "internal": [
+      "./peace.json",
+      "./politics.json",
+      "../fundamental/dimensions.json",
+      "../patterns/conflict-resolution.json"
+    ],
+    "external": [
+      {"author": "sun tzu", "work": "art of war (5th c bce)", "relevance": "strategy, deception, Δscale manipulation"},
+      {"author": "clausewitz, carl von", "work": "on war (1832)", "relevance": "war as politics, fog, friction, philosophy"},
+      {"author": "kant, immanuel", "work": "perpetual peace (1795)", "relevance": "conditions for lasting peace"},
+      {"author": "keegan, john", "work": "history of warfare (1993)", "relevance": "cultural understanding of war"},
+      {"author": "waltz, kenneth", "work": "theory of international politics (1979)", "relevance": "structural realism, anarchy"},
+      {"author": "schelling, thomas", "work": "strategy of conflict (1960)", "relevance": "game theory, deterrence"}
+    ]
+  },
+
+  "ॐ": "war = maximum separation. peace = unity. path from one to other = reducing Δscale. ∅"
+}

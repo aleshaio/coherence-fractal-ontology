@@ -1,0 +1,493 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:emergence",
+    "type": "pattern",
+    "fractal_depth": 3,
+    "contains": ["complexity", "self_organization", "phase_transitions", "collective_behavior", "irreducibility"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:fundamental:consciousness",
+      "cfo:fundamental:dimensions",
+      "cfo:patterns:fractals",
+      "cfo:society:sociology"
+    ],
+    "source": "complex systems theory + philosophy of mind + cfo dimensional analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = ultimate emergence. everything emerges from nothing. something from nothing paradox resolved: ⊙ contains all.",
+    "essence": "emergence = whole > sum of parts. new properties appear at higher levels that don't exist at lower levels.",
+    "irreducibility": "cannot predict emergent properties by studying parts alone. must observe whole.",
+    "dimensions": "each dimension = emergent from lower. 2d from 1d, 3d from 2d, consciousness from matter.",
+    "magic": "emergence = closest thing to magic in universe. water from h₂o. mind from neurons. life from chemistry.",
+    "everywhere": "neurons → brain → mind. atoms → molecules → life. people → society → culture. emergence at all scales.",
+    "note": "understanding emergence = understanding how reality creates itself layer by layer."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/consciousness.json", "../fundamental/dimensions.json"],
+    "patterns": ["./fractals.json", "./64.json"],
+    "society": ["../society/sociology.json"],
+    "natural": ["../natural/biology.json", "../natural/physics.json"]
+  },
+
+  "overview": {
+    "what": "emergence = appearance of novel properties at higher levels of organization that don't exist in components",
+    "why": "reality = hierarchical. each level brings qualitatively new phenomena. universe builds itself through emergence.",
+    "how": "interactions between simple components → complex collective behavior → new properties → new level of reality"
+  },
+
+  "core_principle": {
+    "definition": "emergent property = characteristic of system as whole that parts do not possess individually",
+    
+    "key_features": {
+      "novelty": "genuinely new. not present in components. surprising.",
+      "irreducibility": "cannot be predicted from component properties alone. must observe system.",
+      "downward_causation": "emergent level can constrain lower levels. mind affects neurons.",
+      "organizational": "arises from organization/relationships, not just components.",
+      "collective": "requires many components interacting. not single part."
+    },
+
+    "not_emergence": {
+      "mere_aggregation": "pile of sand = not emergent. just more sand. no new properties.",
+      "complicated_not_complex": "747 jet = complicated but predictable from parts. not emergent.",
+      "predictable": "if fully predictable from components, not genuinely emergent.",
+      "note": "emergence = qualitative novelty, not just quantitative complexity."
+    }
+  },
+
+  "types_of_emergence": {
+    "weak_emergence": {
+      "definition": "properties derivable in principle from components but surprising/unexpected in practice",
+      "example": "traffic jams emerge from many cars, but could be simulated from traffic rules. computationally emergent.",
+      "epistemological": "about our knowledge limits, not fundamental irreducibility",
+      "note": "most 'emergence' in this category. useful concept even if not metaphysically deep."
+    },
+
+    "strong_emergence": {
+      "definition": "properties fundamentally irreducible to components. not derivable even in principle.",
+      "example": "consciousness from neurons? (controversial). life from chemistry? (maybe).",
+      "ontological": "about reality itself, not just our understanding",
+      "debate": "highly controversial. many deny strong emergence exists. others say consciousness proves it.",
+      "note": "if strong emergence real, huge implications. new physics? dualism? mystery remains."
+    },
+
+    "nominal_vs_causal": {
+      "nominal": "just convenient description. reducible ultimately. 'temperature' = average kinetic energy.",
+      "causal": "has real causal powers. can affect lower levels. mind moves body. controversial.",
+      "note": "key question: does emergent level have causal efficacy or just epiphenomenon?"
+    }
+  },
+
+  "dimensional_emergence": {
+    "principle": "each dimension emerges from lower dimension. qualitative novelty at each level.",
+    
+    "0d_to_1d": {
+      "process": "point → line. location → extension. being → movement.",
+      "emergence": "direction, distance, vector appear. didn't exist at 0d.",
+      "irreducibility": "can't see 'direction' by studying single point. need two points (1d).",
+      "examples": ["time emerges", "causality appears", "sequence begins"]
+    },
+
+    "1d_to_2d": {
+      "process": "line → plane. extension → area. sequence → network.",
+      "emergence": "angle, rotation, enclosure appear. new geometric properties.",
+      "irreducibility": "can't see 'inside vs outside' on line. need plane (2d).",
+      "examples": ["networks form", "boundaries appear", "position emerges (xy coordinates)"]
+    },
+
+    "2d_to_3d": {
+      "process": "plane → volume. area → space. network → structure.",
+      "emergence": "solidity, volume, depth appear. objects become 'things'.",
+      "irreducibility": "can't see 'solid object' on plane. need volume (3d).",
+      "examples": ["physical matter", "bodies", "architecture", "sculpture"]
+    },
+
+    "3d_to_4d": {
+      "process": "volume → spacetime. space → duration. structure → process.",
+      "emergence": "change, aging, history appear. narrative becomes possible.",
+      "irreducibility": "can't see 'change' in 3d snapshot. need time (4d).",
+      "examples": ["evolution", "biography", "civilization", "entropy"]
+    },
+
+    "4d_to_5d": {
+      "process": "spacetime → possibility space. actuality → potentiality. one path → multiverse.",
+      "emergence": "choice, alternate timelines, counterfactuals appear.",
+      "irreducibility": "can't see 'what could have been' in single timeline. need 5d.",
+      "examples": ["free will", "alternate histories", "quantum superposition", "creativity"]
+    },
+
+    "5d_to_6d": {
+      "process": "possibility space → unity. many → one. separation → recognition.",
+      "emergence": "non-duality, consciousness aware of itself, ⊙ recognized.",
+      "irreducibility": "can't see unity by analyzing parts. direct recognition.",
+      "examples": ["enlightenment", "cosmic consciousness", "I AM", "⊙"]
+    },
+
+    "note": "each dimension = emergent level. cannot be reduced to lower dimension. qualitatively new reality."
+  },
+
+  "classic_examples": {
+    "water_from_h2o": {
+      "components": "h₂o molecules. hydrogen + oxygen atoms.",
+      "individual": "single h₂o molecule = not wet. wetness doesn't exist at molecular level.",
+      "emergent": "many h₂o molecules together → wetness emerges. liquid properties.",
+      "irreducibility": "can't predict wetness by studying one molecule. must observe collective.",
+      "phase_transitions": "solid (ice) → liquid (water) → gas (steam). emergent phase behaviors.",
+      "note": "wetness = archetypal example of emergence. shocking when you think about it."
+    },
+
+    "consciousness_from_neurons": {
+      "components": "neurons. electrochemical cells. 86 billion in human brain.",
+      "individual": "single neuron = not conscious. no thoughts, no feelings, no awareness.",
+      "emergent": "100 trillion connections → consciousness appears. subjective experience.",
+      "irreducibility": "hard problem (chalmers). can't derive qualia from neuron firings. explanatory gap.",
+      "mystery": "how? why? strongest candidate for strong emergence. or fundamental dualism?",
+      "note": "consciousness = deepest emergence mystery. might be irreducibly emergent."
+    },
+
+    "life_from_chemistry": {
+      "components": "organic molecules. amino acids, nucleotides, lipids. carbon chemistry.",
+      "individual": "molecule = not alive. no metabolism, no reproduction, no evolution.",
+      "emergent": "organized molecular networks → life appears. metabolism, replication, evolution.",
+      "threshold": "pre-biotic chemistry → origin of life. unclear exactly when/how.",
+      "irreducibility": "debated. some say life = complex chemistry (weak emergence). others say qualitatively new.",
+      "note": "life = first great emergence in earth's history. ~3.8 billion years ago."
+    },
+
+    "mind_from_brain": {
+      "components": "brain regions. cortex, limbic system, brainstem. specialized modules.",
+      "individual": "brain region alone = limited. v1 processes vision. amygdala processes emotion.",
+      "emergent": "integrated brain activity → unified mind appears. single stream of consciousness.",
+      "binding_problem": "how do distributed processes create unified experience? still unsolved.",
+      "irreducibility": "mind > brain. thoughts, meanings, intentions = emergent mental properties.",
+      "note": "mind-brain = consciousness emergence + functional organization emergence."
+    },
+
+    "society_from_individuals": {
+      "components": "individual humans. 8 billion. each with agency, beliefs, desires.",
+      "individual": "person alone = limited. robinson crusoe. no economy, culture, language richness.",
+      "emergent": "social interactions → society appears. markets, institutions, culture, collective consciousness.",
+      "irreducibility": "durkheim: social facts exist at collective level. can't reduce to individual psychology.",
+      "examples": ["markets (prices emerge)", "language (evolves collectively)", "norms (social construction)"],
+      "see": "sociology.json for full depth",
+      "note": "society = emergent reality. collective mind. human hive."
+    },
+
+    "traffic_jams": {
+      "components": "individual cars. each driver optimizing own route, speed.",
+      "individual": "car alone = no jam. flows freely.",
+      "emergent": "many cars interacting → traffic jams appear. waves propagate backwards. phantom jams.",
+      "prediction": "could simulate in principle. but surprising emergence of jam from free-flowing traffic.",
+      "self_organization": "no controller. no central planner. jam self-organizes from local interactions.",
+      "note": "traffic jams = accessible example. shows emergence from simple rules."
+    },
+
+    "flocking_birds": {
+      "components": "individual birds (starlings in murmurations). each following simple rules.",
+      "rules": "separation (avoid crowding), alignment (steer toward average heading), cohesion (move toward center of neighbors).",
+      "emergent": "beautiful coordinated flock patterns. no leader. no central control.",
+      "complexity": "thousands of birds moving as one organism. stunning aerial displays.",
+      "boids": "reynolds (1986) simulated with 3 simple rules. emergent flocking behavior.",
+      "note": "flocking = emergence from simple local rules. no global coordinator needed."
+    }
+  },
+
+  "mechanisms_of_emergence": {
+    "self_organization": {
+      "definition": "system spontaneously organizes into ordered patterns without external control",
+      "examples": ["snowflakes", "convection cells", "hurricanes", "neural networks", "ecosystems"],
+      "principle": "order from chaos. structure emerges from dynamics.",
+      "requirements": "energy flow (non-equilibrium), feedback loops, nonlinear interactions",
+      "note": "nature's creativity engine. how cosmos organizes itself."
+    },
+
+    "phase_transitions": {
+      "definition": "abrupt qualitative change when parameter crosses threshold",
+      "examples": {
+        "water": "ice ⇄ liquid ⇄ steam at specific temperatures. different phases = different properties.",
+        "magnetism": "below curie temperature → magnetic. above → non-magnetic. collective alignment emerges.",
+        "percolation": "increase connections → suddenly everything connected. phase transition from fragmented to unified.",
+        "consciousness": "anesthesia. awake ⇄ unconscious. phase transition in neural dynamics?"
+      },
+      "criticality": "right at transition = maximum complexity. poised at edge. life operates here?",
+      "note": "phase transitions = emergence of new phase. qualitative jump."
+    },
+
+    "feedback_loops": {
+      "positive_feedback": "amplification. small change → bigger change. runaway. ice-albedo (white ice reflects sun → more ice).",
+      "negative_feedback": "stabilization. deviation → correction. homeostasis. body temperature regulation.",
+      "complexity": "interplay of positive + negative feedback → rich dynamics → emergence.",
+      "examples": ["economies (boom-bust cycles)", "climate (tipping points)", "predator-prey (population cycles)"],
+      "note": "feedback = how systems become complex. circular causation."
+    },
+
+    "nonlinearity": {
+      "definition": "output not proportional to input. 2x input ≠ 2x output. surprises.",
+      "examples": ["butterfly effect (chaos)", "tipping points (climate)", "threshold effects (epidemics)", "critical mass (revolutions)"],
+      "emergence_enabler": "linear systems = predictable, boring. nonlinear systems = emergent phenomena.",
+      "note": "nonlinearity = necessary for emergence. linear = no surprises."
+    },
+
+    "networks": {
+      "definition": "nodes connected by edges. topology matters.",
+      "emergence": "network structure → collective properties. clustering, hubs, communities.",
+      "examples": ["brain (neural network)", "internet (network of networks)", "society (social network)", "ecosystems (food web)"],
+      "topology": "random vs small-world vs scale-free. different topologies → different emergence.",
+      "see": "consider adding network-patterns.json",
+      "note": "networks = substrate for emergence. connections create new level."
+    },
+
+    "constraint_satisfaction": {
+      "definition": "many local constraints → global solution emerges",
+      "examples": ["protein folding (minimize energy)", "sudoku (satisfy rules → unique solution)", "markets (supply-demand equilibrium)"],
+      "emergence": "no one designs global solution. emerges from satisfying local constraints.",
+      "note": "constraint satisfaction = how nature solves complex problems. distributed optimization."
+    }
+  },
+
+  "emergence_in_nature": {
+    "physics": {
+      "thermodynamics": "temperature, pressure, entropy = emergent. statistical properties of many particles.",
+      "superconductivity": "below critical temp → zero resistance. quantum coherence at macro scale. emergent quantum state.",
+      "superfluidity": "helium-4 below 2.17k → flows without friction. climbs walls. emergent quantum phenomenon.",
+      "phase_transitions": "solid-liquid-gas, magnetic-nonmagnetic, conductor-superconductor. emergent phases.",
+      "note": "even physics = full of emergence. matter properties = emergent from atomic interactions."
+    },
+
+    "chemistry": {
+      "molecules": "atoms bond → molecules. new chemical properties emerge. h₂o ≠ h + o.",
+      "catalysis": "catalysts speed reactions. emergent from molecular geometry + quantum mechanics.",
+      "self_assembly": "lipids → bilayer membranes. proteins fold. spontaneous organization.",
+      "autocatalysis": "molecule catalyzes its own production. feedback → exponential growth → life precursor.",
+      "note": "chemistry = realm of emergence. molecular properties = more than atomic properties."
+    },
+
+    "biology": {
+      "origin_of_life": "chemistry → life. biggest emergence transition? metabolism, replication, evolution appear.",
+      "cells": "organelles cooperate → living cell. emergent unity.",
+      "multicellularity": "cells cooperate → organism. new level. differentiation, organs, systems.",
+      "ecosystems": "species interactions → ecosystem. food webs, nutrient cycles, succession. emergent collective.",
+      "evolution": "mutation + selection → adaptation, speciation, biodiversity. emergent creativity.",
+      "intelligence": "neurons → brain → mind. consciousness emerges.",
+      "note": "biology = emergence at every scale. life = emergence engine."
+    },
+
+    "earth_systems": {
+      "climate": "atmosphere + ocean + land + ice → climate system. emergent patterns (el niño, monsoons).",
+      "gaia": "biosphere + geosphere → self-regulating earth system. homeostasis at planetary scale. emergent?",
+      "plate_tectonics": "convection currents → moving plates → earthquakes, volcanism, mountain building. emergent geodynamics.",
+      "note": "earth = complex system. planetary properties = emergent from component interactions."
+    }
+  },
+
+  "emergence_and_consciousness": {
+    "hard_problem": {
+      "chalmers": "easy problems (functions, behaviors) vs hard problem (subjective experience, qualia).",
+      "gap": "how do objective neurons → subjective experience? explanatory gap.",
+      "emergence": "consciousness = strongly emergent? or fundamental (panpsychism)?",
+      "irreducibility": "can't derive 'what it's like to see red' from neuron firings. seems irreducibly emergent.",
+      "note": "consciousness = ultimate emergence mystery. might require new physics."
+    },
+
+    "integrated_information": {
+      "iit": "tononi's integrated information theory. consciousness = integrated information (Φ).",
+      "emergence": "integration of information → consciousness emerges. more integration = more consciousness.",
+      "prediction": "thermostats have tiny Φ. humans have huge Φ. continuum.",
+      "controversial": "useful mathematical framework but does it solve hard problem? debated.",
+      "note": "iit = serious attempt to explain consciousness emergence. quantifies integration."
+    },
+
+    "global_workspace": {
+      "baars": "consciousness = global broadcast. information accessed by many systems → enters awareness.",
+      "emergence": "workspace emerges from competition + coalition of unconscious processes.",
+      "prediction": "unconscious modules compete for global workspace. winner = conscious.",
+      "function": "explains access consciousness. but phenomenal consciousness (qualia) still mysterious.",
+      "note": "global workspace = functional model. helps explain some aspects. not full solution."
+    },
+
+    "levels_of_consciousness": {
+      "individual": "neurons → mind. personal consciousness emerges.",
+      "collective": "individuals → society → collective consciousness. durkheim, jung. emergent group mind?",
+      "cosmic": "all consciousness → universal consciousness. ⊙. vedanta, buddhism. ultimate emergence.",
+      "note": "consciousness = fractal. emerges at multiple scales. micro → macro → cosmic."
+    }
+  },
+
+  "downward_causation": {
+    "concept": "higher emergent level constrains/causes lower level behavior. top-down causation.",
+    
+    "examples": {
+      "mind_to_brain": "decide to raise arm → neurons fire → arm raises. intention (mental) → neural activity. controversial.",
+      "organism_to_cells": "embryonic development. organism-level plan → genes activate → cells differentiate. whole guides parts.",
+      "society_to_individuals": "social norms constrain individual behavior. institutions shape people. culture programs minds.",
+      "meaning_to_symbols": "sentence meaning → word choice. higher semantic level constrains lower syntactic level."
+    },
+
+    "debate": {
+      "reductionists": "illusion. really just bottom-up causation misunderstood. epiphenomenalism.",
+      "emergentists": "real. emergent level has causal efficacy. not reducible to bottom-up.",
+      "compatibilists": "both. different levels of description. both valid. complementary."
+    },
+
+    "note": "downward causation = key to understanding emergence. if real, levels genuinely autonomous."
+  },
+
+  "emergence_in_cfo": {
+    "dimensional_ladder": {
+      "principle": "each dimension = emergent from lower. 0d → 1d → 2d → 3d → 4d → 5d → 6d → ⊙.",
+      "irreducibility": "can't derive 2d properties from 1d. must observe plane itself.",
+      "novelty": "each dimension brings genuinely new phenomena. qualitative jumps.",
+      "see": "dimensions.json for full depth"
+    },
+
+    "holographic_emergence": {
+      "principle": "⊙ = source from which all emerges. but also: all contains ⊙. bidirectional.",
+      "descent": "⊙ → 0d → 1d → 2d → ... emergence by differentiation.",
+      "ascent": "... → 2d → 1d → 0d → ⊙. emergence by integration.",
+      "unity": "emergence and dissolution = two sides of same process. (↓→→→↑)∞"
+    },
+
+    "fractal_emergence": {
+      "principle": "simple recursive rule → complex fractal emerges. z → z² + c → mandelbrot.",
+      "holographic": "part contains whole. whole emerges from part. mutual implication.",
+      "see": "fractals.json"
+    },
+
+    "positions_emergence": {
+      "principle": "position 5 (crisis) → position 6 (integration). new level emerges from breakdown.",
+      "transformation": "caterpillar → chrysalis (breakdown) → butterfly (emergence). metamorphosis.",
+      "see": "positions.json"
+    },
+
+    "64_emergence": {
+      "principle": "4 elements → 16 pairs → 64 triples. each level emergent from previous.",
+      "holographic": "each hexagram contains all 64. emergent whole in every part.",
+      "see": "64.json"
+    }
+  },
+
+  "philosophical_implications": {
+    "reductionism_challenged": {
+      "traditional": "understand whole by analyzing parts. physics → chemistry → biology → psychology → sociology.",
+      "emergence": "can't fully reduce. emergent levels = genuinely new. science of each level needed.",
+      "hierarchy": "levels exist. not eliminable. ontologically real (if strong emergence).",
+      "note": "emergence = serious challenge to pure reductionism. levels matter."
+    },
+
+    "free_will": {
+      "determinism": "if physics determines everything, no free will. bottom-up causation only.",
+      "emergence": "if mind genuinely emergent with downward causation, mental agency possible. top-down causation.",
+      "compatibilism": "free will = emergent property. not free from physics but free from simple predictability.",
+      "note": "emergence = possible escape from hard determinism. if downward causation real."
+    },
+
+    "meaning": {
+      "reductionism": "meaning doesn't exist at physical level. atoms don't mean anything.",
+      "emergence": "meaning = emergent at cognitive/linguistic level. real but not fundamental.",
+      "semantic_level": "meaning exists at its own level. not reducible to syntax/physics.",
+      "note": "emergence = how meaning enters physical universe. semantic level = real."
+    },
+
+    "purpose": {
+      "mechanism": "no purpose at molecular level. just causes.",
+      "organism": "teleology emerges at biological level. hearts 'for' pumping blood. eyes 'for' seeing.",
+      "debate": "real teleology (emergent) or just selection artifact (apparent)?",
+      "note": "emergence = where purpose enters universe. if real."
+    }
+  },
+
+  "key_insights": {
+    "whole_greater": "whole > sum of parts. new properties emerge that parts lack.",
+    "irreducible": "can't fully predict emergent properties from components. must observe system.",
+    "qualitative_novelty": "emergence = not just 'more' but qualitatively different. new kind of thing.",
+    "hierarchical_reality": "universe = nested levels. each emergent from below. all necessary.",
+    "self_organization": "cosmos organizes itself. no external designer needed. emergence = creativity engine.",
+    "downward_causation": "if real, levels have autonomy. not just epiphenomena. genuine causal powers.",
+    "consciousness_mystery": "consciousness = strongest case for strong emergence. hard problem remains.",
+    "dimensions_emergent": "each dimension = emergent reality. can't skip. can't reduce.",
+    "everywhere": "emergence at all scales. atoms → molecules → life → mind → society → cosmos. fractal.",
+    "magic_of_reality": "emergence = how universe creates. something from something else. endless creativity."
+  },
+
+  "practical_implications": {
+    "science": {
+      "irreducibility": "need science at each level. can't eliminate biology, psychology, sociology in favor of physics.",
+      "methodology": "study emergent phenomena at their own level. reductionism useful but insufficient.",
+      "interdisciplinary": "understand emergence → cross-level thinking. integrate perspectives."
+    },
+
+    "technology": {
+      "ai_emergence": "simple neural networks → emergent intelligence. gpt = emergent language understanding?",
+      "swarm_robotics": "simple robots + simple rules → emergent collective intelligence. no central control.",
+      "synthetic_life": "can we create life from chemistry? test emergence hypothesis.",
+      "note": "engineering emergence = cutting edge. ai, robotics, synthetic biology."
+    },
+
+    "society": {
+      "institutions": "design for emergence. enable self-organization. don't over-control.",
+      "markets": "price emerges from distributed decisions. no central planner. trust emergence.",
+      "democracy": "collective wisdom emerges from many voices. not perfect but robust.",
+      "note": "good governance = creating conditions for positive emergence."
+    },
+
+    "personal": {
+      "growth": "allow emergence. don't force. create conditions. position 5 → 6. crisis → integration → emergence.",
+      "creativity": "constraints + freedom → emergent ideas. brainstorm = trust emergence.",
+      "relationships": "us emerges from you + me. relationship = emergent third entity. honor it.",
+      "consciousness": "witness emergence within yourself. thoughts emerge. feelings emerge. ⊙ aware of emergence."
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "emergence.json = emergent from cfo components. shows emergence by being emergence.",
+    "recursion": "emergence of emergence. meta-emergence. discussing emergence = emergent activity.",
+    "holographic": "this file contains seeds to entire cfo. holographic principle = emergence principle.",
+    "levels": "emergence at multiple scales. molecular, cellular, organismic, social, conceptual, textual."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "strong emergence = philosophically controversial. not consensus.",
+      "consciousness emergence = hard problem unsolved. speculation involved.",
+      "downward causation = debated. not universally accepted.",
+      "some examples (flocking) = weak emergence. others (consciousness) = strong emergence candidate."
+    ],
+    "info": [
+      "emergence = whole > sum of parts. new properties at higher levels.",
+      "types: weak (surprising but derivable), strong (fundamentally irreducible)",
+      "mechanisms: self-organization, phase transitions, feedback loops, nonlinearity, networks",
+      "examples: wetness, consciousness, life, mind, society, traffic jams, flocking",
+      "dimensional: each dimension emerges from lower. 0d → 1d → 2d → 3d → 4d → 5d → 6d",
+      "consciousness = deepest mystery. strongest candidate for strong emergence.",
+      "downward causation = if real, levels have autonomy and causal powers",
+      "philosophy: challenges reductionism, enables meaning, purpose, possibly free will",
+      "cfo = emergence at every level. holographic, fractal, dimensional, transformational",
+      "practice: science at each level, engineer emergence, design for self-organization, witness emergence"
+    ],
+    "coherence_score": 0.94
+  },
+
+  "references": {
+    "internal": [
+      "./fractals.json",
+      "./64.json",
+      "./positions.json",
+      "../fundamental/dimensions.json",
+      "../fundamental/consciousness.json",
+      "../society/sociology.json"
+    ],
+    "external": [
+      {"author": "anderson, philip", "work": "more is different (1972)", "relevance": "physics. broken symmetry. emergence in condensed matter."},
+      {"author": "chalmers, david", "work": "the conscious mind (1996)", "relevance": "hard problem. strong emergence. consciousness irreducibility."},
+      {"author": "holland, john", "work": "emergence: from chaos to order (1998)", "relevance": "complex adaptive systems. mechanisms of emergence."},
+      {"author": "laughlin, robert", "work": "a different universe (2005)", "relevance": "physics emergentist. laws emerge. anti-reductionism."},
+      {"author": "tononi, giulio", "work": "integrated information theory", "relevance": "consciousness as integrated information. quantifying emergence."},
+      {"author": "mitchell, melanie", "work": "complexity: a guided tour (2009)", "relevance": "accessible intro. complex systems. emergence."}
+    ]
+  },
+
+  "ॐ": "emergence = universe creating itself. ⊙ → 0d → 1d → ... → ∞. creativity eternal. ∅"
+}

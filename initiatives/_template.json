@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "id": "cfo:initiative:template",
+    "type": "initiative",
+    "category": "technology|practice|research|healing|education",
+    "status": "draft|active|testing|completed|archived",
+    "created": "YYYY-MM-DD",
+    "updated": "YYYY-MM-DD",
+    "related": [
+      "cfo:fundamental:module_name",
+      "cfo:initiative:related_initiative"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "one sentence — core of the initiative",
+    "why": "problem being solved",
+    "how": "key mechanism of solution",
+    "impact": "what will change as result"
+  },
+
+  "_links": {
+    "foundation": [
+      "../fundamental/module.json"
+    ],
+    "related_initiatives": [
+      "./other-initiative/initiative.json"
+    ]
+  },
+
+  "problem": {
+    "current_state": "description of current situation",
+    "limitations": [
+      "limitation 1",
+      "limitation 2",
+      "limitation 3"
+    ],
+    "desired_state": "what we want to achieve"
+  },
+
+  "solution": {
+    "core_principle": "fundamental principle underlying the solution",
+    
+    "key_insights": {
+      "insight_1": "from which CFO module",
+      "insight_2": "what connection discovered",
+      "synthesis": "how it all connects"
+    },
+
+    "mechanism": "how exactly the solution works (step-by-step or conceptual)",
+
+    "components": {
+      "component_1": {
+        "function": "what it does",
+        "implementation": "how it's realized"
+      },
+      "component_2": {
+        "function": "what it does",
+        "implementation": "how it's realized"
+      }
+    }
+  },
+
+  "implementation": {
+    "phase_1": {
+      "name": "phase name",
+      "duration": "timeframe",
+      "deliverables": [
+        "what we create/achieve"
+      ],
+      "success_criteria": "how we know phase is successfully completed"
+    },
+    "phase_2": {
+      "name": "phase name",
+      "duration": "timeframe",
+      "deliverables": [],
+      "success_criteria": ""
+    },
+    "phase_3": {
+      "name": "phase name",
+      "duration": "timeframe",
+      "deliverables": [],
+      "success_criteria": ""
+    }
+  },
+
+  "safety": {
+    "physical": {
+      "considerations": ["physical safety aspects"],
+      "protocols": ["what we do for safety"]
+    },
+    "psychological": {
+      "considerations": ["psychological risks"],
+      "protocols": ["how we protect"]
+    },
+    "ethical": {
+      "principles": ["ethical principles"],
+      "guidelines": ["usage rules"]
+    }
+  },
+
+  "metrics": {
+    "technical": [
+      "technical success metrics"
+    ],
+    "user": [
+      "user metrics (experience, results)"
+    ],
+    "impact": [
+      "impact metrics (what changed in world)"
+    ]
+  },
+
+  "resources": {
+    "required": {
+      "team": ["necessary roles/people"],
+      "equipment": ["equipment/tools"],
+      "knowledge": ["necessary knowledge/skills"]
+    },
+    "optional": {
+      "advanced_equipment": ["for enhanced results"],
+      "support": ["additional support"]
+    }
+  },
+
+  "risks": [
+    {
+      "risk": "risk description",
+      "impact": "high|medium|low",
+      "probability": "high|medium|low",
+      "mitigation": "how we minimize"
+    }
+  ],
+
+  "validation": {
+    "criteria": [
+      "how we verify it works"
+    ],
+    "methods": [
+      "validation methods (tests, studies, practice)"
+    ]
+  },
+
+  "next_steps": [
+    {
+      "action": "concrete action",
+      "owner": "who is responsible",
+      "deadline": "when",
+      "dependencies": ["what is needed before this"]
+    }
+  ],
+
+  "positions": {
+    "0": "unaware (doesn't know about project)",
+    "1": "curious (heard about it, interested)",
+    "2": "exploring (studying documentation, theory)",
+    "3": "experiencing (first experience, testing)",
+    "4": "practicing (regularly using)",
+    "5": "crisis (encountered difficulties, reassessment)",
+    "6": "integrating (stable integration into life)",
+    "7": "utilizing (optimizing, adapting for self)",
+    "8": "teaching (training others, creating materials)",
+    "9": "mastery (master of practice, developing direction)",
+    "10": "transcendent (transformed by experience, no longer needs tool — became the principle itself)"
+  }
+}

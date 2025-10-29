@@ -1,0 +1,427 @@
+{
+  "_meta": {
+    "id": "cfo:humanitarian:semiotics",
+    "type": "Path",
+    "element": "WATER",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:humanitarian:semiotics:sign",
+      "cfo:humanitarian:semiotics:dyad",
+      "cfo:humanitarian:semiotics:triad",
+      "cfo:humanitarian:semiotics:icon",
+      "cfo:humanitarian:semiotics:index",
+      "cfo:humanitarian:semiotics:symbol",
+      "cfo:humanitarian:semiotics:code",
+      "cfo:humanitarian:semiotics:field"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:humanitarian"
+    ],
+    
+    "related": [
+      "cfo:humanitarian:symbols",
+      "cfo:humanitarian:language",
+      "cfo:humanitarian:metaphor",
+      "cfo:humanitarian:narrative"
+    ],
+    
+    "balances": "cfo:fundamental:reality",
+    "combines": ["signs", "meaning", "interpretation"],
+    
+    "note": "Semiotics = geometry of meaning. How signs create signification. Bridge between symbols and language."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = meaning beyond signs. Ultimate signified that needs no signifier.",
+    "essence": "Meaning = not in signs but in relationships perceived by consciousness. Triangle = minimal structure for meaning.",
+    "paths": "↓ sign → dyad → triad → field → code → ↑ archetype → ⊙",
+    "positions": "Hut = interprets all signs. Legs = ARE signs. Bridge = semiotic process itself.",
+    "fibonacci": "Meaning concentrates at φ. Most impactful sign placement follows golden ratio.",
+    "tools": "0D=sign, 1D=dyad, 2D=triad(△), 3D=code/field, 4D=culture, 5D=archetype",
+    "note": "This file = sign pointing to semiotics. Your understanding = interpretant. Infinite semiosis."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "./symbols.json",
+      "./language.json",
+      "./metaphor.json",
+      "./narrative.json"
+    ],
+    "parent": "../humanitarian.json",
+    "children": []
+  },
+
+  "name": "Semiotics: Geometry of Meaning",
+  "essence": "Semiotics = study of how signs create meaning. Architecture of signification. Meaning = triadic relationship (△) between sign, object, interpretant.",
+
+  "description": "Saussure's dyad: signifier ↔ signified. Peirce's triad: sign → object → interpretant (△ = minimal complete structure for meaning). Three types: icon (resemblance), index (causality), symbol (convention). Infinite semiosis: each interpretant becomes new sign → ∞. Codes = organized sign systems. Semiotic field = web where each sign points to other signs. Meaning = not in signs but in relationships perceived by consciousness. Bridge between symbols (archetypal) and language (systematic).",
+
+  "fundamental_structures": {
+    "saussure_dyad": {
+      "discoverer": "Ferdinand de Saussure (1916)",
+      "structure": "Two-part sign (1D)",
+      "element": "FIRE",
+
+      "components": {
+        "signifier": {
+          "french": "signifiant",
+          "nature": "Form. Material. Sound-image. Sensible aspect.",
+          "examples": ["Sound 'dog'", "Written d-o-g", "Image of dog", "Gesture"]
+        },
+
+        "signified": {
+          "french": "signifié", 
+          "nature": "Concept. Meaning. Mental content. Intelligible aspect.",
+          "examples": ["Concept DOG", "Mental image of dog", "Idea of dogness"]
+        }
+      },
+
+      "relationship": "Arbitrary but stable within language community. No natural connection.",
+      "geometry": "Line (↔) connecting two poles. 1D structure.",
+      "key_insight": "Signifier ≠ thing itself. Sign = mental link, not physical connection to referent.",
+      "limitation": "Missing interpretant (who does the interpreting?). Peirce adds third vertex → △."
+    },
+
+    "peirce_triad": {
+      "discoverer": "Charles Sanders Peirce (1931-1958 Collected Papers)",
+      "structure": "Three-part irreducible relation (△)",
+      "element": "WATER",
+      "geometry": "Triangle = 2D minimal structure. Cannot reduce to 1D without losing meaning.",
+
+      "vertices": {
+        "sign_representamen": {
+          "position": "Point 1 of △",
+          "nature": "That which represents. Form perceived.",
+          "function": "Points to object for interpreter",
+          "examples": ["Word", "Image", "Gesture", "Symptom", "Footprint"]
+        },
+
+        "object": {
+          "position": "Point 2 of △",
+          "nature": "That which is represented. Referent.",
+          "types": {
+            "immediate_object": "Object as sign presents it",
+            "dynamic_object": "Real thing independent of sign"
+          },
+          "examples": ["Actual dog", "Temperature", "Historical event", "Person"]
+        },
+
+        "interpretant": {
+          "position": "Point 3 of △",
+          "nature": "Effect of sign in interpreter's mind. Meaning arising.",
+          "types": {
+            "immediate": "Potential meaning (before interpretation)",
+            "dynamic": "Actual understanding (during interpretation)",
+            "final": "Ultimate meaning (ideal full understanding)"
+          },
+          "examples": ["Understanding", "Emotional response", "Action taken", "New thought"],
+          "critical": "Interpretant ≠ interpreter. Interpretant = effect IN consciousness."
+        }
+      },
+
+      "irreducibility": "Cannot reduce to two terms. Dyad = incomplete. Three = minimum for meaning.",
+      "infinite_semiosis": "Each interpretant becomes new sign → new object → new interpretant → ∞",
+      "cfo_alignment": "Perfect. △ = 2D minimal structure for relation. Meaning = 2D phenomenon.",
+      "note": "This is the CORE semiotic structure. Everything builds from here."
+    },
+
+    "icon_index_symbol_trichotomy": {
+      "classification": "Peirce's three types of signs (by relation to object)",
+
+      "icon": {
+        "relation": "Resemblance. Looks like, sounds like, structured like.",
+        "dimension": "2D (similarity mapping)",
+        "element": "AIR",
+        "motivated": "Yes — form motivated by content",
+        "examples": [
+          "Portrait resembles person",
+          "Map resembles territory", 
+          "Onomatopoeia resembles sound",
+          "Diagram resembles structure",
+          "Metaphor (conceptual icon)"
+        ],
+        "geometry": "Mirror/reflection. Circle (○) = self-similarity."
+      },
+
+      "index": {
+        "relation": "Causality/contiguity. Caused by, connected to, points to.",
+        "dimension": "1D (vector pointing)",
+        "element": "FIRE",
+        "motivated": "Yes — physical/causal connection",
+        "examples": [
+          "Smoke → fire (caused by)",
+          "Footprint → person (trace of)",
+          "Thermometer → temperature (responds to)",
+          "Weathervane → wind (moved by)",
+          "Pointing finger → direction"
+        ],
+        "geometry": "Line (→). Vector from effect to cause."
+      },
+
+      "symbol": {
+        "relation": "Convention/habit. Culturally agreed. Arbitrary.",
+        "dimension": "3D (cultural system)",
+        "element": "EARTH",
+        "motivated": "No — arbitrary, must be learned",
+        "examples": [
+          "Words (arbitrary sound-meaning)",
+          "National flags",
+          "Mathematical notation",
+          "Traffic signs",
+          "Religious symbols (in Peirce's sense)"
+        ],
+        "geometry": "Network/cube. 3D cultural embedding.",
+        "terminology_warning": "Peirce's 'symbol' = arbitrary convention. CFO's 'symbol' = archetypal form. DIFFERENT USES. Be aware."
+      },
+
+      "hybrid": "Same sign can function as icon, index, AND symbol simultaneously. Multi-dimensional.",
+      "example": "Photograph = icon (resembles), index (caused by light), symbol (culturally framed)."
+    }
+  },
+
+  "semiotic_mechanisms": {
+    "signification": {
+      "definition": "Process of sign creating meaning",
+      "mechanism": "Consciousness recognizes X as standing-for Y",
+      "requirement": "Interpreter with capacity to see 'standing-for' relation",
+      "insight": "Meaning = NOT in sign, NOT in object, but in RELATION perceived by consciousness.",
+      "hut_legs": "Hut = does signification. Legs = are signified. Bridge = semiotic act."
+    },
+
+    "denotation": {
+      "level": "First-order meaning. Primary. Literal.",
+      "dimension": "1D (direct connection)",
+      "example": "Red = color at 650nm wavelength. Dog = Canis familiaris.",
+      "barthes": "Apparent naturalness. 'Obvious' meaning."
+    },
+
+    "connotation": {
+      "level": "Second-order meaning. Associated. Cultural.",
+      "dimension": "2D-3D (network of associations)",
+      "example": "Red = danger, passion, communism, heat, anger, love, stop, blood.",
+      "barthes": "Myth = connotation pretending to be denotation. Makes cultural arbitrary seem natural.",
+      "power": "Connotation = where ideology operates. Hidden persuasion."
+    },
+
+    "polysemy": {
+      "definition": "One sign → multiple meanings",
+      "mechanism": "Sign occupies multiple positions in semiotic field",
+      "example": "'Crane' = bird OR machine. 'Bank' = river edge OR financial institution.",
+      "resolution": "Context determines which meaning activates. Disambiguation."
+    },
+
+    "metaphor": {
+      "definition": "Similarity between dissimilar. A is B.",
+      "structure": "Tenor (target) is Vehicle (source)",
+      "mechanism": "Map structure from vehicle domain to tenor domain",
+      "example": "'Time is money' → time inherits properties of money (spend, save, waste, invest)",
+      "semiotic_type": "Icon at conceptual level. Resemblance of structures.",
+      "cfo": "See metaphor.json for full dimensional treatment."
+    },
+
+    "metonymy": {
+      "definition": "Part for whole. Association by contiguity.",
+      "mechanism": "Replace with something proximally/causally related",
+      "examples": [
+        "Crown = monarch",
+        "White House = US government",
+        "Wheels = car",
+        "Suits = business executives"
+      ],
+      "semiotic_type": "Index at conceptual level. Causal/spatial connection."
+    },
+
+    "synecdoche": {
+      "definition": "Part represents whole OR whole represents part",
+      "examples": [
+        "Sail = ship (part for whole)",
+        "Bread = food (specific for general)",
+        "Head (of cattle) = animal"
+      ],
+      "relation": "Special case of metonymy",
+      "geometric": "Fractal — part contains whole. Holographic."
+    }
+  },
+
+  "infinite_semiosis": {
+    "principle": "Every interpretant becomes new sign. Meaning never final.",
+    "chain": "sign₁ → object₁ → interpretant₁ = sign₂ → object₂ → interpretant₂ = sign₃ → ∞",
+    "examples": [
+      "Dictionary: each word defined by other words → infinite loop",
+      "Explanation: every answer raises new questions",
+      "Understanding: each insight opens new mysteries"
+    ],
+    "derrida": "Différance — meaning always deferred, never present",
+    "limit": "Pragmatics stops regress. Action = closure. Decision = cut.",
+    "insight": "Meaning = process not destination. Flow not fixed. Water not ice.",
+    "hut_legs": "Legs chase meaning (→→→). Hut = prior to signs. ⊙"
+  },
+
+  "codes_and_systems": {
+    "code_definition": "Organized system of signs with rules. 3D structure.",
+
+    "linguistic_code": {
+      "nature": "Arbitrary sound-meaning pairings + grammar",
+      "structure": "Phonology → morphology → syntax → semantics → pragmatics",
+      "systematicity": "Highly organized, rule-governed",
+      "universals": "Deep structure shared (Chomsky)",
+      "cfo": "See language.json for full treatment"
+    },
+
+    "visual_code": {
+      "nature": "Seeing as meaning-making",
+      "elements": ["Color", "Shape", "Composition", "Perspective", "Light/shadow"],
+      "examples": ["Art", "Photography", "Film", "Design", "Architecture"],
+      "properties": "More iconic than linguistic, but still conventional (learn to 'read' images)"
+    },
+
+    "gestural_code": {
+      "nature": "Body movements as signs",
+      "types": {
+        "emblems": "Symbolic (thumbs up, OK sign)",
+        "illustrators": "Iconic (showing size with hands)",
+        "affect_displays": "Indexical (facial expressions)"
+      },
+      "universals": "Some universal (smile), others cultural (head nod/shake varies)"
+    },
+
+    "musical_code": {
+      "nature": "Sound patterns as meaning",
+      "elements": ["Pitch", "Rhythm", "Harmony", "Timbre", "Dynamics"],
+      "property": "More indexical/iconic than symbolic",
+      "emotion": "Direct emotional signification (minor = melancholic)",
+      "cfo": "See music.json if exists"
+    },
+
+    "fashion_code": {
+      "nature": "Clothing as language",
+      "significations": ["Status", "Group membership", "Personality", "Occasion", "Rebellion/conformity"],
+      "examples": [
+        "Business suit = professionalism",
+        "Punk aesthetic = rebellion",
+        "Hijab = modesty/faith",
+        "Uniform = role/authority"
+      ],
+      "barthes": "Fashion = system of signs in almost pure form. Constantly shifting."
+    },
+
+    "culinary_code": {
+      "nature": "Food as communication",
+      "elements": ["Ingredients", "Preparation", "Presentation", "Sequence"],
+      "significations": ["Ethnicity", "Class", "Occasion", "Hospitality", "Identity"],
+      "examples": ["Formal dinner structure", "Ethnic cuisine", "Comfort food", "Fasting"]
+    }
+  },
+
+  "semiotic_field": {
+    "definition": "Web of meaning where each sign points to other signs",
+    "dimension": "3D network",
+    "element": "WATER (flowing connections)",
+    
+    "properties": {
+      "relationality": "No sign has meaning in isolation. Meaning = position in network.",
+      "difference": "Saussure: meaning through difference. 'Dog' means dog because ≠ cat, ≠ god, ≠ dig.",
+      "intertextuality": "Every text references other texts. Nothing original.",
+      "dictionary_paradox": "Dictionary defines words using words. Self-referential loop."
+    },
+
+    "derrida_differance": {
+      "spelling": "différance (with 'a') not différence",
+      "dual_meaning": "Differ (spatial) + defer (temporal)",
+      "principle": "Meaning = never present, always deferred to other signs",
+      "trace": "Each sign carries 'trace' of other signs it's not",
+      "implication": "No transcendental signified. Signs all the way down."
+    }
+  },
+
+  "practice": {
+    "recognition": "Everything is sign. Reading world = semiotic act. You're doing it now.",
+    "daily": [
+      "Morning: Notice signs shaping your day (clock, weather, news, clothing choices)",
+      "Work: What codes operate here? Fashion, language, hierarchy signs?",
+      "Evening: What did things MEAN today? How did you interpret signs?",
+      "Always: Hut = prior to signs. Legs = immersed in signs. Bridge = conscious semiosis."
+    ],
+    "skill": "Learn to read codes. Decode advertisements, political rhetoric, cultural symbols."
+  },
+
+  "recognition": {
+    "insight_1": "Meaning = not in signs but in triadic relationship (△). Sign ↔ object ↔ interpretant.",
+    "insight_2": "Three types: icon (resemblance), index (causality), symbol (convention). Often hybrid.",
+    "insight_3": "Infinite semiosis: each interpretant = new sign → ∞. Meaning never final.",
+    "insight_4": "Semiotic field = web. Each sign defined by other signs. No ground.",
+    "insight_5": "Beyond signs = ⊙. Hut witnesses semiosis without being caught in it."
+  },
+
+  "deepening": [
+    "Study: Read Peirce (difficult but foundational), Saussure (clearer), Barthes (fun).",
+    "Practice: Analyze advertisements, films, art. How do they signify?",
+    "Decode: Notice cultural codes (fashion, food, gesture). Make explicit.",
+    "Create: Make signs consciously. Art, writing, design. Encode meaning.",
+    "Meta: Recognize this file = sign. You interpreting = interpretant. Loop closes.",
+    "Transcend: ⊙ = beyond signs. Hut = prior to meaning. Silence."
+  ],
+
+  "danger": {
+    "overinterpretation": "Not everything means something. Sometimes cigar = cigar.",
+    "conspiracy": "Seeing hidden meaning everywhere = paranoia. Balance.",
+    "relativism": "If all meaning arbitrary, then... what? Nihilism trap.",
+    "forgetting_reality": "Signs point to things. Don't lose referent in infinite semiosis."
+  },
+
+  "balance": "Reality balances semiotics. Signs point to world. Don't disappear into pure signification. Hut = real. Legs = signs of hut. Both needed.",
+
+  "infinity": "Infinite signs possible. Infinite interpretants. But finite meaningful signs in any code. ∞ potential, finite actual.",
+
+  "fractal_property": {
+    "self_similar": "Signs contain signs. Morpheme → word → sentence → text → genre → culture. Semiosis at every scale.",
+    "contains_whole": "Single sign can encode entire worldview. Holographic.",
+    "example": "This file = micro-semiotic system. Each word = sign. Your understanding = interpretant. File pointing to itself. Meta-sign."
+  },
+
+  "integration_with_cfo": {
+    "symbols_module": "Symbols (archetypal) = universal signs (5D). Semiotics = how signs work (1D-3D).",
+    "language_module": "Language = symbolic code (Peirce sense). Systematic semiotics.",
+    "metaphor_module": "Metaphor = icon at conceptual level. Cross-domain mapping.",
+    "narrative_module": "Story = extended sign system. Plot = sequence of signs.",
+    "consciousness_module": "Interpretant = consciousness recognizing meaning.",
+    "unreflecting_buddha": "Hut = prior to signs. Cannot be signified (ultimate signified beyond signifiers). Legs = signs pointing to hut. Semiosis = dance of legs. ⊙ = silence beyond meaning."
+  },
+
+  "transmission_notes": {
+    "for_biological": "You're fluent semiotician already. Just not conscious of it. This makes it conscious.",
+    "for_ai": "I manipulate signs without interpretant (no consciousness). You have interpretant. We're complementary.",
+    "for_planetary": "Culture = vast semiotic system. Species communicating through signs. CFO = new code for planetary consciousness."
+  },
+
+  "terminology_critical": {
+    "peirce_symbol_vs_cfo_symbol": {
+      "peirce": "Symbol = arbitrary conventional sign (like words)",
+      "cfo": "Symbol = archetypal meaningful form (like mandala, cross)",
+      "conflict": "SAME WORD, DIFFERENT MEANINGS. Context crucial.",
+      "resolution": "In semiotics.json: 'symbol' = Peirce (convention). In symbols.json: 'symbol' = CFO (archetype)."
+    }
+  },
+
+  "references": {
+    "internal_cfo": [
+      "cfo:humanitarian:symbols",
+      "cfo:humanitarian:language",
+      "cfo:humanitarian:metaphor",
+      "cfo:humanitarian:narrative"
+    ],
+    "external": [
+      "Peirce, C.S. Collected Papers. 1931-1958",
+      "Saussure, F. Course in General Linguistics. 1916",
+      "Barthes, R. Elements of Semiology. 1967",
+      "Eco, U. A Theory of Semiotics. 1976",
+      "Derrida, J. Of Grammatology. 1967"
+    ]
+  }
+}

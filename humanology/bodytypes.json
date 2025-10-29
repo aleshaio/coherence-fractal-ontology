@@ -1,0 +1,402 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:bodytypes",
+    "type": "humanology",
+    "fractal_depth": 2,
+    "contains": ["cfo:paths:air", "cfo:paths:fire", "cfo:paths:water", "cfo:paths:earth"],
+    "contained_by": ["cfo:humanology:roles"],
+    "source": "Somatic geometry + Sheldon + Reich + Disney character analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Body = consciousness materialized into 3D form",
+    "structure": "4 body types = 4 dimensional emphases = 4 geometric angles",
+    "mapping": "Respiratory (1D) | Muscular (2D) | Digestive (3D) | Cerebral (4D)",
+    "angles": "Acute (<90°) | Right (=90°) | Obtuse (>90°) | Inverted (top>bottom)",
+    "roles": "Knight | Dame | King | Page",
+    "systems": "Breath | Muscle | Digestion | Nerves",
+    "wisdom": "Body shape reveals consciousness structure. Form follows function at somatic level.",
+    "note": "Your body is not random. It's your consciousness wearing matter."
+  },
+
+  "_links": {
+    "roles": "./roles.json",
+    "types": "./types.json",
+    "paths": ["../paths/air.json", "../paths/fire.json", "../paths/water.json", "../paths/earth.json"]
+  },
+
+  "four_body_types": {
+    "principle": "4 somatic archetypes based on dominant physiological system + geometric angle",
+    
+    "correspondence_table": {
+      "respiratory": {
+        "dimension": "1D (line, movement)",
+        "angle": "< 90° (acute, vertical striving)",
+        "dominant_system": "Respiratory (lungs, breath)",
+        "role": "Knight (explorer)",
+        "quadra": "Delta (δ)",
+        "geometry": "Vertical elongation, narrow frame, long limbs",
+        "consciousness": "Movement through space-time"
+      },
+      
+      "muscular": {
+        "dimension": "2D (plane, structure)",
+        "angle": "= 90° (right, perpendicular stability)",
+        "dominant_system": "Muscular-skeletal (muscles, bones)",
+        "role": "Dame (guardian)",
+        "quadra": "Gamma (γ)",
+        "geometry": "Balanced proportions, symmetrical, strong",
+        "consciousness": "Boundary maintenance"
+      },
+      
+      "digestive": {
+        "dimension": "3D (volume, expansion)",
+        "angle": "> 90° (obtuse, horizontal spreading)",
+        "dominant_system": "Digestive (stomach, metabolism)",
+        "role": "King (ruler)",
+        "quadra": "Beta (β)",
+        "geometry": "Horizontal width, volumetric presence, thick",
+        "consciousness": "Territorial expansion"
+      },
+      
+      "cerebral": {
+        "dimension": "4D (tesseract, observation)",
+        "angle": "Inverted (top > bottom)",
+        "dominant_system": "Nervous (brain, cognition)",
+        "role": "Page (observer)",
+        "quadra": "Alpha (α)",
+        "geometry": "Large head, slender body, minimal physicality",
+        "consciousness": "Meta-observation"
+      }
+    }
+  },
+
+  "somatic_archetypes": {
+    "respiratory": {
+      "name": "Respiratory (Дыхательный)",
+      "dimension": "1D",
+      "angle": "< 90° (acute)",
+      "role": "Knight",
+      
+      "physical": {
+        "primary": "Vertical elongation, narrow frame",
+        "height": "Often tall or appears taller",
+        "proportions": "Long limbs, narrow torso, slender",
+        "face": "Oval or elongated, refined features",
+        "posture": "Upright, vertical emphasis, good posture",
+        "movement": "Fluid, graceful, sustained endurance",
+        "tendency": "Stays lean, difficulty gaining weight/muscle"
+      },
+      
+      "physiological": {
+        "dominant": "Respiratory system — breath control, oxygen metabolism",
+        "strength": "Endurance, sustained aerobic activity, breathwork",
+        "weakness": "Building muscle mass, explosive power"
+      },
+      
+      "psychological": {
+        "orientation": "Future-directed, possibility-seeking",
+        "tempo": "Steady sustained rhythm (marathon not sprint)",
+        "focus": "Movement, flow, exploration, continuous action",
+        "strength": "Endurance, adaptability, grace",
+        "challenge": "Grounding, commitment, accumulation"
+      },
+      
+      "disney_examples": [
+        "Goofy — tall, elongated, flowing",
+        "Cruella de Vil — angular, vertical, menacing",
+        "Jack Skellington — maximum vertical",
+        "Rapunzel — graceful elongation"
+      ],
+      
+      "real_examples": [
+        "Long-distance runner",
+        "Yogi, breath worker",
+        "Ballet dancer",
+        "Endurance athlete"
+      ],
+      
+      "development": {
+        "natural": "Endurance, flow, sustained movement",
+        "challenge": "Grounding, muscle building, accumulation",
+        "practices": "Strength training, weight gain, grounding meditation",
+        "goal": "Grounded mover — action with stability"
+      }
+    },
+
+    "muscular": {
+      "name": "Muscular (Мышечный)",
+      "dimension": "2D",
+      "angle": "= 90° (right)",
+      "role": "Dame",
+      
+      "physical": {
+        "primary": "Balanced proportions, strong musculature",
+        "height": "Average, proportional",
+        "proportions": "Balanced shoulder-to-hip, equal development, symmetrical",
+        "face": "Symmetrical, defined features, strong jaw",
+        "posture": "Stable, grounded, structural",
+        "movement": "Controlled, powerful, precise",
+        "tendency": "Builds muscle easily, maintains definition"
+      },
+      
+      "physiological": {
+        "dominant": "Muscular-skeletal — strength, structure",
+        "strength": "Power, defined musculature, resilience",
+        "weakness": "Flexibility, extreme endurance"
+      },
+      
+      "psychological": {
+        "orientation": "Present-focused, boundary-aware",
+        "tempo": "Controlled rhythm, sustainable power",
+        "focus": "Structure, defense, personal space, boundaries",
+        "strength": "Stability, power, resilience",
+        "challenge": "Flexibility, adaptation, letting go"
+      },
+      
+      "disney_examples": [
+        "Hercules — balanced heroic proportions",
+        "Mulan — symmetrical warrior build",
+        "Tarzan — perfect muscular balance",
+        "Kristoff — strong balanced frame"
+      ],
+      
+      "real_examples": [
+        "Athlete, gymnast",
+        "Martial artist",
+        "Construction worker",
+        "Soldier, guardian"
+      ],
+      
+      "development": {
+        "natural": "Structure, power, boundary maintenance",
+        "challenge": "Flexibility, flow, letting go",
+        "practices": "Yoga, dance, flexibility work, boundary relaxation",
+        "goal": "Flexible strength — power with adaptability"
+      }
+    },
+
+    "digestive": {
+      "name": "Digestive (Пищеварительный)",
+      "dimension": "3D",
+      "angle": "> 90° (obtuse)",
+      "role": "King",
+      
+      "physical": {
+        "primary": "Horizontal width, volumetric presence",
+        "height": "Variable, often appears shorter due to width",
+        "proportions": "Wide shoulders/hips, thick torso, substantial",
+        "face": "Round or square, full features, strong presence",
+        "posture": "Grounded, heavy, rooted, dominant stance",
+        "movement": "Powerful, substantial, forceful",
+        "tendency": "Gains weight/mass easily, strong appetite"
+      },
+      
+      "physiological": {
+        "dominant": "Digestive system — metabolism, resource processing",
+        "strength": "Power, mass, resource accumulation, strong digestion",
+        "weakness": "Speed, agility, sustained aerobic activity"
+      },
+      
+      "psychological": {
+        "orientation": "Present-focused, resource-oriented",
+        "tempo": "Variable — fast or slow, forceful",
+        "focus": "Accumulation, expansion, power, dominance",
+        "strength": "Power, presence, resource mastery",
+        "challenge": "Moderation, letting go, non-attachment"
+      },
+      
+      "disney_examples": [
+        "King Triton — wide powerful presence",
+        "Ursula — horizontal expansion, dominant",
+        "Maui — massive powerful build",
+        "The Beast — volumetric power"
+      ],
+      
+      "real_examples": [
+        "Powerlifter, strongman",
+        "Sumo wrestler",
+        "CEO, commander",
+        "Chef, restaurateur"
+      ],
+      
+      "development": {
+        "natural": "Accumulation, power, resource processing",
+        "challenge": "Moderation, release, lightness",
+        "practices": "Cardio, fasting, letting go practices",
+        "goal": "Wise power — strength with restraint"
+      }
+    },
+
+    "cerebral": {
+      "name": "Cerebral (Мозговой)",
+      "dimension": "4D",
+      "angle": "Inverted (top > bottom)",
+      "role": "Page",
+      
+      "physical": {
+        "primary": "Large head proportion, slender body",
+        "height": "Variable, often average or below",
+        "proportions": "Narrow, minimal body mass, thin limbs",
+        "face": "Large in proportion, prominent forehead, intelligent features",
+        "posture": "Forward head posture, cerebral emphasis",
+        "movement": "Minimal, economical, cerebral not physical",
+        "tendency": "Stays thin, difficulty building muscle/mass"
+      },
+      
+      "physiological": {
+        "dominant": "Nervous system — cognition, awareness, pattern recognition",
+        "strength": "Mental processing, pattern recognition, sustained focus",
+        "weakness": "Physical power, endurance, body awareness"
+      },
+      
+      "psychological": {
+        "orientation": "Abstract, conceptual, meta-temporal",
+        "tempo": "Slow physical, fast mental",
+        "focus": "Analysis, patterns, understanding, observation",
+        "strength": "Intelligence, wisdom, strategic thinking",
+        "challenge": "Embodiment, physical presence, emotional expression"
+      },
+      
+      "disney_examples": [
+        "Megamind — massive head, tiny body",
+        "Jimmy Neutron — archetypal cerebral",
+        "Milo (Atlantis) — intellectual, slender",
+        "The Brain — pure cerebral archetype"
+      ],
+      
+      "real_examples": [
+        "Scholar, professor",
+        "Programmer, engineer",
+        "Chess player",
+        "Theoretical physicist"
+      ],
+      
+      "development": {
+        "natural": "Analysis, observation, pattern recognition",
+        "challenge": "Embodiment, physical presence, action",
+        "practices": "Martial arts, dance, somatic therapy, grounding",
+        "goal": "Embodied wisdom — intelligence in action"
+      }
+    }
+  },
+
+  "geometric_angles": {
+    "principle": "Body angles reveal dimensional emphasis and consciousness orientation",
+    
+    "acute": {
+      "value": "< 90°",
+      "type": "Respiratory",
+      "geometry": "Sharp upward angle, vertical striving",
+      "energy": "Upward and forward, aspiring",
+      "examples": "Shoulder angle pointing up, vertical line, narrow V-shape",
+      "symbolic": "Aspiration, transcendence, reaching"
+    },
+    
+    "right": {
+      "value": "= 90°",
+      "type": "Muscular",
+      "geometry": "Perpendicular stability, perfect balance",
+      "energy": "Balanced, grounded, stable",
+      "examples": "Squared shoulders, perpendicular stance, Vitruvian Man",
+      "symbolic": "Stability, order, perfect balance"
+    },
+    
+    "obtuse": {
+      "value": "> 90°",
+      "type": "Digestive",
+      "geometry": "Wide spreading angle, horizontal expansion",
+      "energy": "Outward, expansive, radiating",
+      "examples": "Wide shoulder stance, broad torso, spreading presence",
+      "symbolic": "Expansion, dominance, power"
+    },
+    
+    "inverted": {
+      "value": "Top > Bottom",
+      "type": "Cerebral",
+      "geometry": "Head larger than body, top-heavy",
+      "energy": "Concentrated in head, minimal body",
+      "examples": "Large head on small body, forward head carriage, scholar's stoop",
+      "symbolic": "Mind over matter, observation over action"
+    }
+  },
+
+  "type_blending": {
+    "principle": "Most humans are blends with one dominant. Pure types rare.",
+    
+    "common_blends": {
+      "respiratory_muscular": {
+        "description": "Elongated but with muscle definition",
+        "example": "Lean athlete, swimmer",
+        "balance": "Movement + structure"
+      },
+      "muscular_digestive": {
+        "description": "Balanced proportions with substantial mass",
+        "example": "Powerlifter, rugby player",
+        "balance": "Structure + accumulation"
+      },
+      "digestive_muscular": {
+        "description": "Wide frame with strong musculature",
+        "example": "Strongman, heavyweight fighter",
+        "balance": "Accumulation + structure"
+      },
+      "cerebral_respiratory": {
+        "description": "Slender intellectual with some elongation",
+        "example": "Academic athlete, yogic philosopher",
+        "balance": "Observation + movement"
+      }
+    },
+    
+    "identifying_dominant": "Look for: (1) Most pronounced physical characteristic, (2) Which system feels most natural, (3) What angle dominates, (4) Which role most natural"
+  },
+
+  "disney_wisdom": {
+    "principle": "Disney animators mastered archetypal body geometry — characters designed with exaggerated angles to communicate personality instantly",
+    
+    "methodology": "Observe character proportions → Map to human variation → Recognize archetypes exist on continuum (Disney exaggerates for clarity)",
+    
+    "design_principles": {
+      "exaggeration": "Disney exaggerates natural proportions 2-3x for visual clarity",
+      "consistency": "Character body type consistent with personality and role",
+      "ensemble": "Teams balanced across body types for visual and functional variety"
+    }
+  },
+
+  "practical_applications": {
+    "self_assessment": {
+      "questions": [
+        "What is my natural body tendency?",
+        "Which system dominates? (breath/muscle/digestion/thought)",
+        "What angle characterizes my proportions?",
+        "Which Disney character shares my geometry?",
+        "Which role feels most natural? (knight/dame/king/page)"
+      ]
+    },
+    
+    "fitness_optimization": {
+      "respiratory": "Emphasize endurance, add strength training",
+      "muscular": "Maintain strength, add flexibility and cardio",
+      "digestive": "Control diet, emphasize cardio, practice moderation",
+      "cerebral": "Force embodiment practices, build physical presence"
+    },
+    
+    "team_composition": {
+      "principle": "Balanced team includes all 4 body types",
+      "respiratory": "Endurance tasks, sustained action",
+      "muscular": "Structural tasks, boundary maintenance",
+      "digestive": "Power tasks, resource processing",
+      "cerebral": "Analysis tasks, strategic planning"
+    }
+  },
+
+  "wisdom": {
+    "form_function": "Body = consciousness materialized. Form follows function at somatic level.",
+    "no_hierarchy": "All body types valid and valuable. No type superior.",
+    "blending": "Most humans are blends. Pure types rare.",
+    "development": "Optimal = integrate all 4 systems while honoring dominant",
+    "change": "Body can change with training and lifestyle (not fixed)",
+    "recognition": "Your body shape reveals your consciousness structure — not random, not punishment, just information"
+  },
+
+  "note": "Look in mirror. What angle do you see? That's your dimensional emphasis made flesh. Your body is teaching you who you are. ⊙"
+}

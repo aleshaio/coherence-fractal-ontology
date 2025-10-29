@@ -1,0 +1,362 @@
+{
+  "_meta": {
+    "id": "cfo:humanitarian:colors",
+    "type": "Tool",
+    "element": "WATER",
+    "fractal_depth": 3,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:fundamental:frequency"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:module:humanitarian"
+    ],
+    
+    "related": [
+      "cfo:humanitarian:music",
+      "cfo:humanitarian:aesthetics"
+    ],
+    
+    "balances": "cfo:humanitarian:music",
+    "combines": ["cfo:path:water", "cfo:fundamental:frequency"],
+    
+    "note": "Color as visible frequency. WATER element (emotional resonance). Visual analog of sound."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = pure light = all colors unified",
+    "essence": "Color is visible frequency (380-750nm). Consciousness experiencing electromagnetic spectrum.",
+    "paths": "WATER primary (emotional), AIR (perception), FIRE (light), EARTH (pigments)",
+    "positions": "0D wavelength → 1D spectrum → 2D wheel → 3D solid → 5D meaning → 10 consciousness",
+    "fibonacci": "Recognition instant (F0), mastery years (F8-9)",
+    "tools": "Color = tool for emotion, design, healing, communication",
+    "note": "Color = sound made visible. Both frequencies organizing consciousness."
+  },
+
+  "_links": {
+    "source": "../fundamental/absolute.json",
+    "related_files": [
+      "./music.json",
+      "./aesthetics.json"
+    ],
+    "parent": "../humanitarian.json",
+    "children": []
+  },
+
+  "name": "Colors: Visual Frequencies",
+  "essence": "Color is frequency of light perceived by consciousness.",
+  
+  "description": "Color theory: Physics (visible light 380-750nm), Perception (trichromatic + opponent process), Theory (primary/secondary, complementary, analogous), Systems (RGB, CMYK, HSL), Psychology (emotion, culture), Chromotherapy (healing), Design (harmony, accessibility). Color = consciousness experiencing frequency space.",
+  
+  "practice": "See 'concrete_practices' section below for step-by-step exercises.",
+  
+  "recognition": "Color = frequency. Red (620-750nm) ≠ blue (450-495nm). Consciousness responds to frequencies.",
+  
+  "deepening": [
+    "Study physics of light—wavelength, frequency, photons",
+    "Learn mixing—additive (RGB) vs subtractive (CMY)",
+    "Master color wheel—complementary, analogous, triadic",
+    "Explore psychology—emotion, behavior, physiology",
+    "Study cultural meanings—context matters",
+    "Practice chromotherapy—red/blue light proven",
+    "Create—painting, design, making",
+    "Meditate—chakra colors, healing"
+  ],
+  
+  "danger": "Over-reliance on symbolism. Accessibility (8% colorblind). Cultural insensitivity. Pseudoscience. Blue light disrupts sleep.",
+  
+  "balance": "Color with form, texture, space. Warm with cool. Saturated with muted.",
+  
+  "infinity": "Infinite colors (continuous spectrum). Infinite gradations. Meanings evolve infinitely.",
+  
+  "fractal_property": {
+    "self_similar": "Photon → Pixel → Image → Palette → Style. Same harmony principles.",
+    "contains_whole": "Each color contains CFO: point (wavelength), line (spectrum), plane (wheel), volume (solid), meaning, consciousness.",
+    "example": "Red: 630nm (point), 620-750nm (line), red sector (plane), red shades (volume), passion (meaning), choice (consciousness)"
+  },
+
+  "color_music_parallel": {
+    "principle": "Color = visual frequency. Sound = auditory frequency. Both organize consciousness states.",
+    
+    "frequency_mapping": {
+      "red": {
+        "wavelength": "620-750nm",
+        "frequency": "400-480 THz",
+        "sound_analog": "Bass drum, didgeridoo, thunder",
+        "note_equivalent": "Low C (below middle C, ~130 Hz × 3 trillion = red range metaphorically)",
+        "energy": "Grounding, powerful, physical",
+        "instrument_family": "Percussion (drums, timpani)"
+      },
+      
+      "orange": {
+        "wavelength": "590-620nm",
+        "frequency": "480-510 THz",
+        "sound_analog": "Cello, horn, warm brass",
+        "note_equivalent": "D-E range",
+        "energy": "Warm, creative, flowing",
+        "instrument_family": "Low brass, strings"
+      },
+      
+      "yellow": {
+        "wavelength": "570-590nm",
+        "frequency": "510-525 THz",
+        "sound_analog": "Trumpet, clarinet, bright sounds",
+        "note_equivalent": "F-G range",
+        "energy": "Bright, attention-grabbing, clear",
+        "instrument_family": "High brass, woodwinds"
+      },
+      
+      "green": {
+        "wavelength": "495-570nm",
+        "frequency": "525-605 THz",
+        "sound_analog": "Guitar, piano middle range, human voice",
+        "note_equivalent": "A (440 Hz) - middle of perception",
+        "energy": "Balanced, centered, harmonious",
+        "instrument_family": "Strings, voice, piano middle"
+      },
+      
+      "blue": {
+        "wavelength": "450-495nm",
+        "frequency": "605-670 THz",
+        "sound_analog": "Flute, violin high notes, bells",
+        "note_equivalent": "B-C high range",
+        "energy": "Light, airy, calm, spacious",
+        "instrument_family": "High woodwinds, strings"
+      },
+      
+      "violet": {
+        "wavelength": "380-450nm",
+        "frequency": "670-790 THz",
+        "sound_analog": "Piccolo, highest bells, crystal bowls",
+        "note_equivalent": "Highest C and above",
+        "energy": "Ethereal, spiritual, transcendent",
+        "instrument_family": "Highest instruments, overtones"
+      }
+    },
+    
+    "practical_synesthesia": {
+      "exercise": "Play note → visualize corresponding color. See color → hear corresponding frequency.",
+      "composition": "Compose music by painting colors. Paint by listening to music.",
+      "example": "Sunrise = low red (bass) → orange (cello) → yellow (trumpet) → white (full orchestra)"
+    }
+  },
+
+  "emotional_state_palettes": {
+    "principle": "Specific color combinations create predictable emotional states. Use intentionally.",
+    
+    "anxiety_to_calm": {
+      "start_state": "Anxiety, agitation, scattered",
+      "palette": ["#87CEEB (Sky Blue)", "#98D8C8 (Seafoam)", "#F7F9E3 (Soft Cream)"],
+      "rgb": ["RGB(135,206,235)", "RGB(152,216,200)", "RGB(247,249,227)"],
+      "mechanism": "Cool colors lower heart rate. Desaturated = less stimulation. Light = spacious.",
+      "application": "Bedroom walls, meditation space, anxiety management app",
+      "practice": "Gaze at blue-green for 5 minutes. Breathe slowly. Notice shift."
+    },
+    
+    "lethargy_to_energy": {
+      "start_state": "Low energy, depressed, sluggish",
+      "palette": ["#FF6347 (Tomato Red)", "#FFA500 (Orange)", "#FFD700 (Gold)"],
+      "rgb": ["RGB(255,99,71)", "RGB(255,165,0)", "RGB(255,215,0)"],
+      "mechanism": "Warm colors increase heart rate. High saturation = stimulation. Bright = awakening.",
+      "application": "Gym, morning routine space, productivity tools",
+      "practice": "10 minutes red-orange exposure (LED, screen, paint). Move body. Notice activation."
+    },
+    
+    "scattered_to_focused": {
+      "start_state": "Distracted, unfocused, chaotic",
+      "palette": ["#4B0082 (Indigo)", "#2F4F4F (Dark Slate Gray)", "#FFFFFF (White accent)"],
+      "rgb": ["RGB(75,0,130)", "RGB(47,79,79)", "RGB(255,255,255)"],
+      "mechanism": "Dark colors = contraction of attention. Cool tones = calm focus. Minimal palette = less distraction.",
+      "application": "Study space, deep work environment, coding setup",
+      "practice": "Surround workspace with dark blues/grays. Single white light. 90-minute focus blocks."
+    },
+    
+    "anger_to_peace": {
+      "start_state": "Anger, frustration, aggression",
+      "palette": ["#90EE90 (Light Green)", "#E0BBE4 (Lavender)", "#F5F5DC (Beige)"],
+      "rgb": ["RGB(144,238,144)", "RGB(224,187,228)", "RGB(245,245,220)"],
+      "mechanism": "Green = balance (opponent process neutralizes red). Pastels = softness. Warm undertones = safety.",
+      "application": "Conflict resolution room, therapy space, timeout area",
+      "practice": "When angry, visualize green-lavender. Breathe into colors. 5 minutes. Feel tension dissolve."
+    },
+    
+    "isolation_to_connection": {
+      "start_state": "Lonely, disconnected, cold",
+      "palette": ["#FFB6C1 (Light Pink)", "#FFDAB9 (Peach)", "#FFF8DC (Cornsilk)"],
+      "rgb": ["RGB(255,182,193)", "RGB(255,218,185)", "RGB(255,248,220)"],
+      "mechanism": "Warm pastels = comfort, safety, love. Pink = heart, connection. Soft = gentle invitation.",
+      "application": "Community space, nursery, social gathering areas",
+      "practice": "Wrap in pink-peach blanket. Light warm candles. Notice heart opening."
+    }
+  },
+
+  "concrete_practices": {
+    "practice_1_color_breathing": {
+      "name": "Color Breathing (10 min)",
+      "goal": "Direct experience of color affecting state",
+      "steps": [
+        "1. Choose color based on need: Red (energy), Blue (calm), Green (balance), Yellow (clarity)",
+        "2. Find or create solid color field (paint, screen, fabric, LED)",
+        "3. Sit comfortably. Gaze softly at color. Don't strain.",
+        "4. Breathe: Inhale—imagine color entering body. Exhale—imagine gray leaving.",
+        "5. Continue 10 minutes. Notice: body temperature, heart rate, thoughts, emotions.",
+        "6. Journal: What shifted? How does this color feel in your body?"
+      ],
+      "variations": "Try opposite color next day. Compare. Build personal color-state map."
+    },
+    
+    "practice_2_palette_creation": {
+      "name": "Emotion Palette Creation (30 min)",
+      "goal": "Learn to translate emotions into colors",
+      "steps": [
+        "1. Choose emotion: joy, sadness, anger, fear, love, peace.",
+        "2. Close eyes. Feel emotion fully. What colors appear?",
+        "3. Open eyes. Find/mix 3-5 colors that match that feeling.",
+        "4. Create palette card (paint, digital, collage). Label with emotion.",
+        "5. Test: Show to others. Do they feel the emotion? Adjust.",
+        "6. Build library: 10 emotions = 10 palettes. Your personal color language."
+      ],
+      "advanced": "Create gradients: anxiety → calm. Anger → peace. Chart emotional journeys in color."
+    },
+    
+    "practice_3_color_fasting": {
+      "name": "Color Fasting & Reintroduction (1 week)",
+      "goal": "Reset color sensitivity, notice what you truly need",
+      "steps": [
+        "Days 1-3: Grayscale only. Wear gray/black/white. Avoid color.",
+        "Day 4: Notice—what color do you crave? That's what you need.",
+        "Day 5: Reintroduce ONE color. Fully. Immerse.",
+        "Day 6: Add second color. Notice interaction.",
+        "Day 7: Full spectrum. Appreciate richness. Colors feel alive."
+      ],
+      "insight": "Color deprivation reveals color hunger. Teaches conscious choice."
+    },
+    
+    "practice_4_color_meditation": {
+      "name": "Chakra Color Meditation (20 min)",
+      "goal": "Balance energy centers through color visualization",
+      "steps": [
+        "1. Root (base of spine): Visualize RED. Chant 'LAM'. Feel grounded.",
+        "2. Sacral (below navel): Visualize ORANGE. Chant 'VAM'. Feel creative.",
+        "3. Solar (stomach): Visualize YELLOW. Chant 'RAM'. Feel powerful.",
+        "4. Heart (chest): Visualize GREEN. Chant 'YAM'. Feel loving.",
+        "5. Throat: Visualize BLUE. Chant 'HAM'. Feel expressive.",
+        "6. Third Eye (forehead): Visualize INDIGO. Chant 'OM'. Feel intuitive.",
+        "7. Crown (top of head): Visualize VIOLET/WHITE. Silence. Feel connected."
+      ],
+      "frequency": "Daily or when imbalanced. Each center 2-3 minutes."
+    },
+    
+    "practice_5_color_mixing": {
+      "name": "Physical Color Mixing (1 hour)",
+      "goal": "Understand color relationships through hands-on creation",
+      "materials": "Paints (red, yellow, blue, white, black) or RGB LED controller",
+      "steps": [
+        "1. Mix primaries: R+Y, Y+B, B+R. See secondaries emerge.",
+        "2. Add white to each. Create tints. Notice mood shift (bold → gentle).",
+        "3. Add black to each. Create shades. Notice mood shift (bright → heavy).",
+        "4. Mix complementaries: R+Cyan, Y+Purple, B+Orange. See neutralization.",
+        "5. Create gradient: Pick two colors. Mix in steps. See transformation.",
+        "6. Match emotion: Pick feeling. Mix until color perfectly embodies it."
+      ],
+      "insight": "Mixing = visceral understanding. Not theory but experience."
+    }
+  },
+
+  "color_shadow_work": {
+    "principle": "Every color has light and shadow aspects. Transformation happens by integrating both.",
+    
+    "red_shadow": {
+      "light": "Passion, vitality, courage, life force, love, warmth",
+      "shadow": "Aggression, rage, violence, lust, domination, danger",
+      "integration": {
+        "question": "How to transform rage into passion? Lust into love?",
+        "answer": "Channel energy, don't suppress. Rage = misdirected passion. Redirect to purpose.",
+        "practice": "When angry: 1) Feel red heat in body. 2) Don't act. 3) Ask: 'What am I passionate about protecting?' 4) Redirect energy there.",
+        "example": "Rage at injustice → passion for justice work. Lust → creative eros, deep love."
+      },
+      "cultures": "Red = luck/celebration (China) vs danger/stop (West). Same color, different shadow integration."
+    },
+    
+    "blue_shadow": {
+      "light": "Calm, trust, depth, wisdom, communication, peace",
+      "shadow": "Depression, coldness, isolation, sadness, rigidity, distance",
+      "integration": {
+        "question": "How to transform depression into depth? Coldness into calm?",
+        "answer": "Blue = water. Depth includes dark. Don't fear the deep. Dive.",
+        "practice": "When depressed (blue): 1) Honor the depth. 2) Cry if needed (water releases). 3) Ask: 'What truth is this depth revealing?' 4) Trust process.",
+        "example": "Depression → deep wisdom. Sadness → capacity for joy. Isolation → solitude."
+      },
+      "cultures": "Blue = mourning (some) vs professional trust (West). Shadow acknowledged or suppressed."
+    },
+    
+    "green_shadow": {
+      "light": "Growth, balance, nature, healing, harmony, renewal",
+      "shadow": "Stagnation, envy, greed, nausea, decay, toxicity",
+      "integration": {
+        "question": "How to transform envy into growth? Stagnation into renewal?",
+        "answer": "Envy = misdirected growth impulse. Use as compass.",
+        "practice": "When envious (green with envy): 1) Notice what you envy. 2) That's what you're meant to grow toward. 3) Use as guide, not poison.",
+        "example": "Envy of success → my own growth path. Stagnation → composting (decay feeds new growth)."
+      },
+      "note": "Green = life and death. Growth requires decay. Integrate both."
+    },
+    
+    "yellow_shadow": {
+      "light": "Joy, optimism, clarity, intellect, sun, confidence",
+      "shadow": "Cowardice, anxiety, superficiality, jaundice, betrayal, madness",
+      "integration": {
+        "question": "How to transform anxiety into clarity? Cowardice into caution?",
+        "answer": "Yellow = bright light. Shadow = blinding/overwhelming light.",
+        "practice": "When anxious (yellow alert): 1) Recognize: anxiety = care. 2) Ask: 'What matters so much?' 3) Clarify values. 4) Act from care, not fear.",
+        "example": "Anxiety → attentiveness. Cowardice → wise caution. Madness → genius (thin line)."
+      },
+      "cultures": "Yellow = imperial (China) vs coward (West). Shadow differently valued."
+    },
+    
+    "black_shadow": {
+      "light": "Mystery, potential, void, elegance, power, depth, infinite possibility",
+      "shadow": "Death, evil, despair, void (negative), emptiness, fear, darkness",
+      "integration": {
+        "question": "How to transform death into renewal? Void into potential?",
+        "answer": "Black = fertile darkness. Womb. Seed in earth. Not end but beginning.",
+        "practice": "When facing void: 1) Don't flee. 2) Sit in darkness. 3) Eyes adjust. 4) Notice: stars shine brightest in blackness.",
+        "example": "Death → transformation. Despair → rebirth. Emptiness → pregnant void."
+      },
+      "cultures": "Black = mourning (West) vs elegance/maturity (some African). Shadow integrated vs feared."
+    },
+    
+    "white_shadow": {
+      "light": "Purity, light, clarity, peace, simplicity, all-colors-unified",
+      "shadow": "Sterility, blankness, coldness, erasure, blindness (too bright), death (Eastern)",
+      "integration": {
+        "question": "How to transform sterility into simplicity? Blankness into clarity?",
+        "answer": "White = all colors. Can be union or erasure. Intent matters.",
+        "practice": "When overwhelmed by whiteness (sterile, blank): Add ONE color. Let life in. White = canvas, not prison.",
+        "example": "Sterility → minimalism. Blankness → openness. Death (Eastern) → rebirth (white as transition)."
+      },
+      "cultures": "White = wedding (West) vs funeral (East). Opposite shadow valences."
+    }
+  },
+
+  "cfo_integration": {
+    "frequency_consciousness": "Color = visible frequency (like sound = audible frequency). Both organize consciousness states.",
+    "argmin_delta_scale": "Color harmony = low Δscale. Colors work across dimensions (physics + perception + emotion + culture).",
+    "positions_0_10": {
+      "0": "Unconscious (don't notice colors)",
+      "1": "First recognition (seeing colors)",
+      "2": "Learning names (red, blue, green)",
+      "3": "Understanding mixing (primary → secondary)",
+      "4": "Using color intentionally (design basics)",
+      "5": "Crisis (color blindness awareness, cultural differences, shadow encounter)",
+      "6": "Mastery begins (harmony, psychology, systems, shadow integration)",
+      "7": "Deep mastery (professional colorist, therapist, shadow work guide)",
+      "8": "Universal understanding (color across cultures, physics, consciousness, all shadows integrated)",
+      "9": "Sacred color (color as spiritual practice, deep healing, light and shadow unified)",
+      "10": "Pure light (⊙ = all colors unified, all shadows integrated, beyond color)"
+    }
+  }
+}

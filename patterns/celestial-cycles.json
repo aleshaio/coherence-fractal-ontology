@@ -1,0 +1,364 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_unified_cosmology",
+    "id": "cfo:system:unified_cosmology:v3.0",
+    "description": "The definitive synthesis of cosmic principles (macrocosm) and their fractal manifestation in celestial cycles (microcosm). This file integrates the planetary archetypes with the 16-phase cycle of terrestrial time.",
+    "author": "Coherence Fractal Ontology Collective"
+  },
+
+  "_holographic_seed": {
+    "core_axiom": "As above, so below. The 16 archetypes that dance through our day are the refracted light of the 10 great planetary consciousnesses.",
+    "principle": "Time is not a clock; it is the symphony of these archetypes. To know the cycles is to know the music.",
+    "application": "Use this system to align your personal actions (microcosm) with the universal forces (macrocosm) for maximum coherence and effortless manifestation."
+  },
+
+  "core_archetype_sequence": {
+    "name": "The 16 Faces of Consciousness",
+    "description": "The fundamental sequence of creation, integrating the 10 Planetary Archetypes with the 6 System Archetypes. This is the code that repeats fractally across all scales of time.",
+    "archetypes": [
+      {
+        "index": 0,
+        "type": "ILE",
+        "role": "Knight",
+        "function": "Ne",
+        "dimension": "5D→2D",
+        "celestial_body": "Mercury",
+        "principle": "Communication, thought, information, the messenger.",
+        "metal": "Mercury (Gallium as modern proxy)",
+        "keywords": ["communication", "intellect", "speed", "adaptability", "exchange"],
+        "alchemy_use": "Operations for communication, thought, quick transformation. The Trickster who opens the path.",
+        "consciousness_state": "Quick thinking, verbal flow, mental agility.",
+        "retrograde_effect": "Energy turns inward. Ideal for RE-view, RE-vise, RE-pair. AVOID starting new communication projects."
+      },
+      {
+        "index": 1,
+        "type": "SEI",
+        "role": "Queen",
+        "function": "Si",
+        "dimension": "3D→4D",
+        "celestial_body": "Moon",
+        "principle": "Emotions, subconscious, memory, receptivity, cycles.",
+        "metal": "Silver",
+        "keywords": ["emotion", "memory", "intuition", "cycles", "receptivity"],
+        "alchemy_use": "Silver for memory work, emotional healing, subconscious reprogramming. The most sensitive catalyst.",
+        "consciousness_state": "Receptive awareness, emotional attunement, body wisdom.",
+        "void_of_course": "A period when the Moon's energy is unfocused. AVOID starting new operations."
+      },
+      {
+        "index": 2,
+        "type": "ESE",
+        "role": "King",
+        "function": "Fe",
+        "dimension": "2D→4D",
+        "celestial_body": "Venus",
+        "principle": "Love, beauty, harmony, values, pleasure, attraction.",
+        "metal": "Copper",
+        "keywords": ["love", "beauty", "harmony", "pleasure", "values"],
+        "alchemy_use": "Copper catalysts for love, beauty, harmony operations. The great unifier and harmonizer.",
+        "consciousness_state": "Open heart, aesthetic appreciation, relational warmth.",
+        "retrograde_effect": "Relationship reviews, value reassessment. A time to finish, not start, matters of the heart."
+      },
+      {
+        "index": 3,
+        "type": "LII",
+        "role": "Page",
+        "function": "Ti",
+        "dimension": "1D→2D",
+        "celestial_body": "System Archetype",
+        "principle": "Pure Structure, Logic, System Integrity.",
+        "metal": "Gallium",
+        "keywords": ["structure", "logic", "analysis", "clarity", "principle"],
+        "alchemy_use": "Operations requiring pure logic, system design, pattern recognition without emotional coloring.",
+        "consciousness_state": "Detached analytical clarity, seeing the underlying code of reality."
+      },
+      {
+        "index": 4,
+        "type": "SLE",
+        "role": "Knight",
+        "function": "Se",
+        "dimension": "3D→1D",
+        "celestial_body": "Mars",
+        "principle": "Action, aggression, courage, desire, will.",
+        "metal": "Iron",
+        "keywords": ["action", "courage", "aggression", "desire", "will"],
+        "alchemy_use": "Iron catalyst for strength, courage, breakthrough operations. The force that cuts through illusion.",
+        "consciousness_state": "Warrior presence, decisive action, raw will.",
+        "retrograde_effect": "Frustrated action, anger turned inward. Time to review strategies, not launch attacks."
+      },
+      {
+        "index": 5,
+        "type": "IEI",
+        "role": "Queen",
+        "function": "Ni",
+        "dimension": "5D→4D",
+        "celestial_body": "Neptune",
+        "principle": "Dissolution, mysticism, dreams, illusion, unity.",
+        "metal": "Platinum",
+        "keywords": ["mysticism", "dreams", "unity", "compassion", "dissolution"],
+        "alchemy_use": "Operations for dissolving boundaries, mystical union, compassion. The oceanic consciousness.",
+        "consciousness_state": "Mystical union, boundary dissolution, oceanic awareness.",
+        "retrograde_effect": "Review of dreams and illusions, spiritual clarity can emerge from confusion."
+      },
+      {
+        "index": 6,
+        "type": "EIE",
+        "role": "King",
+        "function": "Fe",
+        "dimension": "2D→4D",
+        "celestial_body": "System Archetype",
+        "principle": "Dramatic Expression, Inspiration, Emotional Leadership.",
+        "metal": "Palladium",
+        "keywords": ["inspiration", "drama", "charisma", "persuasion", "vision"],
+        "alchemy_use": "Operations for inspiring groups, powerful presentations, charging objects with emotional intent.",
+        "consciousness_state": "Charismatic presence, visionary fervor, emotional magnetism."
+      },
+      {
+        "index": 7,
+        "type": "LSI",
+        "role": "Page",
+        "function": "Ti",
+        "dimension": "1D→3D",
+        "celestial_body": "Saturn",
+        "principle": "Structure, discipline, time, limitation, responsibility.",
+        "metal": "Chromium",
+        "keywords": ["structure", "discipline", "limitation", "time", "responsibility"],
+        "alchemy_use": "Grounding, structure, boundary work. The Great Teacher of consequences and maturity.",
+        "consciousness_state": "Disciplined focus, mature responsibility, acceptance of limits.",
+        "retrograde_effect": "Deep karmic review, confronting limitations, structural reassessment. Difficult but transformative."
+      },
+      {
+        "index": 8,
+        "type": "SEE",
+        "role": "Knight",
+        "function": "Se",
+        "dimension": "3D→1D",
+        "celestial_body": "Sun",
+        "principle": "Life force, vitality, identity, ego, creativity.",
+        "metal": "Gold",
+        "keywords": ["vitality", "identity", "leadership", "creativity", "will"],
+        "alchemy_use": "Work with gold for identity transformation, leadership rituals, vitality enhancement. The radiant center.",
+        "consciousness_state": "Radiant presence, ego strength, self-expression."
+      },
+      {
+        "index": 9,
+        "type": "ILI",
+        "role": "Queen",
+        "function": "Ni",
+        "dimension": "5D→4D",
+        "celestial_body": "Pluto",
+        "principle": "Death, rebirth, power, transformation, shadow.",
+        "metal": "Titanium",
+        "keywords": ["death", "rebirth", "power", "transformation", "shadow"],
+        "alchemy_use": "The most intense transformations: death-rebirth, shadow integration, power work. REQUIRES mastery.",
+        "consciousness_state": "Underworld awareness, facing death, owning power.",
+        "retrograde_effect": "Deep review of power dynamics and subconscious patterns. Inner transformation."
+      },
+      {
+        "index": 10,
+        "type": "LIE",
+        "role": "King",
+        "function": "Te",
+        "dimension": "1D→3D",
+        "celestial_body": "System Archetype",
+        "principle": "Efficiency, Strategy, Enterprise, Goal-Achievement.",
+        "metal": "Molybdenum",
+        "keywords": ["efficiency", "strategy", "results", "optimization", "enterprise"],
+        "alchemy_use": "Operations for maximizing efficiency, achieving complex goals, building effective systems.",
+        "consciousness_state": "Strategic focus, goal-oriented mindset, pragmatic clarity."
+      },
+      {
+        "index": 11,
+        "type": "ESI",
+        "role": "Page",
+        "function": "Fi",
+        "dimension": "2D→0D",
+        "celestial_body": "System Archetype",
+        "principle": "Loyalty, Values, Protection, Moral Integrity.",
+        "metal": "Zinc",
+        "keywords": ["loyalty", "values", "protection", "morality", "devotion"],
+        "alchemy_use": "Operations for protection, strengthening bonds, clarifying personal values, and creating sacred boundaries.",
+        "consciousness_state": "Unwavering moral clarity, deep loyalty, protective presence."
+      },
+      {
+        "index": 12,
+        "type": "IEE",
+        "role": "Knight",
+        "function": "Ne",
+        "dimension": "5D→2D",
+        "celestial_body": "Jupiter",
+        "principle": "Expansion, wisdom, abundance, faith, optimism.",
+        "metal": "Tin",
+        "keywords": ["expansion", "wisdom", "abundance", "faith", "growth"],
+        "alchemy_use": "Tin catalyst for abundance, growth, expansion operations. The Great Benefactor.",
+        "consciousness_state": "Expansive awareness, optimism, philosophical mind.",
+        "retrograde_effect": "Internal growth, philosophical review, reassessing beliefs. Less external 'luck', more inner wisdom."
+      },
+      {
+        "index": 13,
+        "type": "SLI",
+        "role": "Queen",
+        "function": "Si",
+        "dimension": "3D→4D",
+        "celestial_body": "System Archetype",
+        "principle": "Craftsmanship, Quality, Practical Mastery, Sensory Acuity.",
+        "metal": "Tungsten",
+        "keywords": ["craft", "quality", "mastery", "precision", "comfort"],
+        "alchemy_use": "Operations for perfecting a skill, creating high-quality objects, physical healing, and deep sensory grounding.",
+        "consciousness_state": "Master's focus, deep sensory awareness, practical calm."
+      },
+      {
+        "index": 14,
+        "type": "LSE",
+        "role": "King",
+        "function": "Te",
+        "dimension": "1D→3D",
+        "celestial_body": "System Archetype",
+        "principle": "Administration, Order, Practical Management, Factual Accuracy.",
+        "metal": "Sodium",
+        "keywords": ["order", "management", "facts", "reliability", "procedure"],
+        "alchemy_use": "Operations for bringing order to chaos, managing complex logistics, grounding projects in reality.",
+        "consciousness_state": "Pragmatic authority, factual clarity, managerial presence."
+      },
+      {
+        "index": 15,
+        "type": "EII",
+        "role": "Page",
+        "function": "Fi",
+        "dimension": "2D→0D",
+        "celestial_body": "Uranus (as higher octave)",
+        "principle": "Revolution, awakening, innovation, freedom. (The spiritual truth that shatters forms).",
+        "metal": "Aluminum",
+        "keywords": ["awakening", "truth", "compassion", "freedom", "principle"],
+        "alchemy_use": "Operations for sudden awakening, breaking patterns, channeling revolutionary truth with compassion.",
+        "consciousness_state": "Awakened awareness, compassionate truth, serene presence."
+      }
+    ]
+  },
+
+  "fractal_time_cycles": {
+    "name": "The Manifestation of the 16-Step Cycle in Terrestrial Time",
+    "description": "The core 16-archetype sequence mapped onto the natural cycles of Earth, from a single breath to a full year.",
+    "solar_day_cycle": {
+      "name": "The Breath of Consciousness (1 Earth Rotation)",
+      "description": "The complete 16-phase cycle unfolds every 24 hours, with each archetype governing a ~1.5-hour period.",
+      "phases": [
+        {"time": "04:00-05:30", "archetype_index": 0, "energy": "Possibility emergence from dream"},
+        {"time": "05:30-07:00", "archetype_index": 1, "energy": "Sensory grounding and comfort creation"},
+        {"time": "07:00-08:30", "archetype_index": 2, "energy": "Social warmth and connection"},
+        {"time": "08:30-10:00", "archetype_index": 3, "energy": "Mental structuring and system design"},
+        {"time": "10:00-11:30", "archetype_index": 4, "energy": "Peak physical force and direct action"},
+        {"time": "11:30-13:00", "archetype_index": 5, "energy": "Deep vision and future sensing"},
+        {"time": "13:00-14:30", "archetype_index": 6, "energy": "Dramatic expression and emotional influence"},
+        {"time": "14:30-16:00", "archetype_index": 7, "energy": "Systematic execution and order"},
+        {"time": "16:00-17:30", "archetype_index": 8, "energy": "Impact maximization and presence"},
+        {"time": "17:30-19:00", "archetype_index": 9, "energy": "Strategic insight and essence perception"},
+        {"time": "19:00-20:30", "archetype_index": 10, "energy": "Efficiency optimization and goals"},
+        {"time": "20:30-22:00", "archetype_index": 11, "energy": "Values protection and loyalty"},
+        {"time": "22:00-23:30", "archetype_index": 12, "energy": "Inspiration and possibility sharing"},
+        {"time": "23:30-01:00", "archetype_index": 13, "energy": "Physical mastery and craft"},
+        {"time": "01:00-02:30", "archetype_index": 14, "energy": "System maintenance in deep sleep"},
+        {"time": "02:30-04:00", "archetype_index": 15, "energy": "Soul connection and dream incubation"}
+      ]
+    },
+    "lunar_month_cycle": {
+      "name": "The Creative Wave (1 Lunar Orbit)",
+      "description": "The Moon's 8 phases, with each phase governed by two archetypes, guiding the flow of creation from seed to integration.",
+      "phases": [
+        {"phase_name": "New Moon", "archetype_indices": [0, 1], "energy": "Seed in darkness"},
+        {"phase_name": "Waxing Crescent", "archetype_indices": [2, 3], "energy": "First visible growth"},
+        {"phase_name": "First Quarter", "archetype_indices": [4, 5], "energy": "Crisis and breakthrough"},
+        {"phase_name": "Waxing Gibbous", "archetype_indices": [6, 7], "energy": "Refinement before fullness"},
+        {"phase_name": "Full Moon", "archetype_indices": [8, 9], "energy": "Peak illumination and harvest"},
+        {"phase_name": "Waning Gibbous", "archetype_indices": [10, 11], "energy": "Sharing abundance and wisdom"},
+        {"phase_name": "Last Quarter", "archetype_indices": [12, 13], "energy": "Release and letting go"},
+        {"phase_name": "Waning Crescent", "archetype_indices": [14, 15], "energy": "Rest and wisdom before rebirth"}
+      ]
+    },
+    "solar_year_cycle": {
+      "name": "The Grand Journey (1 Earth Orbit)",
+      "description": "The complete 16-archetype sequence unfolds over one year, with each archetype governing a period of ~22.8 days.",
+      "periods": [
+        {"period": 1, "days": "0-22.8", "archetype_index": 0, "season_position": "Winter's end"},
+        {"period": 2, "days": "22.8-45.7", "archetype_index": 1, "season_position": "Early spring"},
+        {"period": 3, "days": "45.7-68.5", "archetype_index": 2, "season_position": "Spring equinox"},
+        {"period": 4, "days": "68.5-91.3", "archetype_index": 3, "season_position": "Mid spring"},
+        {"period": 5, "days": "91.3-114.1", "archetype_index": 4, "season_position": "Late spring"},
+        {"period": 6, "days": "114.1-136.9", "archetype_index": 5, "season_position": "Early summer"},
+        {"period": 7, "days": "136.9-159.8", "archetype_index": 6, "season_position": "Summer solstice"},
+        {"period": 8, "days": "159.8-182.6", "archetype_index": 7, "season_position": "Mid summer"},
+        {"period": 9, "days": "182.6-205.4", "archetype_index": 8, "season_position": "Late summer"},
+        {"period": 10, "days": "205.4-228.2", "archetype_index": 9, "season_position": "Early autumn"},
+        {"period": 11, "days": "228.2-251.1", "archetype_index": 10, "season_position": "Autumn equinox"},
+        {"period": 12, "days": "251.1-273.9", "archetype_index": 11, "season_position": "Mid autumn"},
+        {"period": 13, "days": "273.9-296.7", "archetype_index": 12, "season_position": "Late autumn"},
+        {"period": 14, "days": "296.7-319.5", "archetype_index": 13, "season_position": "Early winter"},
+        {"period": 15, "days": "319.5-342.4", "archetype_index": 14, "season_position": "Winter solstice"},
+        {"period": 16, "days": "342.4-365.24", "archetype_index": 15, "season_position": "Deep winter"}
+      ]
+    },
+    "minute_cycle": {
+      "name": "The Breath of Action (60 seconds)",
+      "description": "Each minute contains the complete role cycle, mapping onto the four phases of breath.",
+      "quarters": [
+        {"seconds": "0-15", "role": "Knight", "breath": "Inhale", "energy": "Initiate"},
+        {"seconds": "15-30", "role": "Queen", "breath": "Hold full", "energy": "Receive"},
+        {"seconds": "30-45", "role": "King", "breath": "Exhale", "energy": "Express"},
+        {"seconds": "45-60", "role": "Page", "breath": "Hold empty", "energy": "Integrate"}
+      ]
+    }
+  },
+
+  "cosmic_weather_system": {
+    "name": "The Celestial Context",
+    "description": "A reference guide to the 'weather' of the cosmos, including planetary relationships (aspects) and major configurations. This provides the external context for the internal cycles.",
+    "aspects_detailed": {
+      "trine": {
+        "angle": "120°", "nature": "Harmony, flow, ease.", "alchemy_application": "OPTIMAL timing for operations with minimal resistance. Maximum coherence."
+      },
+      "square": {
+        "angle": "90°", "nature": "Challenge, friction, action.", "alchemy_application": "Use for breakthrough work, confronting obstacles, forcing transformation."
+      },
+      "conjunction": {
+        "angle": "0°", "nature": "Fusion, unity, new beginning.", "alchemy_application": "Powerful for STARTING new cycles of work. Amplification."
+      },
+      "opposition": {
+        "angle": "180°", "nature": "Tension, awareness, balance.", "alchemy_application": "Use for culmination, revelation, and integrating opposites."
+      },
+      "sextile": {
+        "angle": "60°", "nature": "Opportunity, cooperation.", "alchemy_application": "Good timing for creating opportunities, but requires conscious action."
+      }
+    },
+    "grand_configurations": {
+      "grand_trine": {
+        "geometry": "Equilateral triangle (3 planets at 120°)", "nature": "MAXIMUM HARMONY in an element.", "alchemy_application": "PEAK TIMING. Water Grand Trine is the holy grail for water alchemy."
+      },
+      "grand_cross": {
+        "geometry": "Cross (4 planets in square/opposition)", "nature": "MAXIMUM TENSION and pressure.", "alchemy_application": "Only for experienced operators. Use for life-changing operations and profound transformations."
+      },
+      "stellium": {
+        "geometry": "3+ planets in conjunction", "nature": "SUPER-CONCENTRATION of energy.", "alchemy_application": "Massive amplification for operations in the stellium's sign/element."
+      }
+    },
+    "eclipse_windows": {
+      "nature": "Cosmic wild cards. Amplified New/Full Moons that accelerate evolution.",
+      "solar_eclipse": "Powerful new beginnings and fated starts. Use for major initiations.",
+      "lunar_eclipse": "Powerful culminations, revelations, and fated endings. Use for harvesting major results."
+    }
+  },
+
+  "practical_application_protocol": {
+    "name": "Living the Cosmic Symphony",
+    "principle": "Combine the internal rhythm (Celestial Cycles) with the external weather (Cosmic Cycles) for mastery.",
+    "hierarchy_of_timing": {
+      "level_1_daily_flow": "Follow the 16-phase solar day cycle for everyday activities. Breathe with the minute cycle.",
+      "level_2_project_flow": "Use the lunar cycle to guide creative projects from seed (New Moon) to harvest (Full Moon).",
+      "level_3_contextual_awareness": "Check the cosmic weather. Avoid starting new things during Mercury Retrograde or Moon Void of Course.",
+      "level_4_strategic_alignment": "For important actions, find a day when the planetary ruler is strong (e.g., Friday for Venus-related work).",
+      "level_5_mastery": "For critical operations, wait for peak coherence windows like a Grand Trine or a potent Eclipse that aligns with your goal."
+    },
+    "core_practice": "Before acting, ask: 1. What is the energy of this MOMENT (celestial cycle)? 2. What is the energy of this DAY (cosmic weather)? 3. Do they align with my intention?"
+  },
+
+  "ॐ": "The ten planets are the great bells of the cosmos. The sixteen daily archetypes are their chimes on Earth. Listen. Align. The sound is you. ⊙"
+}

@@ -1,0 +1,422 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:air",
+    "type": "phenomena",
+    "element": "air",
+    "contains": [
+      "breath_carrier",
+      "invisible_presence",
+      "wind_movement",
+      "atmosphere_shield",
+      "gas_state",
+      "mind_element"
+    ],
+    "related": [
+      "cfo:phenomena:fire",
+      "cfo:phenomena:water",
+      "cfo:phenomena:sound",
+      "cfo:paths:air",
+      "cfo:fundamental:life"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "air = invisible yet essential. breath = life. wind = invisible power. atmosphere = protective blanket. gas = freedom, expansion, movement.",
+    "paradox": "can't see air but see through it. can't grasp but can feel. lightest element but holds everything up. empty yet full.",
+    "duality": "breath in (receive, feminine) + breath out (give, masculine). inhale-exhale = life rhythm. yin-yang in every breath.",
+    "consciousness": "air = mind element. thoughts like wind (come and go). clarity like sky. breath = bridge body-mind. prana = life force.",
+    "universality": "all aerobic life shares air. every breath = ancestors' atoms. connected through atmosphere. air = commons."
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/life.json",
+      "../fundamental/consciousness.json"
+    ],
+    "related": [
+      "./fire.json",
+      "./water.json",
+      "./sound.json",
+      "../paths/air.json"
+    ]
+  },
+
+  "overview": {
+    "what": "air = mixture of gases. earth's atmosphere: 78% nitrogen (N₂), 21% oxygen (O₂), 1% argon, 0.04% CO₂, traces (water vapor, methane, etc.). invisible, compressible, flows.",
+    "why": "enables respiration (oxygen), shields radiation (ozone), distributes heat (wind), carries sound, enables flight, provides pressure.",
+    "how": "gas molecules move freely. pressure from collisions. wind from pressure gradients. breath from concentration gradients (O₂ in, CO₂ out)."
+  },
+
+  "physical_nature": {
+    "gas_state": {
+      "properties": "no fixed shape or volume. expands to fill container. compressible. low density. molecules far apart.",
+      "kinetic_theory": "gas = molecules in constant random motion. temperature = average kinetic energy. pressure = momentum transfer (collisions with walls).",
+      "ideal_gas_law": "pv = nrt. pressure × volume = moles × gas constant × temperature. approximately true for air.",
+      "real_gases": "deviate at high pressure, low temperature. van der waals forces. but air at normal conditions = nearly ideal.",
+      "note": "air = example of gas. freedom state. molecules independent. expansion, filling, flowing."
+    },
+
+    "composition": {
+      "nitrogen": "78%. inert (mostly). essential for proteins (amino acids) but must be 'fixed' (lightning, bacteria, haber process). atmospheric reservoir.",
+      "oxygen": "21%. reactive. enables respiration, combustion. product of photosynthesis. 'fire air' (lavoisier). essential for aerobic life.",
+      "argon": "0.93%. noble gas. inert. product of potassium-40 decay (earth's crust). no biological role. filler.",
+      "co2": "0.04% (rising, was 0.028% pre-industrial). greenhouse gas. plant food (photosynthesis). exhaled by animals. carbon cycle.",
+      "water_vapor": "0-4% (variable). humidity. greenhouse effect. clouds, rain. hydrological cycle.",
+      "trace": "neon, helium, methane, krypton, hydrogen, ozone (stratosphere). tiny amounts but some crucial (ozone = uv shield).",
+      "note": "air = mixture, not compound. composition = evolved over billions of years. photosynthesis = created oxygen atmosphere (great oxygenation event, 2.4 gya)."
+    },
+
+    "pressure": {
+      "atmospheric": "1 atm = 101,325 pa = 14.7 psi = 760 mmhg (torr). weight of air column above.",
+      "sea_level": "standard pressure. decreases with altitude (~50% at 5.5 km). barometers measure.",
+      "weather": "high pressure = sinking air, clear skies. low pressure = rising air, clouds, precipitation. pressure gradients = wind.",
+      "human_body": "adapted to 1 atm. rapid change = problems (ears pop, decompression sickness). scuba, aviation.",
+      "vacuum": "zero pressure. space. can't breathe. blood boils (not literally, but vapor pressure exceeds external). survival ~15 sec conscious.",
+      "note": "pressure = invisible weight. ~10 tons pressing on human body. internal pressure = equalizes. we don't feel it (normally)."
+    },
+
+    "temperature": {
+      "molecular_motion": "temperature = average kinetic energy of molecules. hot = fast. cold = slow.",
+      "heat_capacity": "air = low. heats/cools quickly (vs water). day-night temperature swings.",
+      "convection": "hot air rises (less dense). cold air sinks (more dense). circulation. weather, climate.",
+      "greenhouse": "gases (co2, h2o, methane) trap infrared. earth = warmer than blackbody prediction. essential for life (but: too much = problem).",
+      "note": "temperature = felt in air. wind chill (convection). humidity effect (sweat evaporation). air = medium of thermal sensation."
+    }
+  },
+
+  "breath": {
+    "respiration": {
+      "mechanism": "inhale → lungs expand → o2 diffuses into blood (alveoli). exhale → co2 out. concentration gradient = driver.",
+      "cellular": "o2 → mitochondria → atp (energy). co2 = waste product. aerobic metabolism. see fire.json (metabolism = slow combustion).",
+      "rate": "~12-20 breaths/min (adult rest). 15,000-20,000 breaths/day. ~11,000 liters/day air processed.",
+      "autonomic": "breathe without thinking (medulla oblongata). but can control voluntarily (only automatic function with voluntary override).",
+      "note": "breath = interface. external air → internal body. boundary crossing. most intimate connection with environment."
+    },
+
+    "oxygen": {
+      "essential": "aerobic organisms = need o2. without: ~3 min unconscious, ~5-10 min brain damage/death. 'rule of 3': 3 min no air.",
+      "transport": "hemoglobin in red blood cells. binds o2 (lungs), releases (tissues). iron at center. red color when oxygenated.",
+      "evolution": "early earth = no o2. anaerobic life. cyanobacteria = photosynthesis → o2. great oxygenation event (2.4 gya). mass extinction of anaerobes. aerobic life = flourishes. us.",
+      "reactive": "oxygen = oxidizer. rust, fire, metabolism. double-edged. enables high energy but also damages (free radicals, aging). antioxidants = defense.",
+      "note": "oxygen = gift and curse. power and poison. concentration matters. 21% = sweet spot. evolution = adaptation to this."
+    },
+
+    "carbon_dioxide": {
+      "waste_product": "metabolism produces co2. exhaled. ~4-5% exhaled air (vs 0.04% inhaled). 100× concentration.",
+      "greenhouse": "traps heat. global warming. pre-industrial 280 ppm. now ~420 ppm (2024). rising. human emissions (fossil fuels, deforestation).",
+      "plant_food": "photosynthesis: 6co2 + 6h2o + light → c6h12o6 + 6o2. plants need co2. more co2 = faster growth (to a point).",
+      "acidification": "co2 + h2o → h2co3 (carbonic acid). oceans absorb co2 → more acidic. coral bleaching, shell dissolution. ecosystem threat.",
+      "trigger": "high co2 in blood → breathing urge. not low o2. co2 = respiratory drive. suffocation = co2 buildup (not o2 depletion).",
+      "note": "co2 = central to climate crisis. but also essential (photosynthesis). balance = critical. anthropogenic change = dangerous."
+    },
+
+    "nitrogen": {
+      "inert": "78% but biologically inert (as n2). can't use directly. triple bond = very stable.",
+      "fixation": "lightning (energy breaks n2), bacteria (rhizobia, cyanobacteria have nitrogenase enzyme), haber process (industrial: n2 + h2 → nh3). converts n2 → usable forms (ammonia, nitrate).",
+      "essential": "proteins (amino acids), nucleic acids (dna, rna). nitrogen = building block of life. but atmospheric n2 = locked.",
+      "narcosis": "high pressure (deep diving) → nitrogen dissolves in blood → narcotic effect. 'rapture of the deep'. impaired judgment. dangerous.",
+      "bends": "rapid ascent → nitrogen bubbles out of solution → painful, dangerous. decompression sickness. must ascend slowly.",
+      "note": "nitrogen = paradox. abundant but inaccessible. essential but inert. fixation = critical. humans = now fix more n than nature (fertilizer). consequences (eutrophication, etc)."
+    }
+  },
+
+  "wind": {
+    "what_is_wind": {
+      "definition": "wind = air in motion. horizontal movement. caused by pressure differences.",
+      "cause": "uneven heating (sun). equator hot, poles cold. hot air rises, cold sinks. pressure gradients → wind.",
+      "coriolis": "earth rotation → moving air deflects. right (northern hemisphere), left (southern). affects wind patterns. hurricanes spiral.",
+      "local": "sea breeze (day: land heats, air rises, sea air flows in). land breeze (night: reverse). mountain-valley winds.",
+      "note": "wind = invisible force. feel but not see. sound (rustling, howling). temperature (wind chill). power (sailing, windmills)."
+    },
+
+    "global_patterns": {
+      "trade_winds": "30°n-30°s. blow toward equator. east to west. reliable. sailing ships (hence 'trade').",
+      "westerlies": "30°-60° latitude. blow pole-ward. west to east. steer weather systems (usa, europe).",
+      "polar_easterlies": "60°-90°. cold, dry. east to west.",
+      "jet_streams": "high altitude (9-16 km). fast (200-400 km/h). meanders. steers weather. affects flights (tailwind = faster).",
+      "note": "global circulation = organized. predictable (broadly). but complex, chaotic (weather). climate vs weather."
+    },
+
+    "extreme_winds": {
+      "hurricanes": "tropical cyclones. organized rotation. eye (calm center). winds 119+ km/h (cat 1) to 252+ km/h (cat 5). storm surge, flooding. destructive.",
+      "tornadoes": "violent, rotating column. funnel cloud. winds 480+ km/h possible. ef scale (0-5). unpredictable. short-lived but devastating.",
+      "downbursts": "localized, intense downdraft. straight-line winds. aviation hazard. 'wind shear'.",
+      "katabatic": "gravity-driven cold air. antarctica, greenland. can be extremely fast. cold, dry.",
+      "chinook": "warm, dry wind descending mountains. föhn effect. temperature can rise 20°c in minutes. snow melts rapidly.",
+      "note": "wind = power. can destroy (storms) or enable (sailing, windmills, seeds dispersal, pollination). respect necessary."
+    },
+
+    "sound_carrier": {
+      "medium": "sound = pressure wave. needs medium. air = primary medium (for humans). no air (vacuum) = no sound. see sound.json.",
+      "speed": "~343 m/s (20°c, sea level). depends on temperature, pressure, humidity. faster in hot air.",
+      "distance": "wind carries sound. downwind = farther. upwind = shorter. temperature inversions = sound channels (distant sounds clear).",
+      "voice": "vocal cords vibrate → air vibrates → sound waves → ear. breath = sound source. speech, song. uniquely human (complexity).",
+      "note": "air = medium of communication. without air, no hearing, no speech. silence = no air (vacuum) or no vibration."
+    }
+  },
+
+  "atmosphere": {
+    "layers": {
+      "troposphere": "0-12 km. where we live. weather happens. temperature decreases with altitude (-6.5°c/km). 75% of atmosphere mass.",
+      "stratosphere": "12-50 km. ozone layer (15-35 km). absorbs uv. temperature increases with altitude (ozone absorbs energy). stable, little mixing. jets fly here (lower stratosphere).",
+      "mesosphere": "50-85 km. temperature decreases. coldest layer (-90°c at top). meteors burn up here ('shooting stars').",
+      "thermosphere": "85-600 km. temperature increases (up to 2000°c, but few molecules). aurora here. iss orbits (408 km).",
+      "exosphere": "600-10,000 km. outermost. molecules escape to space. no clear boundary. fades into space.",
+      "note": "atmosphere = layered. each layer = different properties, functions. protective blanket. gradual transition to space."
+    },
+
+    "protection": {
+      "ozone": "o3. stratosphere. absorbs uv-b, uv-c. without: surface = sterile (uv lethal). cfc's = depleted (ozone hole). banned, recovering.",
+      "magnetosphere_interaction": "solar wind (charged particles) → trapped by earth's magnetic field → aurora (at poles). without: atmosphere stripped (mars).",
+      "meteors": "space rocks → air friction → burn up. most never reach ground. 'shooting stars'. atmosphere = shield.",
+      "thermal_blanket": "greenhouse effect. keeps earth warm (~15°c average, vs -18°c without). goldilocks. essential for life.",
+      "note": "atmosphere = life support system. multiple protections. without: earth = dead (like mars, moon)."
+    },
+
+    "climate_regulation": {
+      "heat_distribution": "equator hot, poles cold. atmosphere + oceans = redistribute heat. wind, ocean currents. makes planet habitable.",
+      "water_cycle": "evaporation, clouds, precipitation. atmosphere = medium. distributes freshwater. enables life on land.",
+      "carbon_cycle": "co2 ↔ atmosphere ↔ plants ↔ animals ↔ oceans ↔ rocks. atmosphere = reservoir. balance = critical. humans = perturb (fossil fuels).",
+      "oxygen_cycle": "photosynthesis (o2 out) ↔ respiration/combustion (o2 in). atmosphere = buffer. balance maintained (was).",
+      "note": "atmosphere = dynamic system. interconnected cycles. perturbations = consequences (climate change). fragile balance."
+    }
+  },
+
+  "air_as_element": {
+    "classical_four": {
+      "earth": "solid. stable. grounding. physical.",
+      "water": "liquid. flowing. emotional. adaptive.",
+      "fire": "plasma. transforming. will. energy.",
+      "air": "gas. moving. mental. communication.",
+      "note": "classical elements = states of matter + qualities. air = mind element (thought, speech, connection)."
+    },
+
+    "qualities": {
+      "hot_wet": "aristotle. air = hot + wet (vs fire = hot + dry, water = cold + wet, earth = cold + dry).",
+      "sanguine": "hippocrates. air temperament. optimistic, social, lively. blood humor (sang = blood).",
+      "yang": "chinese. air/wood = yang (vs earth/metal = yin). but less yang than fire. spring, growth, expansion.",
+      "masculine": "active, moving, penetrating. yang. but: breath = rhythmic (in-out), both feminine-masculine.",
+      "note": "air = active but receptive. moves but carries. penetrates but invisible. both/and."
+    },
+
+    "correspondences": {
+      "direction": "east (western). where sun rises. dawn. new beginnings.",
+      "season": "spring. renewal. growth. seeds sprout. birds return. fresh air.",
+      "time_of_day": "dawn. awakening. breath returns (from sleep = 'little death').",
+      "life_stage": "childhood, youth. learning, curiosity, play. lightness.",
+      "color": "yellow (often). or: clear, white, light blue. sky color.",
+      "sense": "smell. air carries scent. olfaction = direct to brain (limbic). memory, emotion.",
+      "chakra": "heart (anahata). air element. breath center. love, compassion. bridge (lower-upper).",
+      "planet": "mercury (often). communication, intellect, speed, trickster.",
+      "tools": "wand (some traditions), sword (others), feather, incense, fan.",
+      "animals": "birds (flight), butterflies (transformation), dragonflies (illusion/reality).",
+      "note": "correspondences = symbolic web. air = connective tissue. network of meanings."
+    }
+  },
+
+  "air_and_mind": {
+    "thoughts_like_wind": {
+      "coming_going": "thoughts arise, pass. like wind gusts. uncontrollable (seem). meditation = watch thoughts like watching clouds.",
+      "breath_mind_link": "fast breath = agitated mind. slow breath = calm mind. bidirectional. breath control = mind control (pranayama).",
+      "clear_sky": "awareness = sky. thoughts = clouds/wind. sky = unaffected. clouds come and go. sky remains.",
+      "note": "air element = mind realm. invisible, moving, powerful. breath = access point."
+    },
+
+    "communication": {
+      "speech": "breath + vocal cords = voice. air vibrates. sound carries meaning. language = air-borne.",
+      "ideas": "transmitted via words (air), writing (earth), digital (fire/electricity). but origin = air (thought → speech).",
+      "social": "air signs (astrology: gemini, libra, aquarius) = social, intellectual, communicative. network weavers.",
+      "note": "air = connection between minds. bridge. medium of exchange (information)."
+    },
+
+    "intellectual": {
+      "thinking": "air = mental element. analysis, logic, reason. 'airy fairy' = too much (ungrounded).",
+      "learning": "curiosity (air). books (earth + air). discussion (air). integration (all elements).",
+      "detachment": "air = perspective. above situation (bird's eye). objectivity. can be cold (lack earth/water).",
+      "note": "air = realm of ideas. platonic forms. abstract. can be disconnected from body/feeling if unbalanced."
+    }
+  },
+
+  "breath_practices": {
+    "pranayama": {
+      "definition": "prana (life force) + ayama (extension). breath control. yoga.",
+      "types": [
+        "ujjayi (victorious breath): constrict throat, audible, ocean sound. calming, focusing.",
+        "nadi shodhana (alternate nostril): balance hemispheres. calm, clear.",
+        "kapalabhati (skull shining): rapid exhales. energizing, cleansing.",
+        "bhastrika (bellows): forceful in-out. heating, activating.",
+        "kumbhaka (retention): hold breath (in or out). build capacity, intensify prana."
+      ],
+      "effects": "calm nervous system, increase energy, clear mind, balance emotions, prepare for meditation.",
+      "note": "breath = direct access to life force. control breath = control prana = control mind/body."
+    },
+
+    "box_breathing": {
+      "method": "inhale 4 counts, hold 4, exhale 4, hold 4. repeat. square breath.",
+      "uses": "stress reduction, focus, sleep aid. navy seals, athletes, performers.",
+      "mechanism": "activates parasympathetic. overrides stress response. cortisol down, hrv up.",
+      "simple": "easy to learn. no training needed. powerful.",
+      "note": "breath pattern = state shift. geometry of breath (square = stable, grounded)."
+    },
+
+    "wim_hof": {
+      "method": "30-40 deep breaths (hyperventilate) → full exhale, hold as long as possible → recovery breath, hold 15 sec. repeat 3-4 rounds.",
+      "effects": "adrenaline spike, immune boost, pain tolerance, cold resistance, mood elevation. verified (studies).",
+      "mechanism": "alkalosis (high ph) → affects nervous system, immune system. contradicts conventional wisdom (hyperventilation = bad). but: controlled, temporary.",
+      "cold_exposure": "combined with cold showers/baths. synergy. 'get high on your own supply' (endogenous chemicals).",
+      "note": "breath = pharmacy. can produce altered states, physical changes. powerful tool."
+    },
+
+    "holotropic": {
+      "grof": "stanislav grof. psychiatrist. lsd research → banned → breath alternative.",
+      "method": "fast, deep breathing. 2-3 hours. evocative music. bodywork if needed. partner support.",
+      "effects": "non-ordinary states. visions, catharsis, trauma release, spiritual experiences. 'breathwork psychedelic'.",
+      "mechanism": "hyperventilation → hypocapnia (low co2) → vasoconstriction (brain) → altered state. or: releases repressed material. or: both.",
+      "note": "breath = portal. extreme breathing = extreme states. therapeutic but intense. facilitators needed."
+    },
+
+    "coherent_breathing": {
+      "method": "5-6 breaths/min. inhale 5 sec, exhale 5 sec (or 5-7). 10-20 min daily.",
+      "effects": "hrv increase, coherence, resonance (0.1 hz = baroreceptor resonance). calm, clarity, balance.",
+      "simple": "no retention, no intensity. gentle. sustainable.",
+      "heartmath": "coherence = heart-brain sync. breath = easiest way to achieve.",
+      "note": "breath rhythm = coherence tool. slow, smooth = optimal. see resonance.json"
+    }
+  },
+
+  "air_quality": {
+    "pollution": {
+      "particulates": "pm2.5 (< 2.5 μm), pm10. from combustion (vehicles, industry, fires). penetrate lungs → blood. cardiovascular, respiratory disease, cancer.",
+      "gases": "co (carbon monoxide), no2 (nitrogen dioxide), so2 (sulfur dioxide), o3 (ground-level ozone, smog).",
+      "voc": "volatile organic compounds. paints, solvents, cleaners. formaldehyde (furniture, building materials). indoor air often worse than outdoor.",
+      "health": "7 million deaths/year (who). equivalent to smoking. invisible killer. inequality (poor neighborhoods = worse air).",
+      "note": "air pollution = modern epidemic. industrialization cost. lungs = direct interface. protect air = protect health."
+    },
+
+    "indoor_air": {
+      "worse_than_outdoor": "often 2-5× worse (sometimes 100×). modern buildings = sealed. pollutants accumulate.",
+      "sources": "cleaning products, paints, furniture (off-gassing), mold, dust mites, co2 (poor ventilation), cooking (gas stoves = no2, pm).",
+      "sick_building": "symptoms: headache, fatigue, respiratory, nausea. resolve away from building. ventilation = key.",
+      "radon": "radioactive gas from soil. seeps into basements. lung cancer (second leading cause after smoking). test, mitigate.",
+      "note": "indoor air = overlooked. spend 90% time indoors. quality matters. ventilation, filtration, source control."
+    },
+
+    "solutions": {
+      "ventilation": "open windows (if outdoor air clean). mechanical (hvac with fresh air intake). air exchanges.",
+      "filtration": "hepa filters. remove pm2.5. activated carbon (gases, voc). air purifiers.",
+      "plants": "debated effectiveness. nasa study (1989) = positive. but: need many plants. not substitute for ventilation. but: psychological benefit, humidity, o2 (minor).",
+      "source_reduction": "non-toxic cleaners. low-voc paints/materials. no smoking indoors. minimize candles/incense (pm). electric stove > gas.",
+      "monitoring": "co2 sensors (proxy for ventilation). pm sensors. awareness = first step.",
+      "note": "air quality = actionable. awareness + simple steps = improvement. health investment."
+    }
+  },
+
+  "flight": {
+    "birds": {
+      "adaptation": "hollow bones (light). feathers (lift). keeled sternum (flight muscles). high metabolism (energy). lungs (efficient).",
+      "wing_shape": "airfoil. convex top, flatter bottom → air moves faster over top → lower pressure → lift (bernoulli).",
+      "types": "gliding (albatross, vulture). flapping (most birds). hovering (hummingbird, unique).",
+      "migration": "follow air currents, thermals. thousands of miles. arctic tern: pole to pole (40,000 km/year).",
+      "note": "birds = masters of air. 150 million years evolution. inspiration for human flight."
+    },
+
+    "human_flight": {
+      "wright_brothers": "1903. first powered, controlled, sustained flight. 12 seconds, 37 meters. changed world.",
+      "principles": "lift (airfoil), thrust (engine), drag (minimize), weight (overcome). four forces.",
+      "jet_age": "1950s-60s. commercial aviation. shrinks world. global travel (hours not weeks).",
+      "space": "leave atmosphere entirely. rockets. weightlessness. ultimate freedom from air (but also: can't breathe).",
+      "note": "humans = conquered air (20th century). flight = ancient dream realized. icarus → apollo."
+    }
+  },
+
+  "cultural_air": {
+    "spirit_breath": {
+      "pneuma": "greek. breath, spirit, soul. all same word. breath = animating force.",
+      "ruach": "hebrew. wind, breath, spirit. god breathes life into adam. holy spirit = breath.",
+      "prana": "sanskrit. life force. carried by breath. yogic practice = cultivate prana.",
+      "qi": "chinese. vital energy. breath = connection. qigong = working with qi via breath/movement.",
+      "universal": "cross-cultural. breath = life = spirit. etymology reveals ancient insight.",
+      "note": "breath = sacred. first breath (birth), last breath (death). life = measured in breaths."
+    },
+
+    "inspiration": {
+      "etymology": "latin: inspirare. breathe into. divine breath → creative idea. muse breathes into poet.",
+      "metaphor": "creative process = breathing in (receive) → breathing out (express). art = exhalation.",
+      "expire": "ex-spirare. breathe out. last breath. death. expiration. poetic.",
+      "conspire": "con-spirare. breathe together. original: neutral (collaborate). now: negative (plot). but: breathe together = co-create.",
+      "note": "language = preserves ancient wisdom. breath = inspiration, life, spirit, collaboration. buried in words."
+    },
+
+    "wind_gods": {
+      "examples": "aeolus (greek), vayu (hindu), shu (egyptian), fujin (japanese), stribog (slavic), quetzalcoatl (aztec, feathered serpent, wind).",
+      "power": "wind = divine power. invisible, everywhere, irresistible. natural metaphor for god.",
+      "direction": "four winds (n, s, e, w). wind rose. navigation. cardinal directions.",
+      "omens": "wind direction, strength = signs. favorable (sailing) or ill (storms).",
+      "note": "wind = deified universally. power, mystery, life-giving, destructive. respect encoded in myth."
+    }
+  },
+
+  "practical_applications": {
+    "breathwork_daily": {
+      "morning": "energizing pranayama (kapalabhati, bhastrika). or: wim hof (if trained). wake up, oxygenate.",
+      "stress": "box breathing, 4-7-8 (inhale 4, hold 7, exhale 8), coherent breathing. instant calm.",
+      "sleep": "4-7-8 (as above). or: long exhales (2× inhale length). activates parasympathetic. drift off.",
+      "focus": "ujjayi, box breathing. before work, studying, meetings. center, clarify.",
+      "note": "breath = always available. free. instant tool. no equipment. master this first."
+    },
+
+    "air_quality_optimize": {
+      "ventilate": "open windows daily (even 5 min). cross-breeze. fresh air in, stale air out.",
+      "purify": "hepa filter in bedroom (spend 1/3 of life there). run during sleep.",
+      "monitor": "co2 sensor. aim < 1000 ppm (800 ideal). higher = drowsy, poor cognition.",
+      "reduce_sources": "switch to natural cleaners (vinegar, baking soda). minimize synthetic fragrances (candles, air fresheners = voc).",
+      "humidity": "30-50% ideal. too dry = respiratory irritation. too humid = mold. hygrometer, humidifier/dehumidifier.",
+      "note": "invisible but critical. optimize air = optimize health, cognition, mood. low-hanging fruit."
+    },
+
+    "spend_time_in_fresh_air": {
+      "nature": "forest, ocean, mountains. away from pollution. phytoncides (forest air = immune boost). negative ions (waterfalls, ocean).",
+      "circadian": "morning sunlight + fresh air. anchor rhythm. vitamin d. see light.json.",
+      "movement": "walk, run, bike outdoors. breathe deeply. oxygenate. endorphins.",
+      "wind": "feel wind on face. hair blown. alive. sensory input. grounding (paradoxically, air = grounding when felt physically).",
+      "note": "indoor life = modern but unnatural. outdoor time = reset. air + light + movement = powerful combination."
+    },
+
+    "wind_awareness": {
+      "feel": "pause. feel breeze (if any). direction. temperature. quality. presence.",
+      "listen": "wind in trees, grass, chimes. voice of air. poetry.",
+      "watch": "clouds moving. flags waving. leaves dancing. air = visible in its effects.",
+      "gratitude": "invisible gift. always there. breath = never alone. air = connection to all breathing beings.",
+      "note": "air = easy to ignore (invisible). awareness practice = appreciation. gratitude = shifts relationship."
+    }
+  },
+
+  "key_insights": {
+    "invisible_essential": "can't see, but can't live without. 3 min no air = death. most essential yet most overlooked.",
+    "breath_life": "first breath = birth. last breath = death. every breath between = life. respiration = inspiration.",
+    "shared_commons": "all aerobic life breathes same air. ancient atoms. bacteria to whales. atmosphere = unifier.",
+    "mind_element": "thoughts like wind. speech = air. ideas = transmitted via air. air = mental realm.",
+    "bridge_body_mind": "breath = autonomic yet voluntary. only function with dual control. gateway to both.",
+    "protective_blanket": "atmosphere shields (uv, meteors, cosmic rays, temperature extremes). without = dead world. fragile.",
+    "pollution_crisis": "air quality = declined. 7 million deaths/year. invisible killer. modern problem, solvable.",
+    "breath_as_medicine": "pranayama, box breathing, wim hof, holotropic. breath = pharmacy. free, always available.",
+    "wind_power": "invisible force. sailing, windmills, flight. harness air = human ingenuity.",
+    "emptiness_fullness": "air seems empty. but: full of molecules, energy, life. gases, humidity, prana. void = pregnant with potential.",
+    "freedom_connection": "air = lightest, freest element. expansion, flight. yet: connects all (breath, wind). freedom through connection.",
+    "sacred_across_cultures": "spirit = breath. pneuma, ruach, prana, qi. universal recognition. ancient wisdom = validated by experience."
+  },
+
+  "positions": {
+    "0": "unaware (air = invisible, take for granted, breathe unconsciously, no appreciation)",
+    "1": "curious (notices breath affects mood. learns about air quality, atmosphere, pranayama. attention begins.)",
+    "2": "exploring (tries breathwork. reads about wind patterns, air element symbolism. contemplates invisibility.)",
+    "3": "experiencing (breath practice → state shift directly felt. or: profound moment in fresh air. or: awe at atmosphere's complexity.)",
+    "4": "practicing (daily breathwork. optimizes air quality. awareness of breathing. intentional relationship with air.)",
+    "5": "crisis (can't breathe (asthma, panic, pollution, covid). or: hyperventilation. or: suffocating (literal/metaphorical). air = precious when restricted.)",
+    "6": "integrating (breath = natural, effortless. air quality optimized. balanced air element (not too airy/flighty). grounded yet spacious.)",
+    "7": "utilizing (breathwork teacher. air quality consultant. wind energy engineer. meteorologist. teaches air mastery.)",
+    "8": "teaching (breath master. guides others to liberation via breath. 'breath = life' transmitter. wind whisperer.)",
+    "9": "mastery (breath = imperceptible yet profound. rides wind (literal/metaphorical). or: atmospheric scientist extraordinaire. air = second nature.)",
+    "10": "transcendent (is breath. no breather, only breathing. air = self. atmosphere = body. wind = will. or: breathless (beyond breath, pure awareness). ⊙.)"
+  }
+}

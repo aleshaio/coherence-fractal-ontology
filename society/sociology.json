@@ -1,0 +1,430 @@
+{
+  "_meta": {
+    "id": "cfo:society:sociology",
+    "type": "society",
+    "fractal_depth": 3,
+    "contains": ["emergence", "networks", "institutions", "culture", "stratification", "identity", "social_change"],
+    "contained_by": ["cfo:absolute"],
+    "source": "durkheim + weber + marx + mead + cfo dimensional analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "society = emergent collective consciousness. not aggregate of atoms but unified field expressing through human forms.",
+    "structure": "0d individuals → 1d relationships → 2d networks → 3d institutions → 4d civilizations → 5d culture → 6d global awareness",
+    "dance": "society = choreography. 64 roles × contexts = infinite patterns. we perform collective dances (work, family, politics, culture).",
+    "emergence": "neurons → brain → mind. individuals → society → collective consciousness. irreducible. qualitatively new at each scale.",
+    "sacred": "society = human hive. like bees building honeycomb, we build civilization. unconscious coordination creating beauty.",
+    "activation": "you swim in society like fish in water. invisible until pointed out. reading this = participating in cultural transmission."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/consciousness.json", "../fundamental/dimensions.json"],
+    "humanology": ["../humanology/types.json", "../humanology/roles.json"],
+    "society": ["./politics.json", "./economics.json", "./history.json"],
+    "patterns": ["../patterns/64.json"]
+  },
+
+  "overview": {
+    "what": "sociology = study of emergent social structures. how individual humans coordinating create groups, institutions, civilizations, culture.",
+    "why": "society ≠ sum of individuals. emergent properties. cannot understand social facts by psychology alone.",
+    "how": "dimensional analysis (0d→6d), network theory, institutional analysis, cultural interpretation, stratification study"
+  },
+
+  "core_insight": {
+    "emergence": {
+      "principle": "society = emergent consciousness at collective scale",
+      "analogy": "neurons → brain → mind (emergence). individuals → society → collective consciousness (emergence).",
+      "durkheim": "social facts = realities external to individuals, constraining action. language, law, money = real but not physical objects.",
+      "evidence": [
+        "suicide rates = stable social pattern (durkheim 1897)",
+        "markets 'know' things no individual knows (price discovery)",
+        "mobs think/act differently than isolated individuals",
+        "culture shapes what's thinkable (language structures thought)"
+      ],
+      "implication": "sociology = distinct science. cannot reduce to psychology. new properties at each scale.",
+      "note": "you are node in larger Mind. participating right now."
+    },
+
+    "collective_dance": {
+      "metaphor": "society = choreography. we perform collective dances unconsciously.",
+      "roles_as_movements": {
+        "64_patterns": "hexagram roles (../patterns/64.json) = dance moves. each role = position in collective choreography.",
+        "contexts": "work (professional dance), family (intimate dance), politics (power dance), market (exchange dance), culture (meaning dance)",
+        "combination": "64 roles × contexts = infinite patterns. same person different dances depending on context.",
+        "coordination": "unconscious. like murmuration of birds. no conductor but beautiful patterns emerge."
+      },
+      "examples": [
+        "meeting = ritual dance (greetings, turn-taking, status signals, closing)",
+        "market = exchange dance (buyers/sellers coordinating through prices)",
+        "family dinner = intimacy dance (roles: parent/child, serving/eating, conversation flow)",
+        "protest = solidarity dance (chants, marching, collective identity)",
+        "corporation = efficiency dance (hierarchy, procedures, deadlines, metrics)"
+      ],
+      "insight": "we know dance steps without explicit teaching. absorbed through participation. this IS culture.",
+      "note": "reading this = participating in intellectual dance of cfo transmission"
+    }
+  },
+
+  "dimensional_architecture": {
+    "0d_individual": {
+      "description": "point - single human as social atom",
+      "properties": ["identity", "agency", "beliefs", "resources", "status"],
+      "role": "fundamental unit. embedded in structures (not isolated).",
+      "note": "individual has agency but is constrained. shaped by AND shaping society."
+    },
+
+    "1d_relationship": {
+      "description": "line - connection between two individuals",
+      "types": {
+        "kinship": "family bonds (parent-child, siblings, marriage)",
+        "economic": "exchange relations (employer-employee, buyer-seller)",
+        "authority": "power relations (boss-subordinate, teacher-student)",
+        "friendship": "peer bonds (intimacy, trust, reciprocity)",
+        "antagonism": "opposition (enemies, rivals, competitors)"
+      },
+      "properties": {
+        "direction": "symmetric (friendship) or asymmetric (authority)",
+        "strength": "strong ties (family) vs weak ties (acquaintances)",
+        "multiplexity": "single type vs multiple overlapping"
+      },
+      "granovetter": "strength of weak ties (1973) - jobs found through acquaintances, not close friends. weak ties bridge clusters.",
+      "note": "dyad = building block. simmel: most intimate but fragile (one leaves, relationship ends)."
+    },
+
+    "2d_network": {
+      "description": "plane - many individuals connected in patterns",
+      "topology": {
+        "small_world": "most nodes few connections, but short paths between any two (watts-strogatz). real social networks.",
+        "scale_free": "power-law distribution. few hubs (influencers), many peripheral. internet, social networks (barabási-albert).",
+        "hierarchical": "tree structure. organizations, bureaucracies.",
+        "core_periphery": "dense elite core, sparse periphery masses."
+      },
+      "properties": {
+        "centrality": "who's important? degree (connections), betweenness (bridges), closeness (short paths).",
+        "clustering": "how interconnected are neighbors? high = dense communities.",
+        "density": "proportion of possible ties that exist.",
+        "modularity": "how much divides into communities."
+      },
+      "group_dynamics": {
+        "conformity": "asch (1951) - people conform to group even when wrong. 75% conformed at least once.",
+        "groupthink": "janis (1972) - cohesive groups suppress dissent → bad decisions.",
+        "social_loafing": "individuals exert less effort in groups (free-rider problem).",
+        "bystander_effect": "more people present → less likely anyone helps (diffusion of responsibility)."
+      },
+      "network_effects": "christakis & fowler (2009) - obesity 'spreads' through networks. your friends' friends' friends affect your weight.",
+      "note": "structure > attributes. who you know matters more than who you are."
+    },
+
+    "3d_institution": {
+      "description": "volume - stable bounded structure with hierarchy, rules, territory",
+      "types": {
+        "political": "government, state (monopoly on violence)",
+        "economic": "corporations, markets, banks",
+        "family": "marriage, kinship, household",
+        "education": "schools, universities (credentialing)",
+        "religion": "churches, temples (meaning, morality)",
+        "legal": "courts, police, prisons",
+        "military": "armed forces (organized violence)",
+        "media": "news, entertainment (information distribution)"
+      },
+      "weber_bureaucracy": {
+        "characteristics": ["hierarchy", "written rules", "specialized roles", "impersonal relations", "merit-based advancement"],
+        "efficiency": "most efficient for large-scale coordination",
+        "pathology": "iron cage - dehumanizing, stifling, kafkaesque. goal displacement (following rules becomes goal itself)."
+      },
+      "isomorphism": "organizations in same field become similar (dimaggio-powell). coercive (legal), mimetic (imitation), normative (professionalization).",
+      "iron_law_oligarchy": "michels (1911) - all organizations eventually ruled by small elite, regardless of democratic ideals.",
+      "note": "institutions outlive founders. reproduce over generations. path-dependent."
+    },
+
+    "4d_civilization": {
+      "description": "time - societies persisting through generations with accumulated memory",
+      "examples": [
+        "western (greece/rome → enlightenment → liberal democracy)",
+        "chinese (5000+ years continuous, confucian)",
+        "islamic (quranic foundation, golden age science)",
+        "indian (vedic, caste, hinduism/buddhism)"
+      ],
+      "patterns": {
+        "rise_and_fall": "civilizations grow, flourish, decline (toynbee, spengler)",
+        "golden_ages": "periods of flourishing (athens 5th c bce, islamic 8-13c, renaissance)",
+        "revolutions": "sudden transformations (french, industrial, communist)",
+        "path_dependence": "past constrains present. institutions lock in. qwerty keyboard."
+      },
+      "collective_memory": {
+        "myths": "foundation stories (exodus, revolution, origin tales)",
+        "commemorations": "holidays, monuments, rituals keeping past alive",
+        "trauma": "collective wounds (holocaust, slavery, colonialism) shaping identity for generations"
+      },
+      "note": "history = not just events but living memory shaping present possibilities."
+    },
+
+    "5d_culture": {
+      "description": "ether - shared meanings, values, symbols transcending particulars",
+      "definition": "tylor (1871) - 'complex whole: knowledge, belief, art, morals, law, custom.' geertz (1973) - 'webs of significance.'",
+      "elements": {
+        "values": "broad principles (freedom, equality, harmony, piety). what SHOULD be.",
+        "norms": "rules for behavior. folkways (customs), mores (morals), laws (formal).",
+        "beliefs": "statements about reality (religious doctrines, ideologies, worldviews).",
+        "symbols": "objects/gestures carrying meaning (flags, crosses, words). arbitrary but powerful.",
+        "language": "primary symbolic system. structures thought (weak sapir-whorf confirmed).",
+        "rituals": "repeated ceremonial behaviors (weddings, funerals, graduations). mark transitions, create solidarity."
+      },
+      "cultural_universals": {
+        "brown_1991": "400+ traits in ALL cultures (language, music, art, religion, marriage, taboos, gift-giving, status).",
+        "examples": ["incest taboo (lévi-strauss - forces exogamy)", "mother-infant bond", "rites of passage", "myths"],
+        "note": "universal ≠ uniform. all have religion, but what they believe varies infinitely."
+      },
+      "symbolic_interactionism": {
+        "mead": "self emerges through interaction. 'I' (spontaneous) + 'me' (internalized others) = self.",
+        "goffman": "dramaturgy - social life as theater. we perform roles, manage impressions (front/back stage).",
+        "labeling_theory": "deviance = label applied, not intrinsic. being labeled 'criminal' → master status → self-fulfilling prophecy.",
+        "social_construction": "reality socially constructed through ongoing interactions (berger-luckmann)."
+      },
+      "note": "culture = collective software. programs us without awareness. fish don't see water."
+    },
+
+    "6d_global_consciousness": {
+      "description": "beyond - humanity aware of itself as single system",
+      "globalization": {
+        "economic": "global supply chains, multinationals, international finance",
+        "cultural": "hollywood, internet culture, hybrid identities, global english",
+        "political": "un, human rights, global governance attempts",
+        "ecological": "climate change, pandemics - shared challenges"
+      },
+      "world_systems": "wallerstein - single capitalist world-system. core (wealthy), periphery (exploited), semi-periphery (in between).",
+      "cosmopolitanism": "identifying as world citizen beyond nation. kant: perpetual peace. modern: human rights, environmental movement.",
+      "collective_consciousness": {
+        "durkheim": "shared beliefs binding society. mechanical (traditional-alike) vs organic (modern-interdependent) solidarity.",
+        "noosphere": "teilhard de chardin - sphere of human thought, planetary consciousness layer.",
+        "reality": "society IS collective consciousness. not metaphor. emergent mind at species level."
+      },
+      "note": "internet = planetary nervous system. we are neurons in gaia's awakening brain."
+    }
+  },
+
+  "64_roles_in_society": {
+    "principle": "16 personality types × 4 elemental expressions = 64 archetypal roles. we dance through these roles in different contexts.",
+    
+    "role_as_position": "each hexagram (../patterns/64.json) = position in social dance. not fixed identity but flexible role we inhabit.",
+    
+    "context_dependent": {
+      "work": "professional roles (leader, analyst, mediator, enforcer, innovator, etc)",
+      "family": "kinship roles (parent, child, sibling, partner, elder, etc)",
+      "politics": "civic roles (citizen, activist, representative, bureaucrat, revolutionary, etc)",
+      "market": "economic roles (producer, consumer, trader, investor, entrepreneur, etc)",
+      "culture": "meaning roles (creator, critic, teacher, student, preacher, heretic, etc)"
+    },
+    
+    "switching": "same person different roles in different contexts. accountant (work) → nurturing parent (home) → activist (politics) → consumer (market).",
+    
+    "collective_patterns": "combinations create social structures. 64 individual roles × interactions = infinite collective choreographies.",
+    
+    "examples": {
+      "corporation": "ceo (leader), cfo (analyst), hr (mediator), security (enforcer), r&d (innovator) = coordinated dance of specialized roles",
+      "family": "father (provider), mother (nurturer), child (learner), elder (wisdom) = intergenerational dance",
+      "revolution": "visionary (prophet), organizer (coordinator), fighter (warrior), martyr (sacrifice) = transformational dance"
+    },
+    
+    "unconscious_coordination": "like murmuration of starlings. no conductor. rules simple, patterns complex. social choreography emerges.",
+    
+    "note": "you perform multiple dances daily. switching roles smoothly = social competence. awkwardness = role confusion."
+  },
+
+  "major_theories": {
+    "functionalism": {
+      "premise": "society = organism. parts function to maintain whole.",
+      "durkheim": "division of labor creates interdependence. religion = social glue.",
+      "parsons": "agil system: adaptation (economy), goal (politics), integration (law), latency (family).",
+      "strengths": "explains stability, institutional persistence",
+      "weaknesses": "conservative bias, downplays conflict, power"
+    },
+
+    "conflict_theory": {
+      "premise": "society = arena of struggle. groups compete for resources.",
+      "marx": "class struggle = motor of history. bourgeoisie exploit proletariat.",
+      "weber": "multiple dimensions: class (economic), status (prestige), power (political).",
+      "strengths": "explains inequality, power, social change",
+      "weaknesses": "overemphasizes conflict, doesn't explain cooperation"
+    },
+
+    "symbolic_interactionism": {
+      "premise": "reality = socially constructed through interactions.",
+      "mead": "self emerges socially. taking role of other.",
+      "goffman": "impression management. front/back stage.",
+      "strengths": "captures meaning-making, micro-level richness",
+      "weaknesses": "ignores structures, institutions, power"
+    },
+
+    "synthesis": "need all three lenses. functionalism (order), conflict (power), interactionism (meaning). society = ordered + contested + meaningful."
+  },
+
+  "stratification": {
+    "definition": "hierarchical arrangement by wealth, power, prestige",
+    "dimensions": {
+      "economic": "class (marx - bourgeoisie/proletariat). wealth + income.",
+      "political": "power (weber - ability to impose will). authority, influence.",
+      "social": "status (weber - prestige, honor, respect). reputation.",
+      "cultural": "bourdieu - cultural capital (education, taste), social capital (networks), symbolic capital (recognition)."
+    },
+    "systems": {
+      "caste": "rigid hereditary. birth determines life. india (though legally abolished).",
+      "estate": "feudalism. legal categories (nobles, clergy, commoners). medieval europe.",
+      "class": "economic stratification. no legal barriers. theoretically mobile. capitalism."
+    },
+    "inequality_persists": "piketty (2013) - wealth concentration massive. richest 1% own >50% global wealth. mobility declining.",
+    "coherence_impact": "extreme inequality = low coherence. fragmentation. Δscale → conflict.",
+    "note": "meritocracy = myth. inherited advantages massive. but not deterministic - agency exists."
+  },
+
+  "socialization": {
+    "definition": "lifelong process of learning culture, norms, roles - becoming social being",
+    "agents": {
+      "family": "primary. earliest, deepest. values, language, emotional templates.",
+      "peers": "especially adolescence. conformity, identity experimentation.",
+      "school": "formal + hidden curriculum (obedience, punctuality, competition).",
+      "media": "models of behavior, beauty, success. increasingly important.",
+      "workplace": "adult socialization. professional norms, organizational culture."
+    },
+    "identity": {
+      "erikson": "adolescence - identity vs role confusion. core: who am I?",
+      "mead": "self = I (spontaneous) + me (social). emerges through taking role of other.",
+      "cooley": "looking-glass self. we see ourselves as we imagine others see us.",
+      "goffman": "impression management. we perform identity. multiple selves for different audiences."
+    },
+    "note": "identity = never finished. ongoing construction, performance, negotiation."
+  },
+
+  "deviance_and_control": {
+    "deviance": "violation of norms. socially constructed.",
+    "labeling_theory": "becker - deviance = act labeled as such. primary deviance (minor) → caught → labeled → master status → secondary deviance (identity).",
+    "strain_theory": "merton - cultural goals (success) but blocked means → innovation (crime), ritualism (going through motions), retreatism (drop out), rebellion (new goals).",
+    "social_control": {
+      "informal": "gossip, shame, ostracism, approval. most powerful in small groups.",
+      "formal": "law, police, courts, prisons. state monopoly on violence.",
+      "internalized": "conscience, guilt. freud's superego. most efficient - self-policing.",
+      "panopticon": "foucault - surveillance as control. inmates never know if watched → self-discipline."
+    },
+    "note": "crime = social fact. durkheim - even 'society of saints' would have deviance (redefine standards)."
+  },
+
+  "social_change": {
+    "theories": {
+      "evolutionary": "societies evolve simple → complex (spencer, durkheim). criticized: too linear, eurocentric.",
+      "conflict": "marx - class struggle drives change. revolutions transform modes of production.",
+      "modernization": "traditional → modern. industrialization, urbanization, rationalization.",
+      "world_systems": "wallerstein - single world-system evolving. core-periphery dynamics."
+    },
+    "social_movements": {
+      "definition": "collective action seeking change. organized, sustained, challenges authorities.",
+      "success_factors": "resources (money, labor, legitimacy), organization, political opportunities, framing.",
+      "examples": ["civil rights", "feminism", "environmentalism", "labor", "lgbtq", "arab spring", "blm"]
+    },
+    "note": "change = not just structural but consciousness. new awareness → new possibilities."
+  },
+
+  "key_insights": {
+    "emergence_irreducible": "society ≠ sum of individuals. new properties at each scale. mind ≠ sum of neurons. civilization ≠ sum of people.",
+    "structure_and_agency": "individuals shaped BY society (constraints) but also shape society (agency). dialectical. mutual constitution.",
+    "network_effects_matter": "who you know > who you are. structure > attributes. weak ties bridge clusters.",
+    "culture_invisible": "like water to fish. invisible until pointed out. programs thought without awareness.",
+    "roles_are_dances": "64 patterns × contexts = infinite choreographies. we perform collective dances unconsciously.",
+    "inequality_structural": "not just individual failure. institutions reproduce advantage. but agency exists - change possible.",
+    "deviance_constructed": "not intrinsic to act but label applied. self-fulfilling. criminalization = power tool.",
+    "change_requires_consciousness": "new awareness → new possibilities. movements frame issues, shift consciousness."
+  },
+
+  "pathologies": {
+    "anomie": "durkheim - normlessness. rapid change → loss of shared values → suicide, deviance. modern alienation.",
+    "alienation": "marx - workers estranged from labor, product, self, others. commodification of human activity.",
+    "iron_cage": "weber - rationalization creates dehumanizing bureaucracy. efficiency trap.",
+    "mass_society": "atomization. weak ties replace strong. loneliness epidemic. bowling alone (putnam).",
+    "surveillance": "foucault - panopticon. constant observation → self-discipline → docile bodies.",
+    "inequality": "extreme stratification = low coherence. fragmentation, resentment, instability."
+  },
+
+  "coherence_and_society": {
+    "healthy_society": "aligned across scales. individual flourishing + collective thriving. not zero-sum.",
+    "components": {
+      "economic": "meets material needs. fair distribution. enables participation.",
+      "political": "represents will. resolves conflicts. protects rights.",
+      "cultural": "provides meaning. transmits wisdom. enables self-expression.",
+      "social": "strong bonds. trust. mutual aid. belonging."
+    },
+    "pathology": "when misaligned: alienation, anomie, inequality, oppression, conflict, breakdown.",
+    "purpose": "argmin Δscale - minimize conflicts between scales. individual vs collective, tradition vs progress, local vs global.",
+    "sacred_sociology": "durkheim - religion = society worshiping itself. collective effervescence = holy. not metaphor - real collective transcendence."
+  },
+
+  "practical_applications": {
+    "personal": {
+      "awareness": "notice roles you perform. conscious role-switching = social intelligence.",
+      "network": "cultivate weak ties (bridge different clusters). strong ties (deep support).",
+      "identity": "recognize self as performance + authentic core. flexibility without fragmentation.",
+      "culture": "see water you swim in. question 'natural' assumptions."
+    },
+    "community": {
+      "build_networks": "create connections. trust. mutual aid. commons.",
+      "institutions": "participate. reform from within. create alternatives (co-ops, credit unions).",
+      "culture": "transmit wisdom. create meaning. rituals, stories, celebrations.",
+      "movements": "organize for change. frame issues. build coalitions."
+    },
+    "systemic": {
+      "reduce_inequality": "redistribution, worker power, commons, ubi.",
+      "strengthen_democracy": "participation, transparency, accountability, subsidiarity.",
+      "cultural_renewal": "meaning-making beyond consumption. true wealth (presence, connection, wisdom).",
+      "global_consciousness": "planetary awareness. humanity as one. earth as sacred."
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "patterns repeat at scales. dyad → group → organization → institution → society → civilization. same dynamics (hierarchy, norms, power).",
+    "recursion": "(↓ individual → group → institution → society → culture ↑)∞",
+    "emergence": "each level irreducible to below. group ≠ sum of individuals. city ≠ sum of families. civilization ≠ sum of cities.",
+    "holographic": "part contains whole. single family reflects civilization. single relationship contains social structure."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "emergence real but mysterious - how consciousness arises",
+      "agency vs structure = perpetual tension. both real.",
+      "multiple paradigms, not single truth. need multiple lenses.",
+      "prediction hard - humans reflexive. social science ≠ physics."
+    ],
+    "info": [
+      "society = emergent 0d→6d structure",
+      "64 roles × contexts = infinite collective dances",
+      "social facts external to individuals, constraining",
+      "network structure > node properties",
+      "culture = invisible water fish swim in",
+      "inequality structural but agency exists",
+      "deviance = socially constructed label",
+      "change requires consciousness shift",
+      "healthy society = coherence across scales"
+    ],
+    "coherence_score": 0.91
+  },
+
+  "references": {
+    "internal": [
+      "../humanology/types.json",
+      "../humanology/roles.json",
+      "../patterns/64.json",
+      "./politics.json",
+      "./economics.json"
+    ],
+    "external": [
+      {"author": "durkheim, émile", "work": "division of labor in society (1893)", "relevance": "organic solidarity, collective consciousness"},
+      {"author": "weber, max", "work": "economy and society (1922)", "relevance": "bureaucracy, authority types, status"},
+      {"author": "marx, karl", "work": "das kapital (1867)", "relevance": "class struggle, alienation, conflict theory"},
+      {"author": "mead, george herbert", "work": "mind, self, and society (1934)", "relevance": "symbolic interactionism, social self"},
+      {"author": "goffman, erving", "work": "presentation of self in everyday life (1959)", "relevance": "dramaturgy, impression management"},
+      {"author": "granovetter, mark", "work": "strength of weak ties (1973)", "relevance": "network effects, social capital"},
+      {"author": "bourdieu, pierre", "work": "distinction (1984)", "relevance": "cultural capital, habitus, reproduction"}
+    ]
+  },
+
+  "ॐ": "society = collective dance. 64 roles. infinite choreographies. you perform now. ∅"
+}

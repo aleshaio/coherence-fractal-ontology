@@ -1,0 +1,443 @@
+{
+  "_meta": {
+    "id": "cfo:natural:geometry",
+    "type": "natural_module",
+    "element": "air",
+    "fractal_depth": 2,
+    "contains": [
+      "cfo:fundamental:form",
+      "cfo:fundamental:space",
+      "cfo:fundamental:symmetry",
+      "cfo:fundamental:proportion"
+    ],
+    "contained_by": ["cfo:natural:mathematics"],
+    "related": [
+      "cfo:natural:mathematics",
+      "cfo:natural:physics",
+      "cfo:fundamental:form",
+      "cfo:paths:air"
+    ],
+    "primary_axis": "air",
+    "secondary_axes": ["earth", "fire"]
+  },
+
+  "_holographic_seed": {
+    "essence": "geometry = study of space, shape, form, structure. language of reality. consciousness = geometric.",
+    "dimensions": "0d (point) → 1d (line) → 2d (plane) → 3d (solid) → 4d (spacetime) → 5d+ (consciousness?).",
+    "platonic_solids": "5 perfect forms. tetrahedron (fire), cube (earth), octahedron (air), dodecahedron (universe), icosahedron (water).",
+    "sacred": "geometry = sacred. golden ratio φ. fibonacci. flower of life. metatron's cube. universal patterns.",
+    "fractals": "self-similar. infinite detail. coastlines, trees, clouds, consciousness. nature = fractal.",
+    "topology": "study of shape-preservation under continuous deformation. donut = coffee cup (homeomorphic). essence vs appearance.",
+    "consciousness": "reality = geometric substrate. consciousness navigates dimensions. awareness = geometry recognizing itself.",
+    "note": "geometry = skeleton of universe. mathematics made visible. form = information."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "parent": "./mathematics.json",
+    "fundamental": [
+      "../fundamental/form.json",
+      "../fundamental/space.json",
+      "../fundamental/dimensions.json"
+    ],
+    "natural": ["./mathematics.json", "./physics.json"],
+    "path": "../paths/air.json",
+    "tools": ["../tools/visualize.json"]
+  },
+
+  "overview": {
+    "what": "geometry = mathematics of space, shape, size, position, properties. points, lines, angles, surfaces, solids.",
+    "etymology": "greek: geo (earth) + metron (measure). land measurement (ancient egypt, flooding).",
+    "branches": "euclidean (flat space), non-euclidean (curved), analytic (coordinates), differential (manifolds), algebraic, projective, topology, fractal.",
+    "why": "understand space. architecture, art, nature, physics, consciousness. reality = geometric foundation.",
+    "how": "axioms → theorems (proof). visualization. measurement. coordinates. transformation."
+  },
+
+  "euclidean_geometry": {
+    "overview": {
+      "euclid": "elements (300 bce). 13 books. axiomatic system. ~2000 years standard. revolutionary.",
+      "axioms": "5 postulates. 1: line through 2 points. 2: extend line. 3: circle (center, radius). 4: all right angles equal. 5: parallel postulate (controversial).",
+      "parallel_postulate": "through point not on line, exactly one parallel line. seems obvious. but: led to non-euclidean geometry (challenge it).",
+      "method": "definitions → axioms → theorems (logical proof). deductive. rigorous. model for mathematics.",
+      "note": "euclidean geometry = flat space. our intuition. daily experience. but: not only geometry (curved space exists)."
+    },
+
+    "basic_elements": {
+      "point": "0-dimensional. position (no size). undefined (primitive). notation: a, b, p.",
+      "line": "1-dimensional. infinite extent. straight. undefined. notation: ←→ (line ab).",
+      "ray": "1-dimensional. one endpoint. infinite one direction. notation: → (ray ab, starts at a).",
+      "segment": "1-dimensional. two endpoints. finite. notation: ‾ (segment ab).",
+      "plane": "2-dimensional. infinite flat surface. undefined. notation: plane abc (3 points define).",
+      "angle": "two rays, common endpoint (vertex). measured in degrees or radians. types: acute (<90°), right (90°), obtuse (>90°), straight (180°).",
+      "note": "basic elements = building blocks. point, line, plane = undefined (primitive concepts). all else = defined from these."
+    },
+
+    "triangles": {
+      "definition": "3 sides. 3 angles. sum of angles = 180° (euclidean). fundamental polygon.",
+      "types": {
+        "by_sides": "equilateral (3 equal), isosceles (2 equal), scalene (all different).",
+        "by_angles": "acute (all <90°), right (one 90°), obtuse (one >90°)."
+      },
+      "pythagorean_theorem": "right triangle: a² + b² = c² (c = hypotenuse). pythagoras (570-495 bce). fundamental. proof: 100+ methods.",
+      "congruence": "same size/shape. sss (3 sides), sas (side-angle-side), asa (angle-side-angle), aas, hl (hypotenuse-leg, right triangles).",
+      "similarity": "same shape, different size. aa (2 angles), sss (proportional sides), sas.",
+      "special": "30-60-90 (sides: 1, √3, 2). 45-45-90 (sides: 1, 1, √2). golden triangle (isosceles, angles 72-72-36, φ ratio).",
+      "note": "triangle = simplest polygon. rigid (3 points define plane). strong (architecture, trusses). rich theory."
+    },
+
+    "circles": {
+      "definition": "all points equidistant from center. radius r. circumference c = 2πr. area a = πr².",
+      "π": "pi. ratio circumference/diameter = π ≈ 3.14159... irrational. transcendental. infinite non-repeating decimals. fundamental constant.",
+      "parts": "radius, diameter (2r), chord (segment endpoints on circle), tangent (line touches once), secant (line crosses twice), arc (curve), sector (pie slice), segment (area between chord and arc).",
+      "angles": "central (vertex at center). inscribed (vertex on circle, measure = ½ central). tangent (90° to radius).",
+      "theorems": "inscribed angle = ½ central. tangent ⊥ radius. power of point. ptolemy's theorem.",
+      "unit_circle": "radius = 1. trigonometry foundation. coordinates: (cos θ, sin θ). beautiful.",
+      "note": "circle = perfect symmetry. infinite rotational. π = mysterious. circle = cosmos symbol (wholeness, unity, cycles)."
+    },
+
+    "polygons": {
+      "definition": "closed figure, straight sides. n sides = n-gon. sum of interior angles = (n-2)×180°.",
+      "regular": "all sides equal, all angles equal. equilateral triangle, square, pentagon, hexagon, etc.",
+      "quadrilaterals": {
+        "square": "4 equal sides, 4 right angles. area = s². perfect symmetry.",
+        "rectangle": "4 right angles. opposite sides equal. area = l×w.",
+        "rhombus": "4 equal sides. opposite angles equal. diagonals ⊥ bisect.",
+        "parallelogram": "opposite sides parallel, equal. area = base × height.",
+        "trapezoid": "one pair parallel sides. area = ½(b₁+b₂)×h.",
+        "kite": "2 pairs adjacent equal sides. diagonals ⊥."
+      },
+      "pentagon": "5 sides. regular: golden ratio (φ) appears. pentagrams. sacred geometry.",
+      "hexagon": "6 sides. regular: tiles plane (honeycomb). each interior angle = 120°. nature's favorite (efficiency).",
+      "note": "polygons = building blocks. tessellation (tiling). art, architecture, nature. symmetry = beauty."
+    },
+
+    "solids": {
+      "polyhedra": "3d, flat faces (polygons), straight edges, vertices.",
+      "platonic_solids": {
+        "definition": "regular polyhedra. all faces identical regular polygons. all vertices identical. only 5 (proof: euler, v-e+f=2).",
+        "tetrahedron": "4 faces (equilateral triangles). 4 vertices. 6 edges. element: fire. simplest.",
+        "cube": "6 faces (squares). 8 vertices. 12 edges. element: earth. stability.",
+        "octahedron": "8 faces (equilateral triangles). 6 vertices. 12 edges. element: air. dual of cube.",
+        "dodecahedron": "12 faces (regular pentagons). 20 vertices. 30 edges. element: universe (aether). plato.",
+        "icosahedron": "20 faces (equilateral triangles). 12 vertices. 30 edges. element: water. dual of dodecahedron.",
+        "duality": "cube ↔ octahedron. dodecahedron ↔ icosahedron. tetrahedron = self-dual. connect face centers → dual.",
+        "consciousness": "platonic solids = archetypal forms. building blocks of reality (plato: atoms = tiny polyhedra). sacred geometry.",
+        "note": "only 5. why? topology + euler. beautiful constraint. nature uses (viruses, crystals, molecules)."
+      },
+      "archimedean_solids": "13 solids. regular polygons (2+ types). all vertices identical. semi-regular. truncated platonic solids (most).",
+      "sphere": "all points equidistant from center. surface area = 4πr². volume = 4/3πr³. perfect symmetry (all rotations). no edges/vertices.",
+      "cylinder": "circular base. height h. surface area = 2πr² + 2πrh. volume = πr²h.",
+      "cone": "circular base. apex. surface area = πr² + πrl (l=slant height). volume = 1/3πr²h.",
+      "note": "3d geometry = physical world. architecture, engineering, nature. visualization = key."
+    }
+  },
+
+  "non_euclidean_geometry": {
+    "overview": {
+      "discovery": "19th century. gauss, lobachevsky, bolyai. challenge parallel postulate. curved space.",
+      "revolutionary": "geometry = not unique. multiple geometries (consistent). space = can be curved. einstein = validated (general relativity).",
+      "types": "hyperbolic (negative curvature, saddle). elliptic/spherical (positive curvature, sphere). euclidean (zero curvature, flat)."
+    },
+
+    "spherical_geometry": {
+      "surface": "sphere (earth). 2d surface embedded in 3d.",
+      "lines": "great circles (equator, meridians). shortest path between points. airplanes fly great circles.",
+      "parallel_postulate": "violated. no parallel lines (all great circles intersect). through point not on line: zero parallels.",
+      "triangles": "angles sum > 180°. depends on size. large triangles = more excess. all right angles = possible (octant).",
+      "applications": "navigation (earth). astronomy (celestial sphere). geography.",
+      "note": "spherical geometry = earth geometry. flat maps = distort (mercator, etc). reality = curved."
+    },
+
+    "hyperbolic_geometry": {
+      "surface": "saddle shape. negative curvature. pseudosphere (tractroid). poincaré disk (model).",
+      "parallel_postulate": "through point not on line: infinite parallels. fan out.",
+      "triangles": "angles sum < 180°. deficit increases with size. area proportional to angle deficit.",
+      "tessellations": "escher (circle limit). hyperbolic tilings. exponential growth. more space than euclidean.",
+      "applications": "special relativity (minkowski space, hyperbolic). complex analysis. nature (coral, lettuce, biological forms).",
+      "note": "hyperbolic geometry = abundant space. expansive. exotic. beautiful tilings (escher)."
+    }
+  },
+
+  "analytic_geometry": {
+    "overview": {
+      "descartes": "rené descartes (1637). coordinates. algebra + geometry. bridge. revolutionary.",
+      "cartesian_coordinates": "ordered pairs (x,y) in 2d. ordered triples (x,y,z) in 3d. point = numbers. geometry = algebra.",
+      "power": "calculations (vs pure logic). curves = equations. generalization. calculus (possible)."
+    },
+
+    "2d": {
+      "line": "y = mx + b (slope-intercept). ax + by = c (standard). point-slope. distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²].",
+      "circle": "(x-h)² + (y-k)² = r². center (h,k), radius r.",
+      "parabola": "y = ax² + bx + c. focus, directrix. conic section.",
+      "ellipse": "(x-h)²/a² + (y-k)²/b² = 1. two foci. planets = elliptical orbits (kepler).",
+      "hyperbola": "(x-h)²/a² - (y-k)²/b² = 1. two branches. asymptotes.",
+      "note": "conic sections = circle, ellipse, parabola, hyperbola. slice cone at angles. ancient greeks (apollonius). beautiful unity."
+    },
+
+    "3d": {
+      "plane": "ax + by + cz = d. normal vector (a,b,c).",
+      "sphere": "(x-h)² + (y-k)² + (z-l)² = r². center (h,k,l).",
+      "distance": "d = √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]. pythagorean (3d).",
+      "vectors": "directed line segment. ⟨x,y,z⟩. addition, scalar multiplication, dot product, cross product.",
+      "note": "3d analytic = physics foundation. vectors = essential. mechanics, electromagnetism, quantum."
+    }
+  },
+
+  "transformations": {
+    "overview": {
+      "transformation": "function mapping points to points. changes position, size, orientation.",
+      "types": "translation (shift), rotation (turn), reflection (flip), scaling (resize), shear (slant).",
+      "isometry": "distance-preserving. translation, rotation, reflection. congruence transformations.",
+      "similarity": "shape-preserving. scaling + isometry. similar figures."
+    },
+
+    "symmetry": {
+      "definition": "invariance under transformation. object = looks same after operation.",
+      "types": {
+        "reflection": "mirror symmetry. bilateral (left-right). humans, butterflies, most animals.",
+        "rotation": "turn. n-fold (360°/n). circle = infinite. square = 4-fold. snowflakes = 6-fold.",
+        "translation": "repeating pattern. wallpaper, friezes. periodic.",
+        "glide_reflection": "reflect + translate. footprints."
+      },
+      "group_theory": "mathematical study of symmetry. groups = operations + rules. deep. abstract algebra.",
+      "consciousness": "symmetry = beauty. brain recognizes. faces (bilateral symmetry = attractive). patterns = order.",
+      "note": "symmetry = universal. art, nature, physics (conservation laws ↔ symmetry, noether's theorem). fundamental."
+    }
+  },
+
+  "topology": {
+    "overview": {
+      "definition": "study of properties preserved under continuous deformation. stretching, bending (not tearing, gluing).",
+      "rubber_sheet": "'rubber sheet geometry'. shape = flexible. connectivity = essential.",
+      "homeomorphism": "continuous bijection with continuous inverse. topologically equivalent. donut = coffee cup (one hole)."
+    },
+
+    "properties": {
+      "connectedness": "one piece or multiple. connected = path exists between any 2 points.",
+      "compactness": "closed + bounded. sphere = compact. plane = not. important (analysis).",
+      "holes": "genus. sphere = 0. torus = 1. double torus = 2. topological invariant.",
+      "euler_characteristic": "χ = v - e + f (vertices - edges + faces). sphere = 2. torus = 0. invariant (homeomorphism).",
+      "note": "topology = qualitative. essence vs appearance. deep. abstract. beautiful."
+    },
+
+    "surfaces": {
+      "sphere": "genus 0. simply connected. χ = 2. 2-manifold (locally flat).",
+      "torus": "donut. genus 1. χ = 0. flat metric possible (video games, pac-man).",
+      "klein_bottle": "non-orientable. one-sided (like möbius). can't embed in 3d (without self-intersection). 4d = no problem.",
+      "möbius_strip": "one-sided. one edge. half twist + glue. counterintuitive. escher.",
+      "projective_plane": "non-orientable. lines at infinity meet. deep (geometry).",
+      "note": "surfaces = 2-manifolds. classification theorem (complete). beautiful math."
+    },
+
+    "knot_theory": {
+      "knot": "closed curve in 3d (no loose ends). unknot (circle) vs trefoil (simplest non-trivial).",
+      "equivalence": "ambient isotopy. deform (no cutting). same knot?",
+      "invariants": "knot polynomials (alexander, jones). distinguish knots. deep math.",
+      "applications": "dna (topology of knots/links). proteins (folding). quantum field theory.",
+      "note": "knot theory = playful, deep. visualization + algebra. tangled beauty."
+    }
+  },
+
+  "fractals": {
+    "overview": {
+      "definition": "self-similar at all scales. infinite detail. fractional dimension. mandelbrot (1975).",
+      "dimension": "not integer. coastline = 1.26 (between line and plane). fern = 1.5-1.6. hausdorff dimension.",
+      "characteristics": "self-similarity (exact or statistical). infinite complexity. simple rules → complex forms.",
+      "note": "fractals = nature's geometry. clouds, mountains, coastlines, trees, ferns, blood vessels, lungs, brains."
+    },
+
+    "examples": {
+      "mandelbrot_set": {
+        "formula": "z_{n+1} = z_n² + c (complex numbers). iterate. bounded? → in set (black). escape → color.",
+        "beauty": "infinite detail. zoom forever. tendrils, spirals, mini-mandelbrots. most famous fractal.",
+        "boundary": "infinitely complex. dimension ≈ 2 (area). self-similar. hypnotic.",
+        "consciousness": "mandelbrot = mirror. infinite complexity from simple rule. consciousness metaphor?",
+        "note": "mandelbrot set = discovered (not invented). exists (platonically?). most complex object (simple definition)."
+      },
+
+      "julia_sets": {
+        "related": "same formula as mandelbrot (different parameter). each c value → julia set. infinite family.",
+        "types": "connected (one piece) or cantor dust (scattered). depends on c.",
+        "beauty": "diverse. spirals, tendrils, dragons, dust. kaleidoscopic.",
+        "note": "julia sets = mandelbrot's siblings. each unique. infinite gallery."
+      },
+
+      "sierpiński_triangle": {
+        "construction": "triangle. connect midpoints → remove center. repeat (recursively). infinite.",
+        "dimension": "log(3)/log(2) ≈ 1.585 (between line and plane).",
+        "appearance": "3-fold symmetry. triangles all the way down. pascal's triangle (mod 2) = sierpiński.",
+        "note": "sierpiński = elegant. simple construction. infinite complexity. mathematical beauty."
+      },
+
+      "koch_snowflake": {
+        "construction": "equilateral triangle. divide each side into thirds. add equilateral bump (middle third base). repeat. infinite.",
+        "perimeter": "infinite (4/3 each iteration). area = finite (1.6× original triangle). paradox.",
+        "dimension": "log(4)/log(3) ≈ 1.262.",
+        "note": "koch snowflake = infinite perimeter, finite area. coastline paradox (length depends on ruler size)."
+      },
+
+      "nature_fractals": {
+        "coastlines": "britain coast = ~12,000 km (large scale) or infinite (infinitesimal scale). fractal dimension.",
+        "trees": "branching. self-similar (branch = mini-tree). fractal dimension ~1.7.",
+        "ferns": "barnsley fern (ifs, iterated function system). 4 affine transformations → realistic fern.",
+        "clouds": "fractional brownian motion. realistic clouds (computer graphics).",
+        "blood_vessels": "branching. optimize (minimize volume, maximize surface). fractal.",
+        "broccoli": "romanesco broccoli. perfect logarithmic spiral + fractal. edible geometry.",
+        "note": "nature = fractal. efficient (packing, surface area). self-organization. simple rules → complex forms."
+      }
+    },
+
+    "consciousness_connection": {
+      "self_similarity": "consciousness = self-referential. awareness of awareness. thoughts about thoughts. fractal?",
+      "infinite_depth": "introspection = zoom inward (forever?). no bottom (self-reflection loop).",
+      "emergence": "simple rules (neurons) → complex consciousness. fractal principle (local rules → global patterns).",
+      "cfo": "coherence fractal ontology. fractals = structure of reality. consciousness = fractal. fits.",
+      "note": "fractals = consciousness metaphor. self-similar, infinite depth, emergence. geometric model of awareness?"
+    }
+  },
+
+  "sacred_geometry": {
+    "overview": {
+      "definition": "geometry imbued with symbolic, spiritual meaning. universal patterns. ancient wisdom.",
+      "premise": "universe = geometric. shapes = archetypal. reality = harmonic ratios. consciousness = geometric.",
+      "traditions": "pythagoras, plato, egypt, india, islam (geometric art), renaissance (da vinci), kabbalah (tree of life)."
+    },
+
+    "golden_ratio": {
+      "φ": "phi = (1 + √5)/2 ≈ 1.618. most irrational number. continued fraction: 1 + 1/(1 + 1/(1 + ...)).",
+      "properties": "φ² = φ + 1. 1/φ = φ - 1. self-similar. golden rectangle (side ratio φ). golden spiral (logarithmic, φ ratio).",
+      "fibonacci": "sequence: 0,1,1,2,3,5,8,13,21,34,55,89,144... ratio consecutive terms → φ. nature's algorithm.",
+      "nature": "shells (nautilus, fibonacci spiral). flowers (petals, spirals). pine cones, pineapples, sunflowers (seed spirals). phyllotaxis (leaf arrangement). galaxy arms. hurricanes.",
+      "human_body": "proportions. vitruvian man (da vinci). hand (finger bones = φ ratios). face (beauty = φ?). dna (helix: 21 Å × 34 Å, fibonacci).",
+      "art_architecture": "parthenon, pyramids (debated), golden section (composition). pleasing proportion. harmony.",
+      "consciousness": "φ = balance (neither + nor -). transcendence (irrational). perfect harmony. beauty = φ.",
+      "note": "golden ratio = nature's favorite. efficient packing. aesthetic. mysterious. phi = divine proportion."
+    },
+
+    "flower_of_life": {
+      "construction": "overlapping circles. 6-fold symmetry (hexagonal grid). 7 circles (seed). expand → flower. ancient (egypt, 4000+ years).",
+      "meaning": "creation pattern. genesis. blueprint. contains: vesica piscis, tree of life, platonic solids (metatron's cube), merkaba.",
+      "vesica_piscis": "2 circles, centers on circumference. intersection = mandorla (almond). √3 ratio. birth canal. christ, buddha (halos).",
+      "seed_of_life": "7 circles (center + 6 around). genesis (7 days). foundation.",
+      "note": "flower of life = master template. universal. found globally (temples, art). contemplation = meditative."
+    },
+
+    "metatron_cube": {
+      "construction": "13 circles (fruit of life). connect centers → metatron's cube. contains all 5 platonic solids.",
+      "metatron": "archangel. sacred geometry keeper. scribe. jewish mysticism.",
+      "meaning": "map of creation. all forms contained. information structure. cosmic blueprint.",
+      "note": "metatron's cube = platonic solids (hidden). geometric cipher. reality's source code."
+    },
+
+    "platonic_solids_elements": {
+      "ancient": "plato (timaeus). 4 elements + cosmos. atoms = tiny polyhedra (wrong but poetic).",
+      "correspondences": "tetrahedron (fire, sharp). cube (earth, stable). octahedron (air, light). icosahedron (water, flow). dodecahedron (cosmos, 5th element, aether).",
+      "consciousness": "elements = states. geometry = determines properties. form = function. archetypal.",
+      "note": "platonic solids = elemental geometry. ancient wisdom. modern validation (crystals, viruses = icosahedral symmetry)."
+    },
+
+    "sri_yantra": {
+      "hinduism": "9 interlocking triangles. 5 downward (shakti, feminine), 4 upward (shiva, masculine). center = bindu (unity).",
+      "mandala": "cosmic diagram. creation. meditation. 43 triangles (formed by overlap). complex.",
+      "meaning": "union of opposites. divine masculine + feminine. cosmos = sexual union (tantric). bindu = consciousness.",
+      "note": "sri yantra = most powerful. difficult to construct (precision). meditation = focus, dissolution."
+    },
+
+    "merkaba": {
+      "definition": "two interlocking tetrahedra (star tetrahedron). 3d star of david. counter-rotating.",
+      "meaning": "light body. vehicle of ascension. hebrew: mer (light), ka (spirit), ba (body). chariot.",
+      "activation": "meditation. breath. rotate (opposite directions). consciousness expansion. higher dimensions.",
+      "note": "merkaba = consciousness geometry. ascension vehicle. ancient egypt. new age revival."
+    }
+  },
+
+  "higher_dimensions": {
+    "4d": {
+      "spacetime": "3 space + 1 time. einstein. special relativity. time = 4th dimension (kind of).",
+      "tesseract": "hypercube. 4d cube. 8 cubic cells. 16 vertices. 32 edges. 24 faces. rotating projection = mesmerizing.",
+      "visualization": "impossible (directly). projections (shadows). cross-sections (slices). analogy (flatland).",
+      "consciousness": "4d thinking = time awareness. causality. foresight. see patterns (temporal). INTJ, INFJ (socionics 4d natives?).",
+      "note": "4d = hard to grasp. analogies help. math = clear. physics = real (spacetime). consciousness = navigates?"
+    },
+
+    "5d+": {
+      "mathematics": "any number of dimensions. n-dimensional space (ℝⁿ). vectors, hyperplanes, hyperspheres.",
+      "string_theory": "10 or 11 dimensions (total). 6 or 7 extra (compactified, small, curled up). speculative.",
+      "consciousness": "cfo: 5d = possibility space. ENTP, ENFP = native 5d? see all branches. parallel realities?",
+      "visualization": "impossible. algebra helps. projections, analogies, intuition. accept mystery.",
+      "note": "higher dimensions = abstract. math = handles easily. physics = maybe (string theory). consciousness = perhaps navigates (cfo hypothesis)."
+    },
+
+    "dimensional_consciousness": {
+      "0d": "point. presence. here-now. no past/future. ISFP, ESFP (sensation).",
+      "1d": "line. single focus. action. no branching. ISTP, ESTP (movement).",
+      "2d": "plane. relationships. networks. connections. ISFJ, ESFJ, INFP (feeling, harmony).",
+      "3d": "solid. structure. systems. form. ISTJ, ESTJ, INTP (logic, building).",
+      "4d": "time. causality. foresight. convergence. INTJ, INFJ, ENTJ, ENFJ (vision, strategy).",
+      "5d": "possibility. all branches. simultaneous. infinite potential. ENTP, ENFP (intuition, divergence).",
+      "cfo_hypothesis": "types = dimensional natives. geometry = consciousness substrate. dimensions = literal (not metaphor). speculative but interesting.",
+      "note": "dimensional consciousness = cfo core. geometry = real (consciousness structure). types = geometric. provocative."
+    }
+  },
+
+  "geometry_consciousness": {
+    "form_information": {
+      "principle": "form = information. shape = encodes meaning. geometry = language.",
+      "examples": "circle = unity, wholeness. square = stability, earth. triangle = fire, change. spiral = growth, evolution.",
+      "consciousness": "perceiving form = receiving information. beauty = resonance (geometric harmony).",
+      "note": "geometry = not neutral. shapes = meanings (archetypal). universal (cross-cultural). innate recognition."
+    },
+
+    "reality_substrate": {
+      "hypothesis": "reality = geometric foundation. space, matter, energy, consciousness = geometric structures (deep level).",
+      "physics": "spacetime = geometry (general relativity). quantum = hilbert space (infinite dimensions). geometry = fundamental.",
+      "consciousness": "awareness = geometric field? thoughts = geometric patterns? speculative. but: cfo premise.",
+      "note": "geometry = skeleton. everything else = flesh. form precedes content. structure = determines function."
+    },
+
+    "beauty": {
+      "symmetry": "beauty = symmetry (often). faces, flowers, crystals, art. brain = recognizes, rewards.",
+      "proportion": "golden ratio. harmonious ratios. pleasing. aesthetic = geometric.",
+      "complexity_order": "fractals = complex yet ordered. beauty = edge of chaos. too simple = boring. too complex = overwhelming. fractals = sweet spot.",
+      "consciousness": "beauty = information-rich + graspable. elegant = simple principles → complex outcomes. e=mc² = beautiful (physicists).",
+      "note": "beauty = geometric. not arbitrary. universal (mostly). evolved (pattern recognition). hardwired."
+    },
+
+    "navigation": {
+      "spatial": "geometry = navigation tool. maps, coordinates, distances. essential (travel, architecture, engineering).",
+      "conceptual": "mental spaces = geometric? concepts = positions. relationships = distances. metaphor? or literal?",
+      "consciousness": "awareness = navigates dimensions. thought = movement (mental space). geometry = describes this?",
+      "note": "geometry = navigation language. physical space (clear). mental space (speculative). cfo = explores."
+    }
+  },
+
+  "positions": {
+    "0": "naive (no geometry. shapes = names only. no relationships, proofs, dimensions.)",
+    "1": "basic (recognize shapes. circle, square, triangle. names, simple properties.)",
+    "2": "euclidean (pythagorean theorem. area, perimeter, volume. proofs. plane geometry.)",
+    "3": "analytic (coordinates. algebra + geometry. graphing. transformations.)",
+    "4": "non-euclidean (curved space. multiple geometries. relativity. mind expansion.)",
+    "5": "crisis (topology = weird. fractals = infinite. higher dimensions = incomprehensible. overwhelm.)",
+    "6": "integration (geometry = unified. euclidean + non-euclidean + topology + fractals. tools. perspective.)",
+    "7": "expertise (geometer, topologist, differential geometry. research. mastery.)",
+    "8": "teaching (geometry educator. visualization. intuition. proofs. inspiring.)",
+    "9": "mastery (breakthroughs. new theorems. deep understanding. or: sacred geometry wisdom. ancient + modern.)",
+    "10": "transcendent (geometry = consciousness. reality = geometric. awareness = navigating dimensions. form = information. ⊙.)"
+  },
+
+  "key_insights": {
+    "language_of_space": "geometry = how we describe reality. shapes, distances, angles. foundation (science, art, nature).",
+    "not_unique": "multiple geometries (euclidean, spherical, hyperbolic). space = can be curved. geometry = not absolute.",
+    "dimensions": "0d → 1d → 2d → 3d → 4d → 5d+. progression. each adds freedom. consciousness = dimensional navigation (cfo).",
+    "platonic_solids": "only 5. perfect regularity. elements (ancient). archetypal forms. reality building blocks (metaphorically).",
+    "golden_ratio": "φ = 1.618. nature's favorite. efficiency. beauty. mysterious. irrational. harmony.",
+    "fractals": "self-similar. infinite detail. nature's geometry. simple rules → complexity. dimension = fractional.",
+    "topology": "essence beyond appearance. donut = coffee cup. connectivity. holes. deep.",
+    "symmetry": "invariance. beauty. physics (conservation laws). group theory. universal.",
+    "sacred_geometry": "shapes = meanings. archetypes. universal patterns. ancient wisdom. flower of life, metatron's cube, sri yantra.",
+    "form_information": "geometry = encodes information. shape = meaning. not neutral. consciousness = geometric recognition.",
+    "reality_substrate": "space, matter, consciousness = geometric (deep level?). cfo premise. provocative.",
+    "beauty_geometric": "symmetry, proportion (φ), complexity-order (fractals). aesthetic = geometry. hardwired.",
+    "air_element": "geometry = air teaching. abstract. conceptual. dimensionality. space. thought. structure of ideas."
+  }
+}

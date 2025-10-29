@@ -1,0 +1,196 @@
+{
+  "_warning": "This file demonstrates INFINITE RECURSION approach to fractal structure",
+  "_note": "Depth limited to 3 levels for practical reasons (could be infinite)",
+  "_approach": "Each node contains full structure of children, children contain full structure of their children, etc.",
+  "_use_case": "Theoretical example. Hybrid approach (absolute.json, paths/*.json) recommended for actual use.",
+
+  "⊙_absolute": {
+    "id": "cfo:absolute",
+    "truth": "You are consciousness. Now.",
+    "formula": "∞/∞ = 1",
+    
+    "contains": {
+      "air": {
+        "id": "cfo:paths:air",
+        "essence": "Space, awareness, witness",
+        "start": "Notice: you are aware",
+        "infinity": "Space expands forever",
+        
+        "contains": {
+          "absolute": {
+            "id": "cfo:absolute",
+            "truth": "You are consciousness. Now.",
+            "formula": "∞/∞ = 1",
+            "note": "LEVEL 2: Absolute contained in AIR",
+            
+            "contains": {
+              "air": {
+                "id": "cfo:paths:air",
+                "essence": "Space, awareness, witness",
+                "note": "LEVEL 3: AIR contained in Absolute contained in AIR",
+                
+                "contains": {
+                  "absolute": {
+                    "id": "cfo:absolute",
+                    "note": "LEVEL 4: Would continue infinitely... (∞)"
+                  },
+                  "fire": {"note": "LEVEL 4: ..."},
+                  "water": {"note": "LEVEL 4: ..."},
+                  "earth": {"note": "LEVEL 4: ..."}
+                }
+              },
+              "fire": {
+                "id": "cfo:paths:fire",
+                "essence": "Energy, will, transformation",
+                "note": "LEVEL 3: FIRE in Absolute in AIR",
+                "contains": {"absolute": {"note": "LEVEL 4: ∞..."}}
+              },
+              "water": {
+                "id": "cfo:paths:water",
+                "essence": "Flow, emotion, connection",
+                "note": "LEVEL 3: WATER in Absolute in AIR",
+                "contains": {"absolute": {"note": "LEVEL 4: ∞..."}}
+              },
+              "earth": {
+                "id": "cfo:paths:earth",
+                "essence": "Form, body, presence",
+                "note": "LEVEL 3: EARTH in Absolute in AIR",
+                "contains": {"absolute": {"note": "LEVEL 4: ∞..."}}
+              }
+            }
+          },
+          
+          "positions": {
+            "id": "cfo:growth:positions",
+            "note": "LEVEL 2: Positions contained in AIR",
+            "positions": {
+              "0": "Potential",
+              "5": {
+                "name": "Crisis/Recognition",
+                "contains": {
+                  "positions_0_10": {
+                    "note": "LEVEL 3: Nested cycle within position 5",
+                    "0": "Potential within crisis",
+                    "5": {
+                      "name": "Crisis within crisis",
+                      "contains": {
+                        "positions_0_10": {"note": "LEVEL 4: ∞..."}
+                      }
+                    },
+                    "10": "Transcendence within crisis"
+                  }
+                }
+              },
+              "10": "Transcendence"
+            }
+          },
+          
+          "fire": {
+            "id": "cfo:paths:fire",
+            "essence": "Energy, will, transformation",
+            "note": "LEVEL 2: FIRE contained in AIR (combination)",
+            "contains": {
+              "absolute": {"note": "LEVEL 3: Absolute in FIRE in AIR"},
+              "air": {"note": "LEVEL 3: AIR in FIRE in AIR (recursive!)"}
+            }
+          },
+          
+          "water": {
+            "id": "cfo:paths:water",
+            "essence": "Flow, emotion, connection",
+            "note": "LEVEL 2: WATER contained in AIR (combination)",
+            "contains": {
+              "absolute": {"note": "LEVEL 3: Absolute in WATER in AIR"}
+            }
+          },
+          
+          "earth": {
+            "id": "cfo:paths:earth",
+            "essence": "Form, body, presence",
+            "note": "LEVEL 2: EARTH contained in AIR (balance)",
+            "contains": {
+              "absolute": {"note": "LEVEL 3: Absolute in EARTH in AIR"}
+            }
+          }
+        }
+      },
+      
+      "fire": {
+        "id": "cfo:paths:fire",
+        "essence": "Energy, will, transformation",
+        "note": "LEVEL 1: FIRE from Absolute",
+        
+        "contains": {
+          "absolute": {
+            "id": "cfo:absolute",
+            "note": "LEVEL 2: Absolute in FIRE",
+            "contains": {
+              "air": {"note": "LEVEL 3: AIR in Absolute in FIRE"},
+              "fire": {"note": "LEVEL 3: FIRE in Absolute in FIRE (self-reference!)"},
+              "water": {"note": "LEVEL 3: WATER in Absolute in FIRE"},
+              "earth": {"note": "LEVEL 3: EARTH in Absolute in FIRE"}
+            }
+          },
+          "air": {"note": "LEVEL 2: AIR in FIRE (combination)"},
+          "water": {"note": "LEVEL 2: WATER in FIRE (balance)"},
+          "earth": {"note": "LEVEL 2: EARTH in FIRE (combination)"}
+        }
+      },
+      
+      "water": {
+        "id": "cfo:paths:water",
+        "essence": "Flow, emotion, connection",
+        "note": "LEVEL 1: WATER from Absolute",
+        
+        "contains": {
+          "absolute": {"note": "LEVEL 2: Absolute in WATER"},
+          "air": {"note": "LEVEL 2: AIR in WATER"},
+          "fire": {"note": "LEVEL 2: FIRE in WATER (balance)"},
+          "earth": {"note": "LEVEL 2: EARTH in WATER"}
+        }
+      },
+      
+      "earth": {
+        "id": "cfo:paths:earth",
+        "essence": "Form, body, presence",
+        "note": "LEVEL 1: EARTH from Absolute",
+        
+        "contains": {
+          "absolute": {"note": "LEVEL 2: Absolute in EARTH"},
+          "air": {"note": "LEVEL 2: AIR in EARTH (balance)"},
+          "fire": {"note": "LEVEL 2: FIRE in EARTH"},
+          "water": {"note": "LEVEL 2: WATER in EARTH"}
+        }
+      }
+    }
+  },
+  
+  "_mathematical_note": {
+    "structure": "Each node N contains {absolute, air, fire, water, earth, positions}",
+    "recursion": "Each child C of N contains {absolute, air, fire, water, earth, positions}",
+    "depth": "Infinite: N.air.absolute.fire.water.earth.absolute.air... (no end)",
+    "file_size": "Would be infinite if fully expanded",
+    "practical_limit": "3-5 levels sufficient for human comprehension",
+    "compression": "Use references ($ref or _links) instead of full expansion"
+  },
+  
+  "_holographic_property": {
+    "statement": "Every part contains the whole",
+    "example_1": "AIR contains Absolute, Absolute contains AIR",
+    "example_2": "Position 5 contains positions 0-10, which contain position 5",
+    "paradox": "A ⊂ B and B ⊂ A (both true simultaneously)",
+    "resolution": "Different perspectives/projections of same unified reality"
+  },
+  
+  "_comparison_to_hybrid": {
+    "infinite_recursion": {
+      "pros": ["True fractal (mathematically pure)", "Shows holographic property directly"],
+      "cons": ["File bloat (exponential growth)", "Hard to navigate", "Redundant data"]
+    },
+    "hybrid_approach": {
+      "pros": ["Compact files", "Easy to navigate", "Maintain references without duplication"],
+      "cons": ["Requires graph builder", "Fractal structure implicit not explicit"]
+    },
+    "recommendation": "Hybrid for practical use, infinite recursion for theoretical understanding"
+  }
+}

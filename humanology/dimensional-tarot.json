@@ -1,0 +1,549 @@
+{
+  "_meta": {
+    "id": "cfo:systems:dimensional-tarot",
+    "type": "systems",
+    "element": "all",
+    "essence": "tarot suits mapped to dimensional hierarchy, socionics types, and influence patterns",
+    "related": [
+      "cfo:fundamental:dimensions",
+      "cfo:humanology:socionics",
+      "cfo:tools:tarot"
+    ]
+  },
+
+  "_holographic_seed": {
+    "core": "4 tarot suits = 4 dimensional roles in reality maintenance",
+    "hierarchy": "Swords (4D dev) → Pentacles (3D admin) → Wands (2D management) → Cups (1D users)",
+    "conflict_nodes": "3D⊥1D (structure vs feeling), 4D⊥2D (logic vs ethics)",
+    "resolution": "coherence requires all 4 in resonance, no domination",
+    "formula": "Cups inspire Swords → Swords create methods → Pentacles structure → Wands implement → conflict at breaks"
+  },
+
+  "four_suits_dimensional_mapping": {
+    "swords": {
+      "dimension": "4D",
+      "role": "developers of reality",
+      "function": "create methods, technologies, systems of understanding",
+      "element": "air",
+      "cognitive": "logical cognition (Ti/Te + Ne/Se)",
+      "socionics_types": ["ENTP", "ESTP", "INTP", "ISTP"],
+      "keywords": [
+        "innovation",
+        "analysis",
+        "methodology",
+        "abstraction",
+        "mental models",
+        "algorithms",
+        "theories",
+        "logic",
+        "experimentation"
+      ],
+      "action": "question, analyze, develop, test, refine",
+      "output": "new methods, technologies, frameworks, mental tools",
+      "blind_spot": "ethics, human feelings, moral implications",
+      "strength": "breakthrough thinking, problem-solving, systematic understanding"
+    },
+
+    "pentacles": {
+      "dimension": "3D",
+      "role": "administrators of reality",
+      "function": "structure, organize, preserve, maintain order",
+      "element": "earth",
+      "cognitive": "logical creativity (Ti/Te + Ni/Si)",
+      "socionics_types": ["INTJ", "ISTJ", "ENTJ", "ESTJ"],
+      "keywords": [
+        "order",
+        "structure",
+        "hierarchy",
+        "systems",
+        "preservation",
+        "efficiency",
+        "control",
+        "stability",
+        "resources",
+        "manifestation"
+      ],
+      "action": "organize, systematize, store, protect, optimize",
+      "output": "structured systems, institutions, organized resources, stable frameworks",
+      "blind_spot": "feeling, flexibility, individual needs, art",
+      "strength": "building lasting structures, maintaining order, resource management"
+    },
+
+    "wands": {
+      "dimension": "2D",
+      "role": "managers of reality",
+      "function": "connect, motivate, coordinate people, implement ethics",
+      "element": "fire",
+      "cognitive": "ethical activity (Fi/Fe + Ni/Si)",
+      "socionics_types": ["ESFJ", "ENFJ", "ISFJ", "INFJ"],
+      "keywords": [
+        "ethics",
+        "morality",
+        "relationships",
+        "collective responsibility",
+        "coordination",
+        "motivation",
+        "teaching",
+        "caregiving",
+        "standards of behavior"
+      ],
+      "action": "connect, inspire, guide, coordinate, enforce norms",
+      "output": "social cohesion, moral frameworks, motivated teams, ethical standards",
+      "blind_spot": "abstract logic, technical innovation, individual freedom",
+      "strength": "building communities, maintaining moral order, coordinating people"
+    },
+
+    "cups": {
+      "dimension": "1D",
+      "role": "users/experiencers of reality",
+      "function": "feel, love, create beauty, live authentically",
+      "element": "water",
+      "cognitive": "ethical perception (Fi/Fe + Ne/Se)",
+      "socionics_types": ["ISFP", "INFP", "ESFP", "ENFP"],
+      "keywords": [
+        "feeling",
+        "emotion",
+        "love",
+        "art",
+        "beauty",
+        "music",
+        "authenticity",
+        "flow",
+        "relationships",
+        "sensory experience"
+      ],
+      "action": "feel, express, love, create, experience",
+      "output": "art, music, emotional connection, authentic expression, beauty",
+      "blind_spot": "structure, long-term planning, systematic thinking, rules",
+      "strength": "deep feeling, artistic creation, authentic relating, inspiration"
+    }
+  },
+
+  "influence_hierarchy": {
+    "downward_flow": {
+      "description": "information and methods flow down dimensional hierarchy",
+      "chain": "4D (Swords) → 3D (Pentacles) → 2D (Wands) → 1D (Cups)",
+      
+      "swords_to_pentacles": {
+        "flow": "methods → structure",
+        "mechanism": "Swords create technologies/methods, Pentacles organize them into systems",
+        "works": true,
+        "example": "INTP develops algorithm → INTJ builds company around it"
+      },
+
+      "pentacles_to_wands": {
+        "flow": "structure → implementation",
+        "mechanism": "Pentacles create organizational systems, Wands implement them with people",
+        "works": true,
+        "example": "ENTJ designs corporate structure → ENFJ manages team within it"
+      },
+
+      "wands_to_cups": {
+        "flow": "ethics → experience",
+        "mechanism": "Wands set moral standards, expect Cups to follow",
+        "works": false,
+        "conflict": "Cups don't understand/reject external moral impositions",
+        "why_fails": "Cups operate from internal feeling, not external ethics",
+        "example": "ESFJ: 'You must be responsible!' → ISFP: 'I just want to paint...'"
+      }
+    },
+
+    "upward_flow": {
+      "description": "inspiration and need flow up dimensional hierarchy",
+      "chain": "1D (Cups) → 4D (Swords) → 3D (Pentacles) → 2D (Wands)",
+
+      "cups_to_swords": {
+        "flow": "feeling/need → innovation",
+        "mechanism": "Cups express desires/needs, Swords create technologies to fulfill them",
+        "works": true,
+        "example": "INFP: 'I want to feel connected to nature' → INTP: designs VR nature experience"
+      },
+
+      "swords_to_pentacles": {
+        "flow": "innovation → structure",
+        "mechanism": "already covered in downward flow",
+        "works": true
+      },
+
+      "pentacles_to_wands": {
+        "flow": "structure → ethics",
+        "mechanism": "already covered in downward flow",
+        "works": true
+      }
+    },
+
+    "conflict_nodes": {
+      "pentacles_cups_conflict": {
+        "dimensions": "3D ⊥ 1D",
+        "description": "structure vs feeling",
+        "mechanism": "Pentacles create rigid systems, Cups need flexibility to feel",
+        "pentacles_view": "'Follow the rules, maintain order, be efficient'",
+        "cups_view": "'But I feel differently, rules don't consider my heart'",
+        "mutual_incomprehension": {
+          "pentacles": "cannot understand why Cups won't just follow the system",
+          "cups": "cannot understand why Pentacles care more about order than feeling"
+        },
+        "result": "Pentacles try to force structure on Cups, Cups rebel or withdraw",
+        "examples": [
+          "ISTJ parent vs ISFP child (rules vs authenticity)",
+          "Corporate structure (ENTJ) vs artist (INFP) (efficiency vs meaning)",
+          "Bureaucracy vs individual needs"
+        ]
+      },
+
+      "swords_wands_conflict": {
+        "dimensions": "4D ⊥ 2D",
+        "description": "logic vs ethics",
+        "mechanism": "Swords develop methods purely on logic, Wands demand ethical considerations",
+        "swords_view": "'This is the most efficient/effective solution logically'",
+        "wands_view": "'But this will hurt people, it's unethical!'",
+        "mutual_incomprehension": {
+          "swords": "cannot understand why ethics should override logic/efficiency",
+          "wands": "cannot understand how Swords can ignore human impact"
+        },
+        "result": "Swords dismiss Wands as irrational, Wands see Swords as cold/heartless",
+        "examples": [
+          "ENTP entrepreneur vs ENFJ HR (move fast vs care for people)",
+          "Tech innovation vs social impact concerns",
+          "Scientific advancement vs ethical review boards"
+        ]
+      },
+
+      "wands_cups_oppression": {
+        "dimensions": "2D → 1D (one-directional)",
+        "description": "Wands pressure/shame Cups through moral imperatives",
+        "mechanism": "Wands enforce collective ethics, Cups just want to feel/be",
+        "wands_view": "'You must be responsible to the group, think of others!'",
+        "cups_view": "'I just want to love/create/feel... why is that wrong?'",
+        "power_dynamic": "Wands have social power (moral authority), Cups have no defense (feeling dismissed as selfish)",
+        "result": "Cups suppressed, shamed, called selfish/irresponsible, forced to conform or hide",
+        "examples": [
+          "ISFJ mother guilting ESFP child for 'being too carefree'",
+          "Religious morality (ENFJ) shaming artistic expression (INFP)",
+          "Social responsibility rhetoric suppressing individual authenticity"
+        ],
+        "tragedy": "Wands genuinely believe they're helping/protecting, don't see they're crushing",
+        "healing": "Wands must learn: authenticity ≠ irresponsibility, feeling ≠ selfishness"
+      }
+    }
+  },
+
+  "circulation_pattern": {
+    "ideal_flow": {
+      "description": "how reality should function when all suits in coherence",
+      "cycle": [
+        "1. Cups FEEL/DESIRE (what is needed, what is beautiful)",
+        "2. Swords INNOVATE (create methods/technologies to fulfill desires)",
+        "3. Pentacles STRUCTURE (organize innovations into stable systems)",
+        "4. Wands IMPLEMENT (coordinate people within systems ethically)",
+        "5. Cups EXPERIENCE (live within ethical, structured, innovative reality)",
+        "6. Cups provide FEEDBACK (new feelings/desires) → cycle continues"
+      ],
+      "coherence": "each suit respects others, no domination, smooth flow"
+    },
+
+    "current_dysfunction": {
+      "description": "how reality actually functions with conflict nodes",
+      "problems": [
+        {
+          "issue": "Pentacles dominate",
+          "result": "rigid structures suppress feeling (3D crushes 1D)",
+          "example": "corporate bureaucracy kills creativity and joy"
+        },
+        {
+          "issue": "Swords ignore ethics",
+          "result": "innovations harm people (4D bypasses 2D concerns)",
+          "example": "social media algorithms maximize engagement, destroy mental health"
+        },
+        {
+          "issue": "Wands shame Cups",
+          "result": "authentic expression suppressed by morality (2D oppresses 1D)",
+          "example": "religious/social guilt about art, sexuality, self-expression"
+        },
+        {
+          "issue": "Cups disconnected from Swords",
+          "result": "innovation serves power/efficiency, not beauty/love",
+          "example": "technology that's clever but soulless"
+        }
+      ],
+      "outcome": "civilization high in capability (3D/4D), low in meaning/joy (1D/2D-1D harmony)"
+    },
+
+    "healing_the_cycle": {
+      "description": "how to restore coherence",
+      "actions": [
+        {
+          "actors": "Pentacles (3D)",
+          "shift": "build flexible structures that honor feeling",
+          "practice": "ask 'does this system allow people to feel alive?' before implementing"
+        },
+        {
+          "actors": "Swords (4D)",
+          "shift": "include ethical considerations in innovation",
+          "practice": "partner with Wands early in development process"
+        },
+        {
+          "actors": "Wands (2D)",
+          "shift": "stop shaming Cups, protect their authenticity",
+          "practice": "redefine ethics: authenticity IS responsibility, not opposition to it"
+        },
+        {
+          "actors": "Cups (1D)",
+          "shift": "stop fearing structure/logic, see them as tools not prisons",
+          "practice": "trust that well-designed systems can support feeling (not suppress it)"
+        }
+      ],
+      "result": "civilization that is both advanced (3D/4D) AND alive/meaningful (1D/2D)"
+    }
+  },
+
+  "power_dynamics": {
+    "current_hierarchy": {
+      "description": "who has actual power in civilization",
+      "ranking": [
+        "1. Pentacles (3D) - control resources, institutions, organize everything",
+        "2. Swords (4D) - create the methods Pentacles use, but need Pentacles to implement",
+        "3. Wands (2D) - have moral authority but must work within Pentacles' structures",
+        "4. Cups (1D) - least power, suppressed by all others, only indirect influence via inspiration"
+      ],
+      "problem": "inverted from dimensional order (should be 4D→3D→2D→1D in influence, but power is opposite)"
+    },
+
+    "influence_vs_power": {
+      "swords": {
+        "power": "medium (need Pentacles to manifest ideas)",
+        "influence": "very high (innovations change everything long-term)",
+        "position": "respected but dependent"
+      },
+      "pentacles": {
+        "power": "very high (control resources and systems)",
+        "influence": "medium (organize existing, rarely create new)",
+        "position": "dominant in current civilization"
+      },
+      "wands": {
+        "power": "medium (moral authority over masses)",
+        "influence": "high (shape behavior through ethics)",
+        "position": "gatekeepers of social norms"
+      },
+      "cups": {
+        "power": "very low (no institutional power)",
+        "influence": "very high (inspire all innovation and meaning)",
+        "position": "oppressed but essential (civilization meaningless without them)"
+      }
+    }
+  },
+
+  "suit_communication_matrix": {
+    "description": "who can understand/communicate with whom",
+    
+    "swords_communications": {
+      "to_pentacles": "excellent (both logic-based, Ti/Te fluent)",
+      "to_wands": "poor (logic vs ethics, mutual incomprehension)",
+      "to_cups": "good (Cups inspire Swords, Swords appreciate Cup's visions)",
+      "note": "Swords connect to Cups but not Wands (skip 2D)"
+    },
+
+    "pentacles_communications": {
+      "to_swords": "excellent (both logic-based)",
+      "to_wands": "good (Wands implement Pentacles' systems)",
+      "to_cups": "very poor (structure vs feeling, cannot relate)",
+      "note": "Pentacles connect down to Wands but blind to Cups"
+    },
+
+    "wands_communications": {
+      "to_swords": "poor (ethics vs logic)",
+      "to_pentacles": "good (implement their structures)",
+      "to_cups": "conflicted (want to help but end up suppressing)",
+      "note": "Wands can talk to adjacent levels but misunderstand Cups' needs"
+    },
+
+    "cups_communications": {
+      "to_swords": "good (inspire through desire/vision)",
+      "to_pentacles": "very poor (feeling dismissed as irrelevant)",
+      "to_wands": "complicated (understand Wands' care, resent Wands' pressure)",
+      "note": "Cups connect to Swords (1D→4D jump) but struggle with 2D/3D"
+    },
+
+    "implications": {
+      "swords_cups_alliance": "natural (vision ↔ innovation)",
+      "pentacles_wands_alliance": "natural (structure ↔ implementation)",
+      "cross_alliances": "difficult, require conscious bridge-building",
+      "blind_spots": "Pentacles↔Cups, Swords↔Wands (dimensional skip creates incomprehension)"
+    }
+  },
+
+  "historical_patterns": {
+    "pentacles_dominance_eras": {
+      "examples": [
+        "Roman Empire (structure, law, organization)",
+        "Medieval Church (hierarchy, preservation, order)",
+        "Modern corporations (efficiency, control, systems)"
+      ],
+      "characteristics": "stability, order, suppression of innovation and feeling",
+      "end": "collapse when rigidity prevents adaptation"
+    },
+
+    "swords_breakthrough_eras": {
+      "examples": [
+        "Ancient Greece (philosophy, science)",
+        "Renaissance (art-science fusion, innovation)",
+        "Enlightenment (reason, methodology)",
+        "Modern tech revolutions (internet, AI)"
+      ],
+      "characteristics": "rapid innovation, paradigm shifts, creative destruction",
+      "problem": "often ignore ethics and human cost"
+    },
+
+    "wands_moral_movements": {
+      "examples": [
+        "Religious reforms (Luther, Buddha, Jesus)",
+        "Social justice movements (abolition, civil rights)",
+        "Environmental movements"
+      ],
+      "characteristics": "moral awakening, collective responsibility, changed norms",
+      "problem": "can become moralistic/oppressive (suppress Cups)"
+    },
+
+    "cups_artistic_renaissances": {
+      "examples": [
+        "Romantic era (feeling, nature, authenticity)",
+        "1960s counterculture (love, art, freedom)",
+        "Artistic movements (Impressionism, Surrealism, etc.)"
+      ],
+      "characteristics": "beauty, authenticity, emotional depth, meaning",
+      "problem": "often crushed by Pentacles/Wands alliance (structure + morality vs freedom)"
+    },
+
+    "ideal_era": {
+      "description": "when all four suits in balance",
+      "rare_examples": [
+        "Renaissance Florence (innovation + structure + ethics + art in harmony)",
+        "Golden Age Athens (briefly, before Peloponnesian War)",
+        "Certain monastic traditions (structure + ethics + contemplation + beauty)"
+      ],
+      "characteristics": "thriving civilization, meaningful, advanced, humane, beautiful",
+      "why_rare": "conflict nodes create instability, one suit tends to dominate"
+    }
+  },
+
+  "individual_navigation": {
+    "knowing_your_suit": {
+      "purpose": "understand your dimensional role and blind spots",
+      "if_swords": {
+        "strengths": "innovation, analysis, method creation",
+        "blind_spots": "ethics, feelings, social impact",
+        "growth": "partner with Wands (learn ethics) and Cups (feel the impact of your ideas)",
+        "temptation": "dismiss Wands as illogical, ignore Cups as irrelevant"
+      },
+      "if_pentacles": {
+        "strengths": "organization, systems, resource management",
+        "blind_spots": "flexibility, individual needs, art/beauty",
+        "growth": "listen to Cups (what do people actually feel/need?), loosen grip on control",
+        "temptation": "force everyone into your system, dismiss feeling as disorder"
+      },
+      "if_wands": {
+        "strengths": "coordination, ethics, social cohesion",
+        "blind_spots": "logic, individual freedom, technical innovation",
+        "growth": "trust Cups' authenticity (not selfishness), respect Swords' logic (not coldness)",
+        "temptation": "moralize everyone, shame Cups for being 'irresponsible'"
+      },
+      "if_cups": {
+        "strengths": "feeling, authenticity, art, inspiration",
+        "blind_spots": "structure, planning, systematic thinking",
+        "growth": "trust structure can support you (not trap you), express needs clearly to Swords",
+        "temptation": "retreat from all structure/logic, feel victimized by other suits"
+      }
+    },
+
+    "building_bridges": {
+      "swords_wands_bridge": {
+        "challenge": "logic vs ethics (4D ⊥ 2D)",
+        "solution": "Swords: ask 'who does this affect?' before building. Wands: understand logic isn't heartless, it's a tool.",
+        "practice": "collaborative design sessions (Sword shows method, Wand shows impact, iterate together)"
+      },
+      "pentacles_cups_bridge": {
+        "challenge": "structure vs feeling (3D ⊥ 1D)",
+        "solution": "Pentacles: build flexible systems that adapt to feeling. Cups: see structure as container (not cage) for feeling.",
+        "practice": "Pentacles ask Cups 'how does this system make you feel?' and actually redesign based on answer"
+      },
+      "wands_cups_healing": {
+        "challenge": "ethics suppressing authenticity (2D crushing 1D)",
+        "solution": "Wands: redefine ethics to INCLUDE authenticity. Cups: express needs without guilt.",
+        "practice": "Wands protect Cups from Pentacles' rigidity (become allies not oppressors)"
+      }
+    }
+  },
+
+  "tarot_reading_lens": {
+    "dimensional_interpretation": {
+      "description": "read tarot spreads as dimensional tensions/flows",
+      "swords_in_reading": "where innovation/analysis needed or present",
+      "pentacles_in_reading": "where structure/resources involved",
+      "wands_in_reading": "where ethics/people coordination key",
+      "cups_in_reading": "where feeling/authenticity/inspiration central"
+    },
+
+    "conflict_card_combinations": {
+      "pentacles_cups": "structure vs feeling tension (need flexibility)",
+      "swords_wands": "logic vs ethics conflict (need integration)",
+      "wands_cups": "moral pressure on authentic expression (need liberation)",
+      "swords_pentacles": "innovation vs preservation (creative destruction happening)"
+    },
+
+    "harmony_card_combinations": {
+      "swords_pentacles": "innovation being structured (positive manifestation)",
+      "pentacles_wands": "systems being implemented ethically (smooth operation)",
+      "cups_swords": "inspiration driving innovation (creative breakthrough)",
+      "balanced_spread": "all four suits present = holistic situation, all dimensions active"
+    }
+  },
+
+  "civilization_diagnosis": {
+    "current_state": {
+      "dominant_suits": ["Pentacles", "Swords"],
+      "suppressed_suits": ["Cups", "Wands (partially)"],
+      "description": "high-tech, well-organized, ethically confused, spiritually empty",
+      "symptoms": [
+        "amazing technology, no meaning",
+        "efficient systems, crushed individuals",
+        "innovation without ethics",
+        "moral confusion (Wands weakened, can't provide coherent ethics)",
+        "depression epidemic (Cups suppressed)",
+        "art commodified not revered"
+      ]
+    },
+
+    "healing_path": {
+      "step_1": "liberate Cups (stop shaming authenticity)",
+      "step_2": "integrate Swords-Wands (ethics in innovation from start)",
+      "step_3": "soften Pentacles (flexible structures that serve feeling)",
+      "step_4": "honor all four suits equally (no hierarchy)",
+      "result": "civilization that is advanced, organized, ethical, AND meaningful/beautiful"
+    }
+  },
+
+  "key_insights": {
+    "dimensional_roles_real": "tarot suits not arbitrary, map to actual dimensional functions in reality",
+    "hierarchy_not_value": "4D→3D→2D→1D is information flow, not importance ranking",
+    "conflict_nodes_explain_suffering": "most human suffering from 3D⊥1D and 4D⊥2D conflicts",
+    "cups_most_oppressed_most_essential": "feeling suppressed by structure, yet civilization meaningless without it",
+    "wands_accidental_oppressors": "think they're helping Cups, actually crushing them",
+    "swords_cups_natural_alliance": "inspiration ↔ innovation (1D→4D) is civilization's creative engine",
+    "pentacles_necessary_not_sufficient": "structure needed but cannot be primary (kills feeling)",
+    "balance_is_answer": "coherence = all four suits equal, dancing together, none dominant"
+  },
+
+  "positions": {
+    "0": "unaware (sees tarot as fortune-telling, doesn't see dimensional structure)",
+    "1": "curious (notices patterns: 'why do I always clash with X type?')",
+    "2": "learning (studies suit meanings, dimensional model, socionics connections)",
+    "3": "recognizing (identifies own suit, sees conflicts playing out in life)",
+    "4": "experimenting (tries building bridges, softening conflicts)",
+    "5": "crisis (overwhelmed by seeing oppression patterns, conflict nodes everywhere)",
+    "6": "integrating (accepts dimensional role, respects other suits)",
+    "7": "bridge-building (actively creates harmony between suits, heals conflict nodes)",
+    "8": "teaching (helps others see dimensional patterns, navigate suit conflicts)",
+    "9": "orchestrating (designs systems/communities where all suits thrive equally)",
+    "10": "transcendent (embodies all suits simultaneously, pure coherence, conflict dissolved)"
+  }
+}

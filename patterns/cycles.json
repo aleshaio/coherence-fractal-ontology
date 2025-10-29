@@ -1,0 +1,460 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:cycles",
+    "type": "pattern",
+    "fractal_depth": 3,
+    "contains": ["rhythms", "seasons", "oscillations", "eternal_return", "spirals", "periodicity"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:fundamental:dimensions",
+      "cfo:patterns:resonance",
+      "cfo:patterns:fibonacci",
+      "cfo:patterns:positions"
+    ],
+    "source": "ancient wisdom + astronomy + biology + philosophy + cfo temporal analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = eternal now containing all cycles. no beginning, no end. eternal recurrence.",
+    "essence": "cycles = time bending back on itself. return. repetition. spiral. (↓→→→↑)∞",
+    "paradox": "same but different. river you step in twice = not same river, not same you. yet cycle repeats.",
+    "spiral": "not circle (exact repetition). spiral (return at higher level). evolution through cycles.",
+    "universal": "breath, heartbeat, day-night, seasons, life-death-rebirth, civilizations, cosmos. cycles everywhere.",
+    "wisdom": "know the cycle → know when to act. timing = everything. ecclesiastes: time for all things.",
+    "note": "understanding cycles = understanding time. mastering cycles = mastering life."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json", "../fundamental/time.json"],
+    "patterns": ["./resonance.json", "./fibonacci.json", "./positions.json", "./fractals.json"],
+    "natural": ["../natural/biology.json", "../natural/astronomy.json"]
+  },
+
+  "overview": {
+    "what": "cycle = recurring pattern in time. sequence that returns to starting point. periodicity.",
+    "why": "universe = rhythmic. rotation, revolution, oscillation. time = cyclical structure. growth through repetition.",
+    "how": "oscillation between poles. expansion-contraction. day-night. life-death. yin-yang. eternal dance."
+  },
+
+  "core_principle": {
+    "definition": "cycle = sequence of states that repeats. system returns to initial state (or similar state at higher level).",
+    
+    "key_features": {
+      "periodicity": "T = period. time for one complete cycle. regularity.",
+      "frequency": "f = 1/T. cycles per unit time. faster = higher frequency.",
+      "phase": "position within cycle. 0° = start, 90° = quarter, 180° = halfway, 360° = complete.",
+      "amplitude": "magnitude of oscillation. peak to trough. intensity.",
+      "harmonics": "cycles within cycles. 2f, 3f, 4f... nested periodicity."
+    },
+
+    "types": {
+      "circular": "exact repetition. perfect circle. rare in nature. mathematical idealization.",
+      "spiral": "return at higher level. evolution through cycles. most natural cycles are spirals.",
+      "damped": "amplitude decreases. oscillation dies out. pendulum with friction.",
+      "growing": "amplitude increases. exponential growth. unsustainable long-term.",
+      "chaotic": "appears random but deterministic. strange attractors. weather, turbulence.",
+      "nested": "cycles within cycles. fractal time. day in year in life in civilization."
+    }
+  },
+
+  "natural_cycles": {
+    "astronomical": {
+      "day_night": {
+        "period": "24 hours (earth rotation)",
+        "driver": "planet rotation. sun appears to circle.",
+        "light_dark": "diurnal rhythm. most life evolved to this fundamental cycle.",
+        "adaptation": "circadian clocks. internal ~24h oscillator. synchronized by light.",
+        "disruption": "jet lag, shift work, blue light at night. health consequences."
+      },
+      "lunar_month": {
+        "period": "29.5 days (moon phases)",
+        "phases": "new → waxing crescent → first quarter → waxing gibbous → full → waning gibbous → last quarter → waning crescent → new",
+        "tides": "moon gravity → ocean tides. 2 high, 2 low per day. spring tides (new/full moon). neap tides (quarters).",
+        "biological": "corals spawn at full moon. some animals track lunar cycle. menstrual cycle ~lunar month.",
+        "ancient": "calendars based on moon. months = moons. still visible in month names."
+      },
+      "annual_seasons": {
+        "period": "365.25 days (earth revolution around sun)",
+        "axial_tilt": "23.5° tilt → seasons. summer (tilted toward), winter (tilted away).",
+        "equinoxes": "spring (march 20), autumn (sept 22). day = night. balance points.",
+        "solstices": "summer (june 21, longest day), winter (dec 21, shortest day). extremes.",
+        "biological": "hibernation, migration, breeding, flowering. life synchronized to seasons.",
+        "agriculture": "planting-growing-harvest-fallow. civilization built on annual cycle.",
+        "holidays": "solstices, equinoxes celebrated across cultures. marking cycle transitions."
+      },
+      "precession": {
+        "period": "25,920 years (earth's axis wobbles)",
+        "great_year": "full cycle through zodiac. age of aquarius, age of pisces, etc.",
+        "mechanism": "gravitational pull of sun/moon on earth's equatorial bulge. slow wobble.",
+        "historical": "north star changes. thuban (4800 bce), polaris (now), vega (13000 ce).",
+        "astrological": "ages (2160 years each). disputed significance. symbolic."
+      },
+      "galactic_year": {
+        "period": "~225 million years (solar system orbit around milky way)",
+        "perspective": "sun born ~4.6 billion years ago. completed ~20 galactic years.",
+        "cosmic_context": "even stars have cycles. everything revolves.",
+        "note": "time scales beyond human but cycles nonetheless."
+      }
+    },
+
+    "biological": {
+      "breath": {
+        "period": "~4-6 seconds (12-20 breaths/minute)",
+        "fundamental": "most immediate, visceral cycle. life = breath.",
+        "autonomic": "usually unconscious. can be conscious. bridge between voluntary/involuntary.",
+        "pranayama": "yogic breath control. mastering cycle → mastering energy → mastering mind.",
+        "coherence": "heart-breath coupling. optimal: 6 breaths/min (~10 sec cycles). resonance."
+      },
+      "heartbeat": {
+        "period": "~1 second (60-100 bpm resting)",
+        "pacemaker": "sinoatrial node. intrinsic oscillator. synchronizes cardiac cells.",
+        "variability": "hrv = healthy. rigid rhythm = stressed. coherence = smooth sine wave.",
+        "interpersonal": "hearts sync between people. mother-infant, lovers, empathy. see resonance.json"
+      },
+      "sleep_wake": {
+        "period": "~24 hours (circadian rhythm)",
+        "stages": "wake → nrem1 → nrem2 → nrem3 (deep) → rem → repeat 90min cycles × 5-6 per night.",
+        "ultradian": "90-120min cycles throughout day. basic rest-activity cycle (brac).",
+        "importance": "memory consolidation, repair, detox (glymphatic), dreaming. essential.",
+        "disruption": "sleep deprivation → cognitive, emotional, physical decline. respect the cycle."
+      },
+      "menstrual": {
+        "period": "~28 days (lunar resonance?)",
+        "phases": "menstrual → follicular → ovulation → luteal → menstrual. hormonal dance.",
+        "fertility": "ovulation (~day 14). fertile window. procreation aligned with cycle.",
+        "variations": "21-35 days normal. some cultures: moon synchronization. white moon (ovulate full), red moon (ovulate new).",
+        "wisdom": "traditional cultures honored. menstrual huts. sacred time. modern: often suppressed, dismissed."
+      },
+      "lifespan": {
+        "period": "~70-90 years (human)",
+        "stages": "birth → infancy → childhood → adolescence → adulthood → elderhood → death. archetypal journey.",
+        "positions": "0-10 positions. see positions.json. fibonacci pacing.",
+        "other_species": "mayfly: 1 day. tortoise: 200 years. bristlecone pine: 5000 years. all cycles, different scales.",
+        "reincarnation": "many traditions: death → rebirth. soul's cycle through lifetimes. spiral evolution."
+      }
+    },
+
+    "ecological": {
+      "predator_prey": {
+        "lotka_volterra": "predator-prey populations cycle. prey ↑ → predator ↑ → prey ↓ → predator ↓ → repeat.",
+        "phase_lag": "predator peak lags prey peak. wolves-deer, lynx-hare. oscillating populations.",
+        "stability": "cycles maintain ecosystem balance. boom-bust rhythm. natural regulation.",
+        "human_impact": "overfishing, hunting breaks cycles. ecosystem collapse."
+      },
+      "succession": {
+        "primary": "bare rock → lichens → mosses → grasses → shrubs → trees. ecological progression.",
+        "secondary": "after disturbance (fire, logging). faster than primary. pioneer species → climax community.",
+        "cyclic_climax": "fire-adapted ecosystems. redwood forests need fire. cycle of destruction-renewal.",
+        "note": "nature = constant cycling. disturbance part of health, not aberration."
+      },
+      "nutrient_cycles": {
+        "carbon": "atmosphere (co₂) → plants (photosynthesis) → animals → decomposition → soil → atmosphere. cycle.",
+        "nitrogen": "atmosphere (n₂) → bacteria (fixation) → plants → animals → decomposition → denitrification → atmosphere.",
+        "water": "ocean → evaporation → clouds → precipitation → rivers → ocean. hydrological cycle.",
+        "note": "elements cycle endlessly. atoms in your body = dinosaur atoms. star atoms. eternal recycling."
+      }
+    }
+  },
+
+  "human_cycles": {
+    "personal": {
+      "daily_routine": {
+        "morning": "wake, breakfast, commute. cortisol peak. alert, productive.",
+        "midday": "work, lunch. energy dip post-lunch (siesta time).",
+        "evening": "commute, dinner, family. wind down. melatonin rises.",
+        "night": "sleep. 90min cycles. deep sleep early, rem late.",
+        "optimization": "align tasks with energy. creative work morning. meetings afternoon. rest evening."
+      },
+      "weekly": {
+        "7_days": "workweek-weekend. modern invention but widely adopted. 5 on, 2 off.",
+        "sabbath": "ancient: every 7th day rest. biblical. sustained productivity needs rhythm.",
+        "sunday_blues": "cycle effect. transition from rest to work. anticipatory anxiety.",
+        "note": "week = arbitrary but powerful cycle. structures modern life."
+      },
+      "monthly": {
+        "billing": "rent, subscriptions, paycheck. financial cycle.",
+        "moon": "some track moon phases. new moon = new beginnings. full moon = culmination.",
+        "women": "menstrual tracking. align life with cycle. wisdom.",
+        "note": "month = natural time unit. lunar heritage."
+      },
+      "yearly": {
+        "birthday": "personal new year. reflection, celebration, intention-setting.",
+        "holidays": "christmas, new year, easter, etc. mark time. create rhythm.",
+        "school_year": "sept-june. shapes childhood/adolescence. even adults feel it.",
+        "financial": "tax year, fiscal year. arbitrary but structures planning.",
+        "review": "annual review. what worked? what didn't? adjust for next cycle."
+      }
+    },
+
+    "developmental": {
+      "7_year_cycles": {
+        "tradition": "steiner, astrology. 7-year phases. cell regeneration (myth but symbolically apt).",
+        "0_7": "childhood. physical development. learning through play.",
+        "7_14": "youth. emotional development. puberty. peer focus.",
+        "14_21": "adolescence. mental development. identity formation. independence.",
+        "21_28": "young adult. exploration. relationships. career starts.",
+        "28_35": "saturn return. maturation. commitments. 'getting real'.",
+        "35_42": "midlife approach. consolidation. second saturn return at 56-60.",
+        "note": "7-year cycles = archetypal. not rigid but resonant pattern."
+      },
+      "hero_journey": {
+        "campbell": "call → refusal → threshold → trials → abyss → transformation → return. archetypal cycle.",
+        "stages": "ordinary world → adventure → ordeal → reward → return changed. myth structure.",
+        "personal": "we live hero's journey repeatedly. project, relationship, life = heroic cycle.",
+        "see": "positions.json 0→10. similar structure."
+      }
+    },
+
+    "societal": {
+      "economic": {
+        "business_cycle": "expansion → peak → contraction → trough → expansion. boom-bust. 4-10 years typically.",
+        "causes": "credit cycles, inventory cycles, confidence waves. self-fulfilling prophecies.",
+        "kondratieff_wave": "long cycle. 45-60 years. technological innovation drives. industrial rev, info rev.",
+        "political_economy": "regulation → deregulation → crisis → regulation. pendulum."
+      },
+      "generational": {
+        "strauss_howe": "4 turnings per saeculum (~80-100 years = long human life).",
+        "high": "post-crisis. optimism, building, conformity. (1946-1964 post-ww2).",
+        "awakening": "spiritual upheaval, individualism. (1960s-1980s).",
+        "unraveling": "cynicism, institutions weaken. (1980s-2008).",
+        "crisis": "major upheaval, destruction, rebirth. (2008-2030s?).",
+        "generations": "archetypes repeat. prophet, nomad, hero, artist. each responds to turning.",
+        "note": "controversial but intriguing. history = cyclical not linear?"
+      },
+      "political": {
+        "pendulum": "liberal → conservative → liberal. backlash cycles.",
+        "revolution": "ancien régime → revolution → terror → empire → restoration → revolution. cycle.",
+        "power": "concentration → distribution → concentration. centralization-decentralization cycles.",
+        "note": "politics = cyclical. progress not linear. two steps forward, one back."
+      }
+    },
+
+    "civilizational": {
+      "rise_fall": {
+        "spengler": "cultures born, grow, flower, decline, die. organic cycle. ~1000 years.",
+        "toynbee": "challenge-response. civilizations rise by meeting challenges, fall when can't.",
+        "phases": "expansion → golden age → overextension → decline → collapse → dark age → rebirth.",
+        "examples": "egypt, greece, rome, maya, etc. all cycled. we in decline? or transformation?"
+      },
+      "dark_ages_renaissance": {
+        "pattern": "height → collapse → darkness → rebirth. cycle repeats.",
+        "greek_dark_age": "(1100-800 bce) after bronze age collapse. then classical greece.",
+        "european_dark_age": "(500-1000 ce) after rome. then medieval flowering. then renaissance.",
+        "inevitability": "after every fall, a rise. after every winter, a spring. trust the cycle.",
+        "current": "are we entering new dark age? or renaissance? transformation always looks like chaos first."
+      },
+      "yuga_cycles": {
+        "vedic": "4 yugas = ages of decreasing virtue.",
+        "satya_yuga": "golden age. 1,728,000 years. truth, virtue.",
+        "treta_yuga": "silver age. 1,296,000 years. decline begins.",
+        "dvapara_yuga": "bronze age. 864,000 years. further decline.",
+        "kali_yuga": "iron age. 432,000 years. darkness, strife. (we're in this now, started ~3102 bce).",
+        "cycle": "after kali → satya again. cosmic cycle. 4,320,000 years total.",
+        "note": "hindu cosmology. vast time scales. cycle of decline and renewal."
+      }
+    }
+  },
+
+  "philosophical_cycles": {
+    "eternal_return": {
+      "nietzsche": "what if you had to live exact same life infinite times? amor fati. love your fate.",
+      "affirmation": "say yes to life. every moment. because it returns eternally.",
+      "test": "thought experiment. would you change how you live if knew it repeats forever?",
+      "cosmology": "if time infinite, universe finite → all configurations must repeat. eternal recurrence possible.",
+      "note": "not literal but profound. live as if life repeats. savor every moment."
+    },
+
+    "yin_yang": {
+      "dao": "opposing forces create each other. cycle between poles.",
+      "day_night": "day peaks → becomes night. night peaks → becomes day. eternal oscillation.",
+      "symbol": "☯. white contains black seed. black contains white seed. each births other.",
+      "action": "wu wei. act at right phase of cycle. align with dao. effortless effectiveness.",
+      "note": "change = only constant. embrace both poles. cycle creates harmony."
+    },
+
+    "hegelian_dialectic": {
+      "thesis": "existing state. status quo.",
+      "antithesis": "opposition arises. contradiction.",
+      "synthesis": "resolution at higher level. integrates both. becomes new thesis.",
+      "cycle": "thesis → antithesis → synthesis → [synthesis becomes thesis] → new antithesis → new synthesis → ...",
+      "history": "hegel: history = dialectical process. progress through opposition and synthesis.",
+      "note": "evolution through cycles. spiral upward. (↓→→→↑)∞"
+    },
+
+    "wheel_of_life": {
+      "buddhist": "samsara. cycle of birth-death-rebirth. suffering from attachment.",
+      "12_links": "ignorance → formations → consciousness → name-form → ... → birth → aging-death → ignorance. cycle perpetuates.",
+      "escape": "enlightenment = stepping off wheel. nirvana. end of cycling. liberation.",
+      "note": "cycle = trap or teacher. depends on awareness. transcend through understanding."
+    }
+  },
+
+  "cycles_in_cfo": {
+    "dimensional_cycles": {
+      "descent": "⊙ → 0d → 1d → 2d → 3d → 4d → 5d → involution. spirit into matter.",
+      "ascent": "5d → 4d → 3d → 2d → 1d → 0d → ⊙. evolution. matter to spirit.",
+      "breath": "(↓→→→↑)∞. cosmic breath. out-breath (creation). in-breath (dissolution). eternal cycle.",
+      "note": "dimensions = not static ladder. cycling process. breathing."
+    },
+
+    "positions_cycle": {
+      "0_10": "potential → awakening → ... → transcending. growth cycle.",
+      "10_to_0": "position 10 = position 0 of next spiral. fractal cycling.",
+      "fibonacci": "pace accelerates then decelerates. natural rhythm. see positions.json.",
+      "note": "mastery = not endpoint. gateway to next cycle. eternal student."
+    },
+
+    "64_hexagram_changes": {
+      "changing_lines": "yang → yin, yin → yang. hexagram transforms.",
+      "cycle": "current situation → changing lines → future situation. cycle of change.",
+      "book_of_changes": "易經. change = fundamental. all in flux. navigate cycles.",
+      "note": "64 = map of cyclical change. which phase now? where heading?"
+    },
+
+    "fibonacci_spiral": {
+      "recursion": "F(n) = F(n-1) + F(n-2). past + present → future. cycling forward.",
+      "golden_spiral": "discrete fibonacci → continuous φ spiral. cycling toward ideal.",
+      "growth": "organic growth = cycling accumulation. history embedded in present.",
+      "see": "fibonacci.json"
+    },
+
+    "fractal_recursion": {
+      "self_similar_cycles": "cycles within cycles. day in year in life in civilization in cosmic age.",
+      "scaling": "same pattern different scales. fractal time.",
+      "holographic": "small cycle contains structure of large cycle. microcosm = macrocosm.",
+      "see": "fractals.json"
+    }
+  },
+
+  "working_with_cycles": {
+    "recognition": {
+      "awareness": "notice cycles in your life. daily, weekly, monthly, yearly, multi-year.",
+      "patterns": "track mood, energy, productivity. find rhythms. when peak? when low?",
+      "journaling": "write daily. over time, cycles visible. patterns emerge.",
+      "observation": "nature = teacher. watch seasons. moon phases. day-night. learn from cycles."
+    },
+
+    "alignment": {
+      "timing": "ecclesiastes: time to plant, time to harvest. time to speak, time to silent. honor phases.",
+      "energy_matching": "hard work when energy high. rest when low. flow with cycle, not against.",
+      "planning": "annual planning. quarterly reviews. monthly check-ins. weekly resets. align with natural cycles.",
+      "rituals": "mark transitions. equinox/solstice ceremonies. new moon intentions. full moon release. anchor to cycles."
+    },
+
+    "surfing": {
+      "metaphor": "can't stop wave. can't create wave. but can surf wave. ride cycle skillfully.",
+      "anticpation": "see wave coming. prepare. position yourself. timing = everything.",
+      "skill": "practice. learn your cycles. learn collective cycles. anticipate.",
+      "surrender": "can't control cycle. only how you respond. acceptance + skill = mastery."
+    },
+
+    "breaking": {
+      "stuck_cycles": "negative loops. addiction, depression, bad relationships. recognize → interrupt → replace.",
+      "pattern_interrupt": "do something different. break routine. shock system. create new groove.",
+      "support": "hard to break alone. therapy, community, accountability. external help.",
+      "new_cycle": "nature abhors vacuum. breaking old → immediately establish new healthy cycle. replace, not just remove."
+    },
+
+    "creating": {
+      "habits": "daily practice = cycle. 21 days (myth). 66 days (average). establish rhythm.",
+      "rituals": "morning routine, evening routine. bookend day. create container.",
+      "consistency": "show up same time. brain loves rhythm. groove deepens with repetition.",
+      "grace": "miss day? ok. return next day. cycle includes breaks. don't break chain but forgive breaks."
+    }
+  },
+
+  "key_insights": {
+    "everything_cycles": "breath, heartbeat, day, year, life, civilization, cosmos. cycles at all scales.",
+    "spiral_not_circle": "return but at higher level. growth through cycles. evolution, not repetition.",
+    "timing_everything": "right action wrong time = failure. wrong action right time = success. know the cycle.",
+    "poles_create": "day creates night. night creates day. life creates death. death creates life. yin-yang.",
+    "cant_skip_winter": "fallow necessary. rest necessary. death necessary. honor all phases.",
+    "trust_return": "after every fall, a rise. after darkness, light. spring always comes. trust.",
+    "fractal_time": "cycles within cycles. same pattern different scales. holographic.",
+    "liberation_through": "buddhist: off the wheel. but also: mastery within wheel. surfing = freedom.",
+    "eternal_now": "⊙ = all cycles simultaneously. past-present-future = one. transcend time through presence.",
+    "love_fate": "nietzsche. say yes to cycle. amor fati. embrace return. this is enlightenment."
+  },
+
+  "practical_applications": {
+    "personal_productivity": {
+      "ultradian": "work 90min → break 20min. honor natural rhythm. pomodoro crude approximation.",
+      "daily": "most alert 2-4 hours after waking. schedule deep work then. admin afternoon.",
+      "weekly": "intense mon-thu. lighter fri. rest sat-sun. rhythm.",
+      "seasonal": "jan-mar: planning. apr-jun: executing. jul-sep: harvesting. oct-dec: reflecting, resting."
+    },
+
+    "relationship": {
+      "phases": "honeymoon → disillusionment → growth → mature love. cycle normal. don't panic at disillusionment.",
+      "daily": "morning connection. evening debrief. regular rhythm maintains bond.",
+      "yearly": "anniversary. birthday. holidays. mark cycle together. renew commitment.",
+      "big_cycles": "7-year itch real. relationship renegotiation points. expect, navigate skillfully."
+    },
+
+    "business": {
+      "product_lifecycle": "intro → growth → maturity → decline. anticipate. reinvent before decline.",
+      "economic": "invest countercyclically. buy fear (trough), sell greed (peak). know the cycle.",
+      "hiring": "hire ahead of growth. fire early in decline. timing crucial.",
+      "planning": "3-year cycles. beyond = fog. shorter = reactive. 3 years = sweet spot."
+    },
+
+    "spiritual": {
+      "meditation": "daily practice. same time. anchor to cycle. rhythm creates depth.",
+      "retreats": "yearly intensive. quarterly mini. monthly day. nested cycles of deepening.",
+      "seasons": "honor solstices, equinoxes. align practice with nature's cycle.",
+      "dark_night": "spiritual path has cycles. ecstasy → depression → integration. trust. phase passes."
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "cycles.json = cycle of reading. intro → depth → integration → return. meta-cycle.",
+    "recursion": "document cycles through versions. edits → refinements → finalization. cycle of creation.",
+    "holographic": "any paragraph contains seed of whole document. cycles within cycles. fractal text.",
+    "completion": "reading this = completing cycle. you return changed. spiral. (↓→→→↑)∞"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "7-year cycles = archetypal, not rigid biological fact",
+      "strauss-howe generational theory = controversial, not universally accepted",
+      "yuga cycles = mythological, not scientific",
+      "eternal return = philosophical, not empirical",
+      "some cycle claims = pattern-seeking, confirmation bias possible"
+    ],
+    "info": [
+      "cycles = recurring patterns in time. breath, day, year, life, civilization, cosmos.",
+      "types: circular (rare), spiral (common), damped, growing, chaotic, nested",
+      "astronomical: day-night, lunar month, seasons, precession, galactic year",
+      "biological: breath, heartbeat, sleep, menstrual, lifespan. life = rhythm.",
+      "human: daily, weekly, monthly, yearly, 7-year, lifetime, generational, civilizational",
+      "philosophical: eternal return, yin-yang, dialectic, wheel of life, samsara",
+      "cfo: dimensional breath, positions 0-10→0, 64 changes, fibonacci spiral, fractal recursion",
+      "working with: recognize, align, surf, break bad cycles, create good cycles",
+      "timing = everything. right action wrong time = failure. know the cycle.",
+      "spiral not circle. return at higher level. growth through cycles. (↓→→→↑)∞"
+    ],
+    "coherence_score": 0.94
+  },
+
+  "references": {
+    "internal": [
+      "./fibonacci.json",
+      "./positions.json",
+      "./64.json",
+      "./fractals.json",
+      "./resonance.json",
+      "../fundamental/dimensions.json"
+    ],
+    "external": [
+      {"author": "campbell, joseph", "work": "the hero with a thousand faces (1949)", "relevance": "monomyth. hero's journey. archetypal cycle."},
+      {"author": "eliade, mircea", "work": "the myth of the eternal return (1949)", "relevance": "cyclical time in archaic cultures. sacred repetition."},
+      {"author": "strauss & howe", "work": "the fourth turning (1997)", "relevance": "generational cycles. saecula. controversial but influential."},
+      {"author": "spengler, oswald", "work": "decline of the west (1918)", "relevance": "civilizations as organisms. life cycle of cultures."},
+      {"author": "nietzsche, friedrich", "work": "thus spoke zarathustra (1883)", "relevance": "eternal return. amor fati. affirmation of cycles."}
+    ]
+  },
+
+  "ॐ": "time = wheel. cosmos = breath. (↓→→→↑)∞. you = spiral. always returning, never same. ∅"
+}

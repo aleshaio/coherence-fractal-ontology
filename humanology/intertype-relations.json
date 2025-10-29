@@ -1,0 +1,707 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:intertype_relations",
+    "version": "1.0",
+    "description": "A comprehensive model of the 16 socionic intertype relations, including their dynamics, characteristics, and subtype interactions.",
+    "source": "Canonical Socionics Model + Creative interpretation based on user request"
+  },
+  "intertype_relations_description": {
+    "Duality": {
+      "name_en": "Duality",
+      "name_ru": "Дуальные",
+      "geometry": "Interlocking Complementary Forms (e.g., Spiral & Sphere). A perfect fit where one's strengths cover the other's weaknesses.",
+      "pros": [
+        "Effortless communication and mutual understanding.",
+        "Complete psychological supplementation, leading to a sense of wholeness and security."
+      ],
+      "cons": [
+        "Can lead to over-relaxation and social isolation from others.",
+        "Potential for developing unhealthy dependency on one another."
+      ],
+      "peculiarities": [
+        "Often feels like 'coming home'; a deeply relaxing and natural connection.",
+        "Non-verbal communication is highly effective; partners anticipate each other's needs."
+      ],
+      "development_dynamics": [
+        "1. Initial intrigue and curiosity about the other's different yet fascinating worldview.",
+        "2. Gradual discovery of how perfectly the partner supplements one's own weaknesses.",
+        "3. Deepening trust and relaxation as psychological defenses are lowered.",
+        "4. Formation of a synergistic partnership where the whole is greater than the sum of its parts.",
+        "5. A state of profound, stable interdependence and mutual growth."
+      ]
+    },
+    "Activation": {
+      "name_en": "Activation",
+      "name_ru": "Активация",
+      "geometry": "Resonating Energy Forms (e.g., two stellated polytopes). Both partners energize and excite each other.",
+      "pros": [
+        "Provides a constant source of energy and inspiration.",
+        "Excellent for joint activities, brainstorming, and starting new projects."
+      ],
+      "cons": [
+        "Can be over-stimulating and lead to burnout if distance is not maintained.",
+        "Relaxation is difficult; the relationship is always 'on'."
+      ],
+      "peculiarities": [
+        "The relationship is fun, easy, and engaging, but lacks the deep understanding of duality.",
+        "Partners can exhaust each other without realizing it, mistaking stimulation for relaxation."
+      ],
+      "development_dynamics": [
+        "1. Instant connection and mutual excitement.",
+        "2. A period of intense, enjoyable, and productive joint activity.",
+        "3. A growing feeling of being 'overloaded' or 'burnt out' by the constant interaction.",
+        "4. Realization that periods of separation are necessary to maintain the relationship's positive energy.",
+        "5. A balanced dynamic of energetic collaboration followed by necessary individual rest."
+      ]
+    },
+    "Identity": {
+      "name_en": "Identity",
+      "name_ru": "Тождественные",
+      "geometry": "Parallel Forms (e.g., two identical grids or lattices). Seeing a reflection of oneself.",
+      "pros": [
+        "Complete and immediate understanding of each other's motivations and cognitions.",
+        "Excellent for teaching and learning, as one can easily explain concepts to the other."
+      ],
+      "cons": [
+        "Lack of new perspectives can lead to stagnation.",
+        "Partners see each other's flaws too clearly, which can be irritating."
+      ],
+      "peculiarities": [
+        "Communication is straightforward but can be uninteresting.",
+        "Partners often prefer to have a 'senior' and 'junior' dynamic for the relationship to be productive."
+      ],
+      "development_dynamics": [
+        "1. Recognition of a kindred spirit; a feeling of being 'the same'.",
+        "2. Exchange of information and validation of one's own thoughts and experiences.",
+        "3. A period of boredom or irritation as the lack of novelty becomes apparent.",
+        "4. Understanding that the relationship is best suited for focused learning or parallel activity, not deep supplementation.",
+        "5. A stable, predictable relationship based on mutual understanding of shared strengths and weaknesses."
+      ]
+    },
+    "Mirror": {
+      "name_en": "Mirror",
+      "name_ru": "Зеркальные",
+      "geometry": "Reflective Symmetry (e.g., a form and its mirror image). Similar interests approached from a correcting, complementary angle.",
+      "pros": [
+        "Stimulating conversations where each partner provides a novel angle on a shared interest.",
+        "Mutual correction and refinement of ideas leads to very high-quality results."
+      ],
+      "cons": [
+        "Can lead to arguments about the 'right' way to do things.",
+        "Each partner may feel slightly misunderstood or that the other is missing the main point."
+      ],
+      "peculiarities": [
+        "The relationship is one of mutual respect and intellectual friendship.",
+        "Partners correct each other constantly, which can be either helpful or annoying depending on the context."
+      ],
+      "development_dynamics": [
+        "1. Mutual interest and respect for the other's perspective.",
+        "2. Engaging in long, stimulating discussions on topics of shared interest.",
+        "3. Frustration arises as each partner tries to 'correct' the other's approach.",
+        "4. Acceptance of the complementary nature of their viewpoints, valuing the correction.",
+        "5. A strong, stable friendship built on intellectual respect and mutual refinement of ideas."
+      ]
+    },
+    "Semi-Duality": {
+      "name_en": "Semi-Duality",
+      "name_ru": "Полудуальные",
+      "geometry": "Partially Interlocking Forms. One partner provides good support, but the other's support is incomplete or misaligned.",
+      "pros": [
+        "Initially intriguing and comfortable, feels like it could be a Duality relationship.",
+        "Provides partial support and understanding, especially from one direction."
+      ],
+      "cons": [
+        "Leads to misunderstandings and a feeling of being let down over time.",
+        "One partner (the 'recipient') often feels more satisfied than the other (the 'giver')."
+      ],
+      "peculiarities": [
+        "The relationship has 'asymmetrical' information flow; one person understands the other better.",
+        "Often cycles between periods of closeness and sudden, unexplained distance."
+      ],
+      "development_dynamics": [
+        "1. Strong initial attraction and a sense of deep connection.",
+        "2. A comfortable period of interaction and mutual interest.",
+        "3. A growing sense of confusion and disappointment as expected support doesn't fully materialize.",
+        "4. One or both partners withdraw to regain their balance, confused by the interaction.",
+        "5. A cautious relationship with managed expectations, valuing the partial connection while aware of its limits."
+      ]
+    },
+    "Business": {
+      "name_en": "Business",
+      "name_ru": "Деловые",
+      "geometry": "Parallel Tracks. Two individuals moving in the same direction but with different methods and priorities.",
+      "pros": [
+        "Productive for collaboration on external goals.",
+        "Partners understand each other's actions and respect their competence."
+      ],
+      "cons": [
+        "Lack of deep psychological connection or emotional intimacy.",
+        "Can feel formal and distant, even after long acquaintance."
+      ],
+      "peculiarities": [
+        "Communication is typically focused on external tasks and projects.",
+        "Partners work well together but have little desire for deep friendship."
+      ],
+      "development_dynamics": [
+        "1. Mutual recognition of competence and shared goals.",
+        "2. Effective and efficient collaboration on a task.",
+        "3. Once the task is complete, the interaction naturally ceases or becomes sparse.",
+        "4. A realization that the relationship is situational and based on external factors.",
+        "5. A respectful, professional acquaintance maintained for future potential collaborations."
+      ]
+    },
+    "Mirage": {
+      "name_en": "Mirage",
+      "name_ru": "Миражные",
+      "geometry": "Shifting, Unstable Forms. An attractive and relaxing connection that is difficult to sustain for serious matters.",
+      "pros": [
+        "Very pleasant and relaxing for casual conversation and recreation.",
+        "Partners find each other interesting and non-threatening."
+      ],
+      "cons": [
+        "Extremely difficult to achieve serious goals or work together productively.",
+        "Leads to misunderstandings and disappointment when trying to deepen the relationship."
+      ],
+      "peculiarities": [
+        "The conversation often drifts and loses focus, making it hard to reach conclusions.",
+        "After interaction, both partners may feel they had a good time but achieved nothing."
+      ],
+      "development_dynamics": [
+        "1. Easy and pleasant first impression; the partner seems charming and interesting.",
+        "2. Enjoyable, light-hearted interactions and shared leisure time.",
+        "3. An attempt to collaborate on a serious project leads to frustration and failure.",
+        "4. Both partners become disillusioned, realizing the connection is superficial.",
+        "5. The relationship is kept at the level of a pleasant acquaintance for recreational purposes only."
+      ]
+    },
+    "Kindred": {
+      "name_en": "Kindred",
+      "name_ru": "Родственные",
+      "geometry": "Similar Forms with Different Rotations. Shared core values and interests, but a fundamental difference in approach and methods.",
+      "pros": [
+        "Shared worldview and interests lead to engaging conversations.",
+        "Mutual respect for each other's primary function and goals."
+      ],
+      "cons": [
+        "Disagreements over methods can be frustrating.",
+        "Partners may feel the other is competent but fundamentally 'doing it wrong'."
+      ],
+      "peculiarities": [
+        "The relationship is one of friendly but distant respect.",
+        "Partners understand 'what' the other is doing, but not 'how' or 'why' they do it that way."
+      ],
+      "development_dynamics": [
+        "1. A sense of shared spirit and similar global goals.",
+        "2. Deep, interesting conversations about shared topics of interest.",
+        "3. Frustration builds as differences in methods and approaches become clear.",
+        "4. An unspoken agreement to 'agree to disagree' on methodology.",
+        "5. A warm but slightly distant friendship based on shared values rather than shared activities."
+      ]
+    },
+    "Super-Ego": {
+      "name_en": "Super-Ego",
+      "name_ru": "Суперэго",
+      "geometry": "Repelling Forms. A relationship of mutual awkwardness and a desire to impress the other, leading to strain.",
+      "pros": [
+        "Can push individuals to develop their weaker, socially-valued functions.",
+        "The external impression can be one of two very polite, well-mannered people."
+      ],
+      "cons": [
+        "Interaction is highly draining and feels unnatural.",
+        "Constant fear of being judged negatively by the partner."
+      ],
+      "peculiarities": [
+        "Communication is formal and guarded.",
+        "Both partners feel a strange sense of responsibility for the other, yet are unable to help effectively."
+      ],
+      "development_dynamics": [
+        "1. A sense of cautious intrigue and a desire to be seen as competent.",
+        "2. Strained and formal interaction, with both partners trying too hard.",
+        "3. Mutual exhaustion and a feeling of inadequacy.",
+        "4. A slow fade or mutual decision to keep distance.",
+        "5. A relationship of polite avoidance, maintained out of social necessity."
+      ]
+    },
+    "Conflict": {
+      "name_en": "Conflict",
+      "name_ru": "Конфликт",
+      "geometry": "Clashing Orthogonal Forms (e.g., Grid vs. Explosion). The greatest potential for misunderstanding and mutual psychological pressure.",
+      "pros": [
+        "Forces an individual to confront their absolute blind spot.",
+        "Can, in very mature individuals, lead to immense personal growth by understanding a completely alien perspective."
+      ],
+      "cons": [
+        "Extremely draining and stressful; communication is nearly impossible.",
+        "Each partner's greatest strength is perceived as a worthless and dangerous tool by the other."
+      ],
+      "peculiarities": [
+        "A sense of bewilderment; 'How can anyone think like that?'",
+        "Actions are consistently misinterpreted in the most negative way possible."
+      ],
+      "development_dynamics": [
+        "1. Initial curiosity quickly turns into misunderstanding and annoyance.",
+        "2. Attempts to communicate lead to escalating arguments and mutual accusations.",
+        "3. A 'cold war' of mutual disapproval and criticism from a distance.",
+        "4. Both partners feel psychologically damaged and exhausted by the interaction.",
+        "5. Total avoidance is recognized as the only viable strategy for peace."
+      ]
+    },
+    "Quasi-Identity": {
+      "name_en": "Quasi-Identity",
+      "name_ru": "Квазитождество",
+      "geometry": "Similar Shapes, Different Substance. Partners talk about the same topics but the underlying meaning and conclusions are completely different.",
+      "pros": [
+        "Can generate very unusual and creative ideas, as information is processed so differently.",
+        "The partner seems interesting and intelligent from a distance."
+      ],
+      "cons": [
+        "Leads to fruitless arguments where both partners feel the other is twisting their words.",
+        "Productive collaboration is impossible as there is no agreement on basic principles."
+      ],
+      "peculiarities": [
+        "A bizarre feeling of talking to a 'funhouse mirror' version of oneself.",
+        "Conversations can go on for hours with zero actual information transfer."
+      ],
+      "development_dynamics": [
+        "1. Initial perception of the partner as an interesting and original thinker.",
+        "2. Engaging in a conversation that feels profound but is strangely hard to follow.",
+        "3. Frustration as it becomes clear that no mutual understanding is being reached.",
+        "4. Both partners conclude the other is intelligent but hopelessly wrong-headed.",
+        "5. A relationship of distant, cautious intellectual curiosity."
+      ]
+    },
+    "Extinguishment": {
+      "name_en": "Extinguishment",
+      "name_ru": "Погашение",
+      "geometry": "Dampening Fields. The energy and core message of one person is unintentionally trivialized or 'extinguished' by the other.",
+      "pros": [
+        "Can be useful for calming down an overly excited or agitated person.",
+        "Provides a unique, de-emphasized perspective on one's core values."
+      ],
+      "cons": [
+        "The interaction is de-energizing and makes one feel unseen and unimportant.",
+        "Leads to a feeling of emptiness and self-doubt."
+      ],
+      "peculiarities": [
+        "One person's passionate speech is met with a calm, reasonable, but totally dismissive counter-argument.",
+        "The relationship is low-conflict but subtly undermining."
+      ],
+      "development_dynamics": [
+        "1. The partner seems intriguing and calm.",
+        "2. Attempts to share something important are met with a response that trivializes the issue.",
+        "3. A growing feeling of being invalidated and drained of energy.",
+        "4. One learns not to share anything of personal importance with the partner.",
+        "5. A neutral, unfulfilling relationship is maintained at a distance."
+      ]
+    },
+    "Benefactor": {
+      "name_en": "Benefactor -> Beneficiary",
+      "name_ru": "Заказчик -> Подзаказный",
+      "geometry": "One-Way Energy Flow (e.g., Funnel). The Benefactor provides guidance and support that the Beneficiary finds fascinating and valuable.",
+      "pros": [
+        "Beneficiary experiences rapid growth and learning.",
+        "Benefactor feels useful and admired, enjoying the role of a mentor."
+      ],
+      "cons": [
+        "Beneficiary can become overly dependent and feel perpetually 'one-down'.",
+        "Benefactor receives no psychological support in return and can feel drained over time."
+      ],
+      "peculiarities": [
+        "The relationship is asymmetrical; the Benefactor holds all the psychological power.",
+        "The Beneficiary is fascinated by the Benefactor, while the Benefactor sees the Beneficiary as a promising but incomplete student."
+      ],
+      "development_dynamics": [
+        "1. Beneficiary is immediately impressed and captivated by the Benefactor.",
+        "2. A period of intense mentorship and information transfer from Benefactor to Beneficiary.",
+        "3. Beneficiary starts to feel a need for more equal footing, which cannot be achieved.",
+        "4. Benefactor may grow tired of the unreciprocated admiration and seek out their own Benefactor.",
+        "5. A stable but unequal relationship, often maintained for its clear educational benefits."
+      ]
+    },
+    "Supervisor": {
+      "name_en": "Supervisor -> Supervisee",
+      "name_ru": "Ревизор -> Подревизный",
+      "geometry": "Magnifying Glass over a Flaw. The Supervisor naturally focuses on and points out the weaknesses of the Supervisee, causing discomfort.",
+      "pros": [
+        "The Supervisee is made acutely aware of their biggest weakness, which can force growth.",
+        "The Supervisor can provide very accurate (if painful) criticism."
+      ],
+      "cons": [
+        "Extremely stressful and confidence-destroying for the Supervisee.",
+        "The Supervisor feels constantly annoyed by the Supervisee's incompetence in one specific area."
+      ],
+      "peculiarities": [
+        "The Supervisee feels constantly on edge and defensive around the Supervisor.",
+        "The Supervisor often doesn't intend to be critical; their normal mode of expression simply highlights the Supervisee's weak spot."
+      ],
+      "development_dynamics": [
+        "1. Supervisee is initially impressed by the Supervisor's confidence and ability.",
+        "2. Interaction begins, and the Supervisee starts to feel exposed and criticized.",
+        "3. The Supervisee becomes defensive and tries to hide their weak function from the Supervisor.",
+        "4. The Supervisor becomes more critical, puzzled by the Supervisee's strange behavior.",
+        "5. The relationship is either terminated or maintained with a great deal of caution and distance, especially from the Supervisee."
+      ]
+    },
+    "Beneficiary": {
+      "name_en": "Beneficiary <- Benefactor",
+      "name_ru": "Подзаказный <- Заказчик",
+      "geometry": "One-Way Energy Flow (e.g., Funnel). The Benefactor provides guidance and support that the Beneficiary finds fascinating and valuable.",
+      "pros": [
+        "Beneficiary experiences rapid growth and learning.",
+        "Benefactor feels useful and admired, enjoying the role of a mentor."
+      ],
+      "cons": [
+        "Beneficiary can become overly dependent and feel perpetually 'one-down'.",
+        "Benefactor receives no psychological support in return and can feel drained over time."
+      ],
+      "peculiarities": [
+        "The relationship is asymmetrical; the Benefactor holds all the psychological power.",
+        "The Beneficiary is fascinated by the Benefactor, while the Benefactor sees the Beneficiary as a promising but incomplete student."
+      ],
+      "development_dynamics": [
+        "1. Beneficiary is immediately impressed and captivated by the Benefactor.",
+        "2. A period of intense mentorship and information transfer from Benefactor to Beneficiary.",
+        "3. Beneficiary starts to feel a need for more equal footing, which cannot be achieved.",
+        "4. Benefactor may grow tired of the unreciprocated admiration and seek out their own Benefactor.",
+        "5. A stable but unequal relationship, often maintained for its clear educational benefits."
+      ]
+    },
+    "Supervisee": {
+      "name_en": "Supervisee <- Supervisor",
+      "name_ru": "Подревизный <- Ревизор",
+      "geometry": "Magnifying Glass over a Flaw. The Supervisor naturally focuses on and points out the weaknesses of the Supervisee, causing discomfort.",
+      "pros": [
+        "The Supervisee is made acutely aware of their biggest weakness, which can force growth.",
+        "The Supervisor can provide very accurate (if painful) criticism."
+      ],
+      "cons": [
+        "Extremely stressful and confidence-destroying for the Supervisee.",
+        "The Supervisor feels constantly annoyed by the Supervisee's incompetence in one specific area."
+      ],
+      "peculiarities": [
+        "The Supervisee feels constantly on edge and defensive around the Supervisor.",
+        "The Supervisor often doesn't intend to be critical; their normal mode of expression simply highlights the Supervisee's weak spot."
+      ],
+      "development_dynamics": [
+        "1. Supervisee is initially impressed by the Supervisor's confidence and ability.",
+        "2. Interaction begins, and the Supervisee starts to feel exposed and criticized.",
+        "3. The Supervisee becomes defensive and tries to hide their weak function from the Supervisor.",
+        "4. The Supervisor becomes more critical, puzzled by the Supervisee's strange behavior.",
+        "5. The relationship is either terminated or maintained with a great deal of caution and distance, especially from the Supervisee."
+      ]
+    }
+  },
+  "type_relations_matrix": {
+    "ILE": {
+      "SEI": "Duality",
+      "ESE": "Activation",
+      "LII": "Mirror",
+      "ILE": "Identity",
+      "SLE": "Business",
+      "IEI": "Semi-Duality",
+      "EIE": "Kindred",
+      "LSI": "Mirage",
+      "SEE": "Super-Ego",
+      "ILI": "Extinguishment",
+      "LIE": "Quasi-Identity",
+      "ESI": "Conflict",
+      "IEE": "Beneficiary",
+      "SLI": "Supervisor",
+      "LSE": "Supervisee",
+      "EII": "Benefactor"
+    },
+    "SEI": {
+      "ILE": "Duality",
+      "LII": "Activation",
+      "ESE": "Mirror",
+      "SEI": "Identity",
+      "IEI": "Business",
+      "SLE": "Semi-Duality",
+      "LSI": "Kindred",
+      "EIE": "Mirage",
+      "ILI": "Super-Ego",
+      "SEE": "Extinguishment",
+      "ESI": "Quasi-Identity",
+      "LIE": "Conflict",
+      "SLI": "Beneficiary",
+      "IEE": "Supervisor",
+      "EII": "Supervisee",
+      "LSE": "Benefactor"
+    },
+    "ESE": {
+      "LII": "Duality",
+      "ILE": "Activation",
+      "SEI": "Mirror",
+      "ESE": "Identity",
+      "EIE": "Business",
+      "LSI": "Semi-Duality",
+      "SLE": "Kindred",
+      "IEI": "Mirage",
+      "ESI": "Super-Ego",
+      "LIE": "Extinguishment",
+      "SEE": "Quasi-Identity",
+      "ILI": "Conflict",
+      "EII": "Beneficiary",
+      "LSE": "Supervisor",
+      "SLI": "Supervisee",
+      "IEE": "Benefactor"
+    },
+    "LII": {
+      "ESE": "Duality",
+      "SEI": "Activation",
+      "ILE": "Mirror",
+      "LII": "Identity",
+      "LSI": "Business",
+      "EIE": "Semi-Duality",
+      "IEI": "Kindred",
+      "SLE": "Mirage",
+      "LIE": "Super-Ego",
+      "ESI": "Extinguishment",
+      "ILI": "Quasi-Identity",
+      "SEE": "Conflict",
+      "LSE": "Beneficiary",
+      "EII": "Supervisor",
+      "IEE": "Supervisee",
+      "SLI": "Benefactor"
+    },
+    "SLE": {
+      "IEI": "Duality",
+      "LSI": "Activation",
+      "EIE": "Mirror",
+      "SLE": "Identity",
+      "ILE": "Business",
+      "SEI": "Semi-Duality",
+      "ESE": "Kindred",
+      "LII": "Mirage",
+      "SLI": "Super-Ego",
+      "IEE": "Extinguishment",
+      "LSE": "Quasi-Identity",
+      "EII": "Conflict",
+      "SEE": "Beneficiary",
+      "ILI": "Supervisor",
+      "LIE": "Supervisee",
+      "ESI": "Benefactor"
+    },
+    "IEI": {
+      "SLE": "Duality",
+      "EIE": "Activation",
+      "LSI": "Mirror",
+      "IEI": "Identity",
+      "SEI": "Business",
+      "ILE": "Semi-Duality",
+      "LII": "Kindred",
+      "ESE": "Mirage",
+      "IEE": "Super-Ego",
+      "SLI": "Extinguishment",
+      "EII": "Quasi-Identity",
+      "LSE": "Conflict",
+      "ILI": "Beneficiary",
+      "SEE": "Supervisor",
+      "ESI": "Supervisee",
+      "LIE": "Benefactor"
+    },
+    "EIE": {
+      "LSI": "Duality",
+      "IEI": "Activation",
+      "SLE": "Mirror",
+      "EIE": "Identity",
+      "ESE": "Business",
+      "LII": "Semi-Duality",
+      "ILE": "Kindred",
+      "SEI": "Mirage",
+      "LSE": "Super-Ego",
+      "EII": "Extinguishment",
+      "SLI": "Quasi-Identity",
+      "IEE": "Conflict",
+      "ESI": "Beneficiary",
+      "LIE": "Supervisor",
+      "ILI": "Supervisee",
+      "SEE": "Benefactor"
+    },
+    "LSI": {
+      "EIE": "Duality",
+      "SLE": "Activation",
+      "IEI": "Mirror",
+      "LSI": "Identity",
+      "LII": "Business",
+      "ESE": "Semi-Duality",
+      "SEI": "Kindred",
+      "ILE": "Mirage",
+      "EII": "Super-Ego",
+      "LSE": "Extinguishment",
+      "IEE": "Quasi-Identity",
+      "SLI": "Conflict",
+      "LIE": "Beneficiary",
+      "ESI": "Supervisor",
+      "SEE": "Supervisee",
+      "ILI": "Benefactor"
+    },
+    "SEE": {
+      "ILI": "Duality",
+      "LIE": "Activation",
+      "ESI": "Mirror",
+      "SEE": "Identity",
+      "SLI": "Business",
+      "EII": "Semi-Duality",
+      "LSE": "Kindred",
+      "IEE": "Mirage",
+      "ILE": "Super-Ego",
+      "SEI": "Extinguishment",
+      "ESE": "Quasi-Identity",
+      "LII": "Conflict",
+      "SLE": "Benefactor",
+      "IEI": "Supervisee",
+      "EIE": "Supervisee",
+      "LSI": "Beneficiary"
+    },
+    "ILI": {
+      "SEE": "Duality",
+      "ESI": "Activation",
+      "LIE": "Mirror",
+      "ILI": "Identity",
+      "IEE": "Business",
+      "LSE": "Semi-Duality",
+      "EII": "Kindred",
+      "SLI": "Mirage",
+      "SEI": "Super-Ego",
+      "ILE": "Extinguishment",
+      "LII": "Quasi-Identity",
+      "ESE": "Conflict",
+      "IEI": "Benefactor",
+      "SLE": "Supervisee",
+      "LSI": "Supervisee",
+      "EIE": "Beneficiary"
+    },
+    "LIE": {
+      "ESI": "Duality",
+      "ILI": "Activation",
+      "SEE": "Mirror",
+      "LIE": "Identity",
+      "LSE": "Business",
+      "IEE": "Semi-Duality",
+      "SLI": "Kindred",
+      "EII": "Mirage",
+      "LII": "Super-Ego",
+      "ESE": "Extinguishment",
+      "ILE": "Quasi-Identity",
+      "SEI": "Conflict",
+      "LSI": "Benefactor",
+      "EIE": "Supervisee",
+      "IEI": "Supervisee",
+      "SLE": "Beneficiary"
+    },
+    "ESI": {
+      "LIE": "Duality",
+      "SEE": "Activation",
+      "ILI": "Mirror",
+      "ESI": "Identity",
+      "EII": "Business",
+      "SLI": "Semi-Duality",
+      "IEE": "Kindred",
+      "LSE": "Mirage",
+      "ESE": "Super-Ego",
+      "LII": "Extinguishment",
+      "SEI": "Quasi-Identity",
+      "ILE": "Conflict",
+      "EIE": "Benefactor",
+      "LSI": "Supervisee",
+      "SLE": "Supervisee",
+      "IEI": "Beneficiary"
+    },
+    "IEE": {
+      "SLI": "Duality",
+      "EII": "Activation",
+      "LSE": "Mirror",
+      "IEE": "Identity",
+      "ILI": "Business",
+      "LIE": "Semi-Duality",
+      "ESI": "Kindred",
+      "SEE": "Mirage",
+      "IEI": "Super-Ego",
+      "SLE": "Extinguishment",
+      "LSI": "Quasi-Identity",
+      "EIE": "Conflict",
+      "ILE": "Benefactor",
+      "SEI": "Supervisee",
+      "ESE": "Supervisee",
+      "LII": "Beneficiary"
+    },
+    "SLI": {
+      "IEE": "Duality",
+      "LSE": "Activation",
+      "EII": "Mirror",
+      "SLI": "Identity",
+      "SEE": "Business",
+      "ESI": "Semi-Duality",
+      "LIE": "Kindred",
+      "ILI": "Mirage",
+      "SLE": "Super-Ego",
+      "IEI": "Extinguishment",
+      "EIE": "Quasi-Identity",
+      "LSI": "Conflict",
+      "SEI": "Benefactor",
+      "ILE": "Supervisee",
+      "LII": "Supervisee",
+      "ESE": "Beneficiary"
+    },
+    "LSE": {
+      "EII": "Duality",
+      "SLI": "Activation",
+      "IEE": "Mirror",
+      "LSE": "Identity",
+      "LIE": "Business",
+      "ILI": "Semi-Duality",
+      "SEE": "Kindred",
+      "ESI": "Mirage",
+      "EIE": "Super-Ego",
+      "LSI": "Extinguishment",
+      "SLE": "Quasi-Identity",
+      "IEI": "Conflict",
+      "LII": "Benefactor",
+      "ESE": "Supervisee",
+      "SEI": "Supervisee",
+      "ILE": "Beneficiary"
+    },
+    "EII": {
+      "LSE": "Duality",
+      "IEE": "Activation",
+      "SLI": "Mirror",
+      "EII": "Identity",
+      "ESI": "Business",
+      "SEE": "Semi-Duality",
+      "ILI": "Kindred",
+      "LIE": "Mirage",
+      "LSI": "Super-Ego",
+      "EIE": "Extinguishment",
+      "IEI": "Quasi-Identity",
+      "SLE": "Conflict",
+      "ESE": "Benefactor",
+      "LII": "Supervisee",
+      "ILE": "Supervisee",
+      "SEI": "Beneficiary"
+    }
+  },
+  "subtype_elemental_relations": {
+    "description": "Subtypes add another layer of complexity. While the core socionic relation remains the same, the elemental interaction (based on subtype) colors the manifestation of the relationship. This is a speculative framework based on the user's examples.",
+    "Air_Earth_Interaction": {
+      "example": "ILE (Air) vs ESI (Earth) - A Conflict relation.",
+      "dynamics": "The abstract, theoretical, and ever-changing nature of Air clashes with the concrete, stable, and grounded reality of Earth. Air generates possibilities that Earth finds destabilizing. Earth insists on tangible proof and consistency, which Air finds restrictive. In a difficult relation like Conflict, this elemental clash amplifies the mutual misunderstanding. The Air type's theories feel like a dangerous delusion to the Earth type, while the Earth type's focus on sensory reality feels like primitive stubbornness to the Air type."
+    },
+    "Fire_Water_Interaction": {
+      "example": "ILE (Fire subtype) vs LSE (Water subtype) - A Supervision relation.",
+      "dynamics": "The passionate, expansive, and goal-driven energy of Fire meets the methodical, process-oriented, and flowing nature of Water. Fire seeks to conquer and transform, while Water seeks to establish and perfect a process. This can be a source of immense friction or synergy. Fire can see Water as slow and overly cautious, while Water can see Fire as reckless and destructive. In an asymmetrical relation like Supervision, the ILE's 'Fire' (a creatively ambitious subtype) constantly criticizes the LSE's 'Water' (a pragmatic, procedural subtype) for being too rigid and not seeing the grander vision, exacerbating the natural pressure of the relationship."
+    },
+    "Air_Fire_Interaction": {
+      "dynamics": "A highly energetic and dynamic combination. Air fans the flames of Fire, providing new ideas and possibilities for Fire's energy to pursue. This can lead to rapid expansion and innovation. However, it can also become scattered and lack grounding, burning out quickly without a clear, stable direction."
+    },
+    "Air_Water_Interaction": {
+      "dynamics": "A combination of intellect and process. Air can provide the overarching logical framework, while Water can create the practical, step-by-step system to implement it. However, Air can find Water's need for methodical progression to be too slow, while Water may perceive Air's abstract logic as disconnected from the real-world flow of events."
+    },
+    "Fire_Earth_Interaction": {
+      "dynamics": "A relationship of action and results. Fire provides the driving energy for new projects, while Earth provides the stability, resources, and perseverance to see them through to completion. The potential conflict lies in Fire's impatience clashing with Earth's deliberate pace. Fire wants to move now, while Earth wants to build on solid ground."
+    },
+    "Earth_Water_Interaction": {
+      "dynamics": "A very practical and stable combination. Both elements are pragmatic and focused on reality. Earth provides the solid foundation and structure, while Water creates the consistent, flowing processes within that structure. This pairing is excellent for creating stable, long-lasting systems, but may lack the innovative spark of Air or the ambitious drive of Fire."
+    }
+  }
+}

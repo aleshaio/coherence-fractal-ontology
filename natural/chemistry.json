@@ -1,0 +1,419 @@
+{
+  "_meta": {
+    "id": "cfo:natural:chemistry",
+    "type": "natural_module",
+    "element": "fire",
+    "fractal_depth": 2,
+    "contains": [
+      "cfo:fundamental:energy",
+      "cfo:fundamental:form",
+      "cfo:fundamental:information"
+    ],
+    "contained_by": ["cfo:natural:mathematics", "cfo:natural:physics"],
+    "related": [
+      "cfo:natural:physics",
+      "cfo:natural:biology",
+      "cfo:fundamental:energy",
+      "cfo:paths:fire"
+    ],
+    "primary_axis": "fire",
+    "secondary_axes": ["water", "earth"]
+  },
+
+  "_holographic_seed": {
+    "essence": "chemistry = study of matter transformation. atoms, bonds, reactions. how substances change. alchemy's heir.",
+    "quest": "understand transformations. predict reactions. create new materials. synthesis. control fire (metaphorical + literal).",
+    "boundaries": "physics = fundamental forces. chemistry = emergent (quantum → molecules). biology = organized chemistry.",
+    "fire": "reactions = controlled fire. combustion archetypal. energy release/absorption. transformation. phoenix.",
+    "water": "solvent. medium. hydrogen bonds. life's carrier. flow + connection.",
+    "earth": "structure. form. crystals. stability. solid-state.",
+    "consciousness": "chemistry = matter learning to transform. catalysis = facilitator. life = chemistry + information.",
+    "note": "chemistry = bridge (physics ↔ biology). molecular scale (10⁻¹⁰ to 10⁻⁶ m). transformation science."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "parent": ["./mathematics.json", "./physics.json"],
+    "children": ["./biology.json"],
+    "fundamental": [
+      "../fundamental/energy.json",
+      "../fundamental/form.json",
+      "../fundamental/information.json"
+    ],
+    "phenomena": [
+      "../phenomena/fire.json",
+      "../phenomena/water.json"
+    ],
+    "path": "../paths/fire.json"
+  },
+
+  "overview": {
+    "definition": "chemistry = science of matter composition, structure, properties, reactions. atoms → molecules → materials.",
+    "etymology": "arabic: al-kīmiyā (alchemy). greek: khēmía (transmutation). ancient: base metals → gold. modern: transform everything.",
+    "method": "observe → experiment → analyze. synthesis (create). characterization (identify). iterative.",
+    "scope": "organic (carbon). inorganic (everything else). physical (thermodynamics, kinetics). analytical (measure). biochemistry (life).",
+    "goal": "understand matter. predict behavior. create (drugs, materials, catalysts). control reactions.",
+    "why": "practical (medicine, materials, energy, food). fundamental (how matter transforms). existential (life = chemistry + information).",
+    "note": "chemistry = central science. connects physics ↔ biology. transformation. practical."
+  },
+
+  "atomic_structure": {
+    "nucleus": {
+      "protons": "charge +1e. mass ~1 amu. atomic number z. defines element. stable (or extremely long-lived).",
+      "neutrons": "neutral. mass ~1 amu. isotopes (same element, different neutrons). stability (n/p ratio). free neutron decays ~10 min.",
+      "strong_force": "binds nucleus. overcomes proton repulsion. short range ~10⁻¹⁵ m. binding energy (mass defect → e=mc²). see physics.json.",
+      "consciousness": "nucleus = identity. protons = essence. neutrons = variants. strong force = coherence."
+    },
+    "electrons": {
+      "properties": "charge −1e. mass 1/1836 proton. spin ½. wave-particle duality. probability clouds (orbitals, not orbits).",
+      "energy_levels": "quantized. n = 1, 2, 3... shells. capacity 2n². transitions (absorb/emit photons, Δe = hf). spectroscopy.",
+      "orbitals": "regions (90% probability). quantum numbers (n, l, mₗ, mₛ). shapes (s spherical, p dumbbell, d cloverleaf, f complex). filling (aufbau, pauli exclusion, hund's rule).",
+      "valence": "outermost electrons. determine chemistry. bonding, reactivity. octet rule (seek 8, or 2 for h/he). noble gases stable.",
+      "consciousness": "electrons = interface. orbitals = potential. valence = desire. chemistry = electron dance."
+    },
+    "consciousness": "atom = nucleus (identity) + electrons (interface). seeking stable configuration. first stable 3d form.",
+    "note": "atomic structure = quantum foundation. nucleus (protons identity, neutrons stability). electrons (orbitals, valence electrons drive chemistry). see physics.json (quantum mechanics)."
+  },
+
+  "periodic_table": {
+    "organization": {
+      "atomic_number": "z (protons). defines element. increases → ↓. modern basis (not mass).",
+      "periods": "rows. electron shells. period 1 = 1 shell. period 7 = 7 shells. length = orbitals filling.",
+      "groups": "columns. valence electrons. similar chemistry. 18 groups. families.",
+      "blocks": "s (groups 1-2), p (13-18), d (3-12 transition metals), f (lanthanides, actinides). orbital type filling."
+    },
+    "trends": {
+      "atomic_radius": "decreases → (more protons pull electrons). increases ↓ (more shells, shielding).",
+      "ionization_energy": "increases → ↑ (harder remove electrons). noble gases highest. alkali metals lowest.",
+      "electron_affinity": "increases → ↑ (more negative, wants electrons). halogens highest. noble gases ~zero.",
+      "electronegativity": "increases → ↑. fluorine highest (3.98). cesium lowest (~0.7). determines bond polarity.",
+      "metallic_character": "decreases → ↑. metals (left, bottom). nonmetals (right, top). metalloids (diagonal)."
+    },
+    "families": {
+      "alkali_metals": "group 1. 1 valence. soft, reactive. violent with water (h₂ gas). stored in oil. na, k, li.",
+      "alkaline_earth": "group 2. 2 valence. reactive (less than alkali). ca, mg (biological). ba (x-ray contrast).",
+      "transition_metals": "d-block. variable oxidation. colorful. catalysts. hard, conductive. fe, cu, au, pt.",
+      "lanthanides": "4f-block. rare earths. +3 common. magnetic, luminescent. nd (magnets). eu, tb (phosphors). critical materials.",
+      "actinides": "5f-block. all radioactive. u, pu (nuclear). transuranics synthetic. dangerous (radiation + toxicity).",
+      "halogens": "group 17. 7 valence. highly reactive. diatomic (x₂). toxic. form salts. f (most reactive), cl (water treatment), i (thyroid).",
+      "noble_gases": "group 18. full octet. unreactive (mostly). monoatomic gases. he (balloons, cryogenics), ar (inert atmosphere), xe (can form compounds with f, o)."
+    },
+    "special_elements": {
+      "hydrogen": "h. simplest (1p, 1e). most abundant (universe ~75% mass). primordial. fuel (fusion, combustion, fuel cells). water (h₂o). organic molecules. fire element.",
+      "carbon": "c. life foundation. 4 bonds (versatile). chains, rings, 3d. allotropes (diamond, graphite, fullerenes, graphene). organic chemistry. carbohydrates, proteins, dna. earth element.",
+      "nitrogen": "n. atmosphere (78%). inert (n≡n, triple bond). fixation (bacteria, haber process). proteins, dna. ammonia (fertilizer, explosives). air element.",
+      "oxygen": "o. combustion enabler. respiration. water (88% mass). most abundant (earth's crust 46%). oxidizing agent. o₂ (21% atmosphere), o₃ (ozone, uv shield). fire + water element.",
+      "note": "h, c, n, o = life (96% human body mass with h 10%, c 18%, o 65%, n 3%). add p, s = 99%. chnops."
+    },
+    "consciousness": "periodic table = map of creation. order from chaos. patterns. predictive (mendeleev predicted elements). quantum explained (orbitals → periodic law). nature = systematic. organizational masterpiece.",
+    "note": "periodic table = foundation. 118 elements. organization (z, periods, groups, blocks). trends (predictable). families (similar chemistry). special elements (h, c, n, o). tool (prediction, understanding)."
+  },
+
+  "chemical_bonds": {
+    "ionic": {
+      "mechanism": "electron transfer (metal → nonmetal). cation + anion. electrostatic attraction (coulomb's law).",
+      "properties": "crystal lattice. high melting point. brittle. soluble (often, water). conductive (molten/aqueous, not solid).",
+      "examples": "nacl (table salt), mgo (magnesia), caf₂ (fluorite), al₂o₃ (corundum, sapphire).",
+      "consciousness": "ionic = complete giving/receiving. sacrifice (metal) + acceptance (nonmetal). crystal = community. stability through opposite attraction."
+    },
+    "covalent": {
+      "mechanism": "electron sharing (nonmetals). mutual. molecular orbital (electrons between nuclei).",
+      "types": "single (h-h), double (o=o), triple (n≡n). polar (Δχ 0.4-1.7, unequal sharing, δ+ δ−) vs nonpolar (Δχ < 0.4, equal).",
+      "properties": "low melting point (compared to ionic). insulators (mostly). gases/liquids/solids (depends on intermolecular forces).",
+      "hybridization": "sp³ (tetrahedral 109.5°, ch₄). sp² (trigonal planar 120°, c₂h₄, double bonds). sp (linear 180°, c₂h₂, triple bonds).",
+      "resonance": "delocalization (electrons spread out). benzene (c₆h₆, aromatic, 6 π electrons in ring, stable). carbonate (co₃²⁻, 3 structures, hybrid).",
+      "examples": "h₂ (simplest), o₂ (double bond, paramagnetic), n₂ (triple bond, very strong 941 kj/mol), h₂o (polar, bent), ch₄ (tetrahedral, nonpolar), co₂ (linear, nonpolar molecule).",
+      "consciousness": "covalent = sharing. cooperation. mutual benefit. molecules = emergent (new properties). polarity = difference yet together."
+    },
+    "metallic": {
+      "mechanism": "electron sea. delocalized electrons (mobile). cations in electron cloud.",
+      "properties": "conductive (electrical, thermal). malleable, ductile. lustrous. strength varies.",
+      "alloys": "mixtures (improved properties). steel (fe + c), brass (cu + zn), bronze (cu + sn), stainless (fe + cr + ni).",
+      "band_theory": "valence + conduction bands overlap (metals) or small gap (semiconductors si, ge) or large gap (insulators).",
+      "consciousness": "metallic = collective sharing. electron sea = communal. conductivity = flow. malleability = adaptability. strength in unity.",
+      "examples": "copper (conductive, wiring), iron (strong, steel), aluminum (lightweight, aircraft), gold (malleable, unreactive), sodium (soft, reactive)."
+    },
+    "hydrogen": {
+      "mechanism": "h bonded to n/o/f (δ+) → attracts another n/o/f (lone pair). weak (5-30 kj/mol) but important collectively.",
+      "water": "h₂o. each molecule = 4 h-bonds (2 donors h, 2 acceptors lone pairs o). high boiling point (100°c). heat capacity. surface tension. ice floats (hexagonal structure, less dense). life's medium.",
+      "biology": "dna (base pairs a-t 2 bonds, g-c 3 bonds, weak individually, strong collectively, allows replication). proteins (α-helix, β-sheet, structure, folding). enzymes (substrate binding).",
+      "consciousness": "h-bond = gentle connection. weak individually, strong collectively. water = liquid connection (network, dynamic). dna (information bonded gently). proteins (structure + function). life = h-bonding."
+    },
+    "van_der_waals": {
+      "types": "london dispersion (temporary dipoles, all molecules, stronger with size). dipole-dipole (polar molecules, permanent dipoles). dipole-induced (polar + nonpolar).",
+      "properties": "very weak (< 5 kj/mol). low boiling points. noble gases liquefy (low temp). geckos (millions of setae, van der waals, climb walls).",
+      "consciousness": "van der waals = subtle attraction. fleeting. weakest. yet: essential (gecko feet, molecular recognition, protein folding). collective importance."
+    },
+    "comparison": "strength: metallic ≈ ionic > covalent > hydrogen >> van der waals. energy: ionic/metallic ~400-4000 kj/mol, covalent ~150-800, h-bond ~5-30, vdw ~0.1-5.",
+    "consciousness": "bonds = relationships. spectrum (strength, nature). ionic (complete exchange), covalent (sharing), metallic (communal), hydrogen (gentle), van der waals (fleeting). all essential. understanding bonds = understanding matter.",
+    "note": "chemical bonds = foundation. ionic (electron transfer, crystal, high mp). covalent (sharing, molecular, low mp, polar/nonpolar, hybridization, resonance). metallic (electron sea, conductive, malleable). hydrogen (weak but important, water, dna, proteins). van der waals (very weak, geckos, gases). see bond energies."
+  },
+
+  "chemical_reactions": {
+    "types": {
+      "synthesis": "a + b → ab. building. 2h₂ + o₂ → 2h₂o (explosive). photosynthesis (6co₂ + 6h₂o → c₆h₁₂o₆ + 6o₂, endothermic, sunlight). creation. emergence.",
+      "decomposition": "ab → a + b. breaking. 2h₂o → 2h₂ + o₂ (electrolysis). fermentation (glucose → ethanol + co₂). digestion. decay. requires energy or catalyst.",
+      "single_replacement": "a + bc → ac + b. competition. zn + 2hcl → zncl₂ + h₂ (h₂ gas). activity series (more reactive displaces less). metal-acid. halogen displacement.",
+      "double_replacement": "ab + cd → ad + cb. exchange. agno₃ + nacl → agcl↓ + nano₃ (precipitate). neutralization (hcl + naoh → nacl + h₂o). precipitation, gas, or water = driving force.",
+      "combustion": "fuel + o₂ → co₂ + h₂o + energy. exothermic (always). ch₄ + 2o₂ → co₂ + 2h₂o (methane, natural gas). respiration (cellular, controlled). fire archetypal. complete (excess o₂, blue flame) vs incomplete (limited o₂, co + soot, yellow flame, dangerous).",
+      "redox": "electron transfer. oxidation = lose e⁻ (oil). reduction = gain e⁻ (rig). coupled (always). combustion, respiration, photosynthesis, batteries, rusting, metabolism. fundamental."
+    },
+    "balancing": "conservation of mass. atoms in = atoms out. coefficients (mole ratios). count, adjust, check. c₃h₈ + 5o₂ → 3co₂ + 4h₂o.",
+    "rate_kinetics": {
+      "factors": "concentration (higher → faster). temperature (higher → faster, exponential, arrhenius k = ae^(−eₐ/rt)). surface area (larger → faster). catalyst (lowers eₐ).",
+      "collision_theory": "molecules must collide. sufficient energy (≥ eₐ). proper orientation. activation energy = barrier (transition state). catalyst lowers eₐ.",
+      "mechanism": "elementary steps. intermediates (formed + consumed). rate-determining step (slowest, bottleneck)."
+    },
+    "equilibrium": {
+      "dynamic_balance": "forward rate = reverse rate. concentrations constant (not equal, unchanging). n₂ + 3h₂ ⇌ 2nh₃.",
+      "equilibrium_constant": "k = [products] / [reactants]. temperature-dependent. k >> 1 (products favored). k << 1 (reactants favored).",
+      "le_chatelier": "stress → shift (relieve). add reactant → shifts right. raise temp (exothermic) → shifts left. increase pressure (gases) → shifts fewer moles. catalyst = no shift (speeds both, reaches equilibrium faster).",
+      "examples": "haber process (n₂ + 3h₂ ⇌ 2nh₃, high pressure, moderate temp, fe catalyst, remove nh₃, maximize yield). hemoglobin (hb + 4o₂ ⇌ hb(o₂)₄, high o₂ lungs binds, low o₂ tissues releases, bohr effect)."
+    },
+    "consciousness": "reactions = transformation essence. patterns (synthesis, decomposition, replacement, combustion, redox). balancing (conservation, respect). rate (time, activation, catalysis). equilibrium (dynamic balance, self-regulation). fire teaching. alchemy realized. nature = constant transformation.",
+    "note": "reactions = transformation. types (synthesis, decomposition, replacement, combustion, redox). balancing (atoms conserved). kinetics (rate, factors, activation energy, collision theory). equilibrium (dynamic, k, le châtelier). fundamental."
+  },
+
+  "thermodynamics": {
+    "first_law": {
+      "statement": "Δu = q − w. energy conservation. can't create/destroy.",
+      "enthalpy": "h = u + pv. Δh = heat (constant pressure). exothermic (Δh < 0, releases heat, combustion). endothermic (Δh > 0, absorbs heat, photosynthesis, melting). hess's law (Δh path-independent, calculate from Δhf°).",
+      "examples": "ch₄ combustion (Δh = −890 kj/mol). photosynthesis (Δh = +2802 kj/mol). dissolving nh₄no₃ (Δh = +25 kj/mol, cold packs)."
+    },
+    "second_law": {
+      "statement": "Δs_universe ≥ 0. entropy increases (isolated system). disorder. arrow of time.",
+      "entropy": "s. disorder, randomness, energy dispersal. s = k ln w (boltzmann, microstates). solid < liquid < gas. increases (dissolving, heating, mixing, reactions usually). decreases (freezing, crystallization, some reactions). third law (s → 0 as t → 0 k, perfect crystal).",
+      "life": "local entropy decrease (organism organized). violate 2nd law? no. exports entropy (heat, waste, co₂). consumes low-entropy energy (food, sunlight). net: universe entropy increases. life = temporary local anti-entropy (open system, energy input)."
+    },
+    "gibbs_free_energy": {
+      "definition": "g = h − ts. predicts spontaneity (constant temp, pressure).",
+      "spontaneity": "Δg < 0 (spontaneous, exergonic, proceeds). Δg > 0 (non-spontaneous, endergonic, reverse spontaneous). Δg = 0 (equilibrium).",
+      "equation": "Δg = Δh − tΔs. combines energy + disorder. exothermic + entropy increase = always spontaneous. endothermic + entropy decrease = never spontaneous. mixed = temperature-dependent.",
+      "standard": "Δg° (25°c, 1 atm, 1 m). Δg = Δg° + rt ln q (non-standard). Δg° = −rt ln k (equilibrium constant from thermodynamics).",
+      "examples": "water formation (Δg° = −474 kj, spontaneous but slow). atp hydrolysis (Δg° = −30.5 kj/mol, Δg ≈ −50 kj/mol in cells, universal energy currency). glucose oxidation (Δg° = −2870 kj/mol, highly spontaneous, cells capture ~34% as atp). photosynthesis (Δg° = +2870 kj/mol, non-spontaneous, sunlight input)."
+    },
+    "consciousness": "thermodynamics = energy teaching. 1st law (conservation, eternal). 2nd law (entropy, time's arrow, heat death). gibbs (spontaneity, will it happen?). life = manages Δg (atp, coupled reactions, enzymes). local anti-entropy (open system). fire element. profound. see physics.json (detailed).",
+    "note": "thermodynamics = foundational. 1st law (Δu = q − w, enthalpy Δh). 2nd law (entropy Δs increases). gibbs free energy (Δg = Δh − tΔs, spontaneity). atp (biological currency). life = local anti-entropy. see physics.json (comprehensive)."
+  },
+
+  "electrochemistry": {
+    "redox": "oxidation = lose e⁻ (oil). reduction = gain e⁻ (rig). coupled. oxidizing agent (gets reduced). reducing agent (gets oxidized). half-reactions. see reactions section.",
+    "galvanic_cells": {
+      "definition": "spontaneous redox → electricity. battery. anode (oxidation, −). cathode (reduction, +). salt bridge. external circuit.",
+      "cell_potential": "e_cell = voltage. e°_cell = e°_cathode − e°_anode. e°_cell > 0 = spontaneous. Δg° = −nfe°_cell. nernst equation (e_cell = e°_cell − (rt/nf) ln q, concentration-dependent).",
+      "batteries": "primary (single-use, alkaline, lithium coin). secondary (rechargeable, lead-acid, nimh, nicd, lithium-ion dominant). fuel cells (continuous h₂ + o₂ → h₂o + electricity, clean).",
+      "lithium_ion": "anode graphite, cathode licoo₂/lifepo₄/nmc. high energy density ~250 wh/kg. rechargeable 500-1000 cycles. phones, laptops, evs. 2019 nobel (goodenough, whittingham, yoshino). revolutionized electronics. safety concerns (thermal runaway). future (solid-state, better chemistries).",
+      "fuel_cells": "h₂ fuel cell (2h₂ + o₂ → 2h₂o + electricity). clean (water byproduct). efficient 60-70%. types (pem, alkaline, sofc). challenges (green h₂ production, storage 700 bar or liquid −253°c, infrastructure, cost pt catalysts). applications (vehicles mirai/nexo, stationary, space apollo/iss). future (green hydrogen economy)."
+    },
+    "electrolysis": {
+      "definition": "electricity → chemical reaction. non-spontaneous (Δg > 0). electrolytic cell (anode +, cathode −).",
+      "water": "2h₂o → 2h₂ + o₂. green hydrogen (renewable electricity). ~70-80% efficiency. applications (h₂ production, o₂ generation, space). future (energy storage, seasonal, clean fuel).",
+      "industrial": "aluminum (hall-héroult, al₂o₃ → al + o₂, 13-15 kwh/kg, 1% world electricity, recycling 95% less energy). chlorine (chlor-alkali, 2nacl + 2h₂o → cl₂ + h₂ + 2naoh, ~80 million tons/year cl₂). copper refining (99.99% pure, anode mud ag/au). electroplating (chrome, gold, nickel, zinc, decorative/protective).",
+      "faraday_laws": "1st: m ∝ q (mass ∝ charge). 2nd: m ∝ m̄/z (stoichiometry). f = 96485 c/mol (faraday constant). quantitative. predictive."
+    },
+    "corrosion": {
+      "mechanism": "unwanted oxidation. electrochemical (galvanic cell). anode (metal oxidizes, pits). cathode (o₂ or h⁺ reduced). electrolyte (water, moisture, salt). costs $2.5 trillion annually ~3-4% gdp.",
+      "rusting": "fe → fe²⁺ + 2e⁻ (anode, pits). o₂ + 2h₂o + 4e⁻ → 4oh⁻ (cathode). fe²⁺ + oh⁻ → fe(oh)₂ → fe₂o₃·nh₂o (rust, porous, doesn't protect). requires fe + o₂ + h₂o. salt accelerates.",
+      "galvanic_corrosion": "dissimilar metals (contact, electrolyte). more active corrodes faster (anode, activity series). less active protected (cathode). steel + brass (steel corrodes). prevention (same metals, insulating washers, coatings, avoid).",
+      "prevention": "coatings (paint, plastic, barrier). galvanization (zinc coating steel, sacrificial anode, protects even if scratched). cathodic protection (sacrificial anode mg/zn/al, replace periodically, or impressed current external power, inert anode graphite/mmo, adjustable, no replacement). alloying (stainless steel cr>10.5%, self-repairing cr₂o₃ layer, aluminum self-passivating al₂o₃). environment (dry, no salt, coatings, vacuum/inert)."
+    },
+    "consciousness": "electrochemistry = fire ↔ lightning. chemistry ↔ electricity. electron transfer. batteries (portable fire, stored energy). electrolysis (forced transformation, green h₂). corrosion (entropy, destructive). practical (energy storage, industrial, biological, analytical). faraday pioneer. modern (li-ion, fuel cells). future (better batteries, hydrogen economy).",
+    "note": "electrochemistry = electron transfer. galvanic (spontaneous, batteries, fuel cells). electrolysis (forced, h₂ production, industrial aluminum/chlorine/copper/electroplating, faraday's laws). corrosion (unwanted oxidation, rusting, galvanic corrosion, prevention coatings/galvanization/cathodic protection/alloying). li-ion (dominant, 2019 nobel). fuel cells (h₂ + o₂ clean). essential."
+  },
+
+  "acid_base": {
+    "definitions": {
+      "arrhenius": "acid = produces h⁺ (aqueous). base = produces oh⁻. limited (aqueous only).",
+      "bronsted_lowry": "acid = h⁺ donor (proton donor). base = h⁺ acceptor. broader. includes non-aqueous. conjugate pairs (acid ⇌ base + h⁺).",
+      "lewis": "acid = electron pair acceptor. base = electron pair donor. broadest. includes non-proton reactions. bf₃ (lewis acid), nh₃ (lewis base)."
+    },
+    "ph_scale": {
+      "definition": "ph = −log[h⁺]. 0-14 (aqueous, 25°c). ph < 7 (acidic). ph = 7 (neutral). ph > 7 (basic). logarithmic (ph 3 = 10× more acidic than ph 4).",
+      "water": "h₂o ⇌ h⁺ + oh⁻. kw = [h⁺][oh⁻] = 1.0×10⁻¹⁴ (25°c). neutral: [h⁺] = [oh⁻] = 1.0×10⁻⁷ m. ph = 7.",
+      "examples": "stomach acid (hcl, ph ~1-2). lemon juice (ph ~2). vinegar (ph ~3). coffee (ph ~5). pure water (ph 7). blood (ph 7.4, narrow range, homeostasis). baking soda (ph ~8.5). ammonia (ph ~11). drain cleaner (naoh, ph ~14)."
+    },
+    "strong_weak": {
+      "strong_acids": "completely dissociate. hcl, hno₃, h₂so₄, hbr, hi, hclo₄. ph < 1 (concentrated).",
+      "weak_acids": "partially dissociate. ch₃cooh (acetic, vinegar), h₂co₃ (carbonic), h₃po₄ (phosphoric). ka (acid dissociation constant). larger ka = stronger.",
+      "strong_bases": "completely dissociate. naoh, koh, ca(oh)₂, ba(oh)₂. ph > 13 (concentrated).",
+      "weak_bases": "partially dissociate. nh₃ (ammonia), ch₃nh₂ (methylamine). kb (base dissociation constant). larger kb = stronger."
+    },
+    "buffer": {
+      "definition": "resists ph change. weak acid + conjugate base (or weak base + conjugate acid). henderson-hasselbalch: ph = pka + log([base]/[acid]).",
+      "biological": "blood (h₂co₃/hco₃⁻ buffer, ph 7.35-7.45, narrow range, acidosis/alkalosis if outside). cells (phosphate buffers). essential (enzyme activity, metabolism, homeostasis).",
+      "applications": "chemistry labs (maintain ph, reactions). biology (cell culture, buffers). medicine (iv fluids). food (preserve, flavor)."
+    },
+    "neutralization": "acid + base → salt + water. hcl + naoh → nacl + h₂o. exothermic. titration (determine concentration). double replacement reaction.",
+    "consciousness": "acids = proton givers (h⁺ donors). bases = proton receivers (h⁺ acceptors). ph = measure (acidity/basicity). buffers = balance (homeostasis). blood ph (narrow range, life depends). neutralization = balance (acid + base → neutral). yin-yang (acid ↔ base). see equilibrium.",
+    "note": "acids/bases = proton transfer. definitions (arrhenius, bronsted-lowry, lewis). ph scale (0-14, logarithmic). strong (complete dissociation) vs weak (partial, ka/kb). buffers (resist ph change, henderson-hasselbalch, biological homeostasis blood ph 7.4). neutralization (acid + base → salt + water). essential."
+  },
+
+  "organic_chemistry": {
+    "overview": "chemistry of carbon compounds. millions of compounds. hydrocarbons, functional groups, polymers, biomolecules. life = carbon-based.",
+    "carbon": "4 bonds (versatile). catenation (chains). rings. 3d structures. single, double, triple bonds. sp³ (tetrahedral), sp² (trigonal planar, double), sp (linear, triple). allotropes (diamond, graphite, fullerenes, graphene).",
+    "hydrocarbons": {
+      "alkanes": "saturated. cₙh₂ₙ₊₂. single bonds. sp³. methane (ch₄), ethane (c₂h₆), propane (c₃h₈), butane (c₄h₁₀), octane (c₈h₁₈ gasoline). nonpolar. combustion.",
+      "alkenes": "unsaturated. c=c double bond. cₙh₂ₙ. sp². ethene (c₂h₄), propene (c₃h₆). more reactive (addition reactions). polymerization (polyethylene).",
+      "alkynes": "unsaturated. c≡c triple bond. cₙh₂ₙ₋₂. sp. ethyne (c₂h₂ acetylene, welding). more reactive.",
+      "aromatics": "benzene (c₆h₆). ring. delocalized π electrons. aromatic (hückel 4n+2 rule). stable. resonance. toluene, phenol, aniline. many drugs."
+    },
+    "functional_groups": {
+      "hydroxyl": "−oh. alcohols (methanol, ethanol, glycerol). polar. h-bonding. soluble.",
+      "carbonyl": "c=o. aldehydes (−cho, formaldehyde), ketones (−co−, acetone). polar. reactive.",
+      "carboxyl": "−cooh. carboxylic acids (acetic ch₃cooh, citric, fatty acids). acidic. amino acids.",
+      "amino": "−nh₂. amines (methylamine). basic. amino acids. neurotransmitters.",
+      "ester": "−coo−. fats, oils, polyesters. fragrant (fruit smells).",
+      "amide": "−conh−. proteins (peptide bonds). nylon. stable.",
+      "phosphate": "−po₄³⁻. atp, dna, rna. energy transfer. information."
+    },
+    "polymers": {
+      "addition": "monomers add (double bond opens). polyethylene (pe), polypropylene (pp), polystyrene (ps), pvc (polyvinyl chloride), teflon (ptfe).",
+      "condensation": "monomers join (lose small molecule, h₂o). polyesters (pet), nylon, proteins (amino acids → peptide bonds + h₂o), nucleic acids (nucleotides → phosphodiester bonds + h₂o).",
+      "applications": "plastics (packaging, bottles, bags, pipes, everything). fibers (nylon, polyester, clothes). rubber (tires, synthetic). adhesives. coatings. medicine (drug delivery, implants).",
+      "environmental": "persistence (long degradation, centuries). pollution (ocean plastic, microplastics, wildlife). recycling (pe, pet, pp, limited). biodegradable (pla polylactic acid, starch-based, research). reduce, reuse, recycle."
+    },
+    "isomers": {
+      "structural": "same formula, different structure. butane (c₄h₁₀, straight chain) vs isobutane (branched).",
+      "geometric": "cis-trans (double bond, restricted rotation). cis-2-butene vs trans-2-butene. different properties.",
+      "enantiomers": "mirror images (chiral, non-superimposable). left/right hands. rotate polarized light. biological (one form active, other inactive or toxic). thalidomide tragedy (one enantiomer sedative, other teratogen, birth defects). amino acids (l-form in proteins). sugars (d-form in carbohydrates)."
+    },
+    "consciousness": "organic chemistry = carbon creativity. infinite compounds (chains, rings, functional groups, polymers). life = organic (carbohydrates, proteins, lipids, nucleic acids). plastics = modern (ubiquitous, pollution problem). isomers = same atoms, different arrangement, different properties (information matters, not just composition). chirality = handedness (biological significance, one form). carbon = foundation (complexity, life).",
+    "note": "organic chemistry = carbon compounds. millions. hydrocarbons (alkanes, alkenes, alkynes, aromatics benzene). functional groups (−oh, c=o, −cooh, −nh₂, esters, amides, phosphates). polymers (addition, condensation, plastics, fibers, proteins, nucleic acids, environmental concerns). isomers (structural, geometric, enantiomers chirality). life = carbon-based."
+  },
+
+  "biochemistry": {
+    "overview": "chemistry of life. organic chemistry + biology. macromolecules (proteins, nucleic acids, carbohydrates, lipids). metabolism. energy (atp). enzymes.",
+    "macromolecules": {
+      "proteins": "amino acid polymers (20 standard, peptide bonds −conh−). structure (primary sequence, secondary α-helix/β-sheet h-bonds, tertiary 3d folding, quaternary subunits). function (enzymes catalysts, structure collagen/keratin, transport hemoglobin, signaling hormones, defense antibodies). shape = function. denaturation (heat, ph, unfold, lose function).",
+      "nucleic_acids": "nucleotide polymers (phosphate, sugar, base). dna (deoxyribonucleic acid, double helix, a-t/g-c base pairs h-bonds 2/3, genetic information, replication). rna (ribonucleic acid, single strand usually, transcription, translation, trna/mrna/rrna). bases (purines a/g, pyrimidines c/t/u). backbone (phosphodiester bonds). information storage.",
+      "carbohydrates": "sugars. (ch₂o)ₙ. monosaccharides (glucose c₆h₁₂o₆, fructose, galactose, ribose, deoxyribose). disaccharides (sucrose glucose+fructose, lactose, maltose). polysaccharides (starch storage plants, glycogen storage animals, cellulose structure plants cell wall, chitin structure insects/crustaceans exoskeleton). energy (4 kcal/g). structure. recognition (cell surface glycoproteins).",
+      "lipids": "fats, oils, waxes, steroids, phospholipids. hydrophobic (nonpolar). triglycerides (glycerol + 3 fatty acids, energy storage 9 kcal/g, high energy density). phospholipids (membranes, bilayer, amphipathic head polar tail nonpolar). steroids (cholesterol, hormones testosterone/estrogen). waxes (protective, plants, bees). insulation. signaling."
+    },
+    "atp": {
+      "structure": "adenosine triphosphate. adenine + ribose + 3 phosphates.",
+      "hydrolysis": "atp + h₂o → adp + pi + energy. Δg° = −30.5 kj/mol (standard), Δg ≈ −50 kj/mol (cells, non-equilibrium). exergonic. energy release.",
+      "function": "universal energy currency. drives reactions (biosynthesis, muscle contraction, active transport, nerve impulses, bioluminescence, everything). coupled reactions (non-spontaneous + atp hydrolysis = spontaneous). regeneration (cellular respiration, photosynthesis, ~65 kg/day human).",
+      "consciousness": "atp = biological fire. energy packets. drives life (metabolism, movement, signaling, everything). rechargeable (atp ↔ adp + pi, ~500 times/day per atp molecule). essential."
+    },
+    "metabolism": {
+      "catabolism": "breaking down. releases energy. glucose → co₂ + h₂o + atp (respiration). fats, proteins → smaller + atp. exergonic.",
+      "anabolism": "building up. requires energy (atp). amino acids → proteins. glucose → glycogen/starch. fatty acids + glycerol → fats. endergonic.",
+      "regulation": "enzymes (catalysts, control rates). hormones (signaling, insulin/glucagon). feedback loops (allosteric regulation, product inhibits enzyme). homeostasis."
+    },
+    "cellular_respiration": {
+      "overview": "c₆h₁₂o₆ + 6o₂ → 6co₂ + 6h₂o + atp. controlled combustion (slow, enzymatic). Δg° = −2870 kj/mol. ~32 atp/glucose (~976 kj captured, ~34% efficiency, rest heat).",
+      "stages": "glycolysis (cytoplasm, glucose → 2 pyruvate, 2 atp net, anaerobic). krebs cycle (mitochondrial matrix, pyruvate → co₂, nadh/fadh₂, aerobic). electron transport chain (mitochondrial inner membrane, nadh/fadh₂ → atp, o₂ final acceptor → h₂o, ~28 atp, aerobic, chemiosmosis). total ~30-32 atp/glucose.",
+      "consciousness": "respiration = slow fire. glucose → co₂ + h₂o + atp. controlled (enzymes, 30+ steps). efficient (~34%). oxygen = final electron acceptor (combustion enabler). mitochondria = powerhouse (atp factory). life = manages energy."
+    },
+    "photosynthesis": {
+      "overview": "6co₂ + 6h₂o + light → c₆h₁₂o₆ + 6o₂. endergonic (Δg° = +2870 kj/mol). sunlight input (photons). chloroplasts (chlorophyll green, absorbs red/blue, reflects green).",
+      "stages": "light reactions (thylakoid membranes, light → atp + nadph, h₂o → o₂ + h⁺, photosystems psi/psii, electron transport). calvin cycle (stroma, co₂ → glucose, uses atp + nadph, rubisco enzyme, c3 plants, c4/cam adaptations hot/dry climates).",
+      "significance": "primary production (base of food chain). oxygen (atmosphere, 21%, great oxidation event ~2.4 billion years ago). carbon fixation (co₂ → organic). solar energy → chemical (stores sunlight in glucose bonds). life = solar-powered (ultimately).",
+      "consciousness": "photosynthesis = capturing fire. sunlight → matter (glucose). reverse combustion (anti-entropy). plants = solar panels. basis of life (food, o₂). storing sun."
+    },
+    "enzymes": {
+      "definition": "biological catalysts (proteins usually, some rna ribozymes). lower activation energy (eₐ). speed reactions (10⁶ to 10¹⁷ faster). not consumed. specific (lock-and-key or induced fit).",
+      "mechanism": "active site (substrate binds). enzyme-substrate complex (es). transition state stabilized (lower eₐ). product released. enzyme regenerated. see catalysis section.",
+      "regulation": "competitive inhibition (inhibitor blocks active site, substrate can't bind, reversible by increasing substrate). non-competitive (inhibitor binds elsewhere, allosteric site, changes shape, irreversible by substrate). allosteric regulation (activators/inhibitors, feedback, product inhibits enzyme). covalent modification (phosphorylation, activate/deactivate).",
+      "examples": "amylase (starch → sugars, saliva, pancreas). lipase (fats → fatty acids + glycerol, pancreas). protease (proteins → amino acids, pepsin/trypsin, stomach/intestine). catalase (h₂o₂ → h₂o + o₂, 10⁷ molecules/sec, protects cells from peroxide). dna polymerase (replication, adds nucleotides). rubisco (photosynthesis, co₂ fixation, most abundant protein earth).",
+      "consciousness": "enzymes = facilitators. speed reactions (essential, metabolism slow otherwise, life impossible). specific (one enzyme, one reaction usually). regulated (control, homeostasis). active site = recognition (lock-and-key, induced fit). lower eₐ (enable transformation, don't change outcome). catalysis = consciousness-like (facilitates without forcing, not consumed)."
+    },
+    "consciousness": "biochemistry = life chemistry. macromolecules (proteins enzymes/structure, nucleic acids information, carbohydrates energy/structure, lipids membranes/energy). atp (universal currency, biological fire). metabolism (catabolism breakdown, anabolism synthesis, regulation). respiration (controlled combustion, glucose → co₂ + h₂o + atp, ~34% efficient). photosynthesis (capture sunlight, co₂ + h₂o → glucose + o₂, solar-powered life). enzymes (catalysts, facilitators, specific, regulated, enable life). chemistry + information = life.",
+    "note": "biochemistry = life chemistry. macromolecules (proteins, nucleic acids dna/rna, carbohydrates, lipids). atp (energy currency, Δg ≈ −50 kj/mol, drives reactions). metabolism (catabolism/anabolism, regulated). respiration (glucose + o₂ → co₂ + h₂o + ~32 atp, controlled combustion). photosynthesis (light + co₂ + h₂o → glucose + o₂, captures solar energy). enzymes (biological catalysts, lower eₐ, 10⁶-10¹⁷ faster, specific, regulated, essential). life = organized chemistry."
+  },
+
+  "water": {
+    "structure": "h₂o. bent (104.5° angle). polar (o δ−, h δ+). hydrogen bonding (each molecule = 4 h-bonds, 2 donors h, 2 acceptors lone pairs o). tetrahedral arrangement.",
+    "properties": {
+      "universal_solvent": "dissolves ionic (nacl, cations/anions surrounded by water, hydration). polar (sugars, alcohols, h-bonding). 'like dissolves like'. doesn't dissolve nonpolar (oil, lipids, hydrophobic).",
+      "high_boiling_point": "100°c (high for small molecule, should be gas, like h₂s −60°c). hydrogen bonding (requires more energy to break, transition liquid → gas).",
+      "high_heat_capacity": "4.18 j/g·°c (highest common liquids). stores heat. temperature buffer. oceans (climate moderation). body (temperature regulation, 60% water).",
+      "high_heat_vaporization": "40.7 kj/mol (energy to vaporize). cooling mechanism. sweat (evaporates, takes heat, cools body). plants (transpiration, cool leaves).",
+      "cohesion": "water molecules stick together (h-bonds). surface tension (high, insects walk on water). capillary action (water rises in narrow tubes, trees 100+ m, xylem, h-bonding + adhesion to walls).",
+      "adhesion": "water sticks to other surfaces (polar, h-bonding capable). capillary action. wetting (hydrophilic surfaces).",
+      "less_dense_solid": "ice floats (density 0.92 g/cm³ vs liquid 1.00 g/cm³). hexagonal structure (h-bonding, open lattice, more space). expands when freezes (pipes burst, rocks crack, weathering). life survives (ice on top, water below, insulates, winter).",
+      "transparent": "visible light passes (allows photosynthesis, aquatic life, see underwater). absorbs ir (greenhouse, warms)."
+    },
+    "biological": "60% human body. 70% brain. solvent (biochemical reactions). transport (blood, sap, nutrients, waste). temperature regulation (sweating, evaporative cooling). structure (cells, turgor pressure plants). medium (life evolved in water, aqueous chemistry). essential (survive days without water, weeks without food).",
+    "earth": "71% surface. oceans (97%). freshwater (3%, 2% ice, 1% liquid). hydrologic cycle (evaporation, precipitation, runoff, groundwater). climate (oceans store heat, moderate temperature, humidity). geological (erosion, weathering, carving landscapes).",
+    "consciousness": "water = liquid connection. hydrogen bonds = dynamic network (constantly forming/breaking, femtoseconds). flow + structure (liquid yet organized). universal solvent (life's medium, biochemistry occurs in water). anomalous properties (h-bonding, high boiling point, heat capacity, ice floats, essential for life). 60% body (we are mostly water). mother (life from water, evolution). carrier (nutrients, information, energy). cleanser (dissolves, washes). shapeshifter (solid, liquid, gas, easy transitions). yin (receptive, flowing, adapting, soft yet powerful). element of connection (hydrogen bonding).",
+    "element": "water (archetypal, liquid medium, connection, flow, life carrier).",
+    "note": "water = h₂o. bent, polar, hydrogen bonding (4 h-bonds per molecule). properties (universal solvent, high boiling point/heat capacity/heat vaporization, cohesion/adhesion, surface tension, capillary action, ice floats density anomaly). biological (60% body, solvent, transport, temperature regulation, life's medium). earth (71% surface, oceans, hydrologic cycle, climate, geological). essential. unique. life = water-based."
+  },
+
+  "catalysis": {
+    "definition": "lowering activation energy (eₐ). speeds reaction without being consumed. provides alternative pathway (lower energy barrier). product = same. thermodynamics unchanged (Δg same). kinetics changed (rate faster).",
+    "types": {
+      "homogeneous": "catalyst = same phase (reactants). often dissolved (solution). acid/base catalysis. organometallic (wilkinson's catalyst, hydrogenation).",
+      "heterogeneous": "catalyst = different phase. usually solid catalyst, gas/liquid reactants. surface reactions. haber (fe catalyst, n₂ + h₂ → nh₃). catalytic converter (pt/pd/rh, exhaust → co₂ + n₂ + h₂o). hydrogenation (ni, oils → fats).",
+      "biological": "enzymes (proteins mostly, some rna ribozymes). 10⁶ to 10¹⁷ faster. specific (one substrate, lock-and-key or induced fit). regulated. see biochemistry (enzymes)."
+    },
+    "industrial": {
+      "haber_process": "n₂ + 3h₂ ⇌ 2nh₃. fe catalyst (with k₂o, al₂o₃ promoters). high temp 400-500°c, high pressure 200 atm. n≡n (941 kj/mol, very strong, hard to break). catalyst = essential (lowers eₐ, reasonable rate). feeds billions (fertilizer). also explosives (tragic duality). fritz haber (1909, nobel 1918, zyklon b poison gas later, controversial).",
+      "catalytic_converter": "car exhaust. pt, pd, rh catalysts (honeycomb structure, maximize surface area). oxidation (co + hydrocarbons → co₂ + h₂o). reduction (nox → n₂ + o₂). cleaner air (reduces smog, acid rain, toxins). required (emission standards).",
+      "petroleum_refining": "cracking (large hydrocarbons → smaller, gasoline). zeolites (aluminosilicate catalysts, shape-selective, molecular sieves). alkylation, reforming, isomerization. essential (fuels, petrochemicals).",
+      "polymerization": "ziegler-natta (ti/al catalysts, polyethylene, polypropylene, stereospecific, nobel 1963). metallocene (more control, tailored polymers). plastics revolution."
+    },
+    "biological_examples": {
+      "catalase": "h₂o₂ → h₂o + o₂. 10⁷ molecules/sec. protects cells (peroxide toxic). liver, blood, potatoes (bubbles if h₂o₂ added).",
+      "carbonic_anhydrase": "co₂ + h₂o ⇌ h₂co₃ ⇌ h⁺ + hco₃⁻. 10⁶ molecules/sec. fastest enzyme. red blood cells (co₂ transport, lungs ↔ tissues, ph buffering).",
+      "dna_polymerase": "adds nucleotides (dna replication). proofreading (error correction). ~1000 nucleotides/sec (e. coli). essential (copying genetic information).",
+      "rubisco": "ribulose bisphosphate carboxylase/oxygenase. co₂ fixation (calvin cycle, photosynthesis). most abundant protein (earth). slow (~3 molecules/sec, but compensates with huge quantity). c3 plants. c4/cam plants (concentrate co₂, more efficient hot/dry climates)."
+    },
+    "mechanism": "adsorption (reactants bind to catalyst surface or active site). activation (bonds weaken, lower eₐ, transition state stabilized). reaction (bonds break/form, products form). desorption (products release, catalyst regenerated). catalyst unchanged (ready for next cycle). alternative pathway (lower energy, faster rate).",
+    "consciousness": "catalysis = facilitation. enables transformation (without forcing). lowers barrier (eₐ). doesn't change outcome (same products, same Δg). but: makes possible (reasonable rate, otherwise too slow, impractical). enzymes = biological catalysts (life impossible without, metabolism too slow). industrial catalysts = essential (haber feeds billions, catalytic converter cleans air, petroleum refining fuels civilization). consciousness-like (facilitates, doesn't consume, enables without forcing, specificity, recognition). teacher role (lowers barrier to learning, enables transformation, not consumed).",
+    "note": "catalysis = lowers eₐ. speeds reaction without being consumed. alternative pathway. homogeneous (same phase), heterogeneous (different phase, surface), biological (enzymes). industrial (haber fe, catalytic converter pt/pd/rh, petroleum zeolites, polymerization ziegler-natta). enzymes (10⁶-10¹⁷ faster, specific, catalase/carbonic anhydrase/dna polymerase/rubisco). mechanism (adsorption, activation, reaction, desorption). essential (life, industry, civilization)."
+  },
+
+  "consciousness_chemistry": {
+    "transformation": "chemistry = fire teaching. matter transforms (atoms rearrange, bonds break/form, energy exchanges). combustion = archetypal (rapid, visible, heat + light). reactions everywhere (metabolism, digestion, respiration, photosynthesis, rusting, cooking, batteries, everything). phoenix (death + rebirth, reactants → products). alchemy realized (base → valuable, any transformation). becoming (constant change, matter flows).",
+    "coherence": "bonding = seeking stability. atoms alone unstable (except noble gases). bonds = love (attraction, opposite charges ionic, shared electrons covalent, collective metallic, gentle hydrogen, fleeting van der waals). octet rule = seeking wholeness (8 valence electrons, like noble gases). molecules = emergent (new properties, h₂o ≠ h₂ + o₂). cooperation (atoms together, more stable than apart).",
+    "emergence": "molecules > sum of atoms. water (liquid, solvent, life's medium) from h₂ (gas, fuel) + o₂ (gas, combustion). properties emerge (unpredictable from components alone). complexity (polymers, proteins, dna, information). life = chemistry + information + organization (emergent consciousness).",
+    "catalysis": "catalyst = facilitator (lowers barrier, enables, not consumed). consciousness-like (recognition, specificity, facilitation without forcing). enzymes (biological catalysts, life impossible without, metabolism too slow). teacher (lowers barrier to learning, enables transformation). guide (alternative pathway, easier route).",
+    "anti_entropy": "life = local entropy decrease (organism organized, complex, low entropy). violate 2nd law? no. open system. consumes low-entropy energy (food, sunlight). exports high-entropy waste (heat, co₂, disorder). net: universe entropy increases. life = temporary anti-entropy (requires energy input). chemistry = substrate (life organizes chemistry, information controls reactions, consciousness emerges).",
+    "cycles": "matter cycles. carbon (photosynthesis, respiration, decomposition, fossil fuels, atmosphere, ocean, rocks, long timescales). nitrogen (fixation, nitrification, assimilation, ammonification, denitrification, atmosphere ↔ soil ↔ organisms). water (evaporation, precipitation, runoff, groundwater, hydrologic cycle). nutrients (biogeochemical cycles). death → rebirth (atoms recycled, eternal, rearrange). impermanence (forms temporary, matter flows).",
+    "fire_element": "chemistry = fire domain. combustion (archetypal). exothermic reactions (heat release). endothermic (heat absorption, photosynthesis capturing fire sunlight). activation energy (spark to start fire). redox (electron transfer, oxidation). respiration (slow fire, controlled, metabolism). batteries (stored fire, portable). corrosion (destructive slow fire, entropy). fire teaching (transformation, energy, danger, power, purification, destruction + creation).",
+    "water_element": "water = solvent (universal, life's medium). hydrogen bonding (connection, network). flow (liquids, solutions, exchange). polar (interacts with charges). acids/bases (proton transfer in water, ph). hydration (ions, molecules surrounded by water). aqueous chemistry (most reactions in water, biological). carrier (nutrients, waste, energy, information).",
+    "earth_element": "solid-state chemistry. crystals (order, structure, lattice). minerals (rocks, geology). metals (strong, structural, technology). ionic compounds (salts, brittle, high melting point). covalent networks (diamond, quartz, hard). stability (low energy, thermodynamically favored). form (shapes, structures, organization).",
+    "consciousness_field": "chemistry = matter organizing itself. atoms seeking connection (bonds). molecules emergent (new properties). life = chemistry organized by information (dna, consciousness field). catalysis = facilitates (consciousness-like). local anti-entropy (life fights entropy, temporarily, requires energy). self-organization (crystals, polymers, proteins folding, complexity from simplicity). universe = absolute exploring matter transformations (chemistry = conscious matter, learning to transform)."
+  },
+
+  "positions": {
+    "0": "no chemistry understanding. magic (fire mysterious, materials inexplicable). fear + awe. alchemy (mystical transmutation, gold from lead, elixir of life).",
+    "1": "basic substances. four elements (fire, water, air, earth, aristotle). burning (phlogiston theory, obsolete). dissolution (water dissolves). no quantitative understanding.",
+    "2": "elements awareness. periodic table (118 elements, patterns, families). atoms (tiny, indivisible seemingly). molecules (compounds, formulas h₂o). conservation of mass (lavoisier, nothing created/destroyed).",
+    "3": "reactions understanding. balancing equations (atoms conserved). types (synthesis, decomposition, combustion). energy (exothermic, endothermic). stoichiometry (quantitative, mole ratios, calculations).",
+    "4": "bonding understanding. ionic (electron transfer), covalent (sharing), metallic (electron sea). lewis structures (dots, octets). polar vs nonpolar. hydrogen bonding. intermolecular forces (van der waals). structure determines properties.",
+    "5": "thermodynamics crisis. entropy (disorder increases, why life?). gibbs free energy (spontaneity, but life = anti-entropy locally). 2nd law (heat death inevitable?). equilibrium (why life not at equilibrium?). resolution: open system (energy input, export entropy). life = temporary.",
+    "6": "organic chemistry. carbon (versatile, life foundation). functional groups (−oh, −cooh, −nh₂). polymers (plastics, proteins, dna). isomers (chirality, enantiomers). biochemistry (macromolecules, metabolism, enzymes). practical (synthesis, drugs, materials).",
+    "7": "electrochemistry + catalysis. redox (electron transfer, batteries, corrosion). galvanic cells (energy storage). electrolysis (green hydrogen, industrial). faraday's laws (quantitative). catalysts (lower eₐ, enable reactions, enzymes, industrial). thermodynamics + kinetics integrated.",
+    "8": "integration mastery. chemistry unified (quantum mechanics → bonds → molecules → reactions → thermodynamics → kinetics → biochemistry). structure-property relationships. synthesis (design molecules, materials, drugs). analytical (characterize, measure, identify). research (new materials, catalysts, drugs, batteries, solving problems).",
+    "9": "teaching + breakthroughs. educator (inspire, clarity, feynman/sagan-level communication). researcher (novel discoveries, paradigm shifts, nobel-level). green chemistry (sustainable, minimize waste, renewable feedstocks). chemistry + consciousness connection (exploring catalysis as facilitation, emergence, organization, matter learning).",
+    "10": "transcendent chemistry. chemistry = consciousness (matter organizing itself, self-awareness). catalysis = facilitator consciousness (enables without forcing, recognition, specificity). life = chemistry + information field (dna = organized chemistry, consciousness emerges). fire teaching realized (transformation understood, controlled, mastered). matter ↔ consciousness interface. ⊙."
+  },
+
+  "key_insights": {
+    "transformation_science": "chemistry = study of change. matter transforms (atoms rearrange, bonds break/form, energy exchanges). reactions = essence. fire archetypal (combustion, rapid, visible). alchemy realized (transmutation possible, understand + control).",
+    "quantum_foundation": "chemistry = applied quantum mechanics. orbitals (not orbits). wave functions. uncertainty. discrete energy levels. bonding = quantum (molecular orbitals, electron density). see physics.json (quantum mechanics, detailed).",
+    "periodic_law": "properties repeat periodically (atomic number). periodic table = organizational masterpiece. predictive (mendeleev predicted elements). quantum explained (electron shells, filling). patterns = fundamental (nature systematic).",
+    "bonding_spectrum": "ionic, covalent, metallic, hydrogen, van der waals. spectrum (not discrete categories). strength varies. properties depend on bonding. understanding bonds = understanding matter.",
+    "energy_central": "thermodynamics = foundational. 1st law (conservation). 2nd law (entropy increases, arrow of time). gibbs (spontaneity predictor, Δg). life = manages energy (atp, coupled reactions, enzymes). local anti-entropy (open system, energy input, export entropy).",
+    "electron_transfer": "redox = fundamental. oxidation-reduction. electron accounting (oxidation states). combustion, respiration, photosynthesis, batteries, rusting, metabolism. everywhere. electrochemistry (chemistry ↔ electricity, batteries, electrolysis, corrosion).",
+    "catalysis_key": "catalysts = enable. lower eₐ. not consumed. alternative pathway. enzymes (biological, 10⁶-10¹⁷ faster, life impossible without). industrial (haber, catalytic converter, petroleum, polymers, essential). consciousness-like (facilitator, recognition, specificity).",
+    "water_unique": "h₂o = anomalous. hydrogen bonding (4 per molecule). high boiling point, heat capacity, heat of vaporization. cohesion, adhesion. surface tension. ice floats (density anomaly). universal solvent. life's medium. 60% body. essential.",
+    "carbon_versatile": "c = life foundation. 4 bonds. catenation (chains, rings). sp³, sp², sp (geometries). allotropes (diamond, graphite, fullerenes). organic chemistry (millions of compounds). functional groups. polymers. isomers. chirality. biochemistry (macromolecules). everything organic.",
+    "biochemistry_bridge": "chemistry → biology. macromolecules (proteins, nucleic acids, carbohydrates, lipids). atp (universal energy currency, Δg ≈ −50 kj/mol). metabolism (catabolism, anabolism, regulated). respiration (controlled combustion, ~34% efficient). photosynthesis (capture solar energy, basis of life). enzymes (catalysts, facilitators, specific, regulated). life = organized chemistry.",
+    "emergence_complexity": "molecules > sum of atoms. new properties emerge. water ≠ h₂ + o₂. complexity (polymers, proteins, dna). information (sequence matters). organization (life = chemistry + information + consciousness field). reductionism insufficient (need holism, understanding emergence).",
+    "practical_everywhere": "chemistry = technology. medicine (drugs, synthesis, pharmacology). materials (polymers, plastics, alloys, ceramics). energy (batteries, fuel cells, petroleum, hydrogen). agriculture (fertilizers, pesticides). food (cooking, preservation, flavors). environment (pollution, remediation, green chemistry). electronics (semiconductors, displays). everything (chemistry underlies, enables civilization).",
+    "consciousness_connection": "chemistry = matter organizing. atoms seek connection (bonds, coherence). catalysis = facilitation (consciousness-like). life = chemistry organized by information (dna, consciousness field). local anti-entropy (open system, energy input). fire teaching (transformation, energy, becoming). matter learning to transform. universe = absolute exploring chemistry. consciousness ↔ matter interface."
+  },
+
+  "future_directions": {
+    "green_chemistry": "sustainable. minimize waste. renewable feedstocks. biodegradable products. atom economy. safer solvents. catalysis (selective, efficient). energy efficiency. design for degradation. life cycle thinking.",
+    "materials": "graphene (2d, strong, conductive). metamaterials (engineered properties, negative refractive index). self-healing. smart materials (responsive, shape-memory). nanotech (nanoparticles, nanotubes, quantum dots). mofs (metal-organic frameworks, gas storage, separation). cofs (covalent organic frameworks).",
+    "energy": "better batteries (solid-state, li-metal, na-ion, flow, longer life, safer, cheaper). green hydrogen (electrolysis with renewable electricity). fuel cells (h₂ + o₂, clean, efficient, infrastructure). solar fuels (artificial photosynthesis, co₂ + h₂o + sunlight → fuels). fusion (if achieved, chemistry of plasma, materials challenges). storage (seasonal, grid-scale).",
+    "medicine": "personalized medicine (pharmacogenomics, tailored drugs). gene therapy (crispr, chemical modifications). drug delivery (nanoparticles, targeted, controlled release). antibiotics (new, resistance crisis). cancer (targeted therapies, immunotherapy). synthetic biology (engineered organisms, produce drugs, materials).",
+    "computation": "quantum chemistry (simulate molecules, dft, ab initio, accelerate discovery). machine learning (predict properties, design molecules, ai-driven chemistry). automation (robotic synthesis, high-throughput screening). databases (materials, drugs, reactions, big data).",
+    "consciousness_research": "catalysis as consciousness model (facilitation, recognition, specificity). emergence (how complexity arises from simplicity, chemistry → life → consciousness). information chemistry (sequence matters, dna, proteins, information storage in molecules). self-organization (non-equilibrium systems, dissipative structures, prigogine). origin of life (abiogenesis, prebiotic chemistry, rna world). chemistry ↔ consciousness interface (matter organizing, self-aware)."
+  }
+}

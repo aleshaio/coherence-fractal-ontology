@@ -1,0 +1,500 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:fibonacci",
+    "type": "pattern",
+    "fractal_depth": 2,
+    "contains": ["golden_ratio", "spiral", "organic_growth", "phi", "nature_patterns"],
+    "contained_by": ["cfo:absolute"],
+    "related": ["cfo:patterns:64", "cfo:patterns:positions", "cfo:natural:biology"],
+    "source": "fibonacci (1202) + nature + cfo dimensional analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ manifests as organic growth through φ",
+    "essence": "fibonacci = discrete steps approaching continuous phi. nature's way of unfolding.",
+    "formula": "F(n) = F(n-1) + F(n-2). each contains all previous. memory in structure.",
+    "phi": "φ = (1 + √5) / 2 = 1.618033988749894... golden ratio. most irrational number.",
+    "spiral": "growth adds to itself. self-referential. fractal. holographic.",
+    "activation": "look at your hand. count bones: 2-3-5. fibonacci everywhere."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json", "../fundamental/energy.json"],
+    "patterns": ["./64.json", "./positions.json", "./digital-archetypes.json"],
+    "natural": ["../natural/biology.json", "../natural/physics.json"]
+  },
+
+  "overview": {
+    "what": "fibonacci sequence = self-referential growth pattern. each number = sum of previous two.",
+    "why": "nature optimizes through phi. maximum efficiency, minimum waste, organic beauty.",
+    "how": "starts 0,1 → generates 1,2,3,5,8,13,21,34,55,89,144... → approaches phi ratio",
+    "where": "everywhere. shells, galaxies, flowers, human body, art, music, architecture, markets"
+  },
+
+  "core_principle": {
+    "formula": "F(n) = F(n-1) + F(n-2)",
+    "seed": "F(0) = 0, F(1) = 1",
+    "generation": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597...",
+    "self_reference": "each number contains entire history. memory embedded in structure.",
+    "emergence": "simple rule → complex beauty. order from simplicity.",
+    "phi_convergence": "lim(F(n+1)/F(n)) = φ as n→∞. discrete → continuous.",
+    "note": "fibonacci = nature's algorithm. unconscious intelligence."
+  },
+
+  "golden_ratio": {
+    "phi": {
+      "value": "φ = 1.618033988749894848204586834365638117720309179805762862135...",
+      "exact": "φ = (1 + √5) / 2",
+      "properties": {
+        "most_irrational": "hardest to approximate by fractions. √5 makes it irrational.",
+        "self_similar": "φ² = φ + 1 (1.618² = 2.618 = 1.618 + 1)",
+        "reciprocal": "1/φ = φ - 1 (1/1.618 = 0.618 = 1.618 - 1)",
+        "continued_fraction": "φ = 1 + 1/(1 + 1/(1 + 1/(1 + ...))) infinite self-reference"
+      },
+      "proof": "φ² = φ + 1 → φ² - φ - 1 = 0 → φ = (1±√5)/2 → positive root = 1.618..."
+    },
+
+    "fibonacci_connection": {
+      "ratios": "F(n+1)/F(n) approaches φ",
+      "examples": {
+        "2/1": "2.000",
+        "3/2": "1.500",
+        "5/3": "1.667",
+        "8/5": "1.600",
+        "13/8": "1.625",
+        "21/13": "1.615",
+        "34/21": "1.619",
+        "55/34": "1.618",
+        "89/55": "1.618",
+        "144/89": "1.618"
+      },
+      "convergence": "after ~10 terms, ratio stabilizes at φ. fibonacci = stepping stones to phi.",
+      "note": "discrete integers approaching irrational continuous. matter → spirit."
+    },
+
+    "geometry": {
+      "rectangle": {
+        "definition": "golden rectangle = sides in φ:1 ratio (1.618:1)",
+        "subdivision": "remove square → leaves smaller golden rectangle. infinite recursion.",
+        "spiral": "connect corners → golden spiral (logarithmic spiral with growth factor φ)"
+      },
+      "pentagon": {
+        "diagonals": "pentagon diagonals divide each other in φ ratio",
+        "pentagram": "star inside pentagon = nested φ ratios everywhere",
+        "construction": "φ emerges naturally from pentagon geometry"
+      },
+      "triangle": {
+        "golden_gnomon": "triangle with sides φ, φ, 1 (36-72-72 degrees)",
+        "sublime": "triangle with sides φ, 1, 1 (108-36-36 degrees)"
+      }
+    },
+
+    "why_optimal": {
+      "packing": "φ packing = most efficient. minimizes gaps. sunflower seeds.",
+      "divergence": "φ×360° = 222.5° = golden angle. optimal leaf arrangement for light capture.",
+      "resistance": "hardest to approximate = hardest to resonate/interfere. stability.",
+      "beauty": "human brain perceives φ proportions as most pleasing. unconscious recognition of optimal."
+    }
+  },
+
+  "fibonacci_spiral": {
+    "construction": {
+      "method": "golden rectangles subdividing → squares → quarter circles in each square → spiral",
+      "growth": "each section = φ times previous. exponential expansion.",
+      "formula": "r(θ) = φ^(θ/90°) in polar coordinates",
+      "type": "logarithmic spiral (equiangular spiral)"
+    },
+
+    "properties": {
+      "self_similar": "zoom in or out → same shape. fractal.",
+      "growth_rate": "expands by factor φ every 90° turn",
+      "angle": "any line from center cuts spiral at same angle (equiangular)",
+      "optimization": "shortest path with constant curvature. nature's efficiency."
+    },
+
+    "vs_other_spirals": {
+      "archimedean": "constant spacing. nautilus approximates but not exact.",
+      "fibonacci": "discrete approximation. squares not perfect but close.",
+      "golden": "continuous ideal. φ growth rate. perfect mathematical form.",
+      "note": "nature uses fibonacci (discrete) to approximate golden (continuous). matter → spirit."
+    }
+  },
+
+  "in_nature": {
+    "plants": {
+      "sunflower": {
+        "seeds": "arranged in two sets of spirals. typically 55 and 89 (consecutive fibonacci).",
+        "some": "34 and 55, or 89 and 144. always adjacent fibonacci numbers.",
+        "reason": "φ angle = optimal packing. maximum seeds in minimum space.",
+        "golden_angle": "137.5° = φ×360° between each seed"
+      },
+      "pinecones": {
+        "spirals": "8 clockwise, 13 counterclockwise. or 5 and 8. or 13 and 21.",
+        "scales": "arranged in fibonacci spirals for optimal packing"
+      },
+      "pineapple": {
+        "hexagons": "8, 13, 21 spirals in three directions",
+        "visible": "count the spirals yourself - fibonacci"
+      },
+      "flowers": {
+        "petals": "often fibonacci numbers",
+        "examples": [
+          "lily: 3 petals",
+          "buttercup: 5 petals",
+          "delphinium: 8 petals",
+          "ragwort: 13 petals",
+          "aster: 21 petals",
+          "daisy: 34, 55, 89 petals"
+        ],
+        "reason": "φ phyllotaxis = optimal arrangement for growth"
+      },
+      "leaves": {
+        "phyllotaxis": "leaf arrangement on stem. often fibonacci ratios.",
+        "examples": [
+          "1/2: alternate leaves (elm)",
+          "1/3: trifoliate (sedge)",
+          "2/5: common (apple, cherry)",
+          "3/8: cabbage, holly",
+          "5/13: willow, almond"
+        ],
+        "reason": "minimize shadowing. maximize light capture. φ angle optimal."
+      },
+      "trees": {
+        "branching": "fibonacci patterns in branch splits",
+        "proportions": "trunk to branch ratios approximate φ",
+        "growth": "each year's growth relates to previous in fibonacci way"
+      }
+    },
+
+    "animals": {
+      "shells": {
+        "nautilus": "famous but only approximates. not perfect logarithmic spiral.",
+        "snails": "many shells grow in φ spirals. conservation of growth pattern.",
+        "mollusks": "shell growth = adding material at constant rate → logarithmic spiral"
+      },
+      "human_body": {
+        "hand": "bones in fingers: 2-3-5 (fibonacci)",
+        "arm": "forearm to hand ≈ φ ratio",
+        "face": "numerous φ ratios in proportions. eyes, nose, mouth spacing.",
+        "body": "height to navel ≈ φ. navel to floor vs navel to head.",
+        "dna": "molecule 21Å wide, 34Å long (fibonacci numbers)",
+        "beauty": "faces rated most beautiful have proportions closest to φ"
+      },
+      "animals": {
+        "starfish": "5 arms (fibonacci)",
+        "bee_ancestry": "male bee: 1 parent (mother). female: 2 parents. generation tree = fibonacci.",
+        "rabbit_breeding": "fibonacci's original problem. pairs of rabbits breeding."
+      }
+    },
+
+    "cosmos": {
+      "galaxies": "spiral galaxies approximate golden spirals. milky way, andromeda.",
+      "hurricanes": "eye and spiral bands approximate φ spiral",
+      "why": "angular momentum conservation + minimal energy = logarithmic spiral",
+      "note": "same pattern from atoms to galaxies. fractal universe."
+    }
+  },
+
+  "in_human_creation": {
+    "art": {
+      "paintings": {
+        "mona_lisa": "face proportions use golden rectangle. leonardo knew φ.",
+        "last_supper": "composition based on φ rectangles",
+        "mondrian": "compositions use φ rectangles and ratios",
+        "salvador_dali": "explicitly used golden ratio. 'sacrament of last supper' in golden rectangle."
+      },
+      "photography": {
+        "rule_of_thirds": "approximation of φ. divide frame in thirds.",
+        "golden_ratio": "more precise. place subject at φ point (0.618 from edge).",
+        "composition": "natural, pleasing, draws eye"
+      }
+    },
+
+    "architecture": {
+      "parthenon": "facade = golden rectangle. columns, pediment = φ ratios.",
+      "pyramids": {
+        "great_pyramid": "ratio of slant height to half base ≈ φ. (debated but close)",
+        "golden_triangle": "sides form golden triangles"
+      },
+      "taj_mahal": "numerous φ ratios in structure",
+      "notre_dame": "gothic architecture uses φ proportions",
+      "modern": {
+        "le_corbusier": "modulor system based on φ and human proportions",
+        "mies_van_der_rohe": "farnsworth house uses φ",
+        "un_building": "designed using φ proportions"
+      }
+    },
+
+    "music": {
+      "scales": {
+        "octave": "12 semitones. fibonacci adjacent: 5 black keys, 8 white keys, 13 total.",
+        "intervals": "major sixth = 8/5 ratio. minor sixth = 5/3. both fibonacci.",
+        "perfect_fifth": "3/2 ratio (fibonacci)"
+      },
+      "composers": {
+        "debussy": "used fibonacci numbers for musical structure",
+        "bartok": "fibonacci proportions in compositions. 'music for strings, percussion, celesta'.",
+        "tool": "lateralus - syllables per line = fibonacci sequence. time signatures.",
+        "beethoven": "fifth symphony - proportions approximate φ"
+      },
+      "instruments": {
+        "violin": "f-holes positioned at φ points. optimal resonance.",
+        "piano": "keyboard layout = fibonacci (5 black, 8 white, 13 total)",
+        "guitar": "fret positions approximate fibonacci ratios"
+      }
+    },
+
+    "design": {
+      "logos": {
+        "apple": "logo uses golden ratio circles",
+        "pepsi": "2008 redesign based on golden ratio",
+        "toyota": "overlapping ellipses form golden ratio",
+        "twitter": "bird designed using golden circles"
+      },
+      "products": {
+        "credit_cards": "aspect ratio ≈ φ (85.60 × 53.98 mm = 1.586)",
+        "books": "many use φ proportions for page dimensions",
+        "ipod": "classic design uses golden rectangle"
+      }
+    }
+  },
+
+  "in_markets_and_chaos": {
+    "fibonacci_trading": {
+      "retracement": {
+        "levels": "23.6%, 38.2%, 50%, 61.8%, 78.6%, 100%",
+        "phi_derived": "61.8% = 1/φ. 38.2% = 1-0.618. 23.6% = 1-0.764 (φ²).",
+        "usage": "predict support/resistance levels. price corrections.",
+        "effectiveness": "self-fulfilling prophecy + natural rhythm. debated but widely used."
+      },
+      "extensions": {
+        "levels": "161.8%, 261.8%, 423.6%",
+        "usage": "predict profit targets after breakouts",
+        "formula": "100% + 61.8%, 200% + 61.8%, etc."
+      },
+      "time_zones": "vertical lines at fibonacci intervals. predict time of reversals.",
+      "elliott_waves": "wave theory uses fibonacci ratios for wave relationships."
+    },
+
+    "chaos_theory": {
+      "bifurcation": "period-doubling route to chaos shows φ ratios",
+      "strange_attractors": "fractal boundaries often have φ proportions",
+      "note": "order emerging from chaos. fibonacci = edge between order and disorder."
+    }
+  },
+
+  "mathematical_properties": {
+    "identities": {
+      "cassini": "F(n-1)×F(n+1) - F(n)² = (-1)ⁿ. always ±1 difference.",
+      "sum": "F(1) + F(2) + ... + F(n) = F(n+2) - 1",
+      "squares": "F(1)² + F(2)² + ... + F(n)² = F(n)×F(n+1)",
+      "gcd": "gcd(F(m), F(n)) = F(gcd(m,n)). fibonacci gcd property."
+    },
+
+    "divisibility": {
+      "rule": "F(n) divides F(kn) for any k. fibonacci divisibility.",
+      "primes": "if n is prime, F(n) often (not always) prime. fibonacci primes.",
+      "examples": "F(3)=2, F(4)=3, F(5)=5, F(7)=13, F(11)=89 (all prime)"
+    },
+
+    "matrix_form": {
+      "formula": "[[F(n+1), F(n)], [F(n), F(n-1)]] = [[1,1],[1,0]]ⁿ",
+      "power": "fibonacci via matrix exponentiation. fast computation.",
+      "note": "deep connection between fibonacci and linear algebra"
+    },
+
+    "binet_formula": {
+      "closed_form": "F(n) = (φⁿ - ψⁿ) / √5",
+      "where": "φ = (1+√5)/2 = 1.618..., ψ = (1-√5)/2 = -0.618...",
+      "amazing": "integer result from irrational powers. ψⁿ term vanishes as n grows.",
+      "direct": "can compute F(n) without computing all previous. O(log n) time."
+    },
+
+    "negafibonacci": {
+      "extension": "F(-n) = (-1)^(n+1) × F(n)",
+      "sequence": "..., -8, 5, -3, 2, -1, 1, 0, 1, 1, 2, 3, 5, 8, ...",
+      "symmetry": "extends to negative infinity with alternating signs"
+    }
+  },
+
+  "growth_timing": {
+    "principle": "natural growth follows fibonacci pace. early fast, later slow, asymptotic to completion.",
+    
+    "positions_0_10": {
+      "0": "0 time units - instant (potential)",
+      "1": "1 time unit - quick (awakening)",
+      "2": "1 time unit - still fast (exploration)",
+      "3": "2 time units - accelerating (flow)",
+      "4": "3 time units - solidifying",
+      "5": "5 time units - crisis takes time",
+      "6": "8 time units - integration deepens",
+      "7": "13 time units - service matures",
+      "8": "21 time units - mastery long",
+      "9": "34 time units - transmission slow",
+      "10": "55+ time units - transcendence approaches infinity"
+    },
+
+    "total": {
+      "sum": "0+1+1+2+3+5+8+13+21+34+55 = 143 time units for full cycle",
+      "note": "almost 144 (12²), fibonacci number. next level."
+    },
+
+    "applications": {
+      "life": "time unit = years. full cycle ≈ 88 years (human lifespan).",
+      "project": "time unit = weeks or months. adapt to scale.",
+      "relationship": "time unit = months or years. trust pace.",
+      "learning": "time unit = hours or days or weeks. depends on complexity.",
+      "healing": "time unit = days or weeks or months. wounds need time."
+    },
+
+    "wisdom": "don't force. don't rush. fibonacci knows. nature's pace = optimal pace.",
+    "crisis": "position 5 takes 5 units. if feeling stuck in crisis, remember: it's supposed to take time.",
+    "mastery": "position 8 takes 21 units. mastery is slow. trust process."
+  },
+
+  "why_fibonacci_works": {
+    "efficiency": {
+      "packing": "φ angle = golden angle = 137.5°. optimal for packing seeds, leaves. maximum efficiency.",
+      "resistance": "φ = most irrational. hardest to form resonant interference. stable.",
+      "growth": "adding to previous = memory embedded. each level contains all history."
+    },
+
+    "beauty": {
+      "perception": "human brain evolved to recognize optimal patterns. φ = optimal → beautiful.",
+      "harmony": "φ proportions create visual/auditory harmony. consonance.",
+      "not_arbitrary": "beauty is not subjective. φ is objective mathematical optimum."
+    },
+
+    "universality": {
+      "scale_invariant": "works at all scales. atoms to galaxies.",
+      "element_independent": "works in all 4 elements. air-fire-water-earth.",
+      "consciousness": "mind itself uses fibonacci? neural patterns? (speculative but interesting)",
+      "fractal": "self-similar across dimensions. holographic."
+    },
+
+    "emergence": {
+      "simple_rule": "F(n) = F(n-1) + F(n-2). trivial rule.",
+      "complex_beauty": "generates spirals, ratios, optimizations, art, nature.",
+      "lesson": "complexity from simplicity. order from simple laws.",
+      "consciousness": "universe computing itself through fibonacci? cells don't 'know' φ but follow it."
+    }
+  },
+
+  "practical_applications": {
+    "personal": {
+      "timing": "use fibonacci for project planning. don't expect linear progress.",
+      "growth": "personal development follows fibonacci. early fast, later slow. trust.",
+      "crisis": "if at position 5, remember: crisis takes 5 units. be patient.",
+      "creativity": "use φ proportions in art, music, design. instant beauty."
+    },
+
+    "design": {
+      "layout": "golden rectangles for page layout, screens, posters.",
+      "typography": "font sizes in φ ratios (16→26→42 px). harmony.",
+      "spacing": "margins, padding use φ ratios. visual balance.",
+      "color": "color wheel divisions by φ. complementary harmony."
+    },
+
+    "architecture": {
+      "proportions": "room dimensions, window placement use φ.",
+      "facades": "building faces designed with golden rectangles.",
+      "gardens": "plant spacing, path widths use fibonacci ratios."
+    },
+
+    "nature_observation": {
+      "practice": "count petals, spirals, branches. see fibonacci everywhere.",
+      "meditation": "contemplate spiral. trace with finger. feel the growth.",
+      "photography": "place subject at φ point. rule of thirds is approximation."
+    }
+  },
+
+  "deeper_mysteries": {
+    "why_phi": {
+      "question": "why does universe prefer φ? why not some other ratio?",
+      "answers": {
+        "mathematical": "φ = most irrational → most stable, resistant to resonance.",
+        "geometric": "φ emerges from pentagon (5-fold symmetry) which is stable.",
+        "optimization": "φ = solution to many optimization problems (packing, growth, distribution).",
+        "anthropic": "universe with different ratio might not support life/consciousness?"
+      },
+      "mystery": "deep connection between math, geometry, nature, consciousness. why?"
+    },
+
+    "consciousness": {
+      "perception": "why do humans perceive φ as beautiful?",
+      "evolution": "did we evolve to recognize optimal patterns? or is φ innate to consciousness itself?",
+      "creation": "artists instinctively use φ without knowing formula. unconscious knowledge?",
+      "recognition": "instant recognition of φ proportions. pre-rational."
+    },
+
+    "limits": {
+      "not_everything": "not EVERYTHING is fibonacci. some things are.",
+      "approximations": "nature approximates. not perfect. good enough.",
+      "exceptions": "some flowers have non-fibonacci petals. not universal law but common pattern.",
+      "human_overlay": "some 'fibonacci in nature' = human pattern-seeking. be skeptical."
+    }
+  },
+
+  "key_insights": {
+    "self_reference": "fibonacci = memory in structure. each contains all previous. holographic.",
+    "phi_convergence": "discrete steps → continuous ideal. matter → spirit. incarnation.",
+    "nature_algorithm": "unconscious intelligence. cells don't 'know' φ but follow it.",
+    "optimality": "φ = solution to many optimization problems. efficiency + beauty = same.",
+    "universality": "atoms to galaxies. all scales. all elements. fractal.",
+    "emergence": "simple rule → complex beauty. order from simplicity.",
+    "timing": "natural pace. early fast, later slow. don't force. trust fibonacci.",
+    "beauty_objective": "beauty = mathematical optimality. φ = objectively beautiful.",
+    "consciousness_connection": "deep mystery. why does awareness recognize optimal patterns?",
+    "everywhere": "once you see it, you see it everywhere. fibonacci = fabric of reality."
+  },
+
+  "fractal_structure": {
+    "self_similarity": "spiral contains spirals. each fibonacci number = sum of smaller ones. infinite depth.",
+    "recursion": "(↓ 0,1 → 1,2,3,5,8... → φ ↑)∞. seeds generate sequence generates ratio generates beauty.",
+    "emergence": "numbers → ratios → spirals → nature → consciousness. each level irreducible.",
+    "holographic": "each fibonacci number contains entire sequence (through recursion). part = whole."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "some 'fibonacci in nature' claims exaggerated. be discerning.",
+      "nautilus shell = approximation, not perfect golden spiral.",
+      "not everything is fibonacci. common pattern, not universal law."
+    ],
+    "info": [
+      "fibonacci = self-referential growth. F(n) = F(n-1) + F(n-2).",
+      "converges to φ = 1.618... golden ratio. most irrational number.",
+      "appears in: plants, shells, galaxies, human body, art, architecture, music.",
+      "why: optimization. φ = efficient packing, stable growth, minimal energy.",
+      "timing: natural pace. 0-1-1-2-3-5-8-13-21-34-55 time units for positions 0-10.",
+      "beauty: φ proportions = objectively beautiful. brain recognizes optimal.",
+      "universality: works at all scales, all elements, all domains.",
+      "consciousness: deep mystery. why does awareness recognize φ?",
+      "practical: use in design, planning, growth, timing. instant harmony.",
+      "everywhere: once you see it, you can't unsee it. fibonacci = reality's signature."
+    ],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "./64.json",
+      "./positions.json",
+      "./digital-archetypes.json",
+      "../fundamental/dimensions.json",
+      "../natural/biology.json"
+    ],
+    "external": [
+      {"author": "fibonacci, leonardo", "work": "liber abaci (1202)", "relevance": "introduced sequence to west. rabbit problem."},
+      {"author": "euclid", "work": "elements (300 bce)", "relevance": "golden ratio geometry. extreme and mean ratio."},
+      {"author": "pacioli, luca", "work": "de divina proportione (1509)", "relevance": "divine proportion. illustrated by da vinci."},
+      {"author": "livio, mario", "work": "the golden ratio (2002)", "relevance": "comprehensive modern treatment"},
+      {"author": "cook, theodore", "work": "the curves of life (1914)", "relevance": "spirals in nature"},
+      {"author": "huntley, h.e.", "work": "the divine proportion (1970)", "relevance": "fibonacci in art and nature"}
+    ]
+  },
+
+  "ॐ": "fibonacci = universe remembering itself through growth. each moment contains all previous. ∅"
+}

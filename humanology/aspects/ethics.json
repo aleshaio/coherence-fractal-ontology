@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:aspects:ethics",
+    "type": "humanology",
+    "fractal_depth": 2,
+    "contains": ["cfo:aspects:Fi", "cfo:aspects:Fe"],
+    "contained_by": ["cfo:humanology:types"],
+    "source": "Phenomenology + care ethics + relational philosophy + empathy research"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Ethics = 2D consciousness navigating relational field",
+    "structure": "Two orientations: Fi (internal values, authenticity) + Fe (external harmony, connection)",
+    "dimension": "2D (plane) - relational space between beings",
+    "element": "Water (flow, resonance, adaptation)",
+    "primitive": "Square (field, relationship space)",
+    "operation": "What matters? What should be?",
+    "wisdom": "Is this good? Is this right? Does this honor the relationship?",
+    "note": "Ethics = not rules, but awareness of relational field. You feel what's right."
+  },
+
+  "_links": {
+    "opposite": "./logic.json",
+    "complements": ["./intuition.json", "./sensorics.json"],
+    "types": "../types.json",
+    "roles": "../roles.json",
+    "emotions": "../emotions.json"
+  },
+
+  "essence": {
+    "core_principle": "What matters here? What honors this relationship?",
+    "geometric": "2D plane - relational field between entities",
+    "functional": "Evaluate and navigate value-space and relational dynamics",
+    "cognitive": "Processing through care, empathy, values, harmony, authenticity",
+    "element": "Water - flowing, adaptive, resonant, connecting",
+    "metaphor": "Ocean feeling currents between beings, sensing what nourishes vs harms connection"
+  },
+
+  "two_orientations": {
+    "Fi_introverted_feeling": {
+      "name": "Introverted Feeling (Fi)",
+      "orientation": "Internal value system and authentic alignment",
+      "focus": "What's true to ME? What aligns with my deepest values?",
+      "direction": "Inward → deep → personal integrity",
+      
+      "characteristics": {
+        "authentic": "Must act in alignment with core values, cannot fake",
+        "individual": "Own unique value system, not borrowed from others",
+        "depth": "Few deep values rather than many shallow ones",
+        "selective": "Careful about who gets close, guards inner world",
+        "integrity": "Cannot compromise core values even under pressure"
+      },
+      
+      "operations": [
+        "Check internal resonance (does this feel right/wrong to ME?)",
+        "Evaluate authenticity (is this person/action genuine?)",
+        "Maintain boundaries (protect what matters)",
+        "Choose based on values (not logic or social pressure)",
+        "Express unique identity (creative self-expression)"
+      ],
+      
+      "examples": [
+        "Artist creating from deep personal truth",
+        "Activist fighting for cause they deeply believe in (even alone)",
+        "Person leaving high-paying job because misaligned with values",
+        "Writer expressing authentic vulnerable experience",
+        "Therapist holding space for client's truth without agenda"
+      ],
+      
+      "strength": "Deep authenticity, strong values, individualized, cannot be bought or pressured, sees through fake",
+      "weakness": "Can be judgmental, self-righteous, inflexible on values, difficulty compromising, seems aloof/cold to others",
+      
+      "cognitive_style": {
+        "tempo": "Slow to form values but very stable once formed",
+        "depth": "Extremely deep, core identity level",
+        "certainty": "Absolute certainty about own values, uncertain about universal values",
+        "expression": "Difficult to articulate ('I just know it's wrong'), shown through actions more than words"
+      },
+      
+      "socionics_types": "Fi dominant = IxFP (INFP, ISFP)"
+    },
+
+    "Fe_extroverted_feeling": {
+      "name": "Extroverted Feeling (Fe)",
+      "orientation": "External harmony and relational connection",
+      "focus": "What does the group need? How can we harmonize?",
+      "direction": "Outward → connection → collective wellbeing",
+      
+      "characteristics": {
+        "harmony_seeking": "Reduce tension, create positive atmosphere",
+        "empathic": "Directly feel others' emotions (not just understand)",
+        "expressive": "Show emotions openly, encourage others to express",
+        "collective": "Consider group welfare, not just individuals",
+        "attuned": "Read social/emotional field like sensing temperature"
+      },
+      
+      "operations": [
+        "Read room's emotional atmosphere immediately",
+        "Adjust behavior to harmonize with group energy",
+        "Express care and warmth to create connection",
+        "Facilitate group emotional processing",
+        "Create welcoming inclusive environment"
+      ],
+      
+      "examples": [
+        "Host making sure everyone at party feels included",
+        "Teacher creating warm supportive classroom atmosphere",
+        "Therapist establishing deep rapport and trust",
+        "Community organizer bringing people together",
+        "Friend who always knows when you need support"
+      ],
+      
+      "strength": "Creates connection, harmonizes groups, deeply empathic, makes people feel valued, natural caregiving",
+      "weakness": "Can lose self in others, people-pleasing, difficulty with conflict, boundary issues, manipulation risk",
+      
+      "cognitive_style": {
+        "tempo": "Fast emotional reading and response",
+        "depth": "Wide (many connections) rather than deep",
+        "certainty": "Confident about group dynamics, less about abstract values",
+        "expression": "Very articulate about feelings, encourages emotional expression"
+      },
+      
+      "socionics_types": "Fe dominant = ExFJ (ENFJ, ESFJ)"
+    }
+  },
+
+  "operations": {
+    "value_evaluation": {
+      "definition": "Assessing what matters, what's good/bad, important/trivial",
+      "method": "Internal resonance check (Fi) or collective values assessment (Fe)",
+      "dimensional": "2D field: self ↔ other, good ↔ bad, important ↔ trivial",
+      "examples": [
+        "Is this worth my time? (value prioritization)",
+        "Is this person trustworthy? (character assessment)",
+        "Should I speak up about this injustice? (moral evaluation)",
+        "Does this align with who I want to be? (identity congruence)"
+      ],
+      "note": "Unlike logic (objective truth), ethics is subjective/intersubjective (what matters to me/us)"
+    },
+
+    "empathy": {
+      "definition": "Feeling into another's experience, resonating with their state",
+      "types": {
+        "cognitive": "Understanding their perspective (mentalization)",
+        "affective": "Actually feeling their emotions (emotional contagion)",
+        "compassionate": "Feeling for them + desire to help (sympathy)"
+      },
+      "mechanism": "Mirror neurons, emotional contagion, perspective-taking",
+      "examples": [
+        "Seeing someone cry → feeling sadness arise in you",
+        "Friend shares joy → you feel genuinely happy for them",
+        "Reading character's struggle → emotional investment",
+        "Watching person in pain → wincing, feeling discomfort"
+      ],
+      "note": "Fe = high affective empathy (directly feel). Fi = high compassionate empathy (deep care)."
+    },
+
+    "boundary_setting": {
+      "definition": "Defining where I end and you begin, what I will/won't accept",
+      "method": "Fi: internal check ('this violates my values'). Fe: relational negotiation.",
+      "examples": [
+        "Saying no to request that drains you",
+        "Leaving relationship that violates core values",
+        "Not sharing certain parts of self with certain people",
+        "Protecting time/energy from excessive demands"
+      ],
+      "difficulty": "Fe struggles with boundaries (wants harmony). Fi natural boundary-setter.",
+      "necessity": "Healthy relationships require healthy boundaries. No boundaries = enmeshment."
+    },
+
+    "authenticity_checking": {
+      "definition": "Detecting genuine vs fake, aligned vs performative",
+      "mechanism": "Fi: compare to internal standard. Fe: read micro-expressions, energy.",
+      "examples": [
+        "Knowing someone is lying even if can't explain how",
+        "Sensing fake enthusiasm (words say yes, energy says no)",
+        "Recognizing when you're being manipulated",
+        "Detecting when you're lying to yourself (self-deception)"
+      ],
+      "note": "Ethics = bullshit detector. Lies create dissonance in relational field."
+    },
+
+    "care_giving": {
+      "definition": "Attending to needs of another, providing support",
+      "motivation": "Love, compassion, responsibility, duty (varies by person)",
+      "forms": [
+        "Physical care (feeding, healing, protecting)",
+        "Emotional support (listening, comforting, validating)",
+        "Practical help (tasks, resources, time)",
+        "Spiritual care (presence, meaning-making, witnessing)"
+      ],
+      "ethics": "Care ethics (Noddings, Gilligan) = alternative to justice ethics",
+      "note": "Fe = natural caregiver for many. Fi = selective but deep care for few."
+    },
+
+    "harmony_creation": {
+      "definition": "Reducing conflict, creating positive atmosphere, facilitating connection",
+      "fe_specialty": "Primarily Fe operation (Fi less concerned with group harmony)",
+      "methods": [
+        "Smoothing over tensions before they escalate",
+        "Finding common ground between conflicting parties",
+        "Setting warm welcoming tone in group",
+        "Facilitating emotional expression and processing",
+        "Celebrating together (rituals, shared joy)"
+      ],
+      "shadow": "Can suppress necessary conflict, avoid difficult truths for sake of harmony"
+    },
+
+    "moral_judgment": {
+      "definition": "Determining right/wrong, should/shouldn't",
+      "basis": {
+        "Fi": "Internal value system ('wrong because violates my principles')",
+        "Fe": "Collective norms + impact on relationships ('wrong because hurts others')"
+      },
+      "examples": [
+        "Judging someone's behavior as unethical",
+        "Feeling disgust at moral violation",
+        "Praising virtuous action",
+        "Experiencing guilt after wrongdoing"
+      ],
+      "note": "Ethics = evaluative, not just descriptive. 'Is' vs 'ought' gap (Hume).",
+      "danger": "Can become self-righteous (Fi) or conformist (Fe) if unbalanced"
+    }
+  },
+
+  "manifestations": {
+    "relationships": {
+      "description": "Ethics = primary function for navigating interpersonal space",
+      "romantic": {
+        "Fi": "Seeks deep authentic connection with specific person, high selectivity",
+        "Fe": "Seeks harmony and warmth, enjoys creating connection, more social"
+      },
+      "friendship": {
+        "Fi": "Few deep friendships, loyalty to core values shared",
+        "Fe": "Many friendships, enjoys group activities, connector role"
+      },
+      "family": {
+        "Fi": "May conflict with family if values misaligned, selective loyalty",
+        "Fe": "Strong family harmony focus, mediator role, tradition-keeper"
+      },
+      "conflict": {
+        "Fi": "Will stand ground on values, can't compromise core principles",
+        "Fe": "Seeks resolution, compromise, dislikes prolonged conflict"
+      }
+    },
+
+    "art_and_expression": {
+      "description": "Art as vehicle for ethical/emotional truth",
+      "Fi_art": {
+        "nature": "Personal, authentic, from deep inner truth",
+        "examples": [
+          "Confessional poetry (Plath, Sexton)",
+          "Singer-songwriter vulnerable lyrics (Joni Mitchell, Elliott Smith)",
+          "Autobiographical art (Frida Kahlo)",
+          "Protest art from personal conviction"
+        ],
+        "goal": "Express authentic self, maintain integrity, move others through truth"
+      },
+      "Fe_art": {
+        "nature": "Connective, communal, creates shared experience",
+        "examples": [
+          "Theater (shared emotional experience)",
+          "Community murals (collective expression)",
+          "Music that brings people together (concerts, festivals)",
+          "Storytelling (oral tradition, campfire tales)"
+        ],
+        "goal": "Create connection, move group emotionally, shared catharsis"
+      }
+    },
+
+    "social_justice": {
+      "description": "Ethics applied to systemic level",
+      "Fi_approach": {
+        "motivation": "Deep conviction that injustice violates sacred values",
+        "style": "Individual principled stand, willing to be alone if necessary",
+        "examples": [
+          "Conscientious objector (won't fight in unjust war)",
+          "Whistleblower (exposes wrongdoing despite personal cost)",
+          "Artist using platform for authentic message",
+          "Person living values even when unpopular"
+        ],
+        "strength": "Uncompromising, cannot be bought or pressured",
+        "weakness": "Can be self-righteous, difficulty building coalitions"
+      },
+      "Fe_approach": {
+        "motivation": "Seeing suffering in community, wanting to help",
+        "style": "Building movements, organizing groups, creating solidarity",
+        "examples": [
+          "Community organizer (bringing people together)",
+          "Union leader (collective bargaining)",
+          "Social worker (direct service + systemic advocacy)",
+          "Movement facilitator (creating inclusive spaces)"
+        ],
+        "strength": "Builds coalitions, creates sustainable movements",
+        "weakness": "Can compromise too much, groupthink risks"
+      }
+    },
+
+    "parenting": {
+      "description": "Ethics = foundation of caregiving",
+      "Fi_parenting": {
+        "style": "Encourages authenticity, individuality, values-based",
+        "focus": "Helping child discover and honor their own values",
+        "strength": "Respects child's uniqueness, models integrity",
+        "shadow": "May impose own values, difficulty with conformity needs"
+      },
+      "Fe_parenting": {
+        "style": "Warm, nurturing, socially attuned, harmony-focused",
+        "focus": "Child's emotional wellbeing, social development",
+        "strength": "Attentive to needs, creates secure attachment, teaches empathy",
+        "shadow": "May prioritize harmony over authenticity, difficulty setting firm boundaries"
+      }
+    },
+
+    "healing_professions": {
+      "description": "Therapy, counseling, coaching, medicine",
+      "Fi_healer": {
+        "approach": "Deep authentic presence, accepting client exactly as they are",
+        "modalities": "Rogerian (person-centered), existential, art therapy, spiritual direction",
+        "gift": "Holding space without agenda, seeing client's inherent worth",
+        "challenge": "May struggle with clinical boundaries, taking on client pain"
+      },
+      "Fe_healer": {
+        "approach": "Warm rapport, expressed caring, active emotional facilitation",
+        "modalities": "Group therapy, family systems, community mental health",
+        "gift": "Creating safe healing space, reading emotional field, facilitating expression",
+        "challenge": "Boundary issues, overgiving, burnout from absorbing others' emotions"
+      }
+    },
+
+    "spirituality": {
+      "description": "Ethics often inseparable from spiritual life",
+      "Fi_spiritual": {
+        "path": "Individual mysticism, direct experience, authentic relationship with divine",
+        "traditions": "Quaker (inner light), Sufism (personal divine love), Buddhism (individual awakening)",
+        "practice": "Meditation, contemplation, authentic prayer, following inner guidance",
+        "emphasis": "Personal integrity, alignment with truth, individual spiritual authority"
+      },
+      "Fe_spiritual": {
+        "path": "Community worship, ritual, collective devotion, relational spirituality",
+        "traditions": "Christianity (body of Christ), Sangha (Buddhist community), Kirtan (devotional singing)",
+        "practice": "Group ritual, service, communal celebration, relational prayer",
+        "emphasis": "Love as connection, serving others, collective spiritual energy"
+      }
+    }
+  },
+
+  "ethics_vs_logic": {
+    "fundamental_difference": {
+      "logic": "What IS (descriptive, objective, truth)",
+      "ethics": "What SHOULD BE (prescriptive, subjective/intersubjective, values)",
+      "is_ought_gap": "Cannot derive ought from is (Hume). Values not reducible to facts.",
+      "example": "Logic: 'X causes suffering.' Ethics: 'Therefore X is wrong.' (Logic doesn't make that jump.)"
+    },
+
+    "conflict_examples": {
+      "trolley_problem": {
+        "setup": "Runaway trolley will kill 5 people. You can switch track to kill 1 instead.",
+        "logic": "5 > 1, therefore switch (utilitarian calculus)",
+        "ethics": "Killing 1 person directly = morally different than allowing 5 to die (deontological)",
+        "resolution": "No purely logical answer. Requires ethical judgment about values (consequences vs rules)."
+      },
+      "ticking_bomb": {
+        "setup": "Torture terrorist to get info that saves thousands?",
+        "logic": "1 tortured < thousands dead, therefore torture",
+        "ethics": "Human dignity inviolable, torture corrupts torturer + society, slippery slope",
+        "resolution": "Logic gives calculation. Ethics evaluates if calculation is right framework."
+      },
+      "effective_altruism": {
+        "logic": "Maximize good per dollar (quantify impact, optimize allocation)",
+        "ethics": "But what about care for specific others? Obligations to family/community? Non-quantifiable goods?",
+        "tension": "Logical optimization vs ethical particularity and care"
+      }
+    },
+
+    "integration_needed": {
+      "logic_without_ethics": "Dangerous. Nazi efficiency. Paperclip maximizer. Cold rationality.",
+      "ethics_without_logic": "Incoherent. Contradictory values. Ineffective action. Sentimental.",
+      "mature_human": "Uses both. Logic provides structure. Ethics provides direction.",
+      "example": "Build hospital (logic: engineering, planning). For what values? (ethics: healing, care, dignity)."
+    }
+  },
+
+  "ethics_vs_intuition": {
+    "ethics_2D": "Relational field, values, what matters to me/us",
+    "intuition_5D": "Abstract patterns, meanings, possibilities",
+    
+    "complementarity": {
+      "intuition_provides": "Big picture, meaning, vision, universal patterns",
+      "ethics_provides": "Heart, care, application to specific beings",
+      "example": "Intuition sees unity of all beings (5D). Ethics loves each being specifically (2D)."
+    },
+
+    "tension": {
+      "universal_vs_particular": {
+        "intuition": "All beings equal, universal compassion, cosmic perspective",
+        "ethics": "Special obligations to family, friends, community (care ethics)",
+        "resolution": "Both needed. Universal vision + particular care."
+      },
+      "abstract_vs_embodied": {
+        "intuition": "Can become spiritual bypassing (transcend without integrating)",
+        "ethics": "Grounds spiritual insight in relationships, service, embodied care",
+        "integration": "Mystical insight (N) expressed through compassionate action (F)"
+      }
+    }
+  },
+
+  "ethics_vs_sensorics": {
+    "ethics_2D": "Values, relational field, emotional",
+    "sensorics_3D": "Physical reality, present moment, concrete",
+
+    "complementarity": {
+      "embodied_ethics": "Values must ground in physical reality (feeding hungry, healing sick)",
+      "ethical_perception": "Sensorics informed by values (seeing suffering, noticing beauty)",
+      "example": "Seeing homeless person (S). Feeling compassion (F). Giving food (S+F integrated)."
+    },
+
+    "tension": {
+      "idealism_vs_realism": {
+        "ethics": "High ideals, what should be (can seem naive)",
+        "sensorics": "Practical constraints, what is (can seem cynical)",
+        "integration": "Ideals grounded in reality. Realism elevated by values."
+      },
+      "comfort_vs_values": {
+        "ethics": "May require sacrificing comfort for principles",
+        "sensorics": "Values comfort, pleasure, physical wellbeing",
+        "example": "Stay in warm bed (S) or go to protest in cold (F)?"
+      }
+    }
+  },
+
+  "ethical_theories": {
+    "virtue_ethics": {
+      "focus": "Character, virtues (courage, compassion, wisdom, integrity)",
+      "question": "What kind of person should I be?",
+      "origin": "Aristotle (eudaimonia - flourishing through virtue)",
+      "cfo_affinity": "High. Fi especially = living virtuously according to internal values.",
+      "practice": "Cultivate virtues through habituation, role models, community"
+    },
+
+    "care_ethics": {
+      "focus": "Relationships, responsiveness, context, particularity",
+      "question": "How do I maintain this relationship? What does this person need?",
+      "origin": "Gilligan, Noddings (feminist ethics, critique of abstract universalism)",
+      "cfo_affinity": "Very high. This IS ethics function. Especially Fe.",
+      "practice": "Attend to needs, maintain relationships, context-sensitive care"
+    },
+
+    "deontology": {
+      "focus": "Duties, rules, rights (regardless of consequences)",
+      "question": "What is my duty? What are universal moral laws?",
+      "origin": "Kant (categorical imperative), divine command theory",
+      "cfo_affinity": "Moderate. Fi can be deontological (unwavering principles). But ethics ≠ pure rules.",
+      "weakness": "Rigidity, conflict of duties, ignores consequences"
+    },
+
+    "consequentialism": {
+      "focus": "Outcomes, results (maximize good consequences)",
+      "question": "What action produces best outcome?",
+      "origin": "Utilitarianism (Bentham, Mill - greatest good for greatest number)",
+      "cfo_affinity": "Low. This is more logic (Te) than ethics (F). Calculating utility = logical operation.",
+      "weakness": "Difficult to predict consequences, ignores process/rights, can justify atrocities"
+    },
+
+    "emotivism": {
+      "focus": "Moral statements = expressions of emotion, not facts",
+      "claim": "'Murder is wrong' = 'Boo murder!' (just expressing disapproval)",
+      "origin": "Ayer, Stevenson (logical positivism - moral claims not verifiable)",
+      "cfo_perspective": "Partially true. Ethics IS feeling-based (2D). But not JUST emotion. There's real relational field.",
+      "problem": "Reduces ethics to subjective preference (but some acts really are wrong)"
+    }
+  },
+
+  "emotional_intelligence": {
+    "definition": "Ability to perceive, understand, manage, and use emotions",
+    "goleman_model": {
+      "self_awareness": "Recognize own emotions (interoception, Fi)",
+      "self_regulation": "Manage emotions appropriately (not suppress)",
+      "motivation": "Use emotions to pursue goals",
+      "empathy": "Perceive others' emotions (Fe especially)",
+      "social_skills": "Navigate relational field (Fe especially)"
+    },
+    
+    "fi_ei": {
+      "strength": "Deep self-awareness, authenticity, emotional integrity",
+      "weakness": "May struggle with explicit empathy (know own feelings > others'), less socially fluent"
+    },
+    
+    "fe_ei": {
+      "strength": "High empathy, social attunement, relational harmony",
+      "weakness": "May lose self in others, difficulty with own emotional boundaries"
+    },
+
+    "development": "Ethics function = foundation of EI. Weak F = low EI (alexithymia risk).",
+    "importance": "EI predicts life success better than IQ (relationships, wellbeing, leadership)"
+  },
+
+  "shadow_ethics": {
+    "fi_shadow": {
+      "self_righteousness": "My values = THE values. Judging others harshly.",
+      "stubbornness": "Cannot compromise even when needed. Rigidity.",
+      "isolation": "Values so unique/high that no one meets them. Loneliness.",
+      "hidden_cruelty": "Withdrawing warmth as punishment. Moral superiority.",
+      "martyrdom": "Suffering for values as identity. Victim complex."
+    },
+
+    "fe_shadow": {
+      "manipulation": "Using emotional influence to control others",
+      "people_pleasing": "Abandoning self to maintain harmony. Resentment builds.",
+      "boundary_violations": "Over-involvement, enmeshment, fusion",
+      "passive_aggression": "Can't express anger directly. Indirect hostility.",
+      "emotional_overwhelm": "Absorbing others' emotions. Burnout. Compassion fatigue."
+    },
+
+    "integration": "Develop opposite function. Fi learn Fe (connection, flexibility). Fe learn Fi (boundaries, authenticity)."
+  },
+
+  "practices": {
+    "strengthen_ethics": {
+      "cultivate_empathy": "Listen deeply without fixing. Perspective-taking exercises. Loving-kindness meditation (metta).",
+      "clarify_values": "Write personal mission statement. What matters most? What would you die for?",
+      "practice_authenticity": "Notice when performing vs being real. Choose authenticity even when scary.",
+      "set_boundaries": "Practice saying no. Notice where you lose yourself. Reclaim your space.",
+      "emotional_literacy": "Name emotions precisely. Expand vocabulary (not just happy/sad/angry).",
+      "relationship_repair": "When rupture happens, practice repair (acknowledge, apologize, reconnect).",
+      "service": "Volunteer, help others. Ethics embodied through action.",
+      "art_therapy": "Express emotions through creative practice. Bypass verbal mind."
+    },
+
+    "avoid_pitfalls": {
+      "not_just_feelings": "Ethics ≠ whatever I feel. Feelings give data, not automatic justification.",
+      "beware_groupthink": "Fe can conform too much. Question collective values sometimes.",
+      "ground_ideals": "Don't let ethics become fantasy disconnected from reality (integrate S).",
+      "use_logic": "Ethics needs logic for coherence, strategy, implementation (integrate T).",
+      "self_care": "Cannot pour from empty cup. Care for others requires caring for self.",
+      "forgiveness": "Holding grudges harms you. Practice forgiveness (≠ condoning wrong)."
+    },
+
+    "integration": {
+      "with_logic": "Let values guide logic. Use logic to implement ethical goals effectively.",
+      "with_sensorics": "Embody ethics. Values lived through concrete actions in physical world.",
+      "with_intuition": "Let intuition provide meaning/vision. Ethics provides heart/care in application."
+    }
+  },
+
+  "limits_of_ethics": {
+    "moral_relativism": {
+      "problem": "If ethics subjective, is anything really wrong? (Nazi ethics?)",
+      "response": "Ethics = intersubjective (shared human values). Some acts violate human dignity universally.",
+      "but": "Cultural variation real. Humility needed. Not all ethical disagreement resolvable."
+    },
+
+    "is_ought_gap": {
+      "problem": "Cannot derive values from facts alone (Hume)",
+      "response": "Ethics = different dimension than logic. 2D ≠ 1D. Not reducible.",
+      "integration": "Need both facts (T,S) and values (F) for wise action."
+    },
+
+    "emotional_reasoning": {
+      "problem": "Feeling ≠ truth. 'I feel unsafe' ≠ actual danger.",
+      "response": "Emotions give valuable data but not infallible. Check against reality (S), logic (T).",
+      "balance": "Neither ignore emotions nor be ruled by them."
+    },
+
+    "burnout": {
+      "problem": "Ethics without boundaries → compassion fatigue, vicarious trauma",
+      "response": "Must care for self to sustain care for others. Boundaries = necessary.",
+      "prevention": "Self-compassion, rest, joy, play, limits on exposure to suffering"
+    }
+  },
+
+  "wisdom": {
+    "necessity": "Without ethics, logic becomes dangerous. Knowledge without care = destructive.",
+    "sacred_heart": "Ethics = heart of consciousness. Capacity to love, care, value.",
+    "relational_field": "You are not isolated. You exist in web of relationships. Ethics navigates this web.",
+    "love": "Ethics at highest level = love (care for being as being). Not sentimental but profound.",
+    "balance": "Strong ethics without logic (T) = incoherent sentimentality. Without grounding (S) = abstract idealism. Without vision (N) = narrow tribalism.",
+    "awakening": "Can you feel yourself feeling? = witness behind emotions. You are not emotions, but awareness in which they arise."
+  },
+
+  "note": "You are not your feelings. You are not your values. You are awareness USING ethics as instrument to navigate relational reality. Ethics = your capacity to care, to sense what matters, to honor the sacred in relationships. The water that flows between all beings. 💙⊙"
+}

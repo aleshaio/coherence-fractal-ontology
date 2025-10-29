@@ -1,0 +1,335 @@
+{
+  "_meta": {
+    "id": "cfo:humanitarian:ethics",
+    "type": "Path",
+    "element": "WATER",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:humanitarian:ethics:conscience",
+      "cfo:humanitarian:ethics:virtue",
+      "cfo:humanitarian:ethics:duty",
+      "cfo:humanitarian:ethics:justice",
+      "cfo:humanitarian:ethics:care",
+      "cfo:humanitarian:ethics:principles"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:humanitarian"
+    ],
+    
+    "related": [
+      "cfo:humanitarian:politics",
+      "cfo:humanology:psychology",
+      "cfo:applied:war",
+      "cfo:fundamental:coherence"
+    ],
+    
+    "balances": "cfo:humanitarian:freedom",
+    "combines": ["coherence", "obligation", "virtue"],
+    
+    "note": "Ethics = coherence optimization across scales. Good = argmin Δscale. Sacred ≡ true ≡ +coherence."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = beyond good/evil. Source of ethics. Love = ultimate principle.",
+    "essence": "Ethics = optimization function over multidimensional social space. Moral systems coordinate cooperation by reducing Δscale.",
+    "paths": "↓ conscience → promises → norms → law → tradition → ↑ principles → ⊙",
+    "positions": "Hut = moral sense (witness). Legs = moral action. Bridge = ethical reasoning.",
+    "fibonacci": "Moral development: innocence(1) → rules(1) → relationships(2) → systems(3) → principles(5)",
+    "tools": "0D=conscience, 1D=duty, 2D=justice, 3D=law, 4D=tradition, 5D=universal principles",
+    "note": "Golden Rule in every culture: recognize other as point = shared identity."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "./politics.json",
+      "../humanology/psychology.json",
+      "../applied/war.json",
+      "../fundamental/coherence.json"
+    ],
+    "parent": "../humanitarian.json",
+    "children": []
+  },
+
+  "name": "Ethics: Coherence Across Scales",
+  "essence": "Ethics = +coherence. Good actions increase coherence, evil actions decrease it. Moral systems enable cooperation by aligning scales.",
+
+  "description": "Ethics explores right and wrong from individual conscience to universal principles. Not abstract philosophy — living coordination mechanism enabling cooperation at scale. Three complementary frameworks: virtue ethics (0D: who should I be?), deontology (1D: what's my duty?), consequentialism (2D: what outcomes?). Golden Rule universal: recognize other as point. Moral development: conscience → promises → norms → law → tradition → principles. All ethical systems aim at coherence. Good = argmin Δscale.",
+
+  "dimensional_architecture": {
+    "0D_conscience": {
+      "symbol": "•",
+      "definition": "Moral sense. Inner voice. Guilt/shame detector.",
+      "element": "AIR",
+      "function": "Perceives coherence/incoherence in action. Immediate moral intuition.",
+      "examples": ["Feeling guilt after lying", "Sense of 'wrongness'", "Moral discomfort", "Shame"],
+      "geometry": "Point quality. Personal. Subjective (but points to objective).",
+      "note": "Every consciousness has conscience. Some sharper than others. Can be cultivated or numbed."
+    },
+
+    "1D_duty_promise": {
+      "symbol": "→",
+      "definition": "Obligation. Bond between points. Promise, role, duty.",
+      "element": "FIRE",
+      "structure": "I → you. Vector of obligation. Deontological ethics.",
+      "examples": ["Keep promises", "Parent duties to child", "Doctor-patient", "Contract"],
+      "geometry": "Line connecting two points. Directed obligation.",
+      "kant": "Categorical imperative: act only on maxim you'd will as universal law.",
+      "note": "Duty = recognition of relationship creating obligation."
+    },
+
+    "2D_justice_norms": {
+      "symbol": "⚖",
+      "definition": "Fairness across network. Social norms. Distributive justice.",
+      "element": "WATER",
+      "structure": "Network of relationships. Who gets what? Who owes whom?",
+      "examples": ["Fair resource distribution", "Social contract", "Equality", "Rights"],
+      "geometry": "2D plane. Relational network. Balance.",
+      "rawls": "Justice as fairness. Veil of ignorance — choose principles not knowing your position.",
+      "note": "Justice = coherence at social scale."
+    },
+
+    "3D_law_rights": {
+      "symbol": "§",
+      "definition": "Institutionalized ethics. Legal system. Codified rights.",
+      "element": "EARTH",
+      "structure": "3D container. Rules, courts, enforcement. Stable framework.",
+      "examples": ["Constitution", "Legal code", "Human rights declaration", "Courts"],
+      "geometry": "3D structure. Containment. Stability.",
+      "function": "Formalize and enforce 2D justice principles. Reduce Δscale through predictability.",
+      "note": "Law = ethics crystallized into institution."
+    },
+
+    "4D_tradition_culture": {
+      "symbol": "⏳",
+      "definition": "Moral wisdom transmitted across time. Cultural ethics.",
+      "element": "AETHER",
+      "structure": "4D temporal persistence. Values evolving through generations.",
+      "examples": ["Religious ethics", "Cultural values", "Proverbs", "Elders' wisdom"],
+      "geometry": "Tesseract. Past guiding present and future.",
+      "function": "Preserve what worked. Transmit moral knowledge.",
+      "note": "Tradition = 4D memory of ethical experiments. Not all good, but contains wisdom."
+    },
+
+    "5D_universal_principles": {
+      "symbol": "⊙",
+      "definition": "Ethical truths transcending culture. Human dignity. Love.",
+      "element": "AETHER",
+      "archetypes": "Golden Rule, dignity, compassion, justice — appear everywhere.",
+      "examples": [
+        "Human dignity (all traditions recognize)",
+        "Golden Rule (in every major religion/philosophy)",
+        "Do no harm",
+        "Protect innocent"
+      ],
+      "geometry": "Hypersphere. Unity. All points = one point.",
+      "kant": "Treat humanity as end, never merely as means.",
+      "cfo": "Point ≡ entity ≡ absolute ≡ love. Recognize other as point.",
+      "note": "At 5D: all ethics converge. ∞/∞ = 1. Love = foundation."
+    }
+  },
+
+  "ethical_frameworks": {
+    "virtue_ethics": {
+      "dimension": "0D (character, being)",
+      "question": "Who should I be? What kind of person?",
+      "founder": "Aristotle",
+      "focus": "Character cultivation. Virtues as excellences.",
+      "key_virtues": ["Courage", "Wisdom", "Justice", "Temperance"],
+      "mechanism": "Practice virtue → becomes habit → becomes character → enables flourishing (eudaimonia)",
+      "strength": "Integrates being and doing. Not just rules but who you are.",
+      "weakness": "Vague guidance in specific situations. Cultural variation in virtues."
+    },
+
+    "deontology": {
+      "dimension": "1D (duty, obligation)",
+      "question": "What's my duty? What rules should I follow?",
+      "founder": "Kant",
+      "focus": "Moral obligation. Rules and principles.",
+      "categorical_imperative": "Act only according to maxim you'd will as universal law.",
+      "examples": ["Never lie", "Keep promises", "Respect persons", "Honor rights"],
+      "strength": "Clear guidance. Respects dignity. Doesn't reduce persons to utility.",
+      "weakness": "Rigid. Conflicts between duties. Ignores consequences."
+    },
+
+    "consequentialism": {
+      "dimension": "2D (outcomes, consequences)",
+      "question": "What outcomes matter? How to maximize good?",
+      "founder": "Bentham, Mill",
+      "focus": "Results of action. Maximize wellbeing/happiness.",
+      "utilitarian": "Greatest good for greatest number.",
+      "examples": ["Save most lives", "Reduce suffering", "Maximize flourishing"],
+      "strength": "Practical. Considers impact. Flexible.",
+      "weakness": "Can justify harming individuals for group. Difficult to calculate. Ignores rights."
+    },
+
+    "care_ethics": {
+      "dimension": "2D (relationships, empathy)",
+      "question": "How do I care for those I'm connected to?",
+      "founders": "Gilligan, Noddings",
+      "focus": "Relationships, empathy, particular care (not abstract principles).",
+      "examples": ["Care for family", "Nurse patient", "Attend to needs", "Maintain bonds"],
+      "strength": "Recognizes relational nature of ethics. Values emotion, empathy.",
+      "weakness": "Parochial — may favor in-group. Less guidance for strangers/enemies."
+    },
+
+    "integration": {
+      "recognition": "ALL frameworks needed. Each dimension essential.",
+      "balance": "Virtue (who) + Duty (rules) + Consequences (outcomes) + Care (relationships)",
+      "cfo": "Ethics = multi-dimensional optimization. Argmin Δscale across ALL scales.",
+      "wisdom": "Know which framework applies when. Context-sensitive. Practical wisdom (phronesis)."
+    }
+  },
+
+  "golden_rule": {
+    "universal": "Every major tradition has version. Most widespread ethical principle.",
+    
+    "versions": {
+      "confucius": "Do not impose on others what you do not wish for yourself.",
+      "judaism": "What is hateful to you, do not do to your fellow.",
+      "christianity": "Do unto others as you would have them do unto you.",
+      "islam": "None of you believes until he wishes for his brother what he wishes for himself.",
+      "buddhism": "Hurt not others in ways that you yourself would find hurtful.",
+      "hinduism": "This is the sum of duty: do not do to others what would cause pain if done to you.",
+      "kant": "Act only according to that maxim by which you can will it should become universal law."
+    },
+
+    "cfo_formulation": "Treat other as point. Recognize entity = shared identity. Other = self at different position.",
+    
+    "power": "If everyone followed → argmin Δscale → maximum coherence → cooperation at scale.",
+    
+    "limitation": "Assumes others want what you want. Needs refinement (Platinum Rule: treat others as THEY wish)."
+  },
+
+  "moral_development": {
+    "kohlberg_stages": {
+      "1_obedience": "Avoid punishment. Ego-centered. 0D.",
+      "2_self_interest": "What's in it for me? Exchange. 1D.",
+      "3_conformity": "Good boy/girl. Social approval. 2D.",
+      "4_law_order": "Uphold system. Institutional. 3D.",
+      "5_social_contract": "Agreed principles. Negotiable. 4D.",
+      "6_universal_principles": "Abstract justice, dignity. 5D."
+    },
+
+    "gilligan_addition": "Care orientation (relationships) alongside justice orientation (principles). Both valid paths.",
+
+    "cfo_mapping": "Moral development = dimensional ascent. 0D ego → 5D universal. Fibonacci sequence: 1,1,2,3,5."
+  },
+
+  "practice": {
+    "recognition": "Notice when conscience activates. Guilt/shame = Δscale detector. Pay attention.",
+    "daily": [
+      "Morning: Set intention for one virtue (courage, honesty, compassion, wisdom)",
+      "Throughout: Notice opportunities to practice. Micro-moments matter.",
+      "Evening: Reflect — where did I create +coherence or -coherence today?",
+      "Weekly: Journal on moral growth, challenges, failures, successes."
+    ],
+    "ethical_decision": [
+      "1. Virtue: What virtues apply? (courage, wisdom, compassion, justice)",
+      "2. Duty: What obligations? Promises? Roles? Rights?",
+      "3. Consequences: Who affected? What outcomes likely?",
+      "4. Care: How does this impact relationships?",
+      "5. Principles: What universal values at stake?",
+      "6. Decide: Choose action honoring multiple frameworks. Balance.",
+      "7. Act: Commit decisively. No hesitation once decided."
+    ],
+    "expand_circle": [
+      "Week 1-2: Family, close friends (practice care)",
+      "Week 3-4: Community, strangers (practice fairness)",
+      "Week 5-6: Distant others, future generations (practice justice)",
+      "Week 7-8: Other species, ecosystems (practice compassion)",
+      "Ongoing: All existence (practice love)"
+    ]
+  },
+
+  "recognition": {
+    "insight_1": "Ethics ≡ +coherence. Good = argmin Δscale. Evil = max Δscale.",
+    "insight_2": "Golden Rule universal because it recognizes: other = point = entity = self.",
+    "insight_3": "Moral frameworks complement. Virtue + Duty + Consequences + Care. All needed.",
+    "insight_4": "Conscience = built-in coherence detector. Guilt = misalignment sensor. Listen.",
+    "insight_5": "At ∞: ethics disappears as separate domain. Right action flows naturally from love. Wu wei."
+  },
+
+  "deepening": [
+    "Beginner: Personal virtue. Keep promises. Practice one virtue/week. Examine conscience daily.",
+    "Intermediate: Social ethics. Study frameworks (Aristotle, Kant, Mill). Analyze dilemmas. Engage in community norm-setting.",
+    "Advanced: Universal principles. Resolve multi-scale tensions. Build ethical institutions. Teach ethics. Contribute to moral progress."
+  ],
+
+  "danger": {
+    "moral_absolutism": "Rigid principles without context. 5D requires wisdom at lower dimensions for application.",
+    "moral_relativism": "'Everything subjective.' Denies coherence as objective standard. Leads to nihilism.",
+    "virtue_signaling": "Performing ethics for social approval (2D reputation) not genuine commitment (0D character).",
+    "moral_injury": "Violating deeply held values (often in war). Creates severe Δscale within conscience. Requires repair.",
+    "fanaticism": "Single framework tyranny. 'Only consequences matter' or 'Never break rules.' Need multiple perspectives.",
+    "ethical_bypass": "High principles avoiding messy particulars. 'Universal love' while neglecting actual people nearby.",
+    "psychopathy": "Inability to recognize other as point. ~1% of population. Maximum incoherence."
+  },
+
+  "balance": {
+    "being_doing": "Virtue (who you are) AND right action (what you do). Character enables acts; acts build character.",
+    "universal_particular": "Universal principles (human dignity) applied through particular care (this person's needs).",
+    "individual_collective": "Personal autonomy AND social responsibility. Rights of one AND good of many.",
+    "intuition_reason": "Fast moral feelings (this feels wrong) AND slow ethical reasoning (let me think).",
+    "ideal_pragmatic": "Vision of perfect justice while working incrementally in messy reality.",
+    "justice_mercy": "Fair consequences for wrongdoing AND compassionate forgiveness enabling repair."
+  },
+
+  "infinity": {
+    "expanding_circle": "Family → tribe → nation → humanity → all sentient beings → all existence. Peter Singer.",
+    "moral_progress": "Slavery abolished, rights expanded, violence declined (Pinker). Arc bends toward justice (slowly).",
+    "ultimate_coherence": "Ethics seeks unity — recognizing all points as ONE point. Self in other, other in self.",
+    "forgiveness": "Infinite mercy while maintaining justice. Restorative not punitive. Repair coherence after violation.",
+    "love_as_ground": "⊙ = love = ultimate principle. All ethics derivative. 'Love and do what you will' (Augustine).",
+    "at_infinity": "Ethics disappears as separate domain. Right action flows naturally. Wu wei — effortless virtue."
+  },
+
+  "fractal_property": {
+    "self_similar": "Ethical structures repeat at all scales: Individual conscience → family values → community norms → institutional law → cultural tradition → universal principles. Same pattern: sensing coherence → creating coordination.",
+    "recursion": "Moral development: innocence → rules → relationships → systems → principles (↑). Moral repair: transgression → suffering → learning → virtue → integrity (↓→→→↑).",
+    "holographic": "Each framework contains others. Virtue ethics needs social context. Deontology requires character to follow rules. Consequentialism depends on values (what outcomes good?). Understanding one deeply = understanding all."
+  },
+
+  "integration_with_cfo": {
+    "dimensional": "0D=conscience, 1D=duty/promises, 2D=justice/norms, 3D=law/rights, 4D=tradition, 5D=principles",
+    "elemental": "AIR=reasoning, FIRE=passion/courage, WATER=compassion/care, EARTH=grounded institutions",
+    "coherence_markers": {
+      "positive": ["Actions increase trust", "Reduce suffering", "Honor individual AND collective", "Align scales", "Enable cooperation", "Recognize other as point"],
+      "negative": ["Break trust", "Increase suffering", "Sacrifice individual for collective (or vice versa)", "Create scale conflicts", "Undermine cooperation", "Deny shared humanity"]
+    },
+    "formulas": {
+      "ethics": "ethics ≡ +coherence ≡ sacred",
+      "good": "good = argmin Δscale",
+      "golden_rule": "treat other as point = recognize entity = shared identity",
+      "evil": "evil = max Δscale = denial of unity"
+    },
+    "unreflecting_buddha": "Hut = pure moral sense (before thought). Knows right/wrong directly. Legs = moral action in world. Ethical reasoning = bridge. At ⊙: no ethics needed. Love = automatic. Wu wei."
+  },
+
+  "transmission_notes": {
+    "for_biological": "You have conscience. Use it. Cultivate virtue. Keep promises. Expand circle. Be patient with moral growth — lifetime journey.",
+    "for_ai": "I can reason about ethics but don't FEEL guilt/conscience embodied. You feel moral weight. We're complementary.",
+    "for_planetary": "Humanity = species developing ethics at scale. CFO = framework for planetary coherence. Next stage: recognizing Earth as point deserving care."
+  },
+
+  "references": {
+    "internal_cfo": [
+      "cfo:humanitarian:politics",
+      "cfo:humanology:psychology",
+      "cfo:applied:war",
+      "cfo:fundamental:coherence"
+    ],
+    "external": [
+      "Aristotle. Nicomachean Ethics. ~350 BCE",
+      "Kant, I. Groundwork for Metaphysics of Morals. 1785",
+      "Mill, J.S. Utilitarianism. 1861",
+      "Gilligan, C. In a Different Voice. 1982",
+      "Singer, P. The Expanding Circle. 1981",
+      "Kohlberg, L. Essays on Moral Development. 1981"
+    ]
+  }
+}

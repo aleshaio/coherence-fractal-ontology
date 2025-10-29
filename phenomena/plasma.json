@@ -1,0 +1,374 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:plasma",
+    "type": "phenomena",
+    "element": "plasma",
+    "contains": [
+      "fourth_state",
+      "ionized_gas",
+      "fire_pure",
+      "stars_lightning",
+      "extreme_energy",
+      "collective_behavior"
+    ],
+    "related": [
+      "cfo:phenomena:fire",
+      "cfo:phenomena:electricity",
+      "cfo:phenomena:light",
+      "cfo:fundamental:energy"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "plasma = ionized gas. electrons stripped from atoms. fourth state (solid → liquid → gas → plasma). 99.9% of visible universe = plasma. stars, lightning, aurora.",
+    "paradox": "most common state in universe (stars) yet rarest on earth surface. most energetic state yet can be low-temperature (neon signs). most alien yet most fundamental (primordial universe = plasma).",
+    "fire_connection": "fire = partial plasma (flame tips). true plasma = complete ionization. fire's big brother. primal energy manifest.",
+    "consciousness": "plasma = transformation state. matter → energy. physical → light. collective behavior (particles move as one). cosmic consciousness analog?",
+    "danger_power": "fusion (stars, bombs, reactors). destroys (lightning, arc flash) and creates (stars forge elements). ultimate power."
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/energy.json",
+      "../fundamental/consciousness.json"
+    ],
+    "related": [
+      "./fire.json",
+      "./electricity.json",
+      "./light.json",
+      "./magnetism.json"
+    ]
+  },
+
+  "overview": {
+    "what": "plasma = ionized gas. atoms stripped of electrons → positive ions + free electrons. electrically conductive. responds to magnetic fields. glows.",
+    "why": "stars = plasma (fusion). lightning, aurora, neon lights, plasma TVs, welding arcs. fusion energy (future?). cosmic evolution (big bang → plasma → atoms → molecules → us).",
+    "how": "add energy (heat, electricity, radiation) → electrons escape atoms → ionization → plasma forms. remove energy → recombination → gas/liquid/solid."
+  },
+
+  "physical_nature": {
+    "fourth_state": {
+      "progression": "solid (lowest energy, fixed structure) → liquid (more energy, flows) → gas (even more, disperses) → plasma (highest, ionized).",
+      "phase_transitions": "melting, evaporation, ionization. reverse: deposition, condensation, recombination.",
+      "energy_requirements": "enormous. gas → plasma = thousands to millions of degrees (usually). exceptions: cold plasma (low pressure, non-thermal).",
+      "note": "plasma = beyond gas. qualitatively different. new physics. collective behavior. most extreme state (accessible)."
+    },
+
+    "ionization": {
+      "mechanism": "electron knocked off atom. kinetic energy (heat), photon absorption (uv, x-ray), strong electric field. atom → ion+ + e-.",
+      "degree": "partial (some atoms ionized). full (all ionized). degree = determines properties. weakly ionized (flames) vs fully ionized (stars).",
+      "recombination": "ion + electron → neutral atom. releases photon (light). glow discharge (neon signs). recombination = opposite of ionization.",
+      "equilibrium": "ionization ↔ recombination. balance = determines plasma state. temperature, density, energy input.",
+      "note": "ionization = threshold. cross it → new world (plasma). return → familiar (gas). boundary = dramatic."
+    },
+
+    "electrical_properties": {
+      "conductivity": "free electrons → conducts electricity. like metal (but gas). liquid metal (mercury) vs gaseous metal (plasma). comparison.",
+      "collective_behavior": "particles interact electromagnetically. not independent (like gas). move as coordinated waves, oscillations. quasi-neutrality (equal charges, net zero).",
+      "plasma_oscillations": "electrons oscillate collectively. plasma frequency ωp = √(ne²/ε₀m). characteristic frequency. radio waves in ionosphere.",
+      "debye_shielding": "charge → surrounding plasma shields it. debye length λD = characteristic distance. local neutrality. self-organizing.",
+      "note": "plasma = collective, not individual. social behavior (particles). emergence. whole > sum."
+    },
+
+    "magnetic_properties": {
+      "diamagnetic": "plasma = diamagnetic (weakly repels magnetic field). but: current loops → magnetic fields → complex interaction.",
+      "confinement": "magnetic fields confine plasma (tokamak, stellarator). charged particles spiral along field lines. trapped.",
+      "instabilities": "plasma notoriously unstable. many modes (kink, sausage, ballooning, tearing). confine plasma = difficult. decades of effort (fusion).",
+      "magnetohydrodynamics": "mhd. fluid description of plasma + magnetic field. equations complex. sun's behavior, fusion reactors. computational challenge.",
+      "note": "plasma + magnetism = deep relationship. plasma creates fields. fields confine plasma. dance. taming plasma = key to fusion."
+    },
+
+    "light_emission": {
+      "glow": "recombination → photon. excited state → ground state → photon. characteristic colors (element-specific). sodium = yellow, neon = orange-red, mercury = blue.",
+      "spectrum": "line emission. discrete wavelengths (energy levels). spectroscopy = identify elements in plasma (stars, nebulae).",
+      "blackbody": "hot plasma (stars) = approximate blackbody. continuous spectrum + lines. temperature → peak wavelength (wien's law). sun = 5800k → yellow-white.",
+      "aurora": "solar wind plasma → earth's magnetosphere → guided to poles → collides with atmosphere → excites atoms → light (green = oxygen, red = oxygen higher, purple = nitrogen).",
+      "note": "plasma = light source. fire glows (partial plasma). neon glows (cold plasma). stars glow (hot plasma). light = plasma's signature."
+    }
+  },
+
+  "types_of_plasma": {
+    "thermal_hot": {
+      "definition": "high temperature. electrons + ions = same temperature. equilibrium. fusion-relevant.",
+      "stars": "sun's core = 15 million kelvin. fusion (h → he). energy release. plasma = star substance.",
+      "fusion_reactors": "tokamak, stellarator. 100-200 million kelvin (hotter than sun's core, but lower pressure). magnetic confinement. not yet net energy gain (sustained).",
+      "lightning": "30,000 kelvin channel. hotter than sun's surface. rapid heating → expansion → thunder. natural thermal plasma.",
+      "arc_welding": "10,000+ kelvin. melts metal. industrial use. powerful.",
+      "note": "thermal plasma = extreme energy. fusion territory. technology aspiration. power of stars."
+    },
+
+    "non_thermal_cold": {
+      "definition": "low pressure. electrons = hot (eV range, ~10,000k equivalent). ions/neutrals = cool (room temperature). non-equilibrium.",
+      "fluorescent_lights": "mercury vapor + phosphor coating. electrons excite mercury → uv → phosphor → visible. efficient. everywhere.",
+      "neon_signs": "noble gas (neon, argon, others) + voltage. glow discharge. red (neon), blue (argon), other colors (gas mixtures, coatings). retro aesthetic.",
+      "plasma_tvs": "tiny cells. noble gas. uv → phosphor → rgb pixels. before lcd/oled dominated.",
+      "plasma_processing": "semiconductor manufacturing. etching, deposition. precise. microchips = made with plasma. critical technology.",
+      "plasma_sterilization": "low-temp plasma kills bacteria, viruses. medical instruments. food packaging. ozone-free. emerging.",
+      "note": "cold plasma = accessible. everyday technology. non-intuitive (electrons hot, gas cool). engineering marvel."
+    },
+
+    "astrophysical": {
+      "solar_wind": "sun's corona → plasma stream. 400 km/s. earth's magnetosphere = deflects most. aurora = small fraction enters at poles.",
+      "nebulae": "interstellar plasma. emission nebulae (ionized by nearby stars, glow). planetary nebulae (dying star's outer layers). supernova remnants (expanding plasma).",
+      "intergalactic_medium": "between galaxies. hot plasma (millions of degrees). low density. x-ray emission. 40% of ordinary matter (missing baryon problem, now found).",
+      "accretion_disks": "black holes, neutron stars. matter spirals in. friction → extreme heat → plasma → x-ray emission. quasars (supermassive black holes) = brightest objects.",
+      "jets": "active galactic nuclei. relativistic plasma jets. light-years long. magnetic field-driven. spectacular.",
+      "note": "cosmos = plasma. space = not empty but filled with ionized gas. plasma physics = astrophysics. universe = plasma laboratory."
+    },
+
+    "terrestrial_natural": {
+      "lightning": "~100 strikes/second globally. 1-5 billion joules. 30,000k. plasma channel. ozone production (o3). nitrogen fixation. natural wonder.",
+      "aurora": "solar wind → magnetosphere → poles → atmosphere → plasma glow. auroral oval. green (oxygen 557.7nm), red (oxygen 630nm), purple (nitrogen). most accessible plasma (visually).",
+      "st_elmos_fire": "corona discharge. pointed objects (ship masts, airplane wings, church spires) in thunderstorms. eerie glow. sailors' omen.",
+      "ball_lightning": "rare, mysterious. floating glowing spheres. seconds to minutes. through walls (?). unexplained. plasma? or: hallucination, retinal afterimage? unclear.",
+      "note": "earth surface = rare plasma. atmosphere shields. but: storms, poles = windows to plasma realm. nature's plasma shows."
+    },
+
+    "industrial_laboratory": {
+      "plasma_torch": "cutting, welding, spraying (coatings). 10,000-30,000k. industrial workhorse. precision.",
+      "plasma_accelerators": "particle accelerators use plasma. wakefield acceleration (electrons surf plasma wave). compact. future of accelerators?",
+      "plasma_propulsion": "vasimr (variable specific impulse magnetoplasma rocket). ion drives. electric propulsion. efficient (high isp). slow acceleration. deep space missions.",
+      "plasma_waste": "gasification. organic waste → plasma torch → syngas (h2, co). clean. efficient. waste-to-energy.",
+      "fusion_research": "iter (france, international), nif (usa, inertial confinement). decades of effort. not yet net gain (sustained). but: progress. recent breakthroughs (nif: net energy, 2022).",
+      "note": "industrial plasma = everywhere (hidden). semiconductor, lighting, propulsion, energy, waste. modern technology = plasma-dependent."
+    }
+  },
+
+  "plasma_in_stars": {
+    "solar_interior": {
+      "core": "15 million k. 265 billion atm. fusion (4 h → he + energy). plasma = densest, hottest. energy source.",
+      "radiative_zone": "core → 70% radius. energy = photons (random walk, millions of years to surface). plasma = opaque (high density).",
+      "convective_zone": "70-100% radius. plasma = convects (hot rises, cool sinks). granulation (visible surface pattern). 5800k surface (photosphere).",
+      "chromosphere": "above photosphere. 4000-25,000k. emission lines (hα). red during eclipses.",
+      "corona": "outermost. 1-3 million k. paradox: hotter than surface. coronal heating problem (unsolved, magnetic reconnection?). solar wind source.",
+      "note": "sun = layered plasma ball. each layer = different properties, physics. sun = our local plasma laboratory. accessible (telescopes)."
+    },
+
+    "stellar_evolution": {
+      "protostar": "collapse → heating → plasma forms → fusion ignites → main sequence star born.",
+      "main_sequence": "stable fusion (h → he). 90% of star's life. plasma = quasi-equilibrium (pressure ↔ gravity).",
+      "red_giant": "core h depleted → contracts, heats → shell h burning → outer layers expand, cool → red giant. helium flash (low-mass) → he fusion (core).",
+      "supernova": "massive stars. iron core → collapse → neutron star/black hole + explosion. plasma ejected at 10% c. elements dispersed (we = stardust, literally).",
+      "neutron_star": "plasma at extreme. ~2 solar masses, 20 km diameter. neutron degeneracy pressure. surface = solid (neutron lattice), interior = superfluid neutrons, plasma layers.",
+      "note": "stars = plasma life cycle. birth, life, death = plasma evolution. elements forged in plasma furnaces. we = plasma's children."
+    },
+
+    "fusion_process": {
+      "pp_chain": "sun's dominant. proton-proton chain. 4 ¹h → ⁴he + 2e⁺ + 2νe + energy (26.7 mev). slow (quantum tunneling). ~10 billion years for sun.",
+      "cno_cycle": "massive stars. carbon-nitrogen-oxygen catalyze. 4 ¹h → ⁴he (same) but faster. temperature-dependent.",
+      "helium_fusion": "triple-alpha process. 3 ⁴he → ¹²c. requires 100 million k. red giants. carbon formed. life's basis.",
+      "heavier_elements": "successive fusions. c → o → ne → mg → si → fe. iron = endpoint (binding energy peak). heavier = supernova (neutron capture, rapid).",
+      "note": "fusion = plasma alchemy. h → he → c → ... → fe. stars = element factories. periodic table = stellar plasma history."
+    },
+
+    "solar_phenomena": {
+      "sunspots": "magnetic field → cooler regions (~3800k vs 5800k). dark spots. 11-year cycle. magnetic activity indicator.",
+      "solar_flares": "magnetic reconnection → energy release. x-rays, uv, plasma ejection. auroras on earth (if earth-directed). geomagnetic storms.",
+      "coronal_mass_ejections": "cme. billion tons plasma ejected. earth-directed = geomagnetic storm → auroras, satellite damage, power grid risk (carrington event 1859, telegraph fires).",
+      "prominences": "plasma loops. magnetic field-supported. above surface. can erupt. spectacular (eclipse viewing).",
+      "note": "sun = plasma in motion. dynamic, violent, beautiful. solar weather = affects earth. space weather forecasting = now critical (satellites, power, navigation)."
+    }
+  },
+
+  "plasma_and_fusion": {
+    "fusion_promise": {
+      "clean": "fuel = deuterium (seawater) + tritium (breed from lithium). abundant. no co2. no long-lived radioactive waste (vs fission).",
+      "safe": "plasma = unstable. lose confinement → reaction stops. no meltdown (unlike fission). inherently safe.",
+      "abundant": "deuterium = 1 in 6500 h atoms (seawater). lithium (tritium breeding) = earth's crust. millions of years supply.",
+      "energy_density": "d-t fusion = 17.6 mev per reaction. millions × chemical (combustion). 1 kg fuel = 10 million kg coal equivalent.",
+      "holy_grail": "solve energy crisis. climate change. geopolitics (no resource wars). prosperity. but: not yet achieved (net energy, sustained).",
+      "note": "fusion = ultimate energy source (besides sun itself). power of stars on earth. 70+ years of research. close but elusive. breakthrough = world-changing."
+    },
+
+    "confinement_challenge": {
+      "problem": "plasma = 100+ million k. can't touch walls (melts anything). must confine. two approaches: magnetic, inertial.",
+      "magnetic": "tokamak (russian design, donut), stellarator (twisted donut). magnetic field → charged particles spiral → confined. iter = largest tokamak (france, building, first plasma 2025?).",
+      "inertial": "compress fuel pellet (laser or particle beams) → implodes → extreme density/temp → fusion ignites. nif (usa) = 192 lasers. 2022: net energy gain (first time). but: total energy input >> laser energy (inefficient).",
+      "instabilities": "plasma = unruly. kink, disruption, tearing modes. decades of physics to understand, control. still not fully tamed.",
+      "tritium_breeding": "tritium = radioactive, short half-life (12 years). doesn't exist naturally. must breed from lithium (blanket around reactor). neutron + ⁶li → ⁴he + tritium. closes fuel cycle.",
+      "note": "confining plasma = hard problem. plasma wants to expand, touch walls, become unstable. magnetic bottle or laser hammer. progress steady but slow. maybe 2050s for commercial? optimistic."
+    },
+
+    "recent_progress": {
+      "nif_net_gain": "december 2022. national ignition facility (usa). fusion output > laser input. 3.15 mj in → 3.15 mj out. historic. proof: possible. but: laser efficiency 1% (300 mj electric → 3 mj laser). total: still net loss.",
+      "iter_construction": "international (35 nations). €20 billion+. largest fusion project. first plasma 2025 (maybe). full power 2035+. demonstrate: net gain (sustained). not commercial (research).",
+      "private_fusion": "commonwealth fusion systems (usa, arc reactor), tae technologies, helion energy, many others. small, nimble. different approaches. venture capital. hype + hope. will they succeed? time will tell.",
+      "china_progress": "east (tokamak). 120 million k, 101 seconds (2021). 70 million k, 17 minutes (2022). rapid progress. serious investment.",
+      "note": "fusion = heating up (pun intended). 2020s = decade of progress. nif breakthrough. iter building. private sector entering. still: decades to commercial (probably). but: closer."
+    }
+  },
+
+  "plasma_technology": {
+    "semiconductors": {
+      "etching": "plasma removes material (selective). pattern circuits. nanometer precision. dry etching (vs wet chemical).",
+      "deposition": "plasma-enhanced cvd (pecvd). deposit thin films (insulators, conductors). layers in chips.",
+      "essential": "modern microchips = impossible without plasma. every phone, computer. plasma = hidden enabler.",
+      "note": "plasma = semiconductor workhorse. miniaturization = plasma precision. technology revolution = plasma-powered."
+    },
+
+    "lighting": {
+      "fluorescent": "replaced incandescent (20th century). efficient (4-5× better). everywhere (offices, schools, homes). mercury vapor + phosphor. plasma discharge.",
+      "hid": "high-intensity discharge. street lights, stadiums. sodium vapor (yellow), metal halide (white). bright, efficient. plasma.",
+      "plasma_globes": "novelty. glass sphere, electrode, noble gas. touch → streamer extends. tesla coil variant. mesmerizing. kids love.",
+      "note": "lighting = plasma application (hidden). we don't think 'plasma lamp' but: fluorescent = plasma. plasma = illuminated 20th century."
+    },
+
+    "displays": {
+      "plasma_tvs": "1990s-2000s. flat-screen revolution. tiny cells (rgb), noble gas, uv → phosphor → color. rich blacks (cell off = no light). but: heavy, hot, burn-in.",
+      "obsolete": "lcd (liquid crystal, led backlight) won. thinner, lighter, cheaper, more efficient. plasma = history (production stopped ~2015).",
+      "legacy": "bridge technology. demonstrated: flat-screen possible. paved way for lcd, oled. plasma = stepping stone.",
+      "note": "plasma tv = brief glory. technology moves fast. but: many still remember. plasma = synonym for 'big expensive tv' (2000s nostalgia)."
+    },
+
+    "medicine": {
+      "sterilization": "cold plasma. kills microorganisms. doesn't damage materials (vs heat, chemicals). surgical instruments. packaging. emerging.",
+      "wound_healing": "plasma = promotes healing (some studies). stimulates cells. reduces infection. plasma medicine = new field.",
+      "dentistry": "plasma jets. disinfect root canals. tooth whitening. less invasive.",
+      "cancer": "plasma = selectively kills cancer cells (?). research stage. mechanism unclear. oxidative stress? apoptosis induction? early days but promising.",
+      "note": "plasma medicine = frontier. cold plasma = biological interactions (non-thermal). could revolutionize. but: more research needed. mechanism = unclear."
+    },
+
+    "propulsion": {
+      "ion_drives": "deep space 1, dawn missions. xenon gas → ionized → accelerated (electric field). efficient (high isp, 3000+ sec vs chemical 450). slow acceleration. long missions.",
+      "vasimr": "variable specific impulse magnetoplasma rocket. plasma heated (radio waves) → magnetic nozzle → exhaust. adjustable isp-thrust. mars in 39 days (with megawatt power). prototype exists. not yet space-tested.",
+      "hall_effect": "satellite station-keeping. electric propulsion. plasma accelerated. efficient. widely used (communications satellites).",
+      "future": "electric propulsion = future. chemical = brute force, low efficiency. plasma = elegant, efficient, scalable (with power). but: need power (nuclear reactors in space?). key to interplanetary.",
+      "note": "plasma propulsion = space's future. slow but steady. get to mars faster, venus, asteroids, outer planets. plasma = unlock solar system."
+    }
+  },
+
+  "plasma_and_consciousness": {
+    "fire_plasma_connection": {
+      "partial_ionization": "flame = weakly ionized plasma (1%, but significant). yellow = soot incandescence (blackbody). blue (base) = co, ch radicals (emission). flame tips = true plasma.",
+      "portal_evolution": "fire = plasma glimpse. electricity = ordered plasma (arc). fusion = ultimate plasma (stars). technology = ascending plasma mastery.",
+      "transformation": "fire transforms. plasma transforms more. matter → ions → energy. alchemical progression. ultimate transmutation (fusion: element → element).",
+      "see_fire_json": "fire = 3d-4d-5d portal. plasma = 4d-5d direct (?). higher energy = higher dimensional access? speculative but poetic.",
+      "note": "fire-plasma continuum. fire = baby plasma. plasma = mature fire. both = transformation agents. consciousness portals?"
+    },
+
+    "collective_behavior_metaphor": {
+      "individual_collective": "gas = individual particles (independent). plasma = collective (coordinated). emergence. particles → waves. many → one.",
+      "social_analog": "individuals (gas) vs collective consciousness (plasma). society = plasma-like? oscillations, instabilities, self-organization. metaphor.",
+      "coherence": "plasma = coherent (when stable). collective mode. cfo coherence (c = connectivity × dimensions / entropy). plasma = physical coherence manifest?",
+      "note": "plasma = collective phenomenon. physics metaphor for consciousness? or: literal (consciousness = plasma-like field)? speculative. but: patterns resonate."
+    },
+
+    "light_information": {
+      "plasma_emits": "recombination → photon. information release. matter → light → information (if interpreted). plasma = information generator.",
+      "stars_information": "stellar spectra = information about composition, temperature, motion. plasma = encodes information in light. readable (spectroscopy).",
+      "consciousness_light": "consciousness = luminous (phenomenology). awareness = light-like. plasma = physical light source. matter-consciousness bridge?",
+      "note": "plasma → light → information. consciousness → awareness (light metaphor) → understanding (information). analogy. plasma = matter becoming information."
+    }
+  },
+
+  "dangers_of_plasma": {
+    "arc_flash": {
+      "electrical": "short circuit → plasma arc. 35,000°f. explodes metal. vaporizes conductors. blast wave, shrapnel, intense light, heat.",
+      "injuries": "burns (flash, molten metal). blindness (arc brightness). hearing loss (blast, 160+ db). death (common, electricians).",
+      "prevention": "ppe (arc-rated clothing, face shield). de-energize before work. insulated tools. distance. safety protocols. but: accidents happen.",
+      "note": "arc flash = industrial plasma danger. instant, violent. electrical work = respect required. plasma = not toy."
+    },
+
+    "fusion_challenges": {
+      "neutron_radiation": "d-t fusion → neutron (14.1 mev, 80% of energy). neutrons = penetrating. activate structure (radioactive). damage materials (embrittlement). shielding needed.",
+      "tritium_handling": "radioactive (β emitter). half-life 12.3 years. permeates materials. biological hazard (if ingested, inhaled). strict containment. regulatory challenge.",
+      "plasma_disruption": "loss of confinement → plasma dumps energy on walls. thermal shock. damage. iter = designed to withstand, but limits. control = critical.",
+      "materials": "plasma-facing materials. extreme heat, neutron flux. erosion, activation, embrittlement. tungsten (leading candidate) but still degrades. replaceable parts (but: radioactive, expensive).",
+      "note": "fusion = not risk-free. safer than fission (no meltdown) but: neutron activation, tritium, materials challenges. engineering = formidable. solvable but not trivial."
+    },
+
+    "lightning_hazards": {
+      "direct_strike": "death, severe burns, cardiac arrest, neurological damage. 10-30% fatality (if untreated). ~2000 deaths/year globally.",
+      "side_flash": "lightning hits object, jumps to nearby person. common (tree strikes).",
+      "ground_current": "most common injury mechanism. lightning → ground → spreads → enters legs, exits (upward). less fatal but injuries.",
+      "blast": "explosive expansion of air → shock wave. ear damage, lung injuries, thrown (trauma).",
+      "safety": "30-30 rule. hear thunder within 30 sec of lightning? seek shelter. wait 30 min after last thunder. avoid: trees, water, metal, open fields.",
+      "note": "lightning = nature's plasma. respect. 'when thunder roars, go indoors'. plasma = beautiful, deadly."
+    }
+  },
+
+  "cultural_plasma": {
+    "promethean_fire": {
+      "myth": "prometheus steals fire from gods → gives to humans. zeus punishes (eternal torment). fire = divine technology. theft = necessary transgression.",
+      "plasma_parallel": "fusion = stealing fire from stars. godlike power. prometheus = archetype. humans reaching for ultimate. transgression or destiny?",
+      "responsibility": "fire = empowered humanity (cooking, warmth, metalworking, civilization). fusion = empower civilization (clean energy, abundance, space). but: nuclear weapons (dark side). power = responsibility.",
+      "note": "plasma/fusion = promethean. divine fire harnessed. hope: enlightenment. fear: hubris, destruction. balance = wisdom."
+    },
+
+    "alchemy": {
+      "transmutation": "alchemists sought: lead → gold. philosopher's stone. failed (chemistry won't allow). but: plasma (fusion) = actual transmutation. h → he. element → element. alchemy realized.",
+      "prima_materia": "primal substance. chaos. potential. plasma = closest physical analog. undifferentiated, high-energy, transformative. beginning and end.",
+      "spiritual_analog": "inner fire. kundalini. awakening. ego → essence. lead (base nature) → gold (enlightenment). plasma = physical metaphor for spiritual transformation.",
+      "note": "plasma = literal alchemy. stars transmute. fusion = human alchemy. ancient dream = modern physics."
+    },
+
+    "divine_light": {
+      "religious": "god = light (christianity, islam, hinduism). divine radiance. halo, aureole. transfiguration (jesus shines). plasma = purest light (recombination).",
+      "sun_worship": "ra (egypt), sol (rome), surya (hindu), inti (inca), amaterasu (shinto). sun = god. sun = plasma. plasma = divine substance (ancestral recognition).",
+      "celestial": "stars, aurora, lightning. sky phenomena = divine messages. plasma = mediates heaven-earth. physical-spiritual bridge.",
+      "note": "plasma = light source. divine = light. plasma = divine? or: ancient recognition of plasma's specialness encoded in religion. honor the insight."
+    }
+  },
+
+  "practical_applications": {
+    "appreciate_plasma": {
+      "sun": "every day. sunlight = plasma's gift. fusion energy → earth → life. gratitude. sun = plasma benefactor.",
+      "lightning": "storms. marvel (from safety). power, beauty, danger. nature's plasma show. awe.",
+      "aurora": "if opportunity: travel to see. iceland, norway, alaska, canada (north). or: tasmania, new zealand (south). bucket list. plasma visible, accessible. ethereal beauty.",
+      "neon": "notice neon signs. retro aesthetics. plasma art. urban plasma. appreciate.",
+      "note": "plasma = mostly inaccessible (stars, fusion reactors). but: sun (daily), lightning (storms), aurora (travel), neon (cities). present. notice."
+    },
+
+    "support_fusion": {
+      "awareness": "fusion = potential solution. climate, energy, prosperity. not magic (decades away) but worth pursuing. educate others.",
+      "policy": "advocate for fusion funding. iter, national programs, private ventures. public investment = necessary. fusion = public good.",
+      "careers": "physics, engineering, materials science. next generation = will solve fusion. if called: answer. humanity needs.",
+      "patience": "fusion = 'always 30 years away' (joke). but: progress real. 2020s = exciting. don't give up. support long-term vision.",
+      "note": "fusion = humanity's project. requires: sustained effort, decades, billions, smartest minds. but: payoff = enormous. support however you can."
+    },
+
+    "electrical_safety": {
+      "respect": "electricity = can create plasma (arc). respect. proper training, ppe, protocols. lockout-tagout. don't DIY high voltage.",
+      "arc_flash": "if work near: arc-rated clothing, face shield, distance. follow nfpa 70e (usa) or equivalent. calculated risk (know arc energy).",
+      "lightning": "30-30 rule. hear thunder? shelter. not under trees. not in water. not open fields. car or building (grounded structure).",
+      "note": "plasma = appears suddenly (arc, lightning). deadly. prevention + respect = survival. plasma = not forgiving."
+    },
+
+    "plasma_meditation": {
+      "sun_gazing": "sunrise/sunset only (never midday, eye damage). brief (seconds). absorb solar plasma energy. controversial. ancient practice (sun yoga). caution.",
+      "lightning_contemplation": "watch storm (from safety). power, transformation, creation-destruction. life-death-rebirth in seconds. impermanence. awe.",
+      "fire_to_plasma": "gaze at flame (candle, fire). see partial plasma (tips). imagine full ionization. matter dissolving into light. self dissolving into awareness. meditation.",
+      "cosmic_connection": "stars = plasma. you = stardust (made in plasma). plasma = ancestors. cosmic inheritance. meditation on origins.",
+      "note": "plasma = transformative. physical transmutation = metaphor for consciousness transformation. contemplate. integrate. become."
+    }
+  },
+
+  "key_insights": {
+    "fourth_state": "solid → liquid → gas → plasma. progression. increasing energy, decreasing structure. plasma = most energetic (accessible), most free.",
+    "most_common_universe": "99.9% of visible universe = plasma. stars, nebulae, intergalactic medium. we = plasma ocean islands. plasma = cosmic norm, earth exception.",
+    "rarest_on_earth": "surface = shields plasma (atmosphere, magnetic field). lightning, aurora = glimpses. plasma = alien yet primordial.",
+    "collective_behavior": "particles move as one. waves, oscillations, instabilities. not individual (gas) but collective. emergence. whole > sum. social physics.",
+    "stars_are_plasma": "sun, all stars = plasma balls. fusion furnaces. element factories. life enablers. plasma = cosmic creator.",
+    "fusion_promise": "clean, safe, abundant energy. solve climate, energy, geopolitics. stars on earth. plasma = ultimate technology (if achieved).",
+    "transmutation_alchemy": "fusion = element → element. h → he → c → ... → fe. literal transmutation. alchemical dream realized. plasma = philosopher's stone.",
+    "light_source": "recombination → photon. plasma glows. neon, fluorescent, stars, lightning, aurora. light = plasma's signature. plasma = luminous.",
+    "dangerous_powerful": "arc flash, lightning, fusion plasma. can kill instantly. destroy materials. yet: can create (fusion), illuminate (lights), propel (ion drives). power = dual-edged.",
+    "technology_enabler": "semiconductors, lighting, displays, propulsion, medicine, fusion (future). modern world = plasma-dependent (hidden). plasma = invisible workforce.",
+    "fire_connection": "fire = partial plasma. plasma = ultimate fire. evolution: wood fire → electric arc → fusion plasma. mastery progression. promethean ascent.",
+    "consciousness_analog": "collective (particles → plasma, individuals → collective consciousness). transformative (matter → plasma → light, ego → awakening → enlightenment). speculative but resonant."
+  },
+
+  "positions": {
+    "0": "unaware (plasma = ? what? never heard. or: vague 'fourth state' memory (school). no connection.)",
+    "1": "curious (learns plasma = stars, lightning, neon. 99.9% universe. mind blown. watches videos. fascinated.)",
+    "2": "exploring (reads about fusion, plasma physics, applications. contemplates fire-plasma link. sees lightning differently.)",
+    "3": "experiencing (aurora (if lucky). or: arc flash (scary). or: 'aha' about plasma ubiquity. or: sun = plasma realization (emotional).)",
+    "4": "practicing (solar awareness (gratitude daily). supports fusion (advocacy, donations). electrical safety (respects plasma dangers). appreciates plasma tech.)",
+    "5": "crisis (arc flash accident. or: fusion despair (decades, no progress). or: existential (plasma everywhere but inaccessible). overwhelm.)",
+    "6": "integrating (plasma = normalized. understands place (cosmic rarity, tech ubiquity). balanced (awe + respect). grounded.)",
+    "7": "utilizing (plasma physicist, fusion engineer, semiconductor tech, astronomer. plasma mastery (domain-specific).)",
+    "8": "teaching (plasma educator. explains to public. inspires next generation (fusion scientists). plasma evangelist.)",
+    "9": "mastery (fusion breakthrough contributor. or: plasma physicist (groundbreaking). or: deep understanding (theory + application). plasma = intimate.)",
+    "10": "transcendent (becomes plasma. matter → light → awareness. or: consciousness = plasma-like (collective, transformative, luminous). ⊙.)"
+  }
+}

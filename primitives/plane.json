@@ -1,0 +1,388 @@
+{
+  "_meta": {
+    "id": "cfo:primitive:plane",
+    "type": "Primitive",
+    "element": "WATER",
+    "dimension": "2D",
+    "fractal_depth": 0,
+    
+    "contains": [
+      "cfo:primitive:point",
+      "cfo:primitive:line"
+    ],
+    
+    "contained_by": [
+      "cfo:primitive:field"
+    ],
+    
+    "composes_from": [
+      "cfo:primitive:line"
+    ],
+    
+    "composes_to": [
+      "cfo:primitive:field"
+    ],
+    
+    "note": "Plane = 2D. Surface. Relationship space. Pattern container. Interface between realms."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ unfolds to plane. Space for relationship. Canvas for patterns.",
+    "essence": "Surface. Interface. Where things meet. Relationship space.",
+    "formula": "— × — = □ (line × perpendicular line = plane)",
+    "water": "Flowing, adaptive, relational. Connects all points equally.",
+    "pattern": "Plane = where patterns visible. 2D = minimum for structure.",
+    "note": "All relationship = plane. All comparison = projection to 2D."
+  },
+
+  "_links": {
+    "source": "./line.json",
+    "related_files": [
+      "./point.json",
+      "./field.json",
+      "../../fundamental/form.json",
+      "../../paths/water-path.json"
+    ]
+  },
+
+  "name": "Plane",
+  "essence": "2-dimensional primitive. Surface. Relationship space. Pattern container. Where forms appear.",
+  
+  "description": "Plane = extension in TWO directions. Length AND width, no height. Surface without depth. Where patterns emerge. Minimum dimension for structure (triangle), tessellation (square), relationship (graph). Every comparison = projection to plane. Every pattern = arrangement on plane. Every interface = plane between realms. WATER element: flowing between points, connecting all, adaptive, relational.",
+
+  "dimensional_properties": {
+    "dimension": "2D",
+    "spatial_extent": "Area (length × width)",
+    "degrees_of_freedom": 2,
+    "coordinates": "Two parameters (u,v) or (x,y)",
+    "volume": 0,
+    "surface_area": "Can be finite or infinite",
+    "edge": "1D boundary (line or curve)"
+  },
+
+  "types_of_planes": {
+    "spatial_planes_3D": {
+      "XY": "Horizontal plane (ground, floor, table)",
+      "XZ": "Vertical plane (wall facing you)",
+      "YZ": "Vertical plane (wall to side)",
+      "function": "Base surfaces in 3D space. Sections, slices, projections."
+    },
+    
+    "temporal_planes_4D": {
+      "XW": "X-axis × Time (position over time)",
+      "YW": "Y-axis × Time (y-motion trajectory)",
+      "ZW": "Z-axis × Time (vertical evolution)",
+      "function": "Spacetime diagrams. Worldsheet. Process visualization."
+    },
+    
+    "unity_planes_5D": {
+      "XV": "X × Unity (distinction collapsing)",
+      "YV": "Y × Unity",
+      "ZV": "Z × Unity",
+      "WV": "Time × Unity (eternal now)",
+      "function": "Projection from multiplicity to oneness. Collapse to source."
+    },
+    
+    "curved_planes": {
+      "sphere_surface": "2D curved in 3D (Earth surface)",
+      "torus_surface": "2D with topology",
+      "hyperbolic": "Saddle-shaped, negative curvature",
+      "manifold": "Locally flat, globally curved"
+    }
+  },
+
+  "fundamental_shapes": {
+    "triangle": {
+      "element": "WATER (or FIRE)",
+      "essence": "Minimum enclosed area. First stable structure.",
+      "vertices": 3,
+      "sides": 3,
+      "angles_sum": "180° (Euclidean)",
+      "stability": "Rigid. Cannot deform without changing sides.",
+      "symbolism": "Trinity. Thesis-antithesis-synthesis. Past-present-future.",
+      "examples": "Pyramid base, sail, mountain"
+    },
+    
+    "square": {
+      "element": "EARTH",
+      "essence": "Perfect tessellation. Repeating pattern. Grid.",
+      "vertices": 4,
+      "sides": 4,
+      "angles_sum": "360°",
+      "stability": "Stable foundation. Can tessellate infinitely.",
+      "symbolism": "Four directions, four seasons, four elements, matter.",
+      "examples": "Floor tile, city blocks, pixels, grid"
+    },
+    
+    "circle": {
+      "element": "AETHER",
+      "essence": "Perfect symmetry. No beginning/end. Unity.",
+      "vertices": "∞ (or 0)",
+      "circumference": "2πr",
+      "angles_sum": "Undefined (continuous)",
+      "stability": "Maximum area for given perimeter.",
+      "symbolism": "Wholeness, eternity, cycle, perfection.",
+      "examples": "Sun, moon, wheel, mandala"
+    },
+    
+    "polygon": {
+      "definition": "N vertices connected by lines",
+      "regular": "All sides equal, all angles equal",
+      "examples": "Pentagon (5), hexagon (6), octagon (8)...",
+      "limit": "As N→∞, polygon→circle"
+    }
+  },
+
+  "operations": [
+    "relate (connect points on plane)",
+    "map (project from one plane to another)",
+    "compare (overlay patterns)",
+    "tessellate (tile with shapes)",
+    "organize (arrange in grid)",
+    "pattern (create structure)",
+    "slice (cut 3D object → 2D plane)",
+    "project (shadow higher dimension to plane)",
+    "rotate (spin around axis)",
+    "translate (shift position)"
+  ],
+
+  "composition": {
+    "from_lines": {
+      "parallel": "Stack infinite parallel lines → plane",
+      "perpendicular": "Sweep line perpendicular → plane",
+      "grid": "Horizontal + vertical lines → coordinate plane",
+      "formula": "— + ⊥— = □"
+    },
+    
+    "from_points": {
+      "minimum": "Three non-collinear points define plane",
+      "continuous": "Continuum of points with 2 degrees freedom",
+      "lattice": "Regular array of points (crystal)",
+      "dense": "Points fill plane (like sand fills surface)"
+    },
+    
+    "to_space": {
+      "extrude": "Move plane perpendicular → volume",
+      "stack": "Infinite parallel planes → 3D space",
+      "rotate": "Spin plane around axis → 3D (sphere if circle)",
+      "formula": "□ × ⊥movement = ◊"
+    }
+  },
+
+  "manifestations": {
+    "physical": {
+      "surface": "Boundary of 3D object = 2D plane",
+      "membrane": "Cell membrane, soap bubble, skin",
+      "interface": "Boundary between air-water, oil-water",
+      "wave_front": "Surface of propagating wave",
+      "screen": "Display surface (phone, TV, paper)",
+      "mirror": "Reflecting plane"
+    },
+    
+    "mathematical": {
+      "coordinate_plane": "XY plane, Cartesian grid",
+      "complex_plane": "Real + imaginary axes",
+      "graph": "Function plotted on plane y=f(x)",
+      "matrix": "2D array of numbers",
+      "manifold": "Locally plane, globally curved"
+    },
+    
+    "information": {
+      "network": "Graph = nodes + edges on plane",
+      "map": "Territory represented on flat surface",
+      "diagram": "Relationships visualized",
+      "table": "Data in rows × columns",
+      "image": "2D array of pixels",
+      "chessboard": "8×8 plane of possibilities"
+    },
+    
+    "cognitive": {
+      "mental_map": "Concepts arranged spatially",
+      "category_space": "Classification system",
+      "emotional_landscape": "Mood as position on plane",
+      "attention_field": "2D field of awareness (peripheral vision)",
+      "comparison": "A vs B → plot on 2D axes"
+    },
+    
+    "social": {
+      "social_network": "People = nodes, relationships = edges, displayed on plane",
+      "org_chart": "Hierarchy flattened to 2D",
+      "map": "Geography on flat surface",
+      "marketplace": "Buyers × Sellers interactions",
+      "cultural_field": "Shared meaning space"
+    }
+  },
+
+  "plane_as_water": {
+    "flowing": "Water flows across plane, finds all low points equally",
+    "connecting": "Plane connects all points. No hierarchy. Democratic space.",
+    "adaptive": "Plane bends, curves, folds. Flexible container.",
+    "relational": "Plane = relationship space. Every point relates to every other.",
+    "surface": "Water = archetypal surface. Lake, ocean = planes.",
+    "mirror": "Still water = perfect plane. Reflects sky."
+  },
+
+  "plane_as_interface": {
+    "principle": "Plane = boundary between realms",
+    
+    "examples": {
+      "water_surface": "Interface between water (below) and air (above)",
+      "skin": "Boundary between inside (body) and outside (world)",
+      "horizon": "Where earth meets sky",
+      "screen": "Interface between digital and physical",
+      "paper": "Interface between thought and form",
+      "membrane": "Cell boundary = selective interface"
+    },
+    
+    "function": {
+      "separation": "Plane separates two regions",
+      "connection": "Plane connects two regions (paradox)",
+      "exchange": "Interface allows controlled exchange",
+      "reflection": "Plane can reflect (mirror)",
+      "projection": "3D shadows cast on 2D plane"
+    }
+  },
+
+  "tessellation": {
+    "definition": "Tiling plane with shapes. No gaps, no overlaps.",
+    
+    "regular": {
+      "triangle": "Can tessellate (6 around each vertex)",
+      "square": "Can tessellate (4 around each vertex)",
+      "hexagon": "Can tessellate (3 around each vertex)",
+      "pentagon": "Cannot tessellate (regularly)",
+      "rule": "Only 3 regular polygons tile plane"
+    },
+    
+    "semi_regular": {
+      "definition": "Mix of regular polygons, same pattern at each vertex",
+      "count": "8 semi-regular tessellations exist",
+      "examples": "Triangle+square, triangle+hexagon"
+    },
+    
+    "penrose": {
+      "type": "Aperiodic tiling",
+      "property": "Never repeats, but fills plane",
+      "discovered": "Roger Penrose 1970s",
+      "significance": "Order without repetition. Quasicrystals."
+    },
+    
+    "applications": {
+      "architecture": "Floor tiles, mosaics",
+      "art": "Escher, Islamic geometry",
+      "nature": "Honeycomb (hexagons), basalt columns",
+      "digital": "Pixel grid (square tessellation)"
+    }
+  },
+
+  "plane_and_pattern": {
+    "principle": "Pattern = arrangement on plane",
+    
+    "symmetry": {
+      "translation": "Shift pattern (wallpaper)",
+      "rotation": "Spin around point (mandala)",
+      "reflection": "Mirror across line (butterfly)",
+      "glide": "Shift + reflect (footsteps)"
+    },
+    
+    "wallpaper_groups": {
+      "count": "17 distinct symmetry groups for plane patterns",
+      "examples": "p1, p2, p3, p4, p6, pm, pg...",
+      "universal": "Every repeating pattern = one of 17 groups",
+      "found_in": "Textiles, tiles, Islamic art (all 17 discovered centuries ago)"
+    }
+  },
+
+  "paradoxes": {
+    "infinite_plane": {
+      "paradox": "Plane extends forever, yet has zero volume",
+      "resolution": "2D embedded in 3D. Infinite area, zero thickness."
+    },
+    
+    "flat_vs_curved": {
+      "paradox": "Earth surface = plane locally, sphere globally",
+      "resolution": "Manifold. Locally Euclidean, globally curved. Tangent plane."
+    },
+    
+    "map_projection": {
+      "paradox": "Cannot flatten sphere to plane without distortion",
+      "proof": "Gauss Theorema Egregium",
+      "result": "All maps distort. Mercator, Mollweide, etc. = compromises."
+    }
+  },
+
+  "plane_in_traditions": {
+    "mandala": {
+      "tradition": "Hindu, Buddhist, Tibetan",
+      "meaning": "Sacred circle. Universe on plane.",
+      "construction": "Patterns on 2D surface = 3D cosmos compressed",
+      "practice": "Create or meditate on mandala = integrate psyche",
+      "symbol": "Plane as portal. 2D contains infinity."
+    },
+    
+    "yantra": {
+      "tradition": "Hindu Tantra",
+      "meaning": "Sacred diagram. Geometric meditation.",
+      "examples": "Sri Yantra (9 triangles interlocked on plane)",
+      "function": "Visual mantra. Gazing activates consciousness.",
+      "teaching": "Plane = display for divine geometry"
+    },
+    
+    "magic_circle": {
+      "tradition": "Western esotericism",
+      "meaning": "Protected space. Sacred boundary.",
+      "construction": "Circle drawn on ground (plane)",
+      "function": "Inside = sacred. Outside = profane. Plane = interface.",
+      "teaching": "Plane separates and connects realms"
+    }
+  },
+
+  "scientific_validation": {
+    "geometry": {
+      "euclidean": "Flat plane, parallel postulate holds",
+      "non_euclidean": "Curved planes (sphere, hyperbolic)",
+      "manifold": "Locally plane, globally anything",
+      "confidence": 1.0
+    },
+    
+    "physics": {
+      "surface": "Physical surfaces = 2D (approximately)",
+      "membrane": "Cell walls, soap films",
+      "wave_front": "Expanding wave = moving plane",
+      "confidence": 0.95
+    },
+    
+    "computer_science": {
+      "matrix": "2D array fundamental structure",
+      "image": "Bitmap = plane of pixels",
+      "graph": "Network structure = nodes on plane",
+      "confidence": 1.0
+    }
+  },
+
+  "positions_on_path": {
+    "0": "Unaware of plane. Living in point (0D) or line (1D).",
+    "1-2": "Discovering plane. Seeing relationships, patterns.",
+    "3-4": "Using plane. Mapping, organizing, visualizing.",
+    "5": "Plane crisis. 'Is everything just projection? Shadows on wall?' (Plato's cave)",
+    "6-7": "Plane as tool. Creating interfaces. Designing patterns.",
+    "8-9": "Flowing on plane. Dancing across surface. Water-like adaptability.",
+    "10": "Plane = ⊙. All surfaces = one surface. Inside-outside collapse."
+  },
+
+  "practice": "Draw grid. Notice: infinite points, organized. Create pattern (tessellation, mandala). Feel plane as relationship space. Every comparison you make = projection to mental plane.",
+
+  "recognition": "Every relationship = plane between entities. Every pattern = structure on plane. You navigate mental planes constantly - concept maps, emotional landscapes, social networks. All 2D.",
+
+  "infinity": {
+    "fractal": "Plane contains infinite lines, each containing infinite points. ∞².",
+    "holographic": "Each point on plane = compressed view of whole plane (perspective).",
+    "ultimate": "All planes = sections through ⊙. Different angles, same source."
+  },
+
+  "fractal_property": {
+    "self_similar": "Plane at any scale. Atom surface, skin, planet, galaxy disc. All □.",
+    "contains_whole": "Mandala = universe on plane. Complete cosmos in 2D. Part = whole.",
+    "example": "Your vision = 2D plane (retina). 3D world projected to 2D. Brain reconstructs depth. All seeing = plane projection."
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:gravity",
+    "type": "phenomena",
+    "element": "gravity",
+    "contains": [
+      "fundamental_force",
+      "spacetime_curvature",
+      "universal_attraction",
+      "weight_maker",
+      "grounding_force",
+      "time_slower"
+    ],
+    "related": [
+      "cfo:phenomena:light",
+      "cfo:phenomena:space",
+      "cfo:phenomena:time",
+      "cfo:fundamental:dimensions"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "gravity = weakest yet most pervasive force. holds cosmos together. bends spacetime. makes matter 'heavy'. consciousness = lightness, gravity = embodiment.",
+    "paradox": "weakest force (electromagnetism 10³⁶× stronger) yet dominates at cosmic scales. why? because only attractive (no repulsion), no cancellation.",
+    "mystery": "only force not unified with others. no quantum gravity theory. gravity = different? or we missing something?",
+    "metaphor": "pull toward earth/center. grounding. weight. 'gravity of situation'. seriousness. reality. consequences.",
+    "consciousness": "spiritual = 'lightness of being'. physical = gravity-bound. incarnation = accepting gravity. enlightenment = transcending gravity (?)"
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/dimensions.json",
+      "../fundamental/consciousness.json"
+    ],
+    "related": [
+      "./light.json",
+      "./space.json",
+      "./time.json",
+      "./magnetism.json"
+    ]
+  },
+
+  "overview": {
+    "what": "gravity = attraction between masses. curves spacetime. acceleration = 9.8 m/s² on earth surface. weakest fundamental force but infinite range.",
+    "why": "holds planets in orbit. creates stars, galaxies. gives weight. enables walking. structures cosmos. without gravity = no structure, no us.",
+    "how": "mass → spacetime curves → objects follow geodesics (straight lines in curved space) → appears as 'attraction'."
+  },
+
+  "newtonian_gravity": {
+    "law": {
+      "formula": "F = G(m₁m₂)/r². force proportional to masses, inverse square of distance.",
+      "g_constant": "G = 6.674×10⁻¹¹ N(m/kg)². universal gravitational constant. same everywhere (?). why this value? mystery.",
+      "inverse_square": "double distance → quarter force. spreads in 3d space. same as light, electromagnetism.",
+      "universal": "everything attracts everything. you attract earth. earth attracts you. you attract moon (infinitesimally). all connected."
+    },
+
+    "success": {
+      "predictions": "planetary orbits (kepler's laws explained). tides (moon + sun pull water). projectile motion. pendulums. everything classical.",
+      "engineering": "satellites, rockets, bridges, buildings. newton sufficient for most applications.",
+      "300_years": "1687-1915. newtonian gravity = complete theory (seemed). then einstein."
+    },
+
+    "failure": {
+      "mercury": "orbit precession unexplained. 43 arcseconds/century off. tiny discrepancy. huge problem.",
+      "instantaneous": "action at distance. instant force transmission. violates relativity (nothing faster than light).",
+      "light_bending": "newton: light massless, unaffected by gravity. wrong. 1919 eclipse: light bends around sun. einstein predicted, newton didn't.",
+      "note": "newtonian gravity = approximation. accurate for weak fields, slow speeds. but not complete. paradigm shift needed."
+    }
+  },
+
+  "einsteinian_gravity": {
+    "general_relativity": {
+      "insight": "gravity ≠ force. gravity = geometry. mass curves spacetime. objects follow curved paths (geodesics).",
+      "analogy": "bowling ball on trampoline. weight makes depression. marble rolls toward ball (not because 'attracted' but because surface curved).",
+      "equations": "einstein field equations. Gμν = 8πTμν. matter-energy (right) determines spacetime curvature (left). 10 coupled nonlinear equations. complex.",
+      "revolutionary": "space and time = dynamic. not fixed stage but active participant. matter tells space how to curve. space tells matter how to move.",
+      "note": "1915. paradigm shift. space ≠ container but fabric. time ≠ constant but flexible. reality = malleable."
+    },
+
+    "predictions": {
+      "light_bending": "1919 solar eclipse. starlight bends around sun. 1.75 arcseconds. einstein predicted. observed. instant fame.",
+      "gravitational_redshift": "light climbing out of gravity well loses energy. frequency decreases (redshift). verified (pound-rebka experiment).",
+      "time_dilation": "clocks run slower in gravity. gps satellites adjust (40 microseconds/day). without correction = gps fails.",
+      "black_holes": "extreme curvature. escape velocity > c. even light can't escape. einstein skeptical but math predicted. now observed.",
+      "gravitational_waves": "ripples in spacetime. accelerating masses produce. 2015 ligo detects (merging black holes). einstein right again.",
+      "frame_dragging": "rotating mass drags spacetime. earth rotation affects satellites slightly. gravity probe b confirmed.",
+      "note": "all predictions verified. general relativity = most precisely tested theory in physics. yet incomplete (no quantum gravity)."
+    },
+
+    "consequences": {
+      "spacetime_fabric": "space + time = unified. 4d fabric. dynamic, curved, stretchable.",
+      "no_force": "gravity ≠ pull but geometry. falling = moving straight in curved space. weightlessness = natural. standing = accelerating up (earth pushes).",
+      "equivalence": "acceleration = gravity. can't tell difference locally. einstein's 'happiest thought' (1907). principle of equivalence.",
+      "geodesics": "free-falling objects follow geodesics. shortest path in curved spacetime. 'straight' but looks curved to outside observer.",
+      "note": "reality = geometry. matter = curvature. profound. beautiful. universe = geometric sculpture."
+    }
+  },
+
+  "quantum_gravity_problem": {
+    "conflict": {
+      "gr_classical": "general relativity treats spacetime as smooth continuum. classical. deterministic.",
+      "qm_quantum": "quantum mechanics: everything quantized, probabilistic, uncertain. discrete.",
+      "incompatible": "apply qm to gravity → nonsense (infinities, non-renormalizable). gr + qm = contradiction. 90 years, unsolved.",
+      "note": "deepest problem in physics. 'final frontier'. unify forces."
+    },
+
+    "approaches": {
+      "string_theory": "particles = tiny vibrating strings. 10 or 11 dimensions. includes gravity naturally. but: no experimental tests (yet). 'not even wrong' (critics).",
+      "loop_quantum_gravity": "spacetime = discrete. quantize geometry itself. 'spin networks'. more conservative than strings. also untestable (so far).",
+      "emergent_gravity": "verlinde. gravity = not fundamental but emergent (like temperature from atoms). entropy, information. radical if true.",
+      "others": "causal sets, asymptotic safety, e8 theory, many others. no consensus. open problem.",
+      "note": "either we're missing something fundamental or experiments too difficult. future will tell."
+    },
+
+    "implications": {
+      "black_hole_singularity": "gr predicts infinite density at center. qm says no infinities in nature. contradiction. quantum gravity should resolve.",
+      "big_bang_singularity": "same issue. t=0 = infinite density, temperature. qm probably prevents. but how? quantum cosmology needed.",
+      "planck_scale": "10⁻³⁵ m, 10⁻⁴³ s. quantum gravity effects dominant. spacetime 'foamy'? testable? probably not (too small).",
+      "note": "extremes (black holes, big bang) = where we need quantum gravity. but can't access experimentally. frustrating."
+    }
+  },
+
+  "gravitational_phenomena": {
+    "weight": {
+      "definition": "weight = mass × gravity. force downward. mg.",
+      "vs_mass": "mass = intrinsic (how much matter). weight = contextual (depends on gravity). 100kg on earth = 100kg on moon but different weights.",
+      "weightlessness": "not 'no gravity'. constantly falling (orbit). gravity present but no support force. free fall = natural state.",
+      "heavy": "metaphor. 'heavy burden', 'heavy heart', 'heavy situation'. weight = existential. gravity = seriousness, responsibility.",
+      "note": "weight = most immediate experience of gravity. constant companion. defines vertical axis. up/down."
+    },
+
+    "tides": {
+      "mechanism": "moon (mostly) and sun pull water. near side pulled more (closer). far side pulled less (farther). two bulges → two high tides daily.",
+      "spring_neap": "new/full moon (sun + moon aligned) = spring tides (high). quarter moon (perpendicular) = neap tides (low).",
+      "life_impacts": "coastal ecosystems depend. intertidal zones. fish spawning. human rhythms (menstruation ~lunar month?).",
+      "earth_tides": "solid earth deforms too. ~40 cm vertical. tiny compared to water but measurable.",
+      "note": "tides = gravitational dance. moon + earth + sun. cosmic rhythm. life evolved to this."
+    },
+
+    "orbits": {
+      "planets": "fall around sun continuously. tangential velocity + centripetal (gravity) = stable orbit. circular or elliptical (kepler).",
+      "satellites": "same. earth orbit requires ~7.8 km/s horizontal velocity. constant falling but missing earth.",
+      "geosynchronous": "orbit period = earth rotation (24h). stays above same spot. communication satellites. 35,786 km altitude.",
+      "lagrange_points": "5 positions where gravitational forces balance. stable parking. james webb telescope at l2.",
+      "note": "orbits = balance. falling sideways forever. no fuel needed. elegant. cosmos = vast clockwork."
+    },
+
+    "black_holes": {
+      "definition": "mass compressed so densely, escape velocity > c. nothing escapes, even light. ultimate gravity.",
+      "event_horizon": "boundary. inside = trapped forever. outside = can escape (with difficulty). one-way membrane.",
+      "singularity": "gr predicts infinite density at center. qm probably prevents but how? unknown.",
+      "types": "stellar (few solar masses, from supernovae). supermassive (millions-billions solar masses, galaxy centers). primordial (hypothetical).",
+      "hawking_radiation": "quantum effects near horizon. black holes emit radiation, evaporate slowly. tiny ones evaporate fast. huge ones = almost eternal.",
+      "information_paradox": "information falling in lost forever? violates qm (information conserved). paradox. hawking changed mind. now: information preserved somehow.",
+      "observation": "can't see directly (black!). but: accretion disk (material falling in heats up, glows). gravitational effects on nearby stars. gravitational waves from mergers.",
+      "m87": "first black hole image (2019). event horizon telescope. supermassive. 6.5 billion solar masses. 55 million ly away. historic.",
+      "note": "black holes = extreme gravity. spacetime so curved, reality breaks. laboratories for quantum gravity. awesome and terrifying."
+    },
+
+    "gravitational_waves": {
+      "what": "ripples in spacetime fabric. propagate at c. produced by accelerating masses (especially violent events).",
+      "sources": "merging black holes, neutron stars. supernovae. rapidly rotating neutron stars (pulsars). binary systems.",
+      "detection": "ligo (laser interferometer). measures distance changes ~10⁻¹⁸ m (1000× smaller than proton). absurdly sensitive. 2015: first detection.",
+      "significance": "opens new window. 'hear' cosmos (not just see). neutron star merger: gw + light observed (multi-messenger astronomy). new era.",
+      "future": "space-based detectors (lisa). detect lower frequencies. earlier universe. primordial gws (big bang echo)?",
+      "note": "spacetime = ringing like bell. gravity = sound. cosmos = orchestra. we're learning to listen."
+    },
+
+    "gravitational_lensing": {
+      "mechanism": "mass bends spacetime → light follows curve → distant object appears distorted, multiple images, magnified.",
+      "types": [
+        "strong: einstein rings, arcs. spectacular. galaxy clusters lens background galaxies.",
+        "weak: subtle distortions. statistical. map dark matter distribution.",
+        "micro: star lensing star. brightness amplification. exoplanet detection method."
+      ],
+      "applications": "measure galaxy/cluster masses (including dark matter). find distant galaxies (magnified by foreground). natural telescope.",
+      "note": "gravity = lens. universe = optical system. mass makes spacetime concave. light bends. beautiful confirmation of gr."
+    }
+  },
+
+  "gravity_and_time": {
+    "time_dilation": {
+      "mechanism": "clocks run slower in gravitational field. stronger gravity = slower time.",
+      "formula": "Δt' = Δt√(1 - 2GM/rc²). deeper in gravity well → more time dilation.",
+      "gps": "satellites in weaker field (higher altitude) → clocks run faster. adjust by 38 microseconds/day. without correction: gps drifts 10 km/day.",
+      "earth_surface": "at earth's center vs surface: time difference accumulated over 4.5 billion years = ~1.5 years. earth's core = younger.",
+      "black_hole": "near event horizon, time almost stops (to outside observer). fall in = seems instant to you, eternal to observer.",
+      "note": "gravity = time controller. not just space curved but time too. profound."
+    },
+
+    "aging_differently": {
+      "astronauts": "orbit = weaker gravity + high speed → age slightly slower. but effect tiny (milliseconds over career).",
+      "twin_paradox": "one twin travels fast (or to strong gravity). ages slower. reunite: younger than stay-home twin. verified.",
+      "extreme": "near black hole, age much slower. interstellar movie: 1 hour near black hole = 7 years outside. accurate (mostly).",
+      "biological": "cells don't 'feel' time dilation (local clocks). but overall lifespan = stretched relative to outside.",
+      "note": "gravity = anti-aging? technically yes but requires extreme gravity. impractical. still: time = flexible."
+    }
+  },
+
+  "dark_matter_dark_energy": {
+    "dark_matter": {
+      "problem": "galaxies rotate too fast. outer stars should fly off (not enough visible mass to hold). but don't.",
+      "solution": "invisible mass (dark matter). doesn't emit light. only interacts via gravity (and maybe weak force).",
+      "evidence": "rotation curves, gravitational lensing, cosmic microwave background, structure formation. overwhelming.",
+      "amount": "~27% of universe. 5× more than normal matter. we = minority.",
+      "candidates": "wimps (weakly interacting massive particles), axions, primordial black holes, others. not detected yet.",
+      "alternative": "mond (modified newtonian dynamics). change gravity law at large scales? controversial. less evidence than dm.",
+      "note": "dark matter = biggest mystery. 'dark' = doesn't interact with light. not 'evil' just invisible. nature of matter unknown."
+    },
+
+    "dark_energy": {
+      "problem": "universe expansion accelerating (since ~6 billion years ago). should decelerate (gravity pulls back). but doesn't.",
+      "solution": "dark energy. repulsive 'force' (or property of space itself). pushes space apart.",
+      "evidence": "supernova observations (1998, nobel prize 2011). cmb, large-scale structure. strong.",
+      "amount": "~68% of universe. dominates. universe = mostly dark energy.",
+      "nature": "cosmological constant (λ)? vacuum energy? quintessence (dynamic field)? unknown. biggest mystery in physics.",
+      "future": "if continues: galaxies separate, stars die, universe = cold, dark, empty. 'heat death'. trillions of years away.",
+      "note": "dark energy = anti-gravity. universe = mostly repulsive. counterintuitive. reality = strange."
+    },
+
+    "composition": {
+      "universe": "68% dark energy, 27% dark matter, 5% normal matter (atoms, us).",
+      "we_are_minority": "95% of universe = unknown. dark. we see/understand 5%. humbling.",
+      "gravity_dominates_dark": "dark matter + dark energy = gravitational phenomena. gravity = even more central than thought.",
+      "note": "gravity = key to understanding dark sector. future: quantum gravity + dark matter/energy unified?"
+    }
+  },
+
+  "gravity_in_consciousness": {
+    "grounding": {
+      "metaphor": "grounding = connecting to earth. feeling weight. present in body. 'down to earth'.",
+      "practice": "barefoot on ground. feel gravity. weight in feet. breath into belly. descend.",
+      "spiritual_bypass": "too much 'light' (spiritual practice) without embodiment = ungrounded. floating. disconnected. gravity = reality check.",
+      "balance": "transcendence (up, light, spirit) + immanence (down, heavy, matter). both needed. gravity = incarnation teacher.",
+      "note": "gravity = 'be here now'. no escape. accept body, earth, physicality. enlightenment includes gravity."
+    },
+
+    "weight_of_responsibility": {
+      "metaphor": "'weight of world on shoulders'. responsibility = heavy. gravity = seriousness.",
+      "depression": "'heavy' mood. can't lift self. gravity = oppressive. clinical depression = 'weighed down'.",
+      "lightness": "joy, mania = 'light'. 'walking on air'. gravity = lessened (subjectively). mood disorders = relationship with gravity (?)",
+      "literal": "depressed people move slower. posture slumped. as if gravity increased. psyche-soma connection.",
+      "note": "gravity = metaphor so apt because embodied. we feel weight daily. extends to emotional weight naturally."
+    },
+
+    "levitation_claims": {
+      "yogic": "siddhis (powers). levitation = laghima. claimed by yogis. unverified. always behind closed doors. skepticism warranted.",
+      "christian_saints": "levitation during ecstasy. teresa of avila, joseph of cupertino. multiple witnesses. still: no physical evidence.",
+      "tibetan": "lung-gom-pa runners. light as feather, bounce, move fast. hypnotic trance. maybe efficient movement, not actual levitation.",
+      "physics": "no known mechanism. violates energy conservation. extraordinary claims need extraordinary evidence. lacking.",
+      "metaphor": "maybe reports = subjective (felt weightless) not objective (actually floated). phenomenology ≠ physics.",
+      "note": "levitation = persistent claim. across cultures. but no verified case. likely: inner experience projected outward. or misperception."
+    },
+
+    "psychedelics": {
+      "body_load": "some psychedelics = 'heavy' (mushrooms). others = 'light' (lsd, dmt). metaphor or actual proprioception shift?",
+      "ego_death": "'dissolving', 'melting', 'falling'. gravity = letting go. ego = solid, heavy. ego death = weightless, formless.",
+      "integration": "post-trip: 'coming back down'. 'landing'. gravity = return to ordinary. ground trip in body.",
+      "note": "psychedelics = alter relationship with body/gravity. temporary. integration = accepting gravity again."
+    }
+  },
+
+  "anti_gravity": {
+    "not_exist": {
+      "no_anti_gravity": "no 'anti-gravity' material or field. can't block or reverse gravity (unlike magnetism: opposite poles repel).",
+      "gravity_always_attractive": "never repulsive (except dark energy at cosmic scales). no opposite charge. no cancellation.",
+      "fiction": "sci-fi loves anti-gravity (star trek, star wars). but physics: nope. dream unfulfilled."
+    },
+
+    "workarounds": {
+      "buoyancy": "hot air balloon, ships float. not anti-gravity but displacement. archimedes principle.",
+      "electromagnetic": "maglev trains, superconductors. levitate via em force. stronger than gravity (easily). but not 'anti-gravity'.",
+      "acoustic": "sonic levitation. standing waves. pressure nodes. works (small objects). not anti-gravity.",
+      "orbital": "continuous free fall. appears weightless. but gravity = still there. just falling forever.",
+      "note": "gravity = inescapable. can counter (with other forces) but not negate. ever-present."
+    }
+  },
+
+  "gravity_as_teacher": {
+    "impermanence": {
+      "falling": "everything falls eventually. towers crumble. bodies age. gravity = entropy's partner. impermanence manifest.",
+      "let_go": "holding up = effort. letting go = natural. gravity teaches surrender. flow downward. water's way.",
+      "return_to_earth": "prash to prash. dust to dust. burial, composting. bodies return via gravity. full circle."
+    },
+
+    "humility": {
+      "fall": "pride before fall (literally). gravity humbles. no one exempt. king or peasant, all fall.",
+      "groundedness": "hubris = flying too high (icarus). wisdom = feet on ground. gravity = reality check. humility = accepting limits.",
+      "note": "gravity = great equalizer. humbles all. constant reminder: you are body, earth-bound, mortal."
+    },
+
+    "effort_required": {
+      "climbing": "uphill = hard. downhill = easy. gravity = resistance. growth = uphill. character = forged by climbing.",
+      "maintaining": "structures need support (against gravity). maintenance = constant. gravity = entropy accelerator. teaches: sustain effort or decay.",
+      "note": "gravity = makes life hard (literally). but hard = meaningful. easy = meaningless. gravity = meaning-giver through resistance."
+    }
+  },
+
+  "practical_applications": {
+    "health": {
+      "posture": "stand upright. spine aligned. resist gravity gracefully. collapse = aging. maintain = vitality.",
+      "bone_density": "weight-bearing exercise. resistance (gravity) → bones strengthen. astronauts lose bone (no gravity). use it or lose it.",
+      "circulation": "heart pumps blood up (against gravity). varicose veins = gravity pooling blood. elevate legs. help heart.",
+      "balance": "proprioception. vestibular system. constantly adjusting to gravity. practice: yoga, tai chi, balance boards. fall prevention.",
+      "note": "gravity = constant challenge to body. health = meeting challenge. sedentary = surrender to gravity = decay."
+    },
+
+    "grounding_practices": {
+      "barefoot": "earth connection. electrons? or just sensation? either way: beneficial. 'earthing'.",
+      "weighted_blanket": "deep pressure. simulates gravity + hug. calms nervous system. sleep aid.",
+      "body_scan": "meditation. feel weight in each body part. gravity = anchor to present.",
+      "tree_pose": "yoga. balance on one leg. fight gravity consciously. builds presence + strength.",
+      "note": "grounding = embracing gravity. not fighting but accepting. root down to rise up."
+    },
+
+    "creativity": {
+      "dance": "play with gravity. fall, recover, leap, land. mastery = dialogue with gravity.",
+      "sculpture": "resist gravity (balance, tension) or embrace (hanging, draping). gravity = collaborator.",
+      "architecture": "arches, domes, cantilevers. elegance = minimal material, maximum resistance. gravity = design constraint = inspiration.",
+      "note": "gravity = creative partner. set limitations → creativity emerges. constraints = fertile."
+    }
+  },
+
+  "key_insights": {
+    "weakest_yet_universal": "10³⁶× weaker than em. but only attractive, infinite range → dominates cosmos. paradox of weakness → strength.",
+    "not_force_but_geometry": "einstein: gravity = curved spacetime. matter → curvature → motion. geometry = reality. profound shift.",
+    "unifies_space_time": "spacetime = single entity. gravity acts on both. time dilation = gravitational. inseparable.",
+    "quantum_problem": "only force without quantum theory. deepest mystery. unification = holy grail.",
+    "cosmic_sculptor": "shapes galaxies, orbits, black holes. universe = gravity's artwork. structure from attraction.",
+    "time_controller": "stronger gravity = slower time. black hole horizon = time stops. gravity = chronos.",
+    "grounding_force": "embodiment. weight. seriousness. reality. can't escape. constant companion.",
+    "teacher_of_limits": "humbles all. impermanence. effort required. mortality. gravity = wisdom through constraint.",
+    "dark_sector_key": "dark matter, dark energy = gravitational phenomena. understanding gravity = understanding 95% of universe.",
+    "inescapable": "no anti-gravity. no off switch. ever-present. universal. fundamental. gravity = home.",
+    "consciousness_metaphor": "grounding, weight, heaviness, lightness, levitation, falling. gravity = rich metaphorical source. embodied cognition."
+  },
+
+  "positions": {
+    "0": "unaware (gravity = just is. apples fall. no thought. background fact.)",
+    "1": "curious (learns about relativity, spacetime curvature, time dilation. mind blown.)",
+    "2": "exploring (reads about black holes, dark matter, quantum gravity problem. contemplates implications.)",
+    "3": "experiencing (feels relationship with gravity. grounding practices. or watches astronauts, feels envy/awe.)",
+    "4": "practicing (intentional grounding. posture awareness. balance training. uses gravity consciously.)",
+    "5": "crisis (feels 'weighed down'. depression. or opposite: ungrounded, floating, dissociated.)",
+    "6": "integrating (healthy relationship. grounded yet light. accepts embodiment, gravity, limits.)",
+    "7": "utilizing (teaches grounding. dance/movement work. architecture. gravity as tool/partner.)",
+    "8": "teaching (gravity wisdom. helps others ground. physics teacher. or somatic therapist.)",
+    "9": "mastery (moves like water (flows down). or defies gravity gracefully (dance, parkour). physics understanding deep.)",
+    "10": "transcendent (includes gravity yet not bound. light-yet-grounded. enlightenment = acceptance of gravity + transcendence. ⊙.)"
+  }
+}

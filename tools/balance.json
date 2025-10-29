@@ -1,0 +1,57 @@
+{
+  "_meta": {
+    "id": "cfo:tools:balance",
+    "type": "Tool",
+    "fractal_depth": 2,
+    "contains": ["cfo:absolute", "cfo:paths:air", "cfo:paths:fire", "cfo:paths:water", "cfo:paths:earth"],
+    "contained_by": ["cfo:absolute"],
+    "related": ["cfo:tools:assess"]
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = source of harmony",
+    "purpose": "Restore wholeness (all 4 paths unified)",
+    "note": "Balance = dynamic, not static (constant adjustment)"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "paths": ["../paths/air.json", "../paths/fire.json", "../paths/water.json", "../paths/earth.json"],
+    "prerequisite": "./assess.json"
+  },
+
+  "purpose": "Restore harmony between paths",
+  "principle": "Strengthen weak, maintain strong",
+  
+  "if_air_low": {
+    "practices": ["Meditate 5min daily", "Take walks in nature", "Journal"],
+    "avoid": "Constant doing, no reflection"
+  },
+  
+  "if_fire_low": {
+    "practices": ["Exercise daily", "Cold showers", "Say no once today"],
+    "avoid": "Passive consumption, no action"
+  },
+  
+  "if_water_low": {
+    "practices": ["Feel emotions fully", "Call a friend", "Cry if needed"],
+    "avoid": "Suppressing feelings, isolation"
+  },
+  
+  "if_earth_low": {
+    "practices": ["Walk barefoot", "Body scan meditation", "Create something physical"],
+    "avoid": "Living only in head, ignoring body"
+  },
+  
+  "goal": "All four paths balanced = wholeness",
+  
+  "dynamic_balance": {
+    "principle": "Balance ≠ equal at all times",
+    "examples": {
+      "creating": "FIRE+EARTH high, WATER+AIR moderate (focused making)",
+      "crisis": "AIR high (perspective), WATER high (feeling), FIRE moderate, EARTH grounding",
+      "resting": "WATER+EARTH high (flow, presence), FIRE low, AIR moderate"
+    },
+    "wisdom": "Different moments require different balance. Overall harmony over time."
+  }
+}

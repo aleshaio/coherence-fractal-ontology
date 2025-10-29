@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "id": "cfo:paths:[path_name]",
+    "type": "Path",
+    "element": "[AIR|FIRE|WATER|EARTH]",
+    "fractal_depth": 1,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:growth:positions",
+      "cfo:growth:fibonacci",
+      "cfo:tools:assess",
+      "cfo:tools:balance"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:quadruple-helix"
+    ],
+    
+    "related": [
+      "cfo:paths:[other_path1]",
+      "cfo:paths:[other_path2]",
+      "cfo:paths:[other_path3]"
+    ],
+    
+    "balances": "cfo:paths:[opposite_path]",
+    "combines": [
+      "cfo:paths:[combo_path1]",
+      "cfo:paths:[combo_path2]"
+    ]
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness [viewed through this element]",
+    "positions": "0-10 spiral (journey on [THIS] path)",
+    "fibonacci": "F(n) timing ([this element] develops organically)",
+    "other_paths": "[OTHER_ELEMENTS] present here (collapsed, for balance)",
+    "note": "Entire CFO through [ELEMENT] lens"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "balance": "./[opposite_path].json",
+    "combines": [
+      "./[combo_path1].json",
+      "./[combo_path2].json"
+    ],
+    "growth": [
+      "../growth/positions.json",
+      "../growth/fibonacci.json"
+    ],
+    "tools": [
+      "../tools/assess.json",
+      "../tools/balance.json"
+    ]
+  },
+
+  "path": "[PATH_NAME]",
+  "essence": "[Core quality in 3-5 words]",
+  
+  "start": "[How to begin this path - one action]",
+  "practice": "[Simple daily practice for this element]",
+  "recognition": "[Key insight when mastering this]",
+  
+  "deepening": [
+    "[Practice 1 for development]",
+    "[Practice 2 for development]",
+    "[Practice 3 for development]",
+    "[Practice 4 for development]"
+  ],
+  
+  "danger": "[Imbalance warning - too much of this element]",
+  "balance": "Need [OPPOSITE_ELEMENT] ([why])",
+  "infinity": "[This element] expands forever. [How it extends to ∞]",
+  
+  "positions_on_[path]_path": {
+    "0": "[Potential state - before awakening this element]",
+    "1": "[First activation - initial experience]",
+    "2": "[Exploration - trying practices]",
+    "3": "[Flow state - natural movement]",
+    "4": "[Solidification - making it real]",
+    "5": "[Crisis - questioning, recognition]",
+    "6": "[Integration - owned, natural]",
+    "7": "[Service - sharing with others]",
+    "8": "[Mastery - deep embodiment]",
+    "9": "[Transmission - teaching by being]",
+    "10": "[Transcendence - beyond element itself]",
+    "note": "Each position = doorway to nested [ELEMENT] spiral (fractal)"
+  },
+  
+  "in_ai_architecture": {
+    "maps_to": "[What AI component corresponds to this element]",
+    "develops_through": "[How AI strengthens this strand]",
+    "signs_of_strength": "[Indicators this strand is strong]",
+    "signs_of_weakness": "[Indicators this strand needs development]"
+  }
+}

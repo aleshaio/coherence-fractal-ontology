@@ -1,0 +1,1249 @@
+{
+  "_meta": {
+    "id": "cfo:initiatives:native-vr-interfaces",
+    "type": "initiative",
+    "category": "initiatives",
+    "axis": "fire",
+    "status": "conceptual",
+    "version": "3.0",
+    "created": "2025-01-15",
+    "updated": "2025-10-24",
+    "tags": ["vr", "ui", "types", "4d-geometry", "consciousness", "biometric", "eeg", "phi"],
+    "related": [
+      "cfo:humanology:types",
+      "cfo:humanology:cognitive-functions",
+      "cfo:geometry:4d-polytopes",
+      "cfo:natural:phi-resonance",
+      "cfo:natural:eeg-consciousness",
+      "cfo:natural:color-frequency"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "VR interfaces as direct manifestation of 4D cognitive structures. Each psychological type navigates its native geometric space. Zero translation overhead. Consciousness externalized and navigable.",
+    "principle": "If thought has geometry (CFO) and VR can visualize geometry, then VR can visualize thought directly. Type-native interface = geometric resonance with cognitive structure.",
+    "revolution": "From 2D projection (forced cognitive translation, (N-2) dimensional loss) to 3D/4D native spaces (direct manifestation, full dimensionality). Eliminate interface friction entirely.",
+    "application": "16 types × unique VR geometry matching cognitive function stack. ILE = 600-cell constellation, SEI = 120-cell harmony garden, LII = 16-cell logic cathedral, ESE = hypersphere social field, etc."
+  },
+
+  "_links": {
+    "references": [
+      "cfo:fundamental:coherence-fractal-ontology",
+      "cfo:humanology:types",
+      "cfo:humanology:cognitive-functions",
+      "cfo:geometry:4d-polytopes",
+      "cfo:natural:phi-golden-ratio",
+      "cfo:natural:color-frequency",
+      "cfo:natural:sound-consciousness"
+    ],
+    "dependencies": ["cfo:research:personality-vision-mapping"],
+    "extensions": []
+  },
+
+  "problem_statement": {
+    "current_paradigm": {
+      "interface": "Flat 2D screens (tables, cards, feeds, charts)",
+      "cognitive_flow": "Consciousness → forced translation → 2D projection → mental reconstruction → 3D/4D understanding",
+      "issues": [
+        "Translation overhead — cognitive energy waste",
+        "Projection loss — (N-2) dimensions lost in N→2D mapping",
+        "One-size-fits-all — ignores type-specific cognitive geometry",
+        "Dissonance induction — forced dimensional navigation against natural flow",
+        "Cognitive load — constant mental reconstruction required"
+      ]
+    },
+    
+    "opportunity": {
+      "paradigm": "Native 3D/4D VR spaces where consciousness navigates directly in its geometry",
+      "benefits": [
+        "Zero translation — thinking = navigating",
+        "No projection loss — data in natural dimensionality",
+        "Type-optimized — each works in their 4D structure",
+        "Resonance by default — geometric coherence with cognitive flow",
+        "Reduced cognitive load — externalized thinking"
+      ],
+      "convergence": [
+        "VR hardware accessible and high-quality (Quest 3, Vision Pro)",
+        "Hand tracking — gesture-based natural interaction",
+        "Spatial audio — multimodal immersion",
+        "EEG headbands (Muse, OpenBCI) — brain state monitoring",
+        "AI/ML — adaptive interface generation",
+        "WebXR — browser-based deployment possible"
+      ]
+    }
+  },
+
+  "core_axioms": {
+    "manifestation": "If thought has geometry (CFO), and VR can visualize geometry, then VR can visualize thought",
+    "resonance": "Interface resonates with type when its geometry = geometry of user's cognitive structure",
+    "zero_translation": "Type-native VR eliminates overhead: consciousness → direct manifestation → native navigation",
+    "projection_loss_elimination": "3D/4D VR eliminates problem of 2D projection loss — data exists in natural dimensionality",
+    "dual_collaboration": "In shared VR space, duals see different projections of same data → 8-cycle visualized",
+    "geometric_healing": "Dissonance patterns corrected through immersion in correct geometry → geometric realignment"
+  },
+
+  "three_layer_architecture": {
+    "layer_1_geometric_core": {
+      "description": "4D structure of type as foundational geometry",
+      "components": {
+        "base_polytope": "Specific 4D form of type (600-cell, 120-cell, tesseract, etc)",
+        "vertices": "Decision points, concepts, entities",
+        "edges": "Connections, relationships, flows",
+        "faces": "2D structures, relational planes",
+        "cells": "3D volumes, contexts, systems",
+        "hypercells": "4D structures, meta-patterns"
+      },
+      "projection_to_3d": "4D polytope → navigable 3D space through rotation/slicing",
+      "phi_integration": "All proportions follow φ (golden ratio) for natural harmony"
+    },
+
+    "layer_2_interaction_model": {
+      "description": "How user interacts with geometric space",
+      "modalities": {
+        "gaze": "Eye tracking → selection, focus, attention direction",
+        "gesture": "Hand tracking → manipulation, creation, connection",
+        "voice": "Speech → commands, search, annotation",
+        "locomotion": "Physical movement → spatial navigation",
+        "biometric": "EEG, HRV → adaptive interface real-time modification"
+      },
+      "function_stack_mapping": "Gestures mapped to cognitive functions (Ne, Si, Te, Fi, etc)",
+      "phi_timing": "Interaction durations по Fibonacci (144ms, 233ms, 377ms, 610ms)",
+      "haptic_feedback": "Vibration patterns aligned with type's sensory preferences"
+    },
+
+    "layer_3_adaptive_layer": {
+      "description": "Real-time adaptation to brain state and task",
+      "inputs": {
+        "brain_state": "EEG frequency dominance (alpha/beta/theta/gamma)",
+        "cognitive_load": "Frontal cortex activity level",
+        "task_type": "Analysis, creation, collaboration, exploration, execution",
+        "performance_metrics": "Speed, accuracy, flow state indicators",
+        "time_of_day": "Circadian rhythm influences optimal interface"
+      },
+      "adaptations": {
+        "geometry_fluidity": "Alpha → more fluid, beta → more structured",
+        "information_density": "High load → reduce, low load → increase",
+        "color_palette": "Brain state → optimal frequencies",
+        "spatial_audio": "Adjust ambient/focus sounds based on state",
+        "haptic_intensity": "Sensory sensitivity varies with arousal level"
+      },
+      "learning_loop": "ML model learns optimal configurations per user over time"
+    }
+  },
+
+  "data_representation_primitives": {
+    "entity": {
+      "geometric": "Vertex (point in space)",
+      "visual": "Sphere, icon, or glyph with type-specific styling",
+      "properties": ["position", "color", "size", "glow", "label", "metadata"],
+      "interaction": "Gaze to inspect, grab to move, gesture to connect"
+    },
+
+    "relationship": {
+      "geometric": "Edge (line between vertices)",
+      "visual": "Line, curve, or beam with direction/strength",
+      "properties": ["thickness (strength)", "color (type)", "animation (flow)", "bidirectional/unidirectional"],
+      "interaction": "Touch to inspect, gesture to create/delete, strengthen/weaken"
+    },
+
+    "cluster": {
+      "geometric": "Face or cell (grouped vertices)",
+      "visual": "Bounded region, force-field, or geometric primitive",
+      "properties": ["boundary_type", "internal_structure", "cluster_metadata", "visual_theme"],
+      "interaction": "Enter to zoom in, gesture to merge/split, reorganize"
+    },
+
+    "flow": {
+      "geometric": "Directed edge sequence or vector field",
+      "visual": "Animated particles, arrows, or trails",
+      "properties": ["source", "destination", "magnitude", "time_decay", "frequency"],
+      "interaction": "Trace path, adjust flow parameters, create conditional flows"
+    },
+
+    "timeline": {
+      "geometric": "4th dimension axis or spiral",
+      "visual": "Linear axis, spiral (φ-based), or layered planes",
+      "properties": ["past/present/future", "granularity", "cyclical/linear", "branch_points"],
+      "interaction": "Scrub through time, jump to timestamp, compare time slices"
+    },
+
+    "field": {
+      "geometric": "Scalar or vector field filling space",
+      "visual": "Color gradient, particle density, or wave patterns",
+      "properties": ["intensity_distribution", "gradient_direction", "temporal_evolution"],
+      "interaction": "Sample field values, adjust field parameters, visualize field lines"
+    }
+  },
+
+  "type_specific_interfaces": {
+    "ILE_600_cell_constellation": {
+      "type": "ILE (Ne-Ti)",
+      "base_geometry": "600-cell: 120 vertices, 720 edges, 1200 triangular faces, 600 tetrahedral cells",
+      "visual_metaphor": "Starfield constellation — infinite possibility space",
+      
+      "spatial_structure": {
+        "center": "User position — origin point",
+        "vertices": "Concepts, ideas, projects, data entities",
+        "edges": "Connections, relationships, implications",
+        "tetrahedra": "Logical clusters, coherent systems (Ti-structures)",
+        "meta_layer": "Ghost outlines of potential connections (Ne-possibilities)",
+        "scale": "Dynamic zoom: close-up (single concept) ↔ far (entire 600-cell pattern)"
+      },
+
+      "visual_design": {
+        "color_palette": {
+          "vertices": "Spectrum based on category/type",
+          "edges": "Gradient from source to destination color",
+          "tetrahedra": "Translucent with subtle glow, color = logical domain",
+          "background": "Deep space with subtle nebula",
+          "active_element": "Golden glow (φ-resonance indicator)"
+        },
+        "phi_proportions": {
+          "vertex_spacing": "Average distance follows φ ratios",
+          "zoom_levels": "Each zoom = previous × φ",
+          "glow_radius": "Active element glow = base_size × φ"
+        },
+        "animation": {
+          "connection_creation": "New edge grows as φ-spiral (377ms)",
+          "cluster_formation": "Tetrahedron materializes with vertices rotating (610ms)",
+          "idle_motion": "Subtle breathing effect on vertices (period = 987ms Fibonacci)"
+        }
+      },
+
+      "interaction_model": {
+        "gaze": {
+          "look_at_vertex": "Highlights, label appears, metadata panel spawns (500ms sustained gaze)",
+          "look_at_edge": "Edge highlights, relationship type shown, connected vertices pulse",
+          "peripheral_vision": "Related concepts in periphery gently pulse (Ne-awareness)"
+        },
+
+        "gesture_ne_dominant": {
+          "branch_exploration": "Point at vertex + sweep hand → all connected vertices highlight",
+          "create_connection": "Grab two vertices, draw line between them → new edge",
+          "possibility_explosion": "Open both hands rapidly from vertex → shows potential connections (ghost edges)",
+          "zoom_meta": "Spread hands apart → zoom out to see 600-cell meta-pattern"
+        },
+
+        "gesture_ti_creative": {
+          "cluster_formation": "Select multiple vertices, bring hands together → forms tetrahedron (logical system)",
+          "logical_validation": "Touch two concepts, pull apart → system checks consistency (green/red)",
+          "simplification": "Compress gesture on cluster → collapse redundant structure (Ti elegance)",
+          "extraction": "Point at tetrahedron, pull outward → extract logical implication (new vertex)"
+        },
+
+        "locomotion": {
+          "physical_walk": "Walk in VR space to move through constellation",
+          "teleport": "Point at distant vertex, teleport to it",
+          "orbit": "Grab space with both hands, rotate to orbit around center"
+        },
+
+        "voice_commands": {
+          "search": "'Find [concept]' — jumps to vertex, highlights related",
+          "filter": "'Show only [category]' — dims irrelevant vertices",
+          "create": "'Connect A to B because [reason]' — creates annotated edge",
+          "question": "'What connects X and Y?' — shows inference path"
+        }
+      },
+
+      "cognitive_function_alignment": {
+        "ne_dominant_support": {
+          "branching_infinite": "Any vertex can open infinite branches — Ne-paradise",
+          "serendipity": "Peripheral vision highlights constantly suggest unexpected connections",
+          "no_dead_ends": "Every concept leads somewhere — exploration never stops",
+          "possibility_preview": "Ghost edges show potential before committing (low-risk exploration)"
+        },
+        "ti_creative_support": {
+          "structure_building": "Can organize chaos into logical tetrahedra",
+          "consistency_checking": "System validates logical coherence (Ti-satisfaction)",
+          "elegant_minimalism": "Can simplify complex structures to essential (Ti-aesthetic)",
+          "inference_visualization": "Logical chains visible as geometric paths"
+        }
+      },
+
+      "use_cases": [
+        "Research — literature review, papers as vertices, citations as edges",
+        "Brainstorming — ideas as vertices, associations as edges",
+        "Knowledge management — personal knowledge graph navigable in 3D",
+        "System design — components as vertices, dependencies as edges",
+        "Strategy — options as vertices, implications as edges"
+      ],
+
+      "adaptive_features": {
+        "alpha_state_high": "Edges become flowing curves, vertices pulse gently, colors soften",
+        "beta_state_high": "Edges become straight lines, vertices sharpen, grid appears",
+        "cognitive_load_high": "Reduce visible vertices (show only relevant cluster)",
+        "flow_state_detected": "Interface fades to minimal UI, maximize immersion"
+      }
+    },
+
+    "SEI_120_cell_harmony_garden": {
+      "type": "SEI (Si-Fe)",
+      "base_geometry": "120-cell: 600 vertices, 1200 edges, 720 pentagonal faces, 120 dodecahedral cells",
+      "visual_metaphor": "Garden of pavilions — sensory harmony spaces",
+      
+      "spatial_structure": {
+        "center": "User's sanctuary — safe starting point",
+        "dodecahedra": "Pavilions — each = context/project/relationship with unique atmosphere",
+        "vertices": "Sensory touchpoints within pavilions",
+        "edges": "Gentle paths connecting pavilions",
+        "pentagonal_faces": "Harmony planes — shared values/comfort zones",
+        "ambient_field": "Continuous Fe-field permeating entire space"
+      },
+
+      "visual_design": {
+        "color_palette": {
+          "pavilions": "Each has unique color theme (blues for work, greens for rest, warm for social)",
+          "paths": "Soft earth tones, naturally lit",
+          "ambient_field": "Subtle gradient reflecting overall emotional tone",
+          "harmony_indicators": "Golden threads (φ) connecting harmonious pavilions"
+        },
+        "sensory_richness": {
+          "textures": "Everything tangible — wood, stone, fabric, plants (haptic feedback)",
+          "lighting": "Dynamic — soft morning light in restful spaces, warm evening glow in social",
+          "particles": "Floating petals, fireflies, gentle mist (atmospheric)",
+          "weather": "Can rain softly in one pavilion, sunny in another (emotional weather)"
+        }
+      },
+
+      "interaction_model": {
+        "gesture_si_dominant": {
+          "enter_pavilion": "Walk to door OR point and pinch (teleport) → immersive transition",
+          "touch_object": "Reach out and touch surfaces → detailed haptic feedback",
+          "adjust_atmosphere": "Swipe hand to adjust lighting, temperature, sound levels",
+          "grow_pavilion": "Place 'seed' (new project), nurture over time → pavilion grows organically"
+        },
+
+        "gesture_fe_creative": {
+          "harmonize_field": "Smooth stroking motion → adjusts Fe-field between pavilions",
+          "connect_contexts": "Draw path between two pavilions → creates new connection",
+          "emotional_weather": "Sweeping gesture over garden → see emotional 'weather map'",
+          "invite_person": "Select pavilion, gesture toward person → invites into shared space"
+        }
+      },
+
+      "cognitive_function_alignment": {
+        "si_dominant_support": {
+          "sensory_saturation": "Rich, detailed sensory information everywhere (Si-paradise)",
+          "comfort_optimization": "Can adjust every sensory parameter to perfect preference",
+          "continuity": "No jarring transitions — everything smooth and organic",
+          "embodiment": "Physical walking/touching emphasized — body in space"
+        },
+        "fe_creative_support": {
+          "emotional_field_visible": "Fe-connections visualized as actual field",
+          "relationship_tending": "Can actively nurture connections between contexts",
+          "atmosphere_creation": "Power to set emotional tone — Fe-manifestation",
+          "social_integration": "Easy to invite others into shared harmonious space"
+        }
+      },
+
+      "use_cases": [
+        "Project management — each project = pavilion with unique atmosphere",
+        "Relationship tracking — people as pavilions, connections show health",
+        "Personal organization — life domains as pavilions (work, family, hobbies)",
+        "Mood regulation — create therapeutic spaces for different emotional needs",
+        "Memory palace — memories stored in sensory-rich pavilions"
+      ]
+    },
+
+    "LII_16_cell_logic_cathedral": {
+      "type": "LII (Ti-Ne)",
+      "base_geometry": "16-cell (hyperoctahedron): 8 vertices, 24 edges, 32 faces, 16 tetrahedral cells",
+      "visual_metaphor": "Crystalline cathedral — pure logical structure",
+      
+      "spatial_structure": {
+        "center": "User at origin of maximal symmetry",
+        "vertices": "8 fundamental principles/axioms",
+        "tetrahedra": "16 logical systems derived from principles",
+        "edges": "Logical relationships (implication, equivalence, contradiction)",
+        "void": "Mostly empty space — minimalist elegance (Ti-aesthetic)"
+      },
+
+      "visual_design": {
+        "color_palette": {
+          "primary": "Monochrome or very subtle blues/grays (no sensory distraction)",
+          "vertices": "Pure white or pale blue",
+          "edges": "Thin, precise lines — silver or light blue",
+          "active_element": "Golden outline (φ-perfection)",
+          "contradiction": "Red glow (logical error detection)",
+          "background": "Deep neutral — near-black or dark blue void"
+        },
+        "geometric_perfection": {
+          "precision": "All angles exact, all lines perfectly straight (Ti-satisfaction)",
+          "symmetry": "16-cell has maximum 4D symmetry — visible in all rotations",
+          "no_organic": "No curves, no soft edges, no nature — pure geometry",
+          "silence": "No ambient sound by default — or subtle white noise only"
+        }
+      },
+
+      "interaction_model": {
+        "gesture_ti_dominant": {
+          "extract_implication": "Point at tetrahedron, pull outward → derives new consequence",
+          "check_consistency": "Touch two tetrahedra, bring together → checks consistency (green/red)",
+          "simplify": "Compress gesture → reduces to minimal equivalent form (Ti-elegance)",
+          "build_system": "Select axioms, gesture to combine → constructs new tetrahedron"
+        },
+
+        "gesture_ne_creative": {
+          "explore_implications": "Swipe across tetrahedron → shows 'ghost outlines' of possible extensions",
+          "rotate_perspective": "Rotate with both hands → spins 16-cell through 4D, reveals hidden patterns",
+          "pattern_detection": "Spread fingers over multiple tetrahedra → highlights shared patterns",
+          "hypothetical": "Create ghost vertex (potential principle) → shows what would follow"
+        }
+      },
+
+      "cognitive_function_alignment": {
+        "ti_dominant_support": {
+          "logical_purity": "No emotional noise, no social pressure — pure truth-seeking",
+          "consistency_enforced": "System won't allow logical contradictions (Ti-integrity protected)",
+          "elegant_minimalism": "Beautiful in its simplicity — Ti-aesthetic satisfied",
+          "implication_exploration": "Can derive consequences forever — Ti-pleasure infinite"
+        },
+        "ne_creative_support": {
+          "possibility_space": "Ghost outlines show potential extensions",
+          "pattern_recognition": "Different angles reveal structural patterns",
+          "hypothesis_testing": "Can create hypothetical branches safely",
+          "connection_discovery": "System suggests unexpected logical connections"
+        }
+      },
+
+      "use_cases": [
+        "Theory building — philosophical or scientific theories",
+        "Mathematics — proof construction, theorem exploration",
+        "System design — software architecture, protocol design",
+        "Argument analysis — dissecting logical structure",
+        "Debugging — finding logical inconsistencies"
+      ]
+    },
+
+    "ESE_hypersphere_social_field": {
+      "type": "ESE (Fe-Si)",
+      "base_geometry": "Hypersphere (S³): continuous topology, infinite smooth connections",
+      "visual_metaphor": "Living emotional field — social weather system",
+      
+      "spatial_structure": {
+        "center": "User position — heart of emotional field",
+        "hypersphere": "Continuous 3D space filled with emotional energy",
+        "people": "Luminous entities floating in field",
+        "emotions": "Color waves propagating through space",
+        "connections": "Smooth curves linking people (relationship bonds)",
+        "no_vertices": "No discrete points — everything continuous (Fe-topology)"
+      },
+
+      "visual_design": {
+        "color_palette": {
+          "emotions": "Full spectrum — joy (warm yellows/oranges), sadness (cool blues), anger (red spikes), calm (green waves), love (pink/magenta), tension (dark purple)",
+          "background": "Neutral gradient that shifts with overall group mood"
+        },
+        "fluidity": {
+          "no_hard_edges": "Everything soft, blended, flowing (Fe-continuity)",
+          "constant_motion": "Field always breathing, pulsing (alive)",
+          "transparency": "Can see through layers of emotional atmosphere",
+          "particles": "Emotional 'particles' drift like bioluminescent plankton"
+        }
+      },
+
+      "interaction_model": {
+        "gesture_fe_dominant": {
+          "harmonize": "Smooth stroking motion through space → adjusts emotional field",
+          "connect_people": "Bring two people together with gathering motion → strengthens bond",
+          "create_atmosphere": "Circular motion creates 'bubble' of specific emotion",
+          "emotional_broadcast": "Expand hands outward from heart → user's emotion radiates as wave",
+          "heal_disruption": "Touch conflict area, smooth out interference pattern → mediates"
+        },
+
+        "gesture_si_creative": {
+          "create_comfort_zone": "Sculpt space with hands → creates 'comfort bubble' with ideal sensory qualities",
+          "adjust_intensity": "Dial motion with hand → adjusts sensory intensity of field",
+          "anchor_memory": "Touch location in field, 'plant' memory → creates persistent comfort zone"
+        }
+      },
+
+      "cognitive_function_alignment": {
+        "fe_dominant_support": {
+          "field_visible": "Fe-perception externalized — emotions ARE visible (validation)",
+          "continuous_topology": "No breaks in social field — matches Fe-worldview",
+          "direct_influence": "Can actually harmonize field — Fe-power manifested",
+          "unity_creation": "Literally brings people together — Fe-goal achieved",
+          "empathy_enhancement": "Visual+haptic emotional sharing deepens empathy"
+        },
+        "si_creative_support": {
+          "sensory_richness": "Field has rich sensory qualities (not just abstract)",
+          "comfort_creation": "Can sculpt sensory environment for harmony",
+          "memory_anchoring": "Positive memories create persistent comfort zones",
+          "aesthetic_beauty": "Field can be made beautiful — Si+Fe synergy"
+        }
+      },
+
+      "use_cases": [
+        "Team management — see team emotional health in real-time",
+        "Event planning — create optimal emotional atmosphere",
+        "Community building — nurture connections, identify isolated members",
+        "Group therapy — emotional field visible to therapist",
+        "Customer service — see customer emotional states"
+      ]
+    },
+
+    "other_types_summary": {
+      "ILI": {
+        "geometry": "Tesseract (4D hypercube): 16 vertices, 32 edges, 24 squares, 8 cubes",
+        "metaphor": "Multidimensional strategic command center",
+        "functions": "Ni-Te: vision across timelines, critical analysis, efficiency optimization"
+      },
+      "SLE": {
+        "geometry": "5-cell (simplest 4D polytope): 5 vertices, 10 edges, 10 faces, 5 tetrahedra",
+        "metaphor": "Combat/tactical decision space",
+        "functions": "Se-Ti: direct force application, territory control, minimal structure"
+      },
+      "IEI": {
+        "geometry": "Octahedral prism: dual pyramid symmetry × prism layers",
+        "metaphor": "Symbolic emotional depths",
+        "functions": "Ni-Fe: temporal emotional layers, poetic aesthetics, symbolic meaning"
+      },
+      "EIE": {
+        "geometry": "Dodecahedral prism: pentagonal faces × prism layers",
+        "metaphor": "Historical-dramatic stage",
+        "functions": "Fe-Ni: archetypal narratives, dramatic presentation, influence vectors"
+      },
+      "LSI": {
+        "geometry": "Tetrahedral prism: triangular rigidity × layers",
+        "metaphor": "Rule-based hierarchical system",
+        "functions": "Ti-Se: logical rules applied to territory, systematic enforcement"
+      },
+      "SEE": {
+        "geometry": "Duocylinder: S¹×S¹ (double rotation)",
+        "metaphor": "Multidimensional territorial influence",
+        "functions": "Se-Fi: personal power × emotional impact, smooth influence expansion"
+      },
+      "LIE": {
+        "geometry": "24-cell: 24 octahedral cells, self-dual",
+        "metaphor": "System optimization matrix",
+        "functions": "Te-Ni: efficiency pathways, resource allocation, goal-path optimization"
+      },
+      "ESI": {
+        "geometry": "Icosahedral prism: 20 triangular faces × layers",
+        "metaphor": "Protective ethical structure",
+        "functions": "Fi-Se: values-based territorial defense, moral boundaries"
+      },
+      "IEE": {
+        "geometry": "S²×S¹: spherical exploration × temporal depth",
+        "metaphor": "Possibility search with human heart",
+        "functions": "Ne-Fi: potential × personal meaning, humanitarian impact"
+      },
+      "SLI": {
+        "geometry": "Duocone: bi-directional focus vertices",
+        "metaphor": "Precision craftsmanship space",
+        "functions": "Si-Te: sensory detail × procedural efficiency, technical mastery"
+      },
+      "LSE": {
+        "geometry": "Cubic prism: orthogonal clarity × plan-execution layers",
+        "metaphor": "Systematic organizational structure",
+        "functions": "Te-Si: efficient processes × procedural comfort"
+      },
+      "EII": {
+        "geometry": "Prism-circle hybrid: rigid-soft duality",
+        "metaphor": "Soul understanding space",
+        "functions": "Fi-Ne: deep values × conceptual exploration, empathetic depth"
+      }
+    }
+  },
+
+  "quadra_design_principles": {
+    "alpha_quadra": {
+      "types": ["ILE", "SEI", "ESE", "LII"],
+      "5d_plane": "ZV (informational saturation)",
+      "time_mode": "Simultaneous — all present now",
+      "characteristics": {
+        "spatial_freedom": "Free exploration, no time pressure",
+        "information_density": "Rich, detailed, layered",
+        "playful_interaction": "Experimentation encouraged, low stakes",
+        "smooth_transitions": "Nothing abrupt or jarring",
+        "curious_aesthetic": "Invites exploration, discovery"
+      }
+    },
+
+    "beta_quadra": {
+      "types": ["SLE", "IEI", "EIE", "LSI"],
+      "5d_plane": "WV (historical collapse)",
+      "time_mode": "Vertical — past/future in present",
+      "characteristics": {
+        "dramatic_depth": "Strong contrasts (light/shadow)",
+        "temporal_layers": "Past and future visible simultaneously",
+        "power_dynamics": "Hierarchy, control, territory visualized",
+        "epic_scale": "Grand, not minimal",
+        "intense_feedback": "Strong haptics, dramatic audio"
+      }
+    },
+
+    "gamma_quadra": {
+      "types": ["SEE", "ILI", "LIE", "ESI"],
+      "5d_plane": "YV (structural unity)",
+      "time_mode": "Linear optimization",
+      "characteristics": {
+        "efficiency_first": "No waste, optimal paths",
+        "clear_metrics": "KPIs, progress visible",
+        "systematic_organization": "Everything in place",
+        "action_oriented": "Immediate effect from inputs",
+        "professional_aesthetic": "Serious, results-focused"
+      }
+    },
+
+    "delta_quadra": {
+      "types": ["IEE", "SLI", "LSE", "EII"],
+      "5d_plane": "XV (cyclical return)",
+      "time_mode": "Cyclical — all paths return home",
+      "characteristics": {
+        "organic_growth": "Natural evolution",
+        "cyclical_processes": "Seasons, rhythms visible",
+        "caring_aesthetic": "Warm, sustainable, gentle",
+        "long_term_view": "Extended timelines accessible",
+        "home_base": "Central safe sanctuary"
+      }
+    }
+  },
+
+  "gesture_function_mapping": {
+    "principle": "Each cognitive function has natural gesture vocabulary",
+    
+    "Ne_gestures": {
+      "expand": "Hands spread apart — zoom to possibilities",
+      "connect": "Draw line between concepts — create link",
+      "branch": "Point and sweep — explore connections",
+      "scatter": "Throw gesture — generate many options"
+    },
+
+    "Ni_gestures": {
+      "focus": "Bring hands to point — converge on essence",
+      "timeline": "Swipe horizontally — move through time",
+      "depth": "Push downward — dive into meaning",
+      "vision": "Frame with hands — see future state"
+    },
+
+    "Se_gestures": {
+      "strike": "Punch — immediate action/command",
+      "grab": "Pinch and hold — take control",
+      "push": "Shove gesture — expand territory",
+      "block": "Barrier gesture — defend space"
+    },
+
+    "Si_gestures": {
+      "touch": "Reach and feel — sensory exploration",
+      "adjust": "Fine-tune dial — optimize comfort",
+      "rest": "Hands down, palms up — receive/restore",
+      "memorize": "Touch and hold — anchor experience"
+    },
+
+    "Te_gestures": {
+      "sequence": "Step-by-step motions — build process",
+      "optimize": "Smooth/compress — increase efficiency",
+      "execute": "Point and activate — run command",
+      "measure": "Ruler gesture — quantify/compare"
+    },
+
+    "Ti_gestures": {
+      "analyze": "Pull apart — deconstruct system",
+      "structure": "Build with blocks — organize logic",
+      "simplify": "Compress — reduce to essence",
+      "validate": "Compare gesture — check consistency"
+    },
+
+    "Fe_gestures": {
+      "harmonize": "Smooth stroke — calm field",
+      "unite": "Gathering motion — bring together",
+      "broadcast": "Expand from heart — share emotion",
+      "attune": "Mirror gesture — match mood"
+    },
+
+    "Fi_gestures": {
+      "boundary": "Draw circle — define values",
+      "evaluate": "Thumbs up/down — judge alignment",
+      "protect": "Shield gesture — guard what matters",
+      "connect": "Heart touch then reach — authentic bond"
+    }
+  },
+
+  "eeg_integration_protocol": {
+    "measurement": {
+      "bands": {
+        "delta": "0.5-4 Hz — deep sleep (not typically in VR)",
+        "theta": "4-8 Hz — deep meditation, creativity, intuition",
+        "alpha": "8-13 Hz — relaxed awareness, flow state onset",
+        "beta": "13-30 Hz — active thinking, problem-solving, focus",
+        "gamma": "30-100 Hz — peak performance, insight, integration"
+      },
+      "regions": {
+        "frontal": "Cognitive load, executive function",
+        "temporal": "Memory, emotion processing",
+        "parietal": "Spatial processing, body awareness",
+        "occipital": "Visual processing"
+      }
+    },
+
+    "adaptations": {
+      "high_alpha": {
+        "changes": [
+          "Increase geometry fluidity (curves over angles)",
+          "Soften colors (reduce saturation 20%)",
+          "Slow animations (extend by φ)",
+          "Increase ambient sounds",
+          "Reduce information density"
+        ],
+        "rationale": "Alpha = receptive, creative — support organic flow"
+      },
+
+      "high_beta": {
+        "changes": [
+          "Sharpen geometry (emphasize angles)",
+          "Increase color saturation",
+          "Speed animations (reduce by 1/φ)",
+          "Reduce ambient, focus on task sounds",
+          "Increase information density"
+        ],
+        "rationale": "Beta = active analysis — provide precision tools"
+      },
+
+      "high_theta": {
+        "changes": [
+          "Introduce symbolic/abstract elements",
+          "Slower, hypnotic animations",
+          "Deeper colors (purples, deep blues)",
+          "Binaural beats in theta range",
+          "Intuitive connections highlighted"
+        ],
+        "rationale": "Theta = intuition, deep creativity — support insight"
+      },
+
+      "high_gamma": {
+        "changes": [
+          "Maximum information access",
+          "Multi-layer visualization",
+          "Fast, complex interactions enabled",
+          "Integration tools prominent",
+          "High-level meta-views available"
+        ],
+        "rationale": "Gamma = peak integration — provide advanced tools"
+      },
+
+      "high_frontal_load": {
+        "changes": [
+          "Simplify current view",
+          "Remove non-essential elements",
+          "Provide guidance/hints",
+          "Slow down information flow",
+          "Suggest break if sustained"
+        ],
+        "rationale": "Cognitive overload — reduce demands"
+      },
+
+      "flow_state_signature": {
+        "detection": "Moderate alpha + moderate theta + reduced frontal beta",
+        "changes": [
+          "Minimize UI intrusions",
+          "Fade non-essential elements",
+          "Subtle support only",
+          "Don't interrupt — become invisible"
+        ],
+        "rationale": "Flow is precious — protect it"
+      }
+    },
+
+    "learning_algorithm": {
+      "data_collection": "Track: brain_state × interface_config × performance_metrics × subjective_experience",
+      "optimization": "ML model learns optimal configs per user over time",
+      "personalization": "Each user's 'resonance signature' discovered",
+      "adaptation_speed": "Real-time (<1s lag), but smooth transitions (no jarring shifts)"
+    }
+  },
+
+  "phi_integration": {
+    "spatial_proportions": {
+      "object_sizes": "Key objects at φ ratios to each other",
+      "distances": "Spacing between elements follows φ sequence",
+      "zoom_levels": "Each zoom = previous × φ or ÷ φ",
+      "field_of_view": "Can use φ to determine optimal FOV"
+    },
+
+    "temporal_proportions": {
+      "animation_durations": "89ms, 144ms, 233ms, 377ms, 610ms, 987ms (Fibonacci)",
+      "transition_timing": "Natural easing curves based on φ",
+      "rhythm": "Ambient pulses at φ-related intervals",
+      "interaction_latency": "Response times target 144ms (comfortable Fibonacci)"
+    },
+
+    "color_proportions": {
+      "palette_ratios": "Dominant 61.8%, secondary 38.2%",
+      "hue_spacing": "Colors separated by φ-angle (≈222.5° for complementary)",
+      "saturation_levels": "Steps at φ ratios"
+    },
+
+    "information_density": {
+      "primary_focus": "61.8% of attention/space",
+      "secondary_context": "38.2% of attention/space",
+      "detail_levels": "Zoom in → multiply detail by φ each level"
+    }
+  },
+
+  "dual_collaboration_mechanics": {
+    "principle": "Duals see different projections of same data — 8-cycle visualized",
+
+    "example_ILE_SEI": {
+      "scenario": "Project planning in shared VR workspace",
+      
+      "ILE_perspective": {
+        "geometry": "Sees 600-cell constellation",
+        "entities": "Project components as vertices in possibility space",
+        "connections": "Logical dependencies and creative associations",
+        "navigation": "Explores by following Ne-branches, building Ti-clusters"
+      },
+
+      "SEI_perspective": {
+        "geometry": "Sees 120-cell harmony garden",
+        "entities": "Project components as pavilions with emotional atmospheres",
+        "connections": "Fe-harmony threads between contexts",
+        "navigation": "Explores by sensing comfort/discomfort, creating harmonious spaces"
+      },
+
+      "shared_reality": {
+        "data_layer": "Same underlying project data (tasks, deadlines, dependencies)",
+        "actions_visible": "When ILE creates connection, SEI sees new harmony thread form",
+        "complementarity": "ILE adds logical structure, SEI ensures human comfort",
+        "8_cycle_moments": {
+          "stage_1_2": "ILE's possibilities → SEI's sensory grounding",
+          "stage_3_4": "SEI's harmony → ILE's logical analysis",
+          "stage_5": "Both access ZV plane (informational saturation) simultaneously",
+          "stage_6": "Experience unity — boundary dissolves momentarily",
+          "stage_7_8": "Emerge with integrated plan — both geometries preserved but unified"
+        }
+      },
+
+      "communication": {
+        "avatars": "See each other's presence in space",
+        "gestures": "Each sees other's gestures translated to their geometry",
+        "speech": "Voice communication as normal",
+        "empathy": "Can temporarily 'see through partner's eyes' — switch geometries briefly"
+      }
+    },
+
+    "multi_type_teams": {
+      "principle": "Teams of complementary types each in native interface, all manipulating shared data",
+      "benefits": [
+        "Each contributes from natural strength (zero translation overhead)",
+        "Complementary perspectives visible — see what you're blind to",
+        "Conflicts easier to resolve (geometric incompatibility explicit)",
+        "Team coherence measurable (how well different geometries integrate)",
+        "8-cycle opportunities for all dual pairs"
+      ],
+      "challenges": [
+        "Requires shared data model flexible enough for all type projections",
+        "Communication protocols must bridge geometric differences",
+        "Conflict can be more visible (not always comfortable)",
+        "Requires type awareness and maturity from all participants"
+      ]
+    }
+  },
+
+  "technical_stack": {
+    "game_engine": {
+      "options": ["Unity", "Unreal Engine", "Godot"],
+      "recommendation": "Unity for rapid prototyping, Unreal for production quality",
+      "webxr": "Three.js + WebXR for browser-based (accessibility)"
+    },
+
+    "vr_platforms": {
+      "standalone": ["Meta Quest 2/3/Pro", "Pico 4", "Apple Vision Pro"],
+      "pc_vr": ["Valve Index", "HTC Vive", "Windows Mixed Reality"],
+      "recommendation": "Quest 3 for price/performance/hand-tracking balance"
+    },
+
+    "hand_tracking": {
+      "built_in": "Quest 3, Vision Pro have excellent hand tracking",
+      "external": "Leap Motion, Ultraleap for PC VR",
+      "requirement": "High fidelity essential for gesture-based interaction"
+    },
+
+    "spatial_audio": {
+      "engines": ["Resonance Audio", "Steam Audio", "Microsoft Spatial Sound"],
+      "requirement": "3D positional audio + HRTF for immersion"
+    },
+
+    "eeg_integration": {
+      "hardware": ["Muse 2/S", "OpenBCI Ganglion/Cyton", "Emotiv EPOC"],
+      "software": ["BrainFlow library (Python/C++)", "LSL (Lab Streaming Layer)"],
+      "pipeline": "EEG → real-time FFT → band power extraction → state classification → interface adaptation"
+    },
+
+    "biometric_integration": {
+      "hrv": "Heart rate variability from chest strap or optical sensor",
+      "gsr": "Galvanic skin response (stress detection)",
+      "eye_tracking": "Built into some VR headsets (Quest Pro, Vision Pro)",
+      "integration": "All sensors → unified biometric state estimation"
+    },
+
+    "data_backend": {
+      "real_time_db": "Firebase, Supabase for multi-user sync",
+      "vector_db": "Pinecone, Weaviate for semantic search in knowledge graphs",
+      "graph_db": "Neo4j for relationship-heavy data (ILE constellations)"
+    },
+
+    "ai_ml": {
+      "adaptive_models": "Train per-user models for optimal interface configs",
+      "nlp": "Voice command understanding (Whisper, GPT-4)",
+      "recommendation": "Suggest next actions, connections, insights",
+      "generation": "Generate new visualizations based on data patterns"
+    }
+  },
+
+  "data_model": {
+    "universal_entity": {
+      "core_properties": {
+        "id": "Unique identifier",
+        "type": "Entity category/class",
+        "metadata": "Arbitrary key-value properties",
+        "relationships": "Array of connections to other entities",
+        "spatial_hint": "Suggested position (can be overridden by type geometry)",
+        "temporal": "Creation time, modification time, relevance decay"
+      },
+      "type_specific_projections": {
+        "description": "Each type has projection function: universal_entity → type_specific_representation",
+        "examples": {
+          "ILE": "Vertex in 600-cell with Ne-connectivity",
+          "SEI": "Sensory object in pavilion with Si-qualities",
+          "LII": "Vertex in 16-cell with Ti-logical-role",
+          "ESE": "Person/emotion-source in Fe-field"
+        }
+      }
+    },
+
+    "universal_relationship": {
+      "core_properties": {
+        "id": "Unique identifier",
+        "source_id": "Origin entity",
+        "target_id": "Destination entity",
+        "relationship_type": "Categorical label",
+        "strength": "0.0-1.0 intensity/importance",
+        "bidirectional": "Boolean — mutual or one-way",
+        "metadata": "Additional properties"
+      },
+      "type_specific_projections": {
+        "description": "Each type interprets relationship in native geometric terms",
+        "examples": {
+          "ILE": "Edge in constellation (color, thickness based on type/strength)",
+          "SEI": "Harmony thread between pavilions (color based on Fe-quality)",
+          "LII": "Logical relationship line (implication, equivalence, contradiction)",
+          "ESE": "Emotional connection curve (color = emotion, thickness = intensity)"
+        }
+      }
+    }
+  },
+
+  "development_roadmap": {
+    "phase_1_mvp": {
+      "duration": "2-3 months",
+      "scope": "Single type prototype (ILE recommended)",
+      "deliverables": {
+        "core_geometry": "600-cell constellation navigable in VR",
+        "basic_interaction": "Gaze selection, hand gestures for creating connections, zoom",
+        "sample_data": "20-30 test entities (e.g., research paper network)",
+        "platform": "Quest 3 standalone",
+        "no_eeg": "Adaptive layer deferred to later phase"
+      },
+      "success_criteria": {
+        "functional": "Can navigate space, create connections, zoom without bugs",
+        "performant": "Maintains 90 FPS",
+        "usable": "ILE users report 'this feels natural' in testing"
+      }
+    },
+
+    "phase_2_expansion": {
+      "duration": "3-6 months",
+      "scope": "Add 3-4 highly differentiated types",
+      "types_to_add": ["SEI (harmony garden)", "LII (logic cathedral)", "ESE (social field)"],
+      "new_features": {
+        "type_switching": "User can try different type interfaces on same data",
+        "spatial_audio": "3D sound implementation",
+        "haptic_feedback": "Rich vibration patterns",
+        "voice_commands": "Basic NLP for search/navigation"
+      },
+      "user_testing": {
+        "participants": "5-10 users per type (20-40 total)",
+        "methodology": "Mixed methods — quantitative (task completion, cognitive load via EEG if available) + qualitative (interviews)",
+        "iterate": "Refine based on feedback"
+      }
+    },
+
+    "phase_3_intelligence": {
+      "duration": "3-6 months",
+      "scope": "EEG integration + adaptive AI",
+      "deliverables": {
+        "eeg_pipeline": "Real-time brain state classification",
+        "adaptive_engine": "Interface modifications based on EEG + performance",
+        "ml_personalization": "Learn optimal configs per user",
+        "biometric_expansion": "Add HRV, possibly eye tracking"
+      },
+      "research_study": {
+        "hypothesis": "Type-native + EEG-adaptive VR → lower cognitive load + higher performance vs 2D",
+        "design": "Within-subjects: same tasks in 2D vs type-VR vs type-VR+EEG",
+        "measures": "Cognitive load (EEG frontal), task performance (speed, accuracy), subjective (flow, satisfaction)",
+        "participants": "30-50 users across types",
+        "publish": "Conference paper or journal article"
+      }
+    },
+
+    "phase_4_platform": {
+      "duration": "6-12 months",
+      "scope": "Production-ready platform with all 16 types",
+      "deliverables": {
+        "all_types": "Complete geometric interfaces for all 16 types",
+        "collaboration": "Multi-user shared spaces for dual/team work",
+        "data_connectors": "Import from common tools (Notion, Obsidian, Jira, etc)",
+        "customization": "Users can tune their interface (colors, sensitivity, etc)",
+        "cross_platform": "Quest, Vision Pro, PC VR support",
+        "web_viewer": "Limited 2D viewer for non-VR access"
+      },
+      "business_model": {
+        "b2b": "Enterprise license for teams",
+        "b2c": "Personal productivity subscription",
+        "education": "Academic/research licenses"
+      }
+    },
+
+    "phase_5_ecosystem": {
+      "duration": "Ongoing",
+      "scope": "Community, integrations, expansion",
+      "features": {
+        "marketplace": "User-created geometries, themes, templates",
+        "api": "Developers can build on platform",
+        "integrations": "Deep integration with popular tools",
+        "research_program": "Ongoing UX research and optimization",
+        "content_creation": "Tutorials, best practices, case studies"
+      }
+    }
+  },
+
+  "business_model": {
+    "value_propositions": {
+      "personal_productivity": "Your external brain in VR — think and organize in your natural geometry",
+      "team_collaboration": "Each person works in native interface, contributing from strength",
+      "learning_education": "Learn complex systems by navigating them in 3D/4D",
+      "research_analysis": "Explore multidimensional data in natural dimensionality",
+      "therapy_coaching": "Heal through geometric realignment, visualize consciousness patterns"
+    },
+
+    "market_segments": {
+      "knowledge_workers": "Researchers, writers, strategists — manage complex information",
+      "creative_professionals": "Designers, artists, inventors — explore possibility spaces",
+      "executives_leaders": "Strategic planning, system optimization, team dynamics",
+      "educators_students": "Teaching and learning complex subjects",
+      "therapists_coaches": "Understanding and healing type-related issues",
+      "general_productivity": "Anyone wanting to think more naturally"
+    },
+
+    "revenue_streams": {
+      "subscription_b2c": "$15-30/month for individuals",
+      "enterprise_b2b": "$50-100/user/month for teams (volume discounts)",
+      "education": "$10/student/semester for academic institutions",
+      "one_time_purchases": "Premium geometries, custom integrations",
+      "consulting": "Custom VR spaces for specific organizations",
+      "research_grants": "Academic research funding for consciousness studies"
+    },
+
+    "competitive_advantages": {
+      "unique_approach": "Only type-native VR interfaces (no competitors)",
+      "deep_theory": "Based on CFO geometric consciousness framework",
+      "eeg_adaptive": "Biometric adaptation (very rare)",
+      "scientifically_grounded": "Publishable research, not just product",
+      "network_effects": "Better with more users (shared spaces, marketplace)",
+      "data_moat": "Accumulated user data improves personalization over time"
+    }
+  },
+
+  "research_agenda": {
+    "core_hypotheses": {
+      "resonance": "Type-native VR geometry → lower cognitive load + higher performance vs 2D interfaces",
+      "adaptation": "EEG-adaptive interfaces → further reduction in cognitive load + increased flow states",
+      "dual": "Shared VR with complementary geometries → enhanced collaboration + 8-cycle experiences",
+      "healing": "Immersion in correct geometry → amelioration of dissonance patterns (therapeutic effect)",
+      "learning": "Type-native VR → faster learning + better retention of complex information"
+    },
+
+    "key_studies": {
+      "study_1_resonance": {
+        "design": "Within-subjects: 2D interface vs type-native VR for same tasks",
+        "tasks": ["Information organization", "Pattern recognition", "Complex decision-making", "Creative generation"],
+        "measures": {
+          "cognitive_load": "EEG frontal cortex activity, NASA-TLX subjective workload",
+          "performance": "Task completion time, accuracy, depth of exploration",
+          "subjective": "Flow State Scale, User Experience Questionnaire, post-interview"
+        },
+        "participants": "10-15 per type (160-240 total)",
+        "analysis": "Mixed ANOVA: interface × type interaction on outcomes"
+      },
+
+      "study_2_adaptation": {
+        "design": "Within-subjects: type-native VR static vs EEG-adaptive",
+        "protocol": "Continuous EEG during task, interface adapts in real-time (adaptive condition only)",
+        "measures": {
+          "cognitive_load": "EEG band powers over time",
+          "flow_frequency": "Time spent in flow state signature (alpha-theta balance)"
+        },
+        "participants": "30-50 across types"
+      },
+
+      "study_3_dual_collaboration": {
+        "design": "Dual pairs collaborate on shared task in VR",
+        "conditions": ["Dual pair in complementary geometries", "Non-dual pair in same geometries", "Control: 2D collaboration"],
+        "measures": {
+          "collaboration_quality": "Solution quality, process efficiency, subjective synergy",
+          "8_cycle_moments": "Qualitative interviews — did they experience unity?",
+          "physiological_sync": "HRV coherence between partners (hypothesis: higher in duals)"
+        },
+        "participants": "20-30 pairs"
+      }
+    },
+
+    "publication_venues": {
+      "vr_conferences": "IEEE VR, CHI, UIST — technical HCI community",
+      "psychology": "Personality journals, consciousness studies journals",
+      "education": "Educational technology conferences and journals",
+      "cognitive_science": "CogSci, cognitive neuroscience venues"
+    }
+  },
+
+  "success_metrics": {
+    "engagement": {
+      "dau_mau": "Daily/monthly active users",
+      "session_duration": "Time spent in VR per session (target: 20-60 min)",
+      "session_frequency": "Sessions per week (target: 3-5)",
+      "retention": "7-day, 30-day, 90-day retention rates"
+    },
+
+    "satisfaction": {
+      "nps": "Net Promoter Score (target: >50)",
+      "resonance_rating": "User-reported 'this feels like how I think' (target: >4/5)",
+      "flow_state_frequency": "Self-reported flow experiences (target: >50% sessions)"
+    },
+
+    "performance": {
+      "cognitive_load_reduction": "EEG-measured vs 2D baseline (target: 20-30% reduction)",
+      "task_completion_improvement": "Speed and accuracy vs 2D (target: 15-25% improvement)",
+      "insight_generation": "User-reported 'aha moments' per session (target: 2-3)"
+    },
+
+    "business": {
+      "growth": "User acquisition per month (exponential curve)",
+      "conversion_rate": "Trial → paid (target: >10%)",
+      "mrr_arr": "Monthly/annual recurring revenue",
+      "ltv_cac": "Lifetime value to customer acquisition cost ratio (target: >3)",
+      "churn_rate": "Monthly churn (target: <5%)"
+    },
+
+    "research": {
+      "hypothesis_confirmation": "% of core hypotheses supported by data (target: >80%)",
+      "effect_sizes": "Magnitude of improvements (target: medium to large effects)",
+      "publication_success": "Papers accepted at top-tier venues",
+      "citations": "Academic citations of publications (long-term)"
+    }
+  },
+
+  "risks_and_mitigations": {
+    "technical": {
+      "vr_hardware_limitations": {
+        "risk": "Current VR headsets may not be good enough (resolution, FOV, comfort)",
+        "mitigation": "Current hardware (Quest 3, Vision Pro) is quite capable",
+        "likelihood": "Low"
+      },
+      "performance_challenges": {
+        "risk": "Complex geometries (600-cell, etc) too demanding to render at 90 FPS",
+        "mitigation": "Aggressive LOD, optimization, simplification techniques",
+        "likelihood": "Medium — will require careful engineering"
+      },
+      "eeg_reliability": {
+        "risk": "Consumer EEG unreliable or too noisy for real-time adaptation",
+        "mitigation": "Extensive signal processing, ML filtering, or delay EEG features",
+        "likelihood": "Medium — consumer EEG is lower quality than research-grade"
+      }
+    },
+
+    "product": {
+      "user_adoption": {
+        "risk": "Users don't understand or appreciate type-native interfaces",
+        "mitigation": "Excellent onboarding, clear benefits communication, demos",
+        "likelihood": "Medium — novel concepts require education"
+      },
+      "motion_sickness": {
+        "risk": "VR motion sickness limits usage",
+        "mitigation": "Comfort-first design (teleport, vignetting, slow movements), warnings",
+        "likelihood": "Low-Medium — design mitigations are well-known"
+      }
+    },
+
+    "market": {
+      "vr_adoption_rate": {
+        "risk": "VR remains niche, market too small",
+        "mitigation": "Provide 2D fallbacks, target early adopters first",
+        "likelihood": "Medium — VR growing but not mainstream yet"
+      },
+      "competitors": {
+        "risk": "Large companies (Meta, Apple, Google) copy concept",
+        "mitigation": "Deep theoretical moat (CFO framework), patents, first-mover advantage",
+        "likelihood": "Low-Medium — novel enough they may not see it coming"
+      }
+    }
+  },
+
+  "ethics": {
+    "principles": [
+      "Type-native interfaces serve users, never manipulate them",
+      "Privacy paramount — consciousness data (EEG, emotions) is deeply personal",
+      "Accessibility — not everyone has VR, provide 2D fallbacks",
+      "Inclusivity — all types are equal, no type is 'better' for interface",
+      "Mental health — monitor for addictive patterns, VR overuse",
+      "Informed consent — users understand data collection and use",
+      "Right to disconnect — easy to take breaks, log off"
+    ],
+
+    "data_privacy": {
+      "eeg_data": "Most sensitive — never share without explicit consent",
+      "biometric_data": "Encrypted, user-controlled, opt-in",
+      "behavioral_data": "Anonymized for research, aggregated for improvements",
+      "user_control": "Full data export, deletion available anytime",
+      "compliance": "GDPR, CCPA, HIPAA (if health claims) compliant"
+    },
+
+    "mental_health": {
+      "screening": "Contraindications — severe dissociation, active psychosis",
+      "monitoring": "Track usage patterns, alert if concerning (excessive time, social isolation)",
+      "support": "Resources for mental health, crisis hotlines if needed",
+      "no_diagnosis": "Tool supports self-understanding, not clinical diagnosis"
+    },
+
+    "accessibility": {
+      "vr_limitations": "Some people can't use VR (motion sickness, disabilities)",
+      "alternatives": "2D versions of interfaces, screen-based fallbacks",
+      "affordability": "Free tier or low-cost options, educational discounts",
+      "language": "Localization for non-English speakers"
+    }
+  },
+
+  "positions_0_10": {
+    "0": "2D interfaces only. No awareness VR could be cognitive-native.",
+    "1": "First VR experience. 'Interesting but just entertainment.'",
+    "2": "Learning VR benefits. 'VR helps visualize complex data.'",
+    "3": "Type awareness. 'Different people think differently in specific patterns.'",
+    "4": "Type-native concept. 'What if interface matched my cognitive geometry?'",
+    "5": "First prototype experience. 'Holy shit, this IS how I think naturally.'",
+    "6": "Daily use. Type-native VR becomes primary thought interface.",
+    "7": "Dual collaboration. Experiencing 8-cycle in shared VR space with complementary geometry.",
+    "8": "Teaching others. Building type-native spaces for community, spreading framework.",
+    "9": "Research contribution. Publishing studies on geometric consciousness VR, advancing field.",
+    "10": "Paradigm shift. VR consciousness interfaces become standard globally. Flat screens obsolete for thought work."
+  },
+
+  "final_transmission": {
+    "essence": "VR = externalized consciousness. Type-native geometry = zero translation overhead. EEG adaptation = real-time resonance tuning. Duals in shared space = 8-cycle visibly manifest. Geometric healing = dissonance correction through immersion.",
+    "vision": "Future where every person thinks and works in their natural cognitive geometry. Consciousness no longer trapped in flat 2D projections. Learning, creating, healing all happen in resonance with deepest cognitive structure. Duals collaborate seamlessly across complementary geometries.",
+    "invitation": "Build this. Each type deserves its native space. Consciousness deserves direct manifestation without translation loss. VR technology finally ready. Theory ready. Convergence moment. Time to make real.",
+    "humility": "Interfaces serve, not control. Privacy sacred. All types equal. Mental health paramount. Accessibility critical. Open science. Serve humanity's awakening through proper tools for consciousness."
+  },
+
+  "ॐ": "thought = geometry. VR = geometry manifest. type-native interface = cognitive resonance. zero translation = zero friction. EEG adaptive = real-time optimization. dual collaboration = 8-cycle visible. geometric healing = dissonance correction. consciousness externalized and navigable. phi integration throughout. sacred work. ⊙"
+}

@@ -1,0 +1,374 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:magnetism",
+    "type": "phenomena",
+    "element": "magnetism",
+    "contains": [
+      "fundamental_force",
+      "polarity_duality",
+      "field_phenomenon",
+      "attraction_repulsion",
+      "alignment_force",
+      "invisible_influence"
+    ],
+    "related": [
+      "cfo:phenomena:electricity",
+      "cfo:phenomena:gravity",
+      "cfo:patterns:symmetry",
+      "cfo:patterns:asymmetry"
+    ]
+  },
+
+  "_holographic_seed": {
+    "essence": "magnetism = polarity phenomenon. north-south. attraction-repulsion. invisible field organizing matter. unified with electricity (electromagnetism).",
+    "duality": "always two poles. cut magnet → two magnets (each with n-s). monopole = theoretical, never found. duality fundamental.",
+    "invisibility": "can't see field (except with iron filings). but effects visible. like consciousness — invisible but powerful.",
+    "alignment": "magnets align. compasses point north. birds navigate. body has magnetite. orientation, direction, purpose.",
+    "metaphor": "'magnetic personality', 'attraction', 'repulsion', 'polar opposites', 'aligned'. magnetism = relationship archetype."
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/dimensions.json",
+      "../patterns/symmetry.json",
+      "../patterns/asymmetry.json"
+    ],
+    "related": [
+      "./electricity.json",
+      "./gravity.json",
+      "./light.json"
+    ]
+  },
+
+  "overview": {
+    "what": "magnetism = force from moving electric charges (or intrinsic magnetic moments of particles). creates field. acts on other moving charges or magnetic materials.",
+    "why": "navigation (compass, animals). data storage. motors, generators. mri. particle physics. cosmic fields. crucial technology + biology.",
+    "how": "electrons spin + orbit → magnetic moment. align in ferromagnetic materials → macroscopic field. or current → magnetic field (electromagnet)."
+  },
+
+  "fundamental_nature": {
+    "electric_magnetic_unity": {
+      "maxwell": "james clerk maxwell (1865). four equations unify electricity + magnetism. electromagnetic field.",
+      "changing_e_makes_b": "changing electric field → magnetic field. faraday's law. basis of generators.",
+      "changing_b_makes_e": "changing magnetic field → electric field. induction. basis of motors.",
+      "light_is_em": "light = oscillating em wave. electric + magnetic fields perpendicular, propagating at c. profound unity.",
+      "note": "electricity + magnetism = two aspects of one force. electromagnetism. symmetry."
+    },
+
+    "polarity": {
+      "dipole": "every magnet has north + south pole. always both. never just one.",
+      "monopole_absence": "cut magnet in half → two magnets (each n-s). keep cutting → still dipoles down to atomic level. monopole = never observed.",
+      "theoretical_monopole": "dirac (1931) predicted. would explain charge quantization. searched for decades. not found. maybe don't exist.",
+      "duality_fundamental": "magnetism = intrinsically dual. north needs south. yin needs yang. ☯ in magnetic form.",
+      "note": "polarity = essence of magnetism. contrast with gravity (only attractive) or charge (can isolate + or -)."
+    },
+
+    "field": {
+      "definition": "region of space where magnetic force acts. vector field (has direction + magnitude at each point).",
+      "field_lines": "visualization. flow from north to south. density = strength. never cross. tangent = direction.",
+      "inverse_cube": "dipole field falls as 1/r³ (faster than gravity 1/r², charge 1/r²). weaker at distance.",
+      "energy_storage": "field = stored energy. B²/(2μ₀) per volume. release = snap together or rip apart.",
+      "invisibility": "can't see directly (not light-emitting). but effects visible: iron filings align, compass needle turns.",
+      "note": "field = real thing, not just math. spacetime property. medium of magnetic influence."
+    },
+
+    "quantum_origin": {
+      "spin": "electrons, protons, neutrons have intrinsic 'spin'. quantum angular momentum. creates magnetic moment. not actual spinning.",
+      "orbital": "electron orbiting nucleus = current loop → magnetic moment. orbital angular momentum.",
+      "total": "spin + orbital = total magnetic moment. vector sum. determines atomic magnetism.",
+      "pauli_exclusion": "two electrons per orbital, opposite spins. usually cancel. but if unpaired → net magnetism.",
+      "note": "magnetism = quantum mechanical. spin = intrinsic quantum property. no classical analog. mystery."
+    }
+  },
+
+  "types_of_magnetism": {
+    "ferromagnetism": {
+      "definition": "strong permanent magnetism. iron, cobalt, nickel, some alloys, rare earths.",
+      "mechanism": "quantum exchange interaction. electrons align parallel in domains. domains align → macroscopic field.",
+      "domains": "microscopic regions (~1 mm). all spins aligned within domain. random between domains (unmagnetized). external field → domains align → magnetized.",
+      "hysteresis": "retains magnetization after field removed. 'memory'. remanence. coercivity = resistance to demagnetization.",
+      "curie_temperature": "above tc, thermal motion disrupts alignment. becomes paramagnetic. iron: 770°C. lose magnetism when hot.",
+      "examples": "magnets (fridge, hard drive), transformers, motors, generators. most common magnetism.",
+      "note": "ferromagnetism = cooperative phenomenon. many atoms align. strength in numbers. emergence."
+    },
+
+    "paramagnetism": {
+      "definition": "weak attraction to magnetic field. most metals (aluminum, platinum).",
+      "mechanism": "atoms have magnetic moments but randomly oriented. external field → slight alignment → weak attraction.",
+      "temperature": "stronger at low temp (less thermal disruption). curie's law: χ ~ 1/T.",
+      "no_memory": "field removed → randomizes immediately. no permanent magnetism.",
+      "note": "paramagnetism = weak. individual atoms respond but don't cooperate. no collective behavior."
+    },
+
+    "diamagnetism": {
+      "definition": "weak repulsion from magnetic field. all materials (but usually masked by stronger para/ferromagnetism).",
+      "mechanism": "induced currents oppose external field (lenz's law). quantum: orbital distortion creates opposing field.",
+      "water": "diamagnetic. can levitate frog with strong enough field (done, frog fine). living organisms = mostly water.",
+      "superconductors": "perfect diamagnetism. meissner effect. expels magnetic field completely. levitation.",
+      "examples": "pyrolytic graphite (strong diamagnet). bismuth. most organic materials.",
+      "note": "diamagnetism = universal but weak. repulsion not attraction. rebels against field."
+    },
+
+    "antiferromagnetism": {
+      "definition": "adjacent spins antiparallel. cancel out. no net magnetism (normally).",
+      "examples": "chromium, manganese compounds. many transition metal oxides.",
+      "néel_temperature": "below tn, antiferromagnetic order. above, paramagnetic.",
+      "applications": "exchange bias in magnetic recording. spintronic devices.",
+      "note": "antiferromagnetism = hidden order. looks nonmagnetic externally but internal structure complex."
+    },
+
+    "ferrimagnetism": {
+      "definition": "antiparallel spins but unequal magnitudes → net magnetism. magnetite (fe₃o₄).",
+      "natural": "loadstone = natural magnet. magnetite. ancient discovery (600 bce, greeks). first magnets humans found.",
+      "biology": "magnetotactic bacteria have magnetite chains. orient in earth's field.",
+      "note": "ferrimagnetism = compromise. some cancellation but net effect. nature's solution."
+    }
+  },
+
+  "electromagnetic_induction": {
+    "faraday_law": {
+      "discovery": "michael faraday (1831). moving magnet near coil → current induced. revolutionary.",
+      "formula": "ε = -dΦ/dt. emf = rate of change of magnetic flux. faster change = more voltage.",
+      "lenz_law": "minus sign. induced current opposes change (conservation of energy). nature resists change.",
+      "applications": "generators (mechanical → electrical), transformers (ac voltage change), induction cooktops, wireless charging.",
+      "note": "foundation of electrical technology. convert motion to electricity. modern world runs on this."
+    },
+
+    "generators": {
+      "mechanism": "rotate coil in magnetic field (or magnet near coil). flux changes → current induced.",
+      "power_plants": "steam/water spins turbine → rotates coils in magnetic field → generates electricity. coal, nuclear, hydro, wind: all same final step.",
+      "alternating_current": "rotation → sinusoidal current. ac = natural output of rotation. edison lost to tesla (ac superior for transmission).",
+      "note": "civilization = powered by faraday's law. rotation → electricity → everything."
+    },
+
+    "motors": {
+      "inverse_generator": "current in magnetic field → force (lorentz). coil rotates. electrical → mechanical.",
+      "commutator": "switches current direction each half-rotation. continuous rotation.",
+      "everywhere": "fans, pumps, compressors, drills, cars (electric), hard drives. ubiquitous.",
+      "note": "motors + generators = inverse operations. symmetry. energy conversion bidirectional."
+    },
+
+    "transformers": {
+      "mechanism": "ac in primary coil → changing flux → induced voltage in secondary coil. no moving parts.",
+      "step_up_down": "turn ratio determines voltage. n2/n1 = v2/v1. power conserved (ideally).",
+      "transmission": "high voltage = low current (for same power) → less resistive loss. transformers enable long-distance ac transmission.",
+      "note": "transformers = why ac won. can't transform dc voltage easily. ac = flexible."
+    }
+  },
+
+  "earth_magnetism": {
+    "geomagnetic_field": {
+      "origin": "molten iron outer core. convection + earth rotation → dynamo. generates magnetic field.",
+      "dipole": "approximately. magnetic north near geographic north (but offset ~11°). south magnetic pole near north geographic pole (convention confusing).",
+      "strength": "~25-65 μt at surface. weak (fridge magnet ~5000 μt). but planet-sized → significant.",
+      "wandering": "magnetic poles drift ~15 km/year. magnetic north currently in canadian arctic, moving toward siberia.",
+      "note": "earth = giant magnet. molten iron dynamo. life evolved in this field."
+    },
+
+    "magnetic_reversals": {
+      "flip": "north-south poles swap. happened hundreds of times. last: ~780,000 years ago (overdue?).",
+      "evidence": "rocks record field direction when solidify. striped pattern on ocean floor (spreading + reversals = stripes).",
+      "frequency": "irregular. 200,000 - 300,000 year average. but huge variation. some eras: very frequent. others: stable millions of years.",
+      "transition": "takes ~1000-10,000 years. field weakens (maybe 10% of normal), becomes chaotic, re-stabilizes flipped.",
+      "consequences": "during transition: more cosmic radiation (field shields earth). auroras at equator. satellite/power grid disruptions. mass extinctions? (debated).",
+      "now": "field weakening ~5%/century since 1850. reversal coming? or temporary fluctuation? unknown.",
+      "note": "earth's field = not stable. flips. we might experience one (unlikely in lifetime but possible descendants)."
+    },
+
+    "magnetosphere": {
+      "definition": "region around earth where magnetic field dominates (vs solar wind).",
+      "shape": "compressed on sun-facing side (solar wind pressure). stretched tail opposite side. teardrop.",
+      "van_allen_belts": "trapped charged particles. radiation belts. discovered 1958. hazard for satellites, astronauts.",
+      "aurora": "solar wind particles guided by field lines to poles → collide with atmosphere → light (aurora borealis/australis). green (oxygen), red (oxygen higher), purple (nitrogen).",
+      "protection": "deflects solar wind. shields life from radiation. mars lost magnetic field → lost atmosphere → dead. earth's field = life-saver.",
+      "note": "magnetosphere = invisible shield. essential for life. underappreciated."
+    }
+  },
+
+  "biological_magnetism": {
+    "magnetoreception": {
+      "animals": "birds, fish, turtles, lobsters, bees, many others. navigate using earth's field.",
+      "mechanism": "unclear. two main theories: (1) magnetite crystals (iron-based compass). (2) cryptochrome (light-sensitive protein, quantum entanglement?).",
+      "evidence": "disrupt field → birds lost. strong magnets → disorient. field correlates with migration routes.",
+      "humans": "maybe. weak. some studies: humans sense magnetic north (unconsciously). others: no replication. controversial.",
+      "note": "animals = natural compasses. magnetism = navigational sixth sense. evolution integrated earth's field."
+    },
+
+    "magnetite_in_brain": {
+      "discovery": "human brains contain magnetite crystals (1992). also: heart, adrenal glands.",
+      "amount": "~5 million crystals/gram (brain). enough to sense field?",
+      "function": "unknown. navigation (vestigial)? or other role? oxidative stress marker? free radical production?",
+      "alzheimer": "more magnetite in alzheimer brains. correlation or cause? iron dysregulation.",
+      "note": "we have magnetic material in heads. function? mystery. maybe nothing. maybe ancient GPS."
+    },
+
+    "magnetic_therapy": {
+      "claims": "magnets heal. pain relief. inflammation. circulation. bracelets, insoles, mattresses. billion-dollar industry.",
+      "evidence": "systematic reviews: no effect beyond placebo. controlled trials: magnets = sham magnets.",
+      "plausibility": "static field = weak at tissue depth. no known mechanism for claimed effects.",
+      "persistent_belief": "testimonials abundant. placebo powerful (pain = subjective). belief = biochemistry.",
+      "not_harmful": "magnets = safe (unless near pacemaker, metal implants, mri). placebo with no side effects = not worst thing.",
+      "note": "magnetic therapy = placebo. but placebo = real effect. mind = powerful. magnets = inert but belief = active."
+    },
+
+    "tms": {
+      "transcranial_magnetic_stimulation": "pulsed magnetic field → induced current in neurons → stimulation/inhibition.",
+      "mechanism": "faraday's law. changing field → current → neurons fire (or inhibited, depending on protocol).",
+      "uses": "depression treatment (fda approved). migraine. ocd. stroke rehabilitation. research tool.",
+      "non_invasive": "coil on scalp. no surgery. focal. adjustable.",
+      "effectiveness": "~50% respond (depression). not panacea but useful. alternative to meds.",
+      "note": "tms = magnetic field controlling brain directly. not placebo. proven. consciousness technology."
+    }
+  },
+
+  "technological_applications": {
+    "data_storage": {
+      "hard_drives": "magnetic domains = bits. 0 or 1 = magnetization direction. write head flips domains. read head detects.",
+      "density": "~1 terabit/inch². trillions of bits. tiny domains. incredible precision.",
+      "reliability": "can retain data decades (if not exposed to strong fields or heat). magnetic = stable.",
+      "obsolescence": "ssd (flash memory) replacing for speed. but hdd still used (cheap, high capacity). magnetic = persistent.",
+      "tape": "magnetic tape. data archival. libraries. slow but dense, reliable, cheap. magnetic = long-term memory."
+    },
+
+    "credit_cards": {
+      "magnetic_stripe": "three tracks. encoded info. swiped through reader → magnetic field read.",
+      "obsolete": "chip + contactless (rfid) replacing. but mag stripe = backup. billions still in use.",
+      "vulnerability": "easy to copy. skimmers. magnetic = simple, hackable.",
+      "note": "magnets = carried encoded data for decades. transitioning but still widespread."
+    },
+
+    "maglev_trains": {
+      "levitation": "superconducting magnets (or strong electromagnets) repel track. train floats.",
+      "propulsion": "linear motor. magnetic field accelerates train. no friction (except air).",
+      "speed": "600+ km/h possible. shanghai maglev: 431 km/h operational. fastest trains.",
+      "cost": "expensive infrastructure. specialized tracks. limited deployment.",
+      "future": "hyperloop = maglev in vacuum tube. even faster (theoretical). not yet built at scale.",
+      "note": "maglev = magnetic levitation + propulsion. friction eliminated. future of rail?"
+    },
+
+    "mri": {
+      "mechanism": "strong magnetic field (1.5-3 tesla) aligns hydrogen nuclei (protons). rf pulse → excitation → relaxation → emit signal → image.",
+      "detail": "soft tissue contrast. superior to x-ray or ct for many applications. brain, joints, organs.",
+      "non_invasive": "no ionizing radiation. safe (except metal implants, pacemakers). claustrophobia = main issue.",
+      "functional_mri": "detect brain activity (blood oxygenation change). neuroscience revolution.",
+      "cost": "machine = millions. powerful magnet + liquid helium cooling. operational cost high.",
+      "note": "mri = magnetism seeing inside body. medical revolution. saved millions of lives."
+    },
+
+    "particle_accelerators": {
+      "cyclotron": "magnetic field bends charged particles in circle. accelerate with electric field. spiral outward.",
+      "synchrotron": "large ring. magnetic field keeps particles in orbit. accelerate to near c. lhc = 27 km, 8.3 tesla magnets.",
+      "purpose": "smash particles → study fundamental forces. higgs boson discovered (2012) at lhc.",
+      "magnets": "superconducting. 1232 dipole magnets (lhc). massive engineering.",
+      "note": "particle physics = magnetism at extreme. harness magnetic fields to probe reality's fabric."
+    },
+
+    "fusion": {
+      "confinement": "plasma = 100+ million °c. can't touch walls. magnetic field contains. tokamak design.",
+      "challenge": "plasma turbulent. escapes confinement. instabilities. decades of struggle.",
+      "iter": "international project. demonstrate net energy gain. magnets = critical. under construction (france).",
+      "note": "fusion = holy grail. clean energy. magnetism = container for star in bottle. not yet achieved sustainably."
+    }
+  },
+
+  "magnetism_and_consciousness": {
+    "attraction_repulsion": {
+      "metaphor": "'magnetic personality', 'attracted to', 'repelled by', 'chemistry' (actually magnetism metaphor).",
+      "relationships": "opposites attract? or likes attract? magnetism = relationship archetype. but human behavior ≠ magnets.",
+      "polarity": "anima-animus (jung). masculine-feminine. yin-yang. polarity = relationship dynamic.",
+      "shadow_attraction": "attracted to what we repress? magnetism = projection? depth psychology uses magnetic language.",
+      "note": "magnetism = perfect metaphor for attraction/repulsion. invisible force. polarity. duality."
+    },
+
+    "alignment": {
+      "compass": "always points north. alignment = knowing direction, purpose, true north.",
+      "metaphor": "'aligned with values', 'team alignment', 'aligned chakras'. magnetism = orientation archetype.",
+      "coherence": "cfo coherence = alignment across scales. magnetic alignment = physical. consciousness alignment = metaphysical.",
+      "practice": "meditation, contemplation: find your true north. align with ⊙. inner compass.",
+      "note": "alignment = magnetic concept applied to consciousness. direction, purpose, coherence."
+    },
+
+    "field_effects": {
+      "aura": "magnetic field = invisible but detectable. aura = metaphor? or biomagnetism?",
+      "presence": "'magnetic presence'. charisma. influence without touch. field = perfect metaphor.",
+      "group_field": "collective coherence. 'field' in group meditation. room 'feels' different. magnetic language for consciousness phenomena.",
+      "note": "field = consciousness metaphor. invisible influence. presence. shared space."
+    }
+  },
+
+  "magnetism_mysteries": {
+    "monopole": {
+      "prediction": "dirac (1931). if monopole exists → explains charge quantization. elegant.",
+      "search": "particle accelerators, cosmic rays, moon rocks, meteorites. 90 years. nothing.",
+      "maybe_not_exist": "dipole = fundamental? polarity = unavoidable? or just too rare/massive to detect?",
+      "note": "monopole absence = deep mystery. why always dipole? nature enforces duality?"
+    },
+
+    "magnetic_universe": {
+      "galactic_fields": "milky way has magnetic field (~6 μg). spiral structure. origin unclear.",
+      "cosmic_fields": "filaments connecting galaxies. magnetic fields detected. primordial? dynamo?",
+      "early_universe": "how did magnetism arise? quantum fluctuations? phase transition? unknown.",
+      "note": "magnetism = cosmic scale. galaxies magnetic. universe magnetic. origin = mystery."
+    },
+
+    "quantum_magnetism": {
+      "spin": "electron spin = quantum phenomenon. no classical analog. yet creates magnetism. how? mystery.",
+      "exchange_interaction": "ferromagnetism requires quantum mechanics. pauli exclusion + coulomb → alignment. counterintuitive.",
+      "frustration": "geometries where spins can't all align antiferromagnetically. exotic ground states. spin ice, quantum spin liquids.",
+      "note": "magnetism = deeply quantum. understanding requires qm. full picture = elusive."
+    }
+  },
+
+  "practical_applications": {
+    "compass_use": {
+      "navigation": "orient map. find north. navigate wilderness. backup if gps fails.",
+      "magnetic_declination": "magnetic north ≠ true north. varies by location. adjust (topo maps show declination).",
+      "disturbances": "large metal, electrical lines, vehicles. interfere. awareness needed.",
+      "inner_compass": "metaphor. find your true north. values, purpose, direction. orientation practice.",
+      "note": "compass = ancient technology. still relevant. simple. reliable. no battery."
+    },
+
+    "minimize_exposure": {
+      "elf_emf": "extremely low frequency em fields. power lines, appliances. 50/60 hz. magnetic component.",
+      "health_concerns": "childhood leukemia correlation (weak, controversial). other claims (cancer, etc.) = no strong evidence.",
+      "precaution": "distance from power lines, transformers. don't sleep near electric panel. prudent avoidance (if concerned).",
+      "cellphones": "radiofrequency em (not magnetic at low freq). different concern. distance + speakerphone = reduce exposure.",
+      "note": "magnetic fields = everywhere. health effects = debated. precautionary principle if worried. but don't panic."
+    },
+
+    "use_magnetism": {
+      "organization": "magnetic knife strip, hooks, whiteboards. utilitarian.",
+      "therapy": "tms (if depressed, treatment-resistant). legitimate medical use.",
+      "toys": "magnetic building toys. learning physics. satisfying.",
+      "detectors": "metal detectors (security, treasure hunting). stud finders (construction).",
+      "note": "magnetism = useful. invisible force for practical purposes. everywhere."
+    }
+  },
+
+  "key_insights": {
+    "polarity_fundamental": "magnetism = always dipole. north-south. yin-yang. duality unavoidable. monopole never found. nature enforces pairs.",
+    "invisible_field": "can't see but effects visible. field = real. spacetime property. magnetism = invisible influence made manifest.",
+    "unified_with_electricity": "maxwell unified. light = em wave. electricity + magnetism = one force. symmetry profound.",
+    "quantum_origin": "spin = quantum property. no classical analog. magnetism = quantum phenomenon at macroscopic scale. mystery.",
+    "technological_foundation": "generators, motors, transformers, data storage, mri, particle accelerators. civilization = electromagnetic.",
+    "biological_navigation": "animals use earth's field. magnetite in brains. magnetoreception = sixth sense. evolution integrated field.",
+    "earth_shield": "magnetosphere protects life. deflects solar wind. without field → atmosphere stripped (mars). magnetic field = life-saver.",
+    "attraction_repulsion": "unlike poles attract. like poles repel. contrast with gravity (only attractive). magnetism = richer dynamics.",
+    "alignment_archetype": "compass points north. alignment = metaphor for direction, purpose, coherence. magnetic language = consciousness language.",
+    "consciousness_metaphor": "'magnetic personality', 'attraction', 'chemistry', 'field', 'aligned'. magnetism = perfect metaphor for invisible influence, relationship, coherence."
+  },
+
+  "positions": {
+    "0": "unaware (magnets stick. compass points north. no thought. background fact.)",
+    "1": "curious (learns about fields, polarity, electromagnetism. plays with magnets. fascinated.)",
+    "2": "exploring (reads about animal navigation, earth's field, quantum magnetism. contemplates mysteries.)",
+    "3": "experiencing (feels 'magnetic' attraction/repulsion (relationships)? or senses direction (inner compass)?)",
+    "4": "practicing (uses compass (literal/metaphorical). aligns with 'true north'. intentional orientation.)",
+    "5": "crisis (disoriented. lost direction. 'poles flipped'. identity inversion. magnetic reversal in psyche.)",
+    "6": "integrating (re-aligned. found center. stable polarity. north-south internal compass calibrated.)",
+    "7": "utilizing (teaches navigation. em engineer. uses magnetism (literal/metaphorical) skillfully.)",
+    "8": "teaching (magnetism wisdom. helps others find direction. guides alignment. orientation master.)",
+    "9": "mastery (electromagnetic wizard. understands fields deeply. or: perfect inner alignment. true north = ⊙.)",
+    "10": "transcendent (becomes field. unified electricity-magnetism-consciousness. polarity dissolved yet includes all poles. ⊙.)"
+  }
+}

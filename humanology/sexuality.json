@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:sexuality",
+    "type": "humanology",
+    "element": "water",
+    "contains": [
+      "gender",
+      "orientation",
+      "attraction",
+      "intimacy"
+    ],
+    "related": [
+      "cfo:humanology:human",
+      "cfo:humanology:emotions",
+      "cfo:fundamental:love",
+      "cfo:paths:water"
+    ]
+  },
+
+  "_holographic_seed": {
+    "gender": "♂•→∞, ♀∞→• (primordial 1|0 split)",
+    "sex": "body recognizing body",
+    "orientation": "vector of attraction",
+    "intimacy": "vulnerability creating union",
+    "sacred": "sexuality = path to divine through flesh"
+  },
+
+  "_links": {
+    "source": [
+      "../fundamental/love.json",
+      "../paths/water.json"
+    ],
+    "related": [
+      "./human.json",
+      "./emotions.json",
+      "./types.json"
+    ]
+  },
+
+  "essence": "sexuality = multi-dimensional expression of attraction, connection, and union through embodied experience",
+
+  "gender": {
+    "foundation": {
+      "binary": "1|0 = information|energy = masculine|feminine",
+      "masculine": "•→∞ (expansion, structure, 1-bit)",
+      "feminine": "∞→• (contraction, flow, 0-bit)",
+      "elements": {
+        "masculine": "fire (primary) + air (secondary)",
+        "feminine": "water (primary) + earth (secondary)"
+      }
+    },
+
+    "dimensions": {
+      "0d_genetic": {
+        "level": "chromosomal seed (xx, xy, intersex)",
+        "nature": "biological substrate only",
+        "note": "not deterministic of identity"
+      },
+      "1d_spectrum": {
+        "level": "♂ ←——→ ♀ linear model",
+        "nature": "traditional binary spectrum",
+        "limitation": "cannot account for non-binary"
+      },
+      "2d_plane": {
+        "level": "multi-coordinate gender space",
+        "nature": "non-binary operates here",
+        "note": "not 'middle' of line—orthogonal dimension"
+      },
+      "3d_expression": {
+        "level": "embodied presentation",
+        "nature": "body, appearance, social role",
+        "note": "most visible but not deterministic of identity"
+      },
+      "4d_temporal": {
+        "level": "fluidity across time",
+        "nature": "gender fluid, transition journeys",
+        "formula": "gender(t) = α·♂(t) + β·♀(t)"
+      },
+      "5d_transcendent": {
+        "level": "unity beyond polarity",
+        "nature": "agender, divine hermaphrodite",
+        "realization": "masculine ≡ feminine at source"
+      }
+    },
+
+    "expressions": {
+      "cisgender": {
+        "pattern": "0d-5d aligned vector",
+        "coherence": "high (low Δscale)",
+        "description": "genetic sex, identity, expression aligned"
+      },
+      "transgender": {
+        "pattern": "initial high Δscale → transition to alignment",
+        "coherence": "increases through argmin Δscale",
+        "description": "identity doesn't match assigned sex"
+      },
+      "non_binary": {
+        "pattern": "2d multi-coordinate operation",
+        "coherence": "high when true to geometry",
+        "description": "exists in 2d plane, not on 1d line"
+      },
+      "gender_fluid": {
+        "pattern": "4d temporal oscillation",
+        "coherence": "high when flow matches rhythm",
+        "description": "movement along ♂↔♀ over time"
+      },
+      "agender": {
+        "pattern": "0d-5d direct bypass",
+        "coherence": "maximum (pure consciousness)",
+        "description": "transcendence of gender layer"
+      },
+      "two_spirit": {
+        "pattern": "sacred ♂+♀ integration",
+        "coherence": "maximum (sacred role)",
+        "description": "indigenous model, both simultaneously"
+      }
+    },
+
+    "dysphoria": {
+      "formula": "dysphoria = Δscale (dimensional mismatch)",
+      "cause": "gap between identity (2d-5d) and body/expression (0d-3d)",
+      "resolution": "argmin Δscale through transition, acceptance, or integration",
+      "note": "natural response to geometric misalignment, not pathology"
+    }
+  },
+
+  "sexual_orientation": {
+    "definition": "direction of sexual/romantic attraction",
+    "dimension": "1d vector",
+    
+    "orientations": {
+      "heterosexual": "attracted to opposite gender",
+      "homosexual": "attracted to same gender",
+      "bisexual": "attracted to both/multiple genders",
+      "pansexual": "attracted regardless of gender",
+      "asexual": "little/no sexual attraction",
+      "demisexual": "attraction only after emotional bond"
+    },
+
+    "nature": {
+      "innate": "biological + early development, not chosen",
+      "spectrum": "orientation exists on continuum",
+      "fluidity": "can shift over lifetime for some",
+      "validity": "all orientations equally valid"
+    }
+  },
+
+  "sexual_attraction": {
+    "dimensions": {
+      "0d_arousal": {
+        "level": "physiological response",
+        "element": "fire",
+        "signs": "blood flow, sensitivity, excitation"
+      },
+      "1d_desire": {
+        "level": "psychological wanting",
+        "element": "fire",
+        "nature": "libido, craving, directed drive"
+      },
+      "2d_chemistry": {
+        "level": "mutual pull",
+        "element": "water",
+        "nature": "resonance, spark, magnetism"
+      },
+      "3d_intercourse": {
+        "level": "physical union",
+        "element": "earth",
+        "nature": "bodies connecting in space"
+      },
+      "4d_intimacy": {
+        "level": "bonding over time",
+        "element": "ether",
+        "nature": "trust, vulnerability, depth"
+      },
+      "5d_tantric": {
+        "level": "sacred union",
+        "element": "ether",
+        "nature": "spiritual sex, transcendence"
+      }
+    },
+
+    "compatibility": "attraction = coherence signal (pattern match recognition)"
+  },
+
+  "sexual_roles": {
+    "archetypes": {
+      "aggressor": {
+        "energy": "dominant, conquering, taking",
+        "drive": "pursue and overcome",
+        "compatible": "victim"
+      },
+      "victim": {
+        "energy": "provocative, surrendering",
+        "drive": "be pursued and taken",
+        "compatible": "aggressor"
+      },
+      "caregiver": {
+        "energy": "giving, nurturing, attentive",
+        "drive": "please and satisfy",
+        "compatible": "infantile"
+      },
+      "infantile": {
+        "energy": "receiving, playful, demanding",
+        "drive": "be pampered and satisfied",
+        "compatible": "caregiver"
+      }
+    },
+
+    "compatible_pairs": [
+      "aggressor ↔ victim (erotic tension, power play)",
+      "caregiver ↔ infantile (nurturing dynamic)"
+    ],
+
+    "note": "mismatched roles create sexual incompatibility"
+  },
+
+  "intimacy_layers": {
+    "physical": "touch, pleasure, orgasm (3d)",
+    "emotional": "vulnerability, trust, opening (4d)",
+    "psychological": "knowing, acceptance, safety (2d-4d)",
+    "spiritual": "recognition of divine in other (5d)",
+    
+    "deepening": "surface pleasure → emotional bonding → spiritual union",
+    "requirement": "intimacy requires vulnerability and presence"
+  },
+
+  "orgasm": {
+    "nature": "peak experience, ego dissolution",
+    "dimension": "0d collapse",
+    "element": "fire",
+    "process": "tension building → plateau → release → resolution",
+    "consciousness": "brief unity, subject-object boundary dissolves",
+    "biochemical": "oxytocin release → bonding (even in casual sex)"
+  },
+
+  "sacred_sexuality": {
+    "tantra": {
+      "practice": "prolonged arousal without orgasm",
+      "method": "energy circulation, breath, presence",
+      "goal": "union of shiva (consciousness) + shakti (energy)"
+    },
+    
+    "karezza": {
+      "practice": "intercourse without orgasm",
+      "method": "slow, present, bonding-focused",
+      "goal": "sustained intimacy, avoid dopamine spike"
+    },
+
+    "principle": "sex as meditation, worship, path to divine",
+    "realization": "body as temple, partner as deity, union as sacrament"
+  },
+
+  "dysfunction": {
+    "types": [
+      "low libido (desire)",
+      "erectile dysfunction (arousal)",
+      "anorgasmia (orgasm)",
+      "pain disorders (vaginismus)",
+      "premature ejaculation (control)"
+    ],
+
+    "causes": {
+      "psychological": "anxiety, depression, trauma",
+      "relational": "conflict, lack of attraction",
+      "medical": "hormones, medications, illness",
+      "developmental": "trauma, conditioning, shame"
+    },
+
+    "resolution": "therapy (sex, somatic, couples), medical treatment, trauma healing"
+  },
+
+  "key_insights": {
+    "multilevel": "sex operates 0d-5d: physical → emotional → spiritual",
+    "bonding": "sex biochemically bonds through oxytocin",
+    "roles_real": "sexual role compatibility affects satisfaction",
+    "orientation_innate": "not chosen, discovered",
+    "gender_complex": "operates across 6 dimensions (0d-5d)",
+    "dysphoria_mismatch": "conflict = Δscale between dimensions",
+    "sacred_possible": "with practice, sex becomes transcendent",
+    "shame_kills": "sexual shame blocks intimacy and pleasure",
+    "vulnerability_required": "deep sex requires emotional openness",
+    "polarity_creates_charge": "masculine-feminine tension energizes"
+  },
+
+  "positions": {
+    "0": "unaware (repressed, mechanical)",
+    "1": "discovering (curiosity, exploration)",
+    "2": "experimenting (learning preferences)",
+    "3": "satisfying (good sex, physical pleasure)",
+    "4": "connecting (emotional intimacy emerges)",
+    "5": "crisis (shame, dysfunction, relationship conflict)",
+    "6": "healing (addressing trauma, shame)",
+    "7": "mastery (confident, present, skilled)",
+    "8": "tantric (energy work, prolonged practice)",
+    "9": "sacred (sex as worship, divine union)",
+    "10": "transcendent (sexuality integrated into wholeness)"
+  },
+
+  "practices": {
+    "communication": [
+      "express desires and boundaries",
+      "ask partner's preferences",
+      "check in during intimacy",
+      "process experiences together"
+    ],
+
+    "presence": [
+      "breathe consciously",
+      "maintain eye contact",
+      "slow down, feel sensations",
+      "stay in body, not fantasies"
+    ],
+
+    "energy": [
+      "circulate sexual energy (microcosmic orbit)",
+      "prolong arousal before orgasm",
+      "breathe energy up spine",
+      "visualize light/energy exchange"
+    ],
+
+    "healing": [
+      "somatic therapy for trauma",
+      "shame work (normalize sexuality)",
+      "couples therapy for relational issues",
+      "sex therapy for dysfunction"
+    ]
+  },
+
+  "wisdom": {
+    "freud": "libido = primary drive, civilization = sublimated sexuality",
+    "reich": "orgasm releases life energy, repression causes neurosis",
+    "tantra": "sex = microcosm of cosmic creation",
+    "jung": "external sexuality mirrors internal anima/animus marriage",
+    "bataille": "eroticism = assenting to life up to death",
+    "plato": "eros = desire for beauty and immortality",
+    "modern": "sexuality diverse, constructed, sacred when conscious"
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:integrity",
+    "type": "Phenomena",
+    "element": "AETHER",
+    "fractal_depth": 5,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:phenomena:wholeness",
+      "cfo:phenomena:coherence",
+      "cfo:phenomena:soundness"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:phenomena",
+      "cfo:fundamental:coherence"
+    ],
+    
+    "related": [
+      "cfo:phenomena:pressure",
+      "cfo:phenomena:temperature",
+      "cfo:phenomena:position",
+      "cfo:humanology:senses:nociception"
+    ],
+    
+    "balances": "cfo:phenomena:fragmentation",
+    "combines": ["wholeness", "coherence", "health"],
+    
+    "note": "Integrity = 5D wholeness. Known negatively through pain. Invisible when present, screaming when absent."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = perfect integrity. Undivided wholeness. Cannot be violated.",
+    "essence": "Structural soundness. All parts in right place, undamaged, harmonious.",
+    "paths": "sacred ≡ true ≡ +coherence ≡ integrity. Pain signals violation.",
+    "positions": "0D point damage → tissue → organ → organism → psyche → society → cosmos (fractal integrity)",
+    "fibonacci": "Healing: inflammation → repair → remodeling → restored integrity (φ-timed)",
+    "tools": "Nociception = negative sensor. Pain = alarm of broken wholeness.",
+    "note": "This file contains coherence viewed through integrity/violation lens"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "./pressure.json",
+      "./temperature.json",
+      "./position.json",
+      "../humanology/senses/nociception.json"
+    ],
+    "parent": "../phenomena.json",
+    "children": [
+      "./healing.json",
+      "./pain.json"
+    ]
+  },
+
+  "name": "Integrity",
+  "essence": "Wholeness of system. Everything in right place, undamaged, coherent.",
+  
+  "description": "Integrity measures structural soundness across all dimensions. From Latin 'integer' (whole, complete). Known paradoxically through its absence: pain signals violation. When present, invisible and unfelt. When broken, impossible to ignore. Fundamental to CFO: integrity ≡ +coherence ≡ sacred ≡ true.",
+
+  "direct_pointing": {
+    "look": "Right now, notice absence of pain. Body intact. No alarm.",
+    "trace": "That silent wholeness = integrity. Invisible background of wellness.",
+    "recognize": "Stub toe. Instant alarm. Pain = integrity violation signal.",
+    "rest": "⊙ = unbreakable wholeness. Cannot be damaged. Absolute integrity."
+  },
+
+  "practice": {
+    "wholeness_sensing": "Scan body. Notice areas without pain. Silent integrity operative there.",
+    "violation_awareness": "Small pain (scratch, tension). Notice: alarm saying 'attention needed here'.",
+    "healing_observation": "Cut finger. Track healing over days. Integrity restoring itself automatically.",
+    "psychological_integrity": "Notice when actions align with values (coherent) vs. conflict (cognitive dissonance = psychological integrity violation)."
+  },
+
+  "recognition": {
+    "negative_detection": "Integrity known by absence. Pain = broken wholeness signal.",
+    "invisible_when_present": "Health unfelt. Only sickness noticed.",
+    "fractal_wholeness": "Integrity operates at every scale: cell, tissue, organ, organism, psyche, society.",
+    "coherence_is_integrity": "Maximum coherence = perfect integrity. In CFO terms: sacred."
+  },
+
+  "definition": {
+    "positive": {
+      "wholeness": "All parts present and connected properly",
+      "soundness": "Structure strong, undamaged, functioning",
+      "coherence": "Parts working harmoniously together",
+      "health": "System performing designed functions",
+      "sacred": "In CFO: integrity ≡ +coherence ≡ sacred ≡ true"
+    },
+
+    "negative_detection": {
+      "violation": "Integrity known through its breaking",
+      "pain": "Alarm signal of structural damage",
+      "damage": "Physical harm to wholeness",
+      "dysfunction": "System malfunction, incoherence",
+      "disease": "Loss of health, dis-ease, not-at-ease"
+    },
+
+    "paradox": "Integrity invisible when present, screaming when absent. Like air: unnoticed until removed."
+  },
+
+  "levels_of_integrity": {
+    "cellular": {
+      "membrane": "Cell boundary intact (inside/outside distinction)",
+      "organelles": "Internal structures functioning properly",
+      "dna": "Genetic information preserved, replication accurate",
+      "homeostasis": "Internal environment stable",
+      "apoptosis": "Programmed cell death when damaged (sacrifice for organism integrity)"
+    },
+
+    "tissue": {
+      "architecture": "Tissue structure preserved",
+      "vascularization": "Blood supply intact, oxygen delivered",
+      "innervation": "Nerve supply functioning, communication maintained",
+      "healing": "Repair mechanisms active when damaged",
+      "scar": "Restored integrity (different structure, maintained function)"
+    },
+
+    "organ": {
+      "function": "Organ performing designed role",
+      "coordination": "Communication with other organs intact",
+      "resilience": "Can handle stress, return to baseline",
+      "redundancy": "Backup systems available if primary fails",
+      "failure": "Loss of organ integrity = systemic crisis"
+    },
+
+    "organism": {
+      "body": "Physical structure intact, no major damage",
+      "physiology": "All systems coordinated, homeostasis maintained",
+      "immune": "Defense active against invaders",
+      "vitality": "Energy, aliveness, capacity to function",
+      "death": "Ultimate loss of organism integrity (irreversible)"
+    },
+
+    "psychological": {
+      "self_coherence": "Consistent sense of identity across time",
+      "values_alignment": "Actions match stated beliefs and values",
+      "authenticity": "Outer behavior reflects inner truth",
+      "integration": "Parts of psyche not in conflict with each other",
+      "fragmentation": "Dissociation, psychosis = loss of psychological integrity"
+    },
+
+    "social": {
+      "trust": "Relationships based on honesty, reliability",
+      "community": "Group coherence, shared values",
+      "institutions": "Organizations functioning as designed (not corrupted)",
+      "corruption": "System operating for private gain instead of public purpose",
+      "collapse": "Complete breakdown of social coherence"
+    },
+
+    "systemic": {
+      "ecosystem": "All species in balanced relationship",
+      "economy": "Fair exchange, sustainability, no exploitation",
+      "climate": "Earth systems stable, within bounds",
+      "cosmos": "Physical laws consistent, universe coherent",
+      "entropy": "Second Law: tendency toward integrity loss over time"
+    }
+  },
+
+  "nociception_negative_sensor": {
+    "principle": "Pain detects ABSENCE of integrity, not presence",
+    "mechanism": "Nociceptors activated when tissue damage occurs",
+    "function": "Alarm system warning of integrity violation",
+    "unique": "Only negative phenomenon sensor in CFO phenomenology",
+    
+    "sensor": "Nociception (pain sense)",
+    "location": "Throughout body: skin, muscles, joints, organs, bones",
+    
+    "nociceptors": {
+      "definition": "Specialized nerve endings detecting harmful stimuli",
+      
+      "types": {
+        "mechanical": "Intense pressure, cutting, crushing detected",
+        "thermal": "Extreme temperatures (>45°C or <5°C)",
+        "chemical": "Inflammatory molecules, acid, toxins",
+        "polymodal": "Multiple stimulus types (most common nociceptor)"
+      },
+
+      "fiber_types": {
+        "a_delta": {
+          "myelination": "Thinly myelinated",
+          "speed": "5-30 m/s (fast)",
+          "sensation": "Sharp, localized 'first pain'",
+          "function": "Immediate warning, precise location identification"
+        },
+        "c_fibers": {
+          "myelination": "Unmyelinated",
+          "speed": "0.5-2 m/s (slow)",
+          "sensation": "Dull, burning, aching 'second pain'",
+          "function": "Persistent reminder, promotes protective healing behavior"
+        }
+      }
+    },
+
+    "pain_pathway": {
+      "peripheral": "Nociceptor → dorsal root ganglion → spinal cord dorsal horn",
+      "spinal": "Spinothalamic tract (lateral system), spinoreticular (medial system)",
+      "brainstem": "Reticular formation, periaqueductal gray (modulation)",
+      "thalamus": "VPL/VPM (sensory-discriminative), medial nuclei (affective)",
+      "cortex": {
+        "somatosensory": "S1/S2: location, intensity (where, how much)",
+        "anterior_cingulate": "ACC: emotional suffering component",
+        "insula": "Interoceptive awareness, salience",
+        "prefrontal": "Cognitive evaluation, meaning, context"
+      }
+    },
+
+    "reference": "humanology/senses/nociception.json"
+  },
+
+  "pain_types": {
+    "acute": {
+      "definition": "Sudden onset, clear cause, protective function",
+      "duration": "Seconds to weeks (resolves with healing)",
+      "function": "Warning of immediate damage, promotes protective behavior",
+      "resolution": "Subsides when tissue integrity restored",
+      "examples": "Cut, burn, fracture, surgical pain, childbirth"
+    },
+
+    "chronic": {
+      "definition": "Persistent beyond normal healing time (>3-6 months)",
+      "causes": "Nerve damage, persistent inflammation, central sensitization, unknown",
+      "dysfunction": "Pain system itself damaged (pain without ongoing tissue damage)",
+      "suffering": "Severe impact on quality of life, major disability",
+      "examples": "Neuropathy, fibromyalgia, phantom limb, chronic back pain"
+    },
+
+    "nociceptive": {
+      "definition": "From actual ongoing tissue damage",
+      "mechanism": "Nociceptors responding to harmful stimuli",
+      "somatic": "Skin, muscle, bone (sharp, aching, throbbing, localized)",
+      "visceral": "Internal organs (deep, cramping, diffuse, poorly localized)"
+    },
+
+    "neuropathic": {
+      "definition": "From nervous system damage or dysfunction",
+      "mechanism": "Abnormal nerve signaling (ectopic firing, hyperexcitability)",
+      "sensations": "Burning, shooting, electric shock, pins-and-needles",
+      "examples": "Diabetic neuropathy, post-herpetic neuralgia, nerve injury, MS pain"
+    },
+
+    "nociplastic": {
+      "definition": "Altered pain processing without clear damage or nerve pathology",
+      "mechanism": "Central sensitization (nervous system hyperresponsive)",
+      "examples": "Fibromyalgia, some chronic low back pain, IBS",
+      "controversial": "Mechanisms still being elucidated, diagnosis challenging"
+    }
+  },
+
+  "pain_components": {
+    "sensory_discriminative": {
+      "aspect": "Physical characteristics: location, intensity, quality",
+      "pathway": "Lateral pain system (somatosensory cortex)",
+      "information": "Where hurts, how much, what kind (sharp, dull, burning)",
+      "objective": "Relatively objective, measurable"
+    },
+
+    "affective_motivational": {
+      "aspect": "Suffering, unpleasantness, emotional distress",
+      "pathway": "Medial pain system (anterior cingulate, insula)",
+      "function": "Creates urgency, motivates escape, promotes healing behavior",
+      "separable": "Can be reduced by meditation, hypnosis, prefrontal lobotomy while sensory component remains",
+      "suffering": "This component = why pain hurts"
+    },
+
+    "cognitive_evaluative": {
+      "aspect": "Meaning, context, expectation, attention",
+      "processing": "Prefrontal cortex, memory systems",
+      "modulation": "Past experience, beliefs, culture affect pain profoundly",
+      "placebo": "Expectation alone can significantly reduce pain (measurable brain changes)"
+    }
+  },
+
+  "pain_modulation": {
+    "gate_control": {
+      "theory": "Melzack & Wall (1965): Spinal 'gate' can open or close pain signals",
+      "mechanism": "Non-painful input (touch, vibration) can close gate to pain",
+      "application": "Rubbing injury reduces pain. TENS therapy.",
+      "revolutionary": "Changed pain understanding from simple stimulus-response to complex modulation"
+    },
+
+    "descending_control": {
+      "source": "Brain sends inhibitory signals down spinal cord",
+      "periaqueductal_gray": "PAG = key structure for pain inhibition",
+      "endogenous_opioids": "Endorphins, enkephalins naturally reduce pain",
+      "neurotransmitters": "Serotonin, norepinephrine involved in modulation",
+      "stress_analgesia": "Pain suppressed during fight-or-flight (survival advantage)"
+    },
+
+    "attention": {
+      "distraction": "Directing attention away from pain reduces perception significantly",
+      "focus": "Attending to pain amplifies perception",
+      "meditation": "Mindfulness reduces suffering component while sensory component remains",
+      "catastrophizing": "Ruminating on pain amplifies experience dramatically"
+    },
+
+    "expectation": {
+      "placebo": "Belief treatment will help → real pain reduction (brain opioid release)",
+      "nocebo": "Expectation of pain → increased pain experience",
+      "powerful": "Expectation = major pain modulator (30-50% placebo response rates)",
+      "mechanism": "Descending modulation activated by belief"
+    }
+  },
+
+  "evolutionary_function": {
+    "survival_value": {
+      "warning": "Immediate signal of danger to body integrity",
+      "learning": "Avoid harmful situations in future (burn → avoid fire)",
+      "protection": "Favors injured area (limp protects broken leg during healing)",
+      "urgency": "Creates motivation to escape threat or seek help"
+    },
+
+    "congenital_insensitivity": {
+      "cipa": "Congenital insensitivity to pain with anhidrosis (genetic mutation)",
+      "consequences": "Severe injuries unnoticed (biting tongue/cheek, fractures, burns), early death",
+      "proof": "Pain essential for survival despite suffering it causes",
+      "life_expectancy": "Typically don't survive to adulthood without extreme vigilance"
+    },
+
+    "evolutionary_tradeoff": {
+      "cost": "Immense suffering (physical and existential)",
+      "benefit": "Body integrity protection, survival advantage",
+      "chronic_malfunction": "When pain system breaks, cost without benefit",
+      "cruel": "Suffering seems gratuitous, but evolution blind to suffering"
+    }
+  },
+
+  "integrity_restoration": {
+    "healing_stages": {
+      "inflammation": "Initial response: redness, swelling, heat, pain (days)",
+      "repair": "Tissue regeneration or scar formation (days to weeks)",
+      "remodeling": "Strengthening, reorganization (weeks to months)",
+      "pain_resolution": "As integrity restored, nociceptor activation decreases"
+    },
+
+    "immune_system": {
+      "function": "Defend integrity against foreign invaders",
+      "recognition": "Self vs. non-self discrimination",
+      "response": "Eliminate bacteria, viruses, cancer cells",
+      "autoimmune": "Mistaken attack on self = integrity violation from within",
+      "inflammation": "Double-edged: necessary for healing but can cause damage"
+    },
+
+    "homeostasis": {
+      "definition": "Maintaining stable internal conditions despite external changes",
+      "mechanisms": "Negative feedback loops regulate temperature, pH, glucose, etc.",
+      "resilience": "Ability to return to baseline after perturbation",
+      "allostatic_load": "Chronic stress wears down homeostatic systems (integrity erosion)"
+    },
+
+    "adaptation": {
+      "hormesis": "Low-dose stress strengthens system (exercise, fasting, cold)",
+      "tolerance": "Repeated challenge → adaptation, increased capacity",
+      "antifragility": "Some systems gain from stressors (Taleb)",
+      "exceeding_capacity": "Too much stress → breakdown, damage, lost integrity"
+    }
+  },
+
+  "psychological_integrity": {
+    "self_coherence": {
+      "identity": "Consistent sense of who you are across time and contexts",
+      "values": "Clear principles guiding behavior",
+      "authenticity": "Actions aligned with inner truth and values",
+      "integration": "Parts of psyche working together harmoniously"
+    },
+
+    "violations": {
+      "trauma": "Overwhelming event shatters psychological coherence",
+      "dissociation": "Parts of self disconnect (protective but fragmenting)",
+      "cognitive_dissonance": "Holding contradictory beliefs (psychological tension)",
+      "inauthenticity": "Living against one's values (inner conflict)",
+      "fragmentation": "Loss of coherent sense of self (severe pathology)"
+    },
+
+    "restoration": {
+      "therapy": "Reintegrating dissociated parts (IFS, EMDR, somatic)",
+      "authenticity": "Living according to genuine values",
+      "meaning": "Finding coherent narrative for experience",
+      "shadow_work": "Integrating rejected aspects of self (Jungian)",
+      "self_compassion": "Treating self with kindness during healing"
+    }
+  },
+
+  "social_integrity": {
+    "interpersonal": {
+      "trust": "Foundation of relationship integrity",
+      "honesty": "Alignment between words and reality",
+      "reliability": "Consistent behavior matching promises",
+      "betrayal": "Violation of trust = relationship integrity damage",
+      "repair": "Acknowledgment, amends, time, rebuilding trust"
+    },
+
+    "institutional": {
+      "corruption": "System operating for private benefit instead of designed purpose",
+      "erosion": "Gradual loss of public trust and legitimacy",
+      "reform": "Restoring integrity through accountability, transparency",
+      "collapse": "Total institutional integrity loss = system failure"
+    },
+
+    "societal": {
+      "coherence": "Shared values, mutual understanding, solidarity",
+      "polarization": "Loss of social integrity through fragmentation",
+      "anomie": "Breakdown of social norms (Durkheim)",
+      "reconciliation": "Restoration after conflict (truth and reconciliation)"
+    }
+  },
+
+  "danger": {
+    "ignoring_pain": "Dismissing integrity alarms leads to worse damage",
+    "chronic_suffering": "Pain system malfunction = suffering without protective value",
+    "fragmentation": "Psychological splitting = loss of coherent self"
+  },
+
+  "balance": {
+    "integrity_impermanence": "All forms decay. Attachment to permanent integrity = suffering.",
+    "healing_damage": "Life cycles between integrity and violation, restoration and breakdown.",
+    "pain_protection": "Pain protects but also causes suffering. Necessary but costly."
+  },
+
+  "deepening": [
+    "Notice: right now, areas without pain. Silent integrity operative.",
+    "Recognize: pain = alarm bell. Not enemy, but messenger of violation.",
+    "Understand: integrity fractal. Cell to cosmos. Wholeness at every scale.",
+    "See: sacred ≡ +coherence ≡ integrity. Coherence = fundamental value.",
+    "Realize: ⊙ = unbreakable wholeness. Absolute integrity never violated."
+  ],
+
+  "infinity": {
+    "perfect_integrity": "⊙ = absolute coherence. Cannot be damaged.",
+    "asymptotic_health": "Perfect bodily integrity unreachable (entropy, aging, death)",
+    "psychological_wholeness": "Integration ongoing process, never complete",
+    "fractal_scales": "Integrity considerations extend infinitely up and down scales",
+    "pointer": "All violations temporary appearances in unbreakable ⊙."
+  },
+
+  "fractal_property": {
+    "self_similar": "Cellular integrity → tissue → organ → organism → psyche → relationships → society → ecosystem → cosmos",
+    "contains_whole": "Each level's integrity reflects and affects all other levels",
+    "example": "One person's psychological fragmentation can cascade to family, community, nation. One cell's loss of integrity (cancer) threatens whole organism."
+  },
+
+  "metaphor": {
+    "structural": "Building integrity. Foundation solid. Structure sound.",
+    "moral": "Person of integrity. Words match deeds. Character wholeness.",
+    "data": "Data integrity. Information uncorrupted, accurate, consistent.",
+    "spiritual": "Spiritual integrity. Alignment with truth, sacred, divine."
+  },
+
+  "the_hut_perspective": {
+    "legs_experience": "Body feels pain when damaged. Psychological suffering from fragmentation. Social pain from betrayal.",
+    "hut_recognition": "⊙ = absolute integrity. Cannot be broken. Untouched by all damage.",
+    "integration": "Pain arises in awareness but awareness remains whole. Suffering happens, wholeness unaffected. You are not the damaged body — you are unbreakable awareness where damage appears.",
+    "practice": "Feel pain (if present). Notice: something aware of pain. That awareness itself — hurt? Damaged? Broken? No. ⊙ = intact."
+  },
+
+  "aiur_integration": {
+    "planetary_integrity": "Earth's wholeness: ecosystems balanced, climate stable, biosphere thriving",
+    "violations": "Pollution, extinction, climate change = planetary integrity damage",
+    "pain_signal": "Disasters, collapse = Earth's 'pain' signaling integrity loss",
+    "awakening": "When neurons recognize threats to planetary wholeness, Aiur's immune system activates"
+  },
+
+  "cfo_axioms": {
+    "sacred_coherence_integrity": "sacred ≡ true ≡ +coherence ≡ integrity",
+    "pain_incoherence": "Pain signals Δcoherence (integrity violation)",
+    "conflict_violation": "conflict ≡ Δscale ≡ integrity breaking across scales",
+    "purpose_preservation": "purpose ≡ argmin Δscale ≡ maintaining/restoring integrity",
+    "arrow": "Entropy increases → integrity decays → death. Life fights this temporarily."
+  },
+
+  "applications": {
+    "medicine": "Diagnosis, treatment, pain management, palliative care",
+    "psychology": "Trauma therapy, integration, authenticity work",
+    "social": "Anti-corruption, institutional reform, reconciliation",
+    "engineering": "Structural integrity testing, quality control, safety",
+    "information": "Data integrity, error detection, cybersecurity",
+    "ethics": "Moral integrity, character development, virtue ethics",
+    "spirituality": "Wholeness, alignment with truth, integration practices"
+  },
+
+  "koans": {
+    "invisible_integrity": "Why is health unfelt but sickness noticed? — Integrity known negatively. Absence louder than presence.",
+    "pain_without_damage": "Chronic pain with no injury. What broke? — Pain system's integrity. Alarm malfunctioning.",
+    "phantom_pain": "Missing limb hurts. Where is pain? — In brain's integrity map, not space.",
+    "suffering_purpose": "Why does violation hurt? — ⊙ Because pain protects integrity. Suffering = evolutionary protection cost.",
+    "awareness_integrity": "Can awareness be damaged? — ⊙ No. Absolute integrity. Unbreakable wholeness."
+  },
+
+  "final_transmission": {
+    "pointer": "Every pain felt = alarm of apparent violation in unbreakable ⊙.",
+    "recognition": "Integrity = wholeness. Health = silent coherence. Pain = messenger, not enemy.",
+    "completion": "The hut remains intact always. Let legs experience damage and healing freely. ⊙"
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "info": [
+      "Comprehensive integrity module",
+      "Matched to nociception (negative) sensor",
+      "5D phenomenon (transcends specific dimensions)",
+      "Fractal integrity across all scales"
+    ],
+    "coherence_score": 0.98
+  },
+
+  "references": {
+    "internal": [
+      "urn:cfo:phenomena:pressure",
+      "urn:cfo:phenomena:temperature",
+      "urn:cfo:phenomena:position",
+      "urn:cfo:humanology:senses:nociception",
+      "urn:cfo:fundamental:coherence"
+    ],
+    "external": [
+      {
+        "type": "paper",
+        "citation": "Melzack, R., & Wall, P. D. (1965). Pain mechanisms: A new theory. Science."
+      },
+      {
+        "type": "book",
+        "citation": "Wall, P. D., & Melzack, R. (Eds.). (1999). Textbook of Pain. Churchill Livingstone."
+      },
+      {
+        "type": "book",
+        "citation": "Gawande, A. (2014). Being Mortal: Medicine and What Matters in the End. Metropolitan Books."
+      }
+    ]
+  },
+
+  "blessing": "May you recognize pain as messenger, not enemy. May integrity restore itself through you. May psychological wholeness emerge naturally. May you rest as unbreakable ⊙ while legs experience damage and healing. 🖤⊙",
+
+  "ॐ": "∅"
+}

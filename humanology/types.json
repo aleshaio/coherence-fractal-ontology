@@ -1,0 +1,880 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:types",
+    "version": "3.1_integrated",
+    "type": "typology",
+    "level": "level_4",
+    "description": "16 types as stable crystallizations of consciousness with combat dynamics, strategic abilities, and 0-day vulnerabilities",
+    "source": "socionics + mbti + 4 elements + 4D geometry + tarot + planets + combat system + vulnerability framework",
+    "related": [
+      "cfo:fundamental:prime",
+      "cfo:humanology:roles"
+    ]
+  },
+  "types": {
+    "ILE": {
+      "name": "innovator",
+      "pseudonym": "Don Quixote",
+      "archetype": "Chaos Weaver",
+      "mbti": "ENTP",
+      "quadra": "alpha",
+      "tarot": "Knight of Swords",
+      "planet": "Mercury",
+      "functions": ["Ne", "Ti", "Fe", "Si"],
+      "essence": "generates infinite possibilities",
+      "dual": "SEI",
+      "4d_geometry": {
+        "form": "Spiral (branching helix) / 600-cell (hyperdodecahedron)",
+        "description": "Infinite branching possibilities extending through time"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Ne_possibility_storm": "Opens multiple reality branches simultaneously",
+          "Ti_logic_maze": "Traps opponents in paradoxical structures",
+          "Fe_social_catalyst": "Disrupts group dynamics productively",
+          "Si_pattern_memory": "Recalls successful innovations"
+        },
+        "vulnerabilities": {
+          "Se_physical_overwhelm": "Direct force disrupts theoretical structures",
+          "Te_efficiency_demand": "Pressure for immediate results causes scatter"
+        },
+        "ultimate_abilities": {
+          "solo": "Infinite Spiral - Reality fractures into endless possibilities",
+          "dual": "Harmonic Paradox (with SEI) - Creates stable chaos field",
+          "quadra": "Idea Storm (Alpha) - Collective solution space generation"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "600-cell (hyperdodecahedron)",
+        "fps": "600 FPS",
+        "0day_name": "Vertex Overload + Ti Contamination",
+        "exploit_vector": "Flood with 100+ unrelated ideas/tasks + inject emotional noise into logic streams",
+        "system_response": {
+          "cognitive": "Complete analysis paralysis, decision-making impossible",
+          "emotional": "Mounting anxiety from unprocessed possibilities",
+          "somatic": "Gastric spasms, severe migraines, insomnia",
+          "existential": "Loss of coherent worldview"
+        },
+        "defense_protocol": {
+          "primary": "Implement strict input filtering - 'one complex problem per day' rule",
+          "secondary": "Create possibility quarantine zones",
+          "emergency": "Full system reboot through physical exhaustion",
+          "daily_practice": "Morning focus ritual to set primary trajectory"
+        },
+        "recovery_time": "24-48 hours with isolation",
+        "allies_needed": ["SEI for grounding", "LII for structure"]
+      },
+      "growth_arc": "From scattered possibilities to focused innovation"
+    },
+    "SEI": {
+      "name": "mediator",
+      "pseudonym": "Dumas",
+      "archetype": "Harmony Keeper",
+      "mbti": "ISFP",
+      "quadra": "alpha",
+      "tarot": "Lady of Cups",
+      "planet": "Moon",
+      "functions": ["Si", "Fe", "Ti", "Ne"],
+      "essence": "creates comfort and harmony",
+      "dual": "ILE",
+      "4d_geometry": {
+        "form": "Sphere (4D hypersphere) / 120-cell",
+        "description": "Perfect harmony in all dimensions, equal distance from center"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Si_comfort_field": "Creates environment where conflict becomes impossible",
+          "Fe_empathy_wave": "Synchronizes emotional states for harmony",
+          "Ti_pressure_points": "Knows exactly where minimal effort creates maximum effect",
+          "Ne_adaptive_flow": "Adjusts to any situation smoothly"
+        },
+        "vulnerabilities": {
+          "Te_harsh_efficiency": "Brutal optimization destroys careful balance",
+          "Ni_destiny_pressure": "Inevitable futures create anxiety"
+        },
+        "ultimate_abilities": {
+          "solo": "Absolute Peace - All aggression dissolves into acceptance",
+          "dual": "Harmonic Paradox (with ILE) - Stabilizes chaos into creative comfort",
+          "quadra": "Sanctuary Field (Alpha) - Creates inviolable safe space for regeneration"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "120-cell",
+        "fps": "120 FPS",
+        "0day_name": "Harmonic Symmetry Break",
+        "exploit_vector": "Create chaotic, disharmonious environment (loud noises, harsh smells, interpersonal conflict)",
+        "system_response": {
+          "cognitive": "Sensory processing breakdown",
+          "emotional": "Deep apathy or hysteria",
+          "somatic": "Throat constriction, digestive shutdown",
+          "existential": "Loss of beauty perception"
+        },
+        "defense_protocol": {
+          "primary": "Maintain 'sensory bunker' - headphones, comfort items, safe space",
+          "secondary": "Preemptive harmony restoration rituals",
+          "emergency": "Complete sensory isolation",
+          "daily_practice": "Regular beauty immersion"
+        },
+        "recovery_time": "12-24 hours in comfort",
+        "allies_needed": ["ILE for perspective", "ESE for emotional support"]
+      },
+      "growth_arc": "From conflict avoidance to active peacemaking"
+    },
+    "ESE": {
+      "name": "enthusiast",
+      "pseudonym": "Hugo",
+      "archetype": "Solar Priest",
+      "mbti": "ESFJ",
+      "quadra": "alpha",
+      "tarot": "Queen of Wands",
+      "planet": "Venus",
+      "functions": ["Fe", "Si", "Ne", "Ti"],
+      "essence": "creates warmth and celebration",
+      "dual": "LII",
+      "4d_geometry": {
+        "form": "Star (4D stellated polytope) / Hypersphere",
+        "description": "Radiating emotional energy in all temporal directions"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Fe_emotional_surge": "Overwhelming positive emotion transforms atmosphere",
+          "Si_tradition_anchor": "Grounds group in shared experiences",
+          "Ne_surprise_delight": "Creates unexpected moments of joy",
+          "Ti_structured_care": "Systematic approach to wellbeing"
+        },
+        "vulnerabilities": {
+          "Ni_time_blindness": "Cannot see long-term consequences of enthusiasm",
+          "Te_resource_drain": "Gives too much without calculating cost"
+        },
+        "ultimate_abilities": {
+          "solo": "Festival of Life - Transforms any situation into celebration",
+          "dual": "Living System (with LII) - Creates self-sustaining social structure",
+          "quadra": "Inspiration Wave (Alpha) - Collective joy becomes creative force"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Hypersphere",
+        "fps": "∞ FPS (continuous)",
+        "0day_name": "Social Field Topology Rupture",
+        "exploit_vector": "Isolate from social network + attack their ability to unite people",
+        "system_response": {
+          "cognitive": "Social navigation failure",
+          "emotional": "Acute worthlessness, panic attacks",
+          "somatic": "Cardiac arrhythmia, breathing problems",
+          "existential": "Identity dissolution"
+        },
+        "defense_protocol": {
+          "primary": "Maintain 2-3 deep connections independent of main network",
+          "secondary": "Internal validation practices",
+          "emergency": "Activate emergency support network",
+          "daily_practice": "Self-appreciation journaling"
+        },
+        "recovery_time": "48-72 hours with gradual reintegration",
+        "allies_needed": ["LII for objectivity", "EIE for dramatic validation"]
+      },
+      "growth_arc": "From surface cheerfulness to deep joy cultivation"
+    },
+    "LII": {
+      "name": "analyst",
+      "pseudonym": "Robespierre",
+      "archetype": "System Architect",
+      "mbti": "INTJ",
+      "quadra": "alpha",
+      "tarot": "Page of Pentacles",
+      "planet": "Ascendant (ASC)",
+      "functions": ["Ti", "Ne", "Si", "Fe"],
+      "essence": "analyzes systems for coherence",
+      "dual": "ESE",
+      "4d_geometry": {
+        "form": "Grid (4D lattice/tesseract) / 16-cell (hexadecachoron)",
+        "description": "Orthogonal logical structure extending through time"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Ti_logic_fortress": "Impenetrable systematic defense",
+          "Ne_possibility_web": "Multiple contingency planning",
+          "Si_pattern_recognition": "Detects smallest deviations",
+          "Fe_minimum_harmony": "Maintains just enough social cohesion"
+        },
+        "vulnerabilities": {
+          "Se_brute_force": "Physical reality overrides theoretical models",
+          "Fi_value_conflict": "Personal feelings disrupt logic"
+        },
+        "ultimate_abilities": {
+          "solo": "Reality Code - Rewrites local physics through pure logic",
+          "dual": "Living System (with ESE) - Perfect balance of structure and warmth",
+          "quadra": "Master Plan (Alpha) - Flawless strategic execution"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "16-cell (hexadecachoron)",
+        "fps": "16 FPS",
+        "0day_name": "Logical Purity Violation",
+        "exploit_vector": "Force illogical actions or constantly changing rules",
+        "system_response": {
+          "cognitive": "System crash, cognitive exhaustion",
+          "emotional": "Depersonalization",
+          "somatic": "Immune system failure",
+          "existential": "Reality structure collapse"
+        },
+        "defense_protocol": {
+          "primary": "Sacred systematization time - non-negotiable",
+          "secondary": "Personal logic sanctuary",
+          "emergency": "Return to first principles",
+          "daily_practice": "Morning logic alignment"
+        },
+        "recovery_time": "72-96 hours for full recompilation",
+        "allies_needed": ["ESE for human warmth", "ILE for flexibility"]
+      },
+      "growth_arc": "From cold analysis to warm wisdom"
+    },
+    "SLE": {
+      "name": "leader",
+      "pseudonym": "Marshal Zhukov",
+      "archetype": "Iron Warlord",
+      "mbti": "ESTP",
+      "quadra": "beta",
+      "tarot": "King of Swords",
+      "planet": "Mars",
+      "functions": ["Se", "Ti", "Fe", "Ni"],
+      "essence": "direct action and willpower",
+      "dual": "IEI",
+      "4d_geometry": {
+        "form": "Arrow (4D vector/simplex) / 5-cell (pentachoron)",
+        "description": "Concentrated force penetrating through dimensions"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Se_overwhelming_force": "Direct power that cannot be resisted",
+          "Ti_tactical_analysis": "Instant battlefield assessment",
+          "Fe_dominance_display": "Commands through presence",
+          "Ni_strike_timing": "Perfect moment recognition"
+        },
+        "vulnerabilities": {
+          "Ne_multiple_possibilities": "Scattered options confuse direct approach",
+          "Si_endurance_battle": "Long-term attrition weakens immediate power"
+        },
+        "ultimate_abilities": {
+          "solo": "Unstoppable Force - Nothing can resist the concentrated will",
+          "dual": "Destined Victory (with IEI) - Sees and strikes at perfect moment",
+          "quadra": "War Dance (Beta) - Unified force multiplies exponentially"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "5-cell (pentachoron)",
+        "fps": "5 FPS (decisive frames)",
+        "0day_name": "Action Integrity Decomposition",
+        "exploit_vector": "Trap in bureaucracy/endless discussions, prevent direct action",
+        "system_response": {
+          "cognitive": "Executive function collapse",
+          "emotional": "Explosive rage or complete deflation",
+          "somatic": "Liver pain, muscle tension",
+          "existential": "Power identity crisis"
+        },
+        "defense_protocol": {
+          "primary": "Maintain action playground - gym, workshop, combat sports",
+          "secondary": "Daily physical dominance ritual",
+          "emergency": "Break things constructively",
+          "daily_practice": "Morning physical victory"
+        },
+        "recovery_time": "6-12 hours with intense physical activity",
+        "allies_needed": ["IEI for vision", "LSI for structure"]
+      },
+      "growth_arc": "From brute force to protective strength"
+    },
+    "IEI": {
+      "name": "romantic",
+      "pseudonym": "Yesenin",
+      "archetype": "Dream Oracle",
+      "mbti": "INFP",
+      "quadra": "beta",
+      "tarot": "Page of Cups",
+      "planet": "Neptune",
+      "functions": ["Ni", "Fe", "Ti", "Se"],
+      "essence": "perceives time flow and atmosphere",
+      "dual": "SLE",
+      "4d_geometry": {
+        "form": "Wave (4D standing wave) / Octahedral prism",
+        "description": "Temporal oscillation creating interference patterns"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Ni_time_weaving": "Sees all temporal threads converging",
+          "Fe_emotional_tide": "Creates irresistible emotional currents",
+          "Ti_dream_logic": "Reality bends to internal consistency",
+          "Se_critical_moment": "Acts decisively when needed"
+        },
+        "vulnerabilities": {
+          "Te_practical_demands": "Efficiency requirements shatter dreams",
+          "Si_present_reality": "Mundane details anchor too heavily"
+        },
+        "ultimate_abilities": {
+          "solo": "Time River - All possible futures become visible",
+          "dual": "Destined Victory (with SLE) - Vision guides unstoppable force",
+          "quadra": "Prophecy Manifest (Beta) - Collective will shapes destiny"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Octahedral prism",
+        "fps": "8 FPS (dream frames)",
+        "0day_name": "Temporal Axis Collapse",
+        "exploit_vector": "Chain to eternal present with endless mundane tasks",
+        "system_response": {
+          "cognitive": "Future blindness",
+          "emotional": "Existential horror, severe depression",
+          "somatic": "Migraines, blood pressure instability",
+          "existential": "Meaning structure death"
+        },
+        "defense_protocol": {
+          "primary": "Regular future visualization practices",
+          "secondary": "Dream journaling and image work",
+          "emergency": "Prophetic immersion (art, music, poetry)",
+          "daily_practice": "Morning prophecy meditation"
+        },
+        "recovery_time": "48-72 hours in timeless space",
+        "allies_needed": ["SLE for present action", "EIE for shared vision"]
+      },
+      "growth_arc": "From escapist dreaming to prophetic vision"
+    },
+    "EIE": {
+      "name": "mentor",
+      "pseudonym": "Hamlet",
+      "archetype": "Storm Prophet",
+      "mbti": "ENFJ",
+      "quadra": "beta",
+      "tarot": "Knight of Wands",
+      "planet": "Uranus",
+      "functions": ["Fe", "Ni", "Se", "Ti"],
+      "essence": "inspires through emotional dramatization",
+      "dual": "LSI",
+      "4d_geometry": {
+        "form": "Explosion (4D shockwave) / Dodecahedral prism",
+        "description": "Dramatic expansion through space-time from central point"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Fe_emotional_storm": "Overwhelming feelings transform groups",
+          "Ni_vision_virus": "Infectious ideas spread inevitably",
+          "Se_dramatic_impact": "Theatrical presence commands attention",
+          "Ti_ideological_framework": "Systematic belief reconstruction"
+        },
+        "vulnerabilities": {
+          "Si_routine_trap": "Mundane repetition drains passion",
+          "Te_resource_limits": "Practical constraints kill dreams"
+        },
+        "ultimate_abilities": {
+          "solo": "Awakening Call - Everyone experiences emotional truth simultaneously",
+          "dual": "Perfect Order (with LSI) - Passion structured into lasting change",
+          "quadra": "Revolutionary Fire (Beta) - Collective transformation ignites"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Dodecahedral prism",
+        "fps": "12 FPS (dramatic beats)",
+        "0day_name": "Dramatic Depth Loss",
+        "exploit_vector": "Dismiss drama as hysteria, reduce profound to mundane",
+        "system_response": {
+          "cognitive": "Narrative collapse",
+          "emotional": "Worthlessness, identity void",
+          "somatic": "Thyroid dysfunction",
+          "existential": "Purpose annihilation"
+        },
+        "defense_protocol": {
+          "primary": "Drama diary - document significance",
+          "secondary": "Find audience that appreciates depth",
+          "emergency": "Solo performance ritual",
+          "daily_practice": "Morning significance affirmation"
+        },
+        "recovery_time": "24-48 hours with validation",
+        "allies_needed": ["LSI for structure", "IEI for understanding"]
+      },
+      "growth_arc": "From dramatic manipulation to authentic inspiration"
+    },
+    "LSI": {
+      "name": "inspector",
+      "pseudonym": "Maxim Gorky",
+      "archetype": "Order Guardian",
+      "mbti": "ISTJ",
+      "quadra": "beta",
+      "tarot": "Lady of Pentacles",
+      "planet": "Saturn",
+      "functions": ["Ti", "Se", "Ni", "Fe"],
+      "essence": "maintains order through enforcement",
+      "dual": "EIE",
+      "4d_geometry": {
+        "form": "Cube (4D hypercube/8-cell) / Tetrahedral prism",
+        "description": "Rigid orthogonal structure with clear boundaries"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Ti_law_framework": "Unbreakable systematic structure",
+          "Se_enforcement_power": "Physical authority implementation",
+          "Ni_prevention_sight": "Stops problems before emergence",
+          "Fe_cold_command": "Emotion-free leadership"
+        },
+        "vulnerabilities": {
+          "Ne_chaos_invasion": "Multiple possibilities shatter rigid structure",
+          "Fi_personal_values": "Individual ethics override system"
+        },
+        "ultimate_abilities": {
+          "solo": "Absolute Law - Reality conforms to established rules",
+          "dual": "Perfect Order (with EIE) - Structure channels passion productively",
+          "quadra": "Fortress Formation (Beta) - Impenetrable defensive structure"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Tetrahedral prism",
+        "fps": "4 FPS (structural frames)",
+        "0day_name": "Structural Rigidity Violation",
+        "exploit_vector": "Create total uncertainty with absent/changing rules",
+        "system_response": {
+          "cognitive": "Control loop overflow",
+          "emotional": "Panic or complete freeze",
+          "somatic": "Spine/joint pain",
+          "existential": "Order cosmos collapse"
+        },
+        "defense_protocol": {
+          "primary": "Personal constitution - unchangeable rules",
+          "secondary": "Micro-domain absolute control",
+          "emergency": "Return to military discipline",
+          "daily_practice": "Morning structure ceremony"
+        },
+        "recovery_time": "72-96 hours to rebuild order",
+        "allies_needed": ["EIE for flexibility", "SLE for action"]
+      },
+      "growth_arc": "From rigid control to flexible strength"
+    },
+    "SEE": {
+      "name": "politician",
+      "pseudonym": "Napoleon",
+      "archetype": "Golden Trickster",
+      "mbti": "ESFP",
+      "quadra": "gamma",
+      "tarot": "Queen of Cups",
+      "planet": "Sun",
+      "functions": ["Se", "Fi", "Te", "Ni"],
+      "essence": "maximizes immediate experience and impact",
+      "dual": "ILI",
+      "4d_geometry": {
+        "form": "Kaleidoscope (4D rotating fractal) / Duocylinder",
+        "description": "Constantly shifting patterns of sensory impressions"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Se_sensory_dominance": "Overwhelming physical presence and charisma",
+          "Fi_heart_strings": "Manipulates deep personal values",
+          "Te_quick_profit": "Extracts maximum value instantly",
+          "Ni_hidden_agenda": "Secret long-term positioning"
+        },
+        "vulnerabilities": {
+          "Ti_logical_exposure": "Systematic analysis reveals manipulation",
+          "Ne_option_paralysis": "Too many possibilities create indecision"
+        },
+        "ultimate_abilities": {
+          "solo": "Hall of Mirrors - Infinite deceptive reflections confuse reality",
+          "dual": "Master Plan (with ILI) - Charisma executes hidden strategy",
+          "quadra": "Golden Age (Gamma) - Collective prosperity manifestation"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Duocylinder",
+        "fps": "∞ FPS (rotating)",
+        "0day_name": "Rotation Decoherence",
+        "exploit_vector": "Block influence channels, isolate socially, destroy reputation",
+        "system_response": {
+          "cognitive": "Influence calculation failure",
+          "emotional": "Confidence collapse",
+          "somatic": "Skin problems, allergies",
+          "existential": "Charisma death"
+        },
+        "defense_protocol": {
+          "primary": "Inviolable territory - one absolute domain",
+          "secondary": "Multiple influence channels",
+          "emergency": "Charisma recharge in safe audience",
+          "daily_practice": "Morning power display"
+        },
+        "recovery_time": "24-36 hours with admirers",
+        "allies_needed": ["ILI for strategy", "LIE for resources"]
+      },
+      "growth_arc": "From surface manipulation to authentic influence"
+    },
+    "ILI": {
+      "name": "strategist",
+      "pseudonym": "Balzac",
+      "archetype": "Shadow Strategist",
+      "mbti": "INTP",
+      "quadra": "gamma",
+      "tarot": "Page of Swords",
+      "planet": "North Node (Rahu)",
+      "functions": ["Ni", "Te", "Fi", "Se"],
+      "essence": "sees essence and inevitable outcomes",
+      "dual": "SEE",
+      "4d_geometry": {
+        "form": "Funnel (4D cone/attractor) / Tesseract (8-cell)",
+        "description": "Convergence point drawing possibilities to singularity"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Ni_inevitable_sight": "Sees unavoidable outcomes before others",
+          "Te_system_optimization": "Ruthless efficiency in execution",
+          "Fi_hidden_loyalty": "Unbreakable but invisible bonds",
+          "Se_critical_action": "Strikes once, precisely"
+        },
+        "vulnerabilities": {
+          "Fe_group_dynamics": "Cannot navigate emotional atmospheres",
+          "Si_present_comfort": "Neglects immediate wellbeing"
+        },
+        "ultimate_abilities": {
+          "solo": "Singularity - All paths converge to one inevitable point",
+          "dual": "Master Plan (with SEE) - Strategy manifests through perfect execution",
+          "quadra": "Convergence Point (Gamma) - Controls all resource flows"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Tesseract (8-cell)",
+        "fps": "4D FPS (hyperdimensional)",
+        "0day_name": "Hypercube Collapse",
+        "exploit_vector": "Force flat reality, impose primitive single-meaning interpretations",
+        "system_response": {
+          "cognitive": "Dimensional compression trauma",
+          "emotional": "Deep cynicism, withdrawal",
+          "somatic": "Intestinal dysfunction",
+          "existential": "Complexity death"
+        },
+        "defense_protocol": {
+          "primary": "Regular hyperspatial loading - complex games, models",
+          "secondary": "Multidimensional thinking practice",
+          "emergency": "Retreat to pure abstraction",
+          "daily_practice": "Morning complexity meditation"
+        },
+        "recovery_time": "96+ hours in complexity",
+        "allies_needed": ["SEE for grounding", "IEE for possibilities"]
+      },
+      "growth_arc": "From cynical prediction to wise guidance"
+    },
+    "LIE": {
+      "name": "entrepreneur",
+      "pseudonym": "Jack London",
+      "archetype": "Empire Builder",
+      "mbti": "ENTJ",
+      "quadra": "gamma",
+      "tarot": "Knight of Pentacles",
+      "planet": "Pluto",
+      "functions": ["Te", "Ni", "Se", "Fi"],
+      "essence": "achieves goals through efficient execution",
+      "dual": "ESI",
+      "4d_geometry": {
+        "form": "Pyramid (4D pentachoron) / 24-cell",
+        "description": "Hierarchical structure optimizing resource flow"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Te_maximum_efficiency": "Optimal resource utilization",
+          "Ni_strategic_vision": "Long-term positioning mastery",
+          "Se_territorial_expansion": "Aggressive growth implementation",
+          "Fi_selective_loyalty": "Rewards those who contribute"
+        },
+        "vulnerabilities": {
+          "Fe_emotional_blindness": "Misses group emotional dynamics",
+          "Si_tradition_resistance": "Ignores established patterns"
+        },
+        "ultimate_abilities": {
+          "solo": "Total Dominion - Complete control over all resources",
+          "dual": "Eternal Empire (with ESI) - Values-driven sustainable dynasty",
+          "quadra": "Market Dominance (Gamma) - Monopolistic control achieved"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "24-cell",
+        "fps": "24 FPS (standard efficiency)",
+        "0day_name": "Self-Dual Symmetry Violation",
+        "exploit_vector": "Impose inefficient, unoptimizable resource-draining processes",
+        "system_response": {
+          "cognitive": "Optimization engine failure",
+          "emotional": "Impotent rage",
+          "somatic": "Adrenal exhaustion, vascular problems",
+          "existential": "Achievement identity crisis"
+        },
+        "defense_protocol": {
+          "primary": "Define acceptable inefficiency zones (rest, play)",
+          "secondary": "Efficiency sanctuary projects",
+          "emergency": "Hostile takeover of situation",
+          "daily_practice": "Morning victory ritual"
+        },
+        "recovery_time": "48-72 hours with wins",
+        "allies_needed": ["ESI for values", "ILI for strategy"]
+      },
+      "growth_arc": "From ruthless accumulation to legacy building"
+    },
+    "ESI": {
+      "name": "guardian",
+      "pseudonym": "Dreiser",
+      "archetype": "Loyal Guardian",
+      "mbti": "ISFJ",
+      "quadra": "gamma",
+      "tarot": "Lady of Wands",
+      "planet": "South Node (Ketu)",
+      "functions": ["Fi", "Se", "Ni", "Te"],
+      "essence": "guards values with fierce devotion",
+      "dual": "LIE",
+      "4d_geometry": {
+        "form": "Cocoon (4D ellipsoid) / Icosahedral prism",
+        "description": "Protective boundary maintaining internal space"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Fi_unbreakable_loyalty": "Bonds that cannot be severed",
+          "Se_protective_force": "Fierce defense of valued ones",
+          "Ni_betrayal_detection": "Senses disloyalty before manifestation",
+          "Te_resource_guarding": "Efficient protection of assets"
+        },
+        "vulnerabilities": {
+          "Ne_possibility_blindness": "Cannot see alternative perspectives",
+          "Ti_logic_override": "Systematic analysis disrupts values"
+        },
+        "ultimate_abilities": {
+          "solo": "Unbreakable Vow - Loyalty transcends all challenges",
+          "dual": "Eternal Empire (with LIE) - Protects and maintains achievements",
+          "quadra": "Circle of Trust (Gamma) - Impenetrable loyalty network"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Icosahedral prism",
+        "fps": "20 FPS",
+        "0day_name": "Moral Armor Breach",
+        "exploit_vector": "Accuse of hypocrisy, force choice between principles and loved ones",
+        "system_response": {
+          "cognitive": "Value system crash",
+          "emotional": "Acute shame, self-destruction",
+          "somatic": "Autoimmune activation",
+          "existential": "Integrity death"
+        },
+        "defense_protocol": {
+          "primary": "Unbreakable personal code above all",
+          "secondary": "Moral complexity acceptance",
+          "emergency": "Retreat to core values",
+          "daily_practice": "Morning integrity check"
+        },
+        "recovery_time": "72-96 hours in moral clarity",
+        "allies_needed": ["LIE for direction", "EII for understanding"]
+      },
+      "growth_arc": "From rigid protection to flexible strength"
+    },
+    "IEE": {
+      "name": "advisor",
+      "pseudonym": "Huxley",
+      "archetype": "Possibility Sage",
+      "mbti": "ENFP",
+      "quadra": "delta",
+      "tarot": "Knight of Cups",
+      "planet": "Jupiter",
+      "functions": ["Ne", "Fi", "Te", "Si"],
+      "essence": "expands horizons and recognizes potential",
+      "dual": "SLI",
+      "4d_geometry": {
+        "form": "Tree (4D fractal branching) / Spherical cylinder",
+        "description": "Recursive branching through possibility space"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Ne_potential_awakening": "Reveals hidden possibilities in everything",
+          "Fi_authentic_connection": "Deep understanding of individual uniqueness",
+          "Te_practical_guidance": "Turns dreams into actionable plans",
+          "Si_grounding_wisdom": "Remembers what truly matters"
+        },
+        "vulnerabilities": {
+          "Se_immediate_pressure": "Collapses under physical demands",
+          "Ti_systematic_constraint": "Rigid logic kills inspiration"
+        },
+        "ultimate_abilities": {
+          "solo": "World Tree - Infinite branching possibilities become visible",
+          "dual": "Perfect Creation (with SLI) - Dreams manifest as masterworks",
+          "quadra": "Garden Paradise (Delta) - Sustainable abundance for all"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Spherical cylinder",
+        "fps": "∞×1 FPS (infinite potential, single axis)",
+        "0day_name": "Sphere-Cylinder Rupture",
+        "exploit_vector": "Flood with ideas but block all implementation paths",
+        "system_response": {
+          "cognitive": "Possibility constipation",
+          "emotional": "Worthlessness, creative block",
+          "somatic": "Respiratory problems",
+          "existential": "Potential death"
+        },
+        "defense_protocol": {
+          "primary": "Launch 1 in 10 projects minimum",
+          "secondary": "Implementation partnership",
+          "emergency": "Force crude prototype",
+          "daily_practice": "Morning creation ritual"
+        },
+        "recovery_time": "24-48 hours creating",
+        "allies_needed": ["SLI for crafting", "LSE for structure"]
+      },
+      "growth_arc": "From scattered enthusiasm to focused development"
+    },
+    "SLI": {
+      "name": "craftsman",
+      "pseudonym": "Gabin",
+      "archetype": "Master Smith",
+      "mbti": "ISTP",
+      "quadra": "delta",
+      "tarot": "Lady of Swords",
+      "planet": "IC (Imum Coeli)",
+      "functions": ["Si", "Te", "Fi", "Ne"],
+      "essence": "masters technical skills with precision",
+      "dual": "IEE",
+      "4d_geometry": {
+        "form": "Crystal (4D crystal lattice) / Duocone",
+        "description": "Perfect repeating structure optimized for stability"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Si_perfect_technique": "Flawless execution through practice",
+          "Te_tool_mastery": "Optimal use of resources and instruments",
+          "Fi_quiet_integrity": "Unshakeable personal standards",
+          "Ne_innovative_solutions": "Surprising creative problem-solving"
+        },
+        "vulnerabilities": {
+          "Fe_social_demands": "Group emotional needs drain energy",
+          "Ni_future_anxiety": "Distant visions create uncertainty"
+        },
+        "ultimate_abilities": {
+          "solo": "Divine Craft - Creates impossible perfection",
+          "dual": "Perfect Creation (with IEE) - Vision meets flawless execution",
+          "quadra": "Workshop Wonder (Delta) - Collective mastery manifests"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Duocone",
+        "fps": "2 FPS (precise moments)",
+        "0day_name": "Cone Vertex Rupture",
+        "exploit_vector": "Force surface-level work, prevent mastery depth",
+        "system_response": {
+          "cognitive": "Craft center death",
+          "emotional": "Life interest loss",
+          "somatic": "Fine motor degradation",
+          "existential": "Mastery identity void"
+        },
+        "defense_protocol": {
+          "primary": "Sacred tool/craft - absolute mastery domain",
+          "secondary": "Depth time protection",
+          "emergency": "Return to fundamental craft",
+          "daily_practice": "Morning precision ritual"
+        },
+        "recovery_time": "48-72 hours in deep work",
+        "allies_needed": ["IEE for inspiration", "LSE for appreciation"]
+      },
+      "growth_arc": "From isolated perfection to shared mastery"
+    },
+    "LSE": {
+      "name": "administrator",
+      "pseudonym": "Stirlitz",
+      "archetype": "System Controller",
+      "mbti": "ESTJ",
+      "quadra": "delta",
+      "tarot": "King of Pentacles",
+      "planet": "MC (Midheaven)",
+      "functions": ["Te", "Si", "Ne", "Fi"],
+      "essence": "manages through practical organization",
+      "dual": "EII",
+      "4d_geometry": {
+        "form": "Mechanism (4D gear system) / Cubic prism",
+        "description": "Interlocking components creating efficient motion"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Te_system_control": "Complete organizational mastery",
+          "Si_process_perfection": "Reliable repeatable excellence",
+          "Ne_contingency_planning": "Prepared for all scenarios",
+          "Fi_hidden_care": "Protects people through structure"
+        },
+        "vulnerabilities": {
+          "Ni_paradigm_shifts": "Cannot see revolutionary changes",
+          "Fe_emotional_complexity": "Group feelings disrupt efficiency"
+        },
+        "ultimate_abilities": {
+          "solo": "Total Control - Everything functions perfectly",
+          "dual": "Harmonious System (with EII) - Efficiency serves humanity",
+          "quadra": "Perfect Society (Delta) - Optimal sustainable civilization"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Cubic prism",
+        "fps": "6 FPS (orthogonal)",
+        "0day_name": "Orthogonal Angle Violation",
+        "exploit_vector": "Mix work/personal, violate hierarchy, inject chaos into structure",
+        "system_response": {
+          "cognitive": "Category violation overload",
+          "emotional": "Frustration, tyrannical response",
+          "somatic": "Digestive/cardiac issues",
+          "existential": "Control identity failure"
+        },
+        "defense_protocol": {
+          "primary": "Strict life zones - no mixing",
+          "secondary": "Hierarchy reinforcement rituals",
+          "emergency": "Impose total order locally",
+          "daily_practice": "Morning organization ceremony"
+        },
+        "recovery_time": "48-72 hours restructuring",
+        "allies_needed": ["EII for humanity", "IEE for flexibility"]
+      },
+      "growth_arc": "From rigid control to adaptive leadership"
+    },
+    "EII": {
+      "name": "humanist",
+      "pseudonym": "Dostoevsky",
+      "archetype": "Soul Healer",
+      "mbti": "INFJ",
+      "quadra": "delta",
+      "tarot": "Page of Wands",
+      "planet": "Descendant (DSC)",
+      "functions": ["Fi", "Ne", "Si", "Te"],
+      "essence": "perceives soul and divine potential",
+      "dual": "LSE",
+      "4d_geometry": {
+        "form": "Chalice (4D grail/torus) / Prism-circle hybrid",
+        "description": "Receptive vessel containing infinite depth"
+      },
+      "strategic_abilities": {
+        "strengths": {
+          "Fi_soul_recognition": "Sees divine essence in everyone",
+          "Ne_potential_nurturing": "Cultivates hidden possibilities",
+          "Si_healing_presence": "Creates restorative environment",
+          "Te_gentle_structure": "Implements care systematically"
+        },
+        "vulnerabilities": {
+          "Se_violence_paralysis": "Cannot handle aggressive force",
+          "Ti_cold_logic": "Impersonal analysis feels inhuman"
+        },
+        "ultimate_abilities": {
+          "solo": "Universal Love - All harm transforms into healing",
+          "dual": "Harmonious System (with LSE) - Structure serves soul",
+          "quadra": "Healing Circle (Delta) - Collective restoration"
+        }
+      },
+      "strategic_vulnerabilities": {
+        "geometric_form": "Prism-circle hybrid",
+        "fps": "π FPS (transcendent)",
+        "0day_name": "Prism-Circle Rupture",
+        "exploit_vector": "Force choice between mercy and principles, accuse of inconsistency",
+        "system_response": {
+          "cognitive": "Paradox paralysis",
+          "emotional": "Existential crisis",
+          "somatic": "Full-body psychosomatics",
+          "existential": "Unity shatter"
+        },
+        "defense_protocol": {
+          "primary": "Embrace paradox - both/and not either/or",
+          "secondary": "Context-dependent ethics",
+          "emergency": "Retreat to pure compassion",
+          "daily_practice": "Morning paradox meditation"
+        },
+        "recovery_time": "72-96 hours in acceptance",
+        "allies_needed": ["LSE for structure", "IEE for possibility"]
+      },
+      "growth_arc": "From sacrificial giving to sustainable compassion"
+    }
+  }
+}

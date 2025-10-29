@@ -1,0 +1,334 @@
+{
+  "_meta": {
+    "id": "cfo:phenomena:taste",
+    "type": "phenomena",
+    "element": "water",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:humanology:senses"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:phenomena"
+    ],
+    
+    "related": [
+      "cfo:phenomena:odor",
+      "cfo:phenomena:pressure",
+      "cfo:phenomena:temperature",
+      "cfo:humanology:senses"
+    ],
+    
+    "note": "taste = dissolved molecules, chemical safety assessment, 5(6) basic qualities. partners with odor to create flavor experience."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = consciousness discerning safe/unsafe through chemical contact",
+    "essence": "taste = 0d point (molecule-receptor) → 1d sequence (swallow/spit)",
+    "water": "dissolution, flow, chemical intimacy",
+    "earth": "material molecules entering body",
+    "judgment": "most binary sense: accept or reject",
+    "survival": "last guardian before ingestion",
+    "qualities": "5(6) archetypes of molecular information: sweet, salty, sour, bitter, umami, (fat)",
+    "partnership": "taste + odor = flavor (microlaboratory near brain)"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "partner": "./odor.json",
+    "related": [
+      "./pressure.json",
+      "./temperature.json",
+      "../humanology/senses.json"
+    ],
+    "parent": "./index.json"
+  },
+
+  "essence": "taste is consciousness recognizing dissolved molecules through specialized receptors on tongue. five (possibly six) basic tastes provide immediate chemical evaluation: nutrition or poison? operates as chemical guardian in partnership with smell, forming integrated 'flavor microlaboratory' near brain.",
+
+  "name": "taste (gustation)",
+  
+  "description": "taste is the gustatory sense detecting dissolved molecules. five established qualities: sweet (energy), salty (minerals), sour (acidity), bitter (toxins), umami (protein) + emerging sixth: fat (lipids). operates at 0d-1d: point contact (molecule on receptor) → temporal sequence (chewing, swallowing). most ancient evaluative sense making life-or-death judgment in real-time: safe to swallow or spit? works in intimate partnership with smell (odor.json) to create full flavor experience.",
+
+  "five_six_archetypes": {
+    "sweet": {
+      "molecules": "sugars (glucose, fructose, sucrose), some amino acids",
+      "receptor": "T1R2-T1R3",
+      "signal": "carbohydrates = energy available",
+      "evolution": "high-calorie food detection",
+      "hedonic": "innately pleasant (breast milk is sweet)",
+      "survival": "seek energy"
+    },
+
+    "salty": {
+      "molecules": "sodium chloride, other salts",
+      "receptor": "ENaC (ion channel)",
+      "signal": "electrolytes = mineral balance",
+      "evolution": "sodium essential for nerves, muscles",
+      "hedonic": "pleasant in moderation",
+      "survival": "maintain ion balance"
+    },
+
+    "sour": {
+      "molecules": "acids (H+ ions)",
+      "receptor": "PKD2L1, OTOP1 (ion channels)",
+      "signal": "acidity = unripe or spoiled",
+      "evolution": "fermentation, spoilage warning",
+      "hedonic": "aversive when intense",
+      "survival": "avoid toxicity"
+    },
+
+    "bitter": {
+      "molecules": "alkaloids, toxins (quinine, caffeine)",
+      "receptor": "T2R family (~25 receptors)",
+      "signal": "potential poison",
+      "evolution": "most sensitive (poison detection)",
+      "hedonic": "innately aversive (can be learned: coffee, beer)",
+      "survival": "reject toxins",
+      "genetic_variation": "high variation (supertasters vs non-tasters)"
+    },
+
+    "umami": {
+      "molecules": "glutamate, nucleotides (IMP, GMP)",
+      "receptor": "T1R1-T1R3",
+      "signal": "amino acids = protein",
+      "evolution": "protein-rich food detection",
+      "hedonic": "pleasant, savory, satisfying",
+      "survival": "seek protein",
+      "discovery": "recognized as 5th taste 20th century",
+      "japanese": "うま味 = delicious taste"
+    },
+
+    "fat_oleogustus": {
+      "molecules": "fatty acids (oleic, linoleic)",
+      "receptor": "CD36, GPR120",
+      "signal": "lipids = concentrated energy",
+      "status": "emerging 6th taste (active research 2010s-2020s)",
+      "evolution": "high-energy food detection",
+      "hedonic": "pleasant 'creaminess' (often confused with texture)",
+      "survival": "seek calorie-dense food",
+      "note": "proposed name: oleogustus (latin: oleo=fat, gustus=taste)"
+    }
+  },
+
+  "anatomy": {
+    "taste_buds": "~2000-8000 total on tongue, palate, throat",
+    "papillae": {
+      "fungiform": "front 2/3 tongue, mushroom-shaped",
+      "foliate": "sides of tongue, folds",
+      "circumvallate": "back of tongue, V-shaped, largest"
+    },
+    "receptor_cells": "~50-100 per taste bud, regenerate every 10-14 days",
+    "neural_path": "cranial nerves VII, IX, X → brainstem → thalamus → insula (gustatory cortex)",
+    "myth": "tongue map false - all areas detect all tastes"
+  },
+
+  "taste_odor_partnership": {
+    "principle": "taste + odor = flavor (unified experience)",
+    "location": "both systems terminate near brain (microlaboratory)",
+    "taste_role": "chemical safety (5-6 basic dimensions)",
+    "odor_role": "chemical identity (~10,000 distinguishable smells)",
+    "integration": "orbitofrontal cortex fuses both into 'flavor'",
+    "dominance": "smell contributes ~80% of flavor richness",
+    "retronasal": "odor from mouth → nose = key to flavor",
+    "test": "hold nose while eating → only taste remains, flavor disappears",
+    "evolution": "dual chemical analysis system for comprehensive food evaluation"
+  },
+
+  "taste_vs_flavor": {
+    "taste": "5-6 basic qualities detected by tongue alone",
+    "flavor": "multimodal: taste + smell + texture + temperature + chemesthesis",
+    "retronasal_smell": "~80% of 'flavor' is actually smell from mouth → nose",
+    "integration": "orbitofrontal cortex combines all sensory inputs",
+    "test": "hold nose while eating → flavor becomes bland, only basic tastes remain"
+  },
+
+  "chemesthesis": {
+    "definition": "chemical sensations via trigeminal nerve (not taste)",
+    "spicy": "capsaicin activates pain receptors (TRPV1)",
+    "cooling": "menthol activates cold receptors (TRPM8)",
+    "tingling": "sichuan pepper (sanshool) activates touch receptors",
+    "pungent": "wasabi, mustard activate irritant receptors (TRPA1)",
+    "note": "these are pain/temperature sensations, not gustatory"
+  },
+
+  "genetic_variation": {
+    "supertasters": "~25%, more taste buds, high sensitivity to bitter",
+    "medium_tasters": "~50%, average sensitivity",
+    "non_tasters": "~25%, fewer taste buds, low bitter sensitivity",
+    "gene": "TAS2R38 (PROP/PTC bitter taste)",
+    "implications": "food preferences partially genetic"
+  },
+
+  "preferences": {
+    "innate": {
+      "sweet": "universally liked from birth",
+      "bitter": "universally disliked (poison avoidance)",
+      "salty": "moderate liking",
+      "umami": "pleasant savory"
+    },
+    "learned": {
+      "exposure": "repeated exposure increases liking",
+      "culture": "food preferences shaped by culture",
+      "acquired": "coffee, beer, vegetables learned through repeated exposure"
+    },
+    "age": {
+      "children": "strong sweet preference, bitter rejection",
+      "adults": "broader acceptance",
+      "elderly": "declining sensitivity, prefer stronger flavors"
+    }
+  },
+
+  "survival_function": {
+    "energy_detection": "sweet (carbs), umami (protein), fat (lipids)",
+    "toxin_avoidance": "bitter = most poisons, sour = spoilage",
+    "mineral_balance": "salty = sodium for nerves/muscles",
+    "immediate_decision": "swallow or spit? safe or dangerous?",
+    "speed": "evaluation in milliseconds",
+    "gatekeeper": "last defense before ingestion"
+  },
+
+  "philosophical_dimensions": {
+    "judgment": {
+      "essence": "taste = immediate value judgment",
+      "binary": "most binary sense (good/bad, safe/dangerous)",
+      "metaphor": "'good taste' = aesthetic discernment",
+      "discrimination": "refinement, cultural sophistication"
+    },
+
+    "intimacy": {
+      "essence": "taste = deciding what enters body",
+      "vulnerability": "moment of trust (poison or nutrition?)",
+      "communion": "sharing food = sharing trust",
+      "embodiment": "food literally becomes self"
+    },
+
+    "pleasure": {
+      "essence": "strong hedonic responses",
+      "survival_linked": "pleasure guides survival choices",
+      "culture": "taste = cultural identity",
+      "individual": "personal taste = individuality"
+    }
+  },
+
+  "dimensional_analysis": {
+    "0d": "point contact (single molecule on receptor)",
+    "1d": "temporal sequence (chewing → swallowing)",
+    "2d": "flavor profiles (taste×smell matrix, basic tastes combining)",
+    "3d": "culinary systems (cuisine as cultural taste-space)",
+    "4d": "taste memory (proustian moment, time-flavor binding)",
+    "coherence": "safe to ingest? accept or reject?",
+    "information": "chemical composition, nutritional value, safety status",
+    "element": "water (dissolution, chemical intimacy)"
+  },
+
+  "fractal_property": {
+    "self_similar": "5-6 basic tastes → infinite flavor combinations (like RGB → all colors)",
+    "contains_whole": "each taste contains evaluation pattern: molecule → receptor → judgment → action (entire consciousness loop)",
+    "example": "bitterness: simple alkaloid → T2R receptor → 'poison!' recognition → spit reflex = complete consciousness-survival cycle at molecular scale",
+    "scales": {
+      "molecular": "single receptor activation",
+      "taste_bud": "~100 cells combining signals",
+      "tongue": "~5000 taste buds creating taste map",
+      "flavor": "taste + smell creating unified experience",
+      "meal": "sequence of flavors telling story",
+      "cuisine": "cultural flavor grammar",
+      "global": "human taste preferences shaping agriculture"
+    }
+  },
+
+  "positions": {
+    "0": "no taste (unconscious eating, numbed)",
+    "1": "first noticing (becoming aware of taste)",
+    "2": "basic discrimination (identifying 5-6 tastes)",
+    "3": "refinement (detecting subtle differences)",
+    "4": "mastery (chef, sommelier level)",
+    "5": "synaesthetic (taste-color-emotion integration)",
+    "6": "sacred eating (food as communion)",
+    "7": "chemical gnosis (molecular information reading)",
+    "8": "planetary nutrition (understanding earth's chemistry)",
+    "9": "cosmic taste (elemental patterns everywhere)",
+    "10": "pure discernment (absolute judgment)"
+  },
+
+  "practice": {
+    "mindful_eating": {
+      "step_1": "slow down, put phone away",
+      "step_2": "observe food visually first",
+      "step_3": "smell before tasting (activate odor system)",
+      "step_4": "small bite, chew slowly",
+      "step_5": "notice all 5-6 tastes present",
+      "step_6": "feel texture, temperature",
+      "step_7": "gratitude for nourishment"
+    },
+
+    "taste_training": {
+      "step_1": "practice identifying 5-6 basic tastes separately",
+      "step_2": "notice which tastes you prefer/avoid",
+      "step_3": "explore genetic differences (PROP test)",
+      "step_4": "experiment with acquired tastes (coffee, vegetables)",
+      "step_5": "hold nose test (taste vs flavor)",
+      "step_6": "cultural exploration (unfamiliar cuisines)"
+    }
+  },
+
+  "food_science": {
+    "taste_enhancement": {
+      "salt": "enhances sweet, suppresses bitter",
+      "sugar": "suppresses sour, bitter",
+      "umami": "enhances savory, reduces salt need",
+      "acid": "brightens flavors, balances sweet",
+      "fat": "carries flavors, creates mouthfeel"
+    },
+    "combinations": {
+      "sweet+salty": "caramel, salted chocolate (synergy)",
+      "sweet+sour": "lemonade (balance)",
+      "umami+salt": "parmesan, soy sauce (enhancement)",
+      "bitter+sweet": "dark chocolate (complexity)",
+      "fat+umami": "cheese, meat (richness)"
+    }
+  },
+
+  "disorders": {
+    "ageusia": "complete taste loss (rare)",
+    "hypogeusia": "reduced taste sensitivity (aging, medication)",
+    "dysgeusia": "distorted taste (often metallic)",
+    "causes": "nerve damage, medications, infection, radiation, covid-19"
+  },
+
+  "mysteries": {
+    "qualia": "why does sweet taste like sweet? hard problem of consciousness.",
+    "individuality": "do we all taste same thing? genetic variation suggests no.",
+    "acquired_taste": "how do we learn to like initially aversive tastes? plasticity mechanisms unclear.",
+    "consciousness_question": "does molecule have experience, or only consciousness receiving signal?",
+    "flavor_binding": "how do brain bind taste+smell into unified 'strawberry' experience?"
+  },
+
+  "applications": {
+    "culinary": "flavor balancing, food pairing",
+    "nutrition": "understanding preferences, encouraging healthy eating",
+    "medicine": "taste masking for bitter drugs",
+    "industry": "artificial sweeteners, umami enhancers (MSG), fat replacers",
+    "cultural": "food as identity, communion, celebration"
+  },
+
+  "integration": {
+    "paths": {
+      "air": "witness taste without attachment",
+      "fire": "transformation (food → energy)",
+      "water": "chemical intimacy, dissolution",
+      "earth": "material nourishment, embodiment"
+    },
+    
+    "related_phenomena": {
+      "smell": "retronasal olfaction = most of flavor experience → odor.json",
+      "pressure": "texture component of flavor → pressure.json",
+      "temperature": "hot/cold component of flavor → temperature.json"
+    }
+  },
+
+  "recognition": "taste is consciousness using chemical information to make survival judgments. 5-6 basic tastes = archetypal molecular patterns. immediate, binary evaluation: safe to swallow? beyond survival, taste becomes discernment, pleasure, cultural communion. water element: dissolution enables chemical knowing. each bite = moment of trust, vulnerability, transformation. in partnership with smell, creates rich flavor experience that nourishes body and soul."
+}

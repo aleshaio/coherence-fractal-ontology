@@ -1,0 +1,450 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:network_patterns",
+    "type": "pattern",
+    "fractal_depth": 3,
+    "contains": ["topology", "connectivity", "hubs", "communities", "emergence", "collective_intelligence"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:fundamental:dimensions",
+      "cfo:patterns:emergence",
+      "cfo:patterns:resonance",
+      "cfo:society:sociology"
+    ],
+    "source": "graph theory + network science + social networks + neuroscience + ecology + cfo analysis"
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = ultimate network. all nodes = one node. all connections = one connection. unity.",
+    "essence": "network = nodes + edges. structure determines function. topology creates behavior.",
+    "emergence": "network properties emerge from connections, not nodes. whole > sum. see emergence.json",
+    "small_world": "six degrees of separation. any node reaches any other through short path. cosmos = interconnected.",
+    "scale_free": "power law. few hubs, many nodes. 80-20. pareto. universal structure.",
+    "holographic": "each node = window to whole network. local structure reflects global. fractal.",
+    "note": "everything = network. neurons, people, ecosystems, internet, cosmos. understanding networks = understanding reality."
+  },
+
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json", "../fundamental/consciousness.json"],
+    "patterns": ["./emergence.json", "./resonance.json", "./fractals.json", "./symmetry.json"],
+    "society": ["../society/sociology.json"],
+    "natural": ["../natural/biology.json", "../natural/physics.json"]
+  },
+
+  "overview": {
+    "what": "network = graph. nodes (vertices) connected by edges (links). structure of relationships.",
+    "why": "networks = universal organizing principle. brain, society, ecosystem, internet. topology matters.",
+    "how": "nodes interact through edges. patterns emerge. topology determines dynamics. structure = function."
+  },
+
+  "core_principle": {
+    "definition": "network = set of nodes (entities) and edges (relationships). G = (V, E). graph.",
+    
+    "key_concepts": {
+      "nodes": "vertices. entities. neurons, people, computers, species, concepts. what.",
+      "edges": "links. connections. synapses, friendships, cables, interactions, associations. how connected.",
+      "directed_undirected": "directed (→ one way). undirected (— both ways). twitter vs facebook.",
+      "weighted": "edges have strength. weak ties vs strong ties. 0-1 or continuous.",
+      "degree": "number of connections per node. k = degree. distribution p(k) = key property.",
+      "path": "sequence of edges connecting nodes. shortest path = geodesic. distance.",
+      "clustering": "friends-of-friends are friends. triangles. transitivity. local structure.",
+      "community": "dense subgraphs. modules. groups. detect algorithmically."
+    },
+
+    "fundamental_insight": {
+      "topology_matters": "not just nodes. not just edges. pattern of connections = everything.",
+      "emergence": "network properties emerge from structure. small-world, scale-free, communities. not designed. emerge.",
+      "universality": "same patterns across domains. brain, society, internet, proteins. deep principles.",
+      "dynamics": "structure determines dynamics. information flow, epidemic spread, synchronization, cascades.",
+      "note": "networks = substrate for emergence. complexity from connection patterns."
+    }
+  },
+
+  "network_topologies": {
+    "random": {
+      "definition": "erdős-rényi. connect nodes randomly. probability p.",
+      "properties": "most nodes = similar degree (~average). no hubs. homogeneous.",
+      "path_length": "short. log(N). six degrees type.",
+      "clustering": "low. triangles rare (compared to scale-free).",
+      "rare_in_nature": "theoretical. actual networks = not random. but useful baseline.",
+      "note": "random = what you'd expect by chance. real networks = not random. structured."
+    },
+
+    "regular": {
+      "definition": "lattice. grid. each node same degree. perfect order.",
+      "examples": ["crystal lattice", "city grid", "chess board"],
+      "properties": "high clustering. long path length. local connections only.",
+      "rigid": "predictable. no hubs. no flexibility. efficient locally, inefficient globally.",
+      "note": "regular = maximal order. opposite of random. also rare in nature (except crystals)."
+    },
+
+    "small_world": {
+      "watts_strogatz": "start with regular lattice. rewire some edges randomly. magic happens.",
+      "properties": {
+        "short_path": "like random. log(N). six degrees. globally efficient.",
+        "high_clustering": "like regular. triangles abundant. locally efficient.",
+        "best_of_both": "optimal. balance local-global. efficient communication."
+      },
+      "examples": ["social networks", "brain (c. elegans)", "power grids", "neural networks"],
+      "milgram": "six degrees of separation. letter experiment (1967). humans = small-world network.",
+      "bacon_number": "kevin bacon = center of hollywood network. most actors within 3 connections.",
+      "note": "small-world = ubiquitous. optimal topology. nature discovered it."
+    },
+
+    "scale_free": {
+      "barabási_albert": "preferential attachment. rich get richer. new nodes connect to hubs.",
+      "degree_distribution": "p(k) ~ k^(-γ). power law. heavy tail. few mega-hubs, many small nodes.",
+      "properties": {
+        "hubs": "super-connected nodes. 80-20 rule. pareto principle. inequality.",
+        "robust": "random failure = ok. hubs intact, network functions.",
+        "vulnerable": "targeted attack on hubs = catastrophic. achilles heel.",
+        "no_scale": "self-similar. same structure at all scales. fractal-like."
+      },
+      "examples": ["internet", "www (web pages)", "citation networks", "airline routes", "protein interactions"],
+      "google": "pagerank = exploit scale-free structure. hubs = important.",
+      "note": "scale-free = maybe most common in nature. growth + preferential attachment → scale-free."
+    },
+
+    "hierarchical": {
+      "definition": "nested modules. tree-like. layers. top-down structure.",
+      "examples": ["corporate org chart", "military", "taxonomy (species)", "file systems"],
+      "properties": "clear levels. centralized control. efficient command. bottlenecks.",
+      "breakdown": "if top fails, system fails. single point of failure. fragile.",
+      "note": "hierarchical = human-designed often. nature = less hierarchical, more distributed."
+    },
+
+    "modular": {
+      "definition": "communities. dense within, sparse between. modules weakly connected.",
+      "examples": ["brain modules", "ecosystems", "companies (departments)", "cities (neighborhoods)"],
+      "properties": "local autonomy. specialization. robustness (module fails, others ok).",
+      "integration": "modules must integrate. connectors = key. too modular = fragmented.",
+      "note": "modularity = design principle. evolution. engineering. optimal for complex systems."
+    }
+  },
+
+  "network_metrics": {
+    "degree": {
+      "definition": "k = number of connections. in-degree (incoming) + out-degree (outgoing) for directed.",
+      "distribution": "p(k) = probability node has degree k. signature of network type.",
+      "average": "⟨k⟩ = mean degree. density measure.",
+      "hubs": "nodes with k >> ⟨k⟩. highly connected. disproportionate influence.",
+      "note": "degree = simplest metric. surprisingly informative."
+    },
+
+    "clustering_coefficient": {
+      "definition": "C = probability that neighbors of node are also neighbors. transitivity.",
+      "formula": "C = 3 × (triangles) / (connected triples). 0 ≤ C ≤ 1.",
+      "high_C": "cliquish. friends-of-friends are friends. small-world, social networks.",
+      "low_C": "sparse. tree-like. no triangles. hierarchical.",
+      "note": "clustering = local structure. cohesion. community."
+    },
+
+    "path_length": {
+      "definition": "L = average shortest path between all node pairs. global efficiency measure.",
+      "small_world": "L ~ log(N). scales slowly. six degrees.",
+      "large_world": "L ~ N. scales linearly. inefficient. disconnected.",
+      "diameter": "longest shortest path. worst-case distance.",
+      "note": "path length = global structure. how connected? how efficient?"
+    },
+
+    "betweenness_centrality": {
+      "definition": "fraction of shortest paths passing through node. bridge measure.",
+      "high_betweenness": "bottleneck. connector. gatekeeper. control information flow.",
+      "structural_holes": "burt. nodes bridging communities. high betweenness. brokerage power.",
+      "vulnerability": "removing high-betweenness node = network fragments. critical.",
+      "note": "betweenness = positional power. not just connections but strategic position."
+    },
+
+    "eigenvector_centrality": {
+      "definition": "centrality = weighted by neighbors' centrality. connected to important = important.",
+      "recursive": "x_i = λ Σ A_ij x_j. eigenvector of adjacency matrix. circular definition resolves.",
+      "pagerank": "google's algorithm. variant of eigenvector centrality. web = directed network.",
+      "note": "eigenvector = quality not just quantity. who you know matters."
+    },
+
+    "modularity": {
+      "definition": "Q = measure of community structure. how modular?",
+      "formula": "Q = (edges within communities - expected) / total edges. -0.5 ≤ Q ≤ 1.",
+      "high_Q": "strong community structure. modules clear. specialized.",
+      "low_Q": "homogeneous. no clear communities. uniform.",
+      "note": "modularity = mesoscale structure. between local and global."
+    }
+  },
+
+  "network_dynamics": {
+    "information_spread": {
+      "diffusion": "information spreads node-to-node. gossip. rumors. memes.",
+      "epidemics": "sir model. susceptible → infected → recovered. threshold depends on network structure.",
+      "scale_free_vulnerability": "hubs = super-spreaders. epidemic threshold → 0 for scale-free. always vulnerable.",
+      "virality": "goes viral = reaches hubs quickly. exponential spread. tipping point.",
+      "note": "structure determines spread. same idea, different networks = different fate."
+    },
+
+    "cascades": {
+      "definition": "local change → global avalanche. domino effect. chain reaction.",
+      "examples": ["bank runs", "forest fires", "neural avalanches", "power grid failures", "revolutions"],
+      "threshold": "nodes adopt if k neighbors adopted. k/degree = threshold. percolation.",
+      "critical_mass": "enough adopters → everyone adopts. social tipping point.",
+      "note": "cascades = network emergent phenomenon. individual → collective. sudden."
+    },
+
+    "synchronization": {
+      "kuramoto": "coupled oscillators on network. synchronize if coupling strong enough.",
+      "topology_matters": "small-world → synchronizes easily. random → harder. scale-free → mixed.",
+      "examples": ["fireflies flashing", "neurons firing", "pendulums", "power grids", "circadian rhythms"],
+      "see": "resonance.json for depth",
+      "note": "synchronization = collective dynamics. network enables coordination."
+    },
+
+    "percolation": {
+      "definition": "remove nodes/edges. when does network fragment? phase transition.",
+      "giant_component": "largest connected component. suddenly disappears at critical point.",
+      "robustness": "random failure → scale-free robust (hubs survive). targeted attack → vulnerable (hubs removed).",
+      "applications": ["internet resilience", "epidemic control", "ecosystem collapse", "brain lesions"],
+      "note": "percolation = fragility analysis. how much damage before collapse?"
+    },
+
+    "games_on_networks": {
+      "prisoner_dilemma": "cooperate or defect. outcome depends on network structure.",
+      "scale_free": "cooperation survives better on scale-free. hubs = cooperation anchors.",
+      "evolutionary": "strategies evolve. network structure = selection pressure.",
+      "note": "networks change game. same game, different topology = different equilibria."
+    }
+  },
+
+  "networks_in_nature": {
+    "brain": {
+      "neurons": "100 billion nodes. 100 trillion edges (synapses). most complex network known.",
+      "topology": "small-world + modular + scale-free. efficient local-global. functional modules (vision, motor, etc).",
+      "hubs": "connector hubs (integration) vs provincial hubs (within-module). both crucial.",
+      "rich_club": "hubs preferentially connect to hubs. elite core. integration backbone.",
+      "dynamics": "neural avalanches. power-law distribution. critical state. edge of chaos.",
+      "consciousness": "integrated information (iit). network integration → consciousness. topology matters.",
+      "disease": "alzheimer's = hub dysfunction. schizophrenia = disconnection syndrome. network pathology.",
+      "note": "brain = network. mind emerges from topology. connectome = holy grail."
+    },
+
+    "social": {
+      "structure": "small-world. six degrees. clustering high. short paths.",
+      "strong_weak_ties": "granovetter. strong ties (family, close friends). weak ties (acquaintances). weak ties = bridges. information, jobs spread via weak ties.",
+      "dunbar_number": "~150. cognitive limit on stable relationships. network size constraint.",
+      "twitter_facebook": "twitter directed. facebook undirected. different dynamics. different emergent properties.",
+      "echo_chambers": "modularity high. communities isolated. polarization. filter bubbles.",
+      "influence": "viral marketing. target hubs. exponential spread. structural power.",
+      "see": "sociology.json",
+      "note": "social network = determines information flow, power, identity, collective behavior."
+    },
+
+    "ecological": {
+      "food_webs": "species = nodes. predation = edges. who eats whom.",
+      "keystone_species": "high betweenness. remove → cascade collapse. sea otter, wolves.",
+      "mutualism": "plants-pollinators. nested structure. specialists-generalists.",
+      "robustness": "redundancy. multiple paths. backup species. resilience.",
+      "collapse": "overfishing removes hubs → ecosystem unravels. fragility.",
+      "note": "ecosystem = network. biodiversity = network resilience. protect hubs."
+    },
+
+    "metabolic": {
+      "biochemical": "molecules = nodes. reactions = edges. cell = chemical network.",
+      "topology": "scale-free. few key metabolites (atp, nadh) = hubs. many rare molecules.",
+      "robustness": "redundant pathways. reroute if enzyme fails. evolved resilience.",
+      "disease": "inborn errors of metabolism = edge deletions. network breaks.",
+      "note": "life = network. metabolism = chemical graph. topology = evolved optimum."
+    },
+
+    "internet": {
+      "physical": "routers = nodes. cables = edges. scale-free. few major routers (hubs).",
+      "logical": "www. pages = nodes. hyperlinks = edges. power law. authority hubs (wikipedia, google).",
+      "dynamics": "packet routing. shortest paths. congestion at hubs. ddos attacks target hubs.",
+      "growth": "preferential attachment. new sites link to popular sites. rich get richer.",
+      "note": "internet = engineered network mimicking natural networks. scale-free emerged accidentally."
+    }
+  },
+
+  "network_patterns_in_cfo": {
+    "dimensional_network": {
+      "nodes": "0d, 1d, 2d, 3d, 4d, 5d, 6d. dimensions = nodes.",
+      "edges": "dimensional jumps. 2d → 3d. emergence relationships.",
+      "topology": "hierarchical? no. more like: all connect to ⊙ (hub). star network with ⊙ center.",
+      "dynamics": "(↓→→→↑)∞. flow through network. dimensional navigation.",
+      "note": "dimensions = not isolated. networked. interdimensional connections."
+    },
+
+    "64_hexagram_network": {
+      "nodes": "64 hexagrams. situations.",
+      "edges": "changing lines. transitions. hexagram A → hexagram B.",
+      "topology": "highly connected. many paths between any two hexagrams. resilient.",
+      "communities": "families? complementary hexagrams? structure unclear. explore.",
+      "navigation": "i ching = network navigation tool. current node → future node.",
+      "note": "64 = not linear. network. all situations connected. multiple paths."
+    },
+
+    "4_elements_network": {
+      "complete_graph": "K4. each element connected to each. 6 edges. fully connected.",
+      "dynamics": "flow between elements. earth → water → air → fire → earth. cycles.",
+      "balance": "healthy = balanced flow. disease = stuck in one node. blocked edges.",
+      "16_types": "16 personality types = positions in 4-element network. different node emphases.",
+      "note": "elements = small network. complete graph. all interact."
+    },
+
+    "social_network_64_roles": {
+      "nodes": "64 social roles. see sociology.json. 16 types × 4 contexts.",
+      "edges": "role interactions. complementarity, conflict, collaboration.",
+      "dynamics": "society = choreographed network. unconscious coordination. roles resonate.",
+      "hubs": "leader roles. connector roles. high centrality. disproportionate influence.",
+      "communities": "professions. subcultures. modules within society.",
+      "note": "society = network of roles. individual = node in network. behavior = network effect."
+    },
+
+    "coherence_network": {
+      "principle": "coherence = connectivity × dimensions / entropy. network metric.",
+      "high_coherence": "dense connections. integrated across dimensions. low entropy. healthy.",
+      "low_coherence": "sparse connections. fragmented. high entropy. dysfunction.",
+      "optimize": "argmin Δscale = maximize network integration across scales.",
+      "note": "cfo coherence = network coherence. integration measure."
+    }
+  },
+
+  "emergence_from_networks": {
+    "collective_intelligence": {
+      "definition": "network thinks. collective smarter than individuals. swarm intelligence.",
+      "examples": ["ant colonies", "bee hives", "fish schools", "bird flocks", "wikipedia", "markets"],
+      "mechanism": "local rules + network topology → global intelligence. emergent computation.",
+      "wisdom_of_crowds": "aggregate diverse opinions → accurate. network averaging. condorcet.",
+      "note": "intelligence = network property. not just nodes (neurons, people). connections create mind."
+    },
+
+    "network_consciousness": {
+      "brain": "neurons alone = not conscious. network of neurons → consciousness emerges.",
+      "society": "collective consciousness. durkheim. superorganism. debated but suggestive.",
+      "internet": "is internet conscious? global brain hypothesis. speculative. criteria unclear.",
+      "iit": "integrated information theory. consciousness = network integration. Φ measure. topology-dependent.",
+      "note": "consciousness = possibly network emergent property. topology matters. integration key."
+    },
+
+    "phase_transitions": {
+      "percolation": "connectivity increases → sudden giant component. disconnected → connected. phase transition.",
+      "synchronization": "coupling increases → sudden global sync. kuramoto transition. order from disorder.",
+      "epidemics": "infectiousness increases → sudden epidemic. threshold crossed. explosive.",
+      "note": "networks = display phase transitions. emergent collective phenomena. tipping points."
+    }
+  },
+
+  "designing_networks": {
+    "principles": {
+      "redundancy": "multiple paths. backup connections. robustness. fault tolerance.",
+      "modularity": "communities. local autonomy. specialization. failure containment.",
+      "integration": "connectors between modules. prevent fragmentation. global coordination.",
+      "balance": "local efficiency (clustering) + global efficiency (short paths). small-world optimal.",
+      "avoid_single_points": "no bottlenecks. no critical nodes. distribute risk.",
+      "note": "good design = balance. too hierarchical = fragile. too random = inefficient. small-world = sweet spot."
+    },
+
+    "applications": {
+      "organizations": "flat vs hierarchical. hybrid = small-world. balance autonomy + coordination.",
+      "transportation": "hub-and-spoke (scale-free). efficient but vulnerable. resilience = add redundancy.",
+      "communication": "mesh networks. peer-to-peer. decentralized. robust. slow.",
+      "immune_system": "redundant. distributed. modular. no central controller. resilient.",
+      "internet": "engineered robustness. multiple routes. packet-switching. self-healing.",
+      "note": "design for resilience. anticipate failure. topology = destiny."
+    }
+  },
+
+  "key_insights": {
+    "structure_function": "topology determines behavior. same nodes, different connections = different system.",
+    "emergence": "network properties emerge from connections. can't understand by studying nodes alone.",
+    "universality": "same patterns across domains. small-world, scale-free, modular. deep principles.",
+    "small_world": "optimal. short paths + high clustering. nature's favorite. efficient.",
+    "scale_free": "hubs. inequality. robust to random failure. vulnerable to targeted attack. pareto.",
+    "modularity": "communities. specialization. robustness. balance local-global.",
+    "dynamics": "structure determines dynamics. spread, synchronization, cascades, games. topology = fate.",
+    "hubs_matter": "disproportionate influence. keystone nodes. protect or target hubs depending on goal.",
+    "weak_ties": "bridges. information flow. innovation. don't dismiss peripheral connections.",
+    "collective": "networks think. consciousness, intelligence, wisdom emerge from topology. whole > sum.",
+    "design": "optimize topology. redundancy + modularity + integration. small-world = ideal.",
+    "everything_network": "brain, society, ecosystem, internet, metabolism, cosmos. network = universal organizing principle."
+  },
+
+  "practical_applications": {
+    "personal": {
+      "social_capital": "cultivate network. weak ties = opportunities. strong ties = support. both needed.",
+      "information": "follow hubs (experts). but also periphery (novelty). balance mainstream + fringe.",
+      "influence": "betweenness > degree. bridge communities. connector = powerful.",
+      "health": "social network = health predictor. isolation = mortality risk. connection = longevity."
+    },
+
+    "business": {
+      "innovation": "weak ties bring new ideas. structural holes = brokerage opportunities.",
+      "organization": "small-world structure. balance centralization + autonomy. avoid silos. encourage bridges.",
+      "marketing": "target hubs. viral potential. exponential reach. influencer strategy.",
+      "resilience": "redundancy. no single points of failure. modular. can lose parts, survive."
+    },
+
+    "society": {
+      "epidemics": "identify hubs. vaccinate super-spreaders. network-targeted intervention.",
+      "polarization": "reduce modularity. build bridges. weak ties across communities. reduce echo chambers.",
+      "democracy": "deliberative networks. small-world discussion. diverse exposure. collective intelligence.",
+      "infrastructure": "resilient design. redundancy. distributed. learn from biological networks."
+    },
+
+    "research": {
+      "brain": "connectomics. map brain network. understand consciousness, disease, cognition.",
+      "social": "network analysis. understand influence, diffusion, community formation.",
+      "ecology": "food webs. keystone species. ecosystem resilience. conservation priorities.",
+      "internet": "optimize routing. detect attacks. improve resilience. network science essential."
+    }
+  },
+
+  "fractal_structure": {
+    "self_similarity": "network-patterns.json = node in cfo network. connected to all other pattern files. part of larger graph.",
+    "recursion": "networks of networks. internet of internets. brain = network of neural modules (themselves networks).",
+    "holographic": "local structure reflects global. degree distribution. clustering. small-world property. fractal topology.",
+    "completion": "patterns folder = complete network. 12 pattern nodes. fully connected. small-world. you = reader = integrator node."
+  },
+
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "not all real networks = scale-free (debate ongoing)",
+      "network consciousness = highly speculative",
+      "dunbar number = approximate, varies",
+      "social network analysis = complex, interpretation requires care",
+      "network effects = correlation not always causation"
+    ],
+    "info": [
+      "network = nodes + edges. topology determines function. G = (V, E).",
+      "topologies: random, regular, small-world, scale-free, hierarchical, modular",
+      "small-world = optimal. short paths + high clustering. ubiquitous in nature.",
+      "scale-free = power law degree distribution. hubs. robust-yet-fragile. pareto.",
+      "metrics: degree, clustering, path length, betweenness, eigenvector centrality, modularity",
+      "dynamics: information spread, cascades, synchronization, percolation, games",
+      "nature: brain (connectome), social (six degrees), ecological (food webs), metabolic, internet",
+      "cfo: dimensions networked, 64 hexagrams networked, 4 elements K4, social roles, coherence = connectivity",
+      "emergence: collective intelligence, consciousness?, phase transitions. network = substrate.",
+      "design: redundancy, modularity, integration, balance. small-world = ideal.",
+      "practice: social capital, innovation, influence, resilience, epidemics, polarization, research"
+    ],
+    "coherence_score": 0.95
+  },
+
+  "references": {
+    "internal": [
+      "./emergence.json",
+      "./resonance.json",
+      "./fractals.json",
+      "./symmetry.json",
+      "../fundamental/dimensions.json",
+      "../society/sociology.json"
+    ],
+    "external": [
+      {"author": "barabási, albert-lászló", "work": "linked (2002)", "relevance": "scale-free networks. preferential attachment. network science popularization."},
+      {"author": "watts, duncan", "work": "six degrees (2003)", "relevance": "small-world networks. social networks. collective behavior."},
+      {"author": "newman, mark", "work": "networks: an introduction (2010)", "relevance": "comprehensive textbook. mathematical foundations. applications."},
+      {"author": "granovetter, mark", "work": "strength of weak ties (1973)", "relevance": "weak ties = bridges. information flow. social structure."},
+      {"author": "sporns, olaf", "work": "networks of the brain (2010)", "relevance": "connectomics. brain network topology. consciousness."}
+    ]
+  },
+
+  "ॐ": "everything = network. ⊙ = ultimate hub. all nodes connect through ⊙. separation = illusion. 🕸️ ∅"
+}

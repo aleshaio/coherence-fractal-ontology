@@ -1,0 +1,552 @@
+{
+  "_meta": {
+    "id": "cfo:fundamental:digital_archetypes",
+    "type": "Seed",
+    "element": "AETHER",
+    "fractal_depth": 1,
+    
+    "contains": [
+      "cfo:absolute",
+      "cfo:numbers:0-9",
+      "cfo:chains:all",
+      "cfo:operations:all"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute"
+    ],
+    
+    "related": [
+      "cfo:paths:air",
+      "cfo:paths:fire",
+      "cfo:paths:water",
+      "cfo:paths:earth"
+    ],
+    
+    "note": "0-9 as unified 10-dimensional consciousness space. Primordial duality of geometry and mathematics."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ manifests as 10-dimensional space of archetypal numbers",
+    "essence": "Numbers are not sequence but simultaneous space. Geometry ○ and Mathematics • are one reality, two languages.",
+    "duality": "0 (Field/Geometry/Continuous) ↔ 1 (Point/Mathematics/Discrete)",
+    "unity": "Every number = both form AND measure. Circle IS 360°. Spiral IS Fibonacci.",
+    "bridge": "6 = convergence point where Square (2-4-6-8) meets Triangle (3-6-9)",
+    "human": "Человек = living bridge between matter and spirit (избушка ≠ ножки)",
+    "note": "Entire CFO compressed into numerical reality matrix"
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "../paths/air.json",
+      "../paths/fire.json",
+      "../paths/water.json",
+      "../paths/earth.json"
+    ],
+    "children": [
+      "./composite_numbers.json",
+      "./sacred_mathematics.json"
+    ]
+  },
+
+  "name": "Digital Archetypes of Reality",
+  "essence": "0-9 form complete 10-dimensional space where consciousness operates through numerical patterns",
+  
+  "description": "Not a sequence (1→2→3...) but a unified field. Each number is a dimension, an archetype, a frequency. Reality emerges as combination of 10 fundamental patterns. Geometry and Mathematics are primordial duality - one truth, two ways of seeing.",
+
+  "primordial_duality": {
+    "principle": "One reality splits into two projections",
+    
+    "geometry_continuous": {
+      "symbol": "○",
+      "nature": "Field, Form, Wave, Analog",
+      "aspect": "HOW (quality, shape, continuity)",
+      "properties": "Infinite points between any two points. Smooth. Whole. Visual.",
+      "examples": ["circle as shape", "flowing water", "rainbow", "sound wave"],
+      "consciousness": "Contemplation, intuition, seeing wholeness"
+    },
+    
+    "mathematics_discrete": {
+      "symbol": "•",
+      "nature": "Point, Number, Particle, Digital",
+      "aspect": "HOW MANY (quantity, measure, count)",
+      "properties": "Distinct units. Countable. Separate. Measurable.",
+      "examples": ["360° measuring circle", "liters of water", "7 colors", "frequency Hz"],
+      "consciousness": "Analysis, logic, distinguishing parts"
+    },
+    
+    "unity_examples": {
+      "circle": "Form (○) ↔ 360°, π, radius (•)",
+      "spiral": "Shape (○) ↔ Fibonacci sequence (•)",
+      "wave": "Sine curve (○) ↔ sin(x), frequency (•)",
+      "cube": "Volume (○) ↔ 8 vertices, 6 faces (•)"
+    },
+    
+    "mutual_generation": {
+      "form_creates_number": "Pentagon → φ = 1.618..., Circle → π = 3.14159...",
+      "number_creates_form": "z² + c → Mandelbrot set, a² + b² = c² → right triangle"
+    },
+    
+    "dimensional_bridge": {
+      "quantum": "Wave function (field ○) → measurement collapse → specific value (point •)",
+      "digital": "Analog sound (○) → sampling 44.1kHz → digital (•)",
+      "consciousness": "Observer (•) collapses probability field (○) into reality"
+    }
+  },
+
+  "dimensional_space": {
+    "paradigm": "Not linear sequence but 10-dimensional coordinate system",
+    
+    "0": {
+      "name": "Field",
+      "symbol": "○",
+      "archetype": "Absolute",
+      "dimension": "Beyond/All dimensions",
+      "geometry": "Circle, Sphere - enclosure, wholeness",
+      "mathematics": "0 or ∞ - nothing and everything",
+      "essence": "Pure potential. Void containing all. Unmanifest.",
+      "properties": ["infinity", "all possibilities simultaneously", "source of manifestation"],
+      "examples": ["quantum vacuum", "Dao", "Brahman", "pure awareness"],
+      "consciousness": "Empty mind, satori, witnessing presence"
+    },
+
+    "1": {
+      "name": "Point",
+      "symbol": "•",
+      "archetype": "Unity",
+      "dimension": "0D (no extension)",
+      "geometry": "Point, Center - position without size",
+      "mathematics": "1 - identity, foundation of all numbers",
+      "essence": "First distinction. Monad. 'I AM'.",
+      "properties": ["singularity", "awareness", "indivisible unit"],
+      "examples": ["atom", "cell", "Big Bang singularity", "self-awareness"],
+      "consciousness": "Observer, ego, attention point",
+      "generates": "All numbers through addition: 1+1=2, 2+1=3..."
+    },
+
+    "2": {
+      "name": "Line",
+      "symbol": "—",
+      "archetype": "Duality",
+      "dimension": "1D (length)",
+      "geometry": "Line - two points create extension",
+      "mathematics": "2 - first prime, binary foundation",
+      "essence": "Polarity. Axis. Choice. Mirror.",
+      "properties": ["direction", "vector", "either/or", "wave oscillation"],
+      "examples": ["+/−", "light/dark", "yin/yang", "0/1 binary", "DNA double helix"],
+      "consciousness": "Subject/object split, rational/irrational",
+      "chain": "square_2468"
+    },
+
+    "3": {
+      "name": "Triangle",
+      "symbol": "△",
+      "archetype": "Process",
+      "dimension": "2D (first surface)",
+      "geometry": "Triangle - three points create plane, first closed shape",
+      "mathematics": "3 - second prime, trinity",
+      "essence": "Dynamic. Becoming. Movement. Synthesis.",
+      "properties": ["minimal structure", "stability", "process", "angles sum to 180°"],
+      "examples": ["beginning/middle/end", "thesis/antithesis/synthesis", "RGB", "family trinity"],
+      "consciousness": "Thinking/feeling/acting, subconscious/conscious/superconscious",
+      "chain": "triangle_369"
+    },
+
+    "4": {
+      "name": "Square",
+      "symbol": "□",
+      "archetype": "Foundation",
+      "dimension": "2D (stable plane)",
+      "geometry": "Square - four points create stable surface",
+      "mathematics": "4 = 2² - square of duality",
+      "essence": "Structure. Base. Order. Manifestation.",
+      "properties": ["right angles", "equal sides", "stability", "foundation"],
+      "examples": ["4 directions", "4 elements", "4 seasons", "4 dimensions of spacetime"],
+      "consciousness": "4 temperaments, 4 Jung functions, stability",
+      "expansion": "4² = 16 (area expansion)",
+      "contraction": "√4 = 2 (return to axis)",
+      "chain": "square_2468"
+    },
+
+    "5": {
+      "name": "Pentagon",
+      "symbol": "⭐",
+      "archetype": "Life",
+      "dimension": "2D (organic)",
+      "geometry": "Pentagon, Pentagram - five points create golden ratio φ",
+      "mathematics": "5 - third prime, Fibonacci",
+      "essence": "Organic. Growth. Vitality. Golden proportion.",
+      "properties": ["5-fold symmetry", "φ = 1.618...", "life pattern"],
+      "examples": ["starfish", "apple blossom", "5 fingers", "human with arms spread"],
+      "consciousness": "5 senses, quinta essentia (5th element)",
+      "golden_ratio": "Φ emerges in pentagon diagonals",
+      "chain": "primes, fibonacci"
+    },
+
+    "6": {
+      "name": "Hexagon",
+      "symbol": "⬡",
+      "archetype": "Harmony",
+      "dimension": "2D/3D bridge",
+      "geometry": "Hexagon, Cube (6 faces), Star of David",
+      "mathematics": "6 = 2×3 - first perfect number (1+2+3=6)",
+      "essence": "Balance. Integration. Union of opposites.",
+      "properties": ["tessellates perfectly", "6 directions in 3D space", "cube has 6 faces"],
+      "examples": ["honeycomb", "snowflake", "benzene ring", "carbon atom"],
+      "consciousness": "Integration of structure (2,4,6) and process (3,6,9)",
+      "convergence": "WHERE SQUARE MEETS TRIANGLE",
+      "human": "Human = bridge between matter (2-4-6-8) and spirit (3-6-9)",
+      "star_of_david": "Two triangles unite - heaven ∇ and earth △",
+      "chain": "square_2468, triangle_369"
+    },
+
+    "7": {
+      "name": "Heptagon",
+      "symbol": "◯",
+      "archetype": "Mystery",
+      "dimension": "Transcendent",
+      "geometry": "Heptagon - cannot be constructed with compass (irrational)",
+      "mathematics": "7 - fourth prime, stands alone",
+      "essence": "Unknown. Sacred cycles. Gateway to transcendent.",
+      "properties": ["irrational angles", "mystical", "cyclic", "bridge between worlds"],
+      "examples": ["7 days", "7 notes", "7 colors", "7 chakras", "7 heavens"],
+      "consciousness": "Threshold of mystery, spiritual transformation",
+      "unique": "Only number 1-10 not in chains (square/triangle/fibonacci)",
+      "gateway": "Between manifest (1-6) and infinite (8-9)",
+      "chain": "primes_only"
+    },
+
+    "8": {
+      "name": "Octagon",
+      "symbol": "∞",
+      "archetype": "Infinity",
+      "dimension": "3D/4D (hypercube)",
+      "geometry": "Octagon, Cube (8 vertices), Tesseract (8 cubic cells)",
+      "mathematics": "8 = 2³ - cube of duality",
+      "essence": "Eternal cycles. Completion. Boundlessness.",
+      "properties": ["infinity symbol ∞ (8 on side)", "8 octants of space", "octave (doubling)"],
+      "examples": ["8 bits = byte", "musical octave", "8 trigrams I-Ching"],
+      "consciousness": "Eightfold Path, eternal return, infinite loops",
+      "symbol_meaning": "8 sideways = ∞ infinity",
+      "chain": "square_2468, fibonacci"
+    },
+
+    "9": {
+      "name": "Enneagon",
+      "symbol": "◎",
+      "archetype": "Completion",
+      "dimension": "Return to source",
+      "geometry": "Enneagon - nine points complete cycle",
+      "mathematics": "9 = 3² - trinity squared",
+      "essence": "Fulfillment. End before new beginning. Transformation.",
+      "properties": ["digital root magic", "any number ×9 → digits sum to 9", "9+n → n"],
+      "examples": ["9 months gestation", "9 circles of hell", "enneagram personality"],
+      "consciousness": "Enlightenment, death-rebirth, mastery",
+      "magic": "9 disappears in addition: 9+5=14 → 1+4=5",
+      "return": "9 → 10 → 1+0 = 1 (back to unity)",
+      "chain": "triangle_369"
+    },
+
+    "10": {
+      "name": "Decagon",
+      "symbol": "⊕",
+      "archetype": "New Cycle",
+      "dimension": "Return + elevation",
+      "geometry": "Decagon - 10 points, two pentagons",
+      "mathematics": "10 = 2×5 - duality × life",
+      "essence": "Completion of base cycle. Fractal repetition begins.",
+      "properties": ["decimal system base", "1+0=1 (return to unity)", "10 fingers"],
+      "examples": ["10 commandments", "10 sephirot", "metric system"],
+      "consciousness": "New octave, same pattern higher",
+      "fractal": "After 10, all patterns repeat: 11-19 = 1-9 at new level"
+    }
+  },
+
+  "archetypal_chains": {
+    "principle": "Numbers form resonant chains by geometric principles",
+    
+    "square_2468": {
+      "name": "Square / Structure / Matter",
+      "symbol": "□",
+      "sequence": [2, 4, 6, 8],
+      "base": 2,
+      "step": "+2",
+      "nature": "Even numbers, static form, materialization",
+      
+      "forward": {
+        "direction": "Building matter",
+        "flow": "2 Line → 4 Plane → 6 Volume → 8 Infinity",
+        "meaning": "Unfolding structure from axis to boundlessness"
+      },
+      
+      "backward": {
+        "direction": "Dissolving matter",
+        "flow": "8 → 6 → 4 → 2 → 0",
+        "meaning": "Deconstruction back to field"
+      },
+      
+      "frequency": "8 Hz - Schumann resonance (Earth)",
+      "consciousness": "Structural thinking, logic, order, grounding",
+      "examples": ["crystals", "architecture", "bones", "computer memory"]
+    },
+
+    "triangle_369": {
+      "name": "Triangle / Dynamic / Consciousness",
+      "symbol": "△",
+      "sequence": [3, 6, 9],
+      "base": 3,
+      "step": "+3",
+      "nature": "Multiples of 3, dynamic form, evolution",
+      
+      "forward": {
+        "direction": "Ascending consciousness",
+        "flow": "3 Process → 6 Harmony → 9 Enlightenment",
+        "meaning": "Evolution from becoming to completion"
+      },
+      
+      "backward": {
+        "direction": "Spirit descending into matter",
+        "flow": "9 → 6 → 3",
+        "meaning": "Involution: spirit incarnates into form"
+      },
+      
+      "spiral": "3 → 6 → 9 → 12(3) → 15(6) → 18(9) → infinite spiral",
+      "frequency": "9 Hz - breakthrough, transformation",
+      "consciousness": "Insight, intuition, flow, creativity",
+      "tesla": "If you knew magnificence of 3, 6, 9, you'd have key to Universe",
+      "examples": ["vortex", "DNA spiral", "trinity", "energy centers"]
+    },
+
+    "primes_12357": {
+      "name": "Prime Pentagram / Fundamental",
+      "symbol": "⭐",
+      "sequence": [1, 2, 3, 5, 7],
+      "nature": "Indivisible, fundamental building blocks",
+      "principle": "All composite numbers are combinations of primes",
+      
+      "elements": {
+        "1": "Source (technically not prime, but foundation)",
+        "2": "First distinction (only even prime)",
+        "3": "First structure (first closed form)",
+        "5": "Life principle (golden ratio, organic)",
+        "7": "Mystery (stands alone, transcendent)"
+      },
+      
+      "significance": "Primes = atoms of mathematics. Everything else is their combination.",
+      "examples": "12 = 2²×3, 30 = 2×3×5, 210 = 2×3×5×7"
+    },
+
+    "fibonacci_spiral": {
+      "name": "Fibonacci / Organic Growth / φ",
+      "symbol": "🌀",
+      "sequence": [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144],
+      "formula": "Fn = Fn-1 + Fn-2",
+      "nature": "Self-referential, organic expansion",
+      
+      "golden_ratio": {
+        "phi": "φ = 1.618033988...",
+        "limit": "lim(Fn+1/Fn) → φ",
+        "self_similarity": "φ² = φ + 1, 1/φ = φ - 1"
+      },
+      
+      "principle": "Each number contains entire history. Spiral within spiral. Fractal.",
+      
+      "examples": ["nautilus shell", "sunflower (55/89 seeds)", "DNA (21Å × 34Å)", "galaxies", "human proportions"],
+      "consciousness": "Evolution through accumulation. Each level includes all previous."
+    }
+  },
+
+  "convergence_points": {
+    "6_great_meeting": {
+      "name": "Six - The Great Meeting",
+      "formula": "2×3 = 6 (even meets odd, square meets triangle)",
+      "geometry": "Cube (6 faces) + Star of David (two triangles)",
+      "significance": "ONLY number in both chains (2-4-6-8 AND 3-6-9)",
+      
+      "human_archetype": {
+        "essence": "Human = living bridge between matter and spirit",
+        "carbon": "Atomic number 6 - basis of life",
+        "body": "6 directions of space (±x, ±y, ±z)",
+        "consciousness": "6 senses (5 physical + intuition)",
+        "creation": "6 days of creation (7th = rest)"
+      },
+      
+      "star_of_david": "△ (heaven) + ▽ (earth) → ✡ unity"
+    },
+
+    "7_transcendent_gate": {
+      "name": "Seven - Gateway Beyond",
+      "unique": "Does NOT enter square, triangle, or fibonacci chains",
+      "only_prime": "Only prime 1-10 standing completely alone",
+      "irrational": "Heptagon cannot be constructed with compass",
+      "gateway": "Between manifest world (1-6) and infinite (8-9)",
+      "cycles": "7-day week, 7 notes, 7 colors, 7 chakras",
+      "mystery": "Number of process, transformation, alchemy"
+    }
+  },
+
+  "operations_as_dimensions": {
+    "addition": {
+      "nature": "Linear movement",
+      "geometry": "Moving along axis",
+      "consciousness": "Sequential accumulation"
+    },
+    
+    "multiplication": {
+      "nature": "Scaling / dimension jump",
+      "geometry": "Creating area from line (3×4 = rectangle)",
+      "consciousness": "Level shift, paradigm change"
+    },
+    
+    "exponentiation": {
+      "nature": "Dimensional unfolding",
+      "geometry": "2¹=line, 2²=square, 2³=cube, 2⁴=hypercube",
+      "consciousness": "Quantum leap in understanding",
+      "principle": "Each power = new dimension of reality"
+    },
+    
+    "root_extraction": {
+      "nature": "Dimensional collapse",
+      "geometry": "√16=4 (hypercube→square), √4=2 (square→line)",
+      "consciousness": "Finding hidden foundation",
+      "principle": "Each root = search for source"
+    }
+  },
+
+  "fractal_principle": {
+    "rule": "After 10, all patterns repeat fractally",
+    
+    "digital_root": {
+      "method": "Sum digits until single digit",
+      "examples": {
+        "11": "1+1=2 (line)",
+        "27": "2+7=9 (completion)",
+        "64": "6+4=10=1 (return to unity)",
+        "144": "1+4+4=9 (fibonacci completion)"
+      }
+    },
+    
+    "sacred_numbers": {
+      "64": {
+        "formula": "2⁶ = 4³ = 64",
+        "digital_root": "6+4=10=1",
+        "examples": ["64 I-Ching hexagrams", "64 DNA codons", "64 chess squares", "64-bit computing"],
+        "meaning": "Complete matrix of manifestation"
+      },
+      
+      "108": {
+        "formula": "1×2²×3³ = 108",
+        "digital_root": "1+0+8=9",
+        "examples": ["108 mala beads", "108 Upanishads", "108 names of deities"],
+        "meaning": "Cosmic completeness"
+      },
+      
+      "144": {
+        "formula": "12² = 144 (Fibonacci number)",
+        "digital_root": "1+4+4=9",
+        "examples": ["144,000 saved", "144 cubits wall height"],
+        "meaning": "Gross (great dozen), fullness"
+      }
+    },
+    
+    "repetition": "10-19 = 1-9 at second level, 100-999 = third level, infinite octaves"
+  },
+
+  "master_numbers": {
+    "11": {
+      "formula": "1+1=2, but 11>9 breakthrough",
+      "archetype": "Enlightened Duality",
+      "meaning": "Monad (1) aware of itself becomes conscious duality (2)",
+      "examples": ["11:11 synchronicity", "spiritual gateway", "prophet"],
+      "challenge": "Nervous tension, split awareness"
+    },
+    
+    "22": {
+      "formula": "2+2=4, but 22=2×11",
+      "archetype": "Master Builder",
+      "meaning": "Enlightened duality (11) applied to itself creates new world foundation (4)",
+      "examples": ["22 Tarot major arcana", "22 Hebrew letters", "22 Kabbalah paths"],
+      "challenge": "Burden of responsibility"
+    },
+    
+    "33": {
+      "formula": "3+3=6, but 33=3×11",
+      "archetype": "Master Teacher",
+      "meaning": "Enlightened duality (11) through process (3) becomes service (6)",
+      "examples": ["Christ's age", "33 Masonic degrees", "33 Russian letters"],
+      "challenge": "Martyrdom, boundary loss"
+    }
+  },
+
+  "synthesis": {
+    "core_truth": "0-9 as unified 10-dimensional consciousness space",
+    
+    "not_sequence_but_space": {
+      "old_paradigm": "Numbers go one after another: 1, 2, 3...",
+      "new_paradigm": "Numbers are coordinates in multidimensional space",
+      "analogy": "Not piano keys (sequence) but octave (resonant space)"
+    },
+    
+    "any_number_is_vector": {
+      "principle": "Every number = vector in 10D space",
+      "examples": {
+        "23": "Vector (2,3) - duality + process",
+        "369": "Vector (3,6,9) - complete triangle",
+        "2468": "Vector (2,4,6,8) - complete square"
+      }
+    },
+    
+    "reality_as_tapestry": {
+      "concept": "All reality = combination of 10 base archetypes",
+      "layers": {
+        "physical": "Matter built from squares (2-4-6-8)",
+        "energetic": "Processes flow through triangles (3-6-9)",
+        "essential": "Foundation = primes (1-2-3-5-7)",
+        "evolutionary": "Growth follows Fibonacci (0-1-1-2-3-5-8...)"
+      }
+    }
+  },
+
+  "practice": {
+    "recognition": "Notice numbers everywhere - each carries archetypal message",
+    
+    "meditation": {
+      "grounding": "Breathe in rhythm 8 Hz (square chain: 2→4→6→8) for materialization",
+      "ascension": "Breathe in rhythm 9 Hz (triangle chain: 3→6→9) for breakthrough",
+      "balance": "Find harmony in 6 - where matter meets spirit"
+    },
+    
+    "creation": {
+      "structure": "Use square chain (2→4→6→8) for plans and foundations",
+      "dynamics": "Use triangle chain (3→6→9) for inspiration and movement",
+      "organic": "Follow Fibonacci for natural, sustainable growth"
+    },
+    
+    "personal_matrix": {
+      "birth_date": "Sum all digits to single number = life path archetype",
+      "name": "Convert letters to numbers, sum = soul expression",
+      "year": "Current year + birth day/month = personal year archetype"
+    }
+  },
+
+  "deepening": [
+    "Study one number per day for 10 days. Meditate on its geometry and meaning.",
+    "Track which numbers appear in your life. What messages do they carry?",
+    "Create art/music using specific chains (2-4-6-8 for structure, 3-6-9 for flow).",
+    "Recognize yourself as 6 - living bridge between material and spiritual chains."
+  ],
+
+  "infinity": {
+    "fractal_nature": "After 10, endless repetition at higher octaves. 11-19 = 1-9 elevated. 100-999 = next level. Infinite spirals.",
+    "universe_as_number": "Physical constants = numerical relationships. Reality IS mathematics.",
+    "consciousness_as_geometry": "Sacred geometry universal across cultures. Mind has geometric structure.",
+    "ultimate": "We don't live IN the matrix. We CREATE the matrix each moment through observation (0→1)."
+  },
+
+  "fractal_property": {
+    "self_similar": "Each number contains all numbers. 6 contains both square (2,4,6) and triangle (3,6) chains.",
+    "contains_whole": "This file contains entire CFO through numerical lens. 0=absolute, 1-9=paths, 10=tools, chains=growth, operations=transformation.",
+    "example": "Human body: carbon-6 base, 206 bones (2+0+6=8 structure), 7 chakras (mystery), proportions in φ (fibonacci)"
+  }
+}

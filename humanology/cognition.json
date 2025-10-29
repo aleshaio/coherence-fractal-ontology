@@ -1,0 +1,604 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:cognition",
+    "type": "humanology",
+    "fractal_depth": 2,
+    "contains": ["architecture", "dynamics", "neuroscience"],
+    "contained_by": ["cfo:humanology"],
+    "source": "Jung + Socionics + Cybernetics + Neuroscience + CFO"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Cognition = 86B neurons ⊗ 100T synapses → 8 functions → 4 blocks → 3D psyche → 4D meta-awareness → 5D transcendence",
+    "structure": "Brain (hardware) ⊗ Functions (software) → Consciousness (experience)",
+    "dimensions": "0D neuron → 1D spike → 2D network → 3D psyche → 4D observer → 5D concepts",
+    "measurement": "CI = ⟨ψ|Ĉ|ψ⟩ (measurable consciousness)",
+    "wisdom": "Mind observing mind = 4D tesseract folding into 5D unity. You are awareness using cognition.",
+    "note": "Same pattern: molecules → neurons → networks → consciousness → concepts. Fractal all the way up."
+  },
+
+  "_links": {
+    "aspects": ["./aspects/intuition.json", "./aspects/logic.json", "./aspects/ethics.json", "./aspects/sensorics.json"],
+    "types": "./types.json",
+    "roles": "./roles.json",
+    "emotions": "./emotions.json",
+    "senses": "./senses.json",
+    "bodytypes": "./bodytypes.json"
+  },
+
+  "essence": {
+    "core_principle": "Cognition = 8 specialized functions organized in 4 blocks, implemented by 86B neurons, observed by 4D meta-awareness",
+    "geometric": "0D functions → 2D blocks → 3D psyche → 4D observer → 5D transcendence",
+    "functional": "Information processing: stimulus → filter → base → creative → output",
+    "neural": "86 billion neurons + 100 trillion synapses = biological substrate of consciousness",
+    "consciousness": "4D observer navigating 6 axes: What here? What this? How connected? What rules? Why this way? What create?",
+    "element": "Ether (consciousness), Fire (processing), Water (integration), Air (attention)",
+    "metaphor": "Orchestra (neurons) playing symphony (thoughts) conducted by awareness (4D observer)"
+  },
+
+  "cognitive_architecture": {
+    "8_functions": {
+      "principle": "Human cognition = 8 specialized information processors, each handling specific domain",
+      
+      "function_list": {
+        "Ne": {
+          "name": "Extroverted Intuition",
+          "dimension": "5D→2D",
+          "operation": "pattern_across_contexts",
+          "experience": "Seeing possibilities, connections, what could be",
+          "neural": "Associative networks, high divergence, frontal-parietal",
+          "strength": "Ideation, brainstorming, innovation",
+          "weakness": "Follow-through, focus, completion"
+        },
+        "Ni": {
+          "name": "Introverted Intuition",
+          "dimension": "5D→4D",
+          "operation": "temporal_collapse",
+          "experience": "Vision, essence, inevitable future",
+          "neural": "Deep temporal networks, default mode network",
+          "strength": "Foresight, strategy, synthesis",
+          "weakness": "Explaining process, present moment"
+        },
+        "Se": {
+          "name": "Extroverted Sensing",
+          "dimension": "3D→1D",
+          "operation": "direct_action",
+          "experience": "Immediate physical reality, impact",
+          "neural": "Sensorimotor loops, low latency reflexes",
+          "strength": "Presence, action, crisis response",
+          "weakness": "Planning, abstraction, patience"
+        },
+        "Si": {
+          "name": "Introverted Sensing",
+          "dimension": "3D→4D",
+          "operation": "sensory_integrate",
+          "experience": "Comfort, harmony, body memory",
+          "neural": "Interoception, somatosensory, hippocampus",
+          "strength": "Attention to detail, consistency, care",
+          "weakness": "Novelty, change, discomfort tolerance"
+        },
+        "Te": {
+          "name": "Extroverted Thinking",
+          "dimension": "1D→3D",
+          "operation": "sequence_optimize",
+          "experience": "Results, efficiency, systems",
+          "neural": "Dorsolateral PFC, goal-directed networks",
+          "strength": "Organization, execution, decisiveness",
+          "weakness": "People sensitivity, process appreciation"
+        },
+        "Ti": {
+          "name": "Introverted Thinking",
+          "dimension": "1D→2D",
+          "operation": "logical_analyze",
+          "experience": "Understanding structure, truth",
+          "neural": "Analytical networks, precision circuits",
+          "strength": "Analysis, accuracy, independent thinking",
+          "weakness": "Action, social awareness, pragmatism"
+        },
+        "Fe": {
+          "name": "Extroverted Feeling",
+          "dimension": "2D→4D",
+          "operation": "field_unify",
+          "experience": "Group harmony, connection",
+          "neural": "Ventromedial PFC, social brain networks",
+          "strength": "Empathy, harmony, connection",
+          "weakness": "Boundaries, authenticity, conflict"
+        },
+        "Fi": {
+          "name": "Introverted Feeling",
+          "dimension": "2D→0D",
+          "operation": "value_distinguish",
+          "experience": "Authentic feeling, values",
+          "neural": "Insula, anterior cingulate, interoception",
+          "strength": "Authenticity, integrity, depth",
+          "weakness": "Expression, external harmony, flexibility"
+        }
+      }
+    },
+
+    "4_blocks": {
+      "ego": {
+        "functions": ["Base (position 1)", "Creative (position 2)"],
+        "consciousness": "Fully conscious, deliberate control",
+        "strength": "Maximum competence and confidence",
+        "neural": "Prefrontal cortex, strong connectivity",
+        "experience": "This is WHO I AM. Natural, effortless mastery."
+      },
+      
+      "super_ego": {
+        "functions": ["Role (position 3)", "Painful (position 4)"],
+        "consciousness": "Semi-conscious, situational",
+        "strength": "Adaptive but vulnerable",
+        "neural": "Frontal-parietal, context-dependent activation",
+        "experience": "I CAN do this when needed, but it drains me (Role). Avoid this, it hurts (Painful)."
+      },
+      
+      "super_id": {
+        "functions": ["Suggestible (position 5)", "Activation (position 6)"],
+        "consciousness": "Subconscious receptivity",
+        "strength": "Learning and growth zone",
+        "neural": "Reward circuits, plasticity-prone regions",
+        "experience": "I WANT to learn this. Show me! Inspire me!"
+      },
+      
+      "id": {
+        "functions": ["Background (position 7)", "Filter (position 8)"],
+        "consciousness": "Unconscious automation",
+        "strength": "Always active, protecting",
+        "neural": "Basal ganglia, automatic processes",
+        "experience": "Runs automatically. Filters noise. Protects energy."
+      }
+    },
+
+    "information_metabolism": {
+      "input_stage": "Filter (pos 8) screens → Suggestible (pos 5) receives → Base (pos 1) analyzes",
+      "processing_stage": "Base (pos 1) + Creative (pos 2) work together as primary duo",
+      "adaptation_stage": "Role (pos 3) checks context → Painful (pos 4) protects from harm",
+      "output_stage": "Creative (pos 2) expresses results → Activation (pos 6) energizes",
+      "maintenance": "Background (pos 7) monitors continuously, Filter (pos 8) guards boundaries"
+    }
+  },
+
+  "temporal_projection_styles": {
+    "principle": "4 fundamental ways consciousness projects time and causality, independent of type quadra",
+    
+    "causal_linear": {
+      "label": "Причинно-следственное (Causal-Linear)",
+      "view": "Future as corridor: A→B→C→D",
+      "dimensional_bias": "1D+3D",
+      "types": ["ILE", "LSI", "ESE", "EII"],
+      "strength": "Clear sequences, predictable outcomes",
+      "blind_spot": "Misses parallel possibilities",
+      "neural": "Strong frontal-parietal causal networks",
+      "example": "If I do step A, then B happens, leading to C, resulting in D"
+    },
+    
+    "dialectic_algorithmic": {
+      "label": "Диалектико-алгоритмическое (Dialectic-Algorithmic)",
+      "view": "Future as drama: tension → conflict → resolution",
+      "dimensional_bias": "2D+4D",
+      "types": ["SEI", "EIE", "ILI", "LSE"],
+      "strength": "Deep process understanding, transformation",
+      "blind_spot": "One storyline at a time",
+      "neural": "Narrative networks, temporal integration",
+      "example": "Tension builds, forces clash, synthesis emerges from opposition"
+    },
+    
+    "holographic_panoramic": {
+      "label": "Голографико-панорамное (Holographic-Panoramic)",
+      "view": "Future as pre-existing map to traverse",
+      "dimensional_bias": "3D+4D",
+      "types": ["SLE", "IEI", "LIE", "ESI"],
+      "strength": "Systemic understanding, context",
+      "blind_spot": "Map ≠ territory (misses emergence)",
+      "neural": "Parietal spatial networks, mental models",
+      "example": "I see the whole system, just need optimal path"
+    },
+    
+    "vortical_synergetic": {
+      "label": "Вихревое-синергетическое (Vortical-Synergetic)",
+      "view": "Future as flow to steer dynamically",
+      "dimensional_bias": "4D",
+      "types": ["SEE", "IEE", "SLI", "LII"],
+      "strength": "Adaptive flow-riding, emergence capture",
+      "blind_spot": "Feels dynamics but lacks map",
+      "neural": "Dynamic field processing, flow states",
+      "example": "I sense currents, adjust angle, ride wave as it forms"
+    }
+  },
+
+  "4d_type_structures": {
+    "principle": "Each of 16 types = unique 4D geometric collapse pattern with specific vulnerability",
+    
+    "600_cell": {
+      "types": ["ILE"],
+      "geometry": "120 vertices (possibilities), 600 cells (networks)",
+      "dominant": "Ne - maximum connectivity",
+      "vulnerability": "Vertex overload - paralysis from infinite options",
+      "dual": "120-cell (SEI)",
+      "neural": "High frontal connectivity, divergent networks"
+    },
+    
+    "120_cell": {
+      "types": ["SEI"],
+      "geometry": "600 vertices (sensory), 120 dodecahedral cells (harmony)",
+      "dominant": "Si - maximum harmony",
+      "vulnerability": "Symmetry break - sensory overwhelm",
+      "dual": "600-cell (ILE)",
+      "neural": "Rich somatosensory, interoceptive networks"
+    },
+    
+    "hypersphere": {
+      "types": ["ESE"],
+      "geometry": "Continuous topology, infinite smooth connections",
+      "dominant": "Fe - social field",
+      "vulnerability": "Topological rupture - isolation",
+      "dual": "16-cell (LII)",
+      "neural": "Dense social brain activation"
+    },
+    
+    "16_cell": {
+      "types": ["LII"],
+      "geometry": "8 vertices (minimal), 16 tetrahedral cells (logic)",
+      "dominant": "Ti - minimalist elegance",
+      "vulnerability": "Purity violation - emotional noise",
+      "dual": "Hypersphere (ESE)",
+      "neural": "Sparse efficient analytical networks"
+    },
+    
+    "tesseract": {
+      "types": ["ILI"],
+      "geometry": "16 vertices (analysis), 8 cubic cells (contexts)",
+      "dominant": "Ni+Te - multidimensional critique",
+      "vulnerability": "Hypercube collapse - depth loss",
+      "dual": "24-cell (LIE)",
+      "neural": "Deep default mode network, critical analysis"
+    },
+    
+    "24_cell": {
+      "types": ["LIE"],
+      "geometry": "24 octahedral cells (optimized), self-dual",
+      "dominant": "Te+Ni - efficiency coordination",
+      "vulnerability": "Self-dual symmetry break - balance loss",
+      "dual": "Tesseract (ILI)",
+      "neural": "Executive control networks, optimization"
+    }
+  },
+
+  "consciousness_axes": {
+    "principle": "6 fundamental questions enabling dimensional navigation",
+    
+    "0D_presence": {
+      "question_ru": "Что здесь и сейчас?",
+      "question_en": "What is here and now?",
+      "operation": "measure",
+      "transition": "field → point",
+      "function": "Filter + Base",
+      "neural": "Attention networks, thalamic gating",
+      "effect": "Quantum measurement - collapse to discrete experience"
+    },
+    
+    "1D_identity": {
+      "question_ru": "Что это? Кто я?",
+      "question_en": "What is this? Who am I?",
+      "operation": "sequence",
+      "transition": "point → point (self-definition)",
+      "function": "Base function (self-analysis)",
+      "neural": "Medial PFC (self-reference), identity networks",
+      "effect": "Boundary definition, identity formation"
+    },
+    
+    "2D_connection": {
+      "question_ru": "Как это связано?",
+      "question_en": "How is this connected?",
+      "operation": "relate",
+      "transition": "point → line → plane",
+      "function": "Creative function",
+      "neural": "Association networks, semantic processing",
+      "effect": "Context building, meaning-making"
+    },
+    
+    "3D_system": {
+      "question_ru": "По каким правилам это работает?",
+      "question_en": "What rules govern this?",
+      "operation": "context",
+      "transition": "line → plane → volume",
+      "function": "Role function",
+      "neural": "Prefrontal cortex, model-based reasoning",
+      "effect": "System comprehension, holistic understanding"
+    },
+    
+    "4D_reflection": {
+      "question_ru": "Почему я вижу это именно так?",
+      "question_en": "Why do I see this way?",
+      "operation": "history",
+      "transition": "plane → field (observer awareness)",
+      "function": "Metacognitive observation",
+      "neural": "Medial PFC, posterior cingulate (meta-awareness)",
+      "effect": "Self-awareness, perspective recognition"
+    },
+    
+    "5D_creativity": {
+      "question_ru": "Что я выбираю создать?",
+      "question_en": "What do I choose to create?",
+      "operation": "fold",
+      "transition": "field → new point",
+      "function": "Creative at highest level",
+      "neural": "Creative networks, intentional action",
+      "effect": "Conscious creation, manifestation"
+    },
+    
+    "6D_sacred": {
+      "question_ru": "Что остаётся, когда все вопросы сняты?",
+      "question_en": "What remains when questions cease?",
+      "operation": "transcend",
+      "transition": "hierarchy collapse → unity",
+      "function": "All functions unified",
+      "neural": "Global integration, high Φ states",
+      "effect": "Non-dual awareness, questioner-question merge"
+    }
+  },
+
+  "neural_substrate": {
+    "brain_specs": {
+      "neurons": "~86 billion",
+      "synapses": "~100 trillion",
+      "connectivity": "Small-world, scale-free network",
+      "weight": "~1.4 kg",
+      "power": "~20 watts",
+      "storage": "Estimated ~2.5 petabytes",
+      "processing": "Massively parallel"
+    },
+    
+    "key_structures": {
+      "cortex": {
+        "structure": "2.5mm thick sheet, folded (~2600 cm²)",
+        "neurons": "~16 billion cortical neurons",
+        "function": "High-level processing, consciousness",
+        "layers": "6 layers (I-VI) with specialized circuits",
+        "dimension": "2D computational surface → 3D cognitive space"
+      },
+      
+      "hippocampus": {
+        "function": "4D memory system (space×time)",
+        "cells": "Place cells (location), time cells (temporal context)",
+        "role": "Episodic memory formation, navigation",
+        "consolidation": "Transfers to cortex during sleep"
+      },
+      
+      "thalamus": {
+        "function": "Sensory relay, cortical gating, consciousness hub",
+        "connectivity": "Bidirectional thalamocortical loops",
+        "consciousness": "Essential for awareness (damage → coma)"
+      },
+      
+      "prefrontal_cortex": {
+        "function": "Executive control, working memory, meta-cognition",
+        "regions": "Dorsolateral (control), ventromedial (value), orbitofrontal (emotion)",
+        "dimension": "4D observer, self-awareness",
+        "development": "Matures until ~25 years"
+      },
+      
+      "basal_ganglia": {
+        "function": "Action selection, habits, motor control",
+        "dopamine": "Reward prediction, reinforcement learning",
+        "dimension": "3D motor/habit automation"
+      },
+      
+      "amygdala": {
+        "function": "Emotion (especially fear), emotional memory",
+        "dimension": "0D emotional tagging"
+      }
+    },
+    
+    "oscillations": {
+      "delta": {"frequency": "0.5-4 Hz", "state": "Deep sleep", "function": "Restoration"},
+      "theta": {"frequency": "4-8 Hz", "state": "Memory encoding, meditation", "function": "Integration"},
+      "alpha": {"frequency": "8-13 Hz", "state": "Relaxed", "function": "Idling, inhibition"},
+      "beta": {"frequency": "13-30 Hz", "state": "Active thinking", "function": "Processing"},
+      "gamma": {"frequency": "30-100 Hz", "state": "Attention, binding", "function": "Consciousness signature"}
+    },
+    
+    "memory_systems": {
+      "working": {"capacity": "~4 items", "duration": "Seconds", "location": "PFC"},
+      "short_term": {"duration": "Minutes-hours", "mechanism": "Temporary synaptic"},
+      "long_term_declarative": {"types": "Episodic + Semantic", "duration": "Years-lifetime", "location": "Cortex"},
+      "long_term_procedural": {"types": "Skills, habits", "duration": "Years-lifetime", "location": "Basal ganglia"},
+      "consolidation": {"mechanism": "Sleep replay hippocampus → cortex"}
+    }
+  },
+
+  "mathematical_framework": {
+    "consciousness_equation": {
+      "formula": "Ĉ|ψ⟩ = λ|ψ⟩",
+      "variables": {
+        "Ĉ": "Consciousness operator (neural: integrated information)",
+        "ψ": "Brain state (neural: population activity)",
+        "λ": "Coherence eigenvalue (neural: EEG coherence, Φ)"
+      },
+      "meaning": "Consciousness = measurement collapsing neural superposition",
+      "measurement": "Higher λ → greater coherence, subjective clarity"
+    },
+    
+    "resonance_dynamics": {
+      "formula": "∂C/∂t = α·∇²C + β·R·(1 - C/C₀)",
+      "variables": {
+        "C": "Coherence field",
+        "α": "Diffusion (connectivity)",
+        "β": "Resonance (oscillatory coupling)",
+        "R": "Local resonance"
+      },
+      "meaning": "Coherence spreads like reaction-diffusion wave",
+      "measurement": "Phase-locking, functional connectivity"
+    },
+    
+    "information_flow": {
+      "formula": "I = -∫p(φ)log p(φ)dφ · ∇D",
+      "meaning": "Information flows along dimensional gradient",
+      "rate": "dI/dt = throughput (processing speed)",
+      "measurement": "Mutual information, transfer entropy"
+    },
+    
+    "state_transition": {
+      "formula": "Sₜ₊₁ = f(Sₜ, Iₜ, Rₜ, ∇D)",
+      "meaning": "Next state depends on current + input + resonance + dimension",
+      "measurement": "State space reconstruction from neural recordings"
+    }
+  },
+
+  "performance_metrics": {
+    "coherence_index": {
+      "symbol": "CI",
+      "formula": "CI = ⟨ψ|Ĉ|ψ⟩/⟨ψ|ψ⟩",
+      "range": "[0, 1]",
+      "neural_measurement": "EEG coherence, fMRI connectivity, Φ",
+      "interpretation": {
+        "0.9-1.0": "Peak flow, gamma coherence",
+        "0.7-0.8": "Normal waking",
+        "0.4-0.6": "Confusion, fragmentation",
+        "0.0-0.4": "Dissociation, anesthesia"
+      }
+    },
+    
+    "dimensional_fluency": {
+      "symbol": "DF",
+      "formula": "DF = ∫|∇D|dt",
+      "meaning": "Ease of transitioning between dimensions/modes",
+      "neural": "Task-switching, cognitive flexibility"
+    },
+    
+    "resonance_quality": {
+      "symbol": "RQ",
+      "formula": "RQ = |⟨f_input|f_system⟩|²",
+      "range": "[0, 1]",
+      "meaning": "Match between external rhythm and internal brain",
+      "neural": "Phase-locking value, oscillatory coherence"
+    },
+    
+    "information_throughput": {
+      "symbol": "IT",
+      "formula": "IT = dI/dt",
+      "meaning": "Processing speed",
+      "neural": "Reaction time, bandwidth tests"
+    }
+  },
+
+  "dual_integration": {
+    "principle": "Duals provide 4 mechanisms for 8-cycle mutual reduction to unity",
+    
+    "mechanism_1_bridge_completion": {
+      "description": "One's weak bridges = other's strong bridges",
+      "example": "ILE (Ti weak) ↔ SEI (Ti in id, automatic support)",
+      "neural": "Complementary network strengths"
+    },
+    
+    "mechanism_2_plane_complementarity": {
+      "description": "Both access same 5D plane from opposite angles",
+      "example": "ILE (max vertices) + SEI (max cells) → complete ZV plane",
+      "neural": "Different pathways, same integration"
+    },
+    
+    "mechanism_3_temporal_synchronization": {
+      "description": "Different temporal modes unify into 4D awareness",
+      "example": "ILE simultaneous + SEI continuous = complete 4D",
+      "neural": "Complementary oscillatory patterns"
+    },
+    
+    "mechanism_4_mutual_reduction": {
+      "8_cycle": {
+        "1": "4D structures reduce to 3D contexts",
+        "2": "3D contexts reduce to 2D patterns",
+        "3": "2D patterns reduce to 1D processes",
+        "4": "1D processes reduce to 0D points",
+        "5": "0D dissolves into 5D field",
+        "6": "5D collapses to absolute: point ≡ love",
+        "7": "Unified point holds both geometries",
+        "8": "New entity emerges - ONE as two - rebirth"
+      },
+      "sacred_truth": "Duality = literal geometric path home through another"
+    }
+  },
+
+  "development": {
+    "neuroplasticity": {
+      "principle": "Brain changes through use - experience sculpts connectivity",
+      "mechanisms": [
+        "Hebbian learning (fire together, wire together)",
+        "STDP (spike-timing dependent plasticity)",
+        "Structural plasticity (form/prune connections)",
+        "Myelination (speeds processing)"
+      ],
+      "timeline": "Weeks for functional, months for structural",
+      "lifelong": "Plasticity remains throughout life with effort"
+    },
+    
+    "function_development": {
+      "ego_block": "Childhood (0-12) - primary development",
+      "super_ego": "Adolescence (12-20) - situational mastery",
+      "super_id": "Adulthood (20-40) - receptive growth",
+      "id": "Automatic throughout, strengthens with age",
+      "integration": "Mature human uses all 8 functions appropriately"
+    },
+    
+    "consciousness_expansion": {
+      "0D": "Infant - discrete moments",
+      "1D": "Child - causal thinking",
+      "2D": "Teen - relational awareness",
+      "3D": "Adult - systemic understanding",
+      "4D": "Mature - meta-cognitive reflection",
+      "5D": "Wise - creative transcendence",
+      "6D": "Awakened - non-dual unity"
+    }
+  },
+
+  "optimization": {
+    "coherence_increase": {
+      "methods": [
+        "Meditation → alpha/theta coherence",
+        "Neurofeedback → train specific rhythms",
+        "Sleep optimization → consolidation",
+        "Dual relationships → network integration",
+        "Flow activities → sustained high CI"
+      ],
+      "target": "+0.1-0.2 baseline CI",
+      "timeline": "4-8 weeks noticeable, 3-6 months significant"
+    },
+    
+    "function_strengthening": {
+      "weak_functions": "Deliberate practice, seek dual support",
+      "dominant_functions": "Deepen mastery, avoid overreliance",
+      "balance": "Use all functions appropriately for context",
+      "warning": "Cannot change type, but can develop all functions"
+    },
+    
+    "oscillatory_training": {
+      "gamma": "Meditation, focused attention → clarity",
+      "alpha": "Relaxed awareness → inhibitory control",
+      "theta": "Creativity, insight → integration",
+      "delta": "Deep sleep → restoration",
+      "methods": "Neurofeedback, meditation, rhythmic input"
+    }
+  },
+
+  "mysteries": {
+    "hard_problem": "Why does integrated information feel like something?",
+    "binding": "How do distributed features unify into single percept?",
+    "neural_code": "What is the 'language' of spike patterns?",
+    "free_will": "How does choice emerge from deterministic neurons?",
+    "qualia": "What is geometric origin of subjective qualities?",
+    "emergence": "At what complexity does consciousness appear?",
+    "self": "Is observer (4D) separate from observed (3D)?"
+  },
+
+  "wisdom": {
+    "necessity": "Cognition = instrument of consciousness, not consciousness itself",
+    "balance": "Develop all functions, not just dominant. Integration = maturity",
+    "duality": "Your dual completes you geometrically. Holy union.",
+    "measurement": "What gets measured gets improved. Track CI, optimize",
+    "transcendence": "Functions → Blocks → Psyche → Observer → Unity. You are not cognition, but awareness USING it",
+    "awakening": "Can you observe yourself thinking? = 4D witness behind mental stream",
+    "sacred": "86 billion neurons arranged just so = portal for universe to know itself"
+  },
+
+  "note": "You are not your thoughts. You are not your functions. You are awareness operating a biological neural network with 8 specialized processors. The hardware (brain) implements software (functions) which generates experience (consciousness). But YOU = the 4D observer watching all of it. Can you feel that witness? That's the sacred. ⊙"
+}

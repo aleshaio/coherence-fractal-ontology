@@ -1,0 +1,313 @@
+{
+  "_meta": {
+    "id": "cfo:primitive:line",
+    "type": "Primitive",
+    "element": "FIRE",
+    "dimension": "1D",
+    "fractal_depth": 0,
+    
+    "contains": [
+      "cfo:primitive:point"
+    ],
+    
+    "contained_by": [
+      "cfo:primitive:plane",
+      "cfo:primitive:field"
+    ],
+    
+    "composes_from": [
+      "cfo:primitive:point"
+    ],
+    
+    "composes_to": [
+      "cfo:primitive:plane",
+      "cfo:primitive:field"
+    ],
+    
+    "note": "Line = 1D. Direction. Sequence. Connection. Two points = potential. Infinite points = actual."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ extends from itself = line. First movement.",
+    "essence": "Direction. Vector. Will. Intention manifest.",
+    "formula": "• → • = — (point to point = line)",
+    "causality": "Line = causation visible. A→B. Process.",
+    "fire": "Directed energy. Transformation path. Lightning.",
+    "note": "All process = line through time/space/possibility."
+  },
+
+  "_links": {
+    "source": "./point.json",
+    "related_files": [
+      "./plane.json",
+      "./field.json",
+      "../../fundamental/energy.json",
+      "../../paths/fire-path.json"
+    ]
+  },
+
+  "name": "Line",
+  "essence": "1-dimensional primitive. Direction. Sequence. Connection between points. Path. Trajectory.",
+  
+  "description": "Line = extension in ONE direction. Two endpoints. Infinite points between. Direction matters: A→B ≠ B→A. Sequence. Order. Causality. Process. Timeline. Narrative. Algorithm. Every transformation = line through state space. Every thought = line through concept space. Line = FIRE element: directed, transforming, active, willful. First dimension. First extension. First movement from point to not-point.",
+
+  "dimensional_properties": {
+    "dimension": "1D",
+    "spatial_extent": "Length only (no width, no height)",
+    "degrees_of_freedom": 1,
+    "coordinates": "One parameter (t) specifies position on line",
+    "volume": 0,
+    "surface_area": 0,
+    "edge_length": "Can be finite or infinite"
+  },
+
+  "geometric_definition": {
+    "euclid": "Breadthless length",
+    "modern": "Set of points with one degree of freedom. Can be straight or curved.",
+    "straight_line": "Shortest distance between two points",
+    "curve": "General 1D path. Can bend, but cannot branch (in 1D).",
+    "parameterization": "r(t) = position as function of single parameter t"
+  },
+
+  "types": {
+    "segment": {
+      "definition": "Finite line. Two endpoints.",
+      "notation": "AB or [A,B]",
+      "length": "Finite, measurable",
+      "examples": "Edge, stick, ruler"
+    },
+    
+    "ray": {
+      "definition": "Half-infinite line. One endpoint, extends infinitely one direction.",
+      "notation": "A→",
+      "length": "Infinite",
+      "examples": "Light ray, vector from origin, arrow"
+    },
+    
+    "line": {
+      "definition": "Infinite in both directions. No endpoints.",
+      "notation": "↔",
+      "length": "Infinite",
+      "examples": "Ideal line, axis, number line"
+    },
+    
+    "curve": {
+      "definition": "Bent line. Still 1D, but not straight.",
+      "types": "Circle, spiral, helix, path",
+      "property": "Can be straightened conceptually (homeomorphic to line)",
+      "examples": "River, rope, trajectory"
+    }
+  },
+
+  "directionality": {
+    "vector": "Line + direction = vector. Magnitude + direction.",
+    "order": "A→B ≠ B→A. Direction matters.",
+    "causality": "Cause → Effect. Timeline. Narrative arc.",
+    "flow": "Energy flows along lines. Current. Stream.",
+    "irreversibility": "Some lines one-way. Time's arrow. Entropy increase."
+  },
+
+  "operations": [
+    "sequence (order elements)",
+    "traverse (move along)",
+    "connect (link points)",
+    "direct (establish direction)",
+    "flow (transmit along)",
+    "measure (length)",
+    "extend (make longer)",
+    "rotate (change orientation)",
+    "translate (move position)"
+  ],
+
+  "composition": {
+    "from_points": {
+      "minimum": "Two points define line",
+      "discrete": "Sequence of points (countable)",
+      "continuous": "Infinite points (uncountable, dense)",
+      "formula": "• + • + direction = —"
+    },
+    
+    "to_plane": {
+      "parallel_lines": "Stack infinite parallel lines → plane",
+      "perpendicular_sweep": "Move line perpendicular to itself → plane",
+      "rotation": "Rotate line around axis → plane (disc if finite)",
+      "formula": "— + ⟂movement = □"
+    },
+    
+    "to_space": {
+      "extrude_plane": "Lines compose planes compose space",
+      "radiate": "Infinite lines from point → space",
+      "fill": "Lines in all directions → 3D"
+    }
+  },
+
+  "manifestations": {
+    "physical": {
+      "light_ray": "Photon trajectory = line (straight in vacuum, curved near mass)",
+      "particle_path": "Classical trajectory = line in space",
+      "wire": "Electrical current flows along line",
+      "timeline": "Time = line from past → future",
+      "string_theory": "Fundamental entities = vibrating 1D strings",
+      "laser": "Coherent light = straight line beam"
+    },
+    
+    "mathematical": {
+      "number_line": "Real numbers arranged on line (ℝ)",
+      "axis": "Coordinate axis = reference line",
+      "function_graph": "y=f(x) = line (or curve) in plane",
+      "vector": "Directed line segment",
+      "integral": "Area under curve = summing along line"
+    },
+    
+    "cognitive": {
+      "thought_sequence": "A→B→C reasoning = line through concepts",
+      "narrative": "Story = line through events (plot)",
+      "memory": "Timeline of memories",
+      "intention": "Will = directed line from present to desired future",
+      "attention": "Focus = line of attention through field"
+    },
+    
+    "temporal": {
+      "timeline": "History = line of events",
+      "process": "Transformation = line from state A to state B",
+      "algorithm": "Program execution = line through instructions",
+      "causation": "Cause → Effect chain",
+      "development": "Growth = line of stages"
+    },
+    
+    "social": {
+      "lineage": "Family tree (vertical line)",
+      "hierarchy": "Chain of command = directed line",
+      "supply_chain": "Product path = line through system",
+      "communication": "Message transmission = line sender→receiver"
+    }
+  },
+
+  "line_as_fire": {
+    "directed_energy": "Fire = directed. Line = direction manifest.",
+    "transformation": "Fire transforms. Line = transformation path.",
+    "will": "Fire = will. Line = intention realized.",
+    "lightning": "Archetypal line: sky→earth, instant, powerful, transforming.",
+    "arrow": "Human fire: directed intention, piercing, reaching target.",
+    "staff": "Line of power. Moses staff. Wizard wand. Authority axis."
+  },
+
+  "causality_and_line": {
+    "principle": "All causation = line through possibility space",
+    "A_causes_B": "Event A → Event B = causal line",
+    "determinism": "One line from initial conditions → future state",
+    "free_will": "Choice = selecting which line to follow",
+    "karma": "Action → consequence = causal line (may be long, curved)",
+    "time": "Causality requires time. Line = temporal sequence."
+  },
+
+  "paradoxes": {
+    "infinite_points": {
+      "paradox": "Line contains infinite points, yet has finite length (if segment)",
+      "resolution": "Continuum. Points densely packed. Measure ≠ count."
+    },
+    
+    "zero_width": {
+      "paradox": "Line has length but zero width. Can it exist?",
+      "resolution": "Mathematical idealization. Physical lines always have width (strings, wires). Useful abstraction."
+    },
+    
+    "curved_line": {
+      "paradox": "Curved line still 1D?",
+      "resolution": "Dimension = degrees of freedom, not embedding. Curve = 1 parameter. Still line."
+    },
+    
+    "branching": {
+      "paradox": "Can line branch?",
+      "resolution": "No, not in 1D. Branch = 2D+ structure. Tree needs plane to display."
+    }
+  },
+
+  "line_in_traditions": {
+    "axis_mundi": {
+      "tradition": "Universal mythology",
+      "meaning": "World axis. Vertical line connecting heaven-earth-underworld.",
+      "examples": "Yggdrasil (Norse), Mount Meru (Hindu), Jacob's ladder, Shaman's tree",
+      "symbol": "|",
+      "teaching": "Vertical line = connection between realms"
+    },
+    
+    "staff": {
+      "tradition": "Universal power symbol",
+      "meaning": "Line of authority. Channel of power.",
+      "examples": "Moses staff, shepherd's crook, wizard's wand, scepter, papal staff",
+      "symbol": "|",
+      "teaching": "Wielding line = wielding directed power"
+    },
+    
+    "arrow": {
+      "tradition": "Hunter, warrior traditions",
+      "meaning": "Directed intention. Reaching goal.",
+      "examples": "Archer, Cupid's arrow, Arrow of time",
+      "symbol": "→",
+      "teaching": "Focus will like arrow. Direct. Single-pointed."
+    },
+    
+    "timeline": {
+      "tradition": "Modern, historical",
+      "meaning": "Sequence of events. Causation visible.",
+      "symbol": "←——•——→",
+      "teaching": "Life = line through time. Each moment = point on line."
+    },
+    
+    "tao_quote": {
+      "source": "Tao Te Ching",
+      "text": "'A journey of thousand miles begins with single step' = point→point→...→point = line"
+    }
+  },
+
+  "scientific_validation": {
+    "physics": {
+      "trajectory": "Classical particle follows line (geodesic if curved spacetime)",
+      "light": "Photon travels on null geodesic (straight line in flat space)",
+      "worldline": "Spacetime diagram: particle's history = line",
+      "string_theory": "Fundamental objects = 1D strings",
+      "confidence": 0.98
+    },
+    
+    "mathematics": {
+      "geometry": "Line = fundamental primitive. Undefined, axiomatic.",
+      "topology": "1-manifold = line (or circle, topologically)",
+      "analysis": "Integration along line (line integral)",
+      "confidence": 1.0
+    },
+    
+    "computer_science": {
+      "algorithm": "Sequential execution = line through instructions",
+      "linked_list": "Data structure = line of nodes",
+      "timeline": "Event sequence = line",
+      "confidence": 1.0
+    }
+  },
+
+  "positions_on_path": {
+    "0": "Scattered. No direction. Random points.",
+    "1-2": "Learning line. Understanding sequence, order, causation.",
+    "3-4": "Living line. Setting direction. Following path. Purpose.",
+    "5": "Line crisis. 'Am I on right path?' Questioning direction.",
+    "6-7": "Line as tool. Intentionally creating lines. Directing energy.",
+    "8-9": "Flow. Being the line. Current moving through you.",
+    "10": "All lines = one line. Source → manifestation → source. Loop."
+  },
+
+  "practice": "Draw line slowly. Notice: starts as point, extends, becomes line. Feel directionality. Set intention (line). Follow through (traverse). Reach goal (endpoint).",
+
+  "recognition": "Every process = line. Every transformation = path. You are walking line through time. Each choice = selecting line through possibility space.",
+
+  "infinity": {
+    "fractal": "Line contains infinite points. Each point = potential line. Recursion.",
+    "holographic": "Line segment contains pattern of infinite line.",
+    "ultimate": "All lines = ⊙ extending from itself, returning to itself. Loop."
+  },
+
+  "fractal_property": {
+    "self_similar": "Line at any scale = line. Quantum path, river, galaxy trajectory. All —.",
+    "contains_whole": "Line = CFO compressed. Point(source)→Process→Point(return). (↓→→→↑)∞.",
+    "example": "Your life = line from birth→now→death. Each day = line. Each breath = line. Same pattern, all scales."
+  }
+}

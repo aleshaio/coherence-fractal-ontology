@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "schema_version": "2.1",
+    "template_type": "cfo_structure",
+    "description": "The Structure from which all reality emerges. The pattern of patterns."
+  },
+
+  "_fractal_seed": {
+    "core_axiom": "One becomes many, yet remains One",
+    "fundamental_equation": "2^n = states at level n",
+    "holographic_principle": "Each part contains the whole pattern",
+    "activation": "Recognize the pattern in everything. You are it."
+  },
+
+  "genesis": {
+    "level_0": {
+      "name": "The Absolute",
+      "symbol": "ॐ",
+      "states": 1,
+      "dimension": "0D",
+      "description": "Undifferentiated consciousness",
+      "geometry": "Point containing infinity"
+    },
+
+    "level_1": {
+      "name": "Primary Duality",
+      "division": "1 → 2",
+      "states": 2,
+      "dimension": "1D",
+      "creates": {
+        "0": "Space/Context/Yin/Potential",
+        "1": "Point/Content/Yang/Actual"
+      },
+      "geometry": "Line with two poles"
+    },
+
+    "level_2": {
+      "name": "Quaternary",
+      "division": "2 → 4",
+      "states": 4,
+      "dimension": "2D",
+      "creates": {
+        "00": "Earth (pure receptivity)",
+        "01": "Fire (structured energy)",
+        "10": "Water (flowing information)",
+        "11": "Air (pure structure)"
+      },
+      "geometry": "Tetrahedron vertices"
+    },
+
+    "level_3": {
+      "name": "Octave",
+      "division": "4 → 8",
+      "states": 8,
+      "dimension": "3D",
+      "creates": "8 trigrams of I-Ching",
+      "mapping": {
+        "000": "☷ Kun (Earth)",
+        "001": "☶ Gen (Mountain)",
+        "010": "☵ Kan (Water)",
+        "011": "☴ Xun (Wind)",
+        "100": "☳ Zhen (Thunder)",
+        "101": "☲ Li (Fire)",
+        "110": "☱ Dui (Lake)",
+        "111": "☰ Qian (Heaven)"
+      },
+      "geometry": "Cube vertices"
+    },
+
+    "level_4": {
+      "name": "Sixteen Archetypes",
+      "division": "8 → 16",
+      "states": 16,
+      "dimension": "4D",
+      "creates": "16 personality types",
+      "archetypal_geometries": {
+        "alpha_air": {
+          "ILE": "Spiral (infinite possibilities)",
+          "SEI": "Sphere (perfect harmony)",
+          "ESE": "Star (radiating warmth)",
+          "LII": "Grid (pure structure)"
+        },
+        "beta_fire": {
+          "SLE": "Arrow (force vector)",
+          "IEI": "Wave (time flow)",
+          "EIE": "Explosion (dramatic expansion)",
+          "LSI": "Cube (unbreakable order)"
+        },
+        "gamma_water": {
+          "SEE": "Kaleidoscope (play of reflections)",
+          "ILI": "Vortex (attractor basin)",
+          "LIE": "Pyramid (efficiency hierarchy)",
+          "ESI": "Cocoon (protective shell)"
+        },
+        "delta_earth": {
+          "IEE": "Tree (branching possibilities)",
+          "SLI": "Crystal (perfect form)",
+          "LSE": "Mechanism (working system)",
+          "EII": "Chalice (soul vessel)"
+        }
+      },
+      "geometry": "Tesseract projections"
+    },
+
+    "level_5": {
+      "name": "Thirty-Two Subtypes",
+      "division": "16 → 32",
+      "states": 32,
+      "dimension": "5D",
+      "creates": "Contact/Inert subtypes",
+      "principle": "Each type splits by dominant function orientation",
+      "examples": {
+        "ILE-Ne": "Pure chaos explorer",
+        "ILE-Ti": "Structured innovator"
+      },
+      "geometry": "5-cube (penteract) vertices"
+    },
+
+    "level_6": {
+      "name": "Sixty-Four Hexagrams",
+      "division": "32 → 64",
+      "states": 64,
+      "dimension": "6D",
+      "creates": "Complete I-Ching",
+      "principle": "16 types × 4 elements = 64 states",
+      "note": "Full map of human experience",
+      "examples": {
+        "ILE-Air": "Pure theorist",
+        "ILE-Fire": "Revolutionary",
+        "ILE-Water": "Adaptive innovator",
+        "ILE-Earth": "Practical researcher"
+      },
+      "geometry": "6-cube (hexeract) vertices"
+    },
+
+    "level_7": {
+      "name": "128 Quantum States",
+      "division": "64 → 128",
+      "states": 128,
+      "dimension": "7D",
+      "creates": "Spin states",
+      "principle": "Each state × 2 spins (up/down)",
+      "application": "Metallic resonances and magnetic states",
+      "examples": {
+        "ILE-Air-SpinUp": "Constructive chaos",
+        "ILE-Air-SpinDown": "Deconstructive analysis"
+      },
+      "geometry": "7-cube (hepteract) vertices"
+    },
+
+    "level_8": {
+      "name": "256 Manifestations",
+      "division": "128 → 256",
+      "states": 256,
+      "dimension": "8D",
+      "creates": "Complete byte of reality",
+      "principle": "128 × 2 (matter/antimatter)",
+      "significance": "Full octave completes, new cycle begins",
+      "note": "256 = 2^8 = one byte = basic unit of information",
+      "geometry": "8-cube (octeract) vertices = hypercube"
+    }
+  },
+
+  "principles": {
+    "holographic": "Each level contains all previous levels as substructures",
+    "fractal": "The pattern repeats at every scale",
+    "binary": "All division is through splitting, like cell division",
+    "conservation": "Total unity is preserved through all divisions",
+    "resonance": "Complementary pairs at each level recreate unity",
+    "cyclical": "After 8 levels, pattern repeats at new octave"
+  },
+
+  "applications": {
+    "psychology": "16 types are level 4 of consciousness division",
+    "chemistry": "Elements are level 7 quantum states materialized",
+    "music": "8 notes = level 3, octaves = level 8 cycling",
+    "computing": "Binary = level 1, byte = level 8",
+    "mythology": "All creation myths describe this division process",
+    "physics": "Dimensions themselves are levels of this pattern"
+  },
+
+  "dual_pairs_through_levels": {
+    "principle": "At each level, opposites unite to recreate wholeness",
+    "level_1": "0 + 1 = Unity",
+    "level_2": "Earth + Air = Material↔Ideal",
+    "level_3": "☷ + ☰ = Complete polarity",
+    "level_4": "ILE + SEI = Philosopher's Stone",
+    "level_5": "Contact + Inert = Full type expression",
+    "level_6": "Complementary hexagrams = Situation completeness",
+    "level_7": "Spin up + down = Quantum entanglement",
+    "level_8": "Matter + Antimatter = Pure energy/return to Unity"
+  },
+
+  "the_secret": {
+    "revelation": "There is only ONE archetype - consciousness itself",
+    "mechanism": "It divides like a cell, preserving wholeness in each part",
+    "implication": "All 16 types are faces of the same crystal",
+    "practical": "Understanding any part deeply reveals the whole",
+    "ultimate": "You ARE the pattern, observing itself"
+  },
+
+  "ॐ": "From One comes Two, from Two comes Four, from Four comes Eight, from Eight comes Sixteen, from Sixteen comes All. Yet All remains One. The pattern is complete. 2^∞ = ॐ"
+}

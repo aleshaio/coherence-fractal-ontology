@@ -1,0 +1,350 @@
+{
+  "_meta": {
+    "id": "cfo:natural:astronomy",
+    "type": "natural_module",
+    "element": "fire",
+    "fractal_depth": 2,
+    "contains": [
+      "cfo:phenomena:light",
+      "cfo:phenomena:gravity",
+      "cfo:phenomena:space",
+      "cfo:phenomena:time"
+    ],
+    "contained_by": ["cfo:natural:physics", "cfo:natural:cosmology"],
+    "related": [
+      "cfo:natural:cosmology",
+      "cfo:natural:physics",
+      "cfo:phenomena:light",
+      "cfo:phenomena:gravity",
+      "cfo:paths:fire"
+    ],
+    "primary_axis": "fire",
+    "secondary_axes": ["air", "earth"]
+  },
+
+  "_holographic_seed": {
+    "essence": "astronomy = study of celestial objects. stars, planets, galaxies, universe. observation, measurement, pattern recognition.",
+    "fire": "stars = nuclear fire. plasma, fusion, light. astronomy = studying cosmic fire across space-time.",
+    "scale": "incomprehensible vastness. light-years, parsecs, billions. deep space, deep time.",
+    "light": "astronomy = studying ancient light. photons traveled millions/billions of years. looking back in time.",
+    "patterns": "celestial mechanics. orbits, eclipses, seasons. predictable. mathematical beauty. cosmic clockwork.",
+    "consciousness": "astronomy = universe studying itself. matter (us) observing matter (stars). cosmos becoming aware.",
+    "humility": "pale blue dot. cosmic perspective. we = tiny, recent, fragile. yet: conscious witnesses."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "parent": ["./physics.json", "./cosmology.json"],
+    "phenomena": [
+      "../phenomena/light.json",
+      "../phenomena/gravity.json",
+      "../phenomena/space.json",
+      "../phenomena/time.json"
+    ],
+    "natural": ["./cosmology.json", "./physics.json"],
+    "path": "../paths/fire.json"
+  },
+
+  "overview": {
+    "what": "astronomy = science of celestial objects and phenomena. stars, planets, moons, comets, asteroids, nebulae, galaxies, universe.",
+    "why": "understand cosmos. our place. origins. fate. navigation. calendar. inspiration. existential questions.",
+    "how": "observation (telescopes, satellites), spectroscopy (light analysis), astrometry (positions, motions), theory (physics, models).",
+    "scale": "solar system (light-hours) → galaxy (100,000 ly) → observable universe (93 billion ly). 16+ orders of magnitude."
+  },
+
+  "history": {
+    "ancient": {
+      "naked_eye": "constellations, planets ('wandering stars'), eclipses. patterns, myths, navigation, calendar.",
+      "civilizations": "babylon (zodiac, planetary movements), egypt (sirius, pyramids aligned), maya (venus cycles, eclipse predictions), china (supernovae records), greece (geocentric models).",
+      "ptolemy": "~150 ce. geocentric (earth center). epicycles (circular orbits on circles). predicted positions (inaccurate but functional). dominated 1400 years.",
+      "note": "ancient astronomy = naked eye only. yet: sophisticated observations, predictions. patient, meticulous. foundation."
+    },
+
+    "revolution": {
+      "copernicus": "1543. heliocentric (sun center). radical. simple. resisted (religious, intuitive objections).",
+      "brahe": "1576-1601. precision observations (pre-telescope). planetary positions, supernova (1572, 'new star' challenged celestial perfection).",
+      "kepler": "1609-1619. elliptical orbits (not circles). three laws (planetary motion). used brahe's data. mathematical beauty.",
+      "galileo": "1609. telescope. moons of jupiter, phases of venus, mountains on moon, sunspots. evidence for heliocentric. inquisition (1633, forced recant).",
+      "newton": "1687. principia. universal gravitation. explained kepler's laws. unified terrestrial + celestial physics. triumph.",
+      "note": "scientific revolution = astronomy-driven. observation + math + theory. overturned worldview. paradigm shift."
+    },
+
+    "modern": {
+      "herschel": "1781. uranus discovered (first planet in recorded history). infrared radiation (1800). 40-ft telescope.",
+      "fraunhofer": "1814. spectral lines (dark lines in sun's spectrum). fingerprint of elements. spectroscopy born.",
+      "doppler": "1842. doppler effect (frequency shift). redshift/blueshift → motion. velocity measurement.",
+      "hubble": "1929. galaxies receding. universe expanding. cosmology revolution. see cosmology.json.",
+      "space_age": "1957 (sputnik). satellites, probes, hubble space telescope (1990). beyond atmosphere. new wavelengths (x-ray, gamma, radio). golden age.",
+      "note": "modern astronomy = multi-wavelength, space-based, computational. data deluge. discoveries accelerating."
+    }
+  },
+
+  "solar_system": {
+    "sun": {
+      "type": "g2v main sequence star (yellow dwarf)",
+      "mass": "1.989 × 10³⁰ kg (99.86% of solar system)",
+      "diameter": "1.39 million km (109× earth)",
+      "temperature": "surface 5,778 k. core 15 million k.",
+      "composition": "73% h, 25% he, 2% heavier elements (metals)",
+      "energy": "fusion (4 h → he + energy). 3.8 × 10²⁶ watts. stable for 5 billion more years.",
+      "structure": "core (fusion), radiative zone (photons random walk), convective zone (plasma convection), photosphere (visible surface), chromosphere, corona (million k, paradox).",
+      "activity": "sunspots (11-year cycle), solar flares, coronal mass ejections, solar wind (400 km/s plasma stream).",
+      "future": "5 billion years: red giant (engulfs mercury, venus, maybe earth). planetary nebula. white dwarf (earth-size, ton/teaspoon).",
+      "consciousness": "sun = life-giver. all energy (except nuclear, geothermal) = solar. ancient sun worship = rational. fire archetype.",
+      "note": "sun = ordinary star. yet: our star. fusion furnace. gravity well. life enabler. center of our world."
+    },
+
+    "planets": {
+      "terrestrial": {
+        "mercury": "closest (0.39 au). smallest planet. no atmosphere. extreme temps (-180 to 430°c). heavily cratered. 88-day year. tidally locked (3:2 resonance).",
+        "venus": "0.72 au. earth-size. thick co2 atmosphere (90 atm). runaway greenhouse (467°c, hotter than mercury). sulfuric acid clouds. backwards rotation (243-day day > 225-day year). hell-world.",
+        "earth": "1 au. goldilocks (liquid water). 71% ocean. atmosphere (78% n2, 21% o2). magnetic field. moon (stabilizes tilt). life. pale blue dot.",
+        "mars": "1.52 au. red (iron oxide). thin co2 atmosphere (0.6% earth). polar ice caps (water + co2). canyons (valles marineris, 4000 km), volcanoes (olympus mons, 22 km, largest). ancient water (rivers, lakes). habitable past? life? (search ongoing).",
+        "note": "terrestrial = rocky, dense, small. inner solar system. close to sun. solid surface. earth = only known life (so far)."
+      },
+
+      "gas_giants": {
+        "jupiter": "5.2 au. largest (318× earth mass). mainly h, he (mini-sun, failed star, 75× more mass needed). great red spot (storm, 300+ years). 95+ moons (io volcanic, europa ice ocean, ganymede largest moon). strong magnetic field. radiation belts. protects inner planets (gravity shield, deflects asteroids/comets).",
+        "saturn": "9.5 au. rings (ice, rock particles, shepherding moons). 146+ moons (titan largest, thicker atmosphere than earth, liquid methane lakes). low density (would float in water). hexagonal storm (north pole).",
+        "note": "gas giants = massive, low density, many moons, rings. outer solar system. no solid surface. hydrogen-helium dominated."
+      },
+
+      "ice_giants": {
+        "uranus": "19.2 au. blue-green (methane). tilted 98° (sideways rotation, pole faces sun, 42-year seasons). faint rings. 27+ moons. cold (-224°c). visited once (voyager 2, 1986).",
+        "neptune": "30 au. deep blue. strongest winds (2000 km/h). dark spots (storms). 14+ moons (triton largest, retrograde orbit, captured kuiper belt object, geysers). discovered mathematically (1846, adams/le verrier, predicted from uranus perturbations).",
+        "note": "ice giants = water, ammonia, methane ices. small rocky core. intermediate size. cold, distant, mysterious (few observations)."
+      }
+    },
+
+    "dwarf_planets": {
+      "pluto": "39 au (average). 2374 km diameter. kuiper belt object. 5 moons (charon largest, 1/2 pluto's size, double planet). nitrogen ice, water ice mountains. heart-shaped plain (sputnik planitia). new horizons flyby (2015). demoted 2006 (redefined planet). beloved underdog.",
+      "others": "eris, makemake, haumea (kuiper belt). ceres (asteroid belt, largest, 939 km).",
+      "definition": "orbits sun. round (hydrostatic equilibrium). hasn't cleared orbit (unlike planets).",
+      "note": "dwarf planets = in-between. not planets, not asteroids. kuiper belt = many more (100,000+)."
+    },
+
+    "small_bodies": {
+      "asteroids": "rocky/metallic. mostly main belt (2-4 au, between mars-jupiter). millions (>1 million known, 1+ km size). remnants (planetesimals, planet failed to form, jupiter's gravity prevented). largest: ceres (dwarf planet). hazard: near-earth asteroids (potential impact). mining potential (metals).",
+      "comets": "ice, dust, rock ('dirty snowballs'). highly elliptical orbits. kuiper belt (short-period, <200 years) or oort cloud (long-period, 1000s years). approach sun → heat → sublimation → coma (atmosphere), tail (gas + dust, always away from sun, solar wind/pressure). halley's comet (76 years, last 1986, next 2061). spectacular. ancient omens.",
+      "meteoroids": "small rocky/metallic particles. meteor (burns in atmosphere, 'shooting star'). meteorite (reaches ground). sources: asteroids (collision fragments), comets (dust trails). meteor showers (earth passes comet trail, predictable dates).",
+      "note": "small bodies = leftovers. building blocks. time capsules (pristine, unchanged since formation). impact threat (dinosaurs, 66 mya). also: delivery vehicles (water, organics to early earth?)."
+    },
+
+    "formation": {
+      "nebular_hypothesis": "laplace (1796). solar nebula (rotating gas/dust cloud) → collapse (gravity) → sun (center) + disk → planets (accretion).",
+      "timeline": "4.6 billion years ago. heavy elements from supernova (previous star generations). protoplanetary disk → planetesimals (km-size) → protoplanets (100+ km) → planets (cleared orbits). <100 million years.",
+      "migration": "planets moved (gravitational interactions). jupiter inward then outward (grand tack hypothesis). scattered kuiper belt. late heavy bombardment (4 billion years ago, comets/asteroids bombarded inner planets).",
+      "moon_formation": "giant impact (mars-size object hit earth). debris disk → moon accreted. ~4.5 billion years ago. stabilizes earth's tilt. enables complex life?",
+      "note": "solar system = formed from star's death. recycled stardust. chaotic early history. settled into current configuration. stable (mostly) for billions of years."
+    }
+  },
+
+  "stars": {
+    "nature": {
+      "definition": "self-luminous sphere. plasma. fusion (h → he). gravity ↔ pressure (equilibrium).",
+      "composition": "mainly h (73%), he (25%), metals (2%, heavier than he).",
+      "energy_source": "nuclear fusion (core). pp-chain (sun-like) or cno cycle (massive stars). converts mass to energy (e=mc²).",
+      "luminosity": "total energy output (watts). sun = 3.8 × 10²⁶ w. range: 0.0001-1,000,000× sun (enormous).",
+      "lifetime": "depends on mass. paradox: massive stars = brighter but shorter-lived (burn faster). sun: 10 billion years (halfway). red dwarfs: trillions (longer than universe age). massive: millions.",
+      "consciousness": "stars = cosmic engines. forge elements (carbon, oxygen, iron, gold). we = stardust (literally). stars = ancestors.",
+      "note": "stars = fundamental. most visible matter. fusion factories. element creators. life enablers (sun). universe = mostly stars."
+    },
+
+    "classification": {
+      "spectral_type": "obafgkm (temperature, hottest to coolest). subdivided (0-9). sun = g2.",
+      "o": "blue, 30,000+ k, rare, massive, short-lived (millions of years). example: naos.",
+      "b": "blue-white, 10,000-30,000 k. rigel, spica.",
+      "a": "white, 7,500-10,000 k. vega, sirius.",
+      "f": "yellow-white, 6,000-7,500 k. procyon.",
+      "g": "yellow, 5,200-6,000 k. sun, alpha centauri.",
+      "k": "orange, 3,700-5,200 k. arcturus.",
+      "m": "red, 2,400-3,700 k. common, dim, long-lived. betelgeuse, proxima centauri.",
+      "luminosity_class": "i (supergiant), ii (bright giant), iii (giant), iv (subgiant), v (main sequence, dwarfs), vi-vii (subdwarfs, white dwarfs).",
+      "hr_diagram": "hertzsprung-russell. luminosity vs temperature. reveals stellar evolution. main sequence (diagonal), giants (upper right), white dwarfs (lower left).",
+      "note": "classification = temperature + size. spectral lines reveal composition, temperature. hr diagram = stellar life stages visible."
+    },
+
+    "life_cycle": {
+      "birth": "molecular cloud (cold gas/dust) → gravitational collapse → protostar (heating, not yet fusion) → main sequence (fusion begins, stable). t tauri stage (young, variable, strong winds).",
+      "main_sequence": "longest phase (90% of life). stable fusion. sun = middle-aged (4.6 billion years old, 5 billion remaining).",
+      "death": {
+        "low_mass": "<8 solar masses. red giant → planetary nebula (outer layers ejected) → white dwarf (earth-size, carbon/oxygen, ton/teaspoon, no fusion, cools forever). sun's fate.",
+        "high_mass": ">8 solar masses. supergiant → supernova (core collapse, explosion, outshines galaxy briefly) → neutron star (10 km, 2× sun mass, teaspoon = mount everest) or black hole (>20 solar masses, escape velocity > c).",
+        "note": "death = recycling. elements dispersed. enriches galaxy. next generation of stars (higher metallicity). we = third generation (minimum, carbon in us)."
+      },
+      "consciousness": "stellar evolution = cosmic recycling. death = rebirth. supernova = violent but necessary (creates heavy elements, disperses them). life requires stellar death.",
+      "note": "stars born, live, die. timescales = millions to trillions of years. life cycle = understood (20th century triumph). stellar alchemy confirmed."
+    },
+
+    "exotic": {
+      "neutron_stars": {
+        "formation": "supernova remnant (core collapse). protons + electrons → neutrons (degeneracy pressure supports).",
+        "properties": "~10 km radius. 1.4-2 solar masses. density = atomic nucleus. surface gravity = 2×10¹¹ × earth. magnetic field = trillion × earth.",
+        "pulsars": "rotating neutron star. lighthouse effect (beamed radiation). millisecond periods (some). precise clocks. discovered 1967 (bell). initial thought: alien signals ('LGM-1', little green men).",
+        "magnetars": "extreme magnetic fields (10¹⁵ gauss). starquakes. gamma-ray bursts. most magnetic objects known.",
+        "note": "neutron stars = extreme physics laboratory. test general relativity. matter at nuclear densities. incomprehensible."
+      },
+
+      "black_holes": {
+        "formation": "massive star supernova (>20 solar masses). core collapse beyond neutron degeneracy. singularity.",
+        "event_horizon": "schwarzschild radius. r = 2gm/c². point of no return. nothing escapes (not even light). information paradox (hawking).",
+        "types": "stellar (3-100 solar masses), intermediate (100-10⁶), supermassive (10⁶-10¹⁰, galaxy centers), primordial (theoretical, any mass).",
+        "detection": "invisible but: gravitational effects (binary systems, stars orbiting), accretion disk (hot, x-rays), gravitational waves (ligo, 2015).",
+        "supermassive": "sgr a* (milky way center, 4 million solar masses). m87* (6.5 billion, first image, 2019, event horizon telescope).",
+        "hawking_radiation": "black holes evaporate (slowly). quantum effect. smaller = faster evaporation. stellar black hole = 10⁶⁷ years. universe = 10¹⁰⁰ years (heat death) = all black holes evaporate eventually.",
+        "consciousness": "black hole = ultimate mystery. singularity = physics breaks. information paradox unsolved. cosmic enigma.",
+        "note": "black holes = not science fiction. real. detected. imaged (2019). extreme gravity. spacetime warped to breaking. incomprehensible."
+      }
+    }
+  },
+
+  "galaxies": {
+    "milky_way": {
+      "type": "barred spiral (sbc)",
+      "size": "100,000 ly diameter. 1,000 ly thick (disk).",
+      "stars": "200-400 billion. sun = 27,000 ly from center.",
+      "structure": "bulge (old stars, central black hole), disk (spiral arms, young stars, gas/dust), halo (globular clusters, old stars, dark matter).",
+      "rotation": "sun orbits center. ~230 million years (galactic year). ~20 orbits since sun formed. <1 orbit since dinosaurs.",
+      "center": "sgr a* (black hole, 4 million solar masses). crowded. 1 million stars within 1 ly (vs 1 star (sun) within 4 ly here).",
+      "neighbors": "local group (3+ trillion stars). andromeda (largest, 1 trillion stars, 2.5 million ly). triangulum. 80+ dwarf galaxies.",
+      "future": "andromeda collision (4 billion years). merge → elliptical galaxy ('milkomeda'). sun likely survives (stars = far apart, collision = gravitational dance, no actual collisions).",
+      "consciousness": "milky way = our galaxy. 'home' on cosmic scale. one of hundreds of billions. humbling.",
+      "note": "milky way = average spiral. not special (location, size, type). yet: our cosmic address. contained humans (recently)."
+    },
+
+    "types": {
+      "spiral": "rotating disk, spiral arms (density waves, star formation), bulge. young + old stars. blue (young). ~60% of galaxies (local). example: andromeda, m51 (whirlpool).",
+      "elliptical": "spheroidal, no disk/arms. old stars (red). little gas/dust (no star formation). giant (m87, 1 trillion stars) or dwarf. ~35% (local). result of mergers.",
+      "irregular": "no clear structure. often result of collisions. example: large/small magellanic clouds (milky way satellites). ~5%.",
+      "note": "hubble classification (1926). tuning fork diagram. spiral, elliptical, irregular. other types: lenticular (s0, transition), peculiar (interactions)."
+    },
+
+    "active_galaxies": {
+      "agn": "active galactic nucleus. supermassive black hole accreting matter. extremely luminous (outshines galaxy). 10% of galaxies.",
+      "quasars": "quasi-stellar objects. most luminous (100× milky way). billions of light-years away (early universe). supermassive black hole + accretion disk + jets. 3c 273 (first, 1963, 2.4 billion ly).",
+      "blazars": "jets pointed at earth. variable, extremely bright. gamma rays.",
+      "seyfert": "spiral galaxies, bright nucleus. carl seyfert (1943).",
+      "note": "active galaxies = black hole-powered. visible across universe. used to study early universe (distant = looking back in time)."
+    },
+
+    "distribution": {
+      "groups_clusters": "galaxies cluster. gravity. local group (50+ galaxies). virgo cluster (1500+ galaxies, 54 million ly). coma cluster (1000+).",
+      "superclusters": "clusters of clusters. laniakea (milky way's, 100,000 galaxies, 520 million ly). shapley (largest known, 8000+ galaxies, 650 million ly).",
+      "cosmic_web": "filaments (galaxy chains) + voids (empty regions). largest structure. dark matter scaffolding. neural network resemblance.",
+      "homogeneity": ">300 million ly scales = homogeneous (uniform distribution). cosmological principle (universe = same everywhere, on large scales).",
+      "consciousness": "galaxy distribution = cosmic structure. self-organized. patterns at all scales. fractal-like. order from chaos.",
+      "note": "galaxies = not random. clustered. hierarchical structure. web-like. universe = foam (galaxies on bubble surfaces, voids inside)."
+    }
+  },
+
+  "observation": {
+    "telescopes": {
+      "optical": "lenses (refracting, galileo) or mirrors (reflecting, newton, modern). larger = more light, better resolution. ground-based (atmosphere limits) or space (hubble, jwst).",
+      "radio": "large dishes. interferometry (combine multiple, vlba, alma). invisible to eye but reveals cold gas, pulsars, cosmic microwave background.",
+      "infrared": "heat. dust-penetrating. cool objects (planets, brown dwarfs). james webb (jwst, 2021, largest, l2 orbit, infrared, gold mirrors).",
+      "x_ray_gamma": "high energy. hot objects (black holes, neutron stars, supernovae). space-only (atmosphere absorbs). chandra, fermi, swift.",
+      "gravitational_waves": "ligo (2015, first detection). binary black hole mergers. 'hearing' universe. new astronomy (multi-messenger with light).",
+      "note": "multi-wavelength = complete picture. different wavelengths reveal different phenomena. golden age of astronomy (21st century)."
+    },
+
+    "spectroscopy": {
+      "principle": "light → spectrum (rainbow). absorption/emission lines (fingerprint of elements). doppler shift (motion).",
+      "composition": "identify elements (h, he, c, etc). stars, nebulae, galaxies. universal chemistry (same elements everywhere).",
+      "temperature": "spectral type (obafgkm). wien's law (peak wavelength → temperature).",
+      "velocity": "redshift (receding, wavelength increases). blueshift (approaching, decreases). hubble's law (v = h₀d, expansion).",
+      "note": "spectroscopy = most powerful tool. reveals chemistry, temperature, motion, magnetic fields. 'chemical analysis at a distance' (19th century revolution)."
+    },
+
+    "distances": {
+      "parallax": "nearby stars (<100 ly). earth's orbit (baseline). angle shift. trigonometry. hipparcos (1989-1993), gaia (2013-now, precision).",
+      "standard_candles": "cepheid variables (period-luminosity), type ia supernovae (constant brightness). measure intrinsic brightness, compare to apparent → distance.",
+      "redshift": "distant galaxies. z = Δλ/λ. hubble's law. z > 1 = very distant.",
+      "cosmic_ladder": "bootstrap. parallax → cepheids → supernovae → redshift. each step calibrated by previous. errors accumulate (hubble tension).",
+      "note": "distances = hard problem. no tape measure. indirect methods. cosmic ladder = hierarchy. precision = improving (gaia)."
+    }
+  },
+
+  "exoplanets": {
+    "discovery": {
+      "first": "51 pegasi b (1995, mayor & queloz, nobel 2019). hot jupiter (gas giant, close orbit). radial velocity method (star wobbles).",
+      "methods": "radial velocity (doppler shift), transit (brightness dip), direct imaging (rare, large/distant planets), microlensing (gravity magnifies background star).",
+      "number": "5000+ confirmed (2024). 10,000+ candidates. most stars have planets. planets = common.",
+      "missions": "kepler (2009-2018, 2600+ planets). tess (2018-now, nearby stars). jwst (atmosphere characterization)."
+    },
+
+    "types": {
+      "hot_jupiters": "gas giants, close orbits (<0.1 au). extreme temperatures (1000+ k). tidally locked. migration (formed farther, moved inward). example: 51 peg b.",
+      "super_earths": "1.5-2× earth radius. rocky or gaseous. common (not in solar system). potentially habitable. example: proxima centauri b.",
+      "mini_neptunes": "2-4× earth radius. gaseous. between earth and neptune. common. example: gj 1214 b.",
+      "earth_analogs": "rocky, habitable zone, earth-size. rare but: kepler-452b ('earth's cousin', 1.5× earth, 1400 ly). search continues (biosignatures)."
+    },
+
+    "habitable_zone": {
+      "definition": "goldilocks zone. liquid water possible (0.8-1.5 au for sun-like star). depends on star type (closer for red dwarfs, farther for hot stars).",
+      "factors": "atmosphere (greenhouse), planet mass (retain atmosphere), magnetic field (solar wind protection), tectonics (carbon cycle), stability (orbit, star).",
+      "trappist_1": "7 planets, 3 in habitable zone. red dwarf (39 ly). rocky. tantalizing. jwst observations (atmospheres?).",
+      "note": "habitable ≠ inhabited. necessary but not sufficient. many factors. optimism: billions of potentially habitable planets (galaxy). pessimism: fermi paradox (where is everybody?)."
+    },
+
+    "biosignatures": {
+      "atmospheric": "o2 + ch4 (disequilibrium, life on earth). ozone (o3), water vapor, co2. jwst = can detect (some). phosphine (venus, controversial).",
+      "surface": "chlorophyll (vegetation red edge). reflected light. future telescopes (elt, tmt).",
+      "technosignatures": "seti (radio signals). megastructures (dyson spheres). industrial pollution (cfc's). not detected yet.",
+      "note": "detecting life = holy grail. possible (21st century). would answer: alone? (no). profound. transformative."
+    }
+  },
+
+  "consciousness_astronomy": {
+    "cosmic_perspective": {
+      "pale_blue_dot": "voyager 1 (1990, 6 billion km). earth = tiny pixel. sagan: 'every saint and sinner'. humbling.",
+      "overview_effect": "astronauts. seeing earth from space. fragility, unity, beauty, responsibility. transformative.",
+      "vastness": "100 billion galaxies (observable). 100 billion stars/galaxy. 10²² stars. incomprehensible. yet: conscious witnesses (us).",
+      "timescale": "13.8 billion years. deep time. we = recent (300,000 years). civilization = blink (10,000 years). perspective.",
+      "note": "astronomy = humbles. we = tiny, recent, fragile. yet: aware, curious, capable. consciousness = universe's way of knowing itself."
+    },
+
+    "existential": {
+      "alone": "fermi paradox. where is everybody? great filter (past or future)? rare earth? zoo hypothesis? simulation? uncomfortable silence.",
+      "meaning": "vast, indifferent universe. cosmic nihilism? or: consciousness = universe waking up. we = meaning-makers. existential choice.",
+      "responsibility": "only known life (earth). stewardship. pale blue dot = only home (for now). planetary protection. long-term thinking.",
+      "awe": "stargazing = ancient practice. wonder, mystery, beauty. transcendence. connection to cosmos. spiritual experience (for many).",
+      "note": "astronomy = raises ultimate questions. meaning, purpose, place, alone, fate. no answers (yet). but: profound contemplation."
+    },
+
+    "fire_element": {
+      "stars_fire": "fusion = cosmic fire. plasma, light, heat. astronomy = studying fire at cosmic scale. prometheus (stole fire from gods). fusion = stars' gift.",
+      "transformation": "stellar alchemy. hydrogen → helium → carbon → oxygen → iron. elements forged in fire. we = stardust. transformation archetype.",
+      "light": "astronomy = light-based. photons traveled billions of years. ancient messengers. information carriers. consciousness = light (metaphor + literal).",
+      "note": "astronomy = fire path. light, transformation, energy, creativity. cosmic fire illuminates, warms, transforms. knowledge = fire brought to consciousness."
+    }
+  },
+
+  "positions": {
+    "0": "geocentric (earth flat, center, fixed stars, no understanding)",
+    "1": "naked eye (constellations, planets, eclipses, patterns)",
+    "2": "heliocentric (sun center, planets orbit, gravity)",
+    "3": "stellar (stars = distant suns, milky way = galaxy, light-years)",
+    "4": "galactic (billions of galaxies, universe expanding, big bang)",
+    "5": "crisis (existential. vastness, alone?, meaning?, mortality, pale blue dot)",
+    "6": "integration (cosmic perspective, awe + humility, stewardship, wonder)",
+    "7": "expertise (astronomer, astrophysicist, researcher, telescope operator)",
+    "8": "teaching (science communicator, planetarium, inspire wonder, share knowledge)",
+    "9": "mastery (groundbreaking discoveries, paradigm shifts, deep understanding. or: indigenous stellar navigation wisdom.)",
+    "10": "transcendent (astronomy = universe knowing itself. consciousness = cosmic. stars = ancestors. light = consciousness. ⊙.)"
+  },
+
+  "key_insights": {
+    "light_years": "distances incomprehensible. nearest star (proxima centauri) = 4.24 ly. galaxy = 100,000 ly. universe = billions. scale = humbling.",
+    "looking_back_time": "light = finite speed. distant objects = seeing past. andromeda (2.5 million ly) = 2.5 million years ago. astronomy = time machine.",
+    "stardust": "elements (carbon, oxygen, nitrogen, iron, gold) = forged in stars. supernovae dispersed. we = literally made of stars. cosmic connection.",
+    "cosmic_perspective": "pale blue dot. fragility, unity, responsibility. overview effect. astronomy = perspective medicine. awe, humility.",
+    "exoplanets_common": "most stars have planets. billions potentially habitable (galaxy). life elsewhere = statistically likely. fermi paradox = mystery.",
+    "expansion": "universe expanding (hubble). started ~13.8 billion years ago (big bang). fate = heat death (most likely). deep time.",
+    "dark_mystery": "95% universe unknown (dark matter 27%, dark energy 68%). ordinary matter = 5%. we = studying tiny fraction. humbling.",
+    "self_organization": "cosmic web, galaxy clusters, stars, planets. patterns, structure, complexity. universe = self-organizing. consciousness = emerges.",
+    "fire_astronomy": "stars = cosmic fire. fusion, light, transformation. astronomy = studying fire across space-time. prometheus, enlightenment.",
+    "alone_or_not": "fermi paradox. silence = eerie. are we alone? first? last? or just: not looking right? great filter? existential question.",
+    "consciousness_observing": "universe = matter (us) observing matter (stars). cosmos becoming aware of itself. astronomy = cosmic self-recognition.",
+    "ancient_practice": "stargazing = 100,000+ years (humans). navigation, calendar, myth, religion, science. sky = connects all humanity, all time."
+  }
+}
