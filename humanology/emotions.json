@@ -1,375 +1,701 @@
 {
   "_meta": {
     "id": "cfo:humanology:emotions",
-    "type": "humanology",
-    "fractal_depth": 2,
-    "contains": ["cfo:paths:air", "cfo:paths:fire", "cfo:paths:water", "cfo:paths:earth"],
-    "contained_by": ["cfo:humanology:types"],
-    "source": "4 base emotions + Plutchik wheel + embodied neuroscience"
+    "type": "ontology",
+    "version": "1.0",
+    "fractal_depth": 7,
+    "status": "Done"
   },
 
   "_holographic_seed": {
-    "absolute": "Emotions = consciousness feeling itself through form",
-    "structure": "4 base emotions (anger/sadness/joy/fear) = 4D emotional space. All others = combinations.",
-    "tarot": "Anger=Swords, Sadness=Pentacles, Joy=Wands, Fear=Cups",
-    "embodiment": "Emotions live in body (not mind). Chest, gut, throat, face.",
-    "intelligence": "EQ = reading emotional information accurately + responding wisely",
-    "dysfunction": "Suppression = ignoring critical data → poor decisions",
-    "wisdom": "Feel fully + understand deeply + act wisely = emotional mastery",
-    "note": "Emotions = multidimensional information carriers, not problems to fix"
-  },
-
-  "_links": {
-    "types": "./types.json",
-    "paths": ["../paths/air.json", "../paths/fire.json", "../paths/water.json", "../paths/earth.json"],
-    "tools": ["../tools/assess.json", "../tools/balance.json"]
+    "absolute": "Love is the fundamental energy of existence (Gravity + Radiation).",
+    "mechanism": "Affects are physical vectors of Love interacting with Reality.",
+    "cycle": "Breath of the Soul: Expansion (Air) → Vector (Fire) → Contraction (Water) → Gravitation (Earth).",
+    "structure": "4 Base Affects = 4 Orthogonal Axes. All others are interference patterns.",
+    "embodiment": "Emotions live in the body (soma), not the mind. Chest, gut, throat, face.",
+    "matrix_axiom": "Each affect exists in a 4x4 Matrix: 4 Intensities (Vertical) × 4 Scales (Horizontal).",
+    "coherence": "Truth is the capacity to hold the superposition of all 4 vectors simultaneously."
   },
 
   "four_base_emotions": {
-    "principle": "4 base emotions = 4 orthogonal axes of emotional 4D space. All others = combinations.",
-    
-    "anger": {
-      "tarot": "Swords",
-      "element": "Fire",
-      "dimension": "1D (line, thrust, vector)",
-      "geometry": "Directed line → impulse toward action",
-      "fps": 120,
-      
-      "function": {
-        "information": "Boundary violation detected. Something wrong needs changing.",
-        "purpose": "Mobilize energy for action against obstacle",
-        "adaptive": "Assert boundary, remove obstacle, protect self",
-        "maladaptive": "Chronic rage, violence, blame addiction"
-      },
-      
-      "body": {
-        "location": "Jaw (clench), chest (heat), shoulders (tense), hands (fists)",
-        "neurotransmitters": "Norepinephrine ↑, Dopamine ↑, Testosterone ↑",
-        "autonomic": "Sympathetic: heart rate ↑, blood to muscles, pupils dilate",
-        "energy": "High, outward, explosive"
-      },
-      
-      "dimensions": {
-        "0D": "Pure rage (undifferentiated fury)",
-        "1D": "Directed anger (specific target)",
-        "2D": "Anger in relationship (conflict, boundary)",
-        "3D": "Righteous anger (values defense)",
-        "4D": "Anger pattern recognition (family patterns)",
-        "5D": "Anger as teacher (transmutation to power)",
-        "6D": "Anger as divine (fierce compassion, Kali)"
-      },
-      
-      "spectrum": "irritation → anger → rage → blind fury",
-      "opposite": "peace, serenity, calm"
-    },
-
-    "sadness": {
-      "tarot": "Pentacles",
-      "element": "Earth",
-      "dimension": "0D (point, contraction, density)",
-      "geometry": "Collapsing point → movement inward",
-      "fps": 24,
-      
-      "function": {
-        "information": "Loss detected. Need to withdraw and integrate.",
-        "purpose": "Conserve energy, signal need for support, integration",
-        "adaptive": "Grieve, rest, receive care, integrate loss",
-        "maladaptive": "Chronic depression, isolation, learned helplessness"
-      },
-      
-      "body": {
-        "location": "Chest (heaviness, ache), throat (lump), eyes (tears), whole body (weight)",
-        "neurotransmitters": "Serotonin ↓, Dopamine ↓, Norepinephrine ↓",
-        "autonomic": "Parasympathetic: energy low, heart rate ↓, body heavy",
-        "energy": "Low, inward, sinking"
-      },
-      
-      "dimensions": {
-        "0D": "Pure despair (black hole)",
-        "1D": "Melancholy (sustained low mood)",
-        "2D": "Grief (specific loss)",
-        "3D": "Existential sadness (impermanence)",
-        "4D": "Ancestral sadness (family pain)",
-        "5D": "Divine sadness (world suffering, compassion)",
-        "6D": "Sacred grief (doorway to love)"
-      },
-      
-      "spectrum": "disappointment → sadness → despair → suicidal depression",
-      "opposite": "joy, delight, elation"
-    },
+    "principle": "The 4 Primary Colors of the emotional spectrum. Physical constants of the psyche.",
 
     "joy": {
-      "tarot": "Wands",
-      "element": "Air",
-      "dimension": "3D (cube, expansion, volume)",
-      "geometry": "Expanding volume → movement outward",
+      "name": "AIR / Радость",
+      "archetype": "Wands (Rational Ethics / FJ)",
+      "physics": "INHALATION (Вдох)",
+      "vector": "Radial Expansion (Outward)",
+      "geometry": "Sphere / Volume (3D)",
       "fps": 60,
       
-      "function": {
+      "core_function": {
         "information": "Resources abundant. Safety confirmed. Connection possible.",
-        "purpose": "Signal thriving, motivate exploration, strengthen bonds",
-        "adaptive": "Explore, play, create, connect, celebrate",
-        "maladaptive": "Manic avoidance, toxic positivity, pleasure addiction"
+        "purpose": "To fill space, to connect, to create.",
+        "adaptive": "Explore, play, create, connect, celebrate.",
+        "maladaptive": "Manic avoidance, toxic positivity, pleasure addiction."
       },
-      
-      "body": {
-        "location": "Chest (warmth, expansion), face (smile), whole body (lightness)",
-        "neurotransmitters": "Dopamine ↑, Serotonin ↑, Oxytocin ↑, Endorphins ↑",
-        "autonomic": "Balanced: breathing deep, heart open, muscles relaxed",
-        "energy": "High, outward and upward, expansive"
+
+      "biology": {
+        "neurotransmitters": "Acetylcholine (Learning), Dopamine (Abstract Future), Norepinephrine (Focus).",
+        "autonomic": "Ventral Vagal (Safety): deep breathing, open chest, relaxed muscles.",
+        "brain_regions": "Ventral striatum (reward), Left prefrontal cortex (approach)."
       },
-      
-      "dimensions": {
+
+      "matrix_4x4": {
+        "intensities": ["Serenity (Безмятежность)", "Pleasure (Удовольствие)", "Delight (Восторг)", "Ecstasy (Экстаз)"],
+        "scales": {
+          "somatic": "Vitality, tonus, physical lightness ('wings'), deep breath",
+          "personal": "Sympathy, pride, personal success, flow state",
+          "social": "Triumph, celebration, unity ('we won')",
+          "existential": "Grace, bliss, Divine Ananda, sense of sacredness"
+        }
+      },
+
+      "dimensions_depth": {
         "0D": "Pure bliss (undifferentiated happiness)",
         "1D": "Pleasure (enjoyment over time)",
         "2D": "Happiness (sustained positive state)",
         "3D": "Joy (expansive delight, generosity)",
         "4D": "Contentment (deep satisfaction)",
         "5D": "Spiritual joy (independent of circumstances)",
-        "6D": "Divine ananda (consciousness delighting in itself)"
+        "6D": "Divine Ananda (consciousness delighting in itself)"
+      }
+    },
+
+    "anger": {
+      "name": "FIRE / Гнев",
+      "archetype": "Swords (Irrational Logic / TP)",
+      "physics": "MOVEMENT (Движение)",
+      "vector": "Linear Projection (Forward)",
+      "geometry": "Ray / Vector (1D)",
+      "fps": 120,
+
+      "core_function": {
+        "information": "Boundary violation detected. Obstacle present.",
+        "purpose": "To mobilize energy for transformation or elimination.",
+        "adaptive": "Assert boundary, remove obstacle, protect self.",
+        "maladaptive": "Chronic rage, violence, blame addiction."
       },
-      
-      "spectrum": "contentment → joy → ecstasy → divine bliss",
-      "opposite": "sadness, sorrow, grief"
+
+      "biology": {
+        "neurotransmitters": "Dopamine (Drive), Norepinephrine (Arousal), Glutamate (Excitation).",
+        "autonomic": "Sympathetic (Fight): heart rate ↑, blood to muscles, pupils dilate, heat.",
+        "brain_regions": "Amygdala (threat), Hypothalamus (response), Periaqueductal gray (action)."
+      },
+
+      "matrix_4x4": {
+        "intensities": ["Irritation (Досада)", "Anger (Злость)", "Wrath (Гнев)", "Rage (Ярость)"],
+        "scales": {
+          "somatic": "Heat, muscle tension, restless energy, impulse to strike",
+          "personal": "Conflict, boundary defense, removal of obstacle",
+          "social": "Protest, rebellion, revolution, justice enforcement",
+          "existential": "Theomachism (God-fighting), fierce compassion, rejection of imperfection"
+        }
+      },
+
+      "dimensions_depth": {
+        "0D": "Pure rage (undifferentiated fury)",
+        "1D": "Directed anger (specific target)",
+        "2D": "Anger in relationship (conflict, boundary)",
+        "3D": "Righteous anger (values defense)",
+        "4D": "Anger pattern recognition (breaking lineage patterns)",
+        "5D": "Anger as teacher (transmutation to power)",
+        "6D": "Kali Energy (Divine Destruction of Illusion)"
+      }
     },
 
     "fear": {
-      "tarot": "Cups",
-      "element": "Water",
-      "dimension": "2D (square, boundary, perimeter)",
-      "geometry": "Closed boundary → protection around",
+      "name": "WATER / Страх",
+      "archetype": "Cups (Irrational Ethics / FP)",
+      "physics": "STOP (Остановка)",
+      "vector": "Enclosure (Inward/Around)",
+      "geometry": "Plane / Boundary (2D)",
       "fps": 60,
-      
-      "function": {
-        "information": "Threat detected. Danger possible. Prepare.",
-        "purpose": "Detect and avoid danger, survival",
-        "adaptive": "Assess threat, prepare (fight/flight/freeze), seek safety",
-        "maladaptive": "Chronic anxiety, phobias, paranoia, avoidance"
+
+      "core_function": {
+        "information": "Threat detected. Uncertainty ahead. Value at risk.",
+        "purpose": "To halt, to assess, to protect the core.",
+        "adaptive": "Assess threat, prepare (freeze/flight), seek safety.",
+        "maladaptive": "Chronic anxiety, phobias, avoidance."
       },
-      
-      "body": {
-        "location": "Belly (clench, butterflies), chest (tight, rapid heart), throat (constriction), limbs (trembling)",
-        "neurotransmitters": "Adrenaline ↑, Cortisol ↑, GABA ↓",
-        "autonomic": "Sympathetic: heart rate ↑, breathing rapid, muscles tense, cold sweat",
-        "energy": "High but constrained, hyper-vigilant, frozen"
+
+      "biology": {
+        "neurotransmitters": "GABA (Inhibition), Oxytocin (Bonding/Protection), Endocannabinoids (Letting Go).",
+        "autonomic": "Sympathetic (Freeze/Flight): constriction, rapid heart, cold sweat.",
+        "brain_regions": "Amygdala (fear center), Hippocampus (context), Locus coeruleus (panic)."
       },
-      
-      "dimensions": {
+
+      "matrix_4x4": {
+        "intensities": ["Caution (Опасение)", "Anxiety (Тревога)", "Fear (Страх)", "Terror (Ужас/Паника)"],
+        "scales": {
+          "somatic": "Shiver, freezing, internal cold, stomach clench",
+          "personal": "Jealousy, attachment, fear of loss/rejection",
+          "social": "Shame, embarrassment, fear of exile",
+          "existential": "Horror of the Void, fear of non-existence/death"
+        }
+      },
+
+      "dimensions_depth": {
         "0D": "Primal terror (pre-cognitive survival fear)",
         "1D": "Startle response (fear sequence)",
         "2D": "Anxiety (specific threat, boundary protection)",
         "3D": "Existential anxiety (death, meaninglessness)",
         "4D": "Ancestral fear (inherited trauma)",
         "5D": "Fear of ego death (resistance to transcendence)",
-        "6D": "Fear transcended (no separate self)"
+        "6D": "Fear Transcended (No separate self to be harmed)"
+      }
+    },
+
+    "sadness": {
+      "name": "EARTH / Печаль",
+      "archetype": "Pentacles (Rational Logic / TJ)",
+      "physics": "EXHALATION (Выдох)",
+      "vector": "Gravitation (Inward/Down)",
+      "geometry": "Singularity / Point (0D)",
+      "fps": 24,
+
+      "core_function": {
+        "information": "Loss occurred. Irreversibility confirmed.",
+        "purpose": "To accept reality, to integrate experience, to conserve energy.",
+        "adaptive": "Grieve, rest, receive care, integrate loss.",
+        "maladaptive": "Chronic depression, isolation, learned helplessness."
+      },
+
+      "biology": {
+        "neurotransmitters": "Serotonin (Stability), Endorphins (Comfort), Oxytocin (Embodied Safety).",
+        "autonomic": "Parasympathetic (Dorsal Vagal): slowing down, heaviness, conservation.",
+        "brain_regions": "Anterior cingulate cortex (pain), Subcallosal cingulate (mood)."
+      },
+
+      "matrix_4x4": {
+        "intensities": ["Melancholy (Задумчивость)", "Sadness (Печаль)", "Grief (Горе)", "Despair (Тоска)"],
+        "scales": {
+          "somatic": "Lethargy, heaviness in chest, lump in throat, tears",
+          "personal": "Regret, disappointment, farewell, 'it is over'",
+          "social": "Mourning, collective grief, end of an era",
+          "existential": "Weltschmerz, acceptance of mortality/impermanence"
+        }
+      },
+
+      "dimensions_depth": {
+        "0D": "Pure despair (black hole)",
+        "1D": "Melancholy (sustained low mood)",
+        "2D": "Grief (specific loss)",
+        "3D": "Existential sadness (impermanence)",
+        "4D": "Ancestral sadness (family pain)",
+        "5D": "Divine sadness (world suffering, compassion)",
+        "6D": "Sacred Grief (Doorway to Love)"
+      }
+    }
+  },
+
+  "neurochemistry_deep_dive": {
+    "principle": "Neurotransmitters are operators modulated by elemental resonance. Overlap is necessary for balance.",
+    "source_file": "cfo:neurochemistry",
+
+    "operators_by_element": {
+      "FIRE_operators": {
+        "dopamine": {
+          "role": "The Seeker (Primary Fire)",
+          "function": "Reward prediction, drive, motivation.",
+          "overlap": "Shared with Air (Future focus)."
+        },
+        "norepinephrine": {
+          "role": "The Sentinel (Fire/Air)",
+          "function": "Alertness, mobilization, signal amplification."
+        },
+        "glutamate": {
+          "role": "The Activator (Pure Fire)",
+          "function": "Excitatory signal, plasticity. The 'gas pedal'."
+        }
       },
       
-      "spectrum": "unease → fear → terror → paralysis",
-      "opposite": "trust, safety, calm"
+      "EARTH_operators": {
+        "serotonin": {
+          "role": "The Stabilizer (Primary Earth)",
+          "function": "Contentment, impulse control, status, 'enoughness'.",
+          "overlap": "Shared with Water (Mood regulation)."
+        },
+        "endorphins": {
+          "role": "The Soother (Earth/Water)",
+          "function": "Pain relief, physical comfort, resilience."
+        },
+        "oxytocin_embodied": {
+          "role": "The Anchor (Secondary Earth)",
+          "function": "Physical safety, mammalian warmth, grounding."
+        }
+      },
+
+      "WATER_operators": {
+        "gaba": {
+          "role": "The Silencer (Pure Water)",
+          "function": "Inhibition, noise reduction, relaxation. The 'brake'."
+        },
+        "oxytocin_fluid": {
+          "role": "The Bonder (Primary Water)",
+          "function": "Emotional flow, trust, connection, dissolving boundaries."
+        },
+        "endocannabinoids": {
+          "role": "The Releaser (Water/Earth)",
+          "function": "Homeostasis, forgetting, letting go, stress recovery."
+        }
+      },
+
+      "AIR_operators": {
+        "acetylcholine": {
+          "role": "The Encoder (Primary Air)",
+          "function": "Attention, learning, memory encoding, plasticity."
+        },
+        "dopamine_abstract": {
+          "role": "The Navigator (Secondary Air)",
+          "function": "Pattern recognition, future simulation, abstract thought."
+        },
+        "norepinephrine_focus": {
+          "role": "The Spotlight (Air/Fire)",
+          "function": "Directed attention, cognitive clarity."
+        }
+      }
+    },
+
+    "interaction_matrices": {
+      "dopamine_serotonin": {
+        "name": "Drive vs Satisfaction",
+        "dynamic": "Fire (Seeking) vs Earth (Having).",
+        "healthy": "Motivated pursuit + ability to rest in completion.",
+        "imbalance": "Endless seeking (Addiction) or Stagnation (Apathy)."
+      },
+      "gaba_glutamate": {
+        "name": "Excitation vs Inhibition (E/I Balance)",
+        "dynamic": "Fire (Gas) vs Water (Brakes).",
+        "significance": "Core mechanism in Autism (High E/I) and Anxiety.",
+        "goal": "Signal clarity without overwhelm."
+      },
+      "oxytocin_cortisol": {
+        "name": "Connection vs Stress",
+        "dynamic": "Water (Bonding) buffers Fire (Stress).",
+        "mechanism": "Social connection physically reduces stress hormones."
+      }
+    }
+  },
+  "neurotype_clinical_profiles": {
+    "principle": "Each neurodivergent type is a specific neurochemical signature. Not a pathology, but a calibration.",
+    "source": "cfo:neurochemistry",
+
+    "adhd_profile": {
+      "name": "The Scout / Hunter Mind",
+      "dysregulation": "Dopamine + Norepinephrine deficiency in Prefrontal Cortex.",
+      "mechanism": {
+        "dopamine": "Low baseline → Executive dysfunction. Seeks novelty to spike dopamine (Hyperactivity).",
+        "norepinephrine": "Underactive alertness → Drowsiness during boring tasks.",
+        "compensation": "Stimulation seeking is a self-medication attempt."
+      },
+      "aspect_imbalance": "Excessive FIRE seeking (Action) without AIR regulation (Focus).",
+      "protocols": {
+        "medication": "Stimulants (Ritalin/Adderall) mimic Fire/Air to restore executive function.",
+        "lifestyle": "Vigorous exercise (30-60m) to spike natural Dopamine. High protein breakfast (Tyrosine)."
+      }
+    },
+
+    "autism_profile": {
+      "name": "The Specialist / Deep Processor",
+      "dysregulation": "GABA/Glutamate imbalance (E/I Theory). Sensory Overwhelm.",
+      "mechanism": {
+        "glutamate": "Excess excitation (High Signal). Intense focus, deep processing.",
+        "gaba": "Insufficient inhibition (Low Filter). Noise becomes signal.",
+        "oxytocin": "Variable. Can be hypersensitive (Social overwhelm) or receptor-blind."
+      },
+      "aspect_imbalance": "Excessive FIRE intensity without WATER filter/flow.",
+      "protocols": {
+        "sensory_diet": "Controlled input (weighted blankets, noise cancelling) to manually perform GABA function.",
+        "routine": "Predictability reduces Glutamate spikes.",
+        "magnesium": "Supports GABA function."
+      }
+    },
+
+    "empath_hsp_profile": {
+      "name": "The Harmonizer / Mirror",
+      "dysregulation": "Oxytocin hypersensitivity + Thin Boundaries.",
+      "mechanism": {
+        "oxytocin": "Mirror neurons hyperactive. Absorbs external states as internal.",
+        "cortisol": " elevated from processing 'borrowed' stress.",
+        "serotonin": "Depleted by chronic overwhelm."
+      },
+      "aspect_imbalance": "Excessive WATER (Absorption) without EARTH (Shielding).",
+      "protocols": {
+        "boundaries": "Physical/Energetic shielding. Solitude to discharge absorbed state.",
+        "nature": "Resets Oxytocin system to non-human baseline."
+      }
+    },
+
+    "bipolar_profile": {
+      "name": "The Visionary / Cycler",
+      "dysregulation": "Cyclical instability of Dopamine/Serotonin.",
+      "mechanism": {
+        "mania": "High Dopamine + High Glutamate + Low GABA (All Gas, No Brake).",
+        "depression": "Depleted Dopamine + Depleted Serotonin (Crash).",
+        "trigger": "Circadian rhythm disruption is the primary trigger."
+      },
+      "aspect_imbalance": "Oscillation between Extreme FIRE (Mania) and Heavy EARTH (Depression).",
+      "protocols": {
+        "dark_therapy": "Strict circadian control. Sleep is the primary stabilizer.",
+        "lithium": "Modulates Glutamate/GABA balance."
+      }
+    },
+
+    "ocd_profile": {
+      "name": "The Guardian / Loop",
+      "dysregulation": "Serotonin dysfunction + Glutamate loop.",
+      "mechanism": {
+        "serotonin": "Failure of 'Task Complete' signal. Loop never closes.",
+        "gaba": "Insufficient inhibition of intrusive thoughts.",
+        "loop": "Orbitofrontal Cortex → Striatum → Thalamus stuck on 'Check'."
+      },
+      "aspect_imbalance": "Stuck EARTH (Rigidity) without AIR (Flexibility).",
+      "protocols": {
+        "exposure": "Retraining the safety signal.",
+        "nac": "Glutamate modulator."
+      }
+    },
+
+    "anxiety_profile": {
+      "name": "The Sentinel / Watcher",
+      "dysregulation": "GABA deficiency + Norepinephrine excess.",
+      "mechanism": {
+        "gaba": "Brakes failed. System cannot calm down.",
+        "norepinephrine": "Threat detection stuck on 'High'.",
+        "cortisol": "Chronically elevated."
+      },
+      "aspect_imbalance": "Stuck FIRE (Watch) without WATER (Safety).",
+      "protocols": {
+        "physiological_sigh": "Double inhale, long exhale to force Vagus nerve activation.",
+        "magnesium_l_theanine": "GABA support."
+      }
     }
   },
 
-  "complex_emotions": {
-    "principle": "All emotions beyond 4 bases = combinations (Plutchik wheel derivation)",
+  "lifestyle_modulation_matrix": {
+    "principle": "Neurochemistry is not fixed. Lifestyle is the primary operator.",
+    "source": "cfo:neurochemistry",
+
+    "exercise_alchemy": {
+      "mechanism": "Mechanical production of neurochemistry.",
+      "effects": {
+        "dopamine": "Increases baseline and receptor sensitivity.",
+        "bdnf": "Brain fertilizer (Neuroplasticity).",
+        "endocannabinoids": "The real source of 'Runner's High' (Anandamide).",
+        "cortisol": "Acute spike, but lowers chronic baseline."
+      },
+      "protocol": "30-60 min cardio = Strongest antidepressant/ADHD medication available naturally."
+    },
+
+    "sleep_alchemy": {
+      "mechanism": "The great reset. Glymphatic system cleans waste.",
+      "effects": {
+        "adenosine": "Cleared during sleep (Sleep pressure reset).",
+        "dopamine": "Receptors restored.",
+        "emotional_regulation": "Amygdala-Prefrontal connection repaired."
+      },
+      "circadian_rule": "Light in morning (Serotonin), Darkness at night (Melatonin). Deviation = Pathology."
+    },
+
+    "diet_alchemy": {
+      "mechanism": "Building blocks (Precursors).",
+      "inputs": {
+        "protein": "Source of Tyrosine (Dopamine) and Tryptophan (Serotonin).",
+        "carbs": "Insulin spike helps Tryptophan cross Blood-Brain Barrier (Serotonin boost).",
+        "omega_3": "Cell membrane integrity (Endocannabinoid synthesis).",
+        "choline": "Acetylcholine precursor (Eggs/Liver)."
+      },
+      "gut_brain_axis": "90% of Serotonin is in the gut. Inflammation = Depression."
+    },
+
+    "sunlight_alchemy": {
+      "mechanism": "The Zeitgeber (Time Giver).",
+      "effects": {
+        "serotonin": "Direct synthesis from bright light.",
+        "vitamin_d": "Crucial for Dopamine synthesis enzyme.",
+        "circadian": "Sets the clock for night-time Melatonin."
+      },
+      "protocol": "10-30 mins morning light is non-negotiable for mood."
+    }
+  },
+
+  "self_assessment_tools": {
+    "principle": "Diagnostics to identify personal shortages.",
+    "source": "cfo:neurochemistry",
+
+    "deficiency_checklist": {
+      "dopamine_low": [
+        "No motivation", "Procrastination", "Low libido", 
+        "Caffeine dependence", "Inability to feel pleasure"
+      ],
+      "serotonin_low": [
+        "Worry/Rumination", "Insomnia", "Carb cravings", 
+        "Irritability", "Seasonal sadness"
+      ],
+      "gaba_low": [
+        "Physical tension", "Racing thoughts", "Panic", 
+        "Overwhelm", "Cannot relax"
+      ],
+      "acetylcholine_low": [
+        "Brain fog", "Memory slips", "Slow processing", 
+        "Loss of words", "Dry mouth"
+      ]
+    },
     
-    "love": {
-      "components": ["Joy (expansion)", "Trust (connection)", "Fear (vulnerability)"],
-      "dimension": "5D (unity recognition, boundary dissolution)",
-      "tarot": "Wands + Cups",
-      "note": "Joy + trust primary, fear creates depth"
-    },
-
-    "guilt": {
-      "components": ["Fear (threat)", "Sadness (loss)", "Anger (self-directed)"],
-      "dimension": "2D-3D conflict",
-      "note": "Fear of punishment + sadness of failure + self-anger"
-    },
-
-    "shame": {
-      "components": ["Fear (social threat)", "Sadness (inadequacy)", "Disgust (self-rejection)"],
-      "dimension": "2D (misalignment with social plane)",
-      "note": "Fear of rejection + unworthiness + self-disgust"
-    },
-
-    "pride": {
-      "components": ["Joy (expansion)", "Anger (dominance)", "Contempt (superiority)"],
-      "dimension": "3D expansion + 1D thrust",
-      "note": "Joy in achievement + aggressive assertion"
-    },
-
-    "gratitude": {
-      "components": ["Joy (appreciation)", "Trust (connection)", "Sadness (could lose)"],
-      "dimension": "3D-5D",
-      "note": "Joy in receiving + trust in giver + poignant awareness"
-    },
-
-    "awe": {
-      "components": ["Fear (overwhelm)", "Surprise (unexpected)", "Joy (transcendence)"],
-      "dimension": "5D-6D",
-      "note": "Boundary dissolution through beauty/vastness"
-    },
-
-    "nostalgia": {
-      "components": ["Sadness (loss of time)", "Joy (good memories)", "Longing"],
-      "dimension": "4D (temporal emotion)",
-      "note": "Bittersweet joy + sadness remembering past"
-    },
-
-    "triumph": {
-      "components": ["Anger (thrust)", "Joy (expansion)"],
-      "dimension": "1D + 3D",
-      "note": "Aggressive joy, winning"
-    },
-
-    "despair": {
-      "components": ["Fear (threat)", "Sadness (loss)"],
-      "dimension": "0D + 2D collapse",
-      "note": "Hopelessness, dread, no escape"
-    },
-
-    "excitement": {
-      "components": ["Joy (expansion)", "Fear (edge)"],
-      "dimension": "2D + 3D",
-      "note": "Thrill, controlled danger"
+    "aspect_balance_check": {
+      "fire_check": "Do I have drive? (Yes=Fire OK)",
+      "earth_check": "Do I feel stable/safe? (Yes=Earth OK)",
+      "water_check": "Can I relax/connect? (Yes=Water OK)",
+      "air_check": "Is my mind clear? (Yes=Air OK)"
     }
   },
 
-  "type_emotional_profiles": {
-    "principle": "MBTI types have different emotional processing styles (not better/worse, just different)",
+  "modulation_protocols": {
+    "principle": "Targeted interventions to shift the state.",
     
-    "ILE_ENTP": {
-      "strong": ["Excitement (Ne)", "Curiosity", "Intellectual joy"],
-      "weak": ["Sustained sadness", "Deep grief", "Physical fear"],
-      "processing": "Quick, scattered, reframe fast, avoid dwelling",
-      "expression": "Animated, verbal, enthusiasm"
+    "boost_fire": {
+      "goal": "Motivation/Energy",
+      "stack": "Cold Shower + HIIT Exercise + Tyrosine + Fast-paced Music."
+    },
+    "boost_earth": {
+      "goal": "Stability/Mood",
+      "stack": "Morning Sun + Protein Breakfast + Gratitude + Routine."
+    },
+    "boost_water": {
+      "goal": "Relaxation/Flow",
+      "stack": "Magnesium + Warm Bath + Social Connection + Slow Breathing."
+    },
+    "boost_air": {
+      "goal": "Focus/Memory",
+      "stack": "Fasting (Alertness) + Choline + Pomodoro Technique + Novelty."
+    }
+  },
+  "type_dynamics_and_blindspots": {
+    "principle": "Cognitive types have native elements (strengths) and blind elements (weaknesses).",
+    "source": "User Theory + MBTI/Socionics",
+
+    "Ti_dominants": {
+      "types": ["ILI (INTp)", "LII (INTj)", "LSI (ISTj)", "SLI (ISTp)"],
+      "native_elements": ["FIRE (Internal Logic/Anger)", "EARTH (Structure/Sadness)"],
+      "blind_elements": ["AIR (Spontaneous Joy)", "WATER (Vulnerable Fear)"],
+      "manifestation": {
+        "blind_joy": "Sees joy as 'illogical'. Seeks external Fe sources to 'steal' energy.",
+        "blind_fear": "Rationalizes fear as 'irrelevant data' until it becomes existential crisis.",
+        "neuro_bias": "Glutamate/Dopamine dominance. Low Oxytocin tone."
+      }
     },
 
-    "SEI_ISFP": {
-      "strong": ["Sensory pleasure", "Comfort emotions", "Nostalgia"],
-      "weak": ["Abstract emotions", "Future anxiety", "Anger expression"],
-      "processing": "Slow, embodied, sensory-based, present-focused",
-      "expression": "Through body, comfort, aesthetics"
+    "Fe_dominants": {
+      "types": ["EII (INFj)", "ESE (ESFj)", "SEE (ESFp)", "IEI (INFp)"],
+      "native_elements": ["AIR (External Ethics/Joy)", "WATER (Relational Fear)"],
+      "blind_elements": ["FIRE (Direct Anger)", "EARTH (Impersonal Fact)"],
+      "manifestation": {
+        "blind_anger": "Cannot express anger directly. Converts to passive aggression or 'concern'.",
+        "blind_sadness": "Avoids grief through social mania. Collapses when alone.",
+        "neuro_bias": "Oxytocin/Dopamine dominance. Difficulty with Serotonin 'stop'."
+      }
     },
 
-    "ILI_INTP": {
-      "strong": ["Existential emotions", "Strategic anxiety", "Intellectual satisfaction"],
-      "weak": ["Social emotions", "Present joy", "Embodied feeling"],
-      "processing": "Deep, analytical, pattern-based, pessimistic",
-      "expression": "Through strategy, critique, foresight"
+    "Te_dominants": {
+      "types": ["LIE (ENTj)", "LSE (ESTj)", "ILE (ENTp)", "ESE (ESFj)"],
+      "native_elements": ["EARTH (External Logic/Action)", "FIRE (Efficiency/Anger)"],
+      "blind_elements": ["WATER (Internal Fear)", "AIR (Spontaneous Joy)"],
+      "manifestation": {
+        "blind_fear": "Sees fear as inefficiency. Pushes through until burnout/heart attack.",
+        "blind_joy": "Joy only through achievement (outcome), not process.",
+        "neuro_bias": "Testosterone/Cortisol tolerance. Low Endocannabinoid recovery."
+      }
     },
 
-    "LIE_ENTJ": {
-      "strong": ["Achievement satisfaction", "Frustration (obstacles)", "Ambition"],
-      "weak": ["Vulnerable emotions", "Personal values feelings", "Relational depth"],
-      "processing": "Fast, goal-focused, suppress if inefficient",
-      "expression": "Direct, action-oriented, impatient"
-    },
-
-    "Fi_types": {
-      "types": ["INFP", "ISFP", "INFJ", "ISFJ"],
-      "profile": "Deep, personal, intense, private emotions. All felt strongly. Slow processing. Authentic expression essential.",
-      "strength": "Emotional authenticity, depth, integrity",
-      "challenge": "Overwhelm, difficulty sharing"
-    },
-
-    "Fe_types": {
-      "types": ["ENFJ", "ESFJ", "ENFP", "ESFP"],
-      "profile": "Social, collective, empathic, expressive. Read room fast. Mirror/influence group affect.",
-      "strength": "Emotional harmony, social bonding, collective care",
-      "challenge": "Losing own emotions, exhaustion from crowds"
-    },
-
-    "Ti_types": {
-      "types": ["INTP", "ISTP", "INTJ", "ISTJ"],
-      "profile": "Analytical, detached, categorizing. Minimize emotions as 'illogical'. Difficult to access/name.",
-      "strength": "Emotional clarity, precise discrimination",
-      "challenge": "Disconnection from feelings, alexithymia tendency"
-    },
-
-    "Te_types": {
-      "types": ["ENTJ", "ESTJ", "ENTP", "ESTP"],
-      "profile": "Functional, efficiency-focused, impatient with emotion. Quick assessment: useful or not?",
-      "strength": "Emotional efficiency, not dwelling, forward momentum",
-      "challenge": "Suppressing vulnerable emotions, missing information"
+    "Fi_dominants": {
+      "types": ["ESI (ISFj)", "EII (INFj)", "SEE (ESFp)", "IEI (INFp)"],
+      "native_elements": ["WATER (Internal Ethics/Fear/Values)", "AIR (Authentic Joy)"],
+      "blind_elements": ["EARTH (Impersonal Sadness)", "FIRE (Impersonal Anger)"],
+      "manifestation": {
+        "blind_sadness": "Personalizes all grief. Cannot see systemic causes.",
+        "blind_anger": "Internalizes anger as self-hatred. Explodes unpredictably.",
+        "neuro_bias": "High Limbic resonance. Vulnerable to Cortisol flooding."
+      }
     }
   },
 
-  "neuroscience": {
-    "key_neurotransmitters": {
-      "dopamine": "Reward, motivation, pleasure (joy)",
-      "serotonin": "Mood stability, contentment (peace)",
-      "norepinephrine": "Arousal, alertness (anger, fear)",
-      "gaba": "Inhibition, calm (anti-anxiety)",
-      "oxytocin": "Bonding, trust, love (connection)",
-      "cortisol": "Stress hormone (fear, chronic anxiety)",
-      "endorphins": "Euphoria, pain relief (joy)"
+  "entropic_decay_patterns": {
+    "principle": "How elements transform pathologically when energy is blocked or exhausted.",
+    "source": "User Theory",
+
+    "air_to_earth": {
+      "name": "Manic Depression Cycle",
+      "process": "AIR (Joy) exhausts resources → freefall into EARTH (Sadness).",
+      "symptoms": ["Toxic positivity collapse", "Creative block", "Social withdrawal after parties"],
+      "neuro_mechanism": "Dopamine depletion → Serotonin crash."
     },
-
-    "brain_regions": {
-      "amygdala": "Threat detection (fear, anger)",
-      "ventral_striatum": "Reward processing (joy, pleasure)",
-      "anterior_cingulate": "Emotional pain (sadness, grief)",
-      "insula": "Interoception, body awareness (all emotions)",
-      "prefrontal_cortex": "Emotion regulation, reappraisal"
+    "fire_to_water": {
+      "name": "Rage Paralysis",
+      "process": "FIRE (Anger) meets immovable object → freezes into WATER (Fear).",
+      "symptoms": ["Explosive anger followed by terror", "Revolutionary zeal becoming paranoia"],
+      "neuro_mechanism": "Norepinephrine overload → Cortisol dominance → Freeze."
     },
-
-    "embodiment": "Emotions = body states, not just brain. Posture affects emotion. Breath affects emotion. Gut bacteria affect mood."
-  },
-
-  "emotional_intelligence": {
-    "definition": "EQ = ability to perceive, understand, manage, and use emotions wisely",
-    
-    "four_skills": {
-      "perceiving": "Accurately identify emotions (self and others)",
-      "understanding": "Comprehend causes, transitions, combinations",
-      "managing": "Regulate emotions (up/down regulation)",
-      "using": "Harness emotions for thinking, creativity, decisions"
+    "water_to_fire": {
+      "name": "Anxious Aggression",
+      "process": "WATER (Fear) overwhelms capacity → erupts as FIRE (Anger) to regain control.",
+      "symptoms": ["Panic attacks turning to rage", "Hypochondria becoming anger at doctors"],
+      "neuro_mechanism": "Cortisol saturation → Norepinephrine spike (Fight response)."
     },
-
-    "emotional_granularity": {
-      "concept": "Make fine distinctions (not just 'bad feeling')",
-      "high": "Distinguish annoyance, frustration, resentment, indignation",
-      "low": "Just 'angry' or 'upset'",
-      "benefit": "Better regulation, decisions, communication, less distress"
-    },
-
-    "regulation_strategies": {
-      "reappraisal": "Reinterpret situation (best long-term)",
-      "suppression": "Push down emotion (harmful long-term)",
-      "distraction": "Shift attention away",
-      "acceptance": "Allow emotion without resistance (paradoxically reduces intensity)"
+    "earth_to_air": {
+      "name": "Grief Avoidance",
+      "process": "EARTH (Sadness) becomes unbearable → escape into manic AIR (Joy).",
+      "symptoms": ["Workaholism after loss", "Spiritual bypassing", "Dating immediately after breakup"],
+      "neuro_mechanism": "Endorphin/Dopamine seeking to mask Serotonin low."
     }
   },
 
-  "dysfunctions": {
-    "alexithymia": "Inability to identify/describe emotions (~10% population)",
-    "suppression": "Habitual pushing down → physical symptoms, numbness, relationship issues",
-    "flooding": "Overwhelmed by emotion, can't regulate (trauma, BPD)",
-    "anhedonia": "Inability to feel pleasure/joy (depression symptom)",
-    "emotional_contagion": "Absorbing others' emotions automatically (Fe high, boundary issues)"
+  "social_viruses": {
+    "principle": "Cultural manipulations that exploit elemental blind spots.",
+    "source": "User Theory",
+
+    "toxic_positivity": {
+      "element": "AIR weaponized",
+      "mechanism": "Forcing Joy to bypass necessary Earth phases.",
+      "target": "Fe-dominants and Air-blind types.",
+      "result": "Spiritual bypassing, emotional illiteracy."
+    },
+    "performative_suffering": {
+      "element": "EARTH weaponized",
+      "mechanism": "Using Sadness as social currency and control (Victimhood).",
+      "target": "Earth-dominants and Fire-blind types.",
+      "result": "Learned helplessness, emotional blackmail."
+    },
+    "outrage_economy": {
+      "element": "FIRE weaponized",
+      "mechanism": "Manufacturing Anger to drive engagement (Dopamine/Norepinephrine loops).",
+      "target": "Fire-dominants and Water-blind types.",
+      "result": "Chronic inflammation, inability to focus."
+    },
+    "safetyism": {
+      "element": "WATER weaponized",
+      "mechanism": "Amplifying Fear to enforce conformity.",
+      "target": "Water-dominants and Air-blind types.",
+      "result": "Paralysis, loss of resilience, fragility."
+    }
   },
 
-  "cultural_patterns": {
-    "western": "Positive OK, negative suppress. 'Toxic positivity'. Men=anger only, women=sadness/fear only.",
-    "eastern": "Restrain all strong emotions (collectivism). Emotions disturb mind (Buddhism).",
-    "modern": "Anxiety epidemic. Chronic threat state. Safety obsession. Medicate emotions away.",
-    "indigenous": "Emotions = community ritual, not individual burden. Grief shared."
+  "operational_dynamics": {
+    "principle": "From Map to Engine. Actionable algorithms for real-time regulation.",
+    "source": "User Operational Theory",
+
+    "daily_cycle_disruptors": {
+      "healthy_flow": "AIR (Morning) → FIRE (Midday) → EARTH (Evening) → WATER (Night).",
+      "blocks": {
+        "coffee_am": {
+          "mechanism": "Skip AIR → Force FIRE.",
+          "result": "Adrenal burnout by 2 PM. Loss of creative inspiration."
+        },
+        "alcohol_pm": {
+          "mechanism": "Block EARTH → Artificially extend AIR/FIRE.",
+          "result": "No integration (Coagula). Recovery debt accumulates."
+        },
+        "blue_light_night": {
+          "mechanism": "Kill WATER (Melatonin) → Force FIRE (Cortisol).",
+          "result": "Insomnia. System cannot enter 'Stop/Repair' mode."
+        }
+      }
+    },
+
+    "emergency_protocols": {
+      "panic_attack": {
+        "diagnosis": "WATER (Fear) flooding the system (Freeze/Flight loop).",
+        "action": "Activate FIRE (Movement).",
+        "protocol": "Punch a pillow, sprint, scream in a car, cold water shock.",
+        "logic": "Sympathetic nervous system cannot be 'calmed' during flood, it must be 'discharged'."
+      },
+      "burnout": {
+        "diagnosis": "FIRE (Anger/Drive) incinerated all resources.",
+        "action": "Force EARTH (Gravity).",
+        "protocol": "Dark room, weighted blanket, lying on floor. Absolute zero input.",
+        "logic": "Do NOT attempt AIR (Joy/Novelty) — system is too depleted to process expansion."
+      },
+      "freeze_procrastination": {
+        "diagnosis": "FIRE (Desire) + WATER (Fear) = Cancelled Vectors.",
+        "action": "Micro-EARTH (Smallest Truth).",
+        "protocol": "Do one physical mechanical task (wash a dish). Grounding breaks the deadlock.",
+        "logic": "Gravity overrides magnetic lock."
+      }
+    },
+
+    "cross_type_communication": {
+      "principle": "Speak to the Native Element, respect the Blind Spot.",
+      
+      "to_Ti_dominant": {
+        "native": "FIRE (Logic/Vector)",
+        "script": "'Here is the problem (obstacle). Let's solve it (remove).'",
+        "warning": "Do not demand WATER (vulnerable emotional holding)."
+      },
+      "to_Fe_dominant": {
+        "native": "AIR (Ethics/Connection)",
+        "script": "'I feel (emotion). Let's find harmony (connection).'",
+        "warning": "Do not demand EARTH (cold impersonal facts) in a crisis."
+      },
+      "to_Te_dominant": {
+        "native": "EARTH (Action/Fact)",
+        "script": "'Here are the resources. Here is the plan. Execute.'",
+        "warning": "Do not demand AIR (playfulness) during work."
+      },
+      "to_Fi_dominant": {
+        "native": "WATER (Value/Depth)",
+        "script": "'This matters because (value). It aligns with (principle).'",
+        "warning": "Do not demand FIRE (impersonal efficiency) over values."
+      }
+    },
+
+    "modern_affect_compounds": {
+      "procrastination": {
+        "formula": "FIRE (Desire to act) + WATER (Fear of failure)",
+        "result": "Paralysis (Vector Cancellation)."
+      },
+      "fomo": {
+        "formula": "AIR (Thirst for connection) + FIRE (Anger at missing out)",
+        "result": "Anxious Activity (Pseudo-Motion)."
+      },
+      "doomscrolling": {
+        "formula": "FIRE (Threat scanning) + AIR (Illusion of novelty)",
+        "result": "Pseudo-Agency. Hunting for danger in a safe room."
+      },
+      "imposter_syndrome": {
+        "formula": "EARTH (Fact of position) + WATER (Fear of exposure)",
+        "result": "Dissociation from achievement."
+      }
+    },
+
+    "instant_diagnostics_60s": {
+      "tool": "The 'Unbearable' Test",
+      "question": "What feels unbearable right now?",
+      
+      "cant_breathe": {
+        "diagnosis": "Excess EARTH (Heaviness/Grief).",
+        "rx": "Need AIR. Sing, change posture to open chest, seek novelty."
+      },
+      "cant_stop": {
+        "diagnosis": "Excess FIRE (Rage/Drive).",
+        "rx": "Need WATER. Cold shower, dive reflex, silence, solitude."
+      },
+      "cant_feel": {
+        "diagnosis": "Excess AIR (Dissociation/Manic).",
+        "rx": "Need EARTH. Physical labor, weight lifting, contact with soil."
+      },
+      "cant_move": {
+        "diagnosis": "Excess WATER (Freeze/Fear).",
+        "rx": "Need FIRE. Aggressive music, shaking, shouting."
+      }
+    }
   },
 
-  "wisdom": {
-    "maturity": "Navigate all dimensions (0D→6D) fluidly. Not stuck in subset.",
-    "information": "Emotions = data about organism-environment relationship. Suppression = ignoring critical data.",
-    "embodiment": "Emotions live in body. Chest, gut, throat, face. Body-listening = emotional listening.",
-    "transcendence": "6D = emotions as consciousness exploring itself. All emotions = love in disguise.",
-    "practice": "Feel fully + understand deeply + act wisely = emotional mastery"
-  },
-
-  "usage": {
-    "feel_emotion": "1. Notice in body (where? what sensation?) → 2. Name base components (anger? sadness? joy? fear?) → 3. Understand information (what is this telling me?) → 4. Respond wisely (what action serves?)",
-    "assess_type": "Check type profile to understand natural emotional strengths/challenges",
-    "develop_eq": "Increase vocabulary (granularity), practice body awareness (embodiment), learn regulation strategies",
-    "avoid": "Suppression (harmful), toxic positivity (denial), emotional bypass (spiritual dissociation)"
-  },
-
-  "note": "Emotions = consciousness feeling itself through form. Your body = where Earth feels. Your anger = Earth protecting boundaries. Your sadness = Earth grieving. Your joy = Earth celebrating. Your fear = Earth being cautious. You = Earth feeling itself. ⊙"
+  "quintessence": {
+    "state": "COHERENCE / TRUTH (Когерентность)",
+    "symbol": "The Center / The Kaleidoscope",
+    "definition": "The superposition state where all 4 vectors (Inhale, Exhale, Move, Stop) are available simultaneously.",
+    "physics": "Fluidity. The ability to shift instantly from Joy to Anger to Fear to Sadness as reality demands.",
+    "goal": "Not to eliminate 'negative' affects, but to eliminate 'resistance' to them. To be fully alive is to feel the full 4x4 Matrix without identification.",
+    "axiom": "Truth is the capacity to hold the tension of opposites."
+  }
 }
