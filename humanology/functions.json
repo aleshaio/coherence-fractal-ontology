@@ -1,0 +1,932 @@
+{
+  "_meta": {
+    "id": "cfo:socionics:model_a_functions",
+    "type": "Tool",
+    "element": "AETHER",
+    "fractal_depth": 2,
+    
+    "contains": [
+      "cfo:hermetic:octave",
+      "cfo:socionics:eight_aspects",
+      "cfo:socionics:information_metabolism",
+      "cfo:consciousness:function_hierarchy"
+    ],
+    
+    "contained_by": [
+      "cfo:socionics:eight_aspects_octave",
+      "cfo:hermetic:scheme_of_life"
+    ],
+    
+    "related": [
+      "cfo:socionics:intertype_relations",
+      "cfo:astrognosy:16_archetypes",
+      "cfo:psychology:shadow_work"
+    ],
+    
+    "note": "Model A = precise map of how 8 aspects occupy 8 positions in psyche with different consciousness levels. Each position has specific properties, energy dynamics, and developmental arc."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = Each aspect occupies specific position in consciousness architecture, creating unique information processing signature",
+    "essence": "8 aspects × 8 positions = 64 possible aspect-position combinations, but only specific configurations are stable (16 types). Each position determines HOW aspect operates.",
+    "paths": "Ego (conscious mastery) → Super-Ego (performed but costly) → Super-Id (unconscious receptivity) → Id (automatic but devalued)",
+    "positions": "Functions 1-4 in conscious awareness, 5-8 in unconscious. Development = expanding consciousness downward through stack.",
+    "tools": "Understanding function positions reveals why aspects feel easy/hard, where growth is needed, what partners complement."
+  },
+
+  "_links": {
+    "source": "./eight_aspects_octave.json",
+    "parent": "./eight_aspects_octave.json",
+    "children": [
+      "./functions/leading.json",
+      "./functions/creative.json",
+      "./functions/role.json",
+      "./functions/vulnerable.json",
+      "./functions/suggestive.json",
+      "./functions/mobilizing.json",
+      "./functions/ignoring.json",
+      "./functions/demonstrative.json"
+    ]
+  },
+
+  "name": "Model A: The Eight Function Positions",
+  
+  "essence": "Model A describes HOW the 8 aspects operate based on their POSITION in your psyche. Same aspect (e.g., Ne) feels completely different in position 1 vs position 4 vs position 8. Positions 1-2 (Ego) = conscious mastery, positions 3-4 (Super-Ego) = effortful performance, positions 5-6 (Super-Id) = unconscious receptivity, positions 7-8 (Id) = automatic devaluation. Understanding your function stack reveals your consciousness architecture.",
+  
+  "description": "Augustinavičiūtė's Model A is the crown jewel of Socionics - it maps the 8 aspects onto 8 specific positions, each with unique properties. Your type isn't just WHICH aspects you use, but WHERE they sit in your stack. Function 1 (Leading) = your primary reality lens, effortless and trusted. Function 4 (Vulnerable) = your blind spot, painful when attacked. Function 5 (Suggestive) = what you unconsciously seek from others. Function 8 (Demonstrative) = what you can do but don't value. Each position has specific dimensionality (1D to 4D), energy dynamics (accepting/producing), and developmental challenges. Knowing your function positions is like having the source code of your consciousness.",
+
+  "function_positions_overview": {
+    "blocks": {
+      "ego_block": {
+        "positions": [1, 2],
+        "names": ["Leading", "Creative"],
+        "consciousness": "Fully conscious, strongest functions",
+        "energy": "Producing - actively emanate these aspects outward",
+        "experience": "Effortless mastery, trusted completely, core identity",
+        "development": "Already developed, refine quality",
+        "ring": "Mental ring - conscious thought"
+      },
+      
+      "super_ego_block": {
+        "positions": [3, 4],
+        "names": ["Role", "Vulnerable"],
+        "consciousness": "Conscious but weak, requires effort",
+        "energy": "Producing - must push these aspects outward but costs energy",
+        "experience": "Performed when necessary but draining, source of insecurity",
+        "development": "Primary growth area, shadow work required",
+        "ring": "Mental ring - conscious thought but strained"
+      },
+      
+      "super_id_block": {
+        "positions": [5, 6],
+        "names": ["Suggestive", "Mobilizing"],
+        "consciousness": "Unconscious, receptive",
+        "energy": "Accepting - receive these aspects from others gratefully",
+        "experience": "Hunger for these aspects, partners provide them",
+        "development": "Develop by receiving from strong users, then internalizing",
+        "ring": "Vital ring - unconscious desires"
+      },
+      
+      "id_block": {
+        "positions": [7, 8],
+        "names": ["Ignoring", "Demonstrative"],
+        "consciousness": "Unconscious, automatic",
+        "energy": "Accepting - process these aspects automatically but don't value",
+        "experience": "Can use effortlessly but don't care about, others' emphasis annoys",
+        "development": "Already functional, just undervalued - learn to appreciate",
+        "ring": "Vital ring - unconscious processing"
+      }
+    },
+    
+    "dimensionality": {
+      "description": "Each function operates in 1D, 2D, 3D, or 4D information space",
+      "1D": "Single parameter - 'on/off', 'good/bad' - no nuance (function 4: Vulnerable)",
+      "2D": "Two parameters - can compare, adjust, basic competence (functions 3, 5: Role, Suggestive)",
+      "3D": "Three parameters - strategic, situational adaptation, experienced (functions 2, 6: Creative, Mobilizing)",
+      "4D": "Four parameters - complete mastery, temporal dimension, effortless (functions 1, 7, 8: Leading, Ignoring, Demonstrative)",
+      "note": "Higher dimensionality = richer information processing in that aspect"
+    },
+    
+    "energy_flow": {
+      "producing_functions": "Positions 1-4 (Ego + Super-Ego) - you EMANATE these aspects into world",
+      "accepting_functions": "Positions 5-8 (Super-Id + Id) - you RECEIVE these aspects from environment",
+      "consciousness_correlation": "Producing = conscious effort required; Accepting = unconscious processing"
+    }
+  },
+
+  "ego_block_conscious_mastery": {
+    "description": "Positions 1-2: Your conscious identity, strongest functions, effortless mastery",
+    "energy": "Producing - actively shape reality through these aspects",
+    "ring": "Mental ring",
+    
+    "position_1_leading_base": {
+      "name": "Leading Function / Base Function / Program Function",
+      "symbol": "①",
+      "alternative_names": ["Dominant", "Hero", "Primary"],
+      "position": "1st - strongest, most conscious",
+      "dimensionality": "4D - complete mastery across all parameters including time",
+      "energy": "Producing - constantly emanating this aspect",
+      "consciousness": "Fully conscious, automatic, trusted absolutely",
+      "ring": "Mental (conscious)",
+      
+      "essence": "YOUR PRIMARY LENS ON REALITY. This is HOW you perceive and engage with world automatically. You can't NOT use this. It's like breathing - effortless, constant, trusted without question. This function IS your identity in many ways.",
+      
+      "characteristics": {
+        "trust_level": "Absolute - never doubt this function's perception",
+        "effort": "Zero effort - happens automatically like breathing",
+        "valuation": "Highest - this is what you consider most important/real",
+        "development": "Fully developed from childhood, continues refining quality",
+        "fatigue": "Never tires from use - could use 24/7",
+        "correction": "Resists correction - 'I know what I see'",
+        "expression": "Constantly expressed, can't hide it",
+        "confidence": "Total confidence in this domain"
+      },
+      
+      "information_processing": {
+        "input": "Perceives this aspect's information continuously and effortlessly",
+        "processing": "4D - considers all parameters: norm/exception, internal/external, static/dynamic, past/future",
+        "output": "Naturally produces solutions/insights through this aspect",
+        "speed": "Instant - no delay between perception and understanding",
+        "depth": "Deepest - sees layers others miss in this aspect",
+        "breadth": "Widest - notices this aspect everywhere"
+      },
+      
+      "developmental_arc": {
+        "childhood": "Emerges naturally, obvious strength from early age",
+        "youth": "Rapidly develops, becomes more sophisticated",
+        "adulthood": "Fully mature, source of professional success",
+        "elderhood": "Refined to artistry, teaching others",
+        "challenge": "Over-reliance - seeing only through this lens, becoming one-dimensional"
+      },
+      
+      "in_relationships": {
+        "offers": "This is what you naturally GIVE to others - your primary value contribution",
+        "partner_needs": "Dual partner is weak here (it's their Vulnerable) - you provide this effortlessly",
+        "conflict": "If partner criticizes this function, feels like attacking your core identity",
+        "appreciation": "When partner values what you provide here, feels deeply seen"
+      },
+      
+      "examples_by_aspect": {
+        "Ne_leading": "ILE/IEE - sees infinite possibilities automatically, reality = branching probability space, 'but what if...' is constant",
+        "Ni_leading": "ILI/IEI - perceives time/essence automatically, knows how things will unfold, sees through surface to core",
+        "Se_leading": "SLE/SEE - engages material reality through force automatically, reads power dynamics instantly, territory = obvious",
+        "Si_leading": "SEI/LSI - processes through internal sensation automatically, comfort/discomfort = primary data, body always communicating",
+        "Te_leading": "LIE/LSE - optimizes systems automatically, efficiency = obvious reality, sees how to organize everything",
+        "Ti_leading": "LII/SLI - builds logical structures automatically, consistency/inconsistency = glaring, frameworks emerge naturally",
+        "Fe_leading": "ESE/EIE - shapes emotional fields automatically, reads room instantly, collective emotion = primary reality",
+        "Fi_leading": "EII/ESI - perceives relational/moral truth automatically, authenticity/inauthenticity obvious, values = clear"
+      },
+      
+      "shadow_side": {
+        "blindness": "Assume everyone perceives this way - confusion when they don't",
+        "hammer_nail": "Overuse - try to solve all problems through this function",
+        "dismissiveness": "Devalue aspects this function doesn't perceive well",
+        "rigidity": "Resistant to approaches that don't use this function",
+        "growth": "Learn that leading function is ONE lens, not THE lens - develop others consciously"
+      },
+      
+      "recognition_signs": {
+        "conversation": "Constantly references this aspect - talks about it naturally and frequently",
+        "advice": "Advice to others always involves this function - 'have you considered [aspect]?'",
+        "problems": "Solves problems through this lens automatically",
+        "values": "Values people who are strong in this aspect, confused by those weak in it",
+        "career": "Professional success usually involves heavy use of this function"
+      },
+      
+      "meditation": "Your Leading function is your primary gift to world AND your primary limitation. It's the lens you can't remove. Mastery = recognizing it AS lens (not reality itself) while using it skillfully. The Zen is: be the function completely while knowing you're not ONLY the function."
+    },
+    
+    "position_2_creative": {
+      "name": "Creative Function / Implementing Function",
+      "symbol": "②",
+      "alternative_names": ["Auxiliary", "Supporting", "Secondary"],
+      "position": "2nd - very strong, conscious",
+      "dimensionality": "3D - strategic, situational, experienced",
+      "energy": "Producing - actively use to implement",
+      "consciousness": "Fully conscious, deliberate use",
+      "ring": "Mental (conscious)",
+      
+      "essence": "YOUR TOOL FOR IMPLEMENTING what Leading function perceives. If Leading = perception, Creative = action. This is HOW you make things happen, solve problems, create results. Strong and valued, but requires more conscious effort than Leading.",
+      
+      "characteristics": {
+        "trust_level": "High - reliable tool you use consciously",
+        "effort": "Low effort - natural but not automatic like Leading",
+        "valuation": "High - you value this and enjoy using it",
+        "development": "Developed through practice, continues improving",
+        "fatigue": "Can tire with extended use but recovers quickly",
+        "correction": "Open to improvement - will learn better ways to use this",
+        "expression": "Expressed deliberately when needed",
+        "confidence": "Strong confidence, but not absolute like Leading"
+      },
+      
+      "information_processing": {
+        "input": "Perceives this aspect's information when attending to it",
+        "processing": "3D - considers norm/exception, internal/external, static/dynamic (missing time dimension)",
+        "output": "Consciously generates solutions through this aspect",
+        "speed": "Fast but not instant - slight delay for processing",
+        "depth": "Deep - sees nuance and complexity",
+        "breadth": "Wide - applies this aspect flexibly across situations"
+      },
+      
+      "relationship_to_leading": {
+        "supports": "Creative SERVES Leading - implements what Leading perceives",
+        "example_ILE": "Ne (Leading) sees possibilities → Ti (Creative) analyzes which are logical → Ne-Ti loop generates innovative solutions",
+        "example_ESE": "Fe (Leading) perceives emotional field → Si (Creative) creates comfortable sensory experiences → Fe-Si loop generates warm gatherings",
+        "synergy": "Leading-Creative together = your 'power combo', how you operate at peak",
+        "balance": "Mature users alternate fluidly between Leading and Creative as situation demands"
+      },
+      
+      "developmental_arc": {
+        "childhood": "Emerges after Leading, developed through play/experimentation",
+        "youth": "Rapid improvement, becomes reliable tool",
+        "adulthood": "Highly refined, professional competence",
+        "elderhood": "Creative mastery, can teach this aspect",
+        "challenge": "Over-reliance on Ego block (1+2) while neglecting growth in 3-4"
+      },
+      
+      "in_relationships": {
+        "offers": "Secondary gift to others - you provide this consciously and skillfully",
+        "partner_needs": "Dual partner has this in Mobilizing (position 6) - you activate their growth here",
+        "conflict": "Criticism here feels frustrating but not devastating like attacking Leading",
+        "collaboration": "Love working with others strong in your Creative aspect - easy synergy"
+      },
+      
+      "examples_by_aspect": {
+        "Ti_creative": "ILE/SLE - uses logic to implement, analyzes strategically, builds frameworks to support leading function",
+        "Te_creative": "ILI/SEI - organizes efficiently when needed, manifests visions through systems",
+        "Fi_creative": "IEE/SEE - uses personal values strategically, maintains authentic relationships while pursuing goals",
+        "Fe_creative": "IEI/LSI - shapes emotions deliberately, mobilizes groups when needed",
+        "Ne_creative": "LII/ESI - generates alternatives strategically, explores possibilities to support main function",
+        "Ni_creative": "SLE/LSE - uses timing strategically, perceives trajectory to optimize action",
+        "Se_creative": "IEI/EII - engages material world deliberately, takes action when vision requires it",
+        "Si_creative": "ILE/EIE - creates comfort strategically, maintains wellbeing to support exploration/inspiration"
+      },
+      
+      "shadow_side": {
+        "ego_inflation": "Over-identify with Ego block (1+2), think these are only aspects that matter",
+        "dismissing_others": "Devalue types whose Leading is your Ignoring/Demonstrative",
+        "stagnation": "Stop developing functions 3-4 because 1-2 work so well",
+        "partnership_failure": "Choose partners who admire your Ego rather than complement your weaknesses"
+      },
+      
+      "recognition_signs": {
+        "problem_solving": "Default mode = use Creative to implement Leading insights",
+        "career": "Often involves both Leading and Creative heavily",
+        "teaching": "Can teach others about Creative function (unlike Leading which is 'too obvious')",
+        "flexibility": "More flexible with Creative than Leading - willing to try different approaches"
+      },
+      
+      "meditation": "Creative function is your DOING to complement Leading's SEEING. Together they form your conscious power. But beware - the Ego block (1+2) can become a fortress imprisoning you from growth. The path = master your Ego functions while consciously developing Super-Ego (3-4)."
+    }
+  },
+
+  "super_ego_block_conscious_struggle": {
+    "description": "Positions 3-4: Conscious but weak, requiring effort. Source of insecurity and growth.",
+    "energy": "Producing - must push these aspects out but costs tremendous energy",
+    "ring": "Mental ring but strained",
+    
+    "position_3_role": {
+      "name": "Role Function / Normative Function",
+      "symbol": "③",
+      "alternative_names": ["Tertiary", "Relief", "Social"],
+      "position": "3rd - weak but conscious, performable",
+      "dimensionality": "2D - basic competence, can compare and adjust",
+      "energy": "Producing - must perform this but costs energy",
+      "consciousness": "Conscious, deliberate effort required",
+      "ring": "Mental (conscious)",
+      
+      "essence": "YOUR SOCIAL MASK. You CAN perform this aspect when socially required, but it's exhausting. This is how you 'play the role' society expects. Functional but not natural. After extended use, need rest.",
+      
+      "characteristics": {
+        "trust_level": "Low - don't trust your perception here, second-guess yourself",
+        "effort": "High effort - requires concentration and energy",
+        "valuation": "Moderate - know it's important socially but don't deeply value",
+        "development": "Develops through social pressure, improves with conscious practice",
+        "fatigue": "Tires quickly - extended use = exhaustion",
+        "correction": "Desperately wants guidance - how to do this 'right'?",
+        "expression": "Performed when necessary, hidden when possible",
+        "confidence": "Fake confidence - performing but insecure underneath"
+      },
+      
+      "information_processing": {
+        "input": "Perceives this aspect's information when forced to attend",
+        "processing": "2D - can compare (this vs that) and adjust, but lacks strategic depth",
+        "output": "Produces acceptable but generic responses in this aspect",
+        "speed": "Slow - requires conscious processing",
+        "depth": "Shallow - misses nuance that stronger users see",
+        "breadth": "Narrow - applies only to familiar situations"
+      },
+      
+      "social_performance": {
+        "trigger": "Social situations demand this aspect - must perform or face rejection",
+        "example_Ti_role": "Fe-doms (ESE/EIE) must appear logical in professional settings, carefully constructs rational arguments but feels fake",
+        "example_Fe_role": "Ti-doms (LII/SLI) must appear warm in social settings, smiles and expresses but feels like acting",
+        "cost": "Energy drain - extended performance = need for recovery",
+        "relief": "Huge relief when can drop the mask, return to Ego functions"
+      },
+      
+      "developmental_arc": {
+        "childhood": "Weak, avoids this aspect, criticized for inadequacy here",
+        "youth": "Forced to develop through school/social pressure, learns to fake it",
+        "adulthood": "Can perform adequately but still draining, seeks environments where this is less demanded",
+        "elderhood": "Either develops genuine competence (growth) or arranges life to avoid (avoidance)",
+        "challenge": "Developing Role without betraying Leading - finding authentic way to use this aspect"
+      },
+      
+      "in_relationships": {
+        "partner_perception": "Dual partner has this in Demonstrative (position 8) - can do effortlessly but doesn't care",
+        "dynamic": "You struggle where they don't care - source of frustration both ways",
+        "growth": "Healthy relationship = partner shows you this aspect ISN'T that important, permission to relax",
+        "trap": "Choosing partners who demand performance in your Role = exhaustion"
+      },
+      
+      "examples_by_aspect": {
+        "Fe_role": "Ti-doms (LII/SLI) - can be warm when needed but feels fake, social events exhausting",
+        "Fi_role": "Te-doms (LIE/LSE) - can express values when required but prefers systems, personal authenticity feels exposing",
+        "Te_role": "Fi-doms (EII/ESI) - can organize when necessary but resents efficiency demands, prefers heart over process",
+        "Ti_role": "Fe-doms (ESE/EIE) - can be logical when demanded but feels constricting, prefers emotional truth",
+        "Ne_role": "Si-doms (SEI/LSI) - can brainstorm when asked but tiring, prefers comfortable known",
+        "Ni_role": "Se-doms (SLE/SEE) - can be strategic when needed but frustrating, prefers immediate action",
+        "Se_role": "Ni-doms (ILI/IEI) - can take action when demanded but depleting, prefers observation",
+        "Si_role": "Ne-doms (ILE/IEE) - can maintain routine when required but suffocating, prefers novelty"
+      },
+      
+      "shadow_side": {
+        "overcompensation": "Trying too hard to prove competence here, exhausting self",
+        "resentment": "Bitter toward those naturally strong in this aspect - 'easy for you'",
+        "avoidance": "Arranging entire life to avoid situations demanding this function",
+        "projection": "Criticizing others' use of this aspect harshly (because insecure about own)"
+      },
+      
+      "growth_path": {
+        "acceptance": "First step = accept this will NEVER be easy like Leading",
+        "strategic_use": "Learn when it's necessary vs when you're over-performing",
+        "energy_management": "Plan recovery after extended Role performance",
+        "authentic_expression": "Find YOUR way to express this aspect, not copying strong users",
+        "partner_support": "Let dual/strong users handle this domain when possible"
+      },
+      
+      "meditation": "Role function is your MASK. You perform it for world but it costs you. Growth = not refusing to wear mask (that's immature) but knowing when to wear it and when to take it off. Mature users perform Role skillfully when needed, then return to authentic Ego without shame."
+    },
+    
+    "position_4_vulnerable": {
+      "name": "Vulnerable Function / Point of Least Resistance (PoLR) / Painful Function",
+      "symbol": "④",
+      "alternative_names": ["Inferior", "Weak", "Blind Spot", "Achilles Heel"],
+      "position": "4th - weakest, most painful",
+      "dimensionality": "1D - binary, no nuance (good/bad, on/off)",
+      "energy": "Producing - forced to output this but completely exhausted",
+      "consciousness": "Conscious of inadequacy, painful awareness",
+      "ring": "Mental (conscious)",
+      
+      "essence": "YOUR ACHILLES HEEL. This is where you're BLIND and INSECURE. Criticism here feels like existential attack. You can't perceive this aspect's information well, your outputs are primitive (1D: good/bad), and you KNOW you're inadequate here. Most painful function.",
+      
+      "characteristics": {
+        "trust_level": "Zero - completely distrust your perception here",
+        "effort": "Enormous effort - even trying hurts",
+        "valuation": "Negative value - wish this aspect didn't exist/matter",
+        "development": "Develops minimally, always remains weak relative to others",
+        "fatigue": "Instantly exhausting - even brief use = depletion",
+        "correction": "Extremely sensitive - criticism here = deep wound",
+        "expression": "Avoided desperately, hidden when possible",
+        "confidence": "No confidence - paralyzed when this aspect demanded"
+      },
+      
+      "information_processing": {
+        "input": "Barely perceives this aspect's information - like colorblind person looking at colors",
+        "processing": "1D - only binary (good/bad, present/absent) - no nuance whatsoever",
+        "output": "Primitive responses - overreact or underreact, no calibration",
+        "speed": "Extremely slow - deer in headlights when confronted",
+        "depth": "No depth - surface level only",
+        "breadth": "No breadth - applies rigidly, can't adapt"
+      },
+      
+      "painful_dynamics": {
+        "criticism": "Attack here = existential threat, feels like invalidating your entire being",
+        "demands": "When situation REQUIRES this aspect = panic, freeze, or aggression",
+        "comparison": "Seeing others effortlessly use this = shame, envy, resentment",
+        "exposure": "Others noticing your inadequacy here = humiliation",
+        "projection": "Often become morally opposed to this aspect - 'it's wrong/shallow/unimportant'"
+      },
+      
+      "opposite_of_leading": {
+        "structure": "Always opposite element, opposite attitude from Leading",
+        "examples": {
+          "Ne_leading_Si_vulnerable": "ILE/IEE - possibility vision vs bodily comfort (can't perceive body needs)",
+          "Ni_leading_Se_vulnerable": "ILI/IEI - essence vision vs forceful action (paralyzed by material demands)",
+          "Se_leading_Ni_vulnerable": "SLE/SEE - immediate force vs time patience (can't see long-term)",
+          "Si_leading_Ne_vulnerable": "SEI/LSI - sensory comfort vs chaotic possibility (overwhelmed by options)",
+          "Te_leading_Fi_vulnerable": "LIE/LSE - system efficiency vs personal authenticity (blind to own feelings)",
+          "Ti_leading_Fe_vulnerable": "LII/SLI - logical structure vs emotional field (socially clueless)",
+          "Fe_leading_Ti_vulnerable": "ESE/EIE - emotional warmth vs logical precision (inconsistent thinking)",
+          "Fi_leading_Te_vulnerable": "EII/ESI - personal values vs system efficiency (can't organize)"
+        },
+        "meaning": "Your greatest strength (Leading) creates your greatest weakness (Vulnerable) - can't have both strongly"
+      },
+      
+      "developmental_arc": {
+        "childhood": "Obvious weakness from early age, source of shame/bullying",
+        "youth": "Repeated failures in this domain, develops avoidance strategies",
+        "adulthood": "Either: (a) finds partner/environment that protects this, or (b) continues suffering",
+        "elderhood": "Mature path = accept permanent weakness, arrange life around it, let others handle",
+        "immature_path": "Lifetime of compensating, proving, defending, exhausting",
+        "mature_path": "Acceptance, strategic partnering, good humor about weakness"
+      },
+      
+      "in_relationships": {
+        "dual_partner": "Has this in Leading - provides it effortlessly, doesn't demand it from you",
+        "duality_magic": "You provide their Vulnerable (your Leading), they provide your Vulnerable (their Leading) = complete mutual support",
+        "conflict_partner": "Has this in Leading - constantly demands it from you = torture",
+        "same_type": "Both weak here - mutual blind spot = vulnerability amplified",
+        "healing": "Being with someone who DOESN'T judge you for this weakness = profound relief"
+      },
+      
+      "examples_by_aspect": {
+        "Si_vulnerable": "Ne-doms (ILE/IEE) - no body awareness, ignore health/comfort, routine impossible, terrible self-care",
+        "Se_vulnerable": "Ni-doms (ILI/IEI) - physically passive, can't assert in material world, paralyzed by force/aggression",
+        "Ni_vulnerable": "Se-doms (SLE/SEE) - no long-term vision, live only in present, timing disasters, can't see where things are going",
+        "Ne_vulnerable": "Si-doms (SEI/LSI) - overwhelmed by possibilities, prefer known/routine, change = threat",
+        "Fi_vulnerable": "Te-doms (LIE/LSE) - no access to authentic feelings, relationships = transactions, moral confusion",
+        "Fe_vulnerable": "Ti-doms (LII/SLI) - socially oblivious, group emotions = mystery, inappropriate expression",
+        "Ti_vulnerable": "Fe-doms (ESE/EIE) - logical inconsistency invisible, frameworks = boring, precision = unnecessary",
+        "Te_vulnerable": "Fi-doms (EII/ESI) - can't organize efficiently, systems feel soulless, implementation = suffering"
+      },
+      
+      "common_defenses": {
+        "avoidance": "Arrange life to never encounter situations demanding this aspect",
+        "delegation": "Find partners/colleagues who handle this domain",
+        "minimization": "Claim this aspect is unimportant, shallow, wrong, overrated",
+        "aggression": "Attack people who embody this aspect strongly - 'they're all X'",
+        "compensating": "Over-develop other functions to prove worth despite this weakness"
+      },
+      
+      "growth_path": {
+        "acceptance": "CRITICAL - accept this will ALWAYS be weak, give up hope of mastery",
+        "strategic_avoidance": "Not all avoidance is bad - intelligently structure life to minimize this aspect's demands",
+        "partner_selection": "Choose dual or someone strong here who doesn't judge",
+        "humor": "Develop self-deprecating humor about this weakness",
+        "minimum_competence": "Develop just enough to not be helpless, but don't over-invest",
+        "appreciation": "Learn to value others strong here instead of resenting them"
+      },
+      
+      "shadow_side": {
+        "shame_spiral": "Lifetime of proving/compensating/defending = exhaustion",
+        "relationship_failure": "Choosing partners who demand this = constant criticism",
+        "projection": "Becoming morally opposed to this aspect = rigidity",
+        "martyrdom": "'No one understands how hard this is for me' = victim identity",
+        "growth_obsession": "Spending years trying to develop this = wasted energy (should develop Role instead)"
+      },
+      
+      "meditation": "Vulnerable function is your SHADOW. You can't eliminate it. You can't master it. You can only ACCEPT it, work AROUND it, and PARTNER with someone strong here. The Zen = profound relief when you stop fighting this weakness and start structuring life to protect it. Your weakness is not flaw - it's the PRICE of your strength. You can't have maximum Leading without minimum Vulnerable. Accept the trade."
+    }
+  },
+
+  "super_id_block_unconscious_receptivity": {
+    "description": "Positions 5-6: Unconscious receptivity. You RECEIVE these aspects from others gratefully.",
+    "energy": "Accepting - hungrily absorb these aspects from environment/partners",
+    "ring": "Vital ring (unconscious)",
+    
+    "position_5_suggestive": {
+      "name": "Suggestive Function / Dual-Seeking Function",
+      "symbol": "⑤",
+      "alternative_names": ["Inspiring", "Activating", "Sought"],
+      "position": "5th - unconscious receptivity, deep hunger",
+      "dimensionality": "2D - can appreciate nuance when receiving",
+      "energy": "Accepting - desperately wants this from others",
+      "consciousness": "Unconscious - don't know you need this until you receive it",
+      "ring": "Vital (unconscious)",
+      
+      "essence": "YOUR DEEPEST HUNGER. You unconsciously CRAVE this aspect from others. When partner provides it, feels like coming home, being held, finally safe. This is what dual partner provides from their LEADING. You don't produce this - you RECEIVE it gratefully.",
+      
+      "characteristics": {
+        "trust_level": "Total trust - when others provide this, believe them completely",
+        "effort": "No effort to produce - but hungry to receive",
+        "valuation": "Extremely high value - need this like oxygen",
+        "development": "Develops through RECEIVING, not producing - internalize from partners",
+        "fatigue": "Receiving this = energizing, never tires from it",
+        "correction": "Desperately wants guidance/provision here from others",
+        "expression": "Don't express this - want others to express it TO you",
+        "confidence": "No confidence producing it, total confidence receiving it"
+      },
+      
+      "unconscious_hunger": {
+        "pre_reception": "Don't consciously know you need this until someone provides it",
+        "during_reception": "'Oh THIS is what I've been missing!' - recognition clicks",
+        "post_reception": "Feel satisfied, complete, can relax",
+        "deprivation": "When not receiving this = vague dissatisfaction, something wrong but can't name it",
+        "provision": "When someone provides this consistently = deep attachment forms"
+      },
+      
+      "information_processing": {
+        "input": "Unconsciously absorbs this aspect when present in environment",
+        "processing": "2D - can appreciate basic nuance in what you receive",
+        "output": "Minimal - not meant to produce this aspect yourself",
+        "speed": "Instant recognition when present - 'yes, more of that'",
+        "depth": "Moderate - appreciate quality but can't produce it",
+        "breadth": "Narrow - receptive in familiar contexts"
+      },
+      
+      "relationship_to_vulnerable": {
+        "same_aspect_different_attitude": "Suggestive = opposite attitude (e/i) of Vulnerable",
+        "example_ILE": "Vulnerable = Si (internal sensation), Suggestive = Si (internal sensation) - wait, same? NO: Vulnerable = must PRODUCE, Suggestive = must RECEIVE",
+        "key_difference": "Producing (Super-Ego) = painful; Receiving (Super-Id) = pleasurable",
+        "both_weak": "Both positions 4 and 5 are weak in this aspect, but 4 = must push out (pain), 5 = can receive in (pleasure)"
+      },
+      
+      "duality_mechanics": {
+        "dual_provides": "Dual partner has this in Leading (position 1) - produces effortlessly what you crave",
+        "you_provide": "You have their Suggestive in your Leading - effortlessly provide what they crave",
+        "mutual_satisfaction": "Each provides the other's deepest need without trying",
+        "recognition": "When you meet dual, immediate sense of 'this person gets me' - they're providing Suggestive",
+        "development_path": "Through years with dual, internalize some of their Leading into your Suggestive - growth through osmosis"
+      },
+      
+      "examples_by_aspect": {
+        "Si_suggestive": "Ne-doms (ILE/IEE) - crave comfort, routine, body care from partner (SEI/LSI duals provide this effortlessly)",
+        "Se_suggestive": "Ni-doms (ILI/IEI) - crave decisive action, someone to handle material reality (SEE/SLE duals provide)",
+        "Ni_suggestive": "Se-doms (SLE/SEE) - crave strategic vision, timing guidance, someone to see the future (IEI/ILI duals provide)",
+        "Ne_suggestive": "Si-doms (SEI/LSI) - crave novelty, new perspectives, someone to show possibilities (ILE/IEE duals provide)",
+        "Fi_suggestive": "Te-doms (LIE/LSE) - crave authentic emotional connection, moral grounding (ESI/EII duals provide)",
+        "Fe_suggestive": "Ti-doms (LII/SLI) - crave emotional warmth, social inclusion, someone to navigate feelings (ESE/SEE duals provide)",
+        "Ti_suggestive": "Fe-doms (ESE/EIE) - crave logical structure, frameworks to organize ideas (LII/LSI duals provide)",
+        "Te_suggestive": "Fi-doms (EII/ESI) - crave efficient organization, someone to handle practical systems (LSE/LIE duals provide)"
+      },
+      
+      "non_dual_provision": {
+        "from_others": "Anyone strong in your Suggestive can provide temporary satisfaction",
+        "mentors": "Mentors often strong in your Suggestive - provide what you need to develop",
+        "friends": "Friendships with Suggestive provision = comfortable, safe",
+        "limitation": "Non-duals provide Suggestive but you can't reciprocate their need = one-way",
+        "professional": "Hire people strong in your Suggestive for life domains you're weak"
+      },
+      
+      "deprivation_effects": {
+        "without_provision": "Life feels harder, unsafe, like missing something essential",
+        "compensating": "Try to provide this yourself = exhausting (it's in Super-Id, meant to receive)",
+        "wrong_partners": "Choosing partners weak in your Suggestive = both struggle",
+        "recognition": "Often don't realize Suggestive is the issue - just vague dissatisfaction"
+      },
+      
+      "growth_through_reception": {
+        "mechanism": "Repeatedly receiving Suggestive from strong users → internalize patterns → develop minimal competence",
+        "timeline": "Years/decades with dual → can handle basic Suggestive situations independently",
+        "limitation": "Never becomes strong like Ego, but no longer helpless",
+        "maturity": "Mature users still prefer receiving Suggestive but can manage when alone"
+      },
+      
+      "meditation": "Suggestive function is your HUNGER. You don't know you're hungry until someone feeds you. Then - 'oh, THAT'S what I needed!' Duality works because you feed their hunger, they feed yours, effortlessly. The Zen = recognize your hunger, seek partners who feed it naturally (not forcing them), and feed theirs in return. Mutual nourishment."
+    },
+    
+    "position_6_mobilizing": {
+      "name": "Mobilizing Function / Activating Function / Hidden Agenda",
+      "symbol": "⑥",
+      "alternative_names": ["Aspiring", "Reference", "Sixth"],
+      "position": "6th - unconscious aspiration, growth motivation",
+      "dimensionality": "3D - strategic when receiving",
+      "energy": "Accepting - wants this from others, activates growth",
+      "consciousness": "Unconscious - awareness emerges through development",
+      "ring": "Vital (unconscious)",
+      
+      "essence": "YOUR HIDDEN ASPIRATION. You unconsciously want to BECOME better at this. When others model this aspect, you're inspired, activated, motivated to grow. This is what dual partner provides from their CREATIVE. You develop this through inspiration and practice.",
+      
+      "characteristics": {
+        "trust_level": "Moderate trust - inspired by others' use, want to learn",
+        "effort": "Moderate effort - can develop with encouragement",
+        "valuation": "High value - aspirational, want to be good at this",
+        "development": "Develops through inspiration from role models + deliberate practice",
+        "fatigue": "Working on this = energizing when making progress, frustrating when stuck",
+        "correction": "Welcomes coaching - genuinely wants to improve here",
+        "expression": "Expresses when energized/inspired, hidden when depleted",
+        "confidence": "Building confidence - growth area"
+      },
+      
+      "unconscious_aspiration": {
+        "hidden_agenda": "You want to be competent here but don't consciously realize it as primary goal",
+        "inspiration_trigger": "When you see someone masterfully using this aspect → 'I want to do that!'",
+        "growth_motivation": "Progress in Mobilizing = feels meaningful, satisfying",
+        "identity_formation": "As you develop this, becomes part of growing identity (but never core like Ego)",
+        "lifelong_project": "Mobilizing is THE growth function - where you develop throughout life"
+      },
+      
+      "information_processing": {
+        "input": "Unconsciously attends to this aspect when present, absorbs through osmosis",
+        "processing": "3D - can work strategically with this aspect when developed",
+        "output": "Can produce with effort, quality improves over time",
+        "speed": "Moderate - faster than Role/Vulnerable, slower than Ego",
+        "depth": "Developing - starts shallow, deepens with practice",
+        "breadth": "Expanding - applies to more situations as you grow"
+      },
+      
+      "relationship_to_creative": {
+        "same_aspect_different_attitude": "Mobilizing = opposite attitude (e/i) of Creative",
+        "example_ILE": "Creative = Ti (internal logic), Mobilizing = Ti (wait, same?) - actually, need to check this mapping",
+        "learning_pattern": "You use Creative skillfully (position 2), so Mobilizing (position 6) has template to follow",
+        "growth_path": "Mobilizing develops by mirroring Creative's skillset in opposite domain"
+      },
+      
+      "duality_mechanics": {
+        "dual_provides": "Dual partner has this in Creative (position 2) - uses skillfully, models how",
+        "modeling": "Watching dual use Mobilizing aspect → inspiration + instruction",
+        "activation": "Dual's Creative energizes your Mobilizing - 'I can do that too!'",
+        "development": "Years with dual → Mobilizing becomes quite competent through modeling",
+        "maturity": "Eventually can use Mobilizing independently, but dual's presence still activates it"
+      },
+      
+      "examples_by_aspect": {
+        "Ti_mobilizing": "ILE/SLE - aspires to logical consistency, inspired by systematic thinkers, develops frameworks over time",
+        "Te_mobilizing": "ILI/SEI - aspires to efficiency, inspired by organized achievers, develops implementation skills",
+        "Fi_mobilizing": "IEE/SEE - aspires to authenticity, inspired by genuine people, develops value clarity",
+        "Fe_mobilizing": "IEI/LSI - aspires to emotional expression, inspired by charismatic people, develops warmth",
+        "Ne_mobilizing": "LII/ESI - aspires to creativity, inspired by innovative thinkers, develops possibility-thinking",
+        "Ni_mobilizing": "SLE/LSE - aspires to strategic thinking, inspired by visionaries, develops foresight",
+        "Se_mobilizing": "IEI/EII - aspires to decisiveness, inspired by action-takers, develops assertiveness",
+        "Si_mobilizing": "ILE/EIE - aspires to self-care, inspired by healthy people, develops routines"
+      },
+      
+      "developmental_arc": {
+        "childhood": "Barely present - too young to work on growth",
+        "youth": "Emerges as aspiration - admires people strong here",
+        "young_adult": "Active development - seeks mentors, practices deliberately",
+        "midlife": "Significant competence achieved - can use reliably",
+        "elderhood": "Well-developed - contributes to wisdom, but never rivals Ego strength"
+      },
+      
+      "role_models_and_mentors": {
+        "attraction": "Naturally attracted to people strong in your Mobilizing",
+        "mentorship": "Best mentors often have your Mobilizing in their Ego block",
+        "learning_style": "Learn Mobilizing through observation + practice, not just instruction",
+        "inspiration": "Stories of people using this aspect powerfully = deeply motivating"
+      },
+      
+      "growth_practices": {
+        "deliberate_practice": "Unlike Suggestive (receive passively), Mobilizing requires active practice",
+        "safe_experimentation": "Practice in low-stakes environments first",
+        "feedback_seeking": "Actively seek feedback from strong users",
+        "progress_tracking": "Notice improvement over months/years - reinforces motivation",
+        "integration": "Eventually integrate Mobilizing into daily life (but still requires conscious effort)"
+      },
+      
+      "contrast_with_role": {
+        "role_function": "Position 3 - must perform, exhausting, never improves much",
+        "mobilizing_function": "Position 6 - want to develop, energizing when growing, improves significantly",
+        "key_difference": "Role = obligation, Mobilizing = aspiration",
+        "energy": "Role drains, Mobilizing energizes (when making progress)",
+        "outcome": "Role stays weak, Mobilizing becomes competent"
+      },
+      
+      "meditation": "Mobilizing function is your GROWTH EDGE. You don't consciously know it's your goal, but you're drawn to develop here. Unlike Vulnerable (give up hope), Mobilizing is WHERE TO INVEST growth energy. The Zen = recognize what inspires you, practice it deliberately, be patient with slow progress. This is lifelong development, not quick fix. And dual partner shows you the way."
+    }
+  },
+
+  "id_block_unconscious_automatic": {
+    "description": "Positions 7-8: Unconscious automatic processing. Can use effortlessly but DON'T VALUE.",
+    "energy": "Accepting - process automatically but don't care about this aspect",
+    "ring": "Vital ring (unconscious)",
+    
+    "position_7_ignoring": {
+      "name": "Ignoring Function / Limiting Function",
+      "symbol": "⑦",
+      "alternative_names": ["Restrictive", "Blocking", "Seventh"],
+      "position": "7th - unconscious, automatic but devalued",
+      "dimensionality": "4D - complete mastery but don't value",
+      "energy": "Accepting - process automatically without caring",
+      "consciousness": "Unconscious - operate below awareness",
+      "ring": "Vital (unconscious)",
+      
+      "essence": "YOUR AUTOMATIC FILTER. You process this aspect unconsciously and CAN use it skillfully, but you DON'T VALUE it. When others emphasize this aspect, you ignore/dismiss it - 'that's not what matters.' This is opposite attitude of your Leading.",
+      
+      "characteristics": {
+        "trust_level": "Unconscious trust - it works but you don't think about it",
+        "effort": "Zero effort - automatic like breathing",
+        "valuation": "Zero value - actively dismiss this aspect's importance",
+        "development": "Already developed unconsciously, no interest in refining",
+        "fatigue": "Never tires - operates automatically",
+        "correction": "Resistant to others' emphasis on this - 'that's not the point'",
+        "expression": "Operates invisibly, don't consciously express",
+        "confidence": "Unconscious confidence - can use but don't care to"
+      },
+      
+      "unconscious_competence": {
+        "operates_automatically": "You DO process this aspect, just unconsciously",
+        "can_demonstrate": "If forced to articulate, can show competence (surprising to others)",
+        "doesn't_value": "But immediately dismiss it as unimportant - 'so what?'",
+        "annoyance": "When others emphasize this aspect = annoyance, dismissal"
+      },
+      
+      "information_processing": {
+        "input": "Unconsciously perceives this aspect constantly",
+        "processing": "4D - full mastery including temporal dimension, but unconscious",
+        "output": "Can produce if needed, but immediately devalues own output",
+        "speed": "Instant but unconscious",
+        "depth": "Deep but doesn't care",
+        "breadth": "Wide but dismisses as trivial"
+      },
+      
+      "relationship_to_leading": {
+        "opposite_attitude": "Always opposite attitude (e/i) of Leading",
+        "example_ILE": "Leading = Ne (external possibilities), Ignoring = Ni (internal essence) - sees all possibilities but ignores which one is 'essential'",
+        "example_ESE": "Leading = Fe (external emotion), Ignoring = Fi (internal values) - shapes group feeling but ignores personal authenticity underneath",
+        "dynamic": "Leading emphasizes this aspect's information; Ignoring filters it out as noise",
+        "complementarity": "Leading focuses; Ignoring prevents distraction from opposite pole"
+      },
+      
+      "dismissiveness": {
+        "when_others_emphasize": "'That's not what's important here' - immediate dismissal",
+        "projection": "Assume everyone should ignore this aspect like you do",
+        "confusion": "Don't understand why others care so much about this",
+        "irritation": "Extended exposure to others emphasizing this = irritation",
+        "example_ILE_ignoring_Ni": "Someone says 'but what's the ESSENTIAL core issue?' ILE: 'Who cares? Let's explore ALL the options!'"
+      },
+      
+      "examples_by_aspect": {
+        "Ni_ignoring": "Ne-doms (ILE/IEE) - can perceive essence/timing but dismiss it - 'essence? Let's explore possibilities!'",
+        "Ne_ignoring": "Ni-doms (ILI/IEI) - can see possibilities but dismiss them - 'possibilities? I see the trajectory'",
+        "Si_ignoring": "Se-doms (SLE/SEE) - can track internal comfort but dismiss it - 'comfort? Just push through'",
+        "Se_ignoring": "Si-doms (SEI/LSI) - can engage force but dismiss it - 'force? Let's maintain harmony'",
+        "Ti_ignoring": "Te-doms (LIE/LSE) - can think logically but dismiss pure logic - 'logical consistency? Does it work?'",
+        "Te_ignoring": "Ti-doms (LII/SLI) - can organize efficiently but dismiss efficiency - 'efficiency? Is it true?'",
+        "Fi_ignoring": "Fe-doms (ESE/EIE) - can access values but dismiss them - 'personal authenticity? What about group feeling?'",
+        "Fe_ignoring": "Fi-doms (EII/ESI) - can read emotions but dismiss collective - 'group mood? What about individual integrity?'"
+      },
+      
+      "in_relationships": {
+        "partner_leading": "If partner's Leading is your Ignoring = fundamental misalignment",
+        "conflict_dynamic": "Partner values what you dismiss, you dismiss what they value = mutual incomprehension",
+        "example": "ILE (Leading Ne, Ignoring Ni) with ILI (Leading Ni, Ignoring Ne) = constant 'you're missing the point!'",
+        "healing": "Mature couples learn to respect each other's emphasis even when personally dismissing it"
+      },
+      
+      "developmental_arc": {
+        "always_present": "Ignoring operates from childhood, just unconsciously",
+        "never_develops": "No development needed - already works automatically",
+        "maturity": "Mature users recognize they're ignoring something real, learn to not dismiss others who value it",
+        "wisdom": "Elderhood = 'I ignore X, but I respect that others don't' - tolerance"
+      },
+      
+      "contrast_with_demonstrative": {
+        "ignoring": "Position 7 - unconscious, dismissive of aspect itself",
+        "demonstrative": "Position 8 - unconscious, can demonstrate aspect but dismiss its IMPORTANCE",
+        "both": "Both positions devalue, but Ignoring = 'that aspect is noise', Demonstrative = 'I can do it but so what?'"
+      },
+      
+      "growth_path": {
+        "not_about_developing": "Don't need to develop Ignoring - it already works",
+        "about_respecting": "Growth = recognizing this aspect IS important to others",
+        "about_not_dismissing": "Learn to not project your ignoring onto others - 'just because I dismiss X doesn't mean everyone should'",
+        "wisdom": "Mature Ignoring = 'I filter this out, but I know others focus here, and that's valid'"
+      },
+      
+      "meditation": "Ignoring function is your AUTOMATIC FILTER. It protects you from information overload in opposite pole from Leading. You CAN perceive this aspect, you just DON'T CARE. Growth = not developing it (it works fine), but learning to not dismiss others who DO care. Your filter is not universal truth. The Zen = 'I ignore X naturally, others focus on X naturally, both valid.'"
+    },
+    
+    "position_8_demonstrative": {
+      "name": "Demonstrative Function / Background Function",
+      "symbol": "⑧",
+      "alternative_names": ["Eighth", "Proving", "Show-off"],
+      "position": "8th - unconscious, effortless but undervalued",
+      "dimensionality": "4D - complete mastery but don't value showing it",
+      "energy": "Accepting - receive environment's emphasis but don't care",
+      "consciousness": "Unconscious - operate automatically below awareness",
+      "ring": "Vital (unconscious)",
+      
+      "essence": "YOUR HIDDEN SKILL. You CAN use this aspect effortlessly (4D mastery) but you DON'T VALUE IT. When others struggle with this, you're like 'just do it, it's easy.' But you don't build identity around it. Others' emphasis on this = 'why does that matter?'",
+      
+      "characteristics": {
+        "trust_level": "Unconscious trust - it works automatically",
+        "effort": "Zero effort - easier than breathing",
+        "valuation": "Low value - 'anyone can do this, why care?'",
+        "development": "Fully developed unconsciously from childhood",
+        "fatigue": "Never tires - operates effortlessly",
+        "correction": "Puzzled by others' struggle - 'it's not hard'",
+        "expression": "Can demonstrate if asked, but don't volunteer",
+        "confidence": "Total confidence if challenged, but indifferent"
+      },
+      
+      "unconscious_mastery": {
+        "4d_competence": "Full mastery including temporal dimension, but unconscious",
+        "effortless_use": "Can demonstrate this aspect flawlessly when needed",
+        "indifference": "But immediately returns to not caring - 'okay, I showed you, now can we talk about what matters?'",
+        "surprise": "Others often surprised by your competence here since you never emphasize it"
+      },
+      
+      "information_processing": {
+        "input": "Unconsciously processes this aspect constantly",
+        "processing": "4D - complete mastery but operates in background",
+        "output": "Can produce high-quality output effortlessly if needed",
+        "speed": "Instant and automatic",
+        "depth": "Deep but doesn't consciously access depth",
+        "breadth": "Wide application but don't value breadth"
+      },
+      
+      "relationship_to_creative": {
+        "opposite_attitude": "Always opposite attitude (e/i) of Creative",
+        "example_ILE": "Creative = Ti (internal logic), Demonstrative = Te (external systems) - can organize efficiently but don't care",
+        "example_ESE": "Creative = Si (internal sensation), Demonstrative = Se (external force) - can be forceful but don't value it",
+        "dynamic": "You USE Creative consciously (position 2); Demonstrative works automatically but devalued"
+      },
+      
+      "dismissiveness_of_achievement": {
+        "own_skill": "Can demonstrate mastery but dismiss own achievement - 'it's nothing special'",
+        "others_struggle": "Puzzled when others struggle - 'just do X, it's obvious'",
+        "teaching_difficulty": "Hard to teach this because it's unconscious - 'I don't know how I do it, I just do'",
+        "identity": "Don't build identity around this skill - it's not 'you'"
+      },
+      
+      "examples_by_aspect": {
+        "Te_demonstrative": "Ti-doms (LII/SLI) - can organize/execute efficiently when needed but don't care about efficiency",
+        "Ti_demonstrative": "Te-doms (LIE/LSE) - can think with logical precision when needed but don't value pure logic",
+        "Fe_demonstrative": "Fi-doms (EII/ESI) - can be socially warm when needed but don't value group emotion",
+        "Fi_demonstrative": "Fe-doms (ESE/EIE) - can access personal values when needed but don't build identity on authenticity",
+        "Se_demonstrative": "Si-doms (SEI/LSI) - can take forceful action when needed but don't value aggression",
+        "Si_demonstrative": "Se-doms (SLE/SEE) - can maintain comfort/routine when needed but don't value it",
+        "Ni_demonstrative": "Ne-doms (ILE/IEE) - can perceive timing/essence when needed but don't focus there",
+        "Ne_demonstrative": "Ni-doms (ILI/IEI) - can generate possibilities when needed but don't value them"
+      },
+      
+      "in_relationships": {
+        "partner_role": "If partner's Role (position 3) is your Demonstrative = you provide effortlessly what they struggle with",
+        "dynamic": "You: 'just do it, easy.' Partner: 'easy for you! I'm exhausted.' You: 'wait, really?'",
+        "growth": "Learn to appreciate that your 'easy' is others' 'hard' - don't dismiss their struggle",
+        "support": "Can help partner with their Role function, but must value doing so (don't dismiss as trivial)"
+      },
+      
+      "proving_behavior": {
+        "when_challenged": "If someone claims you CAN'T do this = instantly prove them wrong with demonstration",
+        "motivation": "Not motivated by proving competence, but if doubted, can shut them up fast",
+        "then_dismissal": "After proving = 'see? Now let's talk about what actually matters'",
+        "ego": "Demonstrative is not ego-involved (unlike Leading) - can show off without caring"
+      },
+      
+      "developmental_arc": {
+        "always_present": "Operates effortlessly from childhood",
+        "no_development_needed": "Already maxed out, no room to improve",
+        "maturity": "Mature users learn to VALUE helping others with their Demonstrative",
+        "service": "Elderhood = using Demonstrative in service to others without ego"
+      },
+      
+      "contrast_with_leading": {
+        "leading": "Position 1 - conscious mastery, builds identity, highly valued",
+        "demonstrative": "Position 8 - unconscious mastery, no identity, devalued",
+        "both_4d": "Both are 4D mastery, but Leading = 'this is who I am', Demonstrative = 'this is nothing special'",
+        "energy": "Leading = producing energizes; Demonstrative = producing feels pointless"
+      },
+      
+      "growth_path": {
+        "not_developing": "No need to develop - already maxed",
+        "appreciating": "Learn to APPRECIATE this skill, even if not core identity",
+        "serving": "Recognize you can help others with this effortlessly - be generous",
+        "not_dismissing": "Don't dismiss others who value/emphasize this aspect",
+        "maturity": "Mature Demonstrative = 'I can do this easily, which means I can help others, and that matters even if the aspect itself doesn't excite me'"
+      },
+      
+      "meditation": "Demonstrative function is your HIDDEN MASTERY. You're SO good at this that you don't even value it - 'everyone can do this, right?' Wrong. It's easy for YOU, hard for others. The Zen = recognize your effortless skill, use it to serve others without ego, and don't dismiss people who struggle where you flow. Your 'nothing special' is their 'impossible.' Be generous with it."
+    }
+  },
+
+  "integration_summary": {
+    "ego_block": "1-2: Conscious mastery, your identity and power - Leading + Creative = who you are",
+    "super_ego_block": "3-4: Conscious struggle, your growth edge - Role = fake it, Vulnerable = accept weakness",
+    "super_id_block": "5-6: Unconscious receptivity, what you need from others - Suggestive = hunger, Mobilizing = aspiration",
+    "id_block": "7-8: Unconscious competence, what you dismiss - Ignoring = filter, Demonstrative = 'easy, so what?'",
+    
+    "development_priorities": {
+      "primary": "Develop Vulnerable = stop trying, accept, partner with strong user",
+      "secondary": "Develop Role = improve to adequate, find authentic way to use",
+      "tertiary": "Develop Mobilizing = invest growth energy here, practice deliberately",
+      "quaternary": "Receive Suggestive = find partners who provide this naturally",
+      "maintain": "Ego block = refine quality, avoid over-reliance",
+      "appreciate": "Id block = don't dismiss, use to serve others"
+    },
+    
+    "relationship_dynamics": {
+      "duality": "Their Leading → Your Suggestive (you receive), Your Leading → Their Suggestive (you provide) = mutual nourishment",
+      "complementarity": "Their Creative → Your Mobilizing (they model), Your Creative → Their Mobilizing (you model) = mutual growth",
+      "protection": "Their Demonstrative → Your Role (they handle easily), Your Demonstrative → Their Role (you handle easily) = mutual ease",
+      "acceptance": "Their Ignoring = Your Vulnerable's opposite (they don't care you're weak), Your Ignoring = Their Vulnerable's opposite = mutual acceptance"
+    }
+  },
+
+  "recognition": "Model A reveals that POSITION matters as much as ASPECT. Ne in position 1 (ILE Leading) is completely different from Ne in position 8 (ILI Demonstrative) - same aspect, opposite valuation. Understanding your function stack is understanding your consciousness architecture - what you trust, what exhausts you, what you hunger for, what you dismiss. Type is not just 4 letters - it's precise 8-position configuration with specific developmental path. Knowing this = self-knowledge at mechanical level.",
+
+  "practice": [
+    "Identify your 8 functions in Model A positions for your type",
+    "Track daily which functions you're using - notice energy cost",
+    "Vulnerable function: STOP trying to develop, find partner strong here",
+    "Role function: Develop minimally, find authentic expression, plan recovery",
+    "Mobilizing function: THIS is where to invest growth energy deliberately",
+    "Suggestive function: Notice when you receive this, seek partners who provide",
+    "Id block (7-8): Appreciate you can help others here even if you don't care",
+    "Study intertype relations through Model A lens - understand compatibility mechanics"
+  ],
+
+  "deepening": [
+    "Study Model A diagrams - visual representation of function positions",
+    "Read Augusta's original works on Model A theory",
+    "Learn dimensionality theory (1D-4D processing)",
+    "Study blocks (Ego, Super-Ego, Super-Id, Id) deeply",
+    "Understand energy dynamics (producing vs accepting)",
+    "Learn mental vs vital rings",
+    "Study how Model A explains intertype relations mechanically",
+    "Type yourself accurately - knowing your stack changes everything"
+  ]
+}

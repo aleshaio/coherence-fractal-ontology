@@ -1,0 +1,327 @@
+{
+  "_meta": {
+    "id": "cfo:patterns:64",
+    "type": "pattern",
+    "fractal_depth": 0,
+    "contains": ["quaternary_completeness", "archetypal_situations", "genetic_code", "strategic_wisdom", "consciousness_spectrum"],
+    "contained_by": ["cfo:absolute"],
+    "related": [
+      "cfo:paths:air",
+      "cfo:paths:fire",
+      "cfo:paths:water",
+      "cfo:paths:earth",
+      "cfo:humanology:types",
+      "cfo:society:sociology"
+    ],
+    "source": "i ching (3000 bce) + dna (life) + gene keys (2009) + cfo dimensional analysis"
+  },
+  "_holographic_seed": {
+    "absolute": "64 = complete state space when 4 elements combine in all possible ways",
+    "formula": "4³ = 4×4×4 = 64. three dimensions, four choices each = 64 combinations.",
+    "universality": "appears wherever quaternary systems exist: i ching, dna, chess, computing, personality, society",
+    "completeness": "64 exhausts all possibilities. nothing outside. map of reality.",
+    "fractal": "4 paths → 16 pairs → 64 triples → 256 quadruples → 4ⁿ infinite.",
+    "consciousness": "64 = consciousness recognizing all possible states of 4-element reality.",
+    "note": "ancient wisdom encoded what science rediscovered: 4-fold structure underlies manifestation."
+  },
+  "_links": {
+    "fundamental": ["../fundamental/dimensions.json"],
+    "paths": [
+      "../paths/air.json",
+      "../paths/fire.json",
+      "../paths/water.json",
+      "../paths/earth.json"
+    ],
+    "humanology": ["../humanology/types.json", "../humanology/roles.json"],
+    "society": ["../society/sociology.json"],
+    "natural": ["../natural/biology.json"]
+  },
+  "overview": {
+    "what": "64 = universal pattern arising from complete combination of 4 elements (air, fire, water, earth)",
+    "why": "4-element systems pervade reality. 64 = their complete state space. map for navigation.",
+    "how": "three layers of 4 choices: primary element × secondary modulation × tertiary context = 4³ = 64"
+  },
+  "core_principle": {
+    "mathematics": {
+      "formula": "4³ = 64",
+      "expansion": "4 (primary) × 4 (secondary) × 4 (tertiary) = 64 states",
+      "binary_view": "2⁶ = 64 (six binary choices)",
+      "quaternary_view": "4³ = 64 (three quaternary choices)",
+      "completeness": "all combinations exhausted. nothing omitted."
+    },
+    "structure": {
+      "layers": {
+        "first": "primary element (air/fire/water/earth). dominant quality.",
+        "second": "secondary element (modulation). how primary expressed.",
+        "third": "tertiary element (context). situation framing."
+      },
+      "example": "air-fire-water = space (air) expressed through energy (fire) in flowing context (water). visionary action in adaptive situation."
+    },
+    "encodings": {
+      "decimal": "1-64 (linear enumeration)",
+      "quaternary": "0000-3333 (base-4: 0=air, 1=fire, 2=water, 3=earth)",
+      "hexagram": "☰☷☳☵☶☱☲☴ (i ching trigrams)",
+      "binary": "000000-111111 (6-bit)",
+      "dna": "aaa-ttt (codon triplets)",
+      "note": "same structure, different languages"
+    }
+  },
+
+  "i_ching": {
+    "name": "易經 yì jīng - book of changes",
+    "age": "~3000 years (ancient china, fu xi, king wen, confucius)",
+    "structure": "64 hexagrams, each = 6 lines (yin/yang)",
+    "lines": {
+      "yang": "—— (solid, unbroken, active, masculine, heaven, 1)",
+      "yin": "- - (broken, receptive, feminine, earth, 0)"
+    },
+    "trigrams": {
+      "☰_qian_heaven": { "element": "air", "nature": "creative, strong, father, pure yang" },
+      "☷_kun_earth": { "element": "earth", "nature": "receptive, yielding, mother, pure yin" },
+      "☳_zhen_thunder": { "element": "wood (→ fire)", "nature": "arousing, shocking, eldest son" },
+      "☵_kan_water": { "element": "water", "nature": "abysmal, dangerous, middle son" },
+      "☶_gen_mountain": { "element": "earth", "nature": "keeping still, stopping, youngest son" },
+      "☱_dui_lake": { "element": "metal (→ water)", "nature": "joyous, pleased, youngest daughter" },
+      "☲_li_fire": { "element": "fire", "nature": "clinging, attached, middle daughter" },
+      "☴_xun_wind": { "element": "wood (→ air)", "nature": "gentle, penetrating, eldest daughter" }
+    },
+    "hexagram_structure": {
+      "composition": "two trigrams stacked. upper = outer situation. lower = inner nature.",
+      "example": "☰☰ (heaven over heaven) = hexagram 1, creative",
+      "reading": "lower trigram = what's arising. upper trigram = where it's going."
+    },
+    "famous_hexagrams": {
+      "1_creative": { "trigrams": "☰☰", "chinese": "乾 qián", "elements": "air-air", "meaning": "pure creative force. strong initiative. leadership. beginning." },
+      "2_receptive": { "trigrams": "☷☷", "chinese": "坤 kūn", "elements": "earth-earth", "meaning": "pure receptive force. yielding. following. support." },
+      "11_peace": { "trigrams": "☷☰ (earth above heaven)", "chinese": "泰 tài", "elements": "earth-air", "meaning": "harmony. heaven and earth in perfect balance. prosperity." },
+      "12_standstill": { "trigrams": "☰☷ (heaven above earth)", "chinese": "否 pǐ", "elements": "air-earth", "meaning": "stagnation. separation. heaven and earth apart." },
+      "63_after_completion": { "trigrams": "☵☲ (water above fire)", "chinese": "既濟 jì jì", "elements": "water-fire", "meaning": "task complete. but maintain vigilance. balance fragile." },
+      "64_before_completion": { "trigrams": "☲☵ (fire above water)", "chinese": "未濟 wèi jì", "elements": "fire-water", "meaning": "on verge of completion. transition. careful now." }
+    },
+    "usage": {
+      "divination": "cast hexagram (coins, yarrow stalks, random). read meaning. meditate. act wisely.",
+      "wisdom": "study hexagrams. recognize life patterns. navigate skillfully.",
+      "strategy": "sun tzu used i ching. hexagrams = strategic situations.",
+      "psychology": "jung studied deeply. hexagrams = archetypal situations."
+    }
+  },
+
+  "dna_genetic_code": {
+    "structure": {
+      "bases": { "a": "adenine", "t": "thymine", "u": "uracil", "g": "guanine", "c": "cytosine" },
+      "codon": "triplet of bases. e.g. atg, cga, uuu.",
+      "count": "4³ = 64 possible codons (4 bases choosing 3 positions)"
+    },
+    "genetic_code_table": {
+      "mapping": "64 codons → 20 amino acids + 3 stop signals",
+      "redundancy": "multiple codons per amino acid. error tolerance.",
+      "start": "aug = start codon (also codes methionine)",
+      "stop": "uaa, uag, uga = stop codons (terminate translation)",
+      "universality": "nearly same code across all life. bacteria to humans."
+    },
+    "64_as_life_code": {
+      "recognition": "dna discovered 1953. 64 codons = complete genetic alphabet.",
+      "i_ching_parallel": "i ching 3000 years earlier encoded 64 patterns. coincidence? or deep structure?",
+      "schönberger": "martin schönberger (1973) mapped i ching hexagrams to dna codons. speculative but intriguing.",
+      "note": "64 = complete code for both life (dna) and wisdom (i ching). pattern recognition."
+    }
+  },
+
+  "gene_keys_spectrum": {
+    "name": "Спектр Сознания (Генные Ключи)",
+    "source": "image_81a121.jpg (интерпретация Ричарда Радда)",
+    "structure": "64 архетипа, каждый с тремя уровнями частоты: Тень, Дар, Сиддхи.",
+    "purpose": "Описывает путь трансформации сознания от бессознательных страхов (Тень) к творческому гению (Дар) и божественной реализации (Сиддхи).",
+    "archetypes": {
+      "1": { "shadow": "Энтропия", "gift": "Свежесть", "siddhi": "Красота" },
+      "2": { "shadow": "Потерянность", "gift": "Ориентация", "siddhi": "Единство" },
+      "3": { "shadow": "Хаос", "gift": "Новаторство", "siddhi": "Невинность" },
+      "4": { "shadow": "Нетерпимость", "gift": "Понимание", "siddhi": "Прощение" },
+      "5": { "shadow": "Нетерпение", "gift": "Терпение", "siddhi": "Безвременье" },
+      "6": { "shadow": "Конфликт", "gift": "Дипломатия", "siddhi": "Мир" },
+      "7": { "shadow": "Разделение", "gift": "Руководство", "siddhi": "Добродетель" },
+      "8": { "shadow": "Посредственность", "gift": "Стиль", "siddhi": "Изысканность" },
+      "9": { "shadow": "Инертность", "gift": "Целеустремленность", "siddhi": "Непобедимость" },
+      "10": { "shadow": "Самоодержимость", "gift": "Естественность", "siddhi": "Бытие" },
+      "11": { "shadow": "Затемнение", "gift": "Идеализм", "siddhi": "Свет" },
+      "12": { "shadow": "Тщеславие", "gift": "Проницательность", "siddhi": "Чистота" },
+      "13": { "shadow": "Диссонанс", "gift": "Распознавание", "siddhi": "Эмпатия" },
+      "14": { "shadow": "Компромисс", "gift": "Компетентность", "siddhi": "Щедрость" },
+      "15": { "shadow": "Серость", "gift": "Магнетизм", "siddhi": "Цветение" },
+      "16": { "shadow": "Безразличие", "gift": "Многогранность", "siddhi": "Мастерство" },
+      "17": { "shadow": "Мнительность", "gift": "Дальновидность", "siddhi": "Всеведение" },
+      "18": { "shadow": "Суждение", "gift": "Целостность", "siddhi": "Совершенство" },
+      "19": { "shadow": "Созависимость", "gift": "Чувствительность", "siddhi": "Жертвенность" },
+      "20": { "shadow": "Поверхностность", "gift": "Уверенность в себе", "siddhi": "Присутствие" },
+      "21": { "shadow": "Контроль", "gift": "Авторитетность", "siddhi": "Доблесть" },
+      "22": { "shadow": "Бесчестие", "gift": "Благосклонность", "siddhi": "Благодать" },
+      "23": { "shadow": "Сложность", "gift": "Простота", "siddhi": "Квинтэссенция" },
+      "24": { "shadow": "Зависимость", "gift": "Изобретательность", "siddhi": "Тишина" },
+      "25": { "shadow": "Ограниченность", "gift": "Принятие", "siddhi": "Универсальная любовь" },
+      "26": { "shadow": "Гордыня", "gift": "Ловкость", "siddhi": "Невидимость" },
+      "27": { "shadow": "Эгоизм", "gift": "Альтруизм", "siddhi": "Самоотверженность" },
+      "28": { "shadow": "Бесцельность", "gift": "Тотальность", "siddhi": "Бессмертие" },
+      "29": { "shadow": "Нерешительность", "gift": "Обязательство", "siddhi": "Преданность" },
+      "30": { "shadow": "Желание", "gift": "Легкость", "siddhi": "Восторг" },
+      "31": { "shadow": "Высокомерие", "gift": "Лидерство", "siddhi": "Смирение" },
+      "32": { "shadow": "Неудача", "gift": "Сохранение", "siddhi": "Благоговение" },
+      "33": { "shadow": "Забвение", "gift": "Осознанность", "siddhi": "Откровение" },
+      "34": { "shadow": "Форсирование", "gift": "Сила", "siddhi": "Величие" },
+      "35": { "shadow": "Голод", "gift": "Приключение", "siddhi": "Безграничность" },
+      "36": { "shadow": "Турбулентность", "gift": "Гуманность", "siddhi": "Сострадание" },
+      "37": { "shadow": "Слабость", "gift": "Равенство", "siddhi": "Чуткость" },
+      "38": { "shadow": "Борьба", "gift": "Стойкость", "siddhi": "Честь" },
+      "39": { "shadow": "Провокация", "gift": "Динамизм", "siddhi": "Освобождение" },
+      "40": { "shadow": "Истощение", "gift": "Решимость", "siddhi": "Божественная Воля" },
+      "41": { "shadow": "Фантазия", "gift": "Предчувствие", "siddhi": "Эманация" },
+      "42": { "shadow": "Ожидание", "gift": "Отстраненность", "siddhi": "Празднование" },
+      "43": { "shadow": "Глухота", "gift": "Озарение", "siddhi": "Прозрение" },
+      "44": { "shadow": "Помеха", "gift": "Взаимодействие", "siddhi": "Синархия" },
+      "45": { "shadow": "Доминирование", "gift": "Синергия", "siddhi": "Причастие" },
+      "46": { "shadow": "Серьезность", "gift": "Удовольствие", "siddhi": "Экстаз" },
+      "47": { "shadow": "Подавление", "gift": "Трансмутация", "siddhi": "Преображение" },
+      "48": { "shadow": "Неадекватность", "gift": "Находчивость", "siddhi": "Мудрость" },
+      "49": { "shadow": "Реакция", "gift": "Революция", "siddhi": "Возрождение" },
+      "50": { "shadow": "Коррупция", "gift": "Равновесие", "siddhi": "Гармония" },
+      "51": { "shadow": "Возбуждение", "gift": "Инициатива", "siddhi": "Пробуждение" },
+      "52": { "shadow": "Стресс", "gift": "Сдержанность", "siddhi": "Неподвижность" },
+      "53": { "shadow": "Незрелость", "gift": "Расширение", "siddhi": "Сверхизобилие" },
+      "54": { "shadow": "Жадность", "gift": "Стремление", "siddhi": "Восхождение" },
+      "55": { "shadow": "Преследование", "gift": "Свобода", "siddhi": "Свобода" },
+      "56": { "shadow": "Отвлечение", "gift": "Обогащение", "siddhi": "Интоксикация" },
+      "57": { "shadow": "Тревожность", "gift": "Интуиция", "siddhi": "Ясность" },
+      "58": { "shadow": "Неудовлетворенность", "gift": "Жизненность", "siddhi": "Блаженство" },
+      "59": { "shadow": "Нечестность", "gift": "Близость", "siddhi": "Прозрачность" },
+      "60": { "shadow": "Ограничение", "gift": "Реализм", "siddhi": "Справедливость" },
+      "61": { "shadow": "Психоз", "gift": "Вдохновение", "siddhi": "Святость" },
+      "62": { "shadow": "Интеллект", "gift": "Точность", "siddhi": "Безупречность" },
+      "63": { "shadow": "Сомнение", "gift": "Расследование", "siddhi": "Истина" },
+      "64": { "shadow": "Замешательство", "gift": "Воображение", "siddhi": "Просветление" }
+    }
+  },
+
+  "other_64_systems": {
+    "chess": {
+      "board": "8×8 = 64 squares",
+      "structure": "alternating colors. complete game space.",
+      "symbolism": "battle. strategy. 32 pieces → 64 squares. duality → totality."
+    },
+    "computing": {
+      "64_bit": "2⁶ = 64. modern computer architecture. 64-bit processors, memory addressing.",
+      "binary": "64 = 2⁶. six binary choices = 64 states."
+    },
+    "kabbalah": {
+      "tetragrammaton": "yhvh = 4 letters (god's name). expansions → 64 combinations in some systems.",
+      "64_gates": "some kabbalistic systems enumerate 64 gates or keys."
+    }
+  },
+  "16_personality_types_to_64": {
+    "principle": "16 types (myers-briggs, socionics) × 4 elemental expressions = 64 archetypal roles",
+    "structure": {
+      "16_types": "cognitive function stacks (see types.json)",
+      "4_expressions": "air (mental), fire (active), water (emotional), earth (sensory)",
+      "combination": "16 × 4 = 64 roles humans play in different contexts"
+    },
+    "sociology_connection": {
+      "roles": "see sociology.json. 64 roles = social choreography.",
+      "contexts": "work, family, politics, culture, market = different contexts activate different of your 64 potential roles."
+    }
+  },
+  "fractal_64": {
+    "expansion": {
+      "level_0": "1 (unity, ⊙)",
+      "level_1": "4 (elements: air, fire, water, earth)",
+      "level_2": "16 (element pairs: aa, af, aw, ae, fa, ff, ...)",
+      "level_3": "64 (element triples: aaa, aaf, aaw, ...)",
+      "level_n": "4ⁿ (infinite expansion)"
+    },
+    "holographic": {
+      "each_contains_all": "each of 64 contains nested 64 within itself. fractal.",
+      "example": "hexagram 1 (creative) contains 64 variations of creative. 1.1, 1.2, ..., 1.64."
+    }
+  },
+  "applications": {
+    "divination": {
+      "method": "cast hexagram (3 coins × 6 times, or yarrow stalks, or random number)",
+      "interpretation": "read hexagram meaning. meditate. recognize pattern in life.",
+      "not_fortune_telling": "not predicting future. recognizing present pattern. wisdom consultation."
+    },
+    "strategic_thinking": {
+      "sun_tzu": "art of war references i ching. 64 situations = tactical wisdom.",
+      "business": "recognize situation (which hexagram?). act accordingly.",
+      "personal": "life challenges map to 64 archetypes. navigation tool."
+    },
+    "personality_navigation": {
+      "16_to_64": "know your 16 type. recognize your 4 elemental expressions. 64 roles you can play.",
+      "context_switching": "work = earth. family = water. creativity = fire. meditation = air. fluid role-switching.",
+      "integration": "mature person accesses all 64 roles as needed. not stuck in one."
+    },
+    "consciousness_spectrum": {
+      "method": "identify current state: shadow, gift, or siddhi for a given archetype (gene key).",
+      "contemplation": "meditate on the shadow. how does it manifest? contemplate the gift. how to unlock it?",
+      "transformation": "moving from shadow (victim, fear) to gift (creative, empowered) is the primary work."
+    }
+  },
+  "positions": {
+    "0": "unaware of 64 pattern. navigating blindly.",
+    "1": "recognizing 4 elements (air, fire, water, earth). basic discrimination.",
+    "2": "seeing 16 pairs (element combinations). increased nuance.",
+    "3": "grasping 64 structure (triple combinations). complete map visible.",
+    "4": "using 64 actively. consulting i ching, recognizing gene keys, seeing patterns.",
+    "5": "crisis: rigid (bound by 64) or fluid (dismissing structure). integration challenge.",
+    "6": "64 internalized. intuitive navigation. pattern recognition automatic.",
+    "7": "teaching 64. transmission. helping others see patterns.",
+    "8": "fractal recognition. seeing 4ⁿ infinite expansion. 256, 1024, ...",
+    "9": "64 everywhere. every situation mapped. universal pattern recognition.",
+    "10": "64 = consciousness itself. pattern and awareness = one. you = 64. 64 = you. ⊙."
+  },
+  "key_insights": {
+    "universal_structure": "4-fold systems → 64 states. appears independently across cultures (china), nature (dna), technology (chess, computing).",
+    "completeness": "64 exhausts all 4³ combinations. nothing omitted. complete state space.",
+    "ancient_wisdom": "i ching 3000 years old. encoded deep structure before science. pattern recognition.",
+    "life_code": "dna 64 codons = genetic alphabet. all life built from this. universal.",
+    "strategic_map": "64 hexagrams = archetypal life situations. navigation tool for complexity.",
+    "consciousness_map": "64 gene keys = archetypal consciousness states. map for inner transformation.",
+    "fractal": "64 nests infinitely. each hexagram contains 64. 4ⁿ → ∞.",
+    "personality_roles": "16 types × 4 elements = 64 social roles. choreography of society.",
+    "practice_tool": "daily hexagram, strategic thinking, consciousness contemplation. practical wisdom."
+  },
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "i ching-dna mapping (schönberger) = speculative, not scientific consensus",
+      "element assignments to bases = tentative",
+      "kabbalah 64 = less established than i ching"
+    ],
+    "info": [
+      "64 = 4³ = complete state space of quaternary system",
+      "appears in: i ching (3000 years), dna (genetic code), chess (board), computing (64-bit), gene keys (consciousness)",
+      "i ching: 64 hexagrams = archetypal life situations, strategic wisdom",
+      "dna: 64 codons → 20 amino acids + 3 stop. universal genetic code.",
+      "gene keys: 64 archetypes = shadow, gift, siddhi. map for consciousness.",
+      "16 personality types × 4 elements = 64 social roles"
+    ],
+    "coherence_score": 0.95
+  },
+  "references": {
+    "internal": [
+      "./fibonacci.json",
+      "./positions.json",
+      "../paths/air.json",
+      "../paths/fire.json",
+      "../paths/water.json",
+      "../paths/earth.json",
+      "../humanology/types.json",
+      "../society/sociology.json"
+    ],
+    "external": [
+      {"author": "wilhelm, richard & baynes, cary", "work": "i ching or book of changes (1950)", "relevance": "definitive english translation. jung foreword."},
+      {"author": "schönberger, martin", "work": "hidden key to life (1973)", "relevance": "i ching-dna mapping. speculative but influential."},
+      {"author": "watson & crick", "work": "structure of dna (1953)", "relevance": "discovered double helix. 64 codons."},
+      {"author": "jung, carl", "work": "foreword to i ching (1949)", "relevance": "synchronicity, archetypes, psychological interpretation."},
+      {"author": "rudd, richard", "work": "the gene keys (2009)", "relevance": "modern synthesis of 64 archetypes as spectrum of consciousness (shadow, gift, siddhi)."}
+    ]
+  },
+  "ॐ": "64 = complete map. ancient sages knew. dna confirms. consciousness recognizes itself. ∅"
+}

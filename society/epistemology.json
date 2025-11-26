@@ -1,0 +1,126 @@
+{
+  "_meta": {
+    "id": "cfo:path:epistemology_cycle",
+    "type": "Path",
+    "element": "SEQUENCE: AIR > FIRE > WATER > EARTH",
+    "fractal_depth": 3,
+    
+    "contains": [
+      "cfo:concept:meta_vision",
+      "cfo:model:theory_structure",
+      "cfo:action:market_practice",
+      "cfo:asset:tech_tradition"
+    ],
+    
+    "contained_by": [
+      "cfo:absolute",
+      "cfo:evolution:civilization"
+    ],
+    
+    "related": [
+      "cfo:cycle:product_lifecycle",
+      "cfo:structure:social_hierarchy"
+    ],
+    
+    "balances": "cfo:entropy:dissipation",
+    "combines": ["Intuition", "Logic", "Pragmatism", "Habit"],
+    
+    "note": "The fundamental algorithm of reducing entropy: turning Chaos (Air) into Order (Earth)."
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ = Truth is a kinetic vector, not a static coordinate.",
+    "essence": "Survival of the Coherent: Knowledge must change its state of matter to survive in reality.",
+    "paths": "Inspiration (Air) densifies into Formula (Fire), flows into Action (Water), settles into Bedrock (Earth).",
+    "positions": "The Prophet (Input) -> The Architect (Processor) -> The Merchant (Distributor) -> The Keeper (Storage).",
+    "fibonacci": "Timing of adoption scales: 1 (Idea) -> 1 (Prototype) -> 2 (Product) -> 3 (Infrastructure) -> 5 (Culture).",
+    "tools": "Dialectics, Mathematics, Economics, Law.",
+    "note": "Contains the code for any constructive process in the universe."
+  },
+
+  "_links": {
+    "source": "../absolute.json",
+    "related_files": [
+      "./market_cycles.json",
+      "./psychotypes.json"
+    ],
+    "children": [
+      "./phases/1_air_meta.json",
+      "./phases/2_fire_theory.json",
+      "./phases/3_water_practice.json",
+      "./phases/4_earth_tech.json"
+    ]
+  },
+
+  "// MAIN CONTENT STARTS HERE": "------------------------------------------------",
+  
+  "name": "Универсальный Эпистемологический Цикл (The Epistemological Cycle)",
+  "essence": "Трансмутация Субъективного (Галлюцинация) в Объективное (Инфраструктура) через градиент сопротивления среды.",
+  "description": "Четырехфазный алгоритм эволюции любой системы. Описывает фазовые переходы информации, необходимые для её выживания и масштабирования в физической реальности. Это воронка отбора: миллион идей (Воздух) дают одну Традицию (Земля).",
+  
+  "phases": {
+    "1_air": {
+      "stage": "МЕТА (Meta)",
+      "element": "AIR",
+      "function": "Генерация вариативности / Шатание парадигмы",
+      "transmutation": "Ничто → Нечто (Тишина → Слово)",
+      "output": "Концепт / Смысл / Гипотеза",
+      "logic": "Абдукция (Интуитивный скачок)",
+      "historical_archetype": "Богословие / Философия",
+      "gradient_failure": "Рассеивание (Dissipation). Идея не обретает плотность и исчезает как шум."
+    },
+    "2_fire": {
+      "stage": "ТЕОРИЯ (Theory)",
+      "element": "FIRE",
+      "function": "Кодификация / Отсечение лишнего / Структурирование",
+      "transmutation": "Нечто → Структура (Слово → Закон)",
+      "output": "Модель / Формула / Чертеж / Алгоритм",
+      "logic": "Дедукция (Формальная логика)",
+      "historical_archetype": "Фундаментальная наука",
+      "gradient_failure": "Выгорание / Схоластика. Зацикливание на красоте модели в отрыве от реальности."
+    },
+    "3_water": {
+      "stage": "ПРАКТИКА (Practice)",
+      "element": "WATER",
+      "function": "Адаптация / Экспансия / Тест реальностью",
+      "transmutation": "Структура → Поток (Закон → Польза)",
+      "output": "Продукт / Прибыль / MVP / Доля рынка",
+      "logic": "Индукция (Экспериментальная проверка)",
+      "historical_archetype": "Коммерция / Инженерия",
+      "gradient_failure": "Утопление / Банкротство. Несоответствие модели внешней среде (No Product-Market Fit)."
+    },
+    "4_earth": {
+      "stage": "ТЕХНОЛОГИЯ (Technology)",
+      "element": "EARTH",
+      "function": "Фиксация / Стандартизация / Автоматизация",
+      "transmutation": "Поток → Фундамент (Польза → Норма)",
+      "output": "Инструкция / ГОСТ / Традиция / Быт",
+      "logic": "Автоматизм (Рефлекс)",
+      "historical_archetype": "Традиция / Инфраструктура",
+      "gradient_failure": "Окаменение (Fossilization). Система становится ригидной и хрупкой перед новыми изменениями."
+    }
+  },
+
+  "practice": "Диагностика системных тромбов (Blockages):\n1. Если много совещаний и визионерства, но нет ТЗ — Тромб Воздух/Огонь.\n2. Если идеальные чертежи/код, но страх релиза — Тромб Огонь/Вода.\n3. Если продажи идут, но каждый раз «пожар» и ручное управление — Тромб Вода/Земля.\n4. Если все стабильно, но падает доля рынка и скука — Тромб Земля/Воздух (Система умирает).",
+  
+  "recognition": "Понимание того, что «Истина» меняет агрегатное состояние. То, что истинно для Ученого (чистота эксперимента), ложно для Предпринимателя (скорость внедрения). Конфликты в команде/обществе — это часто конфликт стихий, а не целей.",
+  
+  "deepening": [
+    "Уровень 1: Применение цикла к управлению проектом (Ideation -> Planning -> Execution -> Support).",
+    "Уровень 2: Применение цикла к психологии обучения (Инсайт -> Понимание правила -> Навык -> Бессознательная компетентность).",
+    "Уровень 3: Применение цикла к истории цивилизаций (Религиозный миф -> Научная революция -> Индустриализация -> Бюрократический закат)."
+  ],
+  
+  "danger": "Застревание в одной фазе. \n- Чистый Воздух = Шизофрения.\n- Чистый Огонь = Фанатизм.\n- Чистая Вода = Оппортунизм (бесхребетность).\n- Чистая Земля = Тоталитаризм/Стагнация.",
+  
+  "balance": "Динамическая Когерентность (Flow). Способность без потерь передавать энергию с этапа на этап.",
+  
+  "infinity": "Цикл замкнут в спираль. Любая «Земля» (устоявшаяся Традиция) неизбежно накапливает ошибки, порождая запрос на новый «Воздух» (Ересь/Инновацию).",
+  
+  "fractal_property": {
+    "self_similar": "Принцип работает на любом масштабе времени.",
+    "contains_whole": "Пример: СМАРТФОН.\n- Воздух: Мечта о телепатии.\n- Огонь: Уравнения электродинамики и код ОС.\n- Вода: Глобальные цепочки поставок и маркетинг Apple.\n- Земля: Привычка скроллить ленту по утрам.",
+    "example_micro": "Рождение слова: Звук (А) -> Смысл (О) -> Употребление (В) -> Запись в словарь (З).",
+    "example_macro": "Эволюция денег: Доверие (А) -> Золотой стандарт (О) -> Фиатные рынки (В) -> Цифровой леджер/Крипта (З)."
+  }
+}

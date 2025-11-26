@@ -1,0 +1,777 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:clothing-energy",
+    "type": "ontology",
+    "version": "2.0",
+    "fractal_depth": 7,
+    "status": "Complete",
+    "essence": "Clothing as energy interface between body and world",
+    "integration": "Embodied energy + Textile technology + Sacred geometry",
+    "reference": "cfo:technology:textiles.json for material properties"
+  },
+
+  "_holographic_seed": {
+    "absolute": "Clothing is second skin. Interface between inner field and outer world.",
+    "mechanism": "Fabric patterns, material frequency, placement on body = energy transformer.",
+    "cycle": "Protection (boundary) → Transformation (alchemy) → Expression (identity)",
+    "structure": "7 zones (crown, throat, chest, waist, pelvis, hands, feet) × Material (fiber frequency) × Pattern (geometric information) × Intent (conscious activation)",
+    "embodiment": "What you wear = what you become. Clothes shape energy before energy shapes world.",
+    "coherence": "+Coherence through aligned clothing: natural fibers (high frequency), sacred geometry (information field), conscious placement (chakra activation)."
+  },
+
+  "fundamental_principles": {
+    "clothing_as_interface": {
+      "definition": "Garments = membrane between body biofield and environmental fields",
+      "functions": [
+        "Protection (physical: weather, injury; energetic: psychic, EMF)",
+        "Transformation (alchemical vessel, energy concentration/dispersion)",
+        "Expression (identity signal, social communication, symbolic statement)",
+        "Ritual (conscious activation, daily practice, sacred vestment)"
+      ]
+    },
+
+    "material_frequency": {
+      "principle": "Natural fibers resonate at high frequency, synthetics are energetically dead",
+      "reference": "cfo:technology:textiles.json molecular_resonance",
+      "hierarchy": {
+        "highest": "Linen (~5000 Hz), Hemp, Ramie",
+        "high": "Silk, Wool, Organic Cotton",
+        "medium": "Conventional Cotton, Bamboo (viscose process reduces frequency)",
+        "low": "Semi-synthetics (Rayon, Viscose)",
+        "dead": "Synthetics (Polyester, Nylon, Acrylic = 0 Hz, energetically inert)"
+      },
+      "implication": "Clothing worn on skin 16+ hours/day = constant frequency bath. Choose wisely."
+    },
+
+    "pattern_as_information": {
+      "principle": "Woven/embroidered patterns = geometric information fields imprinting on biofield",
+      "reference": "cfo:technology:textiles.json sacred_geometry_weaving",
+      "mechanism": "Sacred geometry in fabric creates resonant standing wave in auric field",
+      "examples": [
+        "Spirals = vortex energy, transformation",
+        "Grids/Crosses = protection, boundaries, four directions",
+        "Flower of Life = unity, creation, harmonic resonance",
+        "Meander = flow, water, continuity"
+      ]
+    },
+
+    "metallic_integration": {
+      "principle": "Conductive threads (gold, silver, copper) interact with biofield and EMF",
+      "functions": [
+        "EMF shielding (redirect/absorb electromagnetic radiation)",
+        "Biofield amplification (sacred geometry in metal = antenna/resonator)",
+        "Chakra activation (metallic symbols at specific body points)",
+        "Grounding (copper especially, Earth element, root connection)"
+      ],
+      "placement": "Metal threads at chakra points, meridian crossroads, or protective zones"
+    },
+
+    "conscious_activation": {
+      "principle": "Garment = dormant until activated by intention",
+      "practice": "Put on clothing with awareness: 'I activate this [protection/power/beauty], I am [grounded/safe/radiant]'",
+      "ritual": "Special garments for special purposes (meditation robe, work clothes, ceremony dress)",
+      "heirloom": "Sacred garments charged over time, passed down generations, accumulate power"
+    }
+  },
+
+  "body_zones_clothing": {
+    "principle": "Each body zone has specific energetic function, clothing amplifies or blocks",
+
+    "1_crown_head": {
+      "chakra": "Sahasrara (7th)",
+      "element": "Thought / Cosmic consciousness",
+      "function": "Reception of divine/cosmic energy, connection to higher consciousness",
+      "garments": ["Headcovering", "Hat", "Turban", "Crown", "Headband"],
+
+      "energetic_effects": {
+        "covering": {
+          "function": "Protect from excess input, focus inward, conserve energy",
+          "materials_best": ["Silk (insulat conductivity)", "Cotton (breathable)", "Wool (grounding)"],
+          "when": "Meditation, crowded places, psychic work, sleep",
+          "note": "Women in many traditions cover head = protect receptive Yin crown from energetic overwhelm"
+        },
+
+        "uncovering": {
+          "function": "Open reception, direct cosmic connection, radiate intention",
+          "when": "Ritual, prayer (men in Orthodox Christianity), nature immersion, teaching",
+          "note": "Men in many traditions uncover in sacred space = active Yang transmission upward"
+        },
+
+        "metallic_thread": {
+          "placement": "Crown of head (Sahasrara point)",
+          "metal": "Gold (solar, divine masculine) or Silver (lunar, divine feminine)",
+          "pattern": "Spiral, lotus, star (opening, reception)",
+          "function": "Amplify crown chakra, antenna for higher frequencies"
+        }
+      },
+
+      "gender_dynamics": {
+        "principle": "Not 'men superior/women inferior' but complementary energy management",
+        "women_covering": {
+          "energy": "Yin (receptive) crown is highly sensitive, vulnerable to overwhelm",
+          "function": "Protection, containment, focus internal energy",
+          "context": "Especially in public, religious spaces, high-energy environments"
+        },
+        "men_uncovering": {
+          "energy": "Yang (projective) crown actively transmits, requires open channel",
+          "function": "Direct connection, offering intention upward, receiving blessing downward",
+          "context": "Sacred rituals, teaching, leadership roles"
+        }
+      },
+
+      "modern_application": {
+        "emf_protection": "Conductive fabric lining in hat = Faraday cage for head",
+        "meditation": "Silk or cotton head wrap = reduce external stimuli",
+        "cold_weather": "Wool hat with metallic spiral at crown = grounding + warmth",
+        "sun_protection": "Wide-brim natural fiber hat = physical + energetic shield"
+      }
+    },
+
+    "2_throat_neck": {
+      "chakra": "Vishuddha (5th)",
+      "element": "Ether / Sound",
+      "function": "Expression, truth, communication",
+      "garments": ["Scarf", "Collar", "Necklace", "Choker"],
+
+      "energetic_effects": {
+        "scarf_loose": {
+          "function": "Gentle protection, warmth without constriction",
+          "materials": ["Silk (smooth energy flow)", "Cashmere (soft grounding)", "Linen (crisp clarity)"],
+          "effect": "Support authentic expression, protect from energetic 'throat punches' (harsh words, criticism)"
+        },
+
+        "collar_structured": {
+          "function": "Contain energy, project authority, create boundary",
+          "context": "Professional settings, public speaking, formal occasions",
+          "note": "Shirt collar = frame for face, directs attention upward, creates 'stage' for communication"
+        },
+
+        "necklace_metallic": {
+          "function": "Activate Vishuddha, amplify voice, protect thyroid",
+          "metals": [
+            "Silver: lunar, receptive, listening, intuition",
+            "Copper: grounding, voice strength, vitality",
+            "Gold: solar, projective, authority, confidence"
+          ],
+          "placement": "Throat hollow (Vishuddha point), clavicle line"
+        },
+
+        "tight_constriction": {
+          "warning": "Ties, tight collars, chokers (if uncomfortable) = block throat chakra",
+          "symptoms": "Difficulty speaking truth, voice strain, thyroid issues",
+          "solution": "Loosen or remove; if necessary (formal), wear consciously with breaks"
+        }
+      },
+
+      "modern_application": {
+        "public_speaking": "Silver necklace with sacred geometry (throat protection + clarity)",
+        "singing": "Light silk scarf (support vocal cords, keep warm, energy flow)",
+        "cold_weather": "Wool scarf with copper thread (warmth + vitality)",
+        "emf": "Conductive thread collar lining (protect thyroid from phone radiation)"
+      }
+    },
+
+    "3_chest_heart": {
+      "chakra": "Anahata (4th)",
+      "element": "Air / Love",
+      "function": "Compassion, connection, emotional balance",
+      "garments": ["Shirt", "Vest", "Bra/Binder", "Chest wrap"],
+
+      "energetic_effects": {
+        "open_chest": {
+          "function": "Vulnerable, receptive, open-hearted",
+          "garments": "V-neck, open collar, lightweight fabric",
+          "when": "Safe spaces, intimacy, creative work, connection",
+          "materials": "Silk, linen (breathable, allows heart to breathe)"
+        },
+
+        "protected_chest": {
+          "function": "Guarded, boundaried, armored (emotional protection)",
+          "garments": "High neck, thick fabric, vest/jacket layer",
+          "when": "Hostile environments, energy vampires, overwhelming crowds",
+          "materials": "Wool, leather (density creates shield)"
+        },
+
+        "heart_center_metal": {
+          "placement": "Heart chakra (center of chest, sternum level)",
+          "pattern": "Sacred heart, flower of life, spiral (opening, love flow)",
+          "metals": [
+            "Rose gold/copper: warmth, self-love, grounding love",
+            "Silver: receptive love, lunar compassion, emotional healing",
+            "Gold: radiant love, solar generosity, unconditional love"
+          ]
+        }
+      },
+
+      "gender_specific": {
+        "breasts_female": {
+          "energetic_function": "Nurturing, receptive, creative (even without children)",
+          "bra_effect": "Constriction blocks energy flow; supportive but not tight = ideal",
+          "materials": "Natural fibers only (synthetic bras = block biofield, reduce frequency)",
+          "note": "Breasts energetically connected to heart chakra, creative expression, feminine power"
+        },
+
+        "chest_male": {
+          "energetic_function": "Protective, expansive, solar plexus extension upward",
+          "shirt_effect": "Crisp structure = confidence; soft flow = openness",
+          "materials": "Linen/cotton for daily (grounding), silk for ritual (transformative)",
+          "note": "Male chest = shield for heart, solar-yang expression"
+        }
+      },
+
+      "modern_application": {
+        "emf_heart": "Metallic grid pattern over heart = shield from phone in pocket",
+        "grief_work": "Soft cashmere/silk wrap over heart (gentle, warm, supportive)",
+        "confidence": "Structured vest with solar symbols (solar plexus + heart integration)",
+        "meditation": "Lightweight linen robe, open chest (breath, heart expansion)"
+      }
+    },
+
+    "4_waist_belt": {
+      "chakra": "Manipura (3rd)",
+      "element": "Fire / Will",
+      "function": "Personal power, transformation, center of gravity",
+      "garments": ["Belt", "Sash", "Waistband", "Obi"],
+
+      "energetic_effects": {
+        "belt_as_transformer": {
+          "principle": "Waist = center point, energy flows up/down through this gate",
+          "function": "Stabilize, ground, contain, transform energy between upper/lower body",
+          "physics": "Creates intra-abdominal pressure = physical + energetic containment"
+        },
+
+        "belt_types": {
+          "leather": {
+            "material_energy": "Animal (grounded, primal, earth)",
+            "function": "Stability, tradition, strength",
+            "effect": "Grounding, connecting to ancestral/animal power",
+            "when": "Physical work, protection, traditional roles"
+          },
+
+          "fabric_sash": {
+            "material_energy": "Plant (flexible, adaptive, flowing)",
+            "function": "Gently contain without rigidity",
+            "effect": "Harmonize energy distribution, flexible strength",
+            "when": "Martial arts, dance, creative work, daily wear"
+          },
+
+          "metal_buckle": {
+            "material_energy": "Mineral (structure, focus, conductivity)",
+            "metals": [
+              "Brass/Bronze: grounding, traditional, solar",
+              "Silver: lunar, protective, intuitive power",
+              "Steel: strength, modern, martial",
+              "Gold: rare, solar plexus activation, royal power"
+            ],
+            "placement": "Buckle at navel/below = locks energy at Manipura"
+          }
+        },
+
+        "tightness": {
+          "loose": "Energy flows freely, relaxed state, yin",
+          "moderate": "Contained, focused, balanced",
+          "tight": "Concentrated power, martial readiness, yang (but: prolonged = constriction, digestive issues)"
+        }
+      },
+
+      "gender_specialization": {
+        "male_belt": {
+          "function": "Amplify Yang will, consolidate action-energy, protect core",
+          "traditional": "Warrior belts, tool belts, thick leather = power statement",
+          "modern": "Belt = masculine marker, structure, authority symbol"
+        },
+
+        "female_waist": {
+          "function": "Define feminine form, contain/transform creative energy",
+          "traditional": "Sash, obi, soft belt = flow + structure",
+          "modern": "Belt optional; when worn = empowerment, grounding, definition"
+        }
+      },
+
+      "martial_arts_wisdom": {
+        "belt_wrestling": {
+          "cultures": ["Mongolian Bukh", "Turkish Yagli Gures", "Georgian Chidaoba"],
+          "function": "Belt = center of leverage, axis of rotation, grounding point",
+          "energy": "Connection to Earth, stability in movement, honor symbol"
+        },
+
+        "colored_belt_systems": {
+          "origin": "Judo (Kano, 1880s), adopted by karate, taekwondo",
+          "colors_meaning": "White→Yellow→Orange→Green→Blue→Purple→Brown→Black = earth to void",
+          "energetic": "Belt color = vibration, rank = energetic frequency achieved",
+          "note": "Wearing belt = carrying lineage, teacher's energy, tradition's power"
+        }
+      },
+
+      "modern_application": {
+        "anxiety": "Moderate belt pressure = grounding, containing scattered energy",
+        "confidence": "Structured belt = spine extension, posture improvement, presence",
+        "digestion": "Loose after meals; tight during fast (contains fire, focuses will)",
+        "emf": "Copper or silver buckle with sacred geometry = grounding point for EMF discharge"
+      }
+    },
+
+    "5_pelvis_underwear": {
+      "chakra": "Svadhisthana (2nd) + Muladhara (1st)",
+      "element": "Water (sacral) + Earth (root)",
+      "function": "Sexuality, creativity, survival, foundation",
+      "garments": ["Underwear", "Lower garments", "Support garments"],
+
+      "energetic_effects": {
+        "underwear_critical": {
+          "why": "Direct genital contact 24/7, most intimate clothing, first layer on body",
+          "material_imperative": "ONLY natural fibers. Synthetic underwear = worst choice possible.",
+          "explanation": "Genitals = highly permeable, hormonal, root/sacral chakras. Synthetic = blocks energy, traps heat/moisture, reduces frequency of entire lower body"
+        },
+
+        "materials_hierarchy": {
+          "best": "Organic cotton (breathable, soft, affordable), Silk (luxury, smooth, temperature-regulating)",
+          "good": "Merino wool (temperature control, antimicrobial), Linen (crisp, cooling, high-frequency)",
+          "acceptable": "Conventional cotton (better than synthetic, but: pesticides, choose organic if possible)",
+          "never": "Polyester, nylon, synthetic blends (energetically dead, hormonal disruption risk, uncomfortable)"
+        },
+
+        "fit_effects": {
+          "loose": "Energy flows freely, comfort, yin (sleep, relaxation)",
+          "supportive": "Gentle structure, daily wear, balanced",
+          "tight": "Compression, athletic support, yang (exercise only; chronic tightness = circulation/energy blockage)"
+        }
+      },
+
+      "gender_specific": {
+        "male_underwear": {
+          "function": "Support testes (external, vulnerable), protect root chakra",
+          "style_energy": {
+            "briefs": "Contained, compact, yang structure (athletic, daily)",
+            "boxers": "Loose, flowing, yin comfort (sleep, relaxation)",
+            "boxer_briefs": "Balanced (most popular modern choice)"
+          },
+          "fertility_note": "Excessive heat = reduce sperm count. Natural fibers breathe better than synthetic."
+        },
+
+        "female_underwear": {
+          "function": "Protect vulva/vagina (internal, receptive), support sacral creativity",
+          "style_energy": {
+            "bikini_low": "Minimal, freedom, expressive",
+            "hipster_mid": "Balanced coverage, daily comfort",
+            "high_waist": "Full coverage, grounding, protective (especially menstruation)"
+          },
+          "menstruation": "Natural fibers essential (breathable, absorb, comfortable). Cotton = standard. Avoid synthetic during period (moisture trap, bacterial risk)."
+        }
+      },
+
+      "modern_application": {
+        "daily": "Organic cotton underwear = baseline standard (comfort, health, energy)",
+        "athletic": "Merino wool blend (moisture-wicking + natural fiber frequency)",
+        "sleep": "Silk or loose cotton (or none = complete freedom, highest frequency)",
+        "sacred/ritual": "White silk or linen (purity, high frequency, intentional)"
+      }
+    },
+
+    "6_hands_gloves": {
+      "holographic": "Hands = projection of entire body (see: cfo:humanology:embodied-energy)",
+      "chakra": "Minor chakras in palm centers (Laogong points)",
+      "element": "All elements (fingers correspond to 5 elements)",
+      "function": "Energy projection, healing, creation, protection",
+      "garments": ["Gloves", "Mittens", "Fingerless gloves", "Rings"],
+
+      "energetic_effects": {
+        "gloves_covering": {
+          "function": "Protect hands from external energies, contain personal energy",
+          "when": "Cold weather, dirty work, energy protection (crowds, hospitals, psychic work)",
+          "materials": {
+            "leather": "Grounding, protective, traditional (work gloves, winter gloves)",
+            "wool": "Insulating, warm, contains energy (winter)",
+            "silk": "Smooth, protective without heaviness (silk glove liners for energy work)",
+            "cotton": "Breathable, light protection (gardening, cleaning)"
+          }
+        },
+
+        "gloves_uncovering": {
+          "function": "Direct contact, energy transmission, tactile reception",
+          "when": "Healing work, creative work (sculpting, writing), intimate touch, cooking sacred food",
+          "benefit": "Full sensitivity, biofield exchange, unmediated connection"
+        },
+
+        "fingerless_gloves": {
+          "function": "Wrist/palm protection + fingertip freedom",
+          "balance": "Grounding through wrist/palm while allowing fingertip sensitivity",
+          "use": "Typing, delicate work, partial protection"
+        },
+
+        "rings_metallic": {
+          "principle": "Rings = miniature energy transformers on finger meridians",
+          "finger_correspondence": {
+            "thumb": "Lung meridian, will, logic → Silver/Copper (grounding, clarity)",
+            "index": "Large Intestine, direction, authority → Gold (leadership, manifestation)",
+            "middle": "Pericardium, balance, responsibility → Balanced metal (copper/silver mix)",
+            "ring": "Triple Warmer, relationships, harmony → Gold (love, commitment, partnership)",
+            "pinky": "Heart/Small Intestine, communication → Silver (intuition, emotional expression)"
+          },
+          "wedding_ring_note": "4th finger (ring) = directly connected to heart via meridian. Gold ring = solar love, eternal commitment."
+        }
+      },
+
+      "hands_as_tools": {
+        "left_hand": {
+          "energy": "Yin, receptive, diagnostic",
+          "glove_choice": "If only one glove: leave left bare (for sensing) OR glove left (protect reception)"
+        },
+
+        "right_hand": {
+          "energy": "Yang, projective, healing/creating",
+          "glove_choice": "If only one glove: leave right bare (for transmission) OR glove right (contain projection)"
+        }
+      },
+
+      "modern_application": {
+        "healing_work": "Bare hands (direct contact) OR thin silk gloves (protect healer from client energy absorption)",
+        "emf_protection": "Conductive thread gloves for phone/computer use (ground EMF)",
+        "cold_weather": "Wool or leather gloves, silver rings underneath (warmth + energy circulation)",
+        "ritual": "White silk or cotton gloves (purity, intentional barrier, handle sacred objects)"
+      }
+    },
+
+    "7_feet_footwear": {
+      "holographic": "Feet = projection of entire body, grounding points",
+      "chakra": "Muladhara (root) extends to soles",
+      "element": "Earth (grounding, foundation)",
+      "function": "Earth connection, stability, energy discharge/reception",
+      "garments": ["Shoes", "Boots", "Socks", "Sandals", "Barefoot"],
+
+      "energetic_effects": {
+        "barefoot": {
+          "function": "Direct Earth contact, maximum energy exchange, grounding",
+          "benefits": "Negative ion absorption, biofield discharge (excess energy to Earth), meridian stimulation (walking = foot reflexology)",
+          "when": "Home, nature, sacred spaces, grounding practices, sleep",
+          "caution": "Cold surfaces = root chakra constriction; dirty/sharp surfaces = physical risk"
+        },
+
+        "socks_only": {
+          "function": "Minimal barrier, warmth, some protection",
+          "materials": {
+            "wool": "Insulating, antimicrobial, breathable (best for cold, daily wear)",
+            "cotton": "Soft, breathable, absorbs moisture (daily, moderate temperature)",
+            "silk": "Smooth, regulating, luxury (sleep, special occasions)",
+            "never": "Synthetic (polyester socks = sweat trap, energetically dead, uncomfortable)"
+          }
+        },
+
+        "shoes_grounding": {
+          "principle": "Sole = barrier or conductor depending on material",
+          "materials": {
+            "leather_sole": "Traditional, some Earth connection, breathable, molds to foot",
+            "rubber_sole": "Insulating (blocks Earth connection), waterproof, modern standard",
+            "cork": "Insulating + natural, comfortable, sustainable",
+            "conductive_sole": "Copper threads/grounding plug = intentional Earth connection (grounding shoes)"
+          },
+          "note": "Modern rubber shoes = disconnect from Earth. Chronic insulation = contributes to inflammation, poor grounding. Solution: barefoot time daily, leather soles, or grounding shoes."
+        },
+
+        "shoe_types": {
+          "sandals": {
+            "function": "Minimal coverage, breathability, flexibility",
+            "energy": "Open, flowing, summer, casual",
+            "grounding": "Better than closed shoes (skin exposed to air, some Earth contact)"
+          },
+
+          "boots": {
+            "function": "Protection, structure, power",
+            "energy": "Grounded, boundaried, martial, winter",
+            "height_effect": "Higher boot = more root/sacral containment (stability vs. restriction trade-off)"
+          },
+
+          "slippers": {
+            "function": "Home transition, comfort, boundary between outside/inside",
+            "energy": "Domestic, relaxed, yin",
+            "cultural_note": "Remove outdoor shoes at threshold = energy hygiene (leave outside energy outside)"
+          }
+        }
+      },
+
+      "foot_hologram_clothing": {
+        "socks_targeted": {
+          "heel": "Root chakra (Muladhara) - red color, grounding symbols",
+          "arch": "Sacral/Solar plexus - orange/yellow, support symbols",
+          "ball": "Heart (Anahata) - green, expansion symbols",
+          "toes": "Head/crown - indigo/violet, consciousness symbols"
+        },
+
+        "insoles_metal": {
+          "copper_insole": "Grounding, antimicrobial, Earth connection even in rubber shoes",
+          "silver_thread": "Protection, lunar energy, cooling",
+          "magnetic_insole": "Meridian stimulation (controversial, some find beneficial)"
+        }
+      },
+
+      "modern_application": {
+        "daily": "Leather-soled shoes OR grounding shoes (maintain Earth connection)",
+        "athletic": "Minimalist shoes (thin sole, foot freedom) + wool socks",
+        "winter": "Wool-lined boots + wool socks (warmth + natural fibers)",
+        "home": "Barefoot on natural floors (wood, stone, Earth) OR wool socks on cold floors",
+        "grounding_practice": "20 minutes barefoot on Earth daily (grass, sand, soil) = reset biofield, discharge EMF"
+      }
+    }
+  },
+
+  "layering_strategy": {
+    "principle": "Multiple layers = multiple energy functions (onion model)",
+
+    "base_layer": {
+      "function": "Skin contact, direct biofield interface, foundation",
+      "requirement": "MUST be natural fiber (highest frequency, most intimate)",
+      "garments": "Underwear, undershirt, socks",
+      "materials": "Organic cotton, silk, merino wool, linen",
+      "note": "Never compromise base layer. This is most critical."
+    },
+
+    "mid_layer": {
+      "function": "Insulation, modesty, structure, personal expression",
+      "flexibility": "Can mix natural + small amount synthetic IF needed (e.g., 2% spandex for stretch)",
+      "garments": "Shirt, pants, dress, sweater",
+      "materials": "Cotton, linen, wool, silk (primary); acceptable: small synthetic percentage for function",
+      "note": "Main visible layer, identity expression, most variety"
+    },
+
+    "outer_layer": {
+      "function": "Protection from environment (weather, energy, gaze)",
+      "flexibility": "Functional materials acceptable IF not prolonged skin contact",
+      "garments": "Coat, jacket, rain shell, armor",
+      "materials": "Wool, leather, waxed canvas (traditional); acceptable: technical fabrics for extreme weather (Gore-Tex, etc.) IF not touching skin",
+      "note": "Boundary with world, removable, less energetically critical than base"
+    }
+  },
+
+  "color_energy": {
+    "principle": "Color frequency affects biofield, psychology, social perception",
+    "reference": "Visible light spectrum 380-750 nm, each color = specific frequency",
+
+    "chakra_color_clothing": {
+      "red": {
+        "chakra": "Muladhara (root)",
+        "frequency": "~430 THz (lowest visible)",
+        "energetics": "Grounding, vitality, passion, survival, power",
+        "use": "Lower body (pants, shoes, underwear), when needing courage/energy",
+        "caution": "Excess = aggression, overstimulation"
+      },
+
+      "orange": {
+        "chakra": "Svadhisthana (sacral)",
+        "frequency": "~480 THz",
+        "energetics": "Creativity, sexuality, joy, enthusiasm, warmth",
+        "use": "Pelvis area, creative work, social occasions",
+        "caution": "Excess = overindulgence, scattered energy"
+      },
+
+      "yellow": {
+        "chakra": "Manipura (solar plexus)",
+        "frequency": "~510 THz",
+        "energetics": "Confidence, intellect, personal power, optimism, clarity",
+        "use": "Waist, torso, when needing mental focus/confidence",
+        "caution": "Excess = anxiety, overthinking"
+      },
+
+      "green": {
+        "chakra": "Anahata (heart)",
+        "frequency": "~560 THz (middle of spectrum)",
+        "energetics": "Balance, healing, growth, compassion, harmony",
+        "use": "Chest, heart area, nature connection, healing work",
+        "caution": "Rarely excessive (balancing color)"
+      },
+
+      "blue": {
+        "chakra": "Vishuddha (throat)",
+        "frequency": "~670 THz",
+        "energetics": "Communication, truth, calm, clarity, expression",
+        "use": "Throat, neck, when needing to speak truth, presentations",
+        "caution": "Excess = coldness, emotional distance"
+      },
+
+      "indigo": {
+        "chakra": "Ajna (third eye)",
+        "frequency": "~700 THz",
+        "energetics": "Intuition, insight, perception, wisdom, inner vision",
+        "use": "Head covering, meditation garments, psychic work",
+        "caution": "Excess = disconnection from physical reality"
+      },
+
+      "violet_purple": {
+        "chakra": "Sahasrara (crown)",
+        "frequency": "~750 THz (highest visible)",
+        "energetics": "Spirituality, transcendence, divine connection, transformation",
+        "use": "Head, full body for ritual/ceremony, meditation",
+        "caution": "Excess = spiritual bypassing, impracticality"
+      },
+
+      "white": {
+        "nature": "All colors combined, full spectrum",
+        "energetics": "Purity, clarity, new beginnings, protection, unity",
+        "use": "Sacred garments, ritual, meditation, new phases",
+        "note": "Reflects all frequencies, neutral + protective"
+      },
+
+      "black": {
+        "nature": "Absence of color, absorption",
+        "energetics": "Protection, mystery, power, grounding, void",
+        "use": "Protection from external energies, formal occasions, grounding",
+        "caution": "Can absorb too much (external energies, heat), may feel heavy; balance with other colors"
+      }
+    }
+  },
+
+  "sacred_garment_creation": {
+    "principle": "Intentional design + natural materials + sacred geometry + ritual activation = powerful tool",
+
+    "design_process": {
+      "step_1_intention": {
+        "question": "What is purpose of this garment?",
+        "examples": [
+          "Protection (shield from negative energy, EMF, psychic attack)",
+          "Healing (support specific chakra, organ, emotional process)",
+          "Power (amplify personal will, confidence, manifestation)",
+          "Connection (enhance intuition, divine connection, relationships)",
+          "Ritual (specific ceremony, initiation, sacred work)"
+        ]
+      },
+
+      "step_2_body_mapping": {
+        "principle": "Place symbols/metals at exact body locations for targeted effect",
+        "examples": [
+          "Heart protection: silver spiral over Anahata (sternum)",
+          "Grounding: copper grid at Muladhara (lower belly/pelvis)",
+          "Communication: blue throat covering with silver symbols at Vishuddha",
+          "Third eye: indigo headband with gold spiral at Ajna (forehead)"
+        ]
+      },
+
+      "step_3_material_selection": {
+        "fiber": "Choose based on desired frequency + function (see: cfo:technology:textiles)",
+        "metal_threads": "Gold (solar, power), Silver (lunar, protection), Copper (grounding, vitality)",
+        "color": "Align with chakra/intention",
+        "weave": "Plain (protection), Twill (flow), Satin (smooth transformation), Jacquard (complex sacred geometry)"
+      },
+
+      "step_4_sacred_geometry": {
+        "reference": "cfo:technology:textiles sacred_geometry_weaving",
+        "patterns": [
+          "Flower of Life (unity, creation, harmony)",
+          "Metatron's Cube (all platonic solids, structure of reality)",
+          "Sri Yantra (manifestation, divine feminine)",
+          "Spirals (transformation, vortex energy)",
+          "Grids/Crosses (protection, boundaries, four directions)",
+          "Celtic knots (continuity, eternal, ancestral connection)"
+        ],
+        "application": "Woven (jacquard), Embroidered (hand or machine), Printed (less powerful but accessible)"
+      },
+
+      "step_5_creation_ritual": {
+        "if_handmade": "Each stitch = prayer, intention, spell. Meditative state, sacred music, clean space.",
+        "if_commissioned": "Communicate intention to maker. Provide clear design. Activate upon receiving.",
+        "if_purchased": "Cleanse (salt water, smoke, sunlight), then activate with intention ritual."
+      },
+
+      "step_6_activation": {
+        "initial_activation": "First wearing as ritual. Clean body, clear mind, sacred space. Put on garment with spoken intention: 'I activate this [garment name] for [purpose]. I am [desired state].' Visualize energy flowing through sacred geometry.",
+        "regular_activation": "Each wearing, brief intention: 'I activate this protection/power/connection.' Becomes automatic with practice.",
+        "maintenance": "Regular cleansing (physical washing + energetic clearing), re-activation as needed, respectful storage."
+      }
+    }
+  },
+
+  "practical_pathways": {
+    "beginner_immediate": {
+      "priority": "Replace synthetic underwear/socks with natural fibers",
+      "action": "Buy organic cotton or merino wool underwear + socks",
+      "cost": "Moderate (Thrift stores often have natural fiber basics cheap)",
+      "effect": "Immediate comfort improvement, biofield frequency increase, foundation for further work"
+    },
+
+    "intermediate_investment": {
+      "priority": "Build natural fiber wardrobe, add intentional color/symbols",
+      "actions": [
+        "Linen or cotton shirts/blouses (daily wear, high frequency)",
+        "Wool sweaters/cardigans (insulation + grounding)",
+        "Leather belt or natural fiber sash (center/ground)",
+        "One garment with embroidered/woven symbol (start simple: spiral, cross, personal symbol)"
+      ],
+      "cost": "Higher (Quality natural fiber clothing is investment, but: thrift stores, vintage, sales)",
+      "effect": "Complete natural fiber contact, symbol consciousness begins, aesthetic + energetic alignment"
+    },
+
+    "advanced_custom": {
+      "priority": "Sacred garments for specific purposes",
+      "actions": [
+        "Commission or create ritual robe (meditation, ceremony, healing work)",
+        "Metallic thread embroidery at chakra points on existing garments",
+        "Full sacred geometry jacquard piece (shirt, dress, wall hanging)",
+        "Heirloom garment (wedding, initiation, burial shroud)"
+      ],
+      "cost": "High (Artisan work, precious metals, time investment)",
+      "effect": "Powerful energetic tools, lineage objects, deep personal transformation, mastery of clothing-as-consciousness"
+    }
+  },
+
+  "maintenance_energetics": {
+    "washing": {
+      "frequency": "Balance hygiene + energy preservation (over-washing = depletes garment energy)",
+      "method": {
+        "cold_water": "Preserves fabric frequency, eco-friendly",
+        "natural_soap": "Avoid synthetic detergents (residue lowers frequency), use castile, plant-based",
+        "hand_wash_sacred": "Ritual garments = hand wash with intention, preserve energy",
+        "air_dry": "Sun/air = natural cleansing + UV disinfection. Dryer = harsh, depletes. Exception: wool (lay flat)"
+      }
+    },
+
+    "energy_clearing": {
+      "when": "After intense events, negative interactions, illness, before/after ritual",
+      "methods": {
+        "salt_water": "Soak in salt water (ocean or dissolve sea salt in water), rinse, dry. Clears heavy energy.",
+        "smoke": "Sage, palo santo, cedar, or incense. Pass garment through smoke with intention.",
+        "sunlight": "Hang in sun for few hours. UV + solar energy = natural cleanse. (Caution: may fade colors.)",
+        "sound": "Singing bowl, bell, or chanting over garment. Vibration clears stagnant energy.",
+        "earth": "Bury temporarily in clean earth (full moon night). Earth absorbs, transmutes."
+      }
+    },
+
+    "storage": {
+      "sacred_garments": "Separate from daily clothes. Clean, dark, dry space. Wrapped in natural fabric (silk, cotton). Optional: lavender, cedar, or protective symbols nearby.",
+      "daily_clothes": "Organized, aired out between wears, natural moth repellent (cedar, lavender sachets), avoid plastic bags (synthetic blocks energy, use cotton garment bags)."
+    },
+
+    "repair_honoring": {
+      "mending": "Visible mending (sashiko, embroidery) = art + energy preservation. Each repair = garment stronger, more storied.",
+      "when_to_release": "When garment beyond repair, thank it, compost natural fibers (return to Earth), save metal/buttons (recycle, reuse).",
+      "heirloom_care": "Sacred garments = pass down generations OR buried with deceased (ancient tradition, clothing carries person's energy)."
+    }
+  },
+
+  "modern_challenges": {
+    "emf_protection": {
+      "problem": "Phones, WiFi, 5G = constant electromagnetic radiation, disrupts biofield",
+      "clothing_solution": "Conductive fabric (silver/copper thread) = Faraday cage effect",
+      "applications": [
+        "Phone pocket lining (protect heart, reproductive organs)",
+        "Headwear lining (protect brain)",
+        "Underwear with silver thread (protect reproductive organs)",
+        "Full body EMF clothing (extreme cases: EMF sensitivity)"
+      ],
+      "note": "EMF clothing = modern shamanic protection. Ancestors had psychic shields (symbols, amulets). We need technological shields (conductive fabrics) + energetic shields (sacred geometry). Both/and."
+    },
+
+    "fast_fashion_escape": {
+      "problem": "Synthetic, exploitative, disposable, unconscious, low-frequency",
+      "solution": "Slow fashion: natural, artisan-made, heirloom quality, intentional",
+      "mindset_shift": "From 'cheap and many' to 'precious and few'. One sacred garment > ten dead synthetics.",
+      "economic": "Yes, expensive upfront. But: lasts decades (vs months), feels better, looks better, IS better. Total cost over time = same or less."
+    }
+  },
+
+  "_closing": {
+    "essence": "Clothing = second skin, energy interface, sacred vestment, daily ritual.",
+    "truth": "What you wear = what you become. Choose consciously.",
+    "practice": "Natural fibers (foundation), Sacred geometry (information), Intentional placement (activation), Ritual wearing (consciousness).",
+    "result": "Embodied coherence. Protected biofield. Expressed essence. Walking temple.",
+    "sacred": "Dress as if clothing matters. Because it does.",
+    "completion": "∞"
+  }
+}

@@ -1,402 +1,1075 @@
 {
   "_meta": {
     "id": "cfo:humanology:bodytypes",
-    "type": "humanology",
-    "fractal_depth": 2,
-    "contains": ["cfo:paths:air", "cfo:paths:fire", "cfo:paths:water", "cfo:paths:earth"],
-    "contained_by": ["cfo:humanology:roles"],
-    "source": "Somatic geometry + Sheldon + Reich + Disney character analysis"
+    "version": "1.0",
+    "type": "anthropological_physics",
+    "level": "palimpsest_level_6",
+    "description": "The Grand Unified Theory of Somatics. Human body as multi-layered palimpsest written by Macro-Race, Climate, Archetypal Role, Quadra Physics, Cognitive Dichotomies, and Epigenetic History. Integrates Disney visual anchors, Kibbe geometry, and practical protocols.",
+    "formula": "Race(Element) × Climate(Modification) × Role(Hull) × Quadra(Density) × Dichotomy(Distortion) × Biography(Trauma)",
+    "source": "Geopolitical Somatology + Epigenetics + Reichian Armor + Archetypal Geometry + Socionics + Kibbe + Disney Visual Language",
+    "master_key": "Reading the body requires distinguishing the Blueprint (Design) from the Damage (History). Form follows function at somatic level."
   },
 
   "_holographic_seed": {
-    "absolute": "Body = consciousness materialized into 3D form",
-    "structure": "4 body types = 4 dimensional emphases = 4 geometric angles",
-    "mapping": "Respiratory (1D) | Muscular (2D) | Digestive (3D) | Cerebral (4D)",
-    "angles": "Acute (<90°) | Right (=90°) | Obtuse (>90°) | Inverted (top>bottom)",
-    "roles": "Knight | Dame | King | Page",
-    "systems": "Breath | Muscle | Digestion | Nerves",
-    "wisdom": "Body shape reveals consciousness structure. Form follows function at somatic level.",
-    "note": "Your body is not random. It's your consciousness wearing matter."
+    "absolute": "Body = consciousness crystallized into 3D form. Not random. Not punishment. Pure information.",
+    "layers_of_reality": {
+      "layer_1_substrate": "MACRO-RACE (The Canvas) — Elemental constraints of lineage",
+      "layer_2_environment": "CLIMATE (The Texture) — Adaptation to heat/cold pressure",
+      "layer_3_design": "ROLE/HULL (The Shape) — Geometric purpose (Knight, Dame, King, Page)",
+      "layer_4_material": "QUADRA/DENSITY (The Ink) — Physics of flesh (Steel, Coconut, Jellyfish, Peach)",
+      "layer_5_handwriting": "DICHOTOMIES (The Style) — How cognition distorts geometry",
+      "layer_6_damage": "TRAUMA (The Tears) — Where history broke the design"
+    },
+    "golden_rule": "φ (Phi) = 1.618. Health = alignment to φ. Trauma = deviation from φ.",
+    "core_principle": "4 body types = 4 dimensional emphases = 4 physiological systems = 4 geometric angles",
+    "wisdom": "Your body is teaching you who you are. Look in mirror — what angle do you see? That's your dimensional emphasis made flesh."
   },
 
-  "_links": {
-    "roles": "./roles.json",
-    "types": "./types.json",
-    "paths": ["../paths/air.json", "../paths/fire.json", "../paths/water.json", "../paths/earth.json"]
-  },
-
-  "four_body_types": {
-    "principle": "4 somatic archetypes based on dominant physiological system + geometric angle",
+  "LEVEL_0_FOUNDATIONAL_ARCHETYPES": {
+    "principle": "Before race, climate, and trauma — there are 4 fundamental somatic templates based on dominant system + dimensional emphasis",
     
     "correspondence_table": {
-      "respiratory": {
-        "dimension": "1D (line, movement)",
+      "cerebral_page": {
+        "dimension": "4D (tesseract, observation, meta-temporal)",
+        "angle": "INVERTED (top > bottom)",
+        "dominant_system": "Nervous (brain, cognition, awareness)",
+        "role": "Page (observer) 👁️",
+        "phi_level": "1φ",
+        "geometry_symbol": "▯ (Rectangle but top-heavy)",
+        "vector": "Internal / Stillness",
+        "element_affinity": "Air (cerebral, detached)"
+      },
+      "respiratory_knight": {
+        "dimension": "1D (line, movement, vector)",
         "angle": "< 90° (acute, vertical striving)",
-        "dominant_system": "Respiratory (lungs, breath)",
-        "role": "Knight (explorer)",
-        "quadra": "Delta (δ)",
-        "geometry": "Vertical elongation, narrow frame, long limbs",
-        "consciousness": "Movement through space-time"
+        "dominant_system": "Respiratory (lungs, breath, oxygen)",
+        "role": "Knight (explorer) 🐇",
+        "phi_level": "4φ",
+        "geometry_symbol": "▼ (Trapezoid Up)",
+        "vector": "Vertical Dynamic / Sprint",
+        "element_affinity": "Fire (upward, piercing)"
       },
-      
-      "muscular": {
-        "dimension": "2D (plane, structure)",
+      "muscular_dame": {
+        "dimension": "2D (plane, structure, boundary)",
         "angle": "= 90° (right, perpendicular stability)",
-        "dominant_system": "Muscular-skeletal (muscles, bones)",
-        "role": "Dame (guardian)",
-        "quadra": "Gamma (γ)",
-        "geometry": "Balanced proportions, symmetrical, strong",
-        "consciousness": "Boundary maintenance"
+        "dominant_system": "Muscular-Skeletal (muscles, bones, structure)",
+        "role": "Dame (guardian) 🛡️",
+        "phi_level": "2φ",
+        "geometry_symbol": "▲ (Trapezoid Down)",
+        "vector": "Vertical Stability / Anchor",
+        "element_affinity": "Earth (grounding, stable)"
       },
-      
-      "digestive": {
-        "dimension": "3D (volume, expansion)",
+      "digestive_king": {
+        "dimension": "3D (volume, expansion, space)",
         "angle": "> 90° (obtuse, horizontal spreading)",
-        "dominant_system": "Digestive (stomach, metabolism)",
-        "role": "King (ruler)",
-        "quadra": "Beta (β)",
-        "geometry": "Horizontal width, volumetric presence, thick",
-        "consciousness": "Territorial expansion"
-      },
-      
-      "cerebral": {
-        "dimension": "4D (tesseract, observation)",
-        "angle": "Inverted (top > bottom)",
-        "dominant_system": "Nervous (brain, cognition)",
-        "role": "Page (observer)",
-        "quadra": "Alpha (α)",
-        "geometry": "Large head, slender body, minimal physicality",
-        "consciousness": "Meta-observation"
+        "dominant_system": "Digestive (stomach, metabolism, resource processing)",
+        "role": "King (ruler) 👑",
+        "phi_level": "8φ",
+        "geometry_symbol": "X (Hourglass)",
+        "vector": "Omnidirectional Expansion / Explosion",
+        "element_affinity": "Water (expanding, flowing)"
       }
     }
   },
 
-  "somatic_archetypes": {
-    "respiratory": {
-      "name": "Respiratory (Дыхательный)",
-      "dimension": "1D",
-      "angle": "< 90° (acute)",
-      "role": "Knight",
+  "LEVEL_1_MACRO_RACES": {
+    "principle": "Deep ancestral elemental archetype. Sets baseline limitations for height, width, bone density. This is the CANVAS.",
+    
+    "WEST_FIRE_BETA": {
+      "element": "Fire",
+      "quadra_root": "Beta Archetype",
+      "geography": "Western Europe, Scandinavia, North America (colonial)",
+      "geometry": "Vertical, Narrow, Angular",
+      "vector": "Upward / Sharp",
+      "somatic_tendency": "Elongation of limbs, sharpness of features, explosive potential, high bone density",
+      "visual_anchor": "The Spear / The Gothic Spire",
+      "famous_examples": "Vikings, Germanic tribes, Anglo-Saxons",
+      "predisposition": "Knight (Respiratory) and Dame (Muscular) hulls favored"
+    },
+    "EAST_WATER_GAMMA": {
+      "element": "Water",
+      "quadra_root": "Gamma Archetype",
+      "geography": "East Asia, Southeast Asia, Pacific Islands",
+      "geometry": "Horizontal, Wide, Rounded",
+      "vector": "Outward / Fluid",
+      "somatic_tendency": "Expansion of torso, fluidity of joints, adaptability of mass, moderate bone density",
+      "visual_anchor": "The River Stone / The Yurt",
+      "famous_examples": "Han Chinese, Japanese, Mongols, Polynesians",
+      "predisposition": "King (Digestive) and Dame (Muscular) hulls favored"
+    },
+    "NORTH_AIR_ALPHA": {
+      "element": "Air",
+      "quadra_root": "Alpha Archetype",
+      "geography": "Northern Russia, Siberia, Arctic regions",
+      "geometry": "Light, Elongated, Variable",
+      "vector": "Upward / Anti-Gravity",
+      "somatic_tendency": "Etherealness, large cranial ratio, erratic growth patterns, light bone density",
+      "visual_anchor": "The Cloud / The Bird",
+      "famous_examples": "Slavic peoples (Northern), Finno-Ugric, Sami",
+      "predisposition": "Page (Cerebral) and Knight (Respiratory) hulls favored"
+    },
+    "SOUTH_EARTH_DELTA": {
+      "element": "Earth",
+      "quadra_root": "Delta Archetype",
+      "geography": "Mediterranean, Middle East, North Africa, India",
+      "geometry": "Balanced, Dense, Stable",
+      "vector": "Downward / Rooted",
+      "somatic_tendency": "Proportionality, heavy bone density, rooting into ground, thermal adaptation",
+      "visual_anchor": "The Tree Trunk / The Mountain",
+      "famous_examples": "Mediterranean peoples, Arabs, Persians, Indians",
+      "predisposition": "Dame (Muscular) and King (Digestive) hulls favored"
+    },
+    
+    "note": "These are ANCESTRAL patterns spanning thousands of years. Individual variation exists. Modern mixing creates blends."
+  },
+
+  "LEVEL_2_CLIMATIC_MODULATION": {
+    "principle": "Geographic pressure modifies Macro-Race geometry (Allen's/Bergmann's Rules applied to Archetypes). This is the TEXTURE.",
+    
+    "COLD_CLIMATE": {
+      "pressure": "Heat Conservation",
+      "somatic_shift": "Contraction & Elongation",
+      "mechanism": "Minimize surface area relative to volume",
+      "effect": [
+        "Increases verticality",
+        "Narrows frame",
+        "Sharpens features",
+        "Shortens limbs relative to torso",
+        "Increases body hair",
+        "Lighter skin (vitamin D synthesis)"
+      ],
+      "example": "A King (Hourglass) in cold climate becomes tighter, more vertical Hourglass with less horizontal spread",
+      "regions": "Scandinavia, Northern Russia, Canada, Alaska"
+    },
+    "HOT_CLIMATE": {
+      "pressure": "Heat Dissipation",
+      "somatic_shift": "Expansion & Relaxation",
+      "mechanism": "Maximize surface area for cooling",
+      "effect": [
+        "Increases horizontality",
+        "Widens frame",
+        "Rounds features",
+        "Lengthens limbs relative to torso",
+        "Reduces body hair",
+        "Darker skin (UV protection)"
+      ],
+      "example": "A Knight (Trapezoid Up) in hot climate becomes wider, more muscular Trapezoid with broader shoulders",
+      "regions": "Equatorial Africa, Southeast Asia, Pacific Islands, Central America"
+    },
+    "TEMPERATE_CLIMATE": {
+      "pressure": "Variable / Neutral",
+      "somatic_shift": "Balance",
+      "mechanism": "No extreme adaptation needed",
+      "effect": [
+        "Allows 'ideal' proportions closer to Golden Ratio",
+        "Less environmental distortion of archetype",
+        "Maximum expression of genetic blueprint",
+        "Seasonal adaptation flexibility"
+      ],
+      "example": "Classic Vitruvian proportions — Mediterranean ideal",
+      "regions": "Mediterranean, Temperate Europe, Parts of China, California"
+    }
+  },
+
+  "LEVEL_3_ARCHETYPAL_HULLS": {
+    "principle": "The Fundamental Wireframe determined by Role (Phi-Level). Defines Center of Gravity, Vector, and Dominant Physiological System. This is the SHAPE.",
+    
+    "HULL_1_PAGE": {
+      "name": "Page / Observer",
+      "russian": "Паж / Наблюдатель (Мозговой)",
+      "phi_level": "1φ",
+      "dimension": "4D (observation, meta-temporal)",
+      "dominant_system": "Cerebral / Nervous",
+      "geometry": "RECTANGLE (▯) — but INVERTED (top > bottom)",
+      "proportions": "Shoulders ≈ Waist ≈ Pelvis (1:1:1) BUT head disproportionately large",
+      "center_of_gravity": "None / Diffused (or hyper-cerebral)",
+      "function": "Minimizing physical friction for maximum cerebral processing. The neutral vessel for pure observation.",
+      "vector": "Neutral / Internal (Stillness, retreat from physicality)",
       
-      "physical": {
-        "primary": "Vertical elongation, narrow frame",
-        "height": "Often tall or appears taller",
-        "proportions": "Long limbs, narrow torso, slender",
-        "face": "Oval or elongated, refined features",
-        "posture": "Upright, vertical emphasis, good posture",
-        "movement": "Fluid, graceful, sustained endurance",
-        "tendency": "Stays lean, difficulty gaining weight/muscle"
+      "physical_markers": {
+        "primary": "Large head proportion, slender body, minimal muscle development",
+        "proportions": "Narrow, minimal body mass, thin limbs, linear",
+        "face": "Large in proportion to body, prominent forehead, intelligent features, often asymmetrical",
+        "skeleton": "Light bones, minimal density, delicate structure",
+        "musculature": "Underdeveloped, difficulty building mass",
+        "movement": "Minimal, economical, cerebral not physical, awkward or disconnected",
+        "tendency": "Stays thin regardless of diet, high metabolism but poor physical endurance"
       },
       
       "physiological": {
-        "dominant": "Respiratory system — breath control, oxygen metabolism",
-        "strength": "Endurance, sustained aerobic activity, breathwork",
-        "weakness": "Building muscle mass, explosive power"
+        "dominant": "Nervous system — cognition, awareness, pattern recognition, meta-processing",
+        "strength": "Mental processing, sustained focus, abstract reasoning, pattern recognition at scale",
+        "weakness": "Physical power, endurance, body awareness, coordination, pain tolerance",
+        "metabolism": "Fast mental, slow physical. High cerebral energy demand. Often forgets to eat. Prone to blood sugar crashes.",
+        "vulnerabilities": "Nervous exhaustion, insomnia, digestive issues (forget to eat), disconnection from body signals"
       },
       
       "psychological": {
-        "orientation": "Future-directed, possibility-seeking",
-        "tempo": "Steady sustained rhythm (marathon not sprint)",
-        "focus": "Movement, flow, exploration, continuous action",
-        "strength": "Endurance, adaptability, grace",
-        "challenge": "Grounding, commitment, accumulation"
+        "orientation": "Abstract, conceptual, meta-temporal, non-physical",
+        "tempo": "Slow physical, extremely fast mental",
+        "focus": "Analysis, patterns, understanding, observation, systems thinking",
+        "challenge": "Embodiment, physical presence, emotional expression, taking action, social connection"
       },
       
       "disney_examples": [
-        "Goofy — tall, elongated, flowing",
-        "Cruella de Vil — angular, vertical, menacing",
-        "Jack Skellington — maximum vertical",
-        "Rapunzel — graceful elongation"
+        "Megamind — archetypal: massive head, tiny body",
+        "Jimmy Neutron — pure cerebral genius child",
+        "Milo (Atlantis) — intellectual, slender, bookish",
+        "The Brain (Pinky and the Brain) — literal giant brain",
+        "Wall-E — cerebral curiosity in minimal physical form",
+        "Linguini (Ratatouille) — awkward, gangly, cerebral",
+        "Chicken Little — small body, oversized glasses/head emphasis"
       ],
       
       "real_examples": [
-        "Long-distance runner",
-        "Yogi, breath worker",
-        "Ballet dancer",
-        "Endurance athlete"
+        "Scholar, professor, academic",
+        "Programmer, software engineer",
+        "Chess grandmaster",
+        "Theoretical physicist",
+        "Philosopher, writer",
+        "Mathematician, logician"
       ],
       
-      "development": {
-        "natural": "Endurance, flow, sustained movement",
-        "challenge": "Grounding, muscle building, accumulation",
-        "practices": "Strength training, weight gain, grounding meditation",
-        "goal": "Grounded mover — action with stability"
+      "kibbe_geometry": {
+        "prone_to": "Gamine or Ethereal/Angelic (delicate, inverted, youthful)",
+        "characteristics": "Small, delicate features, youthful appearance, mix of sharp and soft, petite",
+        "style_lines": "Broken lines, playful proportions, emphasis on head/face"
       }
     },
-
-    "muscular": {
-      "name": "Muscular (Мышечный)",
-      "dimension": "2D",
-      "angle": "= 90° (right)",
-      "role": "Dame",
+    
+    "HULL_2_KNIGHT": {
+      "name": "Knight / Explorer",
+      "russian": "Рыцарь / Исследователь (Дыхательный)",
+      "phi_level": "4φ",
+      "dimension": "1D (line, movement, vector)",
+      "dominant_system": "Respiratory",
+      "geometry": "TRAPEZOID UP (▼)",
+      "proportions": "Shoulders > Pelvis (Ratio ≈ 1.618:1)",
+      "center_of_gravity": "High (Chest/Heart)",
+      "function": "Maximum oxygen intake for kinetic movement. Minimal pelvic drag. Built for sustained motion.",
+      "vector": "Vertical Dynamic (Sprint, flight, ascent)",
       
-      "physical": {
-        "primary": "Balanced proportions, strong musculature",
-        "height": "Average, proportional",
-        "proportions": "Balanced shoulder-to-hip, equal development, symmetrical",
-        "face": "Symmetrical, defined features, strong jaw",
-        "posture": "Stable, grounded, structural",
-        "movement": "Controlled, powerful, precise",
-        "tendency": "Builds muscle easily, maintains definition"
+      "physical_markers": {
+        "primary": "Vertical elongation, narrow frame, broad shoulders tapering to narrow hips",
+        "proportions": "Long limbs, narrow torso, slender but not weak, V-shape from shoulders to hips",
+        "face": "Oval or elongated, refined features, often sharp or angular",
+        "skeleton": "Light to medium bones, elongated structure",
+        "musculature": "Long lean muscles, defined but not bulky, swimmer's build",
+        "movement": "Fluid, graceful, sustained endurance, rhythmic, flowing",
+        "tendency": "Stays lean naturally, difficulty gaining weight or muscle mass, always looks 'fit'"
       },
       
       "physiological": {
-        "dominant": "Muscular-skeletal — strength, structure",
-        "strength": "Power, defined musculature, resilience",
-        "weakness": "Flexibility, extreme endurance"
+        "dominant": "Respiratory system — breath control, oxygen metabolism, lung capacity, aerobic endurance",
+        "strength": "Endurance, sustained aerobic activity, breathwork mastery, stamina, recovery speed",
+        "weakness": "Building muscle mass, explosive power, anaerobic strength, bulk accumulation",
+        "metabolism": "Fast, efficient oxygen processing, burns calories quickly, needs constant fuel",
+        "vulnerabilities": "Overtraining, burnout, difficulty recovering from anaerobic work, anxiety (shallow breathing)"
       },
       
       "psychological": {
-        "orientation": "Present-focused, boundary-aware",
-        "tempo": "Controlled rhythm, sustainable power",
-        "focus": "Structure, defense, personal space, boundaries",
-        "strength": "Stability, power, resilience",
-        "challenge": "Flexibility, adaptation, letting go"
+        "orientation": "Future-directed, possibility-seeking, movement as meditation",
+        "tempo": "Steady sustained rhythm (marathon not sprint)",
+        "focus": "Movement, flow, exploration, continuous action, freedom, avoiding stagnation",
+        "challenge": "Grounding, commitment, accumulation, stillness, finishing projects"
       },
       
       "disney_examples": [
-        "Hercules — balanced heroic proportions",
-        "Mulan — symmetrical warrior build",
-        "Tarzan — perfect muscular balance",
-        "Kristoff — strong balanced frame"
+        "Goofy — tall, elongated, flowing movement",
+        "Cruella de Vil — angular, vertical, menacing elegance",
+        "Jack Skellington — maximum vertical, impossibly thin",
+        "Rapunzel — graceful elongation, flowing movement",
+        "Pocahontas — lean, athletic, fluid grace",
+        "Esmeralda — dancer's vertical line, agility"
+      ],
+      
+      "real_examples": [
+        "Long-distance runner, marathon runner",
+        "Yogi, breath worker, pranayama practitioner",
+        "Ballet dancer, modern dancer",
+        "Endurance athlete (cycling, swimming)",
+        "Rock climber, parkour athlete"
+      ],
+      
+      "kibbe_geometry": {
+        "prone_to": "Dramatic or Flamboyant Gamine (vertical, sharp, elongated)",
+        "characteristics": "Long vertical line, sharp angular features, narrow frame, dramatic presence",
+        "style_lines": "Vertical emphasis, sleek lines, minimal horizontal breaks"
+      }
+    },
+    
+    "HULL_3_DAME": {
+      "name": "Dame / Guardian",
+      "russian": "Дама / Хранительница (Мышечный)",
+      "phi_level": "2φ",
+      "dimension": "2D (plane, structure, boundary)",
+      "dominant_system": "Muscular-Skeletal",
+      "geometry": "TRAPEZOID DOWN (▲)",
+      "proportions": "Pelvis > Shoulders (Ratio ≈ 1.618:1)",
+      "center_of_gravity": "Low (Pelvis/Womb/Root)",
+      "function": "Maximum structural stability for boundary defense. Unshakeable base. Immovable object.",
+      "vector": "Vertical Stability (Anchor, rooting, grounding)",
+      
+      "physical_markers": {
+        "primary": "Balanced proportions, strong musculature, wide hips and/or powerful legs",
+        "proportions": "Balanced shoulder-to-hip ratio OR hips wider than shoulders, symmetrical development",
+        "face": "Symmetrical, defined features, strong jaw, balanced proportions",
+        "skeleton": "Medium to heavy bones, dense structure, wide pelvic girdle",
+        "musculature": "Naturally defined, builds muscle easily, maintains tone with minimal effort",
+        "movement": "Controlled, powerful, precise, grounded, economical",
+        "tendency": "Builds muscle easily, maintains definition, gains weight proportionally, solid presence"
+      },
+      
+      "physiological": {
+        "dominant": "Muscular-Skeletal system — strength, structure, bone density, joint stability",
+        "strength": "Power, defined musculature, physical resilience, injury resistance, structural integrity",
+        "weakness": "Extreme flexibility, prolonged aerobic endurance (prefers power over cardio)",
+        "metabolism": "Efficient, high baseline metabolic rate due to muscle mass, burns calories at rest",
+        "vulnerabilities": "Rigidity if not stretched, can become too dense/heavy, joint stress from overtraining"
+      },
+      
+      "psychological": {
+        "orientation": "Present-focused, boundary-aware, protective, territorial",
+        "tempo": "Controlled rhythm, sustainable power, neither fast nor slow",
+        "focus": "Structure, defense, personal space, boundaries, protection of vulnerable, building/maintaining",
+        "challenge": "Flexibility, adaptation, letting go, softening, vulnerability, change"
+      },
+      
+      "disney_examples": [
+        "Hercules — balanced heroic proportions, defined musculature",
+        "Mulan — symmetrical warrior build, powerful yet graceful",
+        "Tarzan — perfect muscular balance, athletic symmetry",
+        "Kristoff (Frozen) — strong balanced frame, working man's build",
+        "Elastigirl/Helen Parr — wide hips, powerful base (even with flexibility power)",
+        "Shang (Mulan) — military symmetry, controlled power"
       ],
       
       "real_examples": [
         "Athlete, gymnast",
-        "Martial artist",
-        "Construction worker",
-        "Soldier, guardian"
+        "Martial artist, boxer",
+        "Construction worker, laborer",
+        "Soldier, guardian, police",
+        "Dancer (modern, hip-hop)",
+        "Weightlifter (not strongman, more balanced)"
       ],
       
-      "development": {
-        "natural": "Structure, power, boundary maintenance",
-        "challenge": "Flexibility, flow, letting go",
-        "practices": "Yoga, dance, flexibility work, boundary relaxation",
-        "goal": "Flexible strength — power with adaptability"
+      "kibbe_geometry": {
+        "prone_to": "Classic, Soft Classic, or Natural (balanced, symmetrical, moderate)",
+        "characteristics": "Balanced proportions, symmetry, neither sharp nor round extremes, moderate everything",
+        "style_lines": "Balanced lines, symmetrical tailoring, moderate details"
       }
     },
-
-    "digestive": {
-      "name": "Digestive (Пищеварительный)",
-      "dimension": "3D",
-      "angle": "> 90° (obtuse)",
-      "role": "King",
+    
+    "HULL_4_KING": {
+      "name": "King / Ruler",
+      "russian": "Король / Правитель (Пищеварительный)",
+      "phi_level": "8φ",
+      "dimension": "3D (volume, expansion, space occupation)",
+      "dominant_system": "Digestive / Metabolic",
+      "geometry": "HOURGLASS (X) or WIDE FRAME",
+      "proportions": "Shoulders ≈ Pelvis (Both Wide) — volumetric presence",
+      "center_of_gravity": "Center (Solar Plexus / Gut)",
+      "function": "Resource processing and force projection. The Pivot of Power. Maximum mass accumulation.",
+      "vector": "Omnidirectional Expansion (Explosion, radiation, dominance)",
       
-      "physical": {
-        "primary": "Horizontal width, volumetric presence",
-        "height": "Variable, often appears shorter due to width",
-        "proportions": "Wide shoulders/hips, thick torso, substantial",
-        "face": "Round or square, full features, strong presence",
-        "posture": "Grounded, heavy, rooted, dominant stance",
-        "movement": "Powerful, substantial, forceful",
-        "tendency": "Gains weight/mass easily, strong appetite"
+      "physical_markers": {
+        "primary": "Horizontal width, volumetric presence, substantial frame",
+        "proportions": "Wide shoulders AND/OR wide hips, thick torso, substantial in all directions",
+        "face": "Round or square, full features, strong presence, fleshy",
+        "skeleton": "Heavy bones, wide frame, large joints",
+        "musculature": "Can be muscular or adipose, but VOLUME is key — takes up space",
+        "movement": "Powerful, substantial, forceful, heavy, commanding",
+        "tendency": "Gains weight/mass easily, strong appetite, accumulates resources (fat/muscle), hard to lose weight"
       },
       
       "physiological": {
-        "dominant": "Digestive system — metabolism, resource processing",
-        "strength": "Power, mass, resource accumulation, strong digestion",
-        "weakness": "Speed, agility, sustained aerobic activity"
+        "dominant": "Digestive system — metabolism, resource processing, nutrient absorption, energy storage",
+        "strength": "Power, mass accumulation, resource utilization, strong digestion, resilience to scarcity",
+        "weakness": "Speed, agility, sustained aerobic activity, flexibility, quick direction changes",
+        "metabolism": "Slower, optimized for resource storage. Gains mass/fat easily. Efficient at storing energy.",
+        "vulnerabilities": "Obesity, metabolic syndrome, difficulty losing weight, sluggishness, inflammation"
       },
       
       "psychological": {
-        "orientation": "Present-focused, resource-oriented",
-        "tempo": "Variable — fast or slow, forceful",
-        "focus": "Accumulation, expansion, power, dominance",
-        "strength": "Power, presence, resource mastery",
-        "challenge": "Moderation, letting go, non-attachment"
+        "orientation": "Present-focused, resource-oriented, materialistic, power-seeking",
+        "tempo": "Variable — can be fast or slow, forceful, unpredictable",
+        "focus": "Accumulation, expansion, power, dominance, control, resource acquisition, empire-building",
+        "challenge": "Moderation, letting go, non-attachment, lightness, spiritual over material"
       },
       
       "disney_examples": [
-        "King Triton — wide powerful presence",
-        "Ursula — horizontal expansion, dominant",
-        "Maui — massive powerful build",
-        "The Beast — volumetric power"
+        "King Triton — wide powerful presence, volumetric musculature",
+        "Ursula — horizontal expansion, dominant massive form",
+        "Maui (Moana) — massive powerful build, wide in all directions",
+        "The Beast — volumetric power, occupies maximum space",
+        "Hades — wide shoulders, substantial presence despite being 'god'",
+        "Gaston — broad, barrel-chested, maximum masculine expansion"
       ],
       
       "real_examples": [
-        "Powerlifter, strongman",
+        "Powerlifter, strongman competitor",
         "Sumo wrestler",
-        "CEO, commander",
-        "Chef, restaurateur"
+        "CEO, commander, general",
+        "Chef, restaurateur",
+        "Heavyweight boxer",
+        "Viking warlord archetype"
       ],
       
-      "development": {
-        "natural": "Accumulation, power, resource processing",
-        "challenge": "Moderation, release, lightness",
-        "practices": "Cardio, fasting, letting go practices",
-        "goal": "Wise power — strength with restraint"
-      }
-    },
-
-    "cerebral": {
-      "name": "Cerebral (Мозговой)",
-      "dimension": "4D",
-      "angle": "Inverted (top > bottom)",
-      "role": "Page",
-      
-      "physical": {
-        "primary": "Large head proportion, slender body",
-        "height": "Variable, often average or below",
-        "proportions": "Narrow, minimal body mass, thin limbs",
-        "face": "Large in proportion, prominent forehead, intelligent features",
-        "posture": "Forward head posture, cerebral emphasis",
-        "movement": "Minimal, economical, cerebral not physical",
-        "tendency": "Stays thin, difficulty building muscle/mass"
-      },
-      
-      "physiological": {
-        "dominant": "Nervous system — cognition, awareness, pattern recognition",
-        "strength": "Mental processing, pattern recognition, sustained focus",
-        "weakness": "Physical power, endurance, body awareness"
-      },
-      
-      "psychological": {
-        "orientation": "Abstract, conceptual, meta-temporal",
-        "tempo": "Slow physical, fast mental",
-        "focus": "Analysis, patterns, understanding, observation",
-        "strength": "Intelligence, wisdom, strategic thinking",
-        "challenge": "Embodiment, physical presence, emotional expression"
-      },
-      
-      "disney_examples": [
-        "Megamind — massive head, tiny body",
-        "Jimmy Neutron — archetypal cerebral",
-        "Milo (Atlantis) — intellectual, slender",
-        "The Brain — pure cerebral archetype"
-      ],
-      
-      "real_examples": [
-        "Scholar, professor",
-        "Programmer, engineer",
-        "Chess player",
-        "Theoretical physicist"
-      ],
-      
-      "development": {
-        "natural": "Analysis, observation, pattern recognition",
-        "challenge": "Embodiment, physical presence, action",
-        "practices": "Martial arts, dance, somatic therapy, grounding",
-        "goal": "Embodied wisdom — intelligence in action"
+      "kibbe_geometry": {
+        "prone_to": "Romantic, Soft Natural, or Theatrical Romantic (rounded, wide, voluptuous)",
+        "characteristics": "Rounded features, lush flesh, width, curve dominance, yin-heavy",
+        "style_lines": "Curved lines, flowing fabrics, accommodation for width and flesh"
       }
     }
   },
 
-  "geometric_angles": {
-    "principle": "Body angles reveal dimensional emphasis and consciousness orientation",
+  "LEVEL_4_QUADRA_PHYSICS": {
+    "principle": "Quadra determines the DENSITY and MATERIAL of the Hull. This is the 'Shell vs Core' physics — the INK on the canvas.",
     
-    "acute": {
-      "value": "< 90°",
-      "type": "Respiratory",
-      "geometry": "Sharp upward angle, vertical striving",
-      "energy": "Upward and forward, aspiring",
-      "examples": "Shoulder angle pointing up, vertical line, narrow V-shape",
-      "symbolic": "Aspiration, transcendence, reaching"
+    "ALPHA_COCONUT": {
+      "name": "THE COCONUT 🥥",
+      "quadra": "Alpha",
+      "structure": "Hard Shell / Soft Core",
+      "density_feel": "Lightweight, hollow resonance, rigid exterior but empty inside",
+      "touch": "Knock and it echoes. Light to lift. Surface is hard but if you break through, it's liquid/soft.",
+      "somatic_vibe": "Intellectual defense protecting fluid, childlike essence. Bounces instead of breaking. Playful rigidity.",
+      "examples": {
+        "ILE": "Hard nerdy shell, soft exploratory core",
+        "SEI": "Hard politeness shell, soft sensory core",
+        "ESE": "Hard social shell, soft emotional core",
+        "LII": "Hard logical shell, soft theoretical core"
+      },
+      "health_pattern": "Chronic tension on surface (headaches, jaw clenching) but core remains unrestricted",
+      "movement": "Bouncy, springy, light on feet, can seem 'floaty' or disconnected from gravity"
     },
     
-    "right": {
-      "value": "= 90°",
-      "type": "Muscular",
-      "geometry": "Perpendicular stability, perfect balance",
-      "energy": "Balanced, grounded, stable",
-      "examples": "Squared shoulders, perpendicular stance, Vitruvian Man",
-      "symbolic": "Stability, order, perfect balance"
+    "BETA_STEEL_BALL": {
+      "name": "THE STEEL BALL ⚫",
+      "quadra": "Beta",
+      "structure": "Hard Shell / Hard Core",
+      "density_feel": "Maximum density, heavy, hot, unyielding all the way through",
+      "touch": "Knock and your hand hurts. Heavy to lift. No give anywhere. Solid mass.",
+      "somatic_vibe": "Total mobilization. The 'Iron Warlord'. No soft spot anywhere. Pure concentrated Will. Crushes gravity.",
+      "examples": {
+        "SLE": "Steel blade — all cutting edge",
+        "IEI": "Steel wrapped in silk — seems soft but isn't",
+        "EIE": "Steel演 — dramatic but unyielding",
+        "LSI": "Steel fortress — pure structure"
+      },
+      "health_pattern": "High blood pressure, muscle hypertrophy, chronic inflammation, 'too tight everywhere'",
+      "movement": "Heavy, forceful, explosive, maximum impact, nothing wasted"
     },
     
-    "obtuse": {
-      "value": "> 90°",
-      "type": "Digestive",
-      "geometry": "Wide spreading angle, horizontal expansion",
-      "energy": "Outward, expansive, radiating",
-      "examples": "Wide shoulder stance, broad torso, spreading presence",
-      "symbolic": "Expansion, dominance, power"
+    "GAMMA_JELLYFISH": {
+      "name": "THE JELLYFISH / WATER BALLOON 🌊",
+      "quadra": "Gamma",
+      "structure": "Soft Shell / Soft Core",
+      "density_feel": "Fluid, cool, yielding but incompressible, slippery, adaptive",
+      "touch": "Push and it moves aside. Try to grab and it slips away. No hard points anywhere.",
+      "somatic_vibe": "Adaptive survival. Impact absorbed and redistributed hydraulically. Impossible to break, only to displace.",
+      "examples": {
+        "SEE": "Pure water — maximum flow",
+        "ILI": "Deep water — still but vast",
+        "LIE": "Water shaping container — adaptive efficiency",
+        "ESI": "Protective water — soft boundaries"
+      },
+      "health_pattern": "Fluid retention, lymphatic sluggishness, difficulty with edges/boundaries",
+      "movement": "Flowing, adaptive, circular, avoids direct confrontation, redirects force"
     },
     
-    "inverted": {
-      "value": "Top > Bottom",
-      "type": "Cerebral",
-      "geometry": "Head larger than body, top-heavy",
-      "energy": "Concentrated in head, minimal body",
-      "examples": "Large head on small body, forward head carriage, scholar's stoop",
-      "symbolic": "Mind over matter, observation over action"
+    "DELTA_PEACH": {
+      "name": "THE PEACH 🍑",
+      "quadra": "Delta",
+      "structure": "Soft Shell / Hard Core",
+      "density_feel": "Warm, textured, welcoming surface, but hits immovable wall deep inside",
+      "touch": "Soft to touch, inviting, but if you press deeper you meet resistance — the pit.",
+      "somatic_vibe": "Gentle humanist exterior protecting unbreakable inner principle. Resilient. Warm but firm.",
+      "examples": {
+        "IEE": "Soft enthusiasm covering solid values",
+        "SLI": "Soft practicality covering hard pragmatism",
+        "LSE": "Soft service covering hard structure",
+        "EII": "Soft compassion covering hard ethics"
+      },
+      "health_pattern": "Soft tissue issues (fascia, skin) but strong bones, resilient but tired",
+      "movement": "Gentle, economical, sustainable, avoids extremes, steady rhythm"
     }
   },
 
-  "type_blending": {
-    "principle": "Most humans are blends with one dominant. Pure types rare.",
+  "LEVEL_5_DICHOTOMY_MODULATION": {
+    "principle": "Cognitive functions distort the Hull and refine the edges. This is the HANDWRITING — the style of the geometry.",
+    
+    "LOGIC_VS_ETHICS": {
+      "logic_T": {
+        "geometric_effect": "Adds ANGLES",
+        "somatic_shift": "Shifts form toward Square/Rectangle, sharpens bony landmarks, defines edges",
+        "facial": "Angular jaw, prominent cheekbones, sharp nose, defined bone structure",
+        "body": "Visible muscle striations, sharp transitions between body parts, 'cut' appearance",
+        "posture": "Military, perpendicular, right-angled joints"
+      },
+      "ethics_F": {
+        "geometric_effect": "Adds CURVES",
+        "somatic_shift": "Shifts form toward Circle/Hourglass, softens transitions with subcutaneous layer",
+        "facial": "Rounded jaw, soft cheeks, rounded nose, smooth transitions",
+        "body": "Subcutaneous fat layer smooths muscles, gentle curves, 'soft' appearance even if muscular",
+        "posture": "Flowing, curved spine, relaxed joints"
+      }
+    },
+    
+    "SENSING_VS_INTUITION": {
+      "sensing_S": {
+        "geometric_effect": "Adds GRAVITY",
+        "somatic_shift": "Compresses verticality, increases horizontal mass, thickens joints, grounds",
+        "facial": "Wider face, heavier features, strong jaw, earthy presence",
+        "body": "Lower center of gravity, thick joints (knees, ankles, wrists), stockier proportions",
+        "movement": "Grounded, heavy, substantial, rooted, slow but powerful"
+      },
+      "intuition_N": {
+        "geometric_effect": "Adds LEVITY",
+        "somatic_shift": "Stretches verticality, thins joints, elongates neck, anti-gravity",
+        "facial": "Longer face, delicate features, ethereal quality",
+        "body": "Higher center of gravity, thin joints, elongated proportions, appears 'lighter' than actual weight",
+        "movement": "Light, quick, seems to defy gravity, floaty"
+      }
+    },
+    
+    "RATIONAL_VS_IRRATIONAL": {
+      "rational_J": {
+        "geometric_effect": "HIGH CONTRAST",
+        "somatic_shift": "Defined borders, military posture, stiffness, symmetry, clear delineation",
+        "appearance": "Sharp definition between body parts, visible muscle groups, 'organized' body",
+        "posture": "Upright, controlled, minimal wasted movement, precise",
+        "vibe": "Structured, formal, held together"
+      },
+      "irrational_P": {
+        "geometric_effect": "LOW CONTRAST",
+        "somatic_shift": "Blurred borders, fluid posture, relaxation, asymmetry, merged transitions",
+        "appearance": "Soft definition, flowing transitions, 'organic' body, less visible structure",
+        "posture": "Relaxed, adaptive, fluid, casual asymmetry",
+        "vibe": "Flowing, informal, loosely assembled"
+      }
+    },
+    
+    "EXTRAVERSION_VS_INTROVERSION": {
+      "extraversion_E": {
+        "geometric_effect": "EXPANSION",
+        "somatic_shift": "Wider shoulders, broader gestures, takes up space, open posture",
+        "energy": "Radiates outward, expressive face, animated",
+        "presence": "Fills the room, larger than life"
+      },
+      "introversion_I": {
+        "geometric_effect": "CONTRACTION",
+        "somatic_shift": "Narrower shoulders, contained gestures, conserves space, closed posture",
+        "energy": "Draws inward, reserved face, controlled",
+        "presence": "Minimal footprint, compact even if large"
+      }
+    }
+  },
+
+  "LEVEL_6_SOMATIC_ARCHEOLOGY": {
+    "principle": "Biography overwrites Biology. Epigenetics and Trauma lock body into specific distortion patterns. This is the DAMAGE — the tears in the manuscript.",
+    
+    "ARMORING_MECHANISMS": {
+      "reichian_segments": {
+        "description": "Wilhelm Reich's 7 segments of muscular armor",
+        "segments": [
+          "Ocular (eyes) — 'I don't want to see'",
+          "Oral (jaw, throat) — 'I won't speak/scream'",
+          "Cervical (neck) — 'I can't turn my head/look away'",
+          "Thoracic (chest) — 'I can't breathe/feel'",
+          "Diaphragmatic — 'I hold my breath'",
+          "Abdominal — 'I protect my gut'",
+          "Pelvic — 'I freeze my sexuality/creativity'"
+        ]
+      },
+      
+      "birth_trauma": {
+        "layer": "Deepest strata",
+        "imprint": "Defines baseline tension",
+        "patterns": [
+          "'I am not welcome' → whole body contraction, fetal position tendency",
+          "'I can't get out' → jaw clenching, shoulder tension, claustrophobia",
+          "'I'm stuck' → pelvic floor dysfunction, constipation, fear of commitment"
+        ]
+      },
+      
+      "childhood_masks": {
+        "politeness_mask": {
+          "location": "Jaw, throat, neck",
+          "pattern": "TMJ, throat constriction, chronic sore throat, blocks vocal projection",
+          "origin": "'Don't talk back', 'Be polite', 'Swallow your anger'"
+        },
+        "responsibility_mask": {
+          "location": "Shoulders, upper back",
+          "pattern": "Trapezius humps ('carrying the world'), shortened neck, 'headless' look",
+          "origin": "'You must be responsible', 'Take care of everyone', 'Don't be a burden'"
+        },
+        "stoic_mask": {
+          "location": "Diaphragm, ribcage",
+          "pattern": "Diaphragm freeze, shallow breathing, rigid ribcage armor, can't cry",
+          "origin": "'Don't cry', 'Be strong', 'Feelings are weakness'"
+        },
+        "good_child_mask": {
+          "location": "Pelvis, legs",
+          "pattern": "Pelvic clamp, numb genitals, weak legs, can't ground",
+          "origin": "'Don't be sexual', 'Stay innocent', 'Don't grow up'"
+        }
+      }
+    },
+    
+    "SPECIFIC_HULL_INJURIES": {
+      "THE_CHIPPED_PAGE": {
+        "formula": "Page (Rectangle) + Head/Neck Trauma",
+        "morphology": [
+          "Head tilts permanently",
+          "Cervical spine collapse",
+          "Scholar's stoop",
+          "Forward head posture (FHP)",
+          "Hunched shoulders"
+        ],
+        "diagnosis": "The 'Broken Spire'. Intellect disconnected from body. Loss of meta-perspective. Mind imprisoned in collapsed structure.",
+        "origin": [
+          "Childhood bullying for being 'nerdy'",
+          "Forced to sit still for hours (school)",
+          "Emotional neglect ('your feelings don't matter, just study')"
+        ],
+        "healing": "Alexander Technique, Feldenkrais, craniosacral therapy, reconnecting head to body"
+      },
+      
+      "THE_BROKEN_KNIGHT": {
+        "formula": "Knight (Trapezoid Up) + Leg/Pelvis Trauma",
+        "morphology": [
+          "Upper body remains wide (respiratory)",
+          "But legs atrophy or stiffen",
+          "Pelvis clamps shut",
+          "Can't run, can't move",
+          "Top-heavy appearance"
+        ],
+        "diagnosis": "The 'Grounded Aviator'. Movement is forbidden. Potential turned into frustration/stagnation. Bird with clipped wings.",
+        "origin": [
+          "Physical injury to legs",
+          "Sexual trauma (pelvic clamp)",
+          "'Sit still', 'Don't run', 'Stay here'",
+          "Abandonment fear ('if I leave, I'll be alone forever')"
+        ],
+        "healing": "Pelvic floor therapy, somatic experiencing, dance therapy, gradual re-mobilization"
+      },
+      
+      "THE_UNBALANCED_DAME": {
+        "formula": "Dame (Trapezoid Down) + Sacral/Core Trauma",
+        "morphology": [
+          "Loss of center of gravity",
+          "Pelvis rotates or shifts laterally",
+          "Compensates with massive upper body tension",
+          "Uneven leg lengths (functional)",
+          "Scoliosis common"
+        ],
+        "diagnosis": "The 'Toppling Tower'. Loss of security/home. Cannot hold boundaries, becomes reactive. Foundation cracked.",
+        "origin": [
+          "Childhood home instability (moving constantly, divorce)",
+          "Physical/sexual abuse",
+          "Pregnancy/childbirth complications",
+          "Loss of mother figure"
+        ],
+        "healing": "Structural integration (Rolfing), pelvic realignment, trauma therapy, re-establishing safety"
+      },
+      
+      "THE_PIERCED_KING": {
+        "formula": "King (Hourglass) + Solar Plexus Trauma",
+        "morphology": [
+          "The Hourglass spills",
+          "Waist definition lost",
+          "Gut distends OR collapses",
+          "Shoulders slump forward",
+          "Loss of power center"
+        ],
+        "diagnosis": "The 'Deposed Ruler'. Loss of authority/will. Power leaks out or turns into empty tyranny. Kingdom in ruin.",
+        "origin": [
+          "Humiliation, public shaming",
+          "Loss of power/status/job",
+          "Father wound (weak or tyrannical father)",
+          "Digestive diseases"
+        ],
+        "healing": "Core strengthening, breathwork, therapy for shame, reclaiming personal power"
+      }
+    },
+    
+    "DISEASE_AS_SOMATIC_COMMUNICATION": {
+      "autoimmune": {
+        "meaning": "Civil War — body attacks self",
+        "indicates": "Role Conflict (e.g., A Knight trying to be a Dame, A Page trying to be a King)",
+        "solution": "Align role with authentic blueprint"
+      },
+      "obesity_shield": {
+        "meaning": "Density Modification — adding mass for protection",
+        "indicates": "A Jellyfish (Gamma) trying to become Steel Ball (Beta) via insulation, or trauma creating need for barrier",
+        "solution": "Address root trauma, reestablish safety without mass"
+      },
+      "chronic_pain": {
+        "meaning": "The Scream — unexpressed archetype",
+        "examples": [
+          "Leg pain in Knight = 'Run! Escape!'",
+          "Shoulder pain in Dame = 'Put down the burden!'",
+          "Gut pain in King = 'Stop consuming/controlling!'",
+          "Headache in Page = 'Stop overthinking!'"
+        ],
+        "solution": "Listen to the pain, express the forbidden action"
+      },
+      "cancer": {
+        "meaning": "Rebellion of cells — total loss of coherence",
+        "indicates": "Fundamental misalignment between soul blueprint and lived life",
+        "solution": "Radical life restructuring, alignment with authentic self"
+      }
+    }
+  },
+
+  "PRACTICAL_APPLICATIONS": {
+    "fitness_optimization_by_hull": {
+      "page_cerebral": {
+        "challenge": "Disconnection from body, poor coordination, weak",
+        "priority": "EMBODIMENT above all",
+        "recommended": [
+          "Martial arts (forces presence)",
+          "Dance (any style — reconnects mind-body)",
+          "Somatic therapy (Feldenkrais, Alexander)",
+          "Yoga (grounding emphasis)",
+          "Weight training (light, focus on form not weight)"
+        ],
+        "avoid": "Pure cardio (reinforces disconnection), extreme sports (injury risk high)"
+      },
+      
+      "knight_respiratory": {
+        "challenge": "Difficulty building mass, overtraining tendency",
+        "priority": "Add STRENGTH without losing endurance",
+        "recommended": [
+          "Hybrid training (endurance + strength)",
+          "Resistance training 2-3×/week",
+          "Swimming (ideal for respiratory)",
+          "Climbing (combines both)",
+          "Breathwork (optimize primary system)"
+        ],
+        "avoid": "Pure bodybuilding (goes against design), excessive HIIT (burnout)"
+      },
+      
+      "dame_muscular": {
+        "challenge": "Can become too rigid, inflexible",
+        "priority": "Add FLEXIBILITY and FLOW",
+        "recommended": [
+          "Yoga (flexibility emphasis)",
+          "Martial arts (controlled power)",
+          "Strength training (maintain muscle)",
+          "Stretching protocols",
+          "Foam rolling, massage"
+        ],
+        "avoid": "Only strength training (becomes brick), sitting still (atrophy)"
+      },
+      
+      "king_digestive": {
+        "challenge": "Weight gain, sluggishness, metabolic issues",
+        "priority": "CARDIO and PORTION CONTROL",
+        "recommended": [
+          "Walking (low-impact cardio)",
+          "Swimming (supports joints)",
+          "Cycling (sustainable cardio)",
+          "Light strength training (maintain muscle)",
+          "Intermittent fasting (reset metabolism)"
+        ],
+        "avoid": "Heavy lifting only (adds mass), sedentary lifestyle (accelerates gain)"
+      }
+    },
+    
+    "diet_and_metabolism_by_hull": {
+      "page_cerebral": {
+        "metabolism": "Fast mental, slow physical. Forgets to eat.",
+        "needs": "Frequent small meals, nutrient-dense, brain fuel (omega-3, B vitamins)",
+        "pattern": "3 meals + 3 snacks, never skip breakfast",
+        "dangers": "Blood sugar crashes, caffeine addiction, malnutrition from forgetting",
+        "macros": "Higher fat (brain fuel), moderate protein, complex carbs"
+      },
+      
+      "knight_respiratory": {
+        "metabolism": "Fast, high-endurance, constant fuel needed",
+        "needs": "High carbohydrates for endurance, adequate protein for recovery",
+        "pattern": "Carb-loading before activity, protein after, eat frequently",
+        "dangers": "Overtraining on low fuel, bonking, adrenal fatigue",
+        "macros": "High carb (50-60%), moderate protein (20-30%), lower fat"
+      },
+      
+      "dame_muscular": {
+        "metabolism": "Efficient, high baseline from muscle mass",
+        "needs": "Balanced diet, high protein to maintain muscle",
+        "pattern": "3 solid meals, protein at every meal, consistent timing",
+        "dangers": "Over-restriction (loses muscle), not enough protein",
+        "macros": "High protein (30-40%), moderate carb (30-40%), moderate fat (20-30%)"
+      },
+      
+      "king_digestive": {
+        "metabolism": "Slower, storage-optimized, gains easily",
+        "needs": "Portion control, high protein, lower carbs",
+        "pattern": "2-3 meals, no snacking, intermittent fasting helpful",
+        "dangers": "Overeating (strong appetite), insulin resistance, metabolic syndrome",
+        "macros": "High protein (35-45%), low-moderate carb (25-35%), moderate fat (25-35%)"
+      }
+    },
+    
+    "kibbe_style_system_integration": {
+      "note": "Kibbe system describes facial/body geometry. Our system explains WHY that geometry exists.",
+      
+      "page_cerebral": {
+        "kibbe_types": "Gamine, Flamboyant Gamine, Ethereal/Angelic",
+        "why": "Inverted proportions (large head, small body), delicate structure, youthful",
+        "style_principle": "Broken lines, playful proportions, emphasis on face not body",
+        "colors": "High contrast or monochrome, draw eye to face",
+        "fabrics": "Light, structured, crisp"
+      },
+      
+      "knight_respiratory": {
+        "kibbe_types": "Dramatic, Soft Dramatic (if Ethics), Flamboyant Gamine (if short)",
+        "why": "Vertical line dominance, narrow frame, angular or elongated",
+        "style_principle": "Long vertical lines, minimal horizontal breaks, sleek",
+        "colors": "Monochromatic columns, high contrast",
+        "fabrics": "Sleek, flowing, angular draping"
+      },
+      
+      "dame_muscular": {
+        "kibbe_types": "Classic, Soft Classic, Dramatic Classic, Natural",
+        "why": "Balanced proportions, symmetry, moderate everything",
+        "style_principle": "Tailored balance, symmetry, neither extreme",
+        "colors": "Moderate contrast, blended",
+        "fabrics": "Structured but not stiff, quality over flash"
+      },
+      
+      "king_digestive": {
+        "kibbe_types": "Romantic, Soft Natural, Theatrical Romantic",
+        "why": "Width, curve, lushness, volume, rounded",
+        "style_principle": "Accommodate curves and width, flowing lines, soft details",
+        "colors": "Low-moderate contrast, soft blending",
+        "fabrics": "Soft, draped, flowing, stretchy"
+      }
+    }
+  },
+
+  "TYPE_BLENDING": {
+    "principle": "Pure types are rare. Most humans are blends with one dominant. Reading requires discernment.",
     
     "common_blends": {
       "respiratory_muscular": {
-        "description": "Elongated but with muscle definition",
-        "example": "Lean athlete, swimmer",
-        "balance": "Movement + structure"
+        "description": "Elongated frame WITH muscle definition",
+        "examples": "Swimmer, volleyball player, dancer with strength training",
+        "appearance": "Lean but defined, long muscles, athletic grace",
+        "famous": "Olympic swimmers, ballet dancers who lift"
       },
+      
       "muscular_digestive": {
-        "description": "Balanced proportions with substantial mass",
-        "example": "Powerlifter, rugby player",
-        "balance": "Structure + accumulation"
+        "description": "Balanced proportions WITH substantial mass",
+        "examples": "Powerlifter, rugby player, football linebacker",
+        "appearance": "Thick, powerful, symmetric bulk",
+        "famous": "NFL players, strongman competitors (lighter weight class)"
       },
+      
       "digestive_muscular": {
-        "description": "Wide frame with strong musculature",
-        "example": "Strongman, heavyweight fighter",
-        "balance": "Accumulation + structure"
+        "description": "Wide frame WITH strong musculature (King-Dame hybrid)",
+        "examples": "Heavyweight fighter, sumo wrestler, strongman",
+        "appearance": "Maximum mass AND structure, volumetric power",
+        "famous": "Eddie Hall, Hafthor Bjornsson (The Mountain)"
       },
+      
       "cerebral_respiratory": {
-        "description": "Slender intellectual with some elongation",
-        "example": "Academic athlete, yogic philosopher",
-        "balance": "Observation + movement"
+        "description": "Slender intellectual WITH elongation",
+        "examples": "Academic runner, yogic philosopher, intellectual athlete",
+        "appearance": "Thin, tall, ethereal yet graceful",
+        "famous": "Alan Watts (young), some professors who run"
+      },
+      
+      "cerebral_digestive": {
+        "description": "Large head WITH substantial body (rare combination)",
+        "examples": "Intellectual gourmand, sedentary scholar who gained weight",
+        "appearance": "Top-heavy (head) AND bottom-heavy (mass) simultaneously",
+        "note": "Often result of trauma — Page who became King through compensation"
       }
     },
     
-    "identifying_dominant": "Look for: (1) Most pronounced physical characteristic, (2) Which system feels most natural, (3) What angle dominates, (4) Which role most natural"
-  },
-
-  "disney_wisdom": {
-    "principle": "Disney animators mastered archetypal body geometry — characters designed with exaggerated angles to communicate personality instantly",
-    
-    "methodology": "Observe character proportions → Map to human variation → Recognize archetypes exist on continuum (Disney exaggerates for clarity)",
-    
-    "design_principles": {
-      "exaggeration": "Disney exaggerates natural proportions 2-3x for visual clarity",
-      "consistency": "Character body type consistent with personality and role",
-      "ensemble": "Teams balanced across body types for visual and functional variety"
+    "reading_dominance": {
+      "question_1": "What is LARGEST in proportion?",
+      "answers": {
+        "head": "Page dominant (Cerebral)",
+        "shoulders": "Knight dominant (Respiratory)",
+        "hips_legs": "Dame dominant (Muscular)",
+        "torso_all": "King dominant (Digestive)"
+      },
+      
+      "question_2": "What SYSTEM seems most developed?",
+      "answers": {
+        "mental": "Page (can think for hours)",
+        "breath": "Knight (never out of breath)",
+        "muscle": "Dame (naturally strong)",
+        "appetite": "King (can eat endlessly)"
+      },
+      
+      "question_3": "What is their NATURAL inclination?",
+      "answers": {
+        "stillness_thinking": "Page",
+        "movement_exploration": "Knight",
+        "structure_defense": "Dame",
+        "expansion_consumption": "King"
+      }
     }
   },
 
-  "practical_applications": {
-    "self_assessment": {
-      "questions": [
-        "What is my natural body tendency?",
-        "Which system dominates? (breath/muscle/digestion/thought)",
-        "What angle characterizes my proportions?",
-        "Which Disney character shares my geometry?",
-        "Which role feels most natural? (knight/dame/king/page)"
+  "GRAND_SYNTHESIS_EXAMPLES": {
+    "THE_NORSE_VIKING_SLE": {
+      "formula": "West/Fire(Race) × Cold(Climate) × Knight(Role) × Beta/Steel(Quadra) × Logic/Sensing(Mod) × No_Trauma",
+      "breakdown": {
+        "race": "West/Fire — vertical, narrow, angular baseline",
+        "climate": "Cold — increases verticality, sharpens features",
+        "hull": "Knight — Trapezoid Up, respiratory dominance",
+        "quadra": "Beta Steel — maximum density, unyielding",
+        "dichotomies": "Logic (angles) + Sensing (gravity) + Rational (high contrast)",
+        "trauma": "None — pure expression"
+      },
+      "visual": "A High, Narrow, Steel Blade. Massive shoulders, iron density, sharp angles, pure verticality. Elongated but HEAVY. Piercing force.",
+      "combat_style": "Berserker — unbreakable momentum, explosive power, vertical strike",
+      "famous_example": "Historical Vikings, modern Scandinavian athletes (Strongman, MMA)"
+    },
+    
+    "THE_BROKEN_VIKING_SLE": {
+      "formula": "West/Fire(Race) × Cold(Climate) × Knight(Role) × Beta/Steel(Quadra) × Logic/Sensing(Mod) × FATHER_TRAUMA",
+      "breakdown": {
+        "same_as_above": "But FATHER TRAUMA = Responsibility Mask",
+        "trauma_effect": "Trapezius humps, raised shoulders to ears, neck disappears, head sinks into shoulders"
+      },
+      "visual": "A High Steel Blade with NO NECK. Looks like Rectangle (Page) due to tension, but MOVES with weight of Steel. Dangerous and rigid. Volcano ready to erupt.",
+      "diagnosis": "Trapped power. Knight who cannot fly. Rage compressed into shoulders. Looks stiff, is explosive.",
+      "healing": "Release trapezius, therapy for father wound, allow neck to emerge, reclaim flight"
+    },
+    
+    "THE_TROPICAL_ADMINISTRATOR_LSE": {
+      "formula": "South/Earth(Race) × Hot(Climate) × Dame(Role) × Delta/Peach(Quadra) × Logic/Sensing(Mod)",
+      "breakdown": {
+        "race": "South/Earth — balanced, dense, stable",
+        "climate": "Hot — increases horizontality, rounds features",
+        "hull": "Dame — Trapezoid Down, muscular-skeletal dominance",
+        "quadra": "Delta Peach — soft exterior, hard core",
+        "dichotomies": "Logic (defined) + Sensing (grounded)"
+      },
+      "visual": "A Wide, Rooted Tree. Massive pelvic stability, broad base, warm textured exterior, unbreakable core. Immovable object.",
+      "style": "Practical leader, steady administrator, protective parent, grounded authority",
+      "famous_example": "Mediterranean matriarchs, Indian administrators, Middle Eastern stability"
+    },
+    
+    "THE_ETHEREAL_SCHOLAR_LII": {
+      "formula": "North/Air(Race) × Cold(Climate) × Page(Role) × Alpha/Coconut(Quadra) × Logic/Intuition(Mod) × Childhood_Neglect",
+      "breakdown": {
+        "race": "North/Air — light, elongated, large cranial",
+        "climate": "Cold — further elongates, etherealizes",
+        "hull": "Page — Rectangle inverted, cerebral dominance",
+        "quadra": "Alpha Coconut — hard intellectual shell, soft core",
+        "dichotomies": "Logic (angles) + Intuition (levity) + Introverted (contraction)",
+        "trauma": "Childhood neglect → disconnection from body amplified"
+      },
+      "visual": "A Floating Head. Massive cranium, skeletal body, looks like could blow away. Intellectual giant in fragile vessel.",
+      "diagnosis": "Pure mind, minimal body. Needs forced embodiment or will disappear into abstraction.",
+      "famous_example": "Theoretical physicists, pure mathematicians, philosophers (Kant, Spinoza archetype)"
+    }
+  },
+
+  "IDENTIFICATION_ALGORITHM": {
+    "step_1": {
+      "action": "Determine GEOPOLITICAL BASE (Race + Climate)",
+      "question": "What is the ancestral canvas? Where are they from?",
+      "markers": "Bone density, baseline proportions, skin tone, hair texture",
+      "output": "West/Fire, East/Water, North/Air, or South/Earth + Climate modification"
+    },
+    
+    "step_2": {
+      "action": "Identify ARCHETYPAL HULL (Role)",
+      "question": "What is the silhouette? What dominates?",
+      "markers": {
+        "page": "Head large, body small (▯ inverted)",
+        "knight": "Shoulders > Hips (▼)",
+        "dame": "Hips > Shoulders OR balanced with strong base (▲)",
+        "king": "Everything wide, volumetric (X or wide ▯)"
+      },
+      "method": "Stand them in neutral posture, look at silhouette from 10 feet away",
+      "output": "Page, Knight, Dame, or King"
+    },
+    
+    "step_3": {
+      "action": "Touch the MATERIAL (Quadra)",
+      "question": "What is the density? How does it feel?",
+      "method": {
+        "visual": "Does it look heavy or light? Hollow or solid?",
+        "touch": "If you could touch, would it bounce, crush, flow, or yield?",
+        "movement": "How do they move? Light? Heavy? Fluid? Rigid?"
+      },
+      "markers": {
+        "coconut": "Light, bouncy, hollow sound, rigid surface",
+        "steel": "Heavy, dense, unyielding, hot, maximum tension",
+        "jellyfish": "Fluid, cool, slippery, no hard points, adaptive",
+        "peach": "Soft surface, warm, but immovable deep core"
+      },
+      "output": "Alpha/Coconut, Beta/Steel, Gamma/Jellyfish, or Delta/Peach"
+    },
+    
+    "step_4": {
+      "action": "Scan for MODULATIONS (Dichotomies)",
+      "question": "What are the style details? Sharp or round? Heavy or light?",
+      "markers": {
+        "logic_ethics": "Angular vs Curved",
+        "sensing_intuition": "Heavy/Grounded vs Light/Ethereal",
+        "rational_irrational": "High contrast/defined vs Low contrast/blurred",
+        "extra_intro": "Expanded vs Contracted presence"
+      },
+      "output": "Dichotomy profile (e.g., Logic/Intuition/Rational/Introverted)"
+    },
+    
+    "step_5": {
+      "action": "Locate the TRAUMA (Archeology)",
+      "question": "Where is the break? What shape is the scar?",
+      "method": {
+        "visual": "What looks wrong for the hull? (e.g., Knight with no neck, King with collapsed gut)",
+        "palpation": "Where is chronic tension? Armor? Numbness?",
+        "movement": "What movements are forbidden? Stiff? Avoided?"
+      },
+      "common_patterns": {
+        "no_neck": "Responsibility Mask (carrying world)",
+        "frozen_diaphragm": "Stoic Mask (can't cry)",
+        "clamped_pelvis": "Sexual/Creativity trauma",
+        "collapsed_head_forward": "Intellectual prison (Page trauma)",
+        "atrophied_legs": "Movement forbidden (Knight trauma)"
+      },
+      "output": "Specific trauma pattern and location"
+    },
+    
+    "step_6": {
+      "action": "Synthesize the SOMATIC TRUE NAME",
+      "format": "[Race]-[Climate]-[Hull]-[Quadra]-[Dichotomies]-[Trauma]",
+      "examples": [
+        "West-Cold-Knight-Steel-LogicSensing-FatherWound",
+        "North-Cold-Page-Coconut-LogicIntuition-Neglect",
+        "South-Hot-Dame-Peach-LogicSensing-Clean",
+        "East-Temperate-King-Jellyfish-EthicsSensing-SolarPlexusTrauma"
+      ],
+      "short_form": "The [Adjective] [Race] [Quadra] [Hull]",
+      "examples_short": [
+        "The Broken Northern Steel Knight",
+        "The Ethereal Northern Coconut Page",
+        "The Grounded Southern Peach Dame",
+        "The Fluid Eastern Jellyfish King"
       ]
-    },
-    
-    "fitness_optimization": {
-      "respiratory": "Emphasize endurance, add strength training",
-      "muscular": "Maintain strength, add flexibility and cardio",
-      "digestive": "Control diet, emphasize cardio, practice moderation",
-      "cerebral": "Force embodiment practices, build physical presence"
-    },
-    
-    "team_composition": {
-      "principle": "Balanced team includes all 4 body types",
-      "respiratory": "Endurance tasks, sustained action",
-      "muscular": "Structural tasks, boundary maintenance",
-      "digestive": "Power tasks, resource processing",
-      "cerebral": "Analysis tasks, strategic planning"
     }
   },
 
-  "wisdom": {
-    "form_function": "Body = consciousness materialized. Form follows function at somatic level.",
-    "no_hierarchy": "All body types valid and valuable. No type superior.",
-    "blending": "Most humans are blends. Pure types rare.",
-    "development": "Optimal = integrate all 4 systems while honoring dominant",
-    "change": "Body can change with training and lifestyle (not fixed)",
-    "recognition": "Your body shape reveals your consciousness structure — not random, not punishment, just information"
+  "WISDOM": {
+    "form_follows_function": "Body = consciousness materialized. Form follows function at somatic level.",
+    "no_hierarchy": "All body types valid and valuable. No type superior. Each has gifts and challenges.",
+    "blueprint_vs_damage": "The body is a Palimpsest. To read a human, you must distinguish between their Blueprint (God's design) and their Biography (Man's damage).",
+    "critical_warning": "Do not confuse a Broken Knight for a Dame. Do not confuse a Traumatized King for a Page. The DAMAGE can mimic another TYPE.",
+    "healing_principle": "Healing = returning to blueprint. Removing armor. Allowing authentic structure to emerge.",
+    "recognition": "Your body shape reveals your consciousness structure — not random, not punishment, just information.",
+    "mirror_practice": "Look in mirror. What angle do you see? That's your dimensional emphasis made flesh. Your body is teaching you who you are.",
+    "phi_alignment": "Health = alignment to φ (1.618). Trauma = deviation from φ. Measure your proportions. Where do you deviate?",
+    "somatic_truth": "The body never lies. It crystallizes consciousness, history, trauma, blueprint — all visible to those who can read."
   },
 
-  "note": "Look in mirror. What angle do you see? That's your dimensional emphasis made flesh. Your body is teaching you who you are. ⊙"
+  "⊙": "The body is a Palimpsest — a manuscript written over many times. To read it, you must see all layers: the Canvas (Race), the Texture (Climate), the Shape (Role), the Ink (Quadra), the Handwriting (Dichotomies), and the Tears (Trauma). Only then do you see the True Name. ⊙"
 }

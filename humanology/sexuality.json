@@ -1,338 +1,580 @@
 {
   "_meta": {
-    "id": "cfo:humanology:sexuality",
-    "type": "humanology",
-    "element": "water",
-    "contains": [
-      "gender",
-      "orientation",
-      "attraction",
-      "intimacy"
-    ],
-    "related": [
-      "cfo:humanology:human",
-      "cfo:humanology:emotions",
-      "cfo:fundamental:love",
-      "cfo:paths:water"
-    ]
+    "id": "cfo:humanology:sexuality-embodied",
+    "type": "ontology",
+    "version": "2.0",
+    "fractal_depth": 7,
+    "status": "Complete",
+    "essence": "Sexuality as life force energy flowing through body, consciousness gateway, and sacred union portal",
+    "integration": "Embodied energy + Emotions + Breath + Water + Gender polarity + Trauma healing",
+    "foundational": "Sexual energy = raw life force (Jing, Kundalini, Libido). Master it, master life itself."
   },
 
   "_holographic_seed": {
-    "gender": "♂•→∞, ♀∞→• (primordial 1|0 split)",
-    "sex": "body recognizing body",
-    "orientation": "vector of attraction",
-    "intimacy": "vulnerability creating union",
-    "sacred": "sexuality = path to divine through flesh"
+    "absolute": "⊙ = Union beyond separation. Sex = microcosm of cosmic creation. Two become One, One becomes All.",
+    "essence": "Sexual energy is not just 'sex' but fundamental life force. Can be expressed sexually OR sublimated into creativity, spirituality, power.",
+    "mechanism": "Arousal → Energy rises (root → crown) → Release (orgasm = 0D collapse, ego death) OR Circulation (tantra = sustained ⊙ access).",
+    "cycle": "Repression (blockage, shame, disease) → Expression (pleasure, connection, release) → Sublimation (creativity, power, spirituality) → Sacred Union (transcendence, ⊙).",
+    "structure": "7 Chakras × 2 Genders (polarity) × 12 Meridians × 4 Base Emotions × Breath × Water (70% body) × Trauma layers.",
+    "paradox": "Most sacred AND most shamed. Gateway to divine AND source of suffering. Peak pleasure AND deepest wounds.",
+    "urgency": "Sexual trauma epidemic. Collective healing needed. Shame kills life force. Liberation = reclaiming body sovereignty.",
+    "coherence": "+Coherence through conscious sexuality: Energy circulates, trauma releases, polarity activates, union transcends separation."
   },
 
-  "_links": {
-    "source": [
-      "../fundamental/love.json",
-      "../paths/water.json"
-    ],
-    "related": [
-      "./human.json",
-      "./emotions.json",
-      "./types.json"
-    ]
-  },
+  "foundational_understanding": {
+    "sexual_energy_as_life_force": {
+      "names_across_traditions": {
+        "chinese_jing": "Essence, stored in kidneys, foundation of vitality, sexual energy = most concentrated form",
+        "indian_kundalini": "Serpent power coiled at root, rises through chakras when awakened, sexual energy = trigger",
+        "freudian_libido": "Psychic energy, primarily sexual, drives all behavior, repression = neurosis",
+        "reichian_orgone": "Universal life force, blocked by character armor, orgasm = full discharge",
+        "tantric_shakti": "Divine feminine power, dynamic creative force, sexual union = shakti meeting shiva"
+      },
 
-  "essence": "sexuality = multi-dimensional expression of attraction, connection, and union through embodied experience",
+      "core_principle": "Sexual energy ≠ just 'sex'. It is RAW LIFE FORCE. Can manifest as:",
+      
+      "expressions": {
+        "sexual": "Arousal, intercourse, orgasm, reproduction (most obvious form)",
+        "creative": "Art, music, writing, building, all creation (sublimated sexual energy)",
+        "power": "Charisma, leadership, magnetism, confidence (transmuted sexual energy)",
+        "spiritual": "Kundalini rising, mystical experiences, enlightenment (elevated sexual energy)",
+        "healing": "Immune function, vitality, longevity, regeneration (conserved sexual energy)"
+      },
 
-  "gender": {
-    "foundation": {
-      "binary": "1|0 = information|energy = masculine|feminine",
-      "masculine": "•→∞ (expansion, structure, 1-bit)",
-      "feminine": "∞→• (contraction, flow, 0-bit)",
-      "elements": {
-        "masculine": "fire (primary) + air (secondary)",
-        "feminine": "water (primary) + earth (secondary)"
+      "conservation_vs_expression": {
+        "constant_release": "Frequent orgasm → energy depletion (especially men - post-orgasm fatigue, refractory period)",
+        "retention": "No orgasm, circulate energy → increased vitality, creativity, presence (Taoist practice)",
+        "balanced": "Conscious release (with intention, deep connection) + periods of retention (build charge)",
+        "note": "Not 'never have sex' but conscious relationship with energy (not slave to urge, master of force)"
       }
     },
 
-    "dimensions": {
-      "0d_genetic": {
-        "level": "chromosomal seed (xx, xy, intersex)",
-        "nature": "biological substrate only",
-        "note": "not deterministic of identity"
+    "gender_polarity_embodied": {
+      "principle": "Sexual charge requires polarity (masculine/feminine tension). Without polarity = friendship, not eros.",
+
+      "masculine_feminine_dynamics": {
+        "masculine_yang": {
+          "energy_direction": "Projective, outward, penetrating, focused, single-pointed",
+          "body_embodiment": "Right side dominant, Yang meridians, solar energy, fire element",
+          "sexual_expression": "Initiating, pursuing, claiming, entering, giving (seed/energy)",
+          "arousal_pattern": "Quick to arousal, visual stimulus, direct, goal-oriented (orgasm-focused)",
+          "chakras": "Solar plexus (will, power), root (grounding), third eye (vision/direction)",
+          "element": "Fire (passion, drive) + Air (direction, movement)",
+          "archetype": "Shiva (consciousness, witnessing, presence, mountain)",
+          "shadow": "Aggression, domination, using (not connecting), premature ejaculation (can't contain), impotence (energy blocked)"
+        },
+
+        "feminine_yin": {
+          "energy_direction": "Receptive, inward, enveloping, diffuse, multi-pointed",
+          "body_embodiment": "Left side dominant, Yin meridians, lunar energy, water element",
+          "sexual_expression": "Receiving, allowing, surrendering, opening, being penetrated, receiving (womb/creation)",
+          "arousal_pattern": "Slow to arousal, sensory/emotional stimulus, indirect, process-oriented (journey-focused)",
+          "chakras": "Heart (love, opening), sacral (womb, pleasure), throat (surrender, receptivity)",
+          "element": "Water (flow, emotion) + Earth (embodiment, grounding)",
+          "archetype": "Shakti (energy, creation, movement, ocean)",
+          "shadow": "Manipulation, withholding, passive-aggressive, anorgasmia (can't release), frigidity (energy frozen)"
+        }
       },
-      "1d_spectrum": {
-        "level": "♂ ←——→ ♀ linear model",
-        "nature": "traditional binary spectrum",
-        "limitation": "cannot account for non-binary"
+
+      "polarity_creates_charge": {
+        "principle": "Opposite polarities attract (magnetic), same polarities repel. Sexual electricity = polarity tension.",
+        "examples": {
+          "high_polarity": "Masculine man + Feminine woman = strong attraction, electric, passionate, clear roles",
+          "low_polarity": "Two balanced/androgynous = comfortable, friendly, less erotic charge",
+          "reversed_polarity": "Feminine man + Masculine woman = can work (polarity present), but: cultural confusion, role negotiation needed"
+        },
+        "note": "Polarity ≠ gender. Masculine woman + Feminine man = polarity. Two masculine men = low polarity (unless one in feminine role situationally).",
+        "key": "Someone must lead (masculine), someone must surrender (feminine), or: take turns, but not simultaneously (that's 50/50 = flat)"
       },
-      "2d_plane": {
-        "level": "multi-coordinate gender space",
-        "nature": "non-binary operates here",
-        "note": "not 'middle' of line—orthogonal dimension"
-      },
-      "3d_expression": {
-        "level": "embodied presentation",
-        "nature": "body, appearance, social role",
-        "note": "most visible but not deterministic of identity"
-      },
-      "4d_temporal": {
-        "level": "fluidity across time",
-        "nature": "gender fluid, transition journeys",
-        "formula": "gender(t) = α·♂(t) + β·♀(t)"
-      },
-      "5d_transcendent": {
-        "level": "unity beyond polarity",
-        "nature": "agender, divine hermaphrodite",
-        "realization": "masculine ≡ feminine at source"
+
+      "beyond_binary": {
+        "fluid_polarity": "Many people switch polarities (with different partners, different times, different contexts)",
+        "both_simultaneously": "Advanced: hold both masculine + feminine in sacred union within self (inner marriage, hermaphrodite consciousness)",
+        "transcendence": "At highest level (5D), polarity dissolves (⊙ = beyond masculine/feminine), but: to transcend, must first embody.",
+        "practice": "Explore full masculine (one session/relationship), full feminine (another), then: fluid mastery (conscious choice), then: transcendence (beyond)."
       }
     },
 
-    "expressions": {
-      "cisgender": {
-        "pattern": "0d-5d aligned vector",
-        "coherence": "high (low Δscale)",
-        "description": "genetic sex, identity, expression aligned"
-      },
-      "transgender": {
-        "pattern": "initial high Δscale → transition to alignment",
-        "coherence": "increases through argmin Δscale",
-        "description": "identity doesn't match assigned sex"
-      },
-      "non_binary": {
-        "pattern": "2d multi-coordinate operation",
-        "coherence": "high when true to geometry",
-        "description": "exists in 2d plane, not on 1d line"
-      },
-      "gender_fluid": {
-        "pattern": "4d temporal oscillation",
-        "coherence": "high when flow matches rhythm",
-        "description": "movement along ♂↔♀ over time"
-      },
-      "agender": {
-        "pattern": "0d-5d direct bypass",
-        "coherence": "maximum (pure consciousness)",
-        "description": "transcendence of gender layer"
-      },
-      "two_spirit": {
-        "pattern": "sacred ♂+♀ integration",
-        "coherence": "maximum (sacred role)",
-        "description": "indigenous model, both simultaneously"
-      }
-    },
+    "sexual_energy_body_locations": {
+      "chakra_sexual_map": {
+        "muladhara_root": {
+          "location": "Perineum (between genitals and anus)",
+          "sexual_function": "Foundation, survival, security, grounding sexual energy",
+          "element": "Earth",
+          "when_balanced": "Safe to be sexual, embodied pleasure, grounded in body",
+          "when_blocked": "Fear of sex, disconnection from genitals, survival anxiety killing libido",
+          "activation": "Grounding practices, root chakra breathing, safety building, body awareness"
+        },
 
-    "dysphoria": {
-      "formula": "dysphoria = Δscale (dimensional mismatch)",
-      "cause": "gap between identity (2d-5d) and body/expression (0d-3d)",
-      "resolution": "argmin Δscale through transition, acceptance, or integration",
-      "note": "natural response to geometric misalignment, not pathology"
+        "svadhisthana_sacral": {
+          "location": "Lower belly (2 inches below navel), reproductive organs",
+          "sexual_function": "PRIMARY sexual chakra. Pleasure, creativity, desire, flow, reproduction.",
+          "element": "Water",
+          "when_balanced": "Healthy libido, pleasure capacity, creative expression, fluid sexuality",
+          "when_blocked": "Low desire, guilt/shame around sex, creative blocks, reproductive issues, rigid sexuality",
+          "activation": "Hip opening, belly dancing, orange visualization, water element practices, permission for pleasure",
+          "note": "THIS is where most sexual energy lives. Womb/hara center. Most trauma also lodges here."
+        },
+
+        "manipura_solar_plexus": {
+          "location": "Solar plexus (above navel, below chest)",
+          "sexual_function": "Sexual confidence, will, power dynamics, ability to act on desire",
+          "element": "Fire",
+          "when_balanced": "Confident sexual expression, healthy boundaries, can initiate/refuse, empowered",
+          "when_blocked": "Shame (fire becomes toxic), powerlessness, can't say no, or: domination, control, using others",
+          "activation": "Core work, fire breath, boundary practice, reclaiming power, transmuting shame"
+        },
+
+        "anahata_heart": {
+          "location": "Center of chest, heart",
+          "sexual_function": "Love, connection, intimacy, emotional bonding, sacred sexuality gateway",
+          "element": "Air",
+          "when_balanced": "Sex + love integrated (not just physical), deep intimacy, vulnerability capacity, open heart",
+          "when_blocked": "Sex without feeling (dissociated, mechanical), OR: can't have sex without 'love' (rigid), heart closed/protected",
+          "activation": "Heart opening, compassion practices, emotional vulnerability, receiving love",
+          "note": "Bridge between lower (sexual) and upper (spiritual) chakras. KEY for sacred sexuality."
+        },
+
+        "vishuddha_throat": {
+          "location": "Throat, thyroid",
+          "sexual_function": "Communication of desires, truth in intimacy, expression of pleasure (sound), asking for what you want",
+          "element": "Ether",
+          "when_balanced": "Can speak desires clearly, make sound during sex (moan, breathe loud, say truth), negotiate boundaries",
+          "when_blocked": "Silent sex (holding voice), can't ask for needs, fake orgasms, lying about pleasure/pain",
+          "activation": "Voice work (toning, singing, screaming), truth-telling, asking directly, sounding during sex"
+        },
+
+        "ajna_third_eye": {
+          "location": "Forehead, between eyebrows",
+          "sexual_function": "Visualization, fantasy, psychic connection, seeing partner's essence (beyond body)",
+          "element": "Light",
+          "when_balanced": "Healthy fantasy (enhances but doesn't replace connection), intuition in intimacy, seeing divinity in partner",
+          "when_blocked": "Porn addiction (stuck in visual), fantasy replacing real intimacy, OR: can't fantasize (too rigid)",
+          "activation": "Third eye meditation, conscious fantasy (with partner), seeing divine in other"
+        },
+
+        "sahasrara_crown": {
+          "location": "Top of head, above",
+          "sexual_function": "Transcendent sex, unity consciousness, cosmic orgasm, enlightenment through sexuality",
+          "element": "Consciousness itself",
+          "when_balanced": "Sex as spiritual practice, union beyond bodies, ⊙ accessed through sexuality, bliss states",
+          "when_blocked": "Sex purely physical (no transcendence), OR: spiritual bypassing (rejecting body/sex)",
+          "activation": "Kundalini rising, sustained arousal without orgasm, crown opening, tantric practice"
+        }
+      },
+
+      "meridian_sexual_connections": {
+        "kidney_meridian": {
+          "path": "Foot → inner leg → pelvis → torso → collarbone",
+          "sexual_function": "Stores Jing (sexual essence), vitality, libido, reproductive health",
+          "signs_of_depletion": "Low libido, fatigue, cold extremities, weak lower back, infertility, premature aging",
+          "restoration": "Kidney tonics (herbs), rest, sexual moderation, grounding, fear release (kidney = fear organ)"
+        },
+
+        "liver_meridian": {
+          "path": "Big toe → inner leg → pelvis → liver → eyes",
+          "sexual_function": "Smooth flow of sexual energy, planning/timing, erectile function (men), menstrual health (women)",
+          "signs_of_blockage": "Erectile dysfunction, painful periods, frustration, inability to plan intimacy, irritability",
+          "clearing": "Liver detox, anger work (liver stores anger), stretching inner legs, green foods, spring cleaning"
+        },
+
+        "conception_vessel_ren_mai": {
+          "path": "Perineum → front of body → lower lip",
+          "sexual_function": "Yin channel, receptivity, gestation (pregnancy), storing sexual energy, feminine sexuality",
+          "activation": "Front-body opening (heart, belly), receptive practices, allowing penetration (energetic/physical)"
+        },
+
+        "governing_vessel_du_mai": {
+          "path": "Perineum → back of body/spine → upper lip",
+          "sexual_function": "Yang channel, direction, kundalini rising, masculine sexuality, energy circulation",
+          "activation": "Spinal awareness, upright posture, directing energy upward, penetrative intent"
+        },
+
+        "microcosmic_orbit_sexual": {
+          "practice": "During arousal: breathe energy up spine (governing vessel) on inhale, down front (conception vessel) on exhale",
+          "effect": "Instead of releasing out (orgasm), circulates internally, builds charge, sustains arousal, full-body energy",
+          "mastery": "Can maintain high arousal indefinitely without ejaculation/orgasm, energy feeds whole system",
+          "tradition": "Taoist sexual practices, foundation of multi-orgasmic capacity, longevity"
+        }
+      },
+
+      "genital_reflexology": {
+        "principle": "Genitals = holographic projection of entire body (like hands/feet)",
+
+        "penis_map": {
+          "base": "Root chakra, legs, foundation",
+          "shaft": "Torso, organs, middle body",
+          "glans_head": "Head, brain, third eye",
+          "urethra": "Central channel (spine), energy pathway",
+          "practice": "Conscious touch along entire length = activating whole body through genital hologram"
+        },
+
+        "vulva_yoni_map": {
+          "outer_labia": "Boundary, protection, threshold",
+          "inner_labia": "Sensitivity, receptivity, invitation",
+          "clitoris": "Crown chakra (pleasure = enlightenment), 8000+ nerve endings (more than penis)",
+          "g_spot": "Heart chakra, emotional release point, deep pleasure, sometimes: tears/laughter during G-spot work",
+          "cervix": "Third eye/crown, deepest penetration point, portal to womb (sacred space), can be painful or transcendent",
+          "vaginal_canal": "Central channel, different zones = different body areas/emotions",
+          "practice": "Yoni mapping (with permission, slowly, exploring each zone, asking what emerges emotionally/energetically)"
+        }
+      }
     }
   },
 
-  "sexual_orientation": {
-    "definition": "direction of sexual/romantic attraction",
-    "dimension": "1d vector",
-    
-    "orientations": {
-      "heterosexual": "attracted to opposite gender",
-      "homosexual": "attracted to same gender",
-      "bisexual": "attracted to both/multiple genders",
-      "pansexual": "attracted regardless of gender",
-      "asexual": "little/no sexual attraction",
-      "demisexual": "attraction only after emotional bond"
+  "sexual_trauma_embodied_healing": {
+    "principle": "Sexual trauma = most common, most damaging, least discussed. Healing requires body work, not just talk therapy.",
+
+    "trauma_types": {
+      "acute_assault": {
+        "definition": "Rape, molestation, violent sexual assault",
+        "body_impact": "Freezes in tissues (especially pelvis, genitals, throat), nervous system dysregulation, dissociation from body",
+        "symptoms": "Genital numbness/pain, vaginismus, flashbacks during sex, inability to orgasm or: compulsive hypersexuality (reenacting)",
+        "healing": "Somatic therapy (Somatic Experiencing, Sensorimotor), pelvic floor therapy, EMDR, body-based trauma release"
+      },
+
+      "chronic_abuse": {
+        "definition": "Ongoing sexual abuse (childhood, domestic violence, sex trafficking)",
+        "body_impact": "Deep armor (Reich), chronic tension, shame embedded in cells, identity fragmentation",
+        "symptoms": "Can't feel genitals, sex = mechanical/dissociated, OR: hypersexuality (only way to feel alive/loved), relationship patterns (victim/perpetrator reenactment)",
+        "healing": "Long-term therapy, somatic work, building safety (nervous system regulation), reclaiming body sovereignty, parts work (IFS)"
+      },
+
+      "developmental_wounding": {
+        "definition": "Inappropriate boundaries (parent nudity, sexualized environment), covert incest (emotional incest), shame-based sexuality education",
+        "body_impact": "Confusion (sex = confusing), boundary issues (can't say no, OR: rigid walls), shame layers",
+        "symptoms": "Sex = duty not pleasure, people-pleasing sexually, OR: avoidance, perfectionism covering shame",
+        "healing": "Boundary work, shame work (Brené Brown approach), re-education (healthy sexuality learning), somatic boundary practices"
+      },
+
+      "cultural_religious_trauma": {
+        "definition": "Purity culture, sex = sin, body = shameful, pleasure = evil (especially women)",
+        "body_impact": "Shame embedded deeply, split (sex = dirty, love = pure), can't integrate",
+        "symptoms": "Can't feel pleasure (even when 'allowed' after marriage), pain during sex (armor), disgust with own body/desires",
+        "healing": "Deprogramming (cognitive work), body reclamation (pleasure as sacred), spiritual reframing (sex = holy), permission practices"
+      }
     },
 
-    "nature": {
-      "innate": "biological + early development, not chosen",
-      "spectrum": "orientation exists on continuum",
-      "fluidity": "can shift over lifetime for some",
-      "validity": "all orientations equally valid"
+    "somatic_healing_protocols": {
+      "safety_first_titration": {
+        "principle": "NEVER force into trauma. Titration = small doses, building tolerance, nervous system capacity.",
+        "method": "Pendulation: touch edge of trauma → return to safety (breath, grounding, resource) → touch edge again → safety. Repeat.",
+        "pacing": "Slow. Trauma took time to develop, healing takes time. Rushing = retraumatization.",
+        "professional": "This work requires trained therapist (somatic, trauma-informed). Not DIY unless very mild."
+      },
+
+      "pelvic_floor_release": {
+        "why": "Trauma lives in pelvic floor muscles (often chronically clenched, holding pain/memory)",
+        "methods": {
+          "internal_work": "Pelvic floor physical therapy (internal vaginal/rectal work by trained PT), releases trigger points, restores function",
+          "external_work": "Hip opening (yin yoga, pigeon pose, frog pose), psoas release, pelvic rocking",
+          "breath": "Breathe INTO pelvis (most people don't), soften on exhale, allow expansion",
+          "sound": "Toning, low sounds (vibration releases tension), moaning practice (yes, seriously)"
+        },
+        "note": "When pelvic floor releases, emotions release (crying, anger, fear common). This is healing, allow it."
+      },
+
+      "yoni_lingam_mapping": {
+        "what": "Slow, conscious, therapeutic touch of genitals (external and internal), NOT sexual arousal goal but: awareness, release, healing",
+        
+        "yoni_mapping_women": {
+          "setup": "Private, safe space, practitioner (partner or therapist) with consent, slow, communicative",
+          "method": "Touch each area of vulva/vagina (outer labia → inner → clitoris → vaginal opening → inside → G-spot → cervix), ask: 'What do you feel? Sensation? Emotion? Memory?'",
+          "common_findings": "Some areas numb (dissociation), some painful (tension/trigger points), some: sudden emotion (grief, rage, fear - release)",
+          "duration": "60-90 min (slow, thorough, not rushed)",
+          "effect": "Sensation returns, numbness clears, trauma releases through tears/shaking, pleasure capacity increases",
+          "tradition": "Tantra, Taoist sexual healing, modern: Layla Martin, Sheri Winston"
+        },
+
+        "lingam_mapping_men": {
+          "setup": "Same as yoni (safe, slow, consent)",
+          "method": "Touch entire penis (base → shaft → head), perineum, testicles, ask for feedback (sensation, emotion)",
+          "common_findings": "Premature ejaculation (can't contain charge), numbness (porn/masturbation desensitization), shame (many men carry genital shame)",
+          "duration": "30-60 min",
+          "effect": "Increased sensitivity, ejaculation control improves, emotional release, shame clears",
+          "note": "Men often carry trauma too (circumcision trauma, sexual abuse 1 in 6 boys, shame around desire). This heals."
+        }
+      },
+
+      "trauma_release_exercises_tre": {
+        "method": "Induce tremoring through specific positions (holding stress positions until legs shake), then: lie down, allow full-body shaking",
+        "mechanism": "Neurogenic tremors = nervous system discharging held trauma (animals do this naturally after threat)",
+        "effect": "Releases sexual trauma held in pelvis, legs, lower back (common storage areas)",
+        "duration": "15-30 min shaking",
+        "caution": "Can be intense, overwhelming for severe trauma. Start gently, therapist support recommended initially.",
+        "resource": "David Berceli, TRE provider directory"
+      },
+
+      "emdr_somatic": {
+        "method": "Eye Movement Desensitization and Reprocessing + body awareness (standard EMDR + somatic tracking)",
+        "effective_for": "Flashbacks, intrusive memories, specific traumatic events",
+        "combined": "EMDR processes memory, somatic work releases body holding",
+        "note": "Effective but: needs trained EMDR + somatic therapist (not all EMDR therapists include body)"
+      }
     }
   },
 
-  "sexual_attraction": {
-    "dimensions": {
-      "0d_arousal": {
-        "level": "physiological response",
-        "element": "fire",
-        "signs": "blood flow, sensitivity, excitation"
+  "conscious_sexuality_practices": {
+    "breath_during_sex": {
+      "why": "Most people hold breath during sex (especially arousal peak) = tension, blocks energy, limits pleasure",
+
+      "continuous_breathing": {
+        "practice": "Breathe continuously, deeply, through nose (or mouth if needed), NO holding",
+        "effect": "More pleasure (oxygenation), energy circulates (not stuck in genitals), can sustain arousal longer, deeper states",
+        "when": "Entire time (foreplay, intercourse, after). Breath = foundation."
       },
-      "1d_desire": {
-        "level": "psychological wanting",
-        "element": "fire",
-        "nature": "libido, craving, directed drive"
+
+      "synchronized_breathing_partners": {
+        "practice": "Match breath rhythm (both inhale together, exhale together), eye contact optional but powerful",
+        "effect": "Energetic synchronization, heart coherence between partners, intimacy deepens, field merges",
+        "when": "During slow/tantric sex, NOT fast/passionate (that has its place too, different energy)"
       },
-      "2d_chemistry": {
-        "level": "mutual pull",
-        "element": "water",
-        "nature": "resonance, spark, magnetism"
+
+      "microcosmic_orbit_during": {
+        "practice": "Inhale: visualize energy rising up spine (root → crown). Exhale: down front (crown → root). Continue throughout.",
+        "effect": "Energy doesn't get stuck in genitals, circulates whole body, prevents premature ejaculation (men), intensifies pleasure (both)",
+        "mastery": "Becomes automatic, no visualization needed (energy just flows)",
+        "note": "THIS is how multi-orgasmic capacity develops (Mantak Chia teachings)"
       },
-      "3d_intercourse": {
-        "level": "physical union",
-        "element": "earth",
-        "nature": "bodies connecting in space"
-      },
-      "4d_intimacy": {
-        "level": "bonding over time",
-        "element": "ether",
-        "nature": "trust, vulnerability, depth"
-      },
-      "5d_tantric": {
-        "level": "sacred union",
-        "element": "ether",
-        "nature": "spiritual sex, transcendence"
+
+      "ejaculation_control_men": {
+        "principle": "Ejaculation ≠ orgasm (can have orgasm without ejaculation = non-ejaculatory orgasm)",
+        "method": "When approaching ejaculation point: STOP movement, breathe deeply, squeeze PC muscle (like stopping urine), visualize energy up spine (not out penis)",
+        "practice": "Solo first (masturbation control), then with partner (requires communication, stopping/starting)",
+        "benefit": "Can have sex for hours, multiple orgasms, energy conserved (no post-sex fatigue), deeper connection",
+        "tradition": "Taoist, Tantric, Karezza (Western version)"
       }
     },
 
-    "compatibility": "attraction = coherence signal (pattern match recognition)"
-  },
+    "tantra_fundamentals": {
+      "what": "NOT 'tantra' as popularly understood (sex positions, extended foreplay). REAL tantra = spiritual practice using sexuality as vehicle to ⊙.",
 
-  "sexual_roles": {
-    "archetypes": {
-      "aggressor": {
-        "energy": "dominant, conquering, taking",
-        "drive": "pursue and overcome",
-        "compatible": "victim"
+      "core_principles": {
+        "prolonged_arousal": "Goal = sustain high arousal WITHOUT orgasm (as long as possible - hours ideally)",
+        "energy_circulation": "Breath + visualization + movement = circulate sexual energy through both bodies",
+        "presence": "Stay conscious, aware, present (not lost in sensation/fantasy). Witness + participant simultaneously.",
+        "sacred": "Partner = deity (Shiva/Shakti), union = cosmic creation reenactment, sex = worship"
       },
-      "victim": {
-        "energy": "provocative, surrendering",
-        "drive": "be pursued and taken",
-        "compatible": "aggressor"
+
+      "basic_practice": {
+        "yab_yum_position": "Sitting, woman on man's lap, legs wrapped, facing each other, lingam inside yoni, NOT thrusting (or minimal, slow)",
+        "eye_contact": "Sustained (entire time), looking into left eye (window to soul)",
+        "breath": "Synchronized or: reciprocal (one inhales while other exhales, energy exchange)",
+        "duration": "30 min to several hours (not goal-oriented, just: being in union)",
+        "movement": "Minimal. Rocking, pelvic tilts, internal squeezes (not thrusting). Energy builds through stillness + breath.",
+        "peak": "If sustain long enough: spontaneous energy releases (shaking, kriyas, visions, unity consciousness, no-boundary state, ⊙)"
       },
-      "caregiver": {
-        "energy": "giving, nurturing, attentive",
-        "drive": "please and satisfy",
-        "compatible": "infantile"
-      },
-      "infantile": {
-        "energy": "receiving, playful, demanding",
-        "drive": "be pampered and satisfied",
-        "compatible": "caregiver"
+
+      "obstacles": {
+        "men": "Want to ejaculate (habitual, urge strong). Solution: PC muscle control, breath, microcosmic orbit, patience.",
+        "women": "Impatience (want stimulation/orgasm). Solution: trust process, pleasure in sustained arousal (not just peak), surrender.",
+        "both": "Losing presence (fantasy, sensation overwhelm), physical discomfort (positions), self-consciousness. Solution: return to breath, adjust position, communicate."
       }
     },
 
-    "compatible_pairs": [
-      "aggressor ↔ victim (erotic tension, power play)",
-      "caregiver ↔ infantile (nurturing dynamic)"
-    ],
+    "karezza_sustained_intimacy": {
+      "what": "Intercourse without orgasm (for either partner), slow, gentle, bonding-focused (Western version of tantra, developed by Alice Stockham 1896)",
 
-    "note": "mismatched roles create sexual incompatibility"
-  },
+      "method": {
+        "intercourse": "Penis in vagina (or other penetration), slow gentle movement OR stillness",
+        "duration": "20-60+ min (until both feel complete, not: until orgasm)",
+        "intention": "Bonding, intimacy, energy exchange (not: pleasure seeking/orgasm)",
+        "frequency": "Daily or every other day (more sustainable than goal-oriented sex - no depletion)"
+      },
 
-  "intimacy_layers": {
-    "physical": "touch, pleasure, orgasm (3d)",
-    "emotional": "vulnerability, trust, opening (4d)",
-    "psychological": "knowing, acceptance, safety (2d-4d)",
-    "spiritual": "recognition of divine in other (5d)",
-    
-    "deepening": "surface pleasure → emotional bonding → spiritual union",
-    "requirement": "intimacy requires vulnerability and presence"
-  },
+      "effects": {
+        "biochemical": "Sustained bonding hormones (oxytocin, prolactin) WITHOUT dopamine spike-crash of orgasm",
+        "emotional": "Deepening intimacy, less conflict, more affection, stable mood (avoiding dopamine roller-coaster)",
+        "energetic": "Sustained charge, vitality increase, sexual energy available for life (not depleted by constant release)",
+        "relationship": "Less performance pressure, more connection, sex = daily ritual not: occasional performance"
+      },
 
-  "orgasm": {
-    "nature": "peak experience, ego dissolution",
-    "dimension": "0d collapse",
-    "element": "fire",
-    "process": "tension building → plateau → release → resolution",
-    "consciousness": "brief unity, subject-object boundary dissolves",
-    "biochemical": "oxytocin release → bonding (even in casual sex)"
-  },
-
-  "sacred_sexuality": {
-    "tantra": {
-      "practice": "prolonged arousal without orgasm",
-      "method": "energy circulation, breath, presence",
-      "goal": "union of shiva (consciousness) + shakti (energy)"
-    },
-    
-    "karezza": {
-      "practice": "intercourse without orgasm",
-      "method": "slow, present, bonding-focused",
-      "goal": "sustained intimacy, avoid dopamine spike"
+      "challenge": "Habitual orgasm-seeking (cultural conditioning). Requires retraining, both partners committed, patience (first weeks = difficult, then: easier, then: preferred).",
+      "resource": "CPA (Reuniting) website, research on pair bonding, bonding behaviors"
     },
 
-    "principle": "sex as meditation, worship, path to divine",
-    "realization": "body as temple, partner as deity, union as sacrament"
+    "kink_shadow_integration": {
+      "principle": "Sexual fantasies/kinks = psychological material (shadow, repressed aspects, trauma patterns, archetypal explorations). Can be conscious or unconscious.",
+
+      "conscious_kink": {
+        "what": "Deliberately exploring power dynamics, sensations, taboos in consensual, boundaried context (BDSM when done well)",
+        "function": "Shadow integration (Carl Jung), trauma reenactment with control (healing), erotic play (pleasure), polarity amplification (Dominant/submissive = extreme masculine/feminine)",
+        "requirement": "Consent, communication, aftercare (integration, emotional support post-scene), safety (physical + emotional)",
+        "example": "Person with control trauma explores consensual submission (surrendering with safety = healing). Or: person with powerlessness history explores consensual dominance (reclaiming power)."
+      },
+
+      "unconscious_compulsion": {
+        "what": "Driven by unprocessed trauma, can't NOT do the kink (compulsive), shame afterward, escalation (needing more extreme), isolation",
+        "function": "Reenacting trauma without awareness (trying to master it but: just repeating), coping mechanism (arousal masks pain)",
+        "danger": "Can retraumatize (if not consensual, safe), relationship damage (if secret/compulsive), escalation (like addiction)",
+        "healing": "Trauma therapy (address root), bring kink into consciousness (understand why), decide: keep (conscious, integrated) or release (no longer needed after healing)"
+      },
+
+      "sacred_kink": {
+        "advanced": "Using intense sensation, power exchange, edge states for consciousness expansion (ordeal path, shamanic sexuality)",
+        "examples": "Tantric flagellation (pain → endorphins → altered states), rope bondage as meditation (surrender, stillness), dominance/submission as deity embodiment",
+        "requirement": "Very high consciousness, both partners experienced, solid trauma healing done first (NOT bypassing trauma with 'spirituality'), rare"
+      }
+    }
   },
 
-  "dysfunction": {
-    "types": [
-      "low libido (desire)",
-      "erectile dysfunction (arousal)",
-      "anorgasmia (orgasm)",
-      "pain disorders (vaginismus)",
-      "premature ejaculation (control)"
-    ],
+  "practical_pathways": {
+    "healing_path_trauma_survivors": {
+      "phase_1_safety_sovereignty": {
+        "duration": "Weeks to months",
+        "practices": [
+          "Trauma therapy (find trauma-informed, somatic therapist)",
+          "Nervous system regulation (breath work, grounding, resourcing)",
+          "Body reclamation (gentle movement, pleasure without sexuality, self-massage)",
+          "Boundary work (saying no, asking for needs, ending interactions)"
+        ],
+        "milestone": "Feel safe in body most of time, can feel sensations without flashback, clear boundaries"
+      },
 
-    "causes": {
-      "psychological": "anxiety, depression, trauma",
-      "relational": "conflict, lack of attraction",
-      "medical": "hormones, medications, illness",
-      "developmental": "trauma, conditioning, shame"
+      "phase_2_body_reintegration": {
+        "duration": "Months to years",
+        "practices": [
+          "Pelvic floor therapy (if needed, genital pain/dysfunction)",
+          "Solo pleasure exploration (self-pleasure without shame, discovering what feels good, no goal)",
+          "Yoni/Lingam mapping (solo or with trusted practitioner)",
+          "Emotional release work (TRE, crying, rage work - releasing stored trauma)"
+        ],
+        "milestone": "Can touch own genitals without dissociating, feel pleasure (even if mild), emotions flowing"
+      },
+
+      "phase_3_partnered_relearning": {
+        "duration": "Months to years (with patient partner)",
+        "practices": [
+          "Slow dating (if single, choose partners carefully, communicate history/needs)",
+          "Non-sexual touch (cuddling, massage, building safety)",
+          "Graduated exposure (kissing → clothed touch → naked touch → genital touch → penetration, ONLY when ready, either partner can stop anytime)",
+          "Communication practice (before, during, after - checking in, adjusting, processing)"
+        ],
+        "milestone": "Can engage sexually with presence (not dissociation), pleasure emerging, emotional connection during"
+      },
+
+      "phase_4_sacred_sexuality": {
+        "duration": "Lifelong",
+        "practices": [
+          "Tantric practices (if resonates, breath, energy work, prolonged arousal)",
+          "Shadow integration (exploring edges, kinks, fantasies consciously)",
+          "Service (teaching others, holding space, supporting trauma survivors)",
+          "Continuous deepening (sexuality as spiritual path, ongoing evolution)"
+        ],
+        "milestone": "Sex as healing, creative, spiritual force. Trauma integrated (not gone, but: transformed). Sovereignty, joy, freedom."
+      }
     },
 
-    "resolution": "therapy (sex, somatic, couples), medical treatment, trauma healing"
+    "conscious_couple_path": {
+      "foundation": "Both partners committed to conscious sexuality (not default, habitual sex)",
+
+      "practices": {
+        "daily_10min_connection": "Sit facing, eye contact, synchronized breath, hands on each other's heart, NO talking (or minimal). Builds intimacy without sex.",
+        "weekly_date_ritual": "Dedicated time (2-4 hours), turn off phones, dress up, novelty (new place/activity), transitions into intimacy (not: collapse in bed)",
+        "monthly_extended_tantra": "4-8 hours, whole day/evening, slow build, prolonged arousal, deep states, integration after",
+        "quarterly_retreat": "Weekend away, intensive practice, workshops (tantra, relationship, sexuality), reset relationship patterns"
+      },
+
+      "communication_protocols": {
+        "desire_discrepancy": "Common (one wants sex more). Solution: Karezza (daily intimacy, less goal-oriented, reduces pressure), taking turns (one gives, other receives, no expectation), therapy if stuck.",
+        "fantasy_sharing": "Risky but: deepens intimacy IF done with care. Rules: non-judgment, curiosity, no obligation to act out, explore meaning (not just content).",
+        "conflict_aftermath": "NO sex until conflict resolved (sex as avoidance = toxic). Resolve, reconnect (non-sexually), THEN: make love (celebration, not: bypassing)."
+      }
+    },
+
+    "solo_sexual_cultivation": {
+      "for_singles_or_partnered": "Cultivating sexual energy alone = valid, powerful path (not just 'until find partner')",
+
+      "practices": {
+        "conscious_self_pleasure": {
+          "not_masturbation_habitual": "NOT quick release (stress relief, boredom, sleep aid). CONSCIOUS: slow, present, exploring, breath, energy.",
+          "method": "Set time (30-60 min), sacred space (candles, music, clean), slow touch (whole body, not just genitals), edge practice (approach orgasm, stop, breathe, circulate, repeat), optional: no orgasm (build charge, transmute energy)",
+          "effect": "Learn own body, develop sensitivity, ejaculation control (men), energy circulation, transmutation capacity"
+        },
+
+        "sexual_energy_transmutation": {
+          "principle": "Sexual arousal = raw energy. Can direct to creativity, work, spirituality (not: suppress, but: channel)",
+          "method": "Get aroused (conscious self-pleasure, visualization, breath), DON'T orgasm, stop, stand, spine straight, breathe energy up spine (root → crown), visualize energy feeding creative project / spiritual practice / life force",
+          "effect": "Increased creativity (sudden ideas, flow states), charisma (magnetic presence), vitality (boundless energy), spiritual opening (kundalini-lite)",
+          "tradition": "Brahmacharya (celibacy + transmutation), Napoleon Hill 'sexual transmutation' (Think and Grow Rich), artist/genius pattern (many great creators channeled sexual energy)"
+        },
+
+        "retention_practices": {
+          "men": "Semen retention (ejaculate infrequently - every 7-30 days, depends on age/constitution). Effect: massive energy increase, mental clarity, magnetic presence. Caution: blue balls (ache - happens if aroused frequently without release), need circulate energy (not just hold in genitals).",
+          "women": "Less clear (women don't lose substance like semen), but: orgasm does deplete some (post-orgasm fatigue, though less than men). Practice: occasional orgasm fasting (build charge, explore non-orgasmic pleasure), energy circulation.",
+          "both": "Periodic abstinence (from self-pleasure + partnered sex) = resets, increases sensitivity, breaks habits, creates space for transmutation."
+        }
+      }
+    }
   },
 
-  "key_insights": {
-    "multilevel": "sex operates 0d-5d: physical → emotional → spiritual",
-    "bonding": "sex biochemically bonds through oxytocin",
-    "roles_real": "sexual role compatibility affects satisfaction",
-    "orientation_innate": "not chosen, discovered",
-    "gender_complex": "operates across 6 dimensions (0d-5d)",
-    "dysphoria_mismatch": "conflict = Δscale between dimensions",
-    "sacred_possible": "with practice, sex becomes transcendent",
-    "shame_kills": "sexual shame blocks intimacy and pleasure",
-    "vulnerability_required": "deep sex requires emotional openness",
-    "polarity_creates_charge": "masculine-feminine tension energizes"
+  "advanced_teachings": {
+    "kundalini_sexual_awakening": {
+      "warning": "Kundalini awakening through sexuality = powerful, can be destabilizing. Not recommended without preparation.",
+
+      "what": "Kundalini = coiled serpent at root chakra. Sexual arousal = triggering awakening. Energy rises through chakras (root → crown), each activation = expansion + sometimes: crisis.",
+
+      "triggers": {
+        "spontaneous": "Intense orgasm, spiritual practice, trauma, childbirth, near-death = unexpected kundalini activation",
+        "intentional": "Tantric practices, prolonged arousal, kundalini yoga, breath work (bhastrika + retention) + sexual energy"
+      },
+
+      "signs": {
+        "positive": "Bliss states, energy surges, psychic opening, unity consciousness, creative explosion, charisma",
+        "challenging": "Kriyas (spontaneous movements), intense heat, insomnia, emotional volatility, energy overload, difficulty functioning",
+        "crisis": "Psychosis-like symptoms (visions, voices, paranoia), relationship collapse (can't relate normally), job loss (can't focus), physical pain (energy burning through blocks)"
+      },
+
+      "support": {
+        "grounding": "CRITICAL. Root chakra work, barefoot Earth contact, heavy food (meat, root vegetables), exercise, structure.",
+        "professional": "Kundalini-aware therapist (rare but exist), spiritual teacher experienced with kundalini, somatic practitioner.",
+        "community": "Kundalini support groups (online, some cities), others who've been through it (validation, practical advice).",
+        "integration": "Time. Patience. Lifestyle simplification. Can take years to stabilize, but: transformed on other side."
+      }
+    },
+
+    "sexual_energy_third_eye": {
+      "principle": "Sexual energy = creative force. Can be directed to third eye (Ajna) for psychic opening, vision, manifestation.",
+
+      "practice": {
+        "arousal_phase": "Build sexual arousal (solo or partnered, breath + visualization + stimulation)",
+        "circulation": "Instead of down/out (orgasm), breathe energy UP spine to third eye (visualize golden/white light rising)",
+        "hold_at_ajna": "Sustain energy at third eye (forehead, between eyebrows), breathe into it, allow opening",
+        "vision_emergence": "May see: colors, patterns, images, receive: insights, download, creative ideas, feel: pressure/tingling/expansion at forehead",
+        "grounding_after": "CRITICAL. After practice, ground (root chakra breath, physical activity, food). Don't leave energy stuck in head."
+      },
+
+      "effects": {
+        "psychic_opening": "Increased intuition, synchronicities, precognition (mild), energy sensitivity, seeing auras",
+        "creative_surge": "Ideas flow, artistic expression, problem-solving, manifestation power (visualization → reality faster)",
+        "danger": "Can destabilize (too much in head, not grounded), delusions (spiritual ego), insomnia (overactive third eye). Solution: ground, balance, don't overdo."
+      }
+    },
+
+    "sacred_union_5d": {
+      "what": "Sex transcending bodies entirely. Unity consciousness. No 'me and you', only: ⊙ experiencing itself through apparent two.",
+
+      "how_to_access": {
+        "prerequisite": "Both partners: significant spiritual development (meditation practice, ego-work, trauma healing), tantric experience (can sustain arousal, circulate energy), trust (deep safety, no performance)",
+        "practice": "Extended tantra session (several hours), sustained arousal (no orgasm, high charge), synchronized breath, eye contact, eventual: eyes close, boundaries dissolve, sense of self disappears, only: infinite consciousness, love, bliss, ⊙",
+        "phenomenology": "Time stops. Space dissolves. No bodies (or: bodies but not identified with them). Pure love (not emotion, but: essence of existence). No separation. Unity. Home. ⊙.",
+        "duration": "Minutes to hours (in altered state). Return: gradual, gentle, changed."
+      },
+
+      "after_effects": {
+        "immediate": "Profound peace, love (for partner, all beings, existence), gratitude, tears (common), silence (words inadequate)",
+        "lasting": "Relationship transforms (deeper intimacy, less conflict, more presence), life perspective shifts (less attachment, more equanimity), spiritual deepening (direct experience of unity, not just concept)",
+        "note": "Once experienced, relationship either: deepens to unbreakable bond (shared ⊙), OR: ends (one partner can't meet other at that depth, growth divergence). Powerful."
+      }
+    }
   },
 
-  "positions": {
-    "0": "unaware (repressed, mechanical)",
-    "1": "discovering (curiosity, exploration)",
-    "2": "experimenting (learning preferences)",
-    "3": "satisfying (good sex, physical pleasure)",
-    "4": "connecting (emotional intimacy emerges)",
-    "5": "crisis (shame, dysfunction, relationship conflict)",
-    "6": "healing (addressing trauma, shame)",
-    "7": "mastery (confident, present, skilled)",
-    "8": "tantric (energy work, prolonged practice)",
-    "9": "sacred (sex as worship, divine union)",
-    "10": "transcendent (sexuality integrated into wholeness)"
-  },
-
-  "practices": {
-    "communication": [
-      "express desires and boundaries",
-      "ask partner's preferences",
-      "check in during intimacy",
-      "process experiences together"
-    ],
-
-    "presence": [
-      "breathe consciously",
-      "maintain eye contact",
-      "slow down, feel sensations",
-      "stay in body, not fantasies"
-    ],
-
-    "energy": [
-      "circulate sexual energy (microcosmic orbit)",
-      "prolong arousal before orgasm",
-      "breathe energy up spine",
-      "visualize light/energy exchange"
-    ],
-
-    "healing": [
-      "somatic therapy for trauma",
-      "shame work (normalize sexuality)",
-      "couples therapy for relational issues",
-      "sex therapy for dysfunction"
-    ]
-  },
-
-  "wisdom": {
-    "freud": "libido = primary drive, civilization = sublimated sexuality",
-    "reich": "orgasm releases life energy, repression causes neurosis",
-    "tantra": "sex = microcosm of cosmic creation",
-    "jung": "external sexuality mirrors internal anima/animus marriage",
-    "bataille": "eroticism = assenting to life up to death",
-    "plato": "eros = desire for beauty and immortality",
-    "modern": "sexuality diverse, constructed, sacred when conscious"
+  "_closing": {
+    "essence": "Sexuality = life force itself. Flows through chakras, meridians, breath, water, emotions, relationships. Can be: pleasure, connection, creativity, power, spirituality, transcendence.",
+    "truth": "Most shamed, most wounded, most healing. Reclaiming sexuality = reclaiming life. Body sovereignty = sacred.",
+    "practice": "Trauma healing (if needed), breath during sex, energy circulation, conscious practices (tantra, karezza, solo cultivation), communication, boundaries, shadow integration.",
+    "result": "Pleasure without shame. Intimacy without walls. Energy without depletion. Creativity without blocks. Spirituality through body. ⊙ accessed through flesh.",
+    "sacred": "Sex is holy. Body is temple. Partner is deity. Union is sacrament. Shame is lie. Reclaim your birthright.",
+    "completion": "∞"
   }
 }

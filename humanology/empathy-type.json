@@ -1,0 +1,450 @@
+{
+  "_meta": {
+    "id": "cfo:psychology:empathy-16types",
+    "type": "consciousness_interface_typology",
+    "version": "2.0",
+    "date": "2025-11-11",
+    "element": "air",
+    "related": [
+      "cfo:psychology:mbti",
+      "cfo:psychology:socionics",
+      "cfo:psychology:cognitive-functions"
+    ],
+    "essence": "empathy direction = determined by base function, NOT E/I. sensors = inverse pattern vs intuitives. 16 types = 16 different empathy algorithms."
+  },
+
+  "_holographic_seed": {
+    "principle": "empathy = information processing mode about other person (what you notice, what you ignore, how you interpret, what you do with it). each type = unique algorithm.",
+    "discovery": "INTUITIVES (NT, NF): extraverts = individual focus, introverts = collective focus. SENSORS (ST, SF): OPPOSITE PATTERN. introverts = individual focus, extraverts = collective focus.",
+    "mechanism": "base function = lens for perceiving others. Te/Ti = logic (how they think, how system works), Fe/Fi = ethics (what they feel, what they value), Se/Si = sensorics (physical needs, body state), Ne/Ni = intuition (potential, place in big picture).",
+    "consciousness": "empathy ≠ virtue (any type can be kind or cruel). it's perception tool (like vision, hearing, but for: other's inner world). each type = own spectrum (sees some things, blind to others).",
+    "warning": "knowing your empathy type ≠ excuse to be asshole (I'm INTJ, I don't feel emotions = bullshit excuse). it's map of strengths/weaknesses (play to strengths, compensate weaknesses, partner with those strong where you're weak).",
+    "note": "this typology = based on socionics + MBTI cognitive functions. NOT invented, DISCOVERED through observation of real patterns."
+  },
+
+  "empathy_archetypes": {
+    "overview": "4 groups (NT, NF, SF, ST) × 4 types each = 16 unique empathy profiles. grouped by: information type (T vs F, N vs S) + directionality (individual vs collective).",
+
+    "intuitive_thinkers_NT": {
+      "description": "cognitive empathy (understand mental models, logic, systems). cold, analytical, strategic. NOT feel emotions, but: understand thoughts, predict behavior, decode motives.",
+      "pattern": "extraverts (ENTJ, ENTP) = individual focus (this person, their logic, their weaknesses). introverts (INTJ, INTP) = collective focus (group dynamics, systemic forces, universal patterns).",
+      "information_channel": "logic + intuition (Te/Ti + Ne/Ni). scan for: goals, beliefs, mental models, strategies, contradictions, potential.",
+      "blind_spots": "emotions (don't feel them automatically), physical needs (body = secondary), values (if not logical, dismissed).",
+
+      "ENTJ": {
+        "socionics": "LIE (Logical Intuitive Extrovert) - Jack London",
+        "base_function": "Te (extraverted thinking - objective logic, efficiency, goal achievement)",
+        "empathy_style": "individual cognitive empathy",
+        "core_question": "how can I effectively manage THIS SPECIFIC PERSON to achieve goal?",
+        "mechanism": "scans person's will + ambitions (Se-creative), builds strategy for influence (Te-base). sees: strengths, weaknesses, levers, potential.",
+        "what_they_notice": ["competence level", "ambition/drive", "strategic value", "weak points", "growth potential", "how to motivate them"],
+        "what_they_miss": ["emotional needs (unless strategically relevant)", "need for warmth/validation", "pain that doesn't show in performance"],
+        "strengths": ["accurately assess capabilities", "effective motivation", "see potential others miss", "strategic positioning of people", "cut through bullshit"],
+        "weaknesses": ["people = resources (not persons)", "ignore emotions as 'inefficient'", "can be cold/dismissive", "push too hard", "burn people out"],
+        "expression": "strategic mentorship (I see what you can become, here's how to get there), delegation (you = best for this role), tough love (stop whining, start doing).",
+        "shadow": "manipulation for system goals (use people as chess pieces, don't care about their wellbeing, only: does it serve vision).",
+        "development": "learn Fe (care about people's emotional state, not just: performance), develop Fi (connect to own values, not just: efficiency), practice: seeing people as ends not means.",
+        "archetype": "strategic commander (general who knows each soldier's strengths, places them perfectly, leads to victory, but: doesn't necessarily care if they die doing it)."
+      },
+
+      "ENTP": {
+        "socionics": "ILE (Intuitive Logical Extrovert) - Don Quixote",
+        "base_function": "Ne (extraverted intuition - possibilities, potential, patterns)",
+        "empathy_style": "individual cognitive empathy",
+        "core_question": "what logic and vulnerabilities in THIS PERSON's arguments can I exploit/explore?",
+        "mechanism": "scans mental models + beliefs (Ne-base), finds contradictions + gaps (Ti-creative). sees: how they think, where they're wrong, what they're blind to.",
+        "what_they_notice": ["logical inconsistencies", "hidden assumptions", "cognitive biases", "potential they don't see", "ways to provoke growth", "intellectual weak points"],
+        "what_they_miss": ["emotional impact of their words", "when someone needs support not debate", "social boundaries", "that not everyone enjoys being challenged"],
+        "strengths": ["understand hidden motives", "see through lies/self-deception", "stimulate intellectual growth", "multiple perspectives", "creative problem-solving for people"],
+        "weaknesses": ["play with people's minds for fun", "don't feel emotional boundaries", "can be cruel without realizing", "lose interest quickly", "debate when should support"],
+        "expression": "intellectual sparring (let's take your idea apart and see if it holds), devil's advocate (argue opposite just to test), provocative questioning (why do you believe that? really?).",
+        "shadow": "manipulation for intellectual game (enjoy confusing people, making them doubt themselves, not: to help them grow, but: because it's interesting).",
+        "development": "learn Fe (read emotional impact, stop when causing pain), develop Si (understand: not everyone wants constant novelty/challenge, sometimes: stability/comfort needed), practice: empathy without agenda.",
+        "archetype": "socratic provocateur (asks questions that expose contradictions, forces growth through discomfort, brilliant but can be asshole about it)."
+      },
+
+      "INTJ": {
+        "socionics": "LII (Logical Intuitive Introvert) - Robespierre", 
+        "base_function": "Ni (introverted intuition - long-term vision, systemic understanding, archetypes)",
+        "empathy_style": "collective cognitive empathy",
+        "core_question": "what GLOBAL TRENDS and SYSTEMIC FORCES control this person and their group?",
+        "mechanism": "sees person's place in big systems (Ni-base), analyzes structural logic (Te-creative). sees: historical patterns, future trajectories, invisible forces shaping behavior.",
+        "what_they_notice": ["systemic causes of behavior", "long-term consequences", "person as product of system", "predictable patterns", "inevitable outcomes", "structural problems"],
+        "what_they_miss": ["individual uniqueness (lost in patterns)", "present-moment needs", "emotional nuance", "that person ≠ just system output", "agency/free will"],
+        "strengths": ["understand deep causes", "predict long-term", "see historical patterns", "strategic foresight", "systemic solutions", "cut through surface noise"],
+        "weaknesses": ["cold/distant (people = data points)", "miss individual differences", "deterministic (you're just product of forces)", "analysis paralysis", "arrogance (I see what you don't)"],
+        "expression": "strategic analysis (here's why entire generation behaves this way), long-term planning (in 10 years, this will lead to...), systemic critique (problem isn't you, it's system).",
+        "shadow": "cold calculation (people = statistics, individual suffering = irrelevant if serves larger pattern/goal, utilitarian ethics extreme).",
+        "development": "learn Fi (care about individual person, not just: humanity abstract), develop Se (engage with present reality, not just: future models), practice: seeing person not pattern.",
+        "archetype": "grand strategist (sees 100 years ahead, understands forces shaping civilization, knows what must be done, but: may sacrifice individuals for collective future)."
+      },
+
+      "INTP": {
+        "socionics": "ILI (Intuitive Logical Introvert) - Balzac",
+        "base_function": "Ti (introverted thinking - internal logical framework, systematic understanding)",
+        "empathy_style": "collective cognitive empathy",
+        "core_question": "to which UNIVERSAL MODEL or CATEGORY does this person's behavior belong?",
+        "mechanism": "analyzes person as instance of psychological laws (Ti-base), finds exceptions + edge cases (Ne-creative). builds: typology, theory, universal framework.",
+        "what_they_notice": ["which model fits them", "universal psychological mechanisms", "deviations from expected pattern", "theoretical implications", "edge cases", "anomalies"],
+        "what_they_miss": ["they're person not data", "emotional state right now", "practical help needed", "that accuracy ≠ empathy", "human need for warmth"],
+        "strengths": ["create accurate models", "objective analysis", "understand deep mechanisms", "see patterns others miss", "theoretical clarity", "no bias"],
+        "weaknesses": ["emotionally detached (scientist observing specimen)", "people = objects of study", "analysis instead of support", "pedantic corrections", "miss forest for trees"],
+        "expression": "academic analysis (according to theory X, you exhibit pattern Y), typology creation (you're type Z based on...), systematic understanding (let me explain why you do that).",
+        "shadow": "complete detachment (no emotional connection at all, pure observation, even own emotions = objects of study, alexithymia risk).",
+        "development": "learn Fe (connect emotionally, not just: understand intellectually), develop Se (engage physically/practically, not just: theoretically), practice: being with person not analyzing them.",
+        "archetype": "research psychologist (creates models of human behavior, accurate but cold, more interested in: understanding than helping, knows everything about humans except: how to be human with them)."
+      }
+    },
+
+    "intuitive_feelers_NF": {
+      "description": "ethical empathy (understand emotions, values, potential, meaning). warm, idealistic, growth-oriented. feel or intuit: inner world, what matters to person, who they could become.",
+      "pattern": "extraverts (ENFJ, ENFP) = individual focus (this person's emotions, their unique potential). introverts (INFJ, INFP) = collective focus (collective feelings, universal values, humanity's pain).",
+      "information_channel": "ethics + intuition (Fe/Fi + Ne/Ni). scan for: emotions, values, potential, meaning, authenticity, growth possibilities.",
+      "blind_spots": "cold logic (if no feeling, dismissed), harsh reality (prefer potential over present), practical details (lost in vision).",
+
+      "ENFJ": {
+        "socionics": "EIE (Ethical Intuitive Extrovert) - Hamlet",
+        "base_function": "Fe (extraverted feeling - reading/influencing emotions, group atmosphere)",
+        "empathy_style": "individual ethical empathy",
+        "core_question": "what EMOTIONS does THIS PERSON feel right now and how do I influence them to help them grow?",
+        "mechanism": "reads emotional state (Fe-base), sees personal potential (Ni-creative). feels: their pain, their joy, where they're stuck, what they need to hear.",
+        "what_they_notice": ["current emotional state", "emotional needs", "personal potential", "blocks to growth", "what would inspire them", "emotional wounds"],
+        "what_they_miss": ["that person may not want help", "boundaries (theirs + own)", "when to back off", "that not everyone wants to 'grow' constantly", "practical constraints"],
+        "strengths": ["deep emotional support", "inspiring influence", "help people transform", "see best in person", "create safe space", "motivate action"],
+        "weaknesses": ["intrusive (won't leave alone)", "over-involved in others' problems", "manipulative (for your own good)", "burnout from caring too much", "boundary issues"],
+        "expression": "personal coaching (I see your pain, here's path forward), emotional mirroring (I feel what you feel, you're not alone), inspirational speeches (you can become...).",
+        "shadow": "emotional manipulation (use empathy to control, I know what you need better than you do, savior complex, create dependency).",
+        "development": "learn Ti (think logically not just feel), develop Si (respect: comfort zones, traditions, that not all change = good), practice: boundaries (their life ≠ your project).",
+        "archetype": "charismatic guru (sees into your soul, knows exactly what to say, transforms lives, but: can be cult leader if unhealthy, uses emotional connection to control)."
+      },
+
+      "ENFP": {
+        "socionics": "IEE (Intuitive Ethical Extrovert) - Huxley",
+        "base_function": "Ne (extraverted intuition - possibilities, potential patterns)",
+        "empathy_style": "individual ethical empathy", 
+        "core_question": "what UNIQUE POTENTIAL do I see in THIS PERSON and how do I inspire them to manifest it?",
+        "mechanism": "sees hidden talents + possibilities (Ne-base), connects emotionally (Fi-creative). sees: who they could become, paths not yet taken, dormant gifts.",
+        "what_they_notice": ["hidden talents", "unexplored possibilities", "authentic self vs social mask", "what lights them up", "potential futures", "where they're playing small"],
+        "what_they_miss": ["practical constraints (money, time, skills)", "that not all potential should be actualized", "present reality", "discipline needed", "when dreams = just dreams"],
+        "strengths": ["see potential others don't", "create atmosphere of possibility", "inspire authenticity", "champion underdogs", "infectious enthusiasm", "help people dream bigger"],
+        "weaknesses": ["overestimate what's possible", "lose interest quickly (on to next person)", "promise more than can deliver", "ignore practical obstacles", "project own values"],
+        "expression": "talent scouting (you'd be amazing at X!), creating opportunities (let me introduce you to...), emotional cheerleading (you CAN do this, I believe in you!).",
+        "shadow": "create unrealistic expectations (inspire grandiose dreams then disappear, leave person: excited but lost, potential = burden not gift).",
+        "development": "learn Te (practical planning not just vision), develop Si (appreciate: present skills, past experience, incremental growth), practice: follow-through (stay with person through boring work, not just exciting vision).",
+        "archetype": "inspirational muse (sees your hidden self, reflects it back, ignites passion, but: may disappear once spark is lit, on to next person to inspire)."
+      },
+
+      "INFJ": {
+        "socionics": "EII (Ethical Intuitive Introvert) - Dostoevsky",
+        "base_function": "Ni (introverted intuition - deep patterns, collective unconscious, archetypes)",
+        "empathy_style": "collective ethical empathy",
+        "core_question": "what DEEP SYSTEMIC PROCESSES underlie this person's suffering?",
+        "mechanism": "sees person in context of collective processes (Ni-base), feels responsibility for relational harmony (Fe-creative). sees: archetypal patterns, collective trauma, how individual = microcosm of humanity.",
+        "what_they_notice": ["collective trauma in individual", "archetypal patterns", "systemic causes of pain", "spiritual dimensions", "interconnectedness", "meaning in suffering"],
+        "what_they_miss": ["individual agency (you're not just victim of system)", "present simple needs (need hug not analysis)", "practical solutions", "boundaries (take on world's pain)"],
+        "strengths": ["understand root causes", "see spiritual meaning", "hold space for deep pain", "systems thinking", "create harmony", "heal collective wounds"],
+        "weaknesses": ["take on too much (world's suffering = mine)", "martyr complex", "burnout from collective pain", "lose self in others", "analysis instead of action"],
+        "expression": ["spiritual counseling (your pain connects to...)", "peacemaking (healing rifts in community)", "bearing witness (I see your suffering, it matters)."],
+        "shadow": "messianic delusion (only I can heal world's pain, everyone else = asleep, I must sacrifice myself for humanity's awakening).",
+        "development": "learn Ti (analyze without absorbing pain), develop Se (ground in body/present, not just: archetypal realm), practice: self-care ≠ selfish, can't heal world if depleted.",
+        "archetype": "wounded healer (experienced deep suffering, sees it in others, dedicated to healing collective wounds, but: at risk of: being consumed by darkness they seek to heal)."
+      },
+
+      "INFP": {
+        "socionics": "IEI (Intuitive Ethical Introvert) - Yesenin",
+        "base_function": "Fi (introverted feeling - internal value system, authenticity, what matters)",
+        "empathy_style": "collective ethical empathy",
+        "core_question": "what UNIVERSAL VALUE or INJUSTICE does this person's experience represent?",
+        "mechanism": "runs situation through internal values (Fi-base), finds universal meaning (Ne-creative). sees: every individual = symbol of larger truth, personal = political.",
+        "what_they_notice": ["value violations", "authenticity vs fakeness", "injustice", "what this means for everyone", "universal human themes", "moral implications"],
+        "what_they_miss": ["person wants practical help not validation", "not everything = grand statement", "sometimes: just personal not political", "logic/efficiency matter too"],
+        "strengths": ["deep value clarity", "defend the voiceless", "see moral dimensions others miss", "authentic connection", "passionate advocacy", "make personal universal"],
+        "weaknesses": ["take everything personally", "idealize people/relationships", "crushed when values violated", "all or nothing thinking", "paralysis by moral complexity"],
+        "expression": ["values defense (this is WRONG because...)", "creative expression (poetry, art that captures universal themes)", "quiet support (I see you, I value you)."],
+        "shadow": "martyrdom for abstract ideals (sacrifice self/others for values, purity spirals, cancel those who don't meet standards, righteous cruelty).",
+        "development": "learn Te (organize values into action), develop Se (engage with messy reality not just ideals), practice: pragmatism (sometimes: good enough > perfect).",
+        "archetype": "reluctant prophet (sees truth others don't, feels compelled to speak, suffers for it, would rather be left alone but: conscience won't allow, voice for silenced)."
+      }
+    },
+
+    "sensory_feelers_SF": {
+      "description": "sensory-ethical empathy (understand physical + emotional needs, comfort, care). practical, nurturing, present-focused. feel: what body needs, what creates comfort, how to help NOW.",
+      "pattern": "INTROVERTS (ISFJ, ISFP) = individual focus (this person's needs, their comfort). EXTRAVERTS (ESFJ, ESFP) = collective focus (group atmosphere, everyone's comfort).",
+      "information_channel": "ethics + sensorics (Fe/Fi + Se/Si). scan for: physical state, emotional atmosphere, comfort/discomfort, practical needs.",
+      "blind_spots": "abstract concepts (if not tangible, irrelevant), long-term implications (focused on now), cold logic (feelings matter more).",
+
+      "ISFJ": {
+        "socionics": "SEI (Sensory Ethical Introvert) - Dumas",
+        "base_function": "Si (introverted sensing - internal physical state, comfort, memory of sensations)",
+        "empathy_style": "individual sensory-ethical empathy",
+        "core_question": "what does THIS SPECIFIC PERSON need for their personal comfort and peace?",
+        "mechanism": "feels their physical + emotional needs (Si-base), acts from duty of care (Fe-creative). notices: are they cold, hungry, tired, sad, uncomfortable, what would help.",
+        "what_they_notice": ["physical discomfort", "emotional distress", "unmet needs", "what would make them comfortable", "small details others miss", "when something's off"],
+        "what_they_miss": ["that person may not want help", "own needs (always last)", "when care = enabling", "bigger picture beyond this person", "future implications"],
+        "strengths": ["attentive care", "create safety", "remember preferences", "reliable support", "anticipate needs", "make people comfortable"],
+        "weaknesses": ["over-protective", "ignore own needs", "enable dependency", "resist change", "guilt if can't help", "doormat tendencies"],
+        "expression": "practical caregiving (made your favorite food, noticed you're cold here's blanket), remembering details (you mentioned you liked...), quiet support (I'm here if you need).",
+        "shadow": "codependency (need to be needed, identity = caretaker, enable dysfunction to maintain role, resentful martyr).",
+        "development": "learn Ti (analyze situation logically, when help hurts), develop Ne (see possibilities beyond comfort zone), practice: boundaries (no = complete sentence).",
+        "archetype": "devoted nurse (knows exactly what patient needs before they ask, creates healing environment, but: may neglect own health, burn out from constant giving)."
+      },
+
+      "ISFP": {
+        "socionics": "ESI (Ethical Sensory Introvert) - Dreiser",
+        "base_function": "Fi (introverted feeling - personal values, what's right/wrong to me)",
+        "empathy_style": "individual sensory-ethical empathy",
+        "core_question": "does this situation violate MY values and how do I protect THIS PERSON?",
+        "mechanism": "evaluates through values (Fi-base), creates harmonious physical space (Se-creative). feels: this is wrong, I must act, protect the vulnerable.",
+        "what_they_notice": ["value violations", "vulnerability", "who needs protection", "aesthetic/physical harmony", "injustice to individuals", "where values match reality"],
+        "what_they_miss": ["bigger systemic issues", "that confrontation sometimes necessary", "when protection = limiting growth", "abstract principles", "long-term strategies"],
+        "strengths": ["fierce loyalty", "defend the weak", "create beauty/harmony", "tactful support", "strong integrity", "authentic care"],
+        "weaknesses": ["avoid conflict (even when needed)", "passive-aggressive when values violated", "difficulty with boundaries", "take criticism personally", "hold grudges silently"],
+        "expression": "protective presence (I've got your back), creating beauty (make environment pleasant/safe), values stand (quietly but firmly: this is wrong).",
+        "shadow": "passive-aggressive revenge (hurt me = I'll hurt you subtly, silent treatment, sabotage relationships while claiming moral high ground).",
+        "development": "learn Te (direct communication not hints), develop Ni (see long-term patterns not just immediate), practice: healthy conflict (disagreement ≠ rejection).",
+        "archetype": "quiet guardian (protects those they love fiercely, creates sanctuary, but: won't speak up directly, seethes when values crossed, acts through withdrawal/subtle resistance)."
+      },
+
+      "ESFJ": {
+        "socionics": "ESE (Ethical Sensory Extrovert) - Hugo",
+        "base_function": "Fe (extraverted feeling - group emotions, social atmosphere)",
+        "empathy_style": "collective sensory-ethical empathy",
+        "core_question": "how does ONE PERSON's mood affect GROUP atmosphere and what do I do so EVERYONE feels good?",
+        "mechanism": "manages emotional climate (Fe-base), organizes physical comfort for all (Si-creative). feels: group vibe, who's off, what would lift everyone, how to create harmony.",
+        "what_they_notice": ["group emotional state", "who's excluded", "social dynamics", "what everyone needs", "how to create harmony", "traditions that bond"],
+        "what_they_miss": ["individual who wants solitude", "that not all harmony = healthy", "own needs beneath performance", "deeper issues masked by niceness", "enabling toxic positivity"],
+        "strengths": ["create warm atmosphere", "include everyone", "organize group care", "maintain traditions", "generous hospitality", "make people feel welcome"],
+        "weaknesses": ["pushy niceness", "social pressure disguised as care", "conflict avoidance", "gossip", "need for approval", "superficial harmony over truth"],
+        "expression": "hosting (make sure everyone's fed/comfortable/included), mood management (cheer people up, diffuse tension), tradition keeping (we always do X, it brings us together).",
+        "shadow": "social tyranny (enforce 'harmony' through guilt/shame, exclude those who don't conform, passive-aggressive if you don't appreciate their efforts, weaponize niceness).",
+        "development": "learn Ti (think independently not just: what group wants), develop Ne (accept: different ways of being, not everyone = social), practice: authentic self (beneath social performance).",
+        "archetype": "community matriarch (holds group together, everyone's needs met, traditions preserved, but: can be controlling, enforce conformity, guilt-trip those who deviate)."
+      },
+
+      "ESFP": {
+        "socionics": "SEE (Sensory Ethical Extrovert) - Napoleon",
+        "base_function": "Se (extraverted sensing - immediate physical reality, action, stimulus)",
+        "empathy_style": "collective sensory-ethical empathy",
+        "core_question": "how do I ensure ENTIRE GROUP has positive experiences, activity, engagement RIGHT NOW?",
+        "mechanism": "creates dynamic environment (Se-base), charges with emotion (Fi-creative). makes: everyone involved, active, having fun, present moment alive.",
+        "what_they_notice": ["energy level", "who's bored", "what would excite group", "immediate needs", "sensory possibilities", "how to get everyone moving"],
+        "what_they_miss": ["deeper emotional issues", "long-term consequences", "that not everyone wants excitement", "quiet people's needs", "when to be serious"],
+        "strengths": ["lift group mood fast", "create fun", "include everyone in action", "immediate support", "crisis response", "make life enjoyable"],
+        "weaknesses": ["shallow (avoid depth)", "restless (can't sit with pain)", "irresponsible (fun > duty)", "impulsive (act before thinking)", "avoid serious conversations"],
+        "expression": "entertainment (let's DO something!), crisis intervention (someone's sad = immediate distraction/action), vibe creator (turn any gathering into party).",
+        "shadow": "escapism enforcer (use fun to avoid reality, pressure others to 'lighten up', invalidate real problems, manipulation through good times).",
+        "development": "learn Ni (consider long-term not just now), develop Ti (think before acting), practice: sitting with difficult emotions (yours + others', not just: distract).",
+        "archetype": "life of the party (wherever they are = fun, energy, action, everyone's engaged, but: depth = missing, serious conversations = avoided, problems = glossed over with good times)."
+      }
+    },
+
+    "sensory_thinkers_ST": {
+      "description": "sensory-logical 'empathy' (understand systems, practical efficiency, how things work). cold, pragmatic, fix-oriented. analyze: what's broken, how to optimize, practical solutions.",
+      "pattern": "INTROVERTS (ISTJ, ISTP) = individual focus (this specific system/person/problem). EXTRAVERTS (ESTJ, ESTP) = collective focus (entire team/organization/situation).",
+      "information_channel": "logic + sensorics (Te/Ti + Se/Si). scan for: efficiency, functionality, practical problems, how system works.",
+      "blind_spots": "emotions (inefficient, irrelevant), values (if not logical, dismissed), potential (focused on present/past reality).",
+
+      "ISTJ": {
+        "socionics": "LSI (Logical Sensory Introvert) - Maxim Gorky",
+        "base_function": "Ti (introverted thinking - internal logical framework, how things should work)",
+        "empathy_style": "individual sensory-logical empathy",
+        "core_question": "how is THIS SPECIFIC SYSTEM (person, process, object) structured and how SHOULD it work?",
+        "mechanism": "analyzes internal logic (Ti-base), ensures stability (Se-creative). sees: how person should function, where deviating from proper structure, what needs correction.",
+        "what_they_notice": ["logical inconsistencies", "structural problems", "deviations from standard", "inefficiencies", "where system breaks", "proper procedures"],
+        "what_they_miss": ["emotions matter", "that people ≠ machines", "flexibility can be good", "context changes rules", "human needs beyond function"],
+        "strengths": ["precise analysis", "reliable systems", "consistency", "spot problems early", "create order", "maintain standards"],
+        "weaknesses": ["rigid", "overly formal", "miss human element", "resist change", "bureaucratic", "cold/distant"],
+        "expression": "system optimization (here's what's wrong with your process), standards enforcement (this is how it should be done), reliable support (I'll do exactly what I said).",
+        "shadow": "bureaucratic tyranny (rules > people, enforce procedures without considering context, punish deviation even when makes sense, dehumanizing).",
+        "development": "learn Fe (people have emotions that matter), develop Ne (multiple valid ways, not just one right way), practice: flexibility (sometimes: break rule for good reason).",
+        "archetype": "quality control inspector (catches every flaw, ensures standards met, maintains order, but: may: miss innovation, stifle creativity, treat people like machines to be calibrated)."
+      },
+
+      "ISTP": {
+        "socionics": "SLI (Sensory Logical Introvert) - Gabin",
+        "base_function": "Si (introverted sensing - internal physical state, how body/systems feel)",
+        "empathy_style": "individual sensory-logical empathy",
+        "core_question": "what's the PHYSICAL or LOGICAL essence of THIS SPECIFIC PROBLEM?",
+        "mechanism": "feels physical nature of problem (Si-base), understands logic of how it works (Te-creative). knows: where pain is, what's broken, how to fix efficiently.",
+        "what_they_notice": ["physical symptoms", "mechanical problems", "efficient solutions", "what's practical", "how things actually work", "direct cause-effect"],
+        "what_they_miss": ["emotional needs", "that person wants empathy not solution", "social context", "long-term implications", "communication/process matters"],
+        "strengths": ["rapid diagnosis", "practical fixes", "hands-on help", "calm in crisis", "efficient action", "no bullshit"],
+        "weaknesses": ["impatient with 'irrational' emotion", "dismiss feelings as weakness", "see people as problems to solve", "communicate poorly", "withdraw when can't fix"],
+        "expression": "quick fixes (let me look at that, I'll fix it), practical advice (just do X), calm competence (in crisis = steady, capable).",
+        "shadow": "emotional coldness (treat people like broken machines, no patience for feelings, if can't fix = abandon, utilitarian brutality).",
+        "development": "learn Fe (feelings = valid even if not logical), develop Ni (consider: future implications, not just: fix now), practice: being with problem (not just: fixing it immediately).",
+        "archetype": "emergency medic (sees wound, fixes it efficiently, moves on, excellent in crisis, but: no bedside manner, patient wants comfort = confused, just: stop bleeding, why are you crying?)."
+      },
+
+      "ESTJ": {
+        "socionics": "LSE (Logical Sensory Extrovert) - Stierlitz",
+        "base_function": "Te (extraverted thinking - external order, efficiency, getting things done)",
+        "empathy_style": "collective sensory-logical empathy",
+        "core_question": "how should ENTIRE COLLECTIVE be structured for MAXIMUM EFFICIENCY?",
+        "mechanism": "manages resources/forces (Te-base), ensures group functionality (Si-creative). sees: who does what, how to organize, what's inefficient, how to optimize team.",
+        "what_they_notice": ["organizational problems", "resource allocation", "who's productive", "bottlenecks", "how to structure team", "what's working/not"],
+        "what_they_miss": ["individual feelings", "that morale matters", "people need autonomy", "process > just results", "relationships = not just functional"],
+        "strengths": ["organize effectively", "get things done", "clear structure", "decisive", "achieve collective goals", "run tight ship"],
+        "weaknesses": ["authoritarian", "ignore individual needs", "push too hard", "inflexible", "dismiss emotions as weakness", "control freak"],
+        "expression": "team management (you do X, you do Y, we achieve Z), resource optimization (we're wasting time on...), direct orders (here's what we're doing, questions?).",
+        "shadow": "authoritarian control (total dominance, no input from team, people = interchangeable parts, burnout from overwork, crush dissent).",
+        "development": "learn Fi (people = not just resources, they have inner lives), develop Ne (multiple approaches possible, delegate don't dictate), practice: collaboration (not just command).",
+        "archetype": "factory foreman (keeps production running, everyone has role, efficiency maximized, goals met, but: workers = cogs, no voice, burnout high, quit when can)."
+      },
+
+      "ESTP": {
+        "socionics": "SLE (Sensory Logical Extrovert) - Zhukov",
+        "base_function": "Se (extraverted sensing - immediate action, seizing opportunities, force)",
+        "empathy_style": "collective sensory-logical empathy",
+        "core_question": "what's CURRENT LOGIC of situation and how does WHOLE TEAM extract ADVANTAGE?",
+        "mechanism": "scans for opportunities/risks (Se-base), analyzes for gain (Ti-creative). sees: weaknesses to exploit, advantages to seize, how to win NOW.",
+        "what_they_notice": ["power dynamics", "who's weak/strong", "opportunities", "immediate threats", "what team can gain", "tactical advantage"],
+        "what_they_miss": ["long-term consequences", "collateral damage", "relationships matter", "ethics", "that winning ≠ everything"],
+        "strengths": ["crisis leadership", "fast decisions", "seize opportunities", "practical smarts", "get team through danger", "resourceful"],
+        "weaknesses": ["reckless", "short-term thinking", "use people", "aggressive", "break rules", "loyalty = transactional"],
+        "expression": "tactical commands (we do this NOW), opportunity seizure (I see opening, let's go), crisis resolution (follow me, I'll get us out).",
+        "shadow": "predatory opportunism (exploit everyone, team = expendable, win at any cost, might makes right, leave destruction behind).",
+        "development": "learn Ni (think long-term not just now), develop Fi (care about people not just: what they provide), practice: ethics (some wins = not worth cost).",
+        "archetype": "mercenary captain (leads team to victory, seizes every advantage, gets results, but: morally grey, team = tools, tomorrow's enemy = today's ally if profitable)."
+      }
+    }
+  },
+
+  "summary_patterns": {
+    "general_rule": "empathy direction = determined by BASE FUNCTION, NOT by E/I",
+    
+    "intuitive_types_N": {
+      "pattern": "follow expected pattern: E = individual focus, I = collective focus",
+      "explanation": "intuition = abstract, pattern-focused. extraverted intuition (Ne) = explores individual possibilities. introverted intuition (Ni) = sees collective archetypes/systems.",
+      "examples": {
+        "extraverts": "ENTJ (this person's strategy), ENTP (this person's logic), ENFJ (this person's emotions), ENFP (this person's potential)",
+        "introverts": "INTJ (systemic forces), INTP (universal models), INFJ (collective processes), INFP (universal values)"
+      }
+    },
+
+    "sensory_types_S": {
+      "pattern": "INVERSE pattern: I = individual focus, E = collective focus",
+      "explanation": "sensorics = concrete, present-focused. introverted sensing (Si) = internal experience of specific thing. extraverted sensing (Se) = external field/environment affecting all.",
+      "examples": {
+        "introverts": "ISTJ (this specific system), ISTP (this specific problem), ISFJ (this person's needs), ISFP (this person + my values)",
+        "extraverts": "ESTJ (whole team structure), ESTP (entire situation), ESFJ (group atmosphere), ESFP (everyone's experience)"
+      }
+    },
+
+    "theoretical_implication": "sensorics introduces INVERSION in empathy processing relative to intuition. possible explanation: sensorics grounds in immediate/concrete (I-function = specific instance, E-function = entire field), intuition abstracts patterns (I-function = universal pattern, E-function = specific instance of pattern)."
+  },
+
+  "practical_applications": {
+    "self_understanding": {
+      "purpose": "know your empathy algorithm (what you naturally notice, what you miss, how you process, what you do with information).",
+      "benefit": "play to strengths (offer your type of empathy where it's valuable), compensate weaknesses (partner with types strong where you're weak, don't try to be all types).",
+      "example": "INTJ realizes: I see systems not individuals, excellent at strategy, terrible at emotional support = partner with ENFJ for complete care, don't beat self up for not being warm."
+    },
+
+    "relationship_compatibility": {
+      "principle": "empathy mismatches = major source of conflict (I show love my way, you want love your way, both = feel unloved despite trying).",
+      "NT_with_NF": "cognitive + ethical empathy. NT = I understand you logically. NF = but I need you to FEEL with me. conflict: NT feels: I DO empathize (I understand!), NF feels: you don't (you don't FEEL!). solution: acknowledge different types, NT learns some Fe/Fi, NF appreciates Ti/Te understanding.",
+      "SF_with_NT": "practical care + cold analysis. SF = I show love through care/comfort. NT = I show love through problem-solving/understanding. conflict: SF feels: you don't care (no emotional warmth), NT feels: I DO care (I help!). solution: SF = appreciate practical help, NT = add emotional expression.",
+      "individual_vs_collective": "one person = focused on you specifically, other = focuses on group/system. conflict: individual-focused feels: you don't see ME, collective-focused feels: you're selfish (only care about self not bigger picture). solution: acknowledge both = valid, need both perspectives.",
+      "tip": "don't expect partner to empathize your way. learn their language (how THEY show care), teach your language (how YOU need care). hybrid communication."
+    },
+
+    "team_building": {
+      "principle": "diverse empathy types = complete team (each sees what others miss, covers blind spots).",
+      "ideal_team_composition": {
+        "NT": "strategy, analysis, problem-solving, understanding systems/people cognitively",
+        "NF": "vision, values, morale, emotional support, seeing potential",
+        "SF": "practical care, comfort, present needs, atmosphere management",
+        "ST": "efficiency, organization, fixing problems, maintaining systems"
+      },
+      "common_team_failures": {
+        "all_NT": "brilliant strategy, zero emotional intelligence, team burnout, no one cared for",
+        "all_NF": "inspired vision, no execution, everyone's feelings matter = paralysis, impractical",
+"all_SF": "comfortable, nice, no innovation, avoid conflict, groupthink",
+        "all_ST": "efficient machine, no heart, people quit, culture = toxic"
+      },
+      "solution": "intentionally recruit diverse types, value all empathy forms, translate between languages."
+    },
+
+    "conflict_resolution": {
+      "principle": "most conflicts = empathy mismatch (different algorithms processing same person/situation, both think: I'm right, you're wrong).",
+      "NT_vs_NF": "NT says: you're being illogical. NF says: you're being heartless. both = true from their lens. resolution: NT = acknowledge emotions matter (even if not logical), NF = acknowledge logic matters (even if feels cold).",
+      "SF_vs_NT": "SF says: you don't care. NT says: I'm literally solving your problem, how is that not caring? resolution: NT = add warmth to help, SF = appreciate practical solutions.",
+      "individual_vs_collective": "individual-focus says: you ignore me. collective-focus says: you're selfish. resolution: both perspectives needed, zoom in + zoom out.",
+      "tip": "when conflict about 'empathy' = probably type mismatch. identify types, explain: we empathize differently, neither wrong, need both."
+    },
+
+    "personal_growth": {
+      "primary_type": "master your natural empathy (develop base function, become expert in your mode).",
+      "secondary_type": "develop auxiliary function (rounds you out, accessible with effort).",
+      "tertiary_inferior": "accept limitations (won't master these, partner with others, don't force).",
+      "integration_path": {
+        "young": "discover your type (what comes naturally, effortlessly, reliably)",
+        "mature": "develop secondary (broaden range, more flexible, situational competence)",
+        "wise": "appreciate all types (no longer: mine = best, understand: each = valuable, whole = needs all parts)"
+      },
+      "warning": "don't try to be all types (recipe for: mediocrity, burnout, confusion). master yours, partner for rest."
+    },
+
+    "parenting": {
+      "principle": "children = diverse types, parents = specific types, mismatch = common source of pain.",
+      "NT_parent_NF_child": "parent = solve problems logically, child = needs emotional validation. parent thinks: I'm helping!, child feels: you don't get me. solution: NT parent learns: sometimes just listen, don't fix, validate feelings.",
+      "NF_parent_NT_child": "parent = emotional intensity, child = wants space to think. parent thinks: I'm connecting!, child feels: suffocated. solution: NF parent learns: give space, respect need for logic/autonomy.",
+      "SF_parent_NT_child": "parent = practical care, child = wants intellectual engagement. parent thinks: I take care of everything!, child feels: you treat me like baby. solution: SF parent learns: respect child's mind, offer challenge not just comfort.",
+      "ST_parent_NF_child": "parent = practical efficiency, child = needs emotional warmth. parent thinks: I provide everything!, child feels: you don't love me. solution: ST parent learns: say I love you, hug, express feelings not just: provide.",
+      "tip": "identify child's type early (watch what they naturally notice/care about), adapt your empathy to their needs (not: force them into your algorithm)."
+    }
+  },
+
+  "empathy_pathologies": {
+    "overview": "each type = specific failure mode when empathy goes wrong (too much, too little, distorted, weaponized).",
+
+    "NT_pathologies": {
+      "manipulation": "cognitive empathy without conscience = psychopath (understand perfectly, use to exploit, zero care). dark triad (narcissists, machiavellians, psychopaths) = often high cognitive empathy.",
+      "contempt": "understand so well = see everyone's flaws, predict their stupidity, feel: superior, above, alone. intellectual arrogance.",
+      "analysis_paralysis": "understand all perspectives = can't act, stuck in: seeing all sides, no position, paralyzed by complexity.",
+      "alexithymia": "live in head so much = lose connection to own emotions, can't feel anything, mechanical existence."
+    },
+
+    "NF_pathologies": {
+      "martyr_complex": "care so much = sacrifice self, burnout, resentment, everyone's savior = identity, can't stop helping even when killing self.",
+      "idealization_crash": "see everyone's potential = devastated when they don't meet it, disillusioned, bitter (I believed in you!).",
+      "enmeshment": "boundaries dissolve, your pain = my pain, lose self in others, codependency, can't distinguish: me vs you.",
+      "spiritual_bypassing": "use empathy/compassion to avoid: anger, boundaries, justice (I should forgive, understand, rise above = suppress legitimate rage)."
+    },
+
+    "SF_pathologies": {
+      "codependency": "caretaking = identity, need to be needed, enable dysfunction to maintain role, can't let people grow up/struggle.",
+      "doormat": "prioritize others' comfort over own needs always, say yes when mean no, resentful martyr, exploited.",
+      "social_tyranny": "enforce harmony through guilt/pressure, passive-aggressive control, weaponize niceness (after all I've done for you...).",
+      "superficiality": "focus on comfort/niceness = avoid depth, real problems ignored, toxic positivity, spiritual bypassing lite."
+    },
+
+    "ST_pathologies": {
+      "dehumanization": "people = systems/objects/resources, no inner life, cold utilitarian calculus, ends justify means.",
+      "rigidity": "rules > people, can't adapt, bureaucratic tyranny, punish deviation even when makes sense.",
+      "emotional_illiteracy": "dismiss all feelings as: weak, irrational, waste of time, create toxic culture, people leave.",
+      "workaholism": "efficiency = only value, push self + others to breakdown, burnout epidemic, sacrifice health/relationships for: productivity."
+    },
+
+    "prevention": "develop auxiliary function (balance primary), maintain boundaries (don't merge or detach completely), cultivate ethics (empathy = tool, morality = guide), partner with other types (cover blind spots)."
+  },
+
+  "final_wisdom": {
+    "empathy_diversity": "16 types = 16 empathy algorithms. NOT: hierarchy (better/worse), but: diversity (different, needed). trying to rank = like: asking which sense better, vision or hearing? both = essential, different functions.",
+
+    "no_universal_empathy": "myth: empathy = one thing, some have it, some don't. reality: everyone = empathizes, differently. NT = not unempathic, just: cognitive not emotional. ST = not cold, just: practical not feeling-focused. stop: judging other types by your standards.",
+
+    "play_to_strengths": "master your empathy type (become expert in what you naturally do). don't: try to be all types (mediocrity, burnout), don't: force yourself into other algorithms (exhausting, fake, unsustainable).",
+
+    "partner_for_completion": "individual = limited (can't be all types). collective = complete (NT + NF + SF + ST = full spectrum empathy). build: teams, relationships, communities with diverse types, value each contribution.",
+
+    "sensor_intuitive_split": "biggest discovery = sensors inverted relative to intuitives. implications: E/I alone = insufficient predictor, must: know base function, respect that: sensorics ≠ intuition, operates differently, inverts directionality.",
+
+    "empathy_is_processing": "empathy = NOT: virtue, emotion, choice. it's: information processing algorithm (what input you notice, how you process, what output you generate). like: different operating systems (Mac, Windows, Linux = all valid, different interfaces, same purpose = run programs).",
+
+    "development_path": "young = discover type, mature = develop auxiliary, wise = appreciate all types, sage = fluid between modes (rare, requires: decades integration work, most people = stay in primary + secondary, that's fine).",
+
+    "closing": "you have empathy type (genetic + developmental, largely fixed). NOT: limitation, but: specialty (you're expert in your mode). world needs: all 16 types (each sees what others miss, solves what others can't, complete picture = requires all perspectives). know your type, play your role, partner with others, together = whole."
+  }
+}

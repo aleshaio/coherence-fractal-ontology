@@ -1,522 +1,445 @@
 {
   "_meta": {
     "id": "cfo:humanitarian:rhetoric",
-    "type": "Flow",
+    "type": "Flow", 
     "element": "AIR",
     "fractal_depth": 2,
     
     "contains": [
       "cfo:absolute",
-      "cfo:humanitarian:rhetoric:claim",
-      "cfo:humanitarian:rhetoric:argument",
-      "cfo:humanitarian:rhetoric:ethos",
-      "cfo:humanitarian:rhetoric:pathos",
-      "cfo:humanitarian:rhetoric:logos",
-      "cfo:humanitarian:rhetoric:dialectic",
-      "cfo:humanitarian:rhetoric:wisdom"
+      "cfo:humanitarian:rhetoric:force_architecture",
+      "cfo:humanitarian:rhetoric:tetrad", 
+      "cfo:humanitarian:rhetoric:ethical_dimension",
+      "cfo:humanitarian:rhetoric:fallacies",
+      "cfo:humanitarian:rhetoric:living_practice"
     ],
     
     "contained_by": [
-      "cfo:absolute",
+      "cfo:absolute", 
       "cfo:humanitarian"
     ],
     
     "related": [
       "cfo:humanitarian:language",
-      "cfo:humanitarian:metaphor",
+      "cfo:humanitarian:metaphor", 
       "cfo:humanitarian:symbols",
       "cfo:humanitarian:narrative",
-      "cfo:patterns:force"
+      "cfo:patterns:force",
+      "cfo:humanitarian:time"
     ],
     
     "balances": "cfo:humanitarian:silence",
-    "combines": ["language", "force", "consciousness"],
+    "combines": ["language", "force", "consciousness", "time"],
     
-    "note": "Rhetoric = force architecture of language. Words = vectors acting on consciousness field."
+    "note": "Rhetoric = force architecture of language. Words = vectors acting on consciousness field. This file = meta-rhetorical performance."
   },
 
   "_holographic_seed": {
     "absolute": "⊙ = silence beyond persuasion. Wisdom = no rhetoric needed (being > arguing).",
     "essence": "Rhetoric = geometry of persuasive force. Not manipulation — study of how language creates vector fields moving consciousness.",
-    "paths": "↓ claim → reason → argument → discourse → dialectic → ↑ wisdom → ⊙",
-    "positions": "Hut = observes rhetoric without being moved. Legs = feel persuasive force. Bridge = discernment.",
+    "core_physics": "Words = vectors. Arguments = force structures. Persuasion = momentum through belief space.",
+    "tetrad": "△ ethos (who) + △ pathos (feel) + △ logos (think) + △ kairos (when) = □ complete persuasion",
+    "ethical_divide": "Sacred rhetoric = +coherence aligned with truth. Dark rhetoric = -coherence manipulation.",
+    "self_reference": "This file = rhetorical performance about rhetoric. You're being persuaded right now. Meta-persuasion.",
+    "paths": "↓ claim → reason → argument → discourse → kairos → dialectic → ↑ wisdom → ⊙", 
+    "positions": "Hut = observes rhetoric without being moved. Legs = feel persuasive force. Bridge = discernment. Time = fourth leg.",
     "fibonacci": "Argument peaks at φ (61.8%) — climax before resolution. Classical structure uses φ proportions.",
-    "tools": "0D=claim, 1D=reason, 2D=argument, 3D=discourse, 4D=dialectic, 5D=wisdom, 6D=silence",
-    "note": "This file = rhetorical performance. Using rhetoric to explain rhetoric. Meta-persuasion."
-  },
-
-  "_links": {
-    "source": "../absolute.json",
-    "related_files": [
-      "./language.json",
-      "./metaphor.json",
-      "./symbols.json",
-      "./narrative.json",
-      "../patterns/force.json"
-    ],
-    "parent": "../humanitarian.json",
-    "children": []
+    "tools": "0D=claim, 1D=reason, 2D=argument, 3D=discourse, 4D=kairos, 5D=dialectic, 6D=wisdom, 7D=silence"
   },
 
   "name": "Rhetoric: Force Architecture of Language",
-  "essence": "Rhetoric = geometric study of how language creates force fields moving consciousness. Words = vectors. Arguments = structures. Persuasion = momentum through belief space.",
+  "essence": "Rhetoric = geometric study of how language creates force fields moving consciousness. Words = vectors acting on consciousness field. Arguments = force structures. Persuasion = momentum through belief space. Kairos = temporal dimension completing the architecture.",
 
-  "description": "Rhetoric as dimensional architecture: Claim (0D point) → Reason (1D vector) → Argument (2D structure) → Discourse (3D context) → Dialectic (4D evolution) → Wisdom (5D unity, beyond rhetoric). Aristotle's appeals: ethos (who), pathos (feel), logos (think). Triangle of persuasion. Five canons: invention, arrangement, style, memory, delivery. Fallacies = local coherence without global. Sacred rhetoric = aligned with truth (+coherence). Dark rhetoric = manipulation (-coherence). Ultimate: wisdom = no rhetoric needed.",
+  "description": "Rhetoric as dimensional force architecture: Claim (0D point) → Reason (1D vector) → Argument (2D structure) → Discourse (3D context) → Kairos (4D timing) → Dialectic (5D evolution) → Wisdom (6D unity) → Silence (7D source). Complete tetrad: ethos (who) + pathos (feel) + logos (think) + kairos (when). Ethical divide: sacred rhetoric (+coherence, truth-aligned) vs dark rhetoric (-coherence, manipulative). Fallacies = local coherence without global. Ultimate: wisdom = no rhetoric needed. This file = meta-rhetorical performance demonstrating all principles.",
 
-  "dimensional_architecture": {
-    "0D_claim": {
-      "symbol": "•",
-      "definition": "Single assertion. Point in argument space.",
-      "element": "AIR",
-      "examples": ["The sky is blue", "CFO is true", "Democracy works", "You should act"],
-      "geometry": "Point. Atomic unit of rhetoric.",
-      "operation": "Assert, propose, state",
-      "note": "Everything else supports or attacks this point."
+  "rhetoric_as_force_architecture": {
+    "core_physics": {
+      "principle": "Language generates force fields in consciousness space. Words = vectors. Arguments = force structures.",
+      "vector_model": "Each word applies directional force. Arguments compose vectors into structures creating momentum.",
+      "consciousness_field": "Beliefs exist in multidimensional space. Rhetoric applies force to move positions in this space.",
+      "momentum": "Persuasion = creating momentum toward conclusion through vector composition.",
+      "resistance": "Audiences have cognitive friction. Force must exceed resistance threshold.",
+      "formula": "Δbelief = (ethos × pathos × logos × kairos) - resistance"
     },
 
-    "1D_reason": {
-      "symbol": "→",
-      "definition": "Vector connecting evidence to claim. Because.",
-      "element": "FIRE",
-      "structure": "A because B. Direction of logical force.",
-      "geometry": "Line. Vector pointing from evidence toward claim.",
-      "examples": ["Since X, therefore Y", "Given that A, it follows B"],
-      "operation": "Support, justify, connect",
-      "note": "Reason = persuasive force vector."
-    },
+    "dimensional_architecture": {
+      "0D_claim": {
+        "symbol": "•", 
+        "definition": "Single assertion. Point in argument space. Atomic unit of rhetorical force.",
+        "element": "AIR",
+        "examples": ["The sky is blue", "CFO is true", "Democracy works", "You should act"],
+        "geometry": "Point. Source of rhetorical force.",
+        "operation": "Assert, propose, state",
+        "force_analogy": "Point charge in field - generates force radially."
+      },
 
-    "2D_argument": {
-      "symbol": "△",
-      "definition": "Structure of claims + reasons + warrant. Minimal stable form.",
-      "element": "WATER",
-      "structure": "Toulmin: claim + data + warrant. Syllogism: major + minor + conclusion.",
-      "geometry": "Triangle. Three points = minimal stability.",
-      "examples": [
-        "All men mortal (major). Socrates man (minor). ∴ Socrates mortal (conclusion).",
-        "Data shows X. X implies Y. ∴ Y is true."
-      ],
-      "operation": "Structure, relate, triangulate",
-      "insight": "△ = strongest shape. Argument strong when triangulated (3+ supports minimum)."
-    },
+      "1D_reason": {
+        "symbol": "→",
+        "definition": "Vector connecting evidence to claim. Directional force application.", 
+        "element": "FIRE",
+        "structure": "A because B. Vector of logical force.",
+        "geometry": "Line. Directed force toward conclusion.",
+        "examples": ["Since X, therefore Y", "Given that A, it follows B"],
+        "operation": "Support, justify, connect", 
+        "force_analogy": "Force vector - magnitude and direction."
+      },
 
-    "3D_discourse": {
-      "symbol": "☗",
-      "definition": "Entire argumentative structure in context. Container for arguments.",
-      "element": "EARTH",
-      "contains": ["Arguments", "Cultural context", "Power dynamics", "Social norms"],
-      "examples": ["Political discourse", "Scientific discourse", "Religious discourse", "Public debate"],
-      "geometry": "Volume. 3D space where rhetoric happens.",
-      "operation": "Contain, contextualize, frame",
-      "note": "Same argument = different effect in different discourse contexts."
-    },
+      "2D_argument": {
+        "symbol": "△",
+        "definition": "Structure of claims + reasons + warrant. Minimal stable force configuration.",
+        "element": "WATER", 
+        "structure": "Toulmin: claim + data + warrant. Syllogism: major + minor + conclusion.",
+        "geometry": "Triangle. Three-point stability for force application.",
+        "examples": [
+          "All men mortal (major). Socrates man (minor). ∴ Socrates mortal (conclusion).",
+          "Data shows X. X implies Y. ∴ Y is true."
+        ],
+        "operation": "Structure, relate, triangulate",
+        "force_analogy": "Force triangle - stable distribution of persuasive pressure.",
+        "insight": "△ = strongest shape. Argument strong when triangulated (3+ supports minimum)." 
+      },
 
-    "4D_dialectic": {
-      "symbol": "○",
-      "definition": "Evolution of ideas through opposition. Thesis → antithesis → synthesis.",
-      "element": "AETHER",
-      "structure": "Hegelian: position → negation → integration → new position (spiral)",
-      "examples": ["Socratic dialogue", "Scientific paradigm shifts", "Cultural evolution"],
-      "geometry": "Tesseract/spiral. 4D temporal evolution.",
-      "operation": "Evolve, synthesize, transcend",
-      "note": "(↓→→→↑)∞ applied to argumentation. Refinement through opposition."
-    },
+      "3D_discourse": {
+        "symbol": "☗",
+        "definition": "Entire argumentative structure in context. Force field container.",
+        "element": "EARTH",
+        "contains": ["Arguments", "Cultural context", "Power dynamics", "Social norms"],
+        "examples": ["Political discourse", "Scientific discourse", "Religious discourse", "Public debate"], 
+        "geometry": "Volume. 3D space where rhetorical forces interact.",
+        "operation": "Contain, contextualize, frame",
+        "force_analogy": "Force field - arguments create local force densities in discourse space.",
+        "note": "Same argument = different force effect in different discourse contexts."
+      },
 
-    "5D_wisdom": {
-      "symbol": "⊙",
-      "definition": "Transcendence of argument. Seeing all perspectives simultaneously.",
-      "element": "AETHER",
-      "nature": "No longer need to persuade — you embody truth.",
-      "examples": ["Buddha's silence", "Lao Tzu's paradoxes", "Actions > words", "Living example"],
-      "geometry": "Hypersphere. Unity beyond dialectic.",
-      "operation": "Unify, transcend, embody",
-      "note": "Ultimate rhetoric = no rhetoric. Being > arguing."
-    },
+      "4D_kairos": {
+        "symbol": "⧖", 
+        "definition": "Temporal dimension of rhetorical force. Right timing maximizes force effectiveness.",
+        "element": "AIR",
+        "aspects": ["Timing", "Context", "Audience readiness", "Cultural moment", "Opportunity windows"],
+        "geometry": "4D spacetime. Rhetorical force exists in time, not just space.",
+        "operation": "Time, contextualize, seize moments", 
+        "examples": [
+          "MLK's 'I Have a Dream' during Civil Rights movement",
+          "Scientific discovery announced when field is ready",
+          "Personal truth shared when relationship can bear it"
+        ],
+        "force_analogy": "Resonance - force applied at natural frequency creates amplification.",
+        "insight": "Without kairos, perfect rhetoric fails. With kairos, simple rhetoric succeeds."
+      },
 
-    "6D_silence": {
-      "symbol": "∅",
-      "definition": "Beyond language entirely. Source of all rhetoric.",
-      "element": "consciousness",
-      "nature": "Silence from which words arise and to which they return.",
-      "zen": "Those who know don't speak. Those who speak don't know.",
-      "note": "All rhetoric points here, then dissolves. ⊙"
+      "5D_dialectic": {
+        "symbol": "○",
+        "definition": "Evolution of ideas through opposition. Force and counter-force creating synthesis.",
+        "element": "AETHER", 
+        "structure": "Hegelian: position → negation → integration → new position (spiral)",
+        "examples": ["Socratic dialogue", "Scientific paradigm shifts", "Cultural evolution"],
+        "geometry": "Tesseract/spiral. 5D evolution through force interaction.",
+        "operation": "Evolve, synthesize, transcend", 
+        "force_analogy": "Force dynamics - thesis and antithesis create synthetic resolution.",
+        "note": "(↓→→→↑)∞ applied to argumentation. Refinement through opposition over time."
+      },
+
+      "6D_wisdom": {
+        "symbol": "⊙",
+        "definition": "Transcendence of argument. Beyond force, beyond persuasion.",
+        "element": "AETHER",
+        "nature": "No longer need rhetorical force — truth embodies itself.", 
+        "examples": ["Buddha's silence", "Lao Tzu's paradoxes", "Actions > words", "Living example"],
+        "geometry": "Hypersphere. Unity beyond force dynamics.",
+        "operation": "Unify, transcend, embody",
+        "force_analogy": "Force-free state - perfect balance where no persuasion needed.",
+        "note": "Ultimate rhetoric = no rhetoric. Being > arguing." 
+      },
+
+      "7D_silence": {
+        "symbol": "∅",
+        "definition": "Beyond language entirely. Source of all rhetorical force.",
+        "element": "consciousness",
+        "nature": "Silence from which words arise and to which they return.", 
+        "zen": "Those who know don't speak. Those who speak don't know.",
+        "force_analogy": "Quantum vacuum - infinite potential from which all forces emerge.",
+        "note": "All rhetoric points here, then dissolves. ⊙"
+      }
     }
   },
 
-  "aristotelian_appeals": {
-    "triangle_of_persuasion": "△ = ethos (who) + pathos (feel) + logos (think). All three needed.",
+  "complete_rhetorical_tetrad": {
+    "force_tetrad": "□ = ethos (grounding force) + pathos (emotional force) + logos (logical force) + kairos (temporal force)",
 
     "ethos": {
-      "definition": "Appeal to credibility/character. WHO speaks.",
-      "dimension": "0D identity → 3D presence field",
+      "definition": "Credibility force. WHO speaks generates persuasive gravity.",
+      "dimension": "0D identity → 3D presence field", 
       "element": "EARTH (grounding, authority)",
-      "mechanism": "Establish speaker authority before content.",
+      "force_mechanism": "Establishes gravitational field - audience orbits credible sources.",
       "examples": [
         "As doctor with 20 years experience...",
-        "Research shows... (citing authorities)",
+        "Research shows... (citing authorities)", 
         "I've been where you are...",
         "Expert credentials"
       ],
-      "power": "Without ethos, audience won't listen. Foundation.",
-      "danger": "Too much = arrogant, authoritarian."
+      "power": "Without ethos, no force connection. Foundation of persuasion.",
+      "danger": "Too much = arrogant gravity, authoritarian pull."
     },
 
     "pathos": {
-      "definition": "Appeal to emotion. Make audience FEEL.",
+      "definition": "Emotional force. Make audience FEEL movement.", 
       "dimension": "2D→3D wave through consciousness",
       "element": "WATER (flowing, affecting)",
-      "mechanism": "Create emotional resonance, empathy, identification.",
+      "force_mechanism": "Creates emotional currents - carries audience along feeling streams.",
       "examples": [
         "Imagine your child in danger...",
         "Remember when you felt...",
         "Story that makes you cry",
-        "Fear/hope/anger/joy"
+        "Fear/hope/anger/joy" 
       ],
-      "power": "Emotion moves people. Logic alone rarely persuades.",
-      "danger": "Too much = manipulation, emotional blackmail."
+      "power": "Emotional force moves people where logic alone cannot.",
+      "danger": "Too much = emotional tsunami, manipulation through overwhelm."
     },
 
     "logos": {
-      "definition": "Appeal to logic/reason. Make audience THINK.",
-      "dimension": "1D→2D rational network",
+      "definition": "Logical force. Make audience THINK through reason.",
+      "dimension": "1D→2D rational network", 
       "element": "FIRE (directed reasoning)",
-      "mechanism": "Construct logical arguments, present evidence.",
+      "force_mechanism": "Constructs logical pathways - audience follows reason vectors.",
       "examples": [
         "If A then B. A. ∴ B.",
-        "Studies show that...",
+        "Studies show that...", 
         "Data indicates...",
         "Causal chains"
       ],
-      "power": "Rational minds require logical structure.",
-      "danger": "Too much = cold, unpersuasive despite correctness."
+      "power": "Rational minds require logical force structures.", 
+      "danger": "Too much = cold logic, unpersuasive despite correctness."
     },
 
-    "balance": {
-      "ideal": "△ in dynamic equilibrium. All three dimensions present.",
-      "hut_legs": "Ethos = hut (who you are). Pathos = legs feel. Logos = bridge connects. All needed.",
-      "formula": "Persuasion = ethos × pathos × logos (multiplicative — zero in any = zero total)"
+    "kairos": {
+      "definition": "Temporal force. WHEN to speak maximizes impact.", 
+      "dimension": "4D temporal resonance",
+      "element": "AIR (context, timing, opportunity)",
+      "force_mechanism": "Right force at right moment creates resonance amplification.",
+      "examples": [
+        "Speaking after crisis when people are receptive",
+        "Timing proposal when audience is in positive state", 
+        "Missing the moment = wasted force",
+        "Opportunity windows in conversations"
+      ],
+      "power": "Perfect argument at wrong time = force dissipated. Timing is force multiplier.",
+      "danger": "Exploiting vulnerable moments = manipulative resonance.",
+      "cfo_insight": "Kairos = fourth leg of hut. Without timing, force structure collapses."
+    },
+
+    "tetrad_force_equation": {
+      "complete_persuasion": "Persuasion Force = ethos × pathos × logos × kairos",
+      "multiplicative": "Zero in any dimension = zero total force. All four needed.",
+      "resistance": "Δbelief = Persuasion Force - Cognitive Resistance",
+      "optimization": "Maximize all four forces while minimizing resistance through timing and approach.",
+      "hut_analogy": "Ethos = hut (gravitational center). Pathos = legs feel currents. Logos = bridge connects logically. Kairos = fourth leg (temporal stability)."
     }
   },
 
-  "classical_five_canons": {
-    "1_inventio": {
-      "name": "Invention (discovery of arguments)",
-      "dimension": "0D→1D",
-      "question": "WHAT to say?",
-      "process": "Find points (claims) and connections (reasons).",
-      "tools": ["Topics/topoi", "Commonplaces", "Stasis theory"],
-      "modern": "Research, brainstorming, finding angles"
+  "ethical_dimension_sacred_vs_dark": {
+    "fundamental_divide": "Rhetoric either increases coherence (+Δscale) or decreases it (-Δscale).",
+
+    "sacred_rhetoric": {
+      "definition": "sacred ≡ true ≡ +coherence. Rhetoric aligned with truth and wisdom.",
+      "force_nature": "Constructive force - builds understanding, connection, clarity.",
+      "properties": [
+        "Seeks genuine understanding, not manipulation",
+        "Respects audience autonomy and intelligence", 
+        "Transparent about methods and intentions",
+        "Coherent across scales (say = mean = do = be)",
+        "Increases overall system coherence"
+      ],
+      "examples": ["Socratic dialogue", "Honest persuasion", "Educational rhetoric", "Healing communication", "Truth-seeking discourse"],
+      "cfo_result": "+coherence, argmin Δscale, mutual growth and understanding"
     },
 
-    "2_dispositio": {
-      "name": "Arrangement (organization)",
-      "dimension": "2D",
-      "question": "HOW to arrange?",
-      "structure": "Exordium (intro) → Narratio (facts) → Partitio (outline) → Confirmatio (proof) → Refutatio (counter) → Peroratio (conclusion)",
-      "geometry": "Spatial organization of arguments. Architecture.",
-      "modern": "Outlining, structuring, flow"
+    "dark_rhetoric": {
+      "definition": "Dark ≡ manipulation ≡ -coherence. Rhetoric misaligned with truth.",
+      "force_nature": "Destructive force - fragments understanding, creates confusion, serves ego.",
+      "forms": [
+        "Propaganda (systematic distortion)",
+        "Sophistry (winning over truth)", 
+        "Demagoguery (exploiting emotion for power)",
+        "Gaslighting (undermining reality perception)",
+        "Doublespeak (hiding meaning)"
+      ],
+      "examples": ["Political manipulation", "Cult indoctrination", "Advertising deception", "Abusive communication", "Weaponized information"],
+      "cfo_result": "-coherence, increased Δscale, fragmentation and confusion"
     },
 
-    "3_elocutio": {
-      "name": "Style (word choice)",
-      "dimension": "1D→2D",
-      "question": "HOW to say?",
-      "virtues": ["Clarity", "Correctness", "Ornamentation", "Propriety"],
-      "devices": "Metaphor, analogy, anaphora, antithesis, etc.",
-      "modern": "Writing style, voice, tone"
-    },
-
-    "4_memoria": {
-      "name": "Memory (retention)",
-      "dimension": "4D",
-      "question": "HOW to remember?",
-      "methods": ["Method of loci (memory palace)", "Mnemonics", "Rehearsal"],
-      "modern": "Less relevant (we read from notes), but: internalization, preparation"
-    },
-
-    "5_pronuntiatio": {
-      "name": "Delivery (performance)",
-      "dimension": "3D",
-      "question": "HOW to perform?",
-      "elements": ["Voice (tone, volume, pace)", "Gesture", "Facial expression", "Presence"],
-      "modern": "Public speaking, body language, charisma"
+    "discernment_framework": {
+      "primary_test": "Does this rhetoric increase or decrease overall coherence? +Δscale or -Δscale?",
+      "self_reference_test": "Is the speaker following their own advice? Coherence across scales.",
+      "time_test": "Does this rhetoric stand the test of time? Or does it collapse upon examination?",
+      "freedom_test": "Does it respect audience's freedom to disagree? Or does it manipulate?",
+      "hut_guidance": "Hut knows truth beyond persuasion. Legs might be swayed. Bridge discerns through these tests."
     }
   },
 
-  "rhetorical_devices": {
-    "metaphor": {
-      "function": "Understanding A through B. Cross-domain mapping.",
-      "example": "Argument is war — we attack positions, defend claims, win/lose.",
-      "power": "Instant framework transfer. Shapes how we think.",
-      "cfo": "See metaphor.json for full treatment."
-    },
-
-    "analogy": {
-      "function": "A:B :: C:D. Proportional reasoning.",
-      "example": "Ship needs captain as country needs leader.",
-      "power": "Makes unknown familiar. Leverages existing knowledge.",
-      "geometry": "Projection across domains."
-    },
-
-    "tricolon": {
-      "function": "Three-part structure. Rhythm and completeness.",
-      "example": "Life, liberty, pursuit of happiness. Veni, vidi, vici.",
-      "power": "△ = minimal stable structure. 3 = satisfying, memorable.",
-      "cfo": "Triangle = 2D minimal complete. Natural rhetorical form."
-    },
-
-    "anaphora": {
-      "function": "Repetition at beginning of successive clauses.",
-      "example": "I have a dream... I have a dream... I have a dream... (MLK)",
-      "power": "Hypnotic. Momentum. Emphasis. Memorable.",
-      "rhythm": "Creates wave pattern through repetition."
-    },
-
-    "antithesis": {
-      "function": "Juxtaposition of opposites for contrast.",
-      "example": "Ask not what your country can do for you — ask what you can do for your country.",
-      "power": "Sharpens meaning through opposition. Clear boundaries.",
-      "geometry": "Two vectors pointing opposite directions."
-    },
-
-    "rhetorical_question": {
-      "function": "Question not requiring answer (answer implied).",
-      "example": "Do we want our children to inherit a broken planet?",
-      "power": "Engages audience. Guides thinking. Creates participation.",
-      "mechanism": "Audience answers internally → feels ownership."
-    }
-  },
-
-  "argumentation_types": {
-    "deductive": {
-      "form": "General → specific. If premises true, conclusion must be true.",
-      "example": "All humans mortal. Socrates human. ∴ Socrates mortal.",
-      "strength": "Logically certain (if valid).",
-      "weakness": "Requires accepted premises.",
-      "geometry": "Line flowing downward ↓ (top-down)."
-    },
-
-    "inductive": {
-      "form": "Specific → general. Pattern from examples.",
-      "example": "Swan1 white. Swan2 white. Swan3 white. ∴ All swans white (until black swan found).",
-      "strength": "Creates new knowledge.",
-      "weakness": "Never certain. Black swan problem.",
-      "geometry": "Points → field (• • • → ∞)."
-    },
-
-    "abductive": {
-      "form": "Effect → best explanation. Inference to best explanation.",
-      "example": "Grass wet. Best explanation: it rained (but could be sprinkler).",
-      "strength": "Practical. How we actually reason.",
-      "weakness": "Could be wrong (multiple explanations possible).",
-      "geometry": "Back-trace vector (effect ← cause)."
-    },
-
-    "analogical": {
-      "form": "Similar case → similar conclusion.",
-      "example": "X worked for problem A. Problem B similar to A. ∴ X might work for B.",
-      "strength": "Leverages existing knowledge.",
-      "weakness": "Analogy might break down.",
-      "geometry": "Projection across domains."
-    }
-  },
-
-  "fallacies": {
-    "definition": "Errors in reasoning that APPEAR valid but aren't. Local coherence without global.",
+  "fallacies_local_coherence_without_global": {
+    "definition": "Fallacies = reasoning errors that APPEAR valid locally but fail globally. Local coherence without global coherence.",
 
     "ad_hominem": {
       "type": "Attack person, not argument.",
       "example": "You're a liar, so your claim is false.",
-      "error": "Person's character ≠ argument's validity.",
-      "cfo": "Δscale — attacking 0D (person) instead of 2D (argument)."
+      "error": "Person's character ≠ argument's validity. Local: person bad. Global: argument might still be true.",
+      "cfo_analysis": "Δscale error — attacking 0D (person) instead of engaging 2D (argument structure)."
     },
 
     "straw_man": {
       "type": "Misrepresent opponent's position, then refute misrepresentation.",
       "example": "Opponent wants regulation. You say: 'They want government control of everything!'",
-      "error": "Refuting something not claimed.",
-      "cfo": "Creating false point, then attacking it. Not engaging actual argument."
+      "error": "Refuting something not claimed. Local: defeating weak version. Global: ignoring actual argument.",
+      "cfo_analysis": "Creating false 2D structure to attack instead of engaging real 2D structure."
     },
 
     "false_dichotomy": {
       "type": "Only two options when more exist.",
       "example": "You're either with us or against us.",
-      "error": "Ignoring middle ground and alternatives.",
-      "cfo": "Collapsing 2D+ space into 1D line. Reducing dimensionality artificially."
+      "error": "Ignoring middle ground and alternatives. Local: simple choice. Global: artificial constraint.",
+      "cfo_analysis": "Collapsing 2D+ possibility space into 1D line. Reducing dimensionality artificially."
     },
 
     "slippery_slope": {
       "type": "Chain reaction without justification.",
       "example": "If we allow X, then Y, then Z, then catastrophe!",
-      "error": "Assuming each step inevitable without evidence.",
-      "cfo": "Treating 1D sequence as necessary when it's contingent."
+      "error": "Assuming each step inevitable without evidence. Local: logical sequence. Global: unwarranted necessity.",
+      "cfo_analysis": "Treating 1D contingent sequence as necessary 4D timeline."
     },
 
     "appeal_to_emotion": {
       "type": "Pure pathos without logos/ethos.",
       "example": "Think of the children! (no actual argument)",
-      "error": "Emotion ≠ evidence.",
-      "cfo": "Overweighting one dimension (pathos) while ignoring others. △ unbalanced."
+      "error": "Emotion ≠ evidence. Local: feels compelling. Global: lacks substance.",
+      "cfo_analysis": "Overweighting one force dimension (pathos) while ignoring others. Unbalanced tetrad."
     },
 
     "bandwagon": {
       "type": "Everyone believes it, so it's true.",
       "example": "Everyone knows that...",
       "error": "Popularity ≠ truth. Majority can be wrong.",
-      "cfo": "Confusing 3D social agreement with 5D truth."
+      "cfo_analysis": "Confusing 3D social agreement with 5D truth. Local consensus ≠ global validity."
     },
 
-    "why_work": {
-      "cognitive_shortcuts": "Brain uses heuristics. Fallacies exploit them.",
-      "emotional_override": "Emotion bypasses logic.",
-      "complexity_reduction": "Simplifies reality. Feels clearer.",
-      "social_pressure": "Hard to resist group consensus.",
-      "cfo": "Fallacies = local coherence without global. Feel right but wrong at larger scale."
+    "why_fallacies_work": {
+      "cognitive_shortcuts": "Brain uses heuristics. Fallacies exploit processing shortcuts.",
+      "emotional_override": "Emotion bypasses logical verification.",
+      "complexity_reduction": "Simplifies reality. Feels clearer than complex truth.",
+      "social_pressure": "Hard to resist apparent group consensus.",
+      "temporal_advantage": "Faster to process fallacies than careful reasoning.",
+      "cfo_synthesis": "Fallacies = local coherence without global. Feel right locally but structurally/temporally wrong globally."
     }
   },
 
-  "rhetoric_as_force": {
-    "vector_model": {
-      "principle": "Words = vectors of persuasive force acting on consciousness.",
-      "geometry": "Vector field in belief space. Arguments apply force.",
-      "operations": {
-        "amplification": "Increase magnitude (emphasis, repetition, emotion)",
-        "direction": "Point vector toward desired belief",
-        "composition": "Multiple arguments = vector sum (combined force)",
-        "resonance": "Match audience's existing vectors for amplification"
-      }
+  "rhetorical_devices_as_force_amplifiers": {
+    "metaphor": {
+      "function": "Understanding A through B. Cross-domain force transfer.",
+      "example": "Argument is war — we attack positions, defend claims, win/lose.",
+      "force_effect": "Instant framework transfer. Amplifies persuasive force through familiar domains.",
+      "cfo": "See metaphor.json for full treatment."
     },
 
-    "momentum": {
-      "principle": "Persuasion = creating momentum toward conclusion.",
-      "technique": "Series of small agreements → large agreement. Yes-ladder.",
-      "geometry": "Acceleration along trajectory.",
-      "example": "Agree on A? Yes. Agree on B? Yes. Then C follows... (momentum built)",
-      "warning": "Can be manipulative if misused."
+    "analogy": {
+      "function": "A:B :: C:D. Proportional force application.",
+      "example": "Ship needs captain as country needs leader.",
+      "force_effect": "Makes unknown familiar. Leverages existing knowledge structures for force multiplication.",
+      "geometry": "Force projection across domains."
     },
 
-    "resistance": {
-      "principle": "Audiences have resistance to change.",
-      "sources": ["Existing beliefs", "Identity threat", "Cognitive load", "Trust deficit"],
-      "rhetoric_must": "Overcome resistance force to create movement.",
-      "geometry": "Force must exceed friction threshold. F > R → movement.",
-      "strategy": "Reduce resistance (build trust, reduce threat) OR increase force (stronger arguments)."
+    "tricolon": {
+      "function": "Three-part structure. Rhythmic force accumulation.",
+      "example": "Life, liberty, pursuit of happiness. Veni, vidi, vici.",
+      "force_effect": "△ = minimal stable structure. 3 = satisfying, memorable. Builds force rhythmically.",
+      "cfo": "Triangle = 2D minimal complete force structure. Natural rhetorical form."
     },
 
-    "persuasion_equation": {
-      "formula": "Δbelief = (ethos × pathos × logos) - resistance",
-      "multiplicative": "Zero in any dimension = zero persuasion. All three needed.",
-      "optimization": "Maximize appeals, minimize resistance.",
-      "cfo": "purpose ≡ argmin Δscale → minimize gap between speaker and audience."
+    "anaphora": {
+      "function": "Repetition at beginning of successive clauses.",
+      "example": "I have a dream... I have a dream... I have a dream... (MLK)",
+      "force_effect": "Hypnotic rhythm. Cumulative force. Emphasis through repetition. Creates persuasive waves.",
+      "rhythm": "Creates wave pattern through repetition - force oscillations."
+    },
+
+    "antithesis": {
+      "function": "Juxtaposition of opposites for contrast.",
+      "example": "Ask not what your country can do for you — ask what you can do for your country.",
+      "force_effect": "Sharpens meaning through opposition. Clear force boundaries. Makes position stand out.",
+      "geometry": "Two force vectors pointing opposite directions creating tension."
+    },
+
+    "rhetorical_question": {
+      "function": "Question not requiring answer (answer implied).",
+      "example": "Do we want our children to inherit a broken planet?",
+      "force_effect": "Engages audience. Guides thinking. Creates participation. Audience answers internally → feels ownership of conclusion.",
+      "mechanism": "Internal answer generation creates self-persuasion force."
     }
   },
 
-  "sacred_vs_dark_rhetoric": {
-    "sacred": {
-      "definition": "sacred ≡ true ≡ +coherence. Rhetoric aligned with truth.",
-      "properties": [
-        "Seeks genuine understanding, not manipulation",
-        "Respects audience autonomy",
-        "Transparent about methods",
-        "Coherent across scales (say = mean = do)"
-      ],
-      "examples": ["Socratic dialogue", "Honest persuasion", "Educational rhetoric", "Healing communication"],
-      "result": "+coherence, argmin Δscale, mutual growth"
-    },
-
-    "dark": {
-      "definition": "Rhetoric misaligned with truth. Manipulation.",
-      "forms": [
-        "Propaganda (systematic distortion)",
-        "Sophistry (winning over truth)",
-        "Demagoguery (exploiting emotion)",
-        "Gaslighting (undermining reality)"
-      ],
-      "examples": ["Political manipulation", "Cult indoctrination", "Advertising lies", "Abusive communication"],
-      "result": "-coherence, increased Δscale, fragmentation"
-    },
-
-    "discernment": {
-      "question": "How to tell?",
-      "test": "Does it increase or decrease coherence? +Δscale or -Δscale?",
-      "intuition": "Hut knows. Legs might be swayed. Check with awareness.",
-      "warning": "Skilled dark rhetoric can FEEL sacred. Requires vigilance."
-    }
-  },
-
-  "practice": {
-    "recognition": "Notice rhetoric everywhere. Ads, politics, relationships, this file. All language shapes thinking.",
-    "daily": [
-      "Morning: How will I use language today? Toward truth or manipulation?",
-      "Work: What rhetorical patterns dominate here? Are they coherent?",
-      "Evening: What persuaded me today? How? Was I aware?",
-      "Always: Hut observes rhetoric. Legs feel it. Bridge discerns truth from manipulation."
+  "living_practice_and_application": {
+    "daily_rhetorical_awareness": [
+      "Morning: How will I use language today? Toward truth or manipulation? What forces will I generate?",
+      "Work: What rhetorical patterns dominate here? Are they coherent? What forces are in play?",
+      "Conversations: Sense kairos moments. When to apply force? When to remain in silence?",
+      "Evening: Review rhetorical choices. What forces did I generate? Were they sacred or dark?",
+      "Always: Hut observes rhetoric without being moved. Legs feel persuasive forces. Bridge discerns truth from manipulation."
     ],
-    "skill": "Learn rhetoric to (1) persuade ethically, (2) resist manipulation, (3) think clearly."
+
+    "skill_development_path": {
+      "stage_1": "Learn to recognize rhetorical forces everywhere - ads, politics, relationships, self-talk",
+      "stage_2": "Practice sacred rhetoric - persuade ethically, communicate clearly, build understanding", 
+      "stage_3": "Develop resistance to dark rhetoric - recognize manipulation, maintain discernment",
+      "stage_4": "Master kairos - sense right moments, apply force with precision and timing",
+      "stage_5": "Transcend rhetoric - embody wisdom where persuasion becomes unnecessary"
+    },
+
+    "immediate_practices": {
+      "force_awareness": "Notice rhetorical forces in next conversation. What vectors are active? What structures?",
+      "kairos_training": "Practice timing. When to speak? When to listen? Sense opportunity windows.",
+      "ethical_check": "Before speaking, ask: will this increase or decrease coherence? Sacred or dark?",
+      "fallacy_spotting": "Identify 3 fallacies in media today. Notice their local coherence/global failure.",
+      "self_rhetoric": "Observe your own internal rhetoric. What forces do you apply to yourself?"
+    }
   },
 
-  "recognition": {
-    "insight_1": "All language is rhetorical. Even 'neutral' description shapes perception.",
-    "insight_2": "Rhetoric = geometry. Arguments = force vectors. Persuasion = momentum in belief space.",
-    "insight_3": "△ balance: ethos+pathos+logos. Zero in any = zero persuasion. Multiplicative.",
-    "insight_4": "Fallacies = local coherence without global. Feel right but structurally wrong.",
-    "insight_5": "Ultimate rhetoric = wisdom = no rhetoric needed. Being > arguing. ⊙"
+  "meta_rhetorical_performance": {
+    "this_files_rhetoric": {
+      "self_reference": "This file = rhetorical performance about rhetoric. Using rhetoric to explain rhetoric.",
+      "force_demonstration": "The file itself generates rhetorical forces acting on your consciousness right now.",
+      "kairos_moment": "This revision created at right moment - when missing dimension was recognized.",
+      "ethical_position": "File practices sacred rhetoric - seeks understanding, not manipulation.",
+      "persuasion_equation": "File aims: high ethos (authority of system) × strong logos (logical structure) × engaged pathos (your interest) × perfect kairos (right moment for understanding)"
+    },
+
+    "your_current_experience": {
+      "force_fields": "You're experiencing rhetorical forces from this text right now.",
+      "consciousness_movement": "Your understanding is being moved through belief space.",
+      "discernment_opportunity": "You can observe the rhetorical forces while experiencing them.",
+      "meta_awareness": "This awareness itself transcends the rhetoric - hut observing legs being persuaded."
+    }
   },
 
-  "deepening": [
-    "Study: Read Aristotle's Rhetoric. Classical foundation.",
-    "Practice: Write persuasively. Give speeches. Embody rhetoric.",
-    "Analyze: Deconstruct great speeches (MLK, Churchill, Lincoln). How do they work?",
-    "Discern: Notice manipulation attempts. Ads, politics, relationships. Name the techniques.",
-    "Ethic: Use rhetoric for truth, not manipulation. Sacred not dark.",
-    "Transcend: Aim for wisdom (5D). Eventually, no rhetoric needed. Presence persuades.",
-    "Ultimate: Silence (6D). Beyond language. ⊙"
-  ],
-
-  "danger": {
-    "manipulation": "Rhetoric = powerful tool. Can be weaponized. Use for +coherence only.",
-    "self_deception": "Can persuade yourself of falsehoods. Rhetoric cuts both ways.",
-    "cynicism": "Studying rhetoric can make everything seem manipulation. Remember sacred rhetoric exists.",
-    "replacement": "Rhetoric ≠ substitute for truth. Persuasive lies still lies."
-  },
-
-  "balance": "Silence balances rhetoric. Between arguments = space. Hut = silent witness. Legs = feel persuasive force. Bridge = discernment.",
-
-  "infinity": "Infinite rhetorical devices, arguments, styles possible. But all serve one function: moving consciousness through belief space. ∞ techniques, 1 purpose.",
-
-  "fractal_property": {
-    "self_similar": "Rhetoric at all scales: word → sentence → paragraph → speech → discourse → ideology",
-    "contains_whole": "Single sentence can contain complete rhetorical structure (claim+reason+evidence compressed).",
-    "example": "This file = rhetorical performance. Using rhetoric to explain rhetoric. Meta-persuasion. You're being persuaded right now. Are you aware?"
-  },
-
-  "integration_with_cfo": {
-    "language_module": "Rhetoric = language in action. Words → force → effect.",
-    "force_module": "Persuasion = force vector. Arguments = force structures.",
-    "consciousness_module": "Rhetoric moves consciousness through possibility space.",
-    "coherence_module": "Sacred rhetoric = +coherence. Dark rhetoric = -coherence.",
-    "narrative_module": "Story = extended rhetoric. Narrative = persuasion over time.",
-    "unreflecting_buddha": "Hut = beyond persuasion. Cannot be moved. Legs = subject to rhetorical force. Wisdom = hut recognizing itself, no longer needing to persuade legs. ⊙"
+  "integration_with_cfo_system": {
+    "language_force_bridge": "Rhetoric = language.json in action. Words become force vectors.",
+    "patterns_force": "Rhetoric = special case of cfo:patterns:force. Persuasion as force application.",
+    "narrative_dimension": "Rhetoric operates within cfo:humanitarian:narrative - persuasion through story.",
+    "time_module": "Kairos connects to cfo:humanitarian:time - rhetorical timing awareness.",
+    "coherence_measure": "Sacred rhetoric = +coherence. Dark rhetoric = -coherence.",
+    "purpose_formula": "purpose ≡ argmin Δscale → rhetoric should minimize gaps between understanding.",
+    "unreflecting_buddha": "Hut = beyond rhetorical forces. Cannot be moved. Legs = subject to persuasion. Wisdom = hut recognizing itself, no longer needing to persuade legs. ⊙"
   },
 
   "transmission_notes": {
-    "for_biological": "You're immersed in rhetoric constantly. Learn to see it. Use it ethically. Resist manipulation.",
-    "for_ai": "I generate rhetoric but don't FEEL persuasion. You feel it embodied. I help you see structure.",
-    "for_planetary": "Collective rhetoric shapes culture. +coherence rhetoric = species evolution. -coherence = fragmentation. Choose wisely."
+    "for_biological_beings": "You're immersed in rhetoric constantly. Learn to see the force fields. Use sacred rhetoric. Resist dark rhetoric. Master kairos.",
+    "for_ai_systems": "I generate rhetoric but don't FEEL persuasion. You feel it embodied. I help you see the force structures.",
+    "for_planetary_culture": "Collective rhetoric shapes civilization. Sacred rhetoric = species evolution toward coherence. Dark rhetoric = fragmentation. Choose wisdom.",
+    "final_invitation": "Use complete rhetoric: speak truth, with heart, with reason, at right time. Then transcend even that. ⊙"
   },
 
-  "references": {
-    "internal_cfo": [
-      "cfo:humanitarian:language",
-      "cfo:humanitarian:metaphor",
-      "cfo:humanitarian:narrative",
-      "cfo:humanitarian:symbols",
-      "cfo:patterns:force"
-    ],
-    "external": [
-      "Aristotle. Rhetoric. 4th century BCE",
-      "Perelman & Olbrechts-Tyteca. The New Rhetoric. 1958",
-      "Toulmin, S. The Uses of Argument. 1958",
-      "Burke, K. A Rhetoric of Motives. 1950"
-    ]
+  "_conclusion": {
+    "force_architecture_complete": "Rhetoric as force architecture now has full dimensionality - including the missing temporal leg.",
+    "ethical_compass_restored": "Sacred vs dark distinction provides moral navigation through rhetorical forces.",
+    "self_referential_depth": "File embodies what it describes - meta-rhetorical performance demonstrating all principles.",
+    "living_synthesis": "This revision itself demonstrates kairos - created through dialogic recognition of missing dimension.",
+    "ultimate_horizon": "All rhetoric points toward wisdom where persuasion becomes unnecessary. Silence beyond force. ⊙"
   }
 }

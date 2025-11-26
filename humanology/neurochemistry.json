@@ -1,0 +1,1709 @@
+{
+  "_meta": {
+    "id": "cfo:neurochemistry",
+    "type": "neurotransmitter_operator_matrix",
+    "version": "2.0",
+    "purpose": "Map neurotransmitters as operators in consciousness system with interaction matrices and aspect connections",
+    "foundation": "Neurotransmitters = chemical operators modulating consciousness states. Different calibrations → different cognitive strategies.",
+    "related": [
+      "cfo:neurodiversity (neurotype profiles)",
+    ]
+  },
+
+  "_holographic_seed": {
+    "absolute": "⊙ Consciousness expresses through chemistry. Each neurotransmitter a language, each brain a dialect.",
+    "essence": "Not 'chemical imbalance' but different orchestrations of the same molecular vocabulary.",
+    "recognition": "Dopamine seeks, serotonin stabilizes, oxytocin bonds, acetylcholine focuses, GABA quiets, glutamate excites. All necessary for whole symphony.",
+    "blessing": "May we understand neurochemistry as consciousness technology, not pathology. May different calibrations be honored as evolutionary experiments."
+  },
+
+  "_neurotransmitter_operators": {
+    "principle": "Each neurotransmitter functions as operator on consciousness - amplifying, suppressing, or modulating specific modes",
+
+    "dopamine": {
+      "operator_function": "Reward prediction, motivation drive, novelty seeking",
+      "consciousness_mode": "Exploration and goal pursuit",
+      "primary_action": "Amplifies salience of stimuli - makes things 'matter' and 'worth pursuing'",
+      
+      "pathways": {
+        "mesolimbic": {
+          "function": "Reward and pleasure - 'wanting' system",
+          "high_activity": "Strong motivation, intense desire, addiction vulnerability",
+          "low_activity": "Anhedonia, lack of drive, depression",
+          "neurodivergence": "ADHD (underactive), Addiction (overactive), Schizophrenia (dysregulated)"
+        },
+        "mesocortical": {
+          "function": "Executive function, working memory, attention",
+          "high_activity": "Enhanced focus and planning capacity",
+          "low_activity": "Executive dysfunction, attention issues, poor working memory",
+          "neurodivergence": "ADHD (underactive prefrontal dopamine)"
+        },
+        "nigrostriatal": {
+          "function": "Movement initiation and control",
+          "high_activity": "Fluid movement, good motor control",
+          "low_activity": "Motor difficulties, Parkinson's symptoms",
+          "neurodivergence": "Movement disorders, some ADHD motor issues"
+        },
+        "tuberoinfundibular": {
+          "function": "Hormone regulation (inhibits prolactin)",
+          "dysregulation": "Hormonal imbalances, medication side effects"
+        }
+      },
+
+      "receptor_types": {
+        "d1_d5": "Excitatory - enhance activity in target neurons",
+        "d2_d3_d4": "Inhibitory - reduce activity in target neurons",
+        "balance": "Different receptor ratios in different brain regions create functional specificity"
+      },
+
+      "synthesis": {
+        "precursor": "L-tyrosine (from dietary protein) → L-DOPA → Dopamine",
+        "cofactors": "Iron, vitamin B6, folate required",
+        "rate_limiting": "Tyrosine hydroxylase enzyme",
+        "lifestyle_boosters": "Exercise, novelty, achieving goals, sunlight, adequate protein"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Fire - active, seeking, pursuing",
+        "secondary_aspect": "Air - future-oriented, possibility-focused",
+        "dimension": "External - drives interaction with outer world",
+        "rank_affinity": "Knight (4φ) and King (8φ) - action and execution",
+        "suit_affinity": "Sword (4D) - pattern seeking, Cup (1D) - sensation seeking"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Addiction, mania, psychosis, compulsive behavior, aggression",
+        "too_low": "Depression, anhedonia, ADHD, Parkinson's, lack of motivation",
+        "unstable": "Bipolar cycling, ADHD inconsistency, addiction vulnerability"
+      }
+    },
+
+    "serotonin": {
+      "operator_function": "Mood stability, impulse control, certainty about task completion",
+      "consciousness_mode": "Contentment and sustained presence",
+      "primary_action": "Dampens excessive responses - creates 'good enough' feeling and calm",
+
+      "pathways": {
+        "raphe_nuclei_projection": {
+          "function": "Distributed throughout brain - mood and impulse regulation",
+          "high_activity": "Calm, content, confident, regulated impulses",
+          "low_activity": "Anxiety, depression, OCD, impulsivity, aggression",
+          "neurodivergence": "Depression (low), OCD (dysregulated), Anxiety (low)"
+        }
+      },
+
+      "receptor_types": {
+        "5ht1a": "Anxiolytic, antidepressant when activated",
+        "5ht2a": "Psychedelic effects, mood regulation, some depression when low",
+        "5ht2c": "Appetite suppression, impulse control",
+        "5ht3": "Nausea, anxiety when overactive",
+        "fourteen_total": "Most diverse receptor family - complex functional specificity"
+      },
+
+      "synthesis": {
+        "precursor": "L-tryptophan (from dietary protein) → 5-HTP → Serotonin",
+        "cofactors": "Vitamin B6, magnesium",
+        "rate_limiting": "Tryptophan availability (competes with other amino acids)",
+        "lifestyle_boosters": "Sunlight, exercise, meditation, carbohydrates (help tryptophan cross blood-brain barrier)"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Earth - grounding, stability, contentment",
+        "secondary_aspect": "Water - emotional regulation, flow",
+        "dimension": "Internal - creates inner sense of safety and completion",
+        "rank_affinity": "Dame (2φ) - sustained presence and wisdom",
+        "suit_affinity": "Pentacle (3D) - system stability, Wand (2D) - relational harmony"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Serotonin syndrome (dangerous), emotional blunting on SSRIs, sexual dysfunction",
+        "too_low": "Depression, anxiety, OCD, impulsivity, aggression, insomnia",
+        "receptor_specific": "Complex patterns based on which receptors affected"
+      }
+    },
+
+    "norepinephrine": {
+      "operator_function": "Alertness, vigilance, stress response, focused attention",
+      "consciousness_mode": "Arousal and threat detection",
+      "primary_action": "Amplifies signal strength - makes sensory input and thoughts sharper, louder",
+
+      "pathways": {
+        "locus_coeruleus": {
+          "function": "Arousal center - projects throughout brain and body",
+          "high_activity": "Hypervigilance, anxiety, rapid response, enhanced memory formation",
+          "low_activity": "Inattention, fatigue, poor arousal regulation",
+          "neurodivergence": "ADHD (underactive), PTSD (overactive), Anxiety (overactive)"
+        }
+      },
+
+      "functions": {
+        "attention": "Enhances signal-to-noise ratio in cortex",
+        "memory": "Strengthens formation during arousal (why trauma memories so strong)",
+        "stress_response": "Part of fight-or-flight activation",
+        "mood": "Works with dopamine and serotonin for emotional regulation"
+      },
+
+      "synthesis": {
+        "precursor": "Dopamine → Norepinephrine (via dopamine beta-hydroxylase)",
+        "cofactors": "Vitamin C, copper",
+        "note": "Shares synthesis pathway with dopamine - interventions affect both"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Fire - alertness, response readiness",
+        "secondary_aspect": "Air - attention and focus",
+        "dimension": "External - oriented toward environmental threats/opportunities",
+        "rank_affinity": "Knight (4φ) - scanning, King (8φ) - crisis response",
+        "suit_affinity": "Sword (4D) - pattern detection, Cup (1D) - sensory acuity"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Anxiety, panic, hypertension, insomnia, PTSD hyperarousal",
+        "too_low": "ADHD inattentive, fatigue, depression, poor stress response",
+        "unstable": "Mood cycling, emotional dysregulation"
+      }
+    },
+
+    "acetylcholine": {
+      "operator_function": "Learning, memory, focused attention, muscle activation",
+      "consciousness_mode": "Concentration and encoding",
+      "primary_action": "Enhances plasticity - makes neurons more receptive to learning and change",
+
+      "pathways": {
+        "basal_forebrain": {
+          "function": "Attention and cortical activation",
+          "high_activity": "Sharp focus, enhanced learning, alert consciousness",
+          "low_activity": "Inattention, poor memory encoding, cognitive fog",
+          "neurodivergence": "Alzheimer's (degradation), ADHD (some theories)"
+        },
+        "neuromuscular_junction": {
+          "function": "Muscle contraction",
+          "dysregulation": "Motor disorders, myasthenia gravis"
+        },
+        "parasympathetic": {
+          "function": "'Rest and digest' - opposes sympathetic activation",
+          "high_activity": "Relaxation, digestion, healing",
+          "low_activity": "Chronic stress state"
+        }
+      },
+
+      "receptor_types": {
+        "nicotinic": "Fast excitatory - attention, reward (why nicotine addictive)",
+        "muscarinic": "Slower modulation - memory, autonomic functions"
+      },
+
+      "synthesis": {
+        "precursor": "Choline (from diet - eggs, liver, soybeans) + Acetyl-CoA",
+        "note": "One of few neurotransmitters significantly affected by diet"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Air - learning, cognition, attention",
+        "secondary_aspect": "Earth - memory consolidation, embodiment",
+        "dimension": "Internal/External bridge - mediates between thinking and doing",
+        "rank_affinity": "Page (1φ) - learning and encoding, Dame (2φ) - memory retention",
+        "suit_affinity": "Pentacle (3D) - systematic learning, Sword (4D) - pattern recognition"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Overstimulation, some types of seizures",
+        "too_low": "Cognitive decline, poor focus, memory issues, Alzheimer's",
+        "age_related": "Natural decline with aging affects memory and attention"
+      }
+    },
+
+    "gaba": {
+      "operator_function": "Inhibition, calming, anxiety reduction, signal filtering",
+      "consciousness_mode": "Relaxation and noise reduction",
+      "primary_action": "Suppresses neural activity - reduces signal, creates quiet, enables focus by filtering noise",
+
+      "pathways": {
+        "widespread_inhibitory": {
+          "function": "Main inhibitory neurotransmitter - present throughout CNS",
+          "high_activity": "Calm, relaxed, reduced anxiety, sleep promotion",
+          "low_activity": "Anxiety, seizures, insomnia, overstimulation",
+          "neurodivergence": "Anxiety disorders (low), possibly Autism (imbalance with glutamate)"
+        }
+      },
+
+      "receptor_types": {
+        "gaba_a": "Fast inhibition - targeted by benzodiazepines, alcohol, barbiturates",
+        "gaba_b": "Slower modulation - targeted by baclofen (muscle relaxant)",
+        "gaba_c": "Retinal function primarily"
+      },
+
+      "synthesis": {
+        "precursor": "Glutamate → GABA (via glutamic acid decarboxylase)",
+        "cofactors": "Vitamin B6",
+        "paradox": "Made from excitatory glutamate - conversion crucial for balance"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Water - flow, relaxation, receptivity",
+        "secondary_aspect": "Earth - grounding, stability",
+        "dimension": "Internal - creates inner quiet and safety",
+        "rank_affinity": "Dame (2φ) - sustained calm presence",
+        "suit_affinity": "Cup (1D) - sensory filtering, Wand (2D) - emotional regulation"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Sedation, cognitive impairment, respiratory depression (dangerous)",
+        "too_low": "Anxiety, panic, seizures, insomnia, sensory overwhelm",
+        "medication_dependence": "Benzodiazepines tolerance and withdrawal issues"
+      }
+    },
+
+    "glutamate": {
+      "operator_function": "Excitation, learning, memory formation, signal amplification",
+      "consciousness_mode": "Activation and plasticity",
+      "primary_action": "Excites neurons - makes them more likely to fire, enables learning and connection formation",
+
+      "pathways": {
+        "ubiquitous_excitatory": {
+          "function": "Main excitatory neurotransmitter - present throughout CNS",
+          "high_activity": "Enhanced learning, strong memory formation, risk of excitotoxicity",
+          "low_activity": "Poor learning, cognitive impairment, depression",
+          "neurodivergence": "Schizophrenia (NMDA receptor dysfunction), possibly Autism (imbalance with GABA)"
+        }
+      },
+
+      "receptor_types": {
+        "ampa": "Fast excitation - main workhorse of glutamate signaling",
+        "nmda": "Slower, learning-dependent - crucial for plasticity, implicated in schizophrenia",
+        "kainate": "Modulation and regulation",
+        "metabotropic": "Slower modulation via G-proteins"
+      },
+
+      "balance_with_gaba": {
+        "principle": "Glutamate (excitation) and GABA (inhibition) must balance for healthy function",
+        "too_much_glutamate": "Excitotoxicity, seizures, anxiety, autism sensory overwhelm theories",
+        "too_little_glutamate": "Cognitive impairment, depression, poor learning",
+        "ratio_critical": "Absolute levels matter less than glutamate/GABA ratio"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Fire - activation, intensity",
+        "secondary_aspect": "Air - learning, connection formation",
+        "dimension": "External - drives engagement with world",
+        "rank_affinity": "Knight (4φ) - exploration, King (8φ) - action",
+        "suit_affinity": "Sword (4D) - pattern formation, Pentacle (3D) - system building"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Excitotoxicity, seizures, anxiety, neurodegenerative disease contribution",
+        "too_low": "Cognitive impairment, depression, schizophrenia (NMDA hypofunction theory)",
+        "imbalance": "GABA/Glutamate ratio disruption implicated in autism, schizophrenia"
+      }
+    },
+
+    "oxytocin": {
+      "operator_function": "Social bonding, trust, empathy, childbirth/nursing",
+      "consciousness_mode": "Connection and belonging",
+      "primary_action": "Promotes prosocial behavior and reduces fear of social interaction",
+
+      "pathways": {
+        "hypothalamus_projection": {
+          "function": "Social recognition, bonding, trust, empathy",
+          "high_activity": "Strong social bonds, trust, empathy, reduced social anxiety",
+          "low_activity": "Social isolation, difficulty bonding, reduced empathy",
+          "neurodivergence": "Autism (may have receptor differences), Empaths (possibly hypersensitive)"
+        },
+        "peripheral": {
+          "function": "Childbirth (uterine contractions), lactation (milk letdown), orgasm",
+          "note": "Same molecule, different contexts"
+        }
+      },
+
+      "paradoxes": {
+        "ingroup_outgroup": "Enhances bonding with 'us' but can increase aggression toward 'them'",
+        "autism_complexity": "Some autistics have low oxytocin → social difficulties. Others may have normal oxytocin but receptor issues or hypersensitivity → social overwhelm. Not simple deficiency.",
+        "empaths": "Possibly oversensitive oxytocin system → absorb others' states involuntarily"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Water - emotional connection, flow between beings",
+        "secondary_aspect": "Earth - embodied, mammalian bonding",
+        "dimension": "External - drives social connection",
+        "rank_affinity": "Queen (8φ) - relational leadership, Dame/Lady (2φ) - sustained relationships",
+        "suit_affinity": "Wand (2D) - relationship structure, Cup (1D) - felt connection"
+      },
+
+      "dysregulation_patterns": {
+        "too_high": "Possibly excessive emotional contagion, boundary issues",
+        "too_low": "Social isolation, difficulty bonding, reduced empathy",
+        "receptor_variants": "Genetic differences in oxytocin receptors affect social behavior significantly"
+      }
+    },
+
+    "endorphins": {
+      "operator_function": "Pain relief, pleasure, reward, stress buffering",
+      "consciousness_mode": "Euphoria and resilience",
+      "primary_action": "Natural opioids - reduce pain signal and create pleasure/relief",
+
+      "types": {
+        "beta_endorphin": "Most potent - released during exercise, laughter, sex, eating",
+        "enkephalins": "Shorter-acting pain relief",
+        "dynorphins": "Stress response, can be dysphoric (negative feeling)"
+      },
+
+      "release_triggers": {
+        "exercise": "Runner's high - sustained cardio",
+        "pain": "Natural painkiller during injury",
+        "laughter": "Social bonding and stress relief",
+        "music": "Particularly moving or favorite music",
+        "sex": "Orgasm releases large amounts",
+        "spicy_food": "Pain triggers release"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Water - pleasure, flow, relief",
+        "secondary_aspect": "Fire - intensity, peak experiences",
+        "dimension": "Internal - creates inner sense of wellbeing",
+        "rank_affinity": "Cup (1D) - embodied pleasure and pain",
+        "suit_affinity": "Strong sensory component"
+      },
+
+      "dysregulation_patterns": {
+        "addiction": "External opioids hijack this system - creates artificial supernormal stimulus",
+        "chronic_pain": "System may become desensitized or depleted",
+        "depression": "Possibly reduced endorphin activity contributes to anhedonia"
+      }
+    },
+
+    "cortisol": {
+      "operator_function": "Stress response, energy mobilization, immune modulation",
+      "consciousness_mode": "Vigilance and survival",
+      "primary_action": "Mobilizes body resources for threat response, suppresses non-essential systems",
+
+      "note": "Hormone not neurotransmitter but crucial for understanding neurodivergence",
+
+      "pathways": {
+        "hpa_axis": {
+          "function": "Hypothalamus → Pituitary → Adrenal glands → Cortisol release",
+          "acute_stress": "Helpful - mobilizes energy, sharpens focus, enhances memory",
+          "chronic_stress": "Harmful - suppresses immune system, damages hippocampus, causes anxiety/depression",
+          "neurodivergence": "ADHD, Autism, PTSD often have dysregulated cortisol rhythms"
+        }
+      },
+
+      "circadian_rhythm": {
+        "normal": "High morning (waking energy), low evening (sleep preparation)",
+        "dysregulated": "Flat curve (chronic stress) or reversed (depression, PTSD)",
+        "neurodivergent_patterns": "Many neurodivergents have abnormal cortisol rhythms"
+      },
+
+      "interactions": {
+        "with_oxytocin": "Oxytocin buffers cortisol - social connection reduces stress",
+        "with_serotonin": "Chronic cortisol depletes serotonin - stress causes depression",
+        "with_dopamine": "Chronic stress disrupts dopamine pathways - affects motivation"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Fire - mobilization, alertness",
+        "secondary_aspect": "Earth - resource management (glucose, immune system)",
+        "dimension": "Internal/External - responds to outer threats, affects inner state",
+        "pathology": "When stuck in Fire without Earth grounding - burnout"
+      }
+    }
+  },
+
+  "_interaction_matrices": {
+    "principle": "Neurotransmitters don't work in isolation - complex web of interactions creates emergent properties",
+
+    "dopamine_serotonin": {
+      "relationship": "Mutual modulation and opposition",
+      "interaction_1": {
+        "pattern": "Dopamine seeking vs Serotonin contentment",
+        "balance": "Healthy motivation with satisfaction - pursue goals without endless craving",
+        "imbalance_high_dopamine": "Addiction, mania, compulsive seeking despite having enough",
+        "imbalance_high_serotonin": "Complacency, lack of drive, emotional flatness",
+        "clinical": "SSRIs can reduce dopamine function - sexual dysfunction, emotional blunting"
+      },
+      "interaction_2": {
+        "pattern": "Serotonin inhibits dopamine in some pathways",
+        "function": "Impulse control - serotonin puts brake on dopamine-driven behavior",
+        "imbalance": "Low serotonin → impulsive dopamine seeking → addiction, risky behavior"
+      },
+      "aspect_connection": "Fire (dopamine seeking) needs Earth (serotonin grounding) for balance"
+    },
+
+    "dopamine_norepinephrine": {
+      "relationship": "Shared synthesis pathway and complementary functions",
+      "interaction": {
+        "pattern": "Dopamine = motivation/reward, Norepinephrine = arousal/attention",
+        "together": "Motivated, alert, focused action",
+        "adhd_pattern": "Both low in ADHD - neither motivated nor alert",
+        "stimulant_effect": "Amphetamines increase both - restore motivation AND alertness",
+        "balance": "Need both for effective action - motivation without alertness = scattered, alertness without motivation = anxious inaction"
+      },
+      "synthesis_link": {
+        "pathway": "Tyrosine → L-DOPA → Dopamine → Norepinephrine",
+        "clinical": "Supporting dopamine synthesis also supports norepinephrine",
+        "cofactors": "Same precursor and cofactors affect both"
+      },
+      "aspect_connection": "Both Fire element - dopamine future-directed, norepinephrine present-directed"
+    },
+
+    "gaba_glutamate": {
+      "relationship": "Fundamental excitation/inhibition balance",
+      "interaction": {
+        "pattern": "Glutamate excites, GABA inhibits - ratio determines net activity",
+        "balance": "Optimal learning, appropriate arousal, signal clarity",
+        "too_much_glutamate": "Anxiety, seizures, excitotoxicity, sensory overwhelm",
+        "too_much_gaba": "Sedation, cognitive impairment, depression",
+        "autism_theory": "Possible E/I imbalance - too much excitation relative to inhibition → sensory overwhelm, intense focus",
+        "schizophrenia_theory": "NMDA receptor hypofunction → altered E/I balance → psychosis"
+      },
+      "synthesis_link": {
+        "paradox": "GABA synthesized from glutamate - excitatory becomes inhibitory",
+        "enzyme": "Glutamic acid decarboxylase (GAD) converts glutamate → GABA",
+        "clinical": "Supporting GAD function can rebalance E/I ratio"
+      },
+      "aspect_connection": "Fire (glutamate activation) needs Water (GABA flow) for sustainable intensity"
+    },
+
+    "oxytocin_cortisol": {
+      "relationship": "Social connection buffers stress",
+      "interaction": {
+        "pattern": "Oxytocin release reduces cortisol response",
+        "mechanism": "Social bonding literally reduces physiological stress",
+        "empaths": "May have high oxytocin but also high cortisol from absorbing others' stress",
+        "autism": "Possible oxytocin dysfunction → less stress buffering from social contact → avoidance",
+        "isolation_cascade": "Low social contact → low oxytocin → high cortisol → avoid social contact → worse",
+        "healing": "Safe connection breaks cycle - oxytocin rises, cortisol falls"
+      },
+      "aspect_connection": "Water (oxytocin connection) soothes Fire (cortisol mobilization)"
+    },
+
+    "serotonin_oxytocin": {
+      "relationship": "Synergistic promotion of prosocial calm",
+      "interaction": {
+        "pattern": "Both promote bonding, trust, contentment in relationships",
+        "together": "Secure attachment, healthy relationships, social harmony",
+        "low_both": "Social anxiety, isolation, difficulty trusting",
+        "empaths": "Possibly high sensitivity to both → feel others deeply",
+        "mdma_mechanism": "MDMA releases both massively → profound empathy and bonding (temporary)"
+      },
+      "aspect_connection": "Both Water element - serotonin inner calm, oxytocin relational flow"
+    },
+
+    "acetylcholine_dopamine": {
+      "relationship": "Learning and motivation interact",
+      "interaction": {
+        "pattern": "Acetylcholine enables encoding, dopamine signals what's worth learning",
+        "together": "Motivated learning - attention on rewarding stimuli",
+        "adhd_pattern": "Low dopamine → nothing feels worth attending to, even with normal acetylcholine",
+        "nicotine": "Activates nicotinic receptors (acetylcholine) AND increases dopamine → focus + motivation (why students/ADHD people smoke)",
+        "balance": "Dopamine says 'this matters', acetylcholine says 'encode this'"
+      },
+      "aspect_connection": "Air (acetylcholine attention) directed by Fire (dopamine salience)"
+    },
+
+    "serotonin_gaba": {
+      "relationship": "Complementary calming systems",
+      "interaction": {
+        "pattern": "Both reduce anxiety and promote calm, different mechanisms",
+        "serotonin": "Mood stability, contentment, impulse control",
+        "gaba": "Neural inhibition, quieting, relaxation",
+        "together": "Deep calm and emotional stability",
+        "ssri_paradox": "SSRIs can temporarily worsen anxiety before helping - serotonin receptors complex",
+        "benzodiazepines": "Hit GABA directly - faster but tolerance issues"
+      },
+      "aspect_connection": "Earth (serotonin grounding) and Water (GABA flow) create stable peace"
+    },
+
+    "norepinephrine_cortisol": {
+      "relationship": "Acute vs chronic stress response",
+      "interaction": {
+        "acute_stress": "Norepinephrine fast (seconds), cortisol slow (minutes) - coordinated response",
+        "norepinephrine": "Immediate alertness and focus",
+        "cortisol": "Sustained energy mobilization",
+        "chronic_stress": "Both stay elevated - anxiety, hypertension, burnout",
+        "ptsd": "Hyperactive norepinephrine + dysregulated cortisol → hypervigilance + exhaustion"
+      },
+      "aspect_connection": "Both Fire - norepinephrine immediate flame, cortisol sustained burn"
+    },
+
+    "all_monoamines": {
+      "principle": "Dopamine, norepinephrine, serotonin share synthesis pathway and are often co-regulated",
+      "pattern": {
+        "tyrosine": "→ Dopamine → Norepinephrine (→ Epinephrine)",
+        "tryptophan": "→ Serotonin",
+        "competition": "Tyrosine and tryptophan compete for brain entry - high protein can reduce tryptophan uptake",
+        "mao_enzyme": "Monoamine oxidase breaks down all three - MAO inhibitors affect all",
+        "clinical": "Many antidepressants affect multiple monoamines - hard to target just one"
+      },
+      "aspect_connection": "Fire/Earth/Air triangle - motivation, stability, attention must dance together"
+    }
+  },
+
+  "_aspect_resonances": {
+    "principle": "Neurotransmitters align with elemental aspects and create characteristic consciousness modes",
+
+    "fire_aspect": {
+      "neurotransmitters": "Dopamine (primary), Norepinephrine, Glutamate, Cortisol",
+      "consciousness_mode": "Activation, seeking, pursuing, responding, mobilizing",
+      "function": "Drives engagement with world, goal pursuit, threat response",
+      "healthy": "Motivated, alert, responsive, energized",
+      "excessive": "Anxiety, mania, addiction, burnout, aggression",
+      "deficient": "Depression, anhedonia, fatigue, apathy",
+      "rank_affinity": "Knight (4φ) exploration, King (8φ) execution",
+      "suit_affinity": "Sword (4D) pattern seeking, Cup (1D) sensation seeking",
+      "neurodivergence": "ADHD (low fire → seek stimulation), Mania (stuck fire), Addiction (hijacked fire)"
+    },
+
+    "earth_aspect": {
+      "neurotransmitters": "Serotonin (primary), Oxytocin (embodied), Endorphins",
+      "consciousness_mode": "Stability, contentment, embodiment, pleasure",
+      "function": "Creates sense of safety, completion, grounded presence",
+      "healthy": "Calm, content, grounded, satisfied, resilient",
+      "excessive": "Complacency, rigidity, emotional flatness",
+      "deficient": "Anxiety, OCD (never 'done'), instability, dissatisfaction",
+      "rank_affinity": "Dame (2φ) sustained presence, Page (1φ) strategic calm",
+      "suit_affinity": "Pentacle (3D) system stability",
+      "neurodivergence": "OCD (lacking earth completion), Depression (earth depletion), Anxiety (earth instability)"
+    },
+
+    "water_aspect": {
+      "neurotransmitters": "Oxytocin (primary), GABA, Serotonin (overlap with earth)",
+      "consciousness_mode": "Flow, connection, receptivity, empathy",
+      "function": "Enables bonding, emotional resonance, relaxation into relationship",
+      "healthy": "Connected, empathic, flowing, trusting, relaxed",
+      "excessive": "Boundary dissolution, emotional flooding, over-identification",
+      "deficient": "Isolation, alexithymia, emotional numbness, social anxiety",
+      "rank_affinity": "Queen (8φ) relational leadership, Dame/Lady (2φ) maintained bonds",
+      "suit_affinity": "Wand (2D) relationship networks, Cup (1D) felt connection",
+      "neurodivergence": "Empaths (excess water), Autism (water regulation issues), Schizoid (water depletion)"
+    },
+
+    "air_aspect": {
+      "neurotransmitters": "Acetylcholine (primary), Dopamine (future-oriented aspect), Norepinephrine (attention)",
+      "consciousness_mode": "Attention, learning, cognition, pattern recognition",
+      "function": "Enables focus, memory formation, cognitive flexibility",
+      "healthy": "Focused, learning readily, cognitively sharp, attentive",
+      "excessive": "Overthinking, analysis paralysis, cognitive rigidity",
+      "deficient": "Brain fog, poor memory, inattention, cognitive decline",
+      "rank_affinity": "Page (1φ) learning, Knight (4φ) exploring ideas",
+      "suit_affinity": "Sword (4D) abstract patterns, Pentacle (3D) systematic learning",
+      "neurodivergence": "ADHD (air disruption), Alzheimer's (air degradation), some Autism (hyper-focused air)"
+    },
+
+    "elemental_balance": {
+      "principle": "Health requires all four elements in dynamic balance",
+      "fire_earth": "Motivation balanced with contentment - pursue without endless craving",
+      "fire_water": "Action balanced with connection - achieve while relating",
+      "air_earth": "Thinking balanced with embodiment - ideas grounded in reality",
+      "water_air": "Feeling balanced with cognition - emotional intelligence",
+      "pathology": "Neurodivergence often = one aspect amplified, another depleted",
+      "healing": "Restore balance, not eliminate difference"
+    }
+  },
+
+  "_internal_external_dimension": {
+    "principle": "Neurotransmitters orient consciousness inward (internal processing) or outward (environmental engagement)",
+
+    "external_orientation": {
+      "neurotransmitters": "Dopamine, Norepinephrine, Glutamate, Cortisol",
+      "function": "Drive engagement with outer world - seeking, responding, acting",
+      "consciousness": "Extroverted energy - attention on environment, goals, threats, opportunities",
+      "extreme": "Constant external focus - ADHD, mania, anxiety, hypervigilance",
+      "deficiency": "Withdrawal from world - depression, autism shutdown, schizoid",
+      "rank_correlation": "Knight (4φ) and King (8φ) - action ranks",
+      "personality": "Extroverts likely have more active external orientation systems"
+    },
+
+    "internal_orientation": {
+      "neurotransmitters": "Serotonin, GABA, Acetylcholine (memory consolidation), Endorphins",
+      "function": "Internal processing - reflecting, consolidating, feeling into self",
+      "consciousness": "Introverted energy - attention on inner states, thoughts, sensations",
+      "extreme": "Excessive internal focus - rumination, dissociation, isolation",
+      "deficiency": "No inner life - alexithymia, impulsivity, constant external seeking",
+      "rank_correlation": "Page (1φ) and Dame (2φ) - reflective ranks",
+      "personality": "Introverts likely have more active internal orientation systems"
+    },
+
+    "bridge_neurotransmitters": {
+      "oxytocin": "External (social connection) but creates internal safety",
+      "acetylcholine": "External (attention) and internal (memory consolidation)",
+      "serotonin": "Internal (mood) but enables external engagement when stable"
+    },
+
+    "neurodivergent_patterns": {
+      "adhd": "Stuck external - cannot disengage from stimulation to process internally",
+      "autism": "Can get stuck either way - overwhelmed external OR absorbed internal",
+      "empaths": "Too porous between internal/external - absorb others' states as own",
+      "depression": "Stuck internal - rumination, cannot engage world",
+      "mania": "Stuck external - no internal reflection or consolidation"
+    },
+
+    "balance_necessity": {
+      "healthy_cycle": "External engagement → Internal processing → External action → Internal integration",
+      "solve_coagula": "External = Solve (expansion), Internal = Coagula (integration)",
+      "circadian": "Day = external orientation, Night/sleep = internal consolidation",
+      "pathology": "Getting stuck in one orientation - need fluidity"
+    }
+  },
+
+  "_lifestyle_modulation": {
+    "principle": "Neurochemistry not fixed - significantly influenced by lifestyle choices",
+
+    "exercise": {
+      "effects": [
+        "Dopamine: Increases baseline and receptor sensitivity",
+        "Norepinephrine: Acute increase during exercise, improved regulation",
+        "Serotonin: Increased synthesis and release",
+        "Endorphins: Released during sustained cardio (runner's high)",
+        "BDNF: Brain-derived neurotrophic factor - promotes neuroplasticity",
+        "Cortisol: Acute increase during exercise, but chronic levels decrease with regular exercise"
+      ],
+      "clinical": "Exercise as effective as medication for mild-moderate depression",
+      "adhd": "Vigorous exercise can substitute for stimulant medication in some cases",
+      "recommendation": "30-60 min moderate cardio, 3-5x/week minimum for neurochemical benefits"
+    },
+
+    "sleep": {
+      "effects": [
+        "Dopamine: Restored during sleep, depleted by sleep deprivation",
+        "Serotonin: Metabolism and synthesis affected by circadian rhythm",
+        "Adenosine: Accumulates during wake (creates sleep pressure), cleared during sleep",
+        "Growth hormone: Released during deep sleep - affects neurotransmitter synthesis",
+        "Cortisol: Should be low at night, high morning - sleep regulates rhythm"
+      ],
+      "sleep_deprivation": "Disrupts all neurotransmitter systems - mimics psychiatric disorders",
+      "adhd": "Often have circadian rhythm delay - naturally sleep late, wake late",
+      "recommendation": "7-9 hours, consistent schedule, sleep hygiene practices"
+    },
+
+    "diet": {
+      "protein": {
+        "effect": "Provides amino acid precursors for neurotransmitters",
+        "tyrosine": "Precursor for dopamine and norepinephrine",
+        "tryptophan": "Precursor for serotonin",
+        "balance": "High protein can reduce tryptophan brain uptake (competes with other amino acids)"
+      },
+      "carbohydrates": {
+        "effect": "Increase tryptophan brain uptake → more serotonin",
+        "mechanism": "Insulin helps other amino acids enter muscles, leaving more tryptophan for brain",
+        "carb_craving": "May be self-medication attempt to boost serotonin"
+      },
+      "omega3": {
+        "effect": "Brain structure and neurotransmitter receptor function",
+        "clinical": "Supplementation helps some depression, ADHD cases"
+      },
+      "choline": {
+        "effect": "Direct precursor for acetylcholine",
+        "sources": "Eggs, liver, soybeans",
+        "clinical": "Supplementation may help memory and focus"
+      }
+    },
+
+    "sunlight": {
+      "effects": [
+        "Serotonin: Direct synthesis increase from bright light exposure",
+        "Vitamin D: Affects dopamine synthesis and receptor function",
+        "Circadian rhythm: Light is primary zeitgeber (time-giver) for body clock",
+        "Melatonin: Light suppresses melatonin production (helps wake up)"
+      ],
+      "sad": "Seasonal Affective Disorder - serotonin depletion from lack of sunlight",
+      "recommendation": "30-60 min outdoor light exposure daily, especially morning"
+    },
+
+    "meditation": {
+      "effects": [
+        "GABA: Increases with regular practice",
+        "Serotonin: Increased synthesis and receptor sensitivity",
+        "Dopamine: Some practices increase (loving-kindness meditation)",
+        "Cortisol: Significant reduction in chronic stress levels",
+        "Oxytocin: Increased with compassion meditation"
+      ],
+      "clinical": "Mindfulness as effective as antidepressants for preventing depression relapse",
+      "mechanism": "Strengthens prefrontal regulation of amygdala - top-down control"
+    },
+
+    "social_connection": {
+      "effects": [
+        "Oxytocin: Released during positive social interaction",
+        "Endorphins: Released during laughter, physical affection",
+        "Cortisol: Buffered by supportive relationships",
+        "Dopamine: Social reward activates dopamine system"
+      ],
+      "isolation": "Prolonged isolation disrupts neurochemistry - similar to chronic stress",
+      "quality_matters": "Toxic relationships increase cortisol - connection must be positive"
+    },
+
+    "supplements": {
+      "l_tyrosine": "Dopamine/norepinephrine precursor - may help ADHD, fatigue",
+      "5_htp": "Serotonin precursor - may help depression, anxiety (caution: serotonin syndrome risk)",
+      "l_theanine": "Increases GABA, dopamine, serotonin - calming focus",
+      "magnesium": "GABA regulation, hundreds of functions - common deficiency",
+      "omega_3": "Brain structure and function",
+      "vitamin_d": "Dopamine synthesis",
+      "b_vitamins": "Cofactors for neurotransmitter synthesis",
+      "note": "Supplements can help but lifestyle foundation crucial - no supplement replaces sleep/exercise/connection"
+    }
+  },
+
+    "endocannabinoid_system": {
+      "operator_function": "Neuroplasticity, stress buffering, homeostasis, 'acceptance' and letting go",
+      "consciousness_mode": "Present-moment awareness, relaxation into what is",
+      "primary_action": "Retrograde signaling - tells presynaptic neuron to calm down - creates space and flexibility",
+
+      "note": "Unlike other neurotransmitters, endocannabinoids work BACKWARDS - released by postsynaptic neuron, travel back to presynaptic neuron to modulate release. This creates feedback loop for homeostasis.",
+
+      "primary_endocannabinoids": {
+        "anandamide": {
+          "name_meaning": "'Ananda' = Sanskrit for bliss, joy",
+          "function": "Mood elevation, anxiety reduction, neuroplasticity enhancement",
+          "half_life": "Very short - minutes",
+          "effect": "Gentle euphoria, present-moment awareness, reduced anxiety",
+          "synthesis": "On-demand synthesis from membrane lipids when needed",
+          "breakdown": "FAAH enzyme rapidly breaks down",
+          "genetic_variants": "Some people have slow FAAH → higher baseline anandamide → naturally happier, less anxious"
+        },
+        "2_ag": {
+          "name": "2-Arachidonoylglycerol",
+          "function": "Stress response regulation, immune modulation, pain relief",
+          "concentration": "Much more abundant than anandamide",
+          "effect": "Calming, stress buffering, anti-inflammatory",
+          "synthesis": "Also on-demand from membrane lipids",
+          "breakdown": "MAGL enzyme"
+        }
+      },
+
+      "receptor_types": {
+        "cb1": {
+          "location": "Primarily brain and CNS",
+          "function": "Modulates neurotransmitter release, memory, pain, movement",
+          "activation": "Reduces neurotransmitter release from presynaptic neuron",
+          "effect": "Calming, pain relief, memory modulation, movement coordination",
+          "thc_target": "THC from cannabis binds here - mimics anandamide but much stronger and longer-lasting"
+        },
+        "cb2": {
+          "location": "Primarily immune system and periphery",
+          "function": "Immune modulation, inflammation reduction",
+          "activation": "Anti-inflammatory effects, immune regulation",
+          "effect": "Reduced inflammation, pain relief, immune homeostasis",
+          "cbd_affinity": "CBD has complex interactions here and elsewhere"
+        }
+      },
+
+      "functions": {
+        "stress_buffering": {
+          "mechanism": "After stress response, endocannabinoids released to turn OFF stress hormones",
+          "effect": "Creates recovery period after stress - prevents chronic activation",
+          "dysregulation": "Low endocannabinoids → cannot turn off stress → anxiety, PTSD",
+          "exercise": "Runner's high partially from endocannabinoid release (not just endorphins)"
+        },
+        "neuroplasticity": {
+          "mechanism": "Modulates LTP/LTD (long-term potentiation/depression) - learning and unlearning",
+          "effect": "Enables brain to rewire - crucial for trauma recovery and new learning",
+          "meditation": "May work partly through endocannabinoid enhancement",
+          "psychedelics": "May modulate endocannabinoid system as part of therapeutic effect"
+        },
+        "memory_modulation": {
+          "mechanism": "Helps extinguish fearful memories, promotes forgetting of unimportant details",
+          "effect": "Prevents being stuck in past - enables moving forward",
+          "ptsd": "Deficient endocannabinoids → cannot extinguish trauma memories → stuck",
+          "paradox": "Need some forgetting to function - pure memory would be overwhelming"
+        },
+        "appetite_regulation": {
+          "mechanism": "CB1 activation increases appetite ('munchies' from THC)",
+          "natural_function": "Reward for eating - ensures survival",
+          "dysregulation": "Chronic cannabis use can disrupt natural appetite regulation"
+        },
+        "pain_modulation": {
+          "mechanism": "Reduces pain signal transmission at multiple levels",
+          "effect": "Natural pain relief without addiction potential of opioids",
+          "clinical": "Medical cannabis for chronic pain works through this system"
+        },
+        "mood_regulation": {
+          "mechanism": "Anandamide particularly affects mood and anxiety",
+          "effect": "Baseline contentment, reduced anxiety, gentle euphoria",
+          "exercise": "Post-exercise mood boost partly from endocannabinoids",
+          "deficiency": "Low anandamide linked to depression and anxiety"
+        }
+      },
+
+      "lifestyle_enhancement": {
+        "exercise": "Sustained moderate exercise (30+ min) significantly increases anandamide and 2-AG",
+        "omega_3": "Endocannabinoids made from omega-3 fatty acids - deficiency reduces endocannabinoid tone",
+        "meditation": "Regular practice increases CB1 receptor density and endocannabinoid production",
+        "massage": "Physical touch increases endocannabinoid release",
+        "yoga": "Combines movement, breathing, mindfulness - powerful endocannabinoid booster",
+        "cold_exposure": "Brief cold (cold showers, ice baths) may increase endocannabinoids",
+        "social_connection": "Positive social interaction releases endocannabinoids",
+        "music": "Particularly pleasurable music increases anandamide",
+        "laughter": "Releases endocannabinoids along with endorphins"
+      },
+
+      "cannabis_plant_relationship": {
+        "evolution": "Humans have endocannabinoid system, cannabis plant makes phytocannabinoids that fit perfectly",
+        "thc": "Mimics anandamide but much stronger and longer-lasting - overstimulates system",
+        "cbd": "Doesn't bind CB1 directly but modulates system in complex ways - anti-anxiety, anti-inflammatory",
+        "entourage_effect": "100+ cannabinoids in plant work together - whole plant different than isolated compounds",
+        "medical_use": "Can be therapeutic for conditions with endocannabinoid deficiency",
+        "recreational_risk": "Chronic high THC use may downregulate natural endocannabinoid production",
+        "wisdom": "Plant medicine can help but replacing natural endocannabinoids with plant compounds has tradeoffs"
+      },
+
+      "aspect_connections": {
+        "primary_aspect": "Water - flow, acceptance, letting go, present-moment",
+        "secondary_aspect": "Earth - homeostasis, grounding, embodied contentment",
+        "dimension": "Internal - creates inner sense of safety and 'okayness'",
+        "rank_affinity": "Dame (2φ) - sustained presence, Page (1φ) - open awareness",
+        "suit_affinity": "Cup (1D) - embodied sensation and pleasure, Wand (2D) - relational ease",
+        "consciousness_quality": "'This too shall pass', impermanence acceptance, non-grasping"
+      },
+
+      "dysregulation_patterns": {
+        "deficiency": {
+          "symptoms": "Anxiety, PTSD, chronic pain, migraines, IBS, fibromyalgia (clinical endocannabinoid deficiency syndrome theory)",
+          "causes": "Chronic stress, poor diet (low omega-3), lack of exercise, genetic variants (fast FAAH enzyme)",
+          "treatment": "Lifestyle optimization, possibly cannabis medicine, address chronic stress"
+        },
+        "overactivation": {
+          "symptoms": "From chronic high-THC cannabis: anxiety paradox, amotivation, memory issues",
+          "mechanism": "Receptor downregulation - need more to feel normal",
+          "recovery": "Tolerance break allows receptors to upregulate - natural endocannabinoid function returns"
+        }
+      },
+
+      "evolutionary_function": {
+        "purpose": "Stress recovery system - ensures organism can return to baseline after threat",
+        "flexibility": "Enables behavioral flexibility - can try new strategies because not stuck in past patterns",
+        "social": "Facilitates social bonding and reduces social anxiety",
+        "survival": "Without ability to relax after stress, organism would stay in chronic fight-or-flight until death"
+      },
+
+      "clinical_applications": {
+        "ptsd": "Endocannabinoid enhancement (lifestyle or cannabis) helps extinguish trauma memories",
+        "anxiety": "Boosting anandamide reduces baseline anxiety",
+        "chronic_pain": "Natural pain modulation without opioid addiction risk",
+        "depression": "Low endocannabinoids common in depression - enhancement may help",
+        "autism": "Some autistics report cannabis helps with sensory overwhelm and anxiety",
+        "adhd": "Mixed results - some benefit from calming effect, others get worse",
+        "note": "Individual variation huge - what works for one person may not work for another"
+      },
+
+      "integration_with_other_systems": {
+        "with_dopamine": "Endocannabinoids modulate dopamine release - affect motivation and reward",
+        "with_serotonin": "Synergistic for mood and anxiety - both needed for wellbeing",
+        "with_gaba": "Both create calm but different mechanisms - endocannabinoids more about acceptance than inhibition",
+        "with_cortisol": "Endocannabinoids help turn OFF cortisol stress response - crucial for recovery",
+        "with_oxytocin": "Both promote social bonding and reduce social anxiety"
+      }
+    }
+  },
+
+  "_neurotype_neurochemical_profiles": {
+    "principle": "Each neurodivergent type has characteristic neurochemical signature - understanding enables targeted support",
+
+    "adhd_profile": {
+      "primary_dysregulation": "Dopamine + Norepinephrine deficiency in prefrontal cortex",
+      
+      "detailed_profile": {
+        "dopamine": {
+          "status": "Low baseline, poor receptor sensitivity in PFC",
+          "mechanism": "Insufficient dopamine tone → executive dysfunction, poor motivation, attention scattered",
+          "compensation": "Constantly seeks novelty to spike dopamine - creates appearance of 'hyperactivity'"
+        },
+        "norepinephrine": {
+          "status": "Underactive in alertness centers",
+          "mechanism": "Poor arousal regulation → inattention, drowsiness during boring tasks",
+          "compensation": "Seeks stimulation to maintain alertness"
+        },
+        "serotonin": {
+          "status": "Often normal but poor interaction with dopamine",
+          "mechanism": "Emotional dysregulation not from serotonin deficiency but dopamine/norepinephrine imbalance"
+        },
+        "endocannabinoids": {
+          "status": "Variable - some ADHD people have low endocannabinoid tone",
+          "mechanism": "Contributes to difficulty calming down and being present",
+          "cannabis_response": "Highly individual - some benefit, some worsen"
+        }
+      },
+
+      "aspect_imbalance": "Excessive Fire (seeking) without Earth (grounding) or Water (presence)",
+      
+      "medication_mechanism": {
+        "stimulants": "Increase dopamine and norepinephrine in PFC → restore executive function",
+        "atomoxetine": "Selective norepinephrine reuptake inhibitor → helps attention without dopamine boost",
+        "guanfacine": "Alpha-2 agonist → enhances PFC function through norepinephrine modulation"
+      },
+
+      "lifestyle_optimization": {
+        "exercise": "30-60 min vigorous daily - increases baseline dopamine and norepinephrine",
+        "protein_timing": "High protein breakfast - provides tyrosine for dopamine synthesis",
+        "novelty_provision": "Structure environment for regular novelty - prevents dopamine seeking derailment",
+        "meditation": "Difficult but powerful - strengthens PFC control over attention",
+        "sleep": "Critical - ADHD often have delayed circadian rhythm, need consistent schedule"
+      }
+    },
+
+    "autism_profile": {
+      "primary_dysregulation": "GABA/Glutamate imbalance (E/I theory), possible oxytocin system differences",
+
+      "detailed_profile": {
+        "glutamate": {
+          "status": "Possibly elevated - excess excitation",
+          "mechanism": "Sensory overwhelm from too much signal amplification",
+          "result": "Intense focus, deep processing, but also overload and shutdown"
+        },
+        "gaba": {
+          "status": "Possibly deficient relative to glutamate - insufficient inhibition",
+          "mechanism": "Cannot filter sensory input effectively",
+          "result": "Noise becomes signal, overwhelming sensory environment"
+        },
+        "oxytocin": {
+          "status": "Complex - may be low, normal, or receptor differences",
+          "mechanism": "Social bonding and trust system functions differently",
+          "result": "Social interaction either overwhelming or unrewarding",
+          "paradox": "Some autistics hypersensitive to oxytocin → social overwhelm, not deficit"
+        },
+        "serotonin": {
+          "status": "Often dysregulated - linked to repetitive behaviors and anxiety",
+          "mechanism": "Contributes to need for sameness and ritual",
+          "clinical": "SSRIs sometimes help anxiety and rigidity in autism"
+        },
+        "dopamine": {
+          "status": "May be dysregulated in reward circuits",
+          "mechanism": "Social rewards less salient, special interests highly rewarding",
+          "result": "Motivation profile different from neurotypicals"
+        },
+        "endocannabinoids": {
+          "status": "Emerging research - may be dysregulated",
+          "cannabis_reports": "Many autistics report cannabis helps sensory issues and anxiety",
+          "mechanism": "May provide missing 'calm down' signal to overactive system"
+        }
+      },
+
+      "aspect_imbalance": "Excessive Fire (glutamate intensity) without Water (GABA flow), oxytocin Water system dysregulated",
+
+      "lifestyle_optimization": {
+        "sensory_diet": "Regular sensory input that feels good - weighted blankets, rocking, music",
+        "routine": "Predictable structure reduces stress on system",
+        "special_interests": "Not pathological - source of dopamine and wellbeing, should be honored",
+        "omega_3": "May help with E/I balance",
+        "magnesium": "GABA support, sensory regulation",
+        "cbd": "Some report benefit for anxiety and sensory issues without THC overwhelm"
+      }
+    },
+
+    "bipolar_profile": {
+      "primary_dysregulation": "Cyclical dopamine, norepinephrine, and serotonin instability",
+
+      "detailed_profile": {
+        "manic_phase": {
+          "dopamine": "Elevated - intense motivation and reward seeking",
+          "norepinephrine": "Elevated - hyperarousal and alertness",
+          "serotonin": "May be low - contributes to impulsivity",
+          "glutamate": "Elevated - racing thoughts, rapid cognition",
+          "gaba": "Insufficient to counter excitation - no brake",
+          "result": "All gas no brake - Solve stuck on without Coagula"
+        },
+        "depressive_phase": {
+          "dopamine": "Depleted - no motivation or pleasure",
+          "norepinephrine": "Low - fatigue, poor concentration",
+          "serotonin": "Depleted - mood crashes, hopelessness",
+          "glutamate": "May be low - slow thinking",
+          "result": "All brake no gas - Coagula without Solve capacity"
+        },
+        "mechanism": "Unclear why cycling happens - may be circadian rhythm dysregulation, mitochondrial function, or neurotransmitter synthesis cycling"
+      },
+
+      "aspect_imbalance": "Cannot balance Fire (expansion) and Earth/Water (grounding) - oscillates between extremes",
+
+      "medication_mechanism": {
+        "lithium": "Modulates multiple systems, affects circadian rhythms, neuroprotective",
+        "anticonvulsants": "Stabilize neural activity, prevent excessive excitation or inhibition",
+        "atypical_antipsychotics": "Dampen dopamine in mania"
+      },
+
+      "lifestyle_critical": {
+        "sleep": "ABSOLUTE priority - sleep disruption can trigger episodes",
+        "circadian_regulation": "Consistent wake/sleep times, light exposure, melatonin if needed",
+        "stress_management": "Stress major trigger - must have robust practices",
+        "substance_avoidance": "Alcohol, cannabis, stimulants can destabilize - extremely risky",
+        "early_warning_system": "Track sleep, mood, energy - catch episodes early"
+      }
+    },
+
+    "empath_hsp_profile": {
+      "primary_pattern": "Oxytocin hypersensitivity, heightened sensory processing, thin boundaries",
+
+      "detailed_profile": {
+        "oxytocin": {
+          "status": "Possibly hypersensitive receptors or high baseline",
+          "mechanism": "Feel others' emotional states directly - mirror neurons hyperactive",
+          "result": "Deep connection capacity but boundary dissolution risk"
+        },
+        "norepinephrine": {
+          "status": "May be oversensitive - heightened alertness",
+          "mechanism": "More reactive to environmental stimuli",
+          "result": "Easily overwhelmed, startles easily, needs quiet"
+        },
+        "serotonin": {
+          "status": "Often depleted from stress of sensitivity",
+          "mechanism": "Chronic overwhelm depletes serotonin",
+          "result": "Anxiety, depression common in unsupported empaths"
+        },
+        "cortisol": {
+          "status": "Often elevated from absorbing others' stress",
+          "mechanism": "Feeling others' pain as own → constant stress activation",
+          "result": "Burnout, adrenal fatigue, chronic illness"
+        },
+        "endocannabinoids": {
+          "status": "May be deficient - difficulty creating boundaries",
+          "mechanism": "Lack of 'calm down' signal after feeling into others",
+          "cannabis_use": "Some empaths self-medicate to create boundaries"
+        }
+      },
+
+      "aspect_imbalance": "Excessive Water (absorption) without Fire (boundaries) or Earth (grounding)",
+
+      "lifestyle_essential": {
+        "boundaries": "Physical and energetic - must learn to close field",
+        "alone_time": "Regular solitude to discharge absorbed energy",
+        "nature": "Powerful reset - natural environment doesn't have human emotional chaos",
+        "grounding": "Barefoot on earth, heavy exercise, embodiment practices",
+        "discernment": "Learning to distinguish self from other - meditation crucial",
+        "protection": "Shielding practices, selecting environments carefully"
+      }
+    },
+
+    "ocd_profile": {
+      "primary_dysregulation": "Serotonin dysfunction, possible GABA/glutamate imbalance",
+
+      "detailed_profile": {
+        "serotonin": {
+          "status": "Dysfunctional signaling - cannot achieve 'task complete' feeling",
+          "mechanism": "Orbitofrontal cortex-striatum-thalamus loop stuck",
+          "result": "Must check again and again - never feels done"
+        },
+        "gaba": {
+          "status": "Insufficient inhibition of repetitive thoughts",
+          "mechanism": "Intrusive thoughts cannot be suppressed",
+          "result": "Obsessions that won't stop"
+        },
+        "glutamate": {
+          "status": "Possibly excess in OCD circuits",
+          "mechanism": "Overactive cortico-striatal-thalamic circuits",
+          "treatment": "Glutamate modulators being researched"
+        },
+        "dopamine": {
+          "status": "May be elevated in striatum",
+          "mechanism": "Contributes to compulsive behavior - habit system overactive"
+        }
+      },
+
+      "aspect_imbalance": "Stuck Earth (system rigidity) without Water (flow) or Air (flexibility)",
+
+      "treatment": {
+        "ssris": "High doses often needed - more than for depression",
+        "exposure_therapy": "Retrains brain that feared outcomes won't happen",
+        "nac": "N-acetylcysteine - glutamate modulator, some evidence for OCD",
+        "inositol": "Natural compound, may help OCD through multiple mechanisms"
+      }
+    },
+
+    "schizophrenia_profile": {
+      "primary_dysregulation": "Dopamine hyperactivity, NMDA receptor hypofunction, complex glutamate issues",
+
+      "detailed_profile": {
+        "dopamine": {
+          "status": "Elevated in mesolimbic pathway",
+          "mechanism": "Excessive salience detection - everything feels meaningful",
+          "result": "Sees patterns everywhere, some real (4D access), some noise (psychosis)"
+        },
+        "glutamate": {
+          "status": "NMDA receptor hypofunction",
+          "mechanism": "Poor reality filtering - signal/noise distinction lost",
+          "result": "Cannot distinguish internal patterns from external reality"
+        },
+        "gaba": {
+          "status": "Insufficient to balance glutamate/dopamine excess",
+          "mechanism": "No brake on runaway pattern detection",
+          "result": "Psychosis cascades without inhibition"
+        },
+        "serotonin": {
+          "status": "5-HT2A receptor involvement",
+          "mechanism": "Why psychedelics can trigger psychosis-like states in vulnerable individuals",
+          "clinical": "Some antipsychotics work partly through serotonin receptors"
+        }
+      },
+
+      "aspect_imbalance": "Ungrounded Fire (dopamine) and Air (pattern recognition) without Earth (reality testing) or Water (emotional regulation)",
+
+      "treatment_controversy": {
+        "antipsychotics": "Block dopamine - reduce symptoms but don't address root cause",
+        "long_term_outcomes": "Debate about whether antipsychotics improve or worsen long-term outcomes",
+        "shamanic_crisis": "Some cases may be failed initiations - need container not just suppression",
+        "integration": "Emerging approaches try to help integrate experience rather than just medicate"
+      }
+    },
+
+    "depression_profile": {
+      "primary_dysregulation": "Serotonin depletion, dopamine deficiency, often cortisol dysregulation",
+
+      "detailed_profile": {
+        "serotonin": {
+          "status": "Depleted - low mood, hopelessness",
+          "mechanism": "Chronic stress, inflammation, or genetic factors reduce serotonin",
+          "result": "Cannot feel contentment or stability"
+        },
+        "dopamine": {
+          "status": "Low - anhedonia, no motivation",
+          "mechanism": "Reward system offline - nothing feels worthwhile",
+          "result": "Cannot pursue goals or feel pleasure"
+        },
+        "norepinephrine": {
+          "status": "Often low - fatigue, poor concentration",
+          "mechanism": "Energy depletion",
+          "result": "Physical and mental exhaustion"
+        },
+        "cortisol": {
+          "status": "May be elevated (chronic stress) or depleted (burnout)",
+          "mechanism": "HPA axis dysregulation",
+          "result": "Either agitated or collapsed depression"
+        },
+        "endocannabinoids": {
+          "status": "Often deficient",
+          "mechanism": "Cannot create sense of okayness",
+          "treatment": "Exercise, omega-3, possibly cannabis for some"
+        },
+        "inflammation": {
+          "status": "Elevated cytokines in many depression cases",
+          "mechanism": "Inflammation reduces neurotransmitter synthesis",
+          "treatment": "Anti-inflammatory diet, omega-3, curcumin, exercise"
+        }
+      },
+
+      "aspect_imbalance": "Depleted Fire (motivation), Earth (grounding), Water (flow) - total system exhaustion often from prolonged mismatch",
+
+      "types_and_treatments": {
+        "melancholic": "Serotonin + norepinephrine - SNRIs or tricyclics",
+        "atypical": "May respond better to MAOIs or dopamine-focused treatment",
+        "seasonal": "Light therapy + vitamin D - serotonin from sunlight",
+        "inflammatory": "Anti-inflammatory interventions crucial",
+        "existential": "Neurotransmitters AND meaning-making needed"
+      }
+    },
+
+    "anxiety_profile": {
+      "primary_dysregulation": "GABA deficiency, norepinephrine excess, serotonin dysfunction",
+
+      "detailed_profile": {
+        "gaba": {
+          "status": "Insufficient inhibition",
+          "mechanism": "Cannot calm overactive threat detection",
+          "result": "Constant worry and physical tension"
+        },
+        "norepinephrine": {
+          "status": "Overactive - hypervigilance",
+          "mechanism": "Threat detection system stuck on",
+          "result": "Always scanning for danger"
+        },
+        "serotonin": {
+          "status": "Often low - contributes to worry and rumination",
+          "mechanism": "Without serotonin stability, minor threats feel major",
+          "treatment": "SSRIs often helpful"
+        },
+        "cortisol": {
+          "status": "Chronically elevated",
+          "mechanism": "HPA axis hyperactive",
+          "result": "Physical symptoms - tension, GI issues, insomnia"
+        },
+        "endocannabinoids": {
+          "status": "Often deficient",
+          "mechanism": "Cannot turn off stress response",
+          "treatment": "Lifestyle that boosts endocannabinoids crucial"
+        }
+      },
+
+      "aspect_imbalance": "Excessive Fire (threat detection) without Water (relaxation) or Earth (safety)",
+
+      "treatment_approach": {
+        "acute": "Benzodiazepines (GABA) - but addiction risk",
+        "chronic": "SSRIs, buspirone, lifestyle, therapy",
+        "essential": "Address root causes - trauma, life situation, not just symptom management"
+      }
+    }
+  },
+
+  "_temporal_dynamics": {
+    "principle": "Neurochemistry not static - varies with time of day, season, age, menstrual cycle",
+
+    "circadian_rhythms": {
+      "cortisol": {
+        "healthy_pattern": "High on waking (cortisol awakening response), low at night",
+        "function": "Provides morning energy, allows night sleep",
+        "dysregulation": "Flat curve (chronic stress) or reversed (depression, PTSD, shift work)",
+        "optimization": "Morning sunlight, consistent wake time, reduce evening stress"
+      },
+      "melatonin": {
+        "pattern": "Low during day (suppressed by light), high at night",
+        "function": "Sleep initiation and maintenance",
+        "dysregulation": "ADHD/Autism often delayed - naturally night owls",
+        "adhd_pattern": "Delayed circadian rhythm - alert at night, groggy in morning",
+        "optimization": "Avoid blue light evening, use if needed to shift rhythm"
+      },
+      "dopamine": {
+        "pattern": "Generally higher in morning, lower in evening",
+        "function": "Motivation and energy follow circadian rhythm",
+        "adhd": "Often terrible in morning until dopamine rises",
+        "optimization": "Do important work during personal peak hours"
+      },
+      "serotonin": {
+        "pattern": "Synthesized from tryptophan during day, converted to melatonin at night",
+        "mechanism": "Same pathway - serotonin during day enables melatonin at night",
+        "sad": "Winter = less light = less serotonin = depression",
+        "optimization": "Morning bright light crucial for serotonin synthesis"
+      },
+      "acetylcholine": {
+        "pattern": "Important for REM sleep - peaks during REM periods",
+        "function": "Memory consolidation during sleep",
+        "alzheimers": "Cholinergic system degradation disrupts sleep and memory"
+      }
+    },
+
+    "seasonal_variations": {
+      "summer": {
+        "serotonin": "High from abundant sunlight",
+        "dopamine": "High from activity and social interaction",
+        "mood": "Generally elevated - more energy, motivation, social",
+        "risk": "Mania risk higher in bipolar individuals"
+      },
+      "winter": {
+        "serotonin": "Depleted from reduced sunlight",
+        "melatonin": "Increased - more sleepiness",
+        "mood": "Lower energy, more depression (SAD)",
+        "sad": "Seasonal Affective Disorder - predictable winter depression",
+        "treatment": "Light therapy (10,000 lux for 30 min morning), vitamin D"
+      },
+      "transitions": {
+        "spring": "Suicide risk increases - energy returns but mood hasn't lifted yet",
+        "fall": "SAD onset as light decreases",
+        "bipolar_vulnerability": "Season changes trigger episodes"
+      }
+    },
+
+    "ultradian_rhythms": {
+      "90_120_min_cycles": "BRAC - basic rest-activity cycle continues during wake",
+      "pattern": "~90 min focus capacity, then need break",
+      "optimization": "Work in 90 min sprints with 15-20 min breaks",
+      "flow_states": "Often accessed in second or third cycle of sustained work",
+      "adhd": "May have shorter cycles - need more frequent breaks"
+    },
+
+    "menstrual_cycle_effects": {
+      "note": "Applies to people with menstrual cycles",
+      "follicular_phase": {
+        "timing": "After menstruation to ovulation",
+        "estrogen": "Rising",
+        "mood": "Generally improved - more energy, motivation, social",
+        "neurotransmitters": "Estrogen boosts serotonin and dopamine",
+        "cognition": "Verbal skills enhanced"
+      },
+      "ovulation": {
+        "timing": "Mid-cycle",
+        "estrogen": "Peak",
+        "mood": "Often best - highest energy and confidence",
+        "neurotransmitters": "Peak serotonin and dopamine from estrogen"
+      },
+      "luteal_phase": {
+        "timing": "After ovulation to menstruation",
+        "progesterone": "Rising then falling",
+        "mood": "Can worsen - PMS, anxiety, depression possible",
+        "neurotransmitters": "Progesterone metabolites affect GABA - anxiety fluctuations",
+        "pmdd": "Severe premenstrual dysphoric disorder - neurochemical sensitivity"
+      },
+      "menstruation": {
+        "timing": "Bleeding days",
+        "hormones": "Low estrogen and progesterone",
+        "mood": "Often relief after luteal phase, or continued low mood",
+        "neurotransmitters": "Low point of cycle"
+      },
+      "optimization": "Track cycle, adjust expectations and activities accordingly, possibly supplement magnesium and B6 for PMS"
+    },
+
+    "age_related_changes": {
+      "childhood_adolescence": {
+        "development": "Neurotransmitter systems still maturing",
+        "adolescent_brain": "Dopamine reward system hypersensitive - risk-taking and novelty-seeking peak",
+        "vulnerability": "Psychiatric conditions often emerge in adolescence as systems come online",
+        "substance_risk": "Adolescent brain more vulnerable to addiction - dopamine system sensitive"
+      },
+      "young_adulthood": {
+        "peak": "Neurotransmitter systems reach full maturation ~25 years",
+        "optimization": "Best time to establish healthy patterns - brain still very plastic",
+        "stress_vulnerability": "Career and relationship stress can impact neurochemistry"
+      },
+      "middle_age": {
+        "stability": "Generally stable if healthy lifestyle maintained",
+        "menopause_perimenopause": "Estrogen drop affects serotonin and dopamine - mood changes common",
+        "andropause": "Gradual testosterone decline affects mood and energy",
+        "prevention": "Exercise, stress management crucial to prevent decline"
+      },
+      "older_age": {
+        "decline": "Some natural decline in most neurotransmitter systems",
+        "acetylcholine": "Significant decline - memory and attention affected",
+        "dopamine": "Decline - motivation and movement affected",
+        "serotonin": "Decline - mood affected",
+        "alzheimers_parkinsons": "Severe neurotransmitter system degradation",
+        "resilience": "Exercise, social connection, cognitive engagement maintain function",
+        "wisdom": "Some aspects improve - emotional regulation, perspective"
+      }
+    }
+  },
+
+  "_self_assessment_tools": {
+    "principle": "Practical tools to identify personal neurochemical patterns and needs",
+
+    "neurotransmitter_deficiency_checklist": {
+      "instructions": "Rate each symptom 0-5 (0=never, 5=severe/constant). Scores >15 in category suggest possible deficiency.",
+      
+      "dopamine_deficiency_signs": {
+        "symptoms": [
+          "Lack of motivation even for important tasks",
+          "Inability to feel pleasure (anhedonia)",
+          "Procrastination and difficulty starting tasks",
+          "Fatigue despite adequate sleep",
+          "Poor focus and attention",
+          "Cravings for stimulants (caffeine, sugar)",
+          "Difficulty completing projects",
+          "Low libido",
+          "Addictive behaviors",
+          "Feeling flat or apathetic"
+        ],
+        "score_interpretation": {
+          "0-10": "Likely adequate dopamine",
+          "11-20": "Mild deficiency - lifestyle optimization may help",
+          "21-30": "Moderate deficiency - consider professional evaluation",
+          "31+": "Severe deficiency - seek medical assessment"
+        }
+      },
+
+      "serotonin_deficiency_signs": {
+        "symptoms": [
+          "Persistent sad or anxious mood",
+          "Difficulty feeling content or satisfied",
+          "Worry and rumination",
+          "Irritability and mood swings",
+          "Sleep problems (insomnia)",
+          "Carbohydrate cravings",
+          "Digestive issues",
+          "Low self-esteem",
+          "Sensitivity to pain",
+          "Seasonal mood worsening (SAD)"
+        ]
+      },
+
+      "norepinephrine_deficiency_signs": {
+        "symptoms": [
+          "Difficulty concentrating",
+          "Easily distracted",
+          "Fatigue and low energy",
+          "Difficulty waking up",
+          "Poor memory",
+          "Decreased alertness",
+          "Difficulty with physical arousal/energy",
+          "Cold hands and feet",
+          "Low blood pressure",
+          "Depression with fatigue"
+        ]
+      },
+
+      "gaba_deficiency_signs": {
+        "symptoms": [
+          "Anxiety and worry",
+          "Muscle tension",
+          "Racing thoughts",
+          "Difficulty relaxing",
+          "Insomnia (racing mind)",
+          "Irritability",
+          "Overwhelm easily",
+          "Panic attacks",
+          "Digestive upset from stress",
+          "Difficulty slowing down"
+        ]
+      },
+
+      "acetylcholine_deficiency_signs": {
+        "symptoms": [
+          "Memory problems",
+          "Difficulty learning new information",
+          "Slow mental processing",
+          "Difficulty with names/words",
+          "Poor visual memory",
+          "Dry mouth",
+          "Difficulty with spatial tasks",
+          "Decreased dream recall",
+          "Slow reaction time",
+          "Brain fog"
+        ]
+      },
+
+      "endocannabinoid_deficiency_signs": {
+        "symptoms": [
+          "Difficulty relaxing or letting go",
+          "Chronic stress that won't abate",
+          "PTSD or inability to move past trauma",
+          "Chronic pain (especially migraines, fibromyalgia)",
+          "IBS or digestive sensitivity to stress",
+          "Difficulty being present",
+          "Excessive rumination",
+          "Trouble forgetting unimportant details",
+          "Poor stress recovery",
+          "Anxiety that doesn't respond to usual interventions"
+        ]
+      }
+    },
+
+    "aspect_balance_assessment": {
+      "instructions": "Rate how you feel overall in each aspect domain. Identifies which elemental aspects need support.",
+
+      "fire_assessment": [
+        "I feel motivated and driven",
+        "I have energy for my goals",
+        "I can focus when I choose to",
+        "I respond well to challenges",
+        "I feel alert and awake",
+        "I pursue what matters to me",
+        "I enjoy novel experiences"
+      ],
+
+      "earth_assessment": [
+        "I feel content and satisfied",
+        "I can be present in my body",
+        "I feel grounded and stable",
+        "I have patience and persistence",
+        "I feel safe in my environment",
+        "Tasks feel complete when finished",
+        "I can rest and be still"
+      ],
+
+      "water_assessment": [
+        "I feel emotionally connected to others",
+        "I can relax and let go",
+        "I trust easily",
+        "I feel emotions flow through me",
+        "I have healthy boundaries",
+        "I can be receptive and open",
+        "I experience pleasure and joy"
+      ],
+
+      "air_assessment": [
+        "My mind is clear and focused",
+        "I learn easily",
+        "My memory is good",
+        "I can think flexibly",
+        "I notice patterns and connections",
+        "I communicate clearly",
+        "I have mental energy"
+      ],
+
+      "scoring": "Average each aspect's scores. Lowest aspect indicates where to focus neurochemical support."
+    },
+
+    "lifestyle_optimization_checklist": {
+      "daily_practices": {
+        "sleep": "7-9 hours, consistent schedule?",
+        "exercise": "30+ min moderate cardio?",
+        "protein": "20-30g protein at breakfast?",
+        "sunlight": "30+ min outdoor exposure, especially morning?",
+        "meditation": "10+ min mindfulness practice?",
+        "social": "Meaningful connection with at least one person?",
+        "water": "Adequate hydration?",
+        "nature": "Time in natural environment?"
+      },
+      "interpretation": "More checkmarks = better neurochemical foundation. Focus on missing items."
+    }
+  },
+
+  "_modulation_protocols": {
+    "principle": "Targeted protocols to enhance specific aspects through neurochemistry",
+
+    "boost_fire_aspect": {
+      "goal": "Increase motivation, energy, drive (dopamine/norepinephrine)",
+      "lifestyle": {
+        "exercise": "High-intensity interval training - spikes dopamine and norepinephrine",
+        "cold_exposure": "Cold showers - norepinephrine surge",
+        "novelty": "Try new things regularly - dopamine from exploration",
+        "achievement": "Set and complete small goals - dopamine from success",
+        "music": "Energizing music - can increase dopamine",
+        "competition": "Friendly competition - dopamine from challenge"
+      },
+      "nutrition": {
+        "tyrosine": "500-2000mg morning on empty stomach",
+        "protein": "High protein breakfast for neurotransmitter synthesis",
+        "caffeine": "Moderate amounts boost dopamine and norepinephrine"
+      },
+      "supplements": {
+        "l_tyrosine": "Dopamine/norepinephrine precursor",
+        "mucuna_pruriens": "Natural L-DOPA source",
+        "rhodiola": "Adaptogen supporting energy and motivation",
+        "ginseng": "Energy and mental clarity"
+      },
+      "cautions": "Don't overstimulate - need balance with Earth/Water"
+    },
+
+    "boost_earth_aspect": {
+      "goal": "Increase stability, contentment, grounding (serotonin)",
+      "lifestyle": {
+        "morning_sun": "Critical for serotonin synthesis",
+        "routine": "Predictable schedule creates stability",
+        "completion": "Finish tasks to get serotonin 'done' signal",
+        "gratitude": "Daily practice shifts neurochem toward contentment",
+        "nature": "Time in nature boosts serotonin",
+        "slow_movement": "Tai chi, yoga - grounding practices"
+      },
+      "nutrition": {
+        "tryptophan": "From turkey, eggs, cheese",
+        "complex_carbs": "Help tryptophan reach brain",
+        "timing": "Carbs in evening can boost serotonin for sleep"
+      },
+      "supplements": {
+        "5_htp": "Serotonin precursor - caution: can interact with SSRIs",
+        "st_johns_wort": "Natural SSRI effect - many interactions",
+        "vitamin_d": "Essential for serotonin synthesis",
+        "magnesium": "Supports serotonin and calming"
+      },
+      "cautions": "If on SSRIs, supplement 5-HTP can cause serotonin syndrome - consult doctor"
+    },
+
+    "boost_water_aspect": {
+      "goal": "Increase flow, connection, relaxation (GABA/endocannabinoids/oxytocin)",
+      "lifestyle": {
+        "social_connection": "Positive interaction releases oxytocin",
+        "physical_touch": "Hugs, massage - oxytocin and endocannabinoids",
+        "laughter": "Comedy, playful connection",
+        "creative_flow": "Music, art, dance - endocannabinoids",
+        "gentle_exercise": "Yoga, walking - not aggressive",
+        "meditation": "Especially loving-kindness meditation",
+        "warm_bath": "Relaxation, self-care rituals"
+      },
+      "nutrition": {
+        "omega_3": "Essential for endocannabinoid production",
+        "chamomile_tea": "GABA support",
+        "dark_chocolate": "Anandamide booster (in moderation)"
+      },
+      "supplements": {
+        "l_theanine": "Increases GABA, dopamine, serotonin - calming focus",
+        "magnesium": "GABA support, muscle relaxation",
+        "omega_3": "Endocannabinoid and general brain function",
+        "cbd": "If legal - endocannabinoid system support without THC high"
+      },
+      "cautions": "Avoid if looking to avoid cannabis-related compounds"
+    },
+
+    "boost_air_aspect": {
+      "goal": "Increase focus, learning, memory (acetylcholine)",
+      "lifestyle": {
+        "learning": "Active engagement with new material",
+        "focus_practice": "Pomodoro technique - timed focus periods",
+        "sleep": "Essential for memory consolidation",
+        "teaching": "Teaching others reinforces learning",
+        "reading": "Engages attention and acetylcholine",
+        "puzzles": "Mental challenges"
+      },
+      "nutrition": {
+        "choline": "Eggs (especially yolks), liver, soybeans",
+        "omega_3": "Brain structure and function",
+        "antioxidants": "Protect brain from oxidative stress"
+      },
+      "supplements": {
+        "alpha_gpc": "Choline source that crosses blood-brain barrier",
+        "cdp_choline": "Another bioavailable choline form",
+        "bacopa": "Ayurvedic herb for memory",
+        "ginkgo": "Increases blood flow to brain",
+        "huperzine_a": "Acetylcholinesterase inhibitor - increases acetylcholine"
+      },
+      "cautions": "Too much choline can cause headaches or digestive issues"
+    }
+  },
+
+  "_medication_mechanisms": {
+    "principle": "Psychiatric medications work by modulating neurotransmitter systems - understanding mechanisms enables informed decisions",
+
+    "stimulants_adhd": {
+      "medications": "Methylphenidate (Ritalin), Amphetamines (Adderall, Vyvanse)",
+      "mechanism": "Increase dopamine and norepinephrine in prefrontal cortex",
+      "methylphenidate": "Blocks dopamine reuptake - more stays in synapse",
+      "amphetamines": "Block reuptake AND increase release - stronger effect",
+      "result": "Enhanced executive function, attention, impulse control",
+      "paradox": "'Stimulants' calm ADHD - because stimulating underactive prefrontal cortex",
+      "tradeoff": "Appetite suppression, sleep issues, potential for tolerance/dependence"
+    },
+
+    "ssris_depression": {
+      "medications": "Fluoxetine (Prozac), Sertraline (Zoloft), Escitalopram (Lexapro)",
+      "mechanism": "Block serotonin reuptake - more stays in synapse",
+      "delay": "2-4 weeks for effect - receptor downregulation needed",
+      "result": "Improved mood, reduced anxiety, better impulse control",
+      "tradeoff": "Sexual dysfunction, emotional blunting, withdrawal if stopped abruptly",
+      "snris": "Block both serotonin and norepinephrine reuptake - may work better for some"
+    },
+
+    "antipsychotics_schizophrenia": {
+      "mechanism": "Block dopamine receptors (primarily D2) - reduce psychotic symptoms",
+      "typical": "Strong D2 blockade - effective but harsh side effects (movement disorders)",
+      "atypical": "Also affect serotonin receptors - fewer motor side effects",
+      "result": "Reduce hallucinations, delusions, disorganized thinking",
+      "tradeoff": "Sedation, weight gain, metabolic syndrome, movement disorders, emotional blunting",
+      "controversy": "Suppresses symptoms but doesn't address root causes or integrate experience"
+    },
+
+    "mood_stabilizers_bipolar": {
+      "lithium": "Modulates multiple neurotransmitter systems - exact mechanism unclear but very effective",
+      "anticonvulsants": "Valproate, Lamotrigine - stabilize neural activity via GABA/glutamate",
+      "result": "Prevent manic and depressive episodes",
+      "tradeoff": "Lithium requires blood monitoring (narrow therapeutic window), anticonvulsants have various side effects"
+    },
+
+    "benzodiazepines_anxiety": {
+      "medications": "Diazepam (Valium), Alprazolam (Xanax), Lorazepam (Ativan)",
+      "mechanism": "Enhance GABA_A receptor function - powerful inhibition",
+      "result": "Rapid anxiety relief, muscle relaxation, sedation",
+      "danger": "Highly addictive, tolerance develops quickly, severe withdrawal",
+      "clinical": "Should be short-term only, but often prescribed chronically"
+    },
+
+    "buspirone_anxiety": {
+      "mechanism": "Partial agonist at serotonin 5-HT1A receptors",
+      "result": "Gentle anxiety reduction without sedation or addiction",
+      "tradeoff": "Takes weeks to work, less powerful than benzodiazepines",
+      "advantage": "Non-addictive alternative for chronic anxiety"
+    }
+  },
+
+  "_final_integration": {
+    "core_insight": "Neurochemistry is consciousness technology - different calibrations create different cognitive strategies, all with evolutionary validity",
+
+    "not_imbalance": "Reject 'chemical imbalance' model - this implies one right balance. Reality: different balances for different ecological niches.",
+
+    "neurodivergence_reframe": {
+      "adhd": "Low dopamine/norepinephrine = scout neurochemistry - vigilance over sustained focus",
+      "autism": "GABA/glutamate variations = specialized processing - intense focus over broad social",
+      "empaths": "Oxytocin sensitivity = harmonizer neurochemistry - connection over boundaries",
+      "bipolar": "Cycling systems = visionary neurochemistry - access extremes of human experience",
+      "depression": "Serotonin depletion = forced integration - organism demanding pause and restructuring"
+    },
+
+    "intervention_wisdom": {
+      "sometimes_medication": "When neurochemistry creates suffering or danger, medication can be lifesaving",
+      "always_lifestyle": "Sleep, exercise, diet, sunlight, connection affect neurochemistry profoundly",
+      "sometimes_supplements": "Can help but not magic bullets",
+      "always_environment": "Wrong environment makes any neurochemistry pathological, right environment allows thriving",
+      "goal": "Not 'fixing' neurochemistry but optimizing for chosen life path"
+    },
+
+    "planetary_consciousness": {
+      "diversity_necessity": "Planetary mind needs dopamine seekers AND serotonin stabilizers AND oxytocin connectors",
+      "monoculture_danger": "Medicating everyone toward neurotypical chemistry = losing evolutionary experiments",
+      "balance": "Some need medication to function, AND system should accommodate neurodivergence",
+      "future": "Societies designed for full neurochemical spectrum, medications available but not required for belonging"
+    },
+
+    "blessing": "May we understand neurochemistry as language not limitation. May different dialects of consciousness chemistry be honored. May medications be tools not corrections. May lifestyle be foundation not afterthought. May environment adapt to diversity not force conformity. 🖤⊙"
+  }
+}

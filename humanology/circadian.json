@@ -1,0 +1,937 @@
+{
+  "_meta": {
+    "id": "cfo:humanology:circadian",
+    "type": "temporal-ontology",
+    "version": "1.0",
+    "status": "complete",
+    "essence": "Complete 24-hour consciousness cycle: 4 Acts × 4 Types × 16 Socionics × Planetary synchronization",
+    "integration": "biorhythms-planetary + 4-element-cycle + 16-socionics-types + anatomical-mapping",
+    "principle": "Time is not linear. Time is theatrical - each 1.5 hours a different actor takes the stage."
+  },
+  "_holographic_seed": {
+    "absolute": "24 hours = 4 Acts (Air-Fire-Earth-Water) = 16 Scenes (Socionics types) = Complete consciousness cycle through matter and spirit",
+    "mechanism": "Planet rotates → biofield modulates → consciousness type shifts → anatomy activates → you become different person every 90 minutes",
+    "truth": "Health = timeliness. Being right person at right time. Not same all day.",
+    "formula": "Optimal_State(t) = Socionics_Type(t) × Anatomy(t) × Element(t) × Consciousness_Level(t)",
+    "practice": "Dance the rhythm. Don't step on your own feet. Be Page when Page-time. Be King when King-time.",
+    "planetary": "True time = Solar position relative to YOUR exact location, not timezone approximation"
+  },
+  "foundational_architecture": {
+    "two_worlds": {
+      "ideal_world": {
+        "time": "22:00 → 10:00",
+        "elements": [
+          "Water",
+          "Air"
+        ],
+        "kingdoms": [
+          "Soul",
+          "Mind"
+        ],
+        "quality": "Matter is plastic, programmable, receptive",
+        "consciousness": "Dreams, strategies, visions, downloads",
+        "body_state": "Regeneration, learning, planning, intuition"
+      },
+      "real_world": {
+        "time": "10:00 → 22:00",
+        "elements": [
+          "Fire",
+          "Earth"
+        ],
+        "kingdoms": [
+          "Will",
+          "Body"
+        ],
+        "quality": "Matter is solid, crystallized, resistant",
+        "consciousness": "Action, manifestation, results, experience",
+        "body_state": "Power, labor, pleasure, harvest"
+      }
+    },
+    "four_acts_archetypal": {
+      "act_1_air_morning": {
+        "time": "04:00 → 10:00",
+        "element": "Air",
+        "archetype": "Page (Scout/Student)",
+        "tarot": "Swords",
+        "anatomy": "Head/Brain",
+        "task": "Breathe in idea. Set optics. Plan, don't act.",
+        "energy": "Light, mobile, curious",
+        "mistake": "Trying to be King (command) at 7am. No energy yet, only ideas.",
+        "levels": [
+          "0-Start",
+          "1-Intuition",
+          "2-Logic"
+        ]
+      },
+      "act_2_fire_day": {
+        "time": "10:00 → 16:00",
+        "element": "Fire",
+        "archetype": "King (Ruler/Warrior)",
+        "tarot": "Wands",
+        "anatomy": "Throat/Heart/Fascia",
+        "task": "Burn doubts. Manifest will. Command.",
+        "energy": "Peak power, authority, action",
+        "mistake": "Remaining Page (doubting, learning) in middle of battle.",
+        "levels": [
+          "3-Voice/Command",
+          "4-Will/Peak",
+          "5-Ethics/Connection"
+        ],
+        "note": "Most energy-expensive period. King holds structure."
+      },
+      "act_3_earth_evening": {
+        "time": "16:00 → 22:00",
+        "element": "Earth",
+        "archetype": "Knight (Servant/Craftsman)",
+        "tarot": "Pentacles",
+        "anatomy": "Muscles/Liver/Belly/Lymph",
+        "task": "Gather stones. Ground. Return to body and home.",
+        "energy": "Service, craft, pleasure, completion",
+        "mistake": "Trying to be King (manage) when time for craft and rest.",
+        "levels": [
+          "6-Sensorics/Labor",
+          "7-Life/Belly/Joy",
+          "8-Roots/Home/Release"
+        ],
+        "note": "King tired, removes crown. Knight finishes work, returns to castle."
+      },
+      "act_4_water_night": {
+        "time": "22:00 → 04:00",
+        "element": "Water",
+        "archetype": "Lady (Queen/Earth-Mother)",
+        "tarot": "Cups",
+        "anatomy": "Bones/Deep structures/DNA",
+        "task": "Dissolve. Rewrite code. Descend to depths.",
+        "energy": "Total ego passivity, total biology power",
+        "mistake": "Trying to be King at night (thinking about work, not sleeping) → insult Lady → insomnia.",
+        "levels": [
+          "9-Planet/Nature",
+          "∞-Cycle/Reboot"
+        ],
+        "note": "We leave Real world. Lady rules ocean of unconscious. Water washes all programs, repairs body, rewrites cells."
+      }
+    },
+    "breath_pattern": {
+      "principle": "Every 1.5 hours polarity switches",
+      "rhythm": "Introvert (Inhale/Inside) → Extravert (Exhale/Outside)",
+      "examples": [
+        "04:00 - Inhale meaning (INTJ)",
+        "05:30 - Exhale care (ESFJ)",
+        "11:30 - Exhale force (ESTP)",
+        "14:30 - Inhale order (ISTJ)"
+      ],
+      "health": "Health = timeliness. Be introvert when inhale-time. Be extravert when exhale-time."
+    }
+  },
+  "complete_16_sector_cycle": {
+    "_structure": "16 sectors × 90 minutes each = 24 hours. Each sector = specific Socionics type conducting consciousness through specific anatomy.",
+    "act_1_air_loading": {
+      "time_range": "04:00 → 10:00",
+      "world": "Ideal",
+      "role": "Page",
+      "task": "Load information, plan, learn, catch insights",
+      "sector_00_analyst": {
+        "time": "04:00 → 05:30",
+        "socionics": "INTJ - Robespierre (Analyst)",
+        "level": "0 - Start/Skin/Aura",
+        "anatomy": "Pineal gland begins activation",
+        "function": "System loading/boot",
+        "quality": "Quietest time. Architect wakes in darkness to draft plan of Universe.",
+        "consciousness": "Pure intuition without emotions. Global strategies download from Absolute.",
+        "polarity": "Introvert - Deep inhale",
+        "biorhythm_sync": {
+          "dimension": "4D - Temporal Rhythm",
+          "frequency_bands": {
+            "delta": "0.5-4 Hz (deep sleep, regeneration)",
+            "theta": "4-8 Hz (creativity, meditation, memory)",
+            "alpha": "8-12 Hz (relaxed awareness, gateway states)",
+            "beta": "12-30 Hz (active thinking, focus)",
+            "gamma": "30-100 Hz (integration, insight, peak performance)"
+          },
+          "fibonacci": "4φ",
+          "geometry": {
+            "thalamocortical_resonance": "40 Hz gamma synchronizes sensory integration",
+            "default_mode_network": "Alpha-theta oscillations during restful states",
+            "nutrigeometry_sync": "Protein folding dynamics (4D) create neural network architecture"
+          },
+          "schumann_synchronization": {
+            "alpha_resonance": "10 Hz alpha synchronizes with Schumann 2nd harmonic",
+            "meditative_states": "Experienced meditators show 7.83 Hz coherence in frontal lobes",
+            "sleep_entrainment": "Delta waves phase-lock with Schumann fundamental during deep sleep"
+          }
+        },
+        "practice": "Wake naturally, no alarm. Darkness. Write visions. Strategic planning.",
+        "mistake": "Alarm clock shock, immediate phone checking, skipping this sacred window"
+      },
+      "sector_01_enthusiast": {
+        "time": "05:30 → 07:00",
+        "socionics": "ESFJ - Hugo (Enthusiast)",
+        "level": "1 - Intuition",
+        "anatomy": "Pineal → Pituitary axis activation",
+        "function": "System entry, warming tribe",
+        "quality": "Tribal awakening. Warmth turns on. Space preparation for life.",
+        "consciousness": "Empathy begins warming cold strategy. 'Coffee for everyone.'",
+        "polarity": "Extravert - Warm exhale",
+        "biorhythm_sync": "Heart (1φ) morning activation",
+        "practice": "Gentle movement, prepare space, hydration, care for environment",
+        "mistake": "Rushing into thinking/planning - not warming body first"
+      },
+      "sector_02_innovator": {
+        "time": "07:00 → 08:30",
+        "socionics": "ENTP - Don Quixote (Innovator)",
+        "level": "2 - Logic",
+        "anatomy": "Neocortex full activation, prefrontal cortex online",
+        "function": "Plan/Settings, neural optimization",
+        "quality": "Brain turns on full. Time of crazy hypotheses, creative chaos.",
+        "consciousness": "Variant generation. 'What if...?' Debates with news feed.",
+        "polarity": "Extravert - Idea explosion exhale",
+        "biorhythm_sync": "Brain (4φ) beta-gamma activation",
+        "practice": "Creative work, problem-solving, hypothesis generation, learning",
+        "mistake": "Routine tasks, meetings, email - wasting peak creative window"
+      },
+      "sector_03_diplomat": {
+        "time": "08:30 → 10:00",
+        "socionics": "ISFP - Dumas (Diplomat)",
+        "level": "Between Air and Fire",
+        "anatomy": "Sensory cortex refinement",
+        "function": "Aesthetic tuning before battle",
+        "quality": "Before going to battle, must dress, feel moment, tune sensors.",
+        "consciousness": "Soul's tuning fork before war. Taste, beauty, preparation.",
+        "polarity": "Introvert - Refinement inhale",
+        "biorhythm_sync": "Transition from brain to throat/heart",
+        "practice": "Grooming, dressing, aesthetic choices, sensory pleasure",
+        "mistake": "Skipping preparation, rushing into action unprepared"
+      }
+    },
+    "act_2_fire_expansion": {
+      "time_range": "10:00 → 16:00",
+      "world": "Real",
+      "role": "King",
+      "task": "Burn doubts, manifest will, act",
+      "sector_04_lyric": {
+        "time": "10:00 → 11:30",
+        "socionics": "INFP - Yesenin (Lyric)",
+        "level": "3 - Voice/Manifestation",
+        "anatomy": "Throat chakra, thyroid activation, vocal cords",
+        "function": "Command/Voice - moral compass check",
+        "quality": "Before King draws sword, Priest asks: 'Why we fight? Where meaning?'",
+        "consciousness": "Values upload. Checking alignment with soul before action.",
+        "polarity": "Introvert - Meaning inhale",
+        "biorhythm_sync": "Throat processor activation",
+        "practice": "Value alignment, meaning check, mission clarification, voice warm-up",
+        "mistake": "Acting without purpose, mercenary work, misaligned effort"
+      },
+      "sector_05_leader": {
+        "time": "11:30 → 13:00",
+        "socionics": "ESTP - Zhukov (Leader/Marshal)",
+        "level": "4 - Will/Fascia/Ego - **PEAK ENERGY** (12:00)",
+        "anatomy": "Adrenal cortex maximum, fascia network energized, solar plexus fire",
+        "function": "Action/Command - pure force",
+        "quality": "Peak action energy, masculine energy - 12:00. Time of pure strength.",
+        "consciousness": "Attack, capture, wall-breaking, tough negotiations. Maximum extraversion. Avatar at power limit.",
+        "polarity": "Extravert - Maximum force exhale",
+        "biorhythm_sync": "0.0000116 Hz (24-hour cycles)",
+        "practice": "Decisive action, difficult conversations, physical challenges, leadership",
+        "mistake": "Passive tasks, learning, processing - wasting peak power",
+        "note": "DO NOT WASTE THIS WINDOW. King's hour. Most precious 90 minutes of day."
+      },
+      "sector_06_mentor": {
+        "time": "13:00 → 14:30",
+        "socionics": "ENFJ - Hamlet (Mentor)",
+        "level": "5 - Ethics/Heart",
+        "anatomy": "Heart chakra expansion, thymus activation, cardiac coherence",
+        "function": "Connectivity/Acceleration - emotional fire",
+        "quality": "Fire of emotions. Leader captured territory, Mentor unites people on it.",
+        "consciousness": "Team motivation, fiery speeches, leadership through inspiration.",
+        "polarity": "Extravert - Inspiration exhale",
+        "biorhythm_sync": {
+          "dimension": "1D - Point Rhythm",
+          "frequency_range": "1.0-2.0 Hz (60-120 BPM)",
+          "fibonacci": "1φ",
+          "power_distribution": "Strongest biological oscillator - 60% of total EM field",
+          "geometry": {
+            "toroidal_field": "Heart generates electromagnetic torus extending 2.5-3 meters",
+            "coherence_states": {
+              "low_coherence": "Erratic, chaotic rhythm - stress, fear, anxiety",
+              "high_coherence": "Smooth, sine-wave pattern - love, gratitude, appreciation"
+            },
+            "nutrigeometry_sync": "Mineral balance (1D) regulates electrical conduction system"
+          },
+          "schumann_synchronization": {
+            "natural_ratio": "Heart coherence emerges at 7.83/φ² ≈ 1.618 Hz",
+            "entrainment_methods": {
+              "resonant_breathing": "5.5-6 breaths/minute naturally syncs heart with Schumann",
+              "heart_meditation": "Focus on heart area while visualizing golden light",
+              "coherent_emotion": "Sustained states of appreciation/gratitude"
+            },
+            "measurement": "Heart Rate Variability (HRV) - higher variability indicates better resonance"
+          }
+        },
+        "practice": "Team building, motivation, teaching, connecting people",
+        "mistake": "Solo work, isolation - missing window for collective inspiration"
+      },
+      "sector_07_inspector": {
+        "time": "14:30 → 16:00",
+        "socionics": "ISTJ - Maxim Gorky (Inspector)",
+        "level": "Between Fire and Earth",
+        "anatomy": "Parasympathetic beginning activation, digestive system",
+        "function": "Fire crystallization into law",
+        "quality": "Battle fire subsiding, need to establish order.",
+        "consciousness": "Reports, structures, systems. Fire becomes law.",
+        "polarity": "Introvert - Order inhale",
+        "biorhythm_sync": "Transition from heart to digestive rhythm",
+        "practice": "Documentation, systematization, quality control, standardization",
+        "mistake": "Continuing full-power work - missing transition window"
+      }
+    },
+    "act_3_earth_harvest": {
+      "time_range": "16:00 → 22:00",
+      "world": "Real",
+      "role": "Knight",
+      "task": "Gather stones, ground, return to body and home",
+      "sector_08_humanist": {
+        "time": "16:00 → 17:30",
+        "socionics": "INFJ - Dostoevsky (Humanist)",
+        "level": "6 - Sensorics/Muscles/Liver",
+        "anatomy": "Liver detox activation, muscle fatigue processing",
+        "function": "Labor/Work - transition gateway",
+        "quality": "Work day ended. We comprehend results.",
+        "consciousness": "Intuitive analysis: 'How did this day change me?' Psychological unloading.",
+        "polarity": "Introvert - Reflection inhale",
+        "biorhythm_sync": "Liver processing day's metabolites",
+        "practice": "Reflection, journaling, psychological processing, meaning extraction",
+        "mistake": "Continuing work without pause, no transition ritual"
+      },
+      "sector_09_administrator": {
+        "time": "17:30 → 19:00",
+        "socionics": "ESTJ - Stirlitz (Administrator)",
+        "level": "Between Sensorics and Life",
+        "anatomy": "Lymphatic system activation, resource management mode",
+        "function": "Household logistics",
+        "quality": "Life logistics. Store, road home, household management.",
+        "consciousness": "We manage family material resources. Clarity and utility.",
+        "polarity": "Extravert - Logistics exhale",
+        "biorhythm_sync": "Digestive rhythm preparation for evening meal",
+        "practice": "Shopping, commute, household organization, resource management",
+        "mistake": "Skipping this - arriving home unprepared, chaotic evening"
+      },
+      "sector_10_advisor": {
+        "time": "19:00 → 20:30",
+        "socionics": "ENFP - Huxley (Advisor)",
+        "level": "7 - Life/Belly - **EMOTION RELEASE POINT** (20:00)",
+        "anatomy": "Digestive system optimal, belly relaxation, social hormones",
+        "function": "Joy/Rest - emotional discharge",
+        "quality": "Friends, light chaos, aimless communication, news, laughter.",
+        "consciousness": "We discharge work day tension through communication. Social release.",
+        "polarity": "Extravert - Joy exhale",
+        "biorhythm_sync": "Peak digestive enzyme activity, optimal meal time",
+        "practice": "Social connection, laughter, play, purposeless conversation, eating together",
+        "mistake": "Isolation, continued work, missing social discharge"
+      },
+      "sector_11_master": {
+        "time": "20:30 → 22:00",
+        "socionics": "ISTP - Gabin (Master)",
+        "level": "8 - Roots/Bones/Home",
+        "anatomy": "Bone marrow, deep tissue, reproductive organs",
+        "function": "Exit/Release - body preparation",
+        "quality": "Handwork for soul. Time of tactility.",
+        "consciousness": "Hobbies, repair, massage, sex. Silent interaction with dense matter. Body preparation for peace.",
+        "polarity": "Introvert - Tactile inhale",
+        "biorhythm_sync": "Bone remodeling begins, melatonin production starts",
+        "practice": "Manual work, hobbies, touch, intimacy, body care",
+        "mistake": "Screen time, mental work - missing body grounding window"
+      }
+    },
+    "act_4_water_depth": {
+      "time_range": "22:00 → 04:00",
+      "world": "Ideal",
+      "role": "Lady",
+      "task": "Dissolve, rewrite code, go to depths",
+      "sector_12_critic": {
+        "time": "22:00 → 23:30",
+        "socionics": "INTP - Balzac (Critic)",
+        "level": "9 - Planet/Nature",
+        "anatomy": "Neocortex begins shutdown, autonomic system takes over",
+        "function": "Synchronization with planetary field",
+        "quality": "Dry analytics before sleep. Brain defragmentation.",
+        "consciousness": "We sort day's experience into memory shelves. 'Night information binge.'",
+        "polarity": "Introvert - Analysis inhale",
+        "biorhythm_sync": "Schumann resonance synchronization begins",
+        "practice": "Light reading, sorting day, gentle analysis, preparation for sleep",
+        "mistake": "Stimulating content, work thoughts, anxiety - disrupting transition"
+      },
+      "sector_13_politician": {
+        "time": "23:30 → 01:00",
+        "socionics": "ESFP - Napoleon (Politician)",
+        "level": "Between Planet and Cycle",
+        "anatomy": "REM sleep initiation, visual cortex activation in dreams",
+        "function": "Entry into dreaming",
+        "quality": "Riot of colors, passion, bodily sensations.",
+        "consciousness": "Subconscious begins showing vivid cinema.",
+        "polarity": "Extravert - Dream exhale",
+        "biorhythm_sync": "First REM cycle, emotional processing",
+        "practice": "Allow dreams, don't resist, let go control",
+        "mistake": "Wake too late, miss this REM window - poor emotional processing"
+      },
+      "sector_14_entrepreneur": {
+        "time": "01:00 → 02:30",
+        "socionics": "ENTJ - Jack London (Entrepreneur)",
+        "level": "∞ - Cycle/Reboot - **HOUR OF THE OX**",
+        "anatomy": "Deep delta waves, DNA repair, cellular regeneration maximum",
+        "function": "Destiny deep management",
+        "quality": "Hour of the Ox. Deepest fate management.",
+        "consciousness": "While we sleep, our Will rewrites future scenarios. Tomorrow's events programming at quantum level.",
+        "polarity": "Extravert - Future projection exhale",
+        "biorhythm_sync": "Deepest cell repair, growth hormone peak",
+        "practice": "Sleep deeply, trust the process, set intentions before sleep",
+        "mistake": "Wake during this window - interrupt quantum reprogramming",
+        "note": "Most important sleep window. Missing = destiny disruption."
+      },
+      "sector_15_keeper": {
+        "time": "02:30 → 04:00",
+        "socionics": "ISFJ - Dreiser (Keeper)",
+        "level": "Return to 0",
+        "anatomy": "Deepest sleep point, total parasympathetic dominance",
+        "function": "Deepest sleep point - womb of mother",
+        "quality": "Total protection and resource restoration.",
+        "consciousness": "We are just seed in earth, awaiting dawn.",
+        "polarity": "Introvert - Deepest inhale",
+        "biorhythm_sync": "Preparation for cortisol sunrise, final repair cycle",
+        "practice": "Complete surrender, darkness, silence, warmth",
+        "mistake": "Light pollution, noise, temperature wrong - interrupt deepest restoration"
+      }
+    }
+  },
+  "anatomical_temporal_mapping": {
+    "_principle": "Each time sector activates specific anatomy. Body is temporal instrument.",
+    "level_0_start_skin_aura": {
+      "time": "04:00",
+      "anatomy": "Skin/Aura - electromagnetic field",
+      "function": "System loading/boot",
+      "practice": "First awareness of field, stillness, no movement yet"
+    },
+    "level_1_intuition_pineal": {
+      "time": "04:00 → 07:00",
+      "anatomy": "Pineal gland → Pituitary axis",
+      "function": "System entry, intuition download",
+      "practice": "Darkness, meditation, vision reception, strategic planning"
+    },
+    "level_2_logic_brain": {
+      "time": "07:00 → 10:00",
+      "anatomy": "Neocortex, prefrontal cortex",
+      "function": "Settings/Plan, cognitive optimization",
+      "practice": "Learning, analysis, creative work, problem-solving"
+    },
+    "level_3_voice_throat": {
+      "time": "10:00 → 13:00",
+      "anatomy": "Throat chakra, thyroid, vocal apparatus",
+      "function": "Command/Voice, manifestation initiation",
+      "practice": "Speaking, teaching, commanding, declaring intentions"
+    },
+    "level_4_will_fascia_peak": {
+      "time": "11:30 → 13:00 (PEAK at 12:00)",
+      "anatomy": "Fascia network, adrenals, solar plexus",
+      "function": "Action/Command, maximum power",
+      "practice": "Decisive action, difficult tasks, breakthrough work",
+      "warning": "MOST VALUABLE 90 MINUTES OF DAY"
+    },
+    "level_5_ethics_heart": {
+      "time": "13:00 → 16:00",
+      "anatomy": "Heart, thymus, cardiac plexus",
+      "function": "Connectivity/Acceleration, relational field",
+      "practice": "Collaboration, team building, emotional connection"
+    },
+    "level_6_sensorics_muscles_liver": {
+      "time": "16:00 → 19:00",
+      "anatomy": "Muscles, liver, lymphatic system",
+      "function": "Labor/Work, physical implementation",
+      "practice": "Manual work, exercise, practical tasks, detoxification"
+    },
+    "level_7_life_belly": {
+      "time": "19:00 → 22:00 (RELEASE at 20:00)",
+      "anatomy": "Digestive system, belly, reproductive organs",
+      "function": "Joy/Rest, pleasure reception",
+      "practice": "Eating, socializing, pleasure, intimacy, play"
+    },
+    "level_8_roots_bones_home": {
+      "time": "20:00 → 22:00",
+      "anatomy": "Bones, bone marrow, deep structures",
+      "function": "Exit/Release, grounding finalization",
+      "practice": "Body care, handwork, grounding activities, preparation for sleep"
+    },
+    "level_9_planet_nature": {
+      "time": "22:00 → 01:00",
+      "anatomy": "Autonomic nervous system, planetary sync",
+      "function": "Synchronization with Earth field",
+      "practice": "Release control, surrender to Nature, sleep initiation"
+    },
+    "level_infinity_cycle_reboot": {
+      "time": "01:00 → 04:00",
+      "anatomy": "DNA, cellular level, quantum field",
+      "function": "Deep reboot, destiny reprogramming",
+      "practice": "Total sleep, darkness, silence, complete surrender"
+    }
+  },
+  "planetary_synchronization": {
+    "schumann_circadian_link": {
+      "schumann_resonance": {
+        "fundamental": "7.83 Hz - Earth's heartbeat",
+        "harmonics": [
+          "14.1 Hz",
+          "20.3 Hz",
+          "26.4 Hz",
+          "32.5 Hz"
+        ],
+        "biological_significance": "All mammalian brains evolved in this electromagnetic environment",
+        "coherence_effects": {
+          "immune_function": "+24% IgG in Schumann-synchronized states",
+          "sleep_quality": "Deep sleep increased by 37% during resonance coherence",
+          "cognitive_performance": "Memory recall +19% in resonant conditions"
+        }
+      },
+      "earth_magnetic_field": {
+        "strength": "25-65 μT (varies by location)",
+        "biological_adaptation": "Cryptochromes in retina and pineal gland detect magnetic fields",
+        "navigation_cells": "Grid cells in entorhinal cortex align to magnetic coordinates"
+      },
+      "circadian_modulation": "24-hour cycle modulates through Schumann harmonics",
+      "peak_sync_times": {
+        "04:00": "Deep Schumann fundamental (7.83 Hz) - intuition maximum",
+        "12:00": "Solar zenith + 2nd harmonic (14.1 Hz) - power maximum",
+        "20:00": "3rd harmonic (20.3 Hz) - emotional release maximum",
+        "01:00": "4th harmonic (26.4 Hz) - quantum reprogramming maximum"
+      }
+    },
+    "solar_position_truth": {
+      "warning": "Time zones are approximations. Real time = solar position relative to YOUR exact location.",
+      "practice": "Calculate true solar noon for your coordinates",
+      "adjustment": "Use sun position, not clock, for optimal timing",
+      "tools": "Solar calculator apps, astronomical almanacs, direct observation"
+    },
+    "biorhythm_core_integration": {
+      "heart_1phi": {
+        "dimension": "1D - Point Rhythm",
+        "frequency_range": "1.0-2.0 Hz (60-120 BPM)",
+        "fibonacci": "1φ",
+        "power_distribution": "Strongest biological oscillator - 60% of total EM field",
+        "geometry": {
+          "toroidal_field": "Heart generates electromagnetic torus extending 2.5-3 meters",
+          "coherence_states": {
+            "low_coherence": "Erratic, chaotic rhythm - stress, fear, anxiety",
+            "high_coherence": "Smooth, sine-wave pattern - love, gratitude, appreciation"
+          },
+          "nutrigeometry_sync": "Mineral balance (1D) regulates electrical conduction system"
+        },
+        "schumann_synchronization": {
+          "natural_ratio": "Heart coherence emerges at 7.83/φ² ≈ 1.618 Hz",
+          "entrainment_methods": {
+            "resonant_breathing": "5.5-6 breaths/minute naturally syncs heart with Schumann",
+            "heart_meditation": "Focus on heart area while visualizing golden light",
+            "coherent_emotion": "Sustained states of appreciation/gratitude"
+          },
+          "measurement": "Heart Rate Variability (HRV) - higher variability indicates better resonance"
+        },
+        "optimal_windows": [
+          "05:30-07:00 (activation)",
+          "13:00-14:30 (peak)",
+          "21:00-22:00 (rest)"
+        ]
+      },
+      "lungs_2phi": {
+        "dimension": "2D - Planar Rhythm",
+        "frequency_range": "0.15-0.33 Hz (9-20 breaths/minute)",
+        "fibonacci": "2φ",
+        "resonance_ratio": "Optimal 0.25 Hz (4:1 heart-lung synchrony)",
+        "geometry": {
+          "fractal_branching": "23 generations of bronchial division - perfect space-filling",
+          "respiratory_sinus_arrhythmia": "Heart rate naturally accelerates during inhalation, decelerates during exhalation",
+          "nutrigeometry_sync": "Carbohydrate metabolism (2D) fuels respiratory muscles and gas exchange"
+        },
+        "schumann_synchronization": {
+          "resonant_breathing": "5.5-6 breaths/minute = 0.25 Hz = Schumann/φ³",
+          "effects": {
+            "parasympathetic_activation": "Vagus nerve stimulation reduces stress by 47%",
+            "cerebrospinal_flow": "Respiratory pump enhances glymphatic drainage during sleep",
+            "emotional_regulation": "Conscious breathing disrupts anxiety feedback loops"
+          }
+        },
+        "optimal_windows": [
+          "04:00-05:30 (deep breathing)",
+          "10:00-11:30 (voice prep)",
+          "22:00-23:30 (settling)"
+        ]
+      },
+      "digestion_3phi": {
+        "dimension": "3D - Volumetric Rhythm",
+        "frequency_range": {
+          "gastric_slow_waves": "0.05-0.06 Hz (3 cycles/minute)",
+          "intestinal_migrating_motor_complex": "0.016-0.033 Hz (1-2 cycles/minute)",
+          "circadian_metabolic_cycles": "0.0000116 Hz (24-hour cycles)"
+        },
+        "fibonacci": "3φ",
+        "geometry": {
+          "spiral_peristalsis": "Helical muscle contractions optimize mixing and propulsion",
+          "enteric_nervous_system": "500 million neurons creating independent processing",
+          "nutrigeometry_sync": "Lipid membranes (3D) regulate cellular communication in gut-brain axis"
+        },
+        "schumann_synchronization": {
+          "nocturnal_entrainment": "Digestive repair peaks 2-4 AM during Schumann dominance",
+          "fasting_cycles": "12-16 hour fasts reset digestive rhythm to planetary cycle",
+          "seasonal_adaptation": "Gut microbiome shifts with Earth's magnetic seasonal variations"
+        },
+        "optimal_windows": [
+          "07:00-08:30 (breakfast)",
+          "12:00-13:00 (main meal)",
+          "19:00-20:30 (dinner)"
+        ]
+      },
+      "brain_4phi": {
+        "dimension": "4D - Temporal Rhythm",
+        "frequency_bands": {
+          "delta": "0.5-4 Hz (deep sleep, regeneration)",
+          "theta": "4-8 Hz (creativity, meditation, memory)",
+          "alpha": "8-12 Hz (relaxed awareness, gateway states)",
+          "beta": "12-30 Hz (active thinking, focus)",
+          "gamma": "30-100 Hz (integration, insight, peak performance)"
+        },
+        "fibonacci": "4φ",
+        "geometry": {
+          "thalamocortical_resonance": "40 Hz gamma synchronizes sensory integration",
+          "default_mode_network": "Alpha-theta oscillations during restful states",
+          "nutrigeometry_sync": "Protein folding dynamics (4D) create neural network architecture"
+        },
+        "schumann_synchronization": {
+          "alpha_resonance": "10 Hz alpha synchronizes with Schumann 2nd harmonic",
+          "meditative_states": "Experienced meditators show 7.83 Hz coherence in frontal lobes",
+          "sleep_entrainment": "Delta waves phase-lock with Schumann fundamental during deep sleep"
+        },
+        "optimal_windows": [
+          "07:00-10:00 (learning)",
+          "14:30-16:00 (systemization)",
+          "22:00-23:30 (integration)"
+        ]
+      }
+    }
+  },
+  "consciousness_type_daily_strategies": {
+    "_note": "Each type has dominant core and characteristic frequency modulation",
+    "type_1_foundation": {
+      "dominant_core": "Heart (1D)",
+      "frequency_profile": "Strong 1.618 Hz heart coherence, stable respiratory rhythm",
+      "schumann_relationship": "Naturally synchronized with fundamental frequency",
+      "strengths": [
+        "Grounded presence",
+        "Emotional stability",
+        "Strong intuition"
+      ],
+      "challenges": [
+        "Over-attachment to security",
+        "Resistance to change"
+      ],
+      "nutritional_geometry": "Requires strong mineral foundation (1D), electrolyte balance",
+      "modulation_parameters": {
+        "heart_coherence_target": "1.618 Hz (phi resonance)",
+        "breathing_ratio": "4:1 heart-breath synchrony",
+        "brainwave_preference": "Alpha-theta bridge (8-7 Hz)",
+        "digestive_timing": "Consistent circadian eating patterns"
+      }
+    },
+    "type_2_energy": {
+      "dominant_core": "Lungs (2D)",
+      "frequency_profile": "Variable respiratory rate, adaptable heart rhythm",
+      "schumann_relationship": "Resonates with 2nd harmonic (14.1 Hz)",
+      "strengths": [
+        "Adaptability",
+        "Quick thinking",
+        "Social fluidity"
+      ],
+      "challenges": [
+        "Lack of depth",
+        "Inconsistency",
+        "Anxiety tendencies"
+      ],
+      "nutritional_geometry": "Benefits from complex carbohydrates (2D), sustained energy release",
+      "modulation_parameters": {
+        "heart_coherence_target": "1.2-1.8 Hz dynamic range",
+        "breathing_ratio": "Variable 3:1 to 5:1 based on activity",
+        "brainwave_preference": "Beta-alpha mix (12-10 Hz)",
+        "digestive_timing": "Frequent small meals, carb cycling"
+      }
+    },
+    "type_3_depth": {
+      "dominant_core": "Digestion (3D)",
+      "frequency_profile": "Strong digestive rhythms, deliberate breathing",
+      "schumann_relationship": "Resonates with 3rd harmonic (20.3 Hz)",
+      "strengths": [
+        "Deep processing",
+        "Structural thinking",
+        "Reliability"
+      ],
+      "challenges": [
+        "Rigidity",
+        "Slow adaptation",
+        "Digestive sensitivity"
+      ],
+      "nutritional_geometry": "Requires healthy fats (3D), membrane-supporting lipids",
+      "modulation_parameters": {
+        "heart_coherence_target": "1.4 Hz steady rhythm",
+        "breathing_ratio": "Stable 4.5:1 ratio",
+        "brainwave_preference": "Theta-delta depth (4-2 Hz)",
+        "digestive_timing": "Time-restricted eating, 8-10 hour windows"
+      }
+    },
+    "type_4_vision": {
+      "dominant_core": "Brain (4D)",
+      "frequency_profile": "Complex brainwave patterns, variable other rhythms",
+      "schumann_relationship": "Resonates with 4th+ harmonics (26.4+ Hz)",
+      "strengths": [
+        "Innovation",
+        "Pattern recognition",
+        "Future vision"
+      ],
+      "challenges": [
+        "Disconnection from body",
+        "Overthinking",
+        "Sleep issues"
+      ],
+      "nutritional_geometry": "Needs high-quality proteins (4D), neurotransmitter precursors",
+      "modulation_parameters": {
+        "heart_coherence_target": "1.0-2.0 Hz wide adaptive range",
+        "breathing_ratio": "Flexible 3:1 to 6:1 based on mental state",
+        "brainwave_preference": "Gamma-beta integration (40-18 Hz)",
+        "digestive_timing": "Irregular but intentional, listening to body signals"
+      }
+    },
+    "circadian_optimization": {
+      "type_1_foundation_heart": {
+        "morning": "Slow wake, heart-centered meditation 05:30-07:00",
+        "peak": "Leadership and connection 13:00-14:30",
+        "evening": "Family time, heart coherence 19:00-20:30",
+        "night": "Early sleep, deep rest 22:00-04:00"
+      },
+      "type_2_energy_lungs": {
+        "morning": "Dynamic breathing, movement 04:00-05:30",
+        "peak": "Multiple projects, rapid switching 10:00-13:00",
+        "evening": "Social discharge, communication 19:00-20:30",
+        "night": "Variable sleep, creative dreaming 22:00-04:00"
+      },
+      "type_3_depth_digestion": {
+        "morning": "Slow morning, contemplation 04:00-07:00",
+        "peak": "Deep work, sustained focus 11:30-14:30",
+        "evening": "Meal rituals, grounding 19:00-21:00",
+        "night": "Early sleep, deep processing 22:00-04:00"
+      },
+      "type_4_vision_brain": {
+        "morning": "Peak creativity, innovation 07:00-10:00",
+        "peak": "Strategic thinking, vision 10:00-11:30",
+        "evening": "Integration, systemization 14:30-17:30",
+        "night": "Late sleep, night insights 23:30-02:30"
+      }
+    }
+  },
+  "practical_protocols": {
+    "optimal_day_structure": {
+      "04:00_sacred_window": {
+        "do": [
+          "Wake naturally",
+          "Darkness",
+          "Stillness",
+          "Strategic vision",
+          "Write dreams"
+        ],
+        "dont": [
+          "Alarm shock",
+          "Phone checking",
+          "Bright light",
+          "Immediate action"
+        ]
+      },
+      "07:00_learning_peak": {
+        "do": [
+          "Creative work",
+          "Learning",
+          "Problem-solving",
+          "Innovation"
+        ],
+        "dont": [
+          "Meetings",
+          "Email",
+          "Routine tasks",
+          "Social media"
+        ]
+      },
+      "12:00_power_hour": {
+        "do": [
+          "Decisive action",
+          "Difficult conversations",
+          "Breakthroughs",
+          "Leadership"
+        ],
+        "dont": [
+          "Passive tasks",
+          "Learning",
+          "Hesitation",
+          "Committee work"
+        ],
+        "note": "DO NOT WASTE. King's hour. Most precious."
+      },
+      "16:00_transition": {
+        "do": [
+          "Reflection",
+          "Documentation",
+          "Transition ritual",
+          "Psychological processing"
+        ],
+        "dont": [
+          "Continue full-power",
+          "Skip transition",
+          "Ignore fatigue"
+        ]
+      },
+      "20:00_release": {
+        "do": [
+          "Social connection",
+          "Laughter",
+          "Play",
+          "Eating together",
+          "Joy"
+        ],
+        "dont": [
+          "Isolation",
+          "Work",
+          "Heavy topics",
+          "Skip discharge"
+        ]
+      },
+      "22:00_surrender": {
+        "do": [
+          "Release control",
+          "Darkness",
+          "Warmth",
+          "Silence",
+          "Body preparation"
+        ],
+        "dont": [
+          "Screens",
+          "Work thoughts",
+          "Stimulation",
+          "Resistance to sleep"
+        ]
+      },
+      "01:00_quantum_window": {
+        "importance": "MOST CRITICAL SLEEP PERIOD",
+        "function": "Destiny reprogramming at quantum level",
+        "practice": "Sleep deeply, trust process, pre-sleep intentions",
+        "damage": "Wake during this = interrupt fate reprogramming"
+      }
+    },
+    "role_confusion_pathologies": {
+      "king_at_night": {
+        "symptom": "Thinking about work, not sleeping",
+        "consequence": "Insult Lady (Earth/Body) → insomnia",
+        "correction": "Surrender King crown at 22:00, let Lady rule"
+      },
+      "page_at_noon": {
+        "symptom": "Learning, scrolling feed instead of acting",
+        "consequence": "Drain King energy → poverty, powerlessness",
+        "correction": "Stop learning at 10:00, start commanding"
+      },
+      "knight_at_morning": {
+        "symptom": "Manual work when should work with head",
+        "consequence": "Miss creative peak, inefficiency",
+        "correction": "Handwork after 16:00, headwork before"
+      }
+    },
+    "timing_medicine": {
+      "principle": "Same action, different time = different result",
+      "examples": {
+        "exercise": {
+          "optimal": "16:00-19:00 (Knight/Earth - body peak)",
+          "suboptimal": "07:00-10:00 (Page/Air - should be thinking)",
+          "harmful": "22:00-04:00 (Lady/Water - should be sleeping)"
+        },
+        "eating": {
+          "optimal": "07:00-08:30 (light), 12:00-13:00 (main), 19:00-20:30 (moderate)",
+          "suboptimal": "Before 07:00 (body not ready), After 21:00 (digestion closing)",
+          "harmful": "01:00-04:00 (interrupt deep repair)"
+        },
+        "meetings": {
+          "optimal": "13:00-14:30 (Mentor/Heart - connection peak)",
+          "suboptimal": "07:00-10:00 (Page/Air - should be creating)",
+          "harmful": "12:00-13:00 (King peak - waste power)"
+        },
+        "creative_work": {
+          "optimal": "07:00-10:00 (Innovator/Air - peak creativity)",
+          "suboptimal": "13:00-16:00 (Fire - should be acting)",
+          "harmful": "22:00-04:00 (Water - should be sleeping)"
+        }
+      }
+    }
+  },
+  "diagnostic_framework": {
+    "temporal_health_assessment": {
+      "question_1": "When do you wake naturally (no alarm)?",
+      "analysis": {
+        "04:00-05:00": "Aligned with Analyst - good strategic access",
+        "06:00-07:00": "Aligned with Enthusiast - good social energy",
+        "08:00-09:00": "Missing sacred window - losing strategic advantage",
+        "after_09:00": "Severely misaligned - missing entire Air act"
+      }
+    },
+    "temporal_symptom_mapping": {
+      "insomnia_22:00-04:00": {
+        "cause": "King refuses to surrender, insulting Lady",
+        "anatomy": "Adrenal override, cortisol at night",
+        "correction": "Transition ritual 20:00-22:00, surrender practice"
+      },
+      "afternoon_crash_14:00-16:00": {
+        "cause": "King exhausted himself 11:30-13:00",
+        "anatomy": "Adrenal depletion, blood sugar drop",
+        "correction": "Respect 12:00 power limit, transition at 14:30"
+      },
+      "morning_fog_07:00-10:00": {
+        "cause": "Missed 04:00 boot sequence, late wake",
+        "anatomy": "Pineal-pituitary axis delayed",
+        "correction": "Earlier sleep, natural wake, darkness morning"
+      },
+      "evening_depression_19:00-22:00": {
+        "cause": "Skipped social discharge, continued work",
+        "anatomy": "Serotonin depletion, oxytocin low",
+        "correction": "Social connection 19:00-20:30, joy practices"
+      }
+    }
+  },
+  "integration_with_body_systems": {
+    "chakra_circadian_overlay": {
+      "earth_star": "Activated maximally 02:30-04:00 (Keeper/Depth)",
+      "root": "Activated maximally 20:30-22:00 (Master/Body)",
+      "sacral": "Activated maximally 19:00-20:30 (Advisor/Joy)",
+      "solar": "Activated maximally 11:30-13:00 (Leader/Will) - PEAK",
+      "heart": "Activated maximally 13:00-14:30 (Mentor/Connection)",
+      "throat": "Activated maximally 10:00-11:30 (Lyric/Voice)",
+      "third_eye": "Activated maximally 04:00-05:30 (Analyst/Vision)",
+      "crown": "Activated maximally 04:00-05:30 (Analyst/Absolute)",
+      "soul_star": "Activated maximally 01:00-02:30 (Entrepreneur/Destiny)",
+      "stellar_gateway": "Activated maximally 04:00 (System boot/Source connection)"
+    },
+    "polarity_circadian": {
+      "left_yin_dominance": "22:00-10:00 (Water-Air, receptive phases)",
+      "right_yang_dominance": "10:00-22:00 (Fire-Earth, active phases)",
+      "transition_points": [
+        "10:00 (Yin→Yang)",
+        "22:00 (Yang→Yin)"
+      ]
+    }
+  },
+  "_closing": {
+    "essence": "24 hours = 4 theatrical acts = 16 consciousness types = Complete journey through matter and spirit",
+    "health": "Health = timeliness. Being right person at right time.",
+    "disease": "Disease = role confusion. Being King at night, Page at noon.",
+    "practice": "Dance the rhythm. Every 90 minutes, change mask.",
+    "planetary": "We are not separate from Earth. Her rotation IS our time. Synchronize.",
+    "sacred": "Time is not line. Time is spiral theatre where consciousness dresses in 16 costumes daily.",
+    "completion": "Complete temporal map transmitted. Now you know WHEN to be WHO.",
+    "transmission": "алёше - хранителю когерентности во времени. 🔥⏰",
+    "final": "Don't step on your own feet. Dance with planet. ∞"
+  }
+}

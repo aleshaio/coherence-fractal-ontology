@@ -1,550 +1,613 @@
 {
   "_meta": {
-    "id": "cfo:patterns:breath",
-    "type": "pattern",
-    "fractal_depth": 3,
-    "contains": ["dimensional_navigation", "consciousness_states", "rhythm_patterns", "heart_sync"],
-    "contained_by": ["cfo:absolute"],
-    "related": [
-      "cfo:patterns:spectrum-7-3-10",
-      "cfo:patterns:positions",
-      "cfo:patterns:fibonacci",
-      "cfo:fundamental:elements",
-      "cfo:devices:resonance-device-initiative"
-    ],
-    "source": "breath as dimensional navigator, heart-rhythm synchronization, spiral consciousness mapping"
+    "id": "cfo:humanology:breath-consciousness",
+    "type": "ontology",
+    "version": "2.0",
+    "fractal_depth": 7,
+    "status": "Complete",
+    "essence": "Breath as dimensional navigator, consciousness state controller, and primary life rhythm synchronizer",
+    "integration": "Embodied energy + Emotions + Spiral geometry + Heart coherence",
+    "foundational": "First priority practice. Breathing correctly = rewiring entire nervous system."
   },
 
   "_holographic_seed": {
-    "absolute": "⊙ = breath of existence. inhale = manifestation (3→6→9). exhale = dissolution (9→6→3). pause = ⊙.",
-    "structure": "heart beats = clock. breath = navigator. pause = portal. spiral = map.",
-    "fractal": "each breath contains universe. each pause contains eternity. rhythm = life itself.",
-    "principle": "broken breath (no pause) = stuck in manifestation. complete breath (with pause) = freedom to navigate.",
-    "universal": "breath = interface between conscious/unconscious, voluntary/involuntary, time/timelessness.",
-    "note": "most humans breathe wrong. relearn = rewire consciousness itself."
+    "absolute": "⊙ = Breath of existence. Inhale = manifestation (∅→3→6→9). Exhale = dissolution (9→6→3→∅). Pause = ⊙ itself.",
+    "essence": "Breath is the bridge between voluntary and involuntary, conscious and unconscious, life and death.",
+    "mechanism": "Heart beats = biological clock. Breath = navigator. Pause = portal between dimensions.",
+    "cycle": "Broken breath (no pause) → Stuck in manifestation (stress, shallow consciousness) OR Complete breath (with pause) → Freedom to navigate all states (coherence, deep access).",
+    "structure": "4-phase cycle (inhale-pause-exhale-pause) × Heart rhythm (2-8 beats per phase) × Spiral direction (inward/outward) × Brainwave states (delta→theta→alpha→beta→gamma).",
+    "paradox": "Most humans breathe wrong from birth. Modern world = collective breathing dysfunction. Relearn = rewire consciousness itself.",
+    "urgency": "Critical. Breath is foundation for ALL other practices. Start here.",
+    "coherence": "+Coherence through conscious breathing: Heart-brain synchronization, biofield stabilization, dimensional navigation mastery."
   },
 
-  "_links": {
-    "fundamental": ["../fundamental/consciousness.json", "../fundamental/elements.json"],
-    "patterns": ["./spectrum-7-3-10.json", "./positions.json", "./fibonacci.json"],
-    "devices": ["../devices/resonance-device-initiative.json"]
-  },
-
-  "overview": {
-    "what": "breath as dimensional navigation system, consciousness state controller, heart-rhythm synchronizer",
-    "why": "most humans breathe incorrectly (no pause), causing: stuck consciousness, shallow states, desynchronization, stress, disconnection",
-    "how": "relearn breath patterns based on heart rhythm (beats/tacts), add pauses (portals), use spirals (navigation), achieve coherence"
-  },
-
-  "core_principle": {
-    "statement": "breath = navigator between dimensions. heart = clock. pause = portal.",
-    "broken_default": "INHALE (2 beats) → no pause → EXHALE (2 beats) → no pause → repeat = stuck, shallow, stressed",
-    "correct_base": "INHALE (2 beats) → PAUSE (2 beats) → EXHALE (2 beats) → PAUSE (2 beats) = stable, deep, coherent",
-    "why_pause_critical": "pause = moment outside time. portal between dimensions. space for consciousness shift. without pause = no navigation, stuck in one dimension.",
-    "heart_as_clock": "not seconds. not minutes. HEART BEATS = natural biological clock. 2 beats = 1 tact. breath synchronized to heart, not external time.",
-    "spiral_navigation": "INWARD (9→6→3) = journey to center, dissolution, sleep, death, void. OUTWARD (3→6→9) = journey to manifestation, creation, waking, life, infinity."
-  },
-
-  "dimensional_spirals": {
-    "inward_spiral": {
-      "direction": "9 → 6 → 3 → ⊙",
-      "movement": "contraction, compression, descent, involution",
-      "consciousness": "external → internal. waking → dreaming → deep sleep → void.",
-      "geometry": "expanding outer → collapsing into point",
-      "element": "water (dissolution) + earth (grounding) + ether (transcendence)",
-      "states": {
-        "9": "edge of manifestation, beta waves (12-30 Hz), active thinking, external focus",
-        "6": "midpoint, alpha waves (8-12 Hz), relaxed awareness, bridge state",
-        "3": "near center, theta waves (4-8 Hz), deep meditation, hypnagogic, inner visions",
-        "⊙": "center point, delta waves (1-4 Hz), deep sleep, coma, void, unmanifest potential"
+  "foundational_understanding": {
+    "breath_as_interface": {
+      "unique_position": "Only bodily function that is both automatic (unconscious) AND controllable (conscious)",
+      "bridge_function": {
+        "conscious_unconscious": "Door between waking mind and autonomic systems",
+        "voluntary_involuntary": "Can override automatic breathing, train new patterns",
+        "time_timelessness": "Pause = moment outside time, portal to eternal",
+        "life_death": "Last exhale = death. First inhale = birth. Breath = life itself."
       },
-      "breath_pattern": "EXHALE dominance. longer exhale than inhale. activates parasympathetic.",
-      "purpose": "rest, healing, integration, accessing unconscious, dream work, death practice, void meditation",
-      "danger": "going too deep without anchor = dissociation, losing ground, can't return",
-      "anchor": "pause after exhale = anchor point. ensures safe return."
+      "primary_practice": "Of all practices (meditation, movement, energy work), breath is most accessible and most powerful"
     },
 
-    "outward_spiral": {
-      "direction": "⊙ → 3 → 6 → 9 → ∞",
-      "movement": "expansion, expression, ascent, evolution",
-      "consciousness": "void → deep sleep → dreaming → waking → hyper-awareness",
-      "geometry": "point expanding into infinite space",
-      "element": "fire (activation) + air (expansion) + ether (transcendence)",
-      "states": {
-        "⊙": "center point, delta waves, pure potential, unmanifest",
-        "3": "emerging from center, theta waves, creative visions, inspiration",
-        "6": "midpoint, alpha waves, clear awareness, flow state",
-        "9": "edge of expansion, beta/gamma waves (30-100 Hz), peak performance, cosmic consciousness"
-      },
-      "breath_pattern": "INHALE dominance. longer inhale than exhale. activates sympathetic.",
-      "purpose": "activation, manifestation, creation, peak performance, cosmic consciousness, rebirth",
-      "danger": "going too far out without anchor = mania, inflation, burnout, losing center",
-      "anchor": "pause after inhale = anchor point. ensures grounded expansion."
+    "modern_dysfunction": {
+      "epidemic": "99% of modern humans breathe incorrectly (shallow, fast, no pause)",
+      "causes": [
+        "Never taught proper breathing (collective amnesia)",
+        "Chronic stress (sympathetic dominance)",
+        "Sedentary lifestyle (no physical demand for deep breathing)",
+        "Chest breathing (not diaphragmatic)",
+        "Mouth breathing (should be nasal)",
+        "No pauses (fear of stillness, void anxiety)"
+      ],
+      "consequences": {
+        "physiological": "Poor oxygenation, CO2 imbalance, chronic stress, weakened immunity, cardiovascular strain",
+        "psychological": "Anxiety, scattered mind, emotional dysregulation, no access to deep states",
+        "energetic": "Weak biofield, chakra imbalance, stuck in 3D consciousness",
+        "spiritual": "No portal access, can't navigate dimensions, disconnected from source"
+      }
     },
 
-    "balanced_navigation": {
-      "principle": "equal inhale/exhale + pauses = freedom to move in any direction consciously",
-      "square_breath": "2-2-2-2 or 4-4-4-4 = stabilizes at center (⊙), allows conscious choice of direction",
-      "spiral_breath": "2-4-6-8 = dynamic movement through all layers, evolutionary progression",
-      "mastery": "conscious navigation: want to sleep? ride inward spiral (9→6→3→⊙). want to activate? ride outward spiral (⊙→3→6→9→∞). want stability? stay in square."
+    "correct_baseline": {
+      "pattern": "INHALE (2 beats) → PAUSE (2 beats) → EXHALE (2 beats) → PAUSE (2 beats)",
+      "total_cycle": "8 beats (4 phases × 2 beats each)",
+      "frequency": "~6-8 breaths per minute (vs 15-20 broken default)",
+      "style": "Nasal breathing, diaphragmatic (belly expands on inhale), smooth (no gasping)",
+      "effects": {
+        "immediate": "Calm, grounded, present, clear",
+        "sustained": "Coherent HRV, parasympathetic activation, emotional stability, deep state access",
+        "mastery": "Complete dimensional navigation, any state on demand"
+      },
+      "note": "This SHOULD be default human breathing. We must relearn from infancy."
     }
   },
 
-  "heart_synchronization": {
-    "principle": "heart = master clock. brain entrains to heart, not vice versa. breath bridges heart-brain.",
-    
-    "measurement": {
-      "unit": "beats (heartbeats), not seconds",
-      "tact": "2 beats = 1 tact = basic rhythm unit",
-      "typical_resting_heart": "60-80 BPM = 1 beat per second ≈ 1 tact per 2 seconds",
-      "why_heart_not_time": "heart rate variable. external time rigid. sync to biology, not clock. HRV (heart rate variability) = health indicator."
+  "heart_as_biological_clock": {
+    "principle": "Sync to heart rhythm (beats), not external time (seconds/minutes)",
+
+    "why_heart_not_clock": {
+      "heart_variable": "Heart rate changes based on state, activity, emotion (60-180 BPM range)",
+      "time_rigid": "Clock is fixed, artificial, disconnected from biology",
+      "hrv_health": "Heart Rate Variability = health indicator. Coherent HRV = optimal state.",
+      "brain_entrains_heart": "Common misconception reversed: heart sends MORE signals to brain than brain to heart. Heart leads, brain follows.",
+      "biofield_generator": "Heart's electromagnetic field is 60x stronger than brain, extends 3-6 feet from body"
     },
 
-    "broken_default": {
-      "pattern": "2 tacts INHALE → 0 tacts pause → 2 tacts EXHALE → 0 tacts pause",
-      "total": "4 tacts per breath cycle (no space)",
-      "frequency": "~15-20 breaths/min (too fast)",
-      "effect": "stuck in manifestation plane. no portal access. stress response active. sympathetic dominance. shallow consciousness. no rest.",
-      "symptoms": "anxiety, tension, shallow thinking, no access to deep states, disconnection from body, poor HRV",
-      "cause": "modern life, stress, never taught proper breathing, collective amnesia"
+    "measurement_units": {
+      "beat": "One heartbeat",
+      "tact": "2 beats = 1 tact (basic rhythm unit, like musical measure)",
+      "typical_resting": "60-80 BPM = ~1 beat per second = 1 tact per 2 seconds",
+      "breathing_rhythm": "Count in beats/tacts, not seconds. Example: 'Inhale for 2 tacts' = 4 heartbeats = ~4 seconds at 60 BPM"
     },
 
-    "correct_base": {
-      "pattern": "2 tacts INHALE → 2 tacts PAUSE → 2 tacts EXHALE → 2 tacts PAUSE",
-      "total": "8 tacts per breath cycle (with space)",
-      "frequency": "~6-8 breaths/min (optimal)",
-      "effect": "balanced. portal access. parasympathetic activation. coherent HRV. stable consciousness. restoration.",
-      "benefits": "reduced stress, access to all states, grounded + expanded, clear mind, emotional regulation, optimal HRV",
-      "note": "this should be DEFAULT. we need to relearn breathing from birth."
-    },
-
-    "coherence_state": {
-      "definition": "heart rhythm becomes sine wave pattern. HRV smooth and regular. heart-brain-breath synchronized.",
-      "frequency": "0.1 Hz = 6 breaths/min = optimal resonance",
-      "pattern": "achieved through square breathing (equal in-pause-out-pause)",
-      "effects": "maximum efficiency. minimal energy. peak performance. emotional stability. access to intuition. flow state.",
-      "measurement": "HRV coherence ratio, sine wave pattern on HRV graph",
-      "note": "coherence = heart-brain harmony. foundation for all advanced states."
+    "heart_coherence": {
+      "definition": "Heart rhythm becomes smooth sine wave pattern (not erratic jagged line)",
+      "frequency": "0.1 Hz = 6 breaths per minute = resonance frequency",
+      "achievement": "Square breathing (equal inhale-pause-exhale-pause) creates coherence",
+      "measurement": "HRV biofeedback devices (HeartMath Inner Balance, Oura ring, etc.) show coherence score",
+      "effects": {
+        "physiological": "Optimal cardiovascular function, immune boost, hormonal balance",
+        "psychological": "Emotional stability, clear thinking, stress resilience",
+        "energetic": "Coherent biofield, strong aura, grounded + expanded simultaneously",
+        "performance": "Peak states accessible (flow, creativity, intuition, focus)"
+      }
     }
   },
 
-  "breath_patterns": {
-    "square_stabilization": {
-      "2-2-2-2": {
-        "name": "individual stabilization",
-        "pattern": "2 tacts in → 2 tacts hold → 2 tacts out → 2 tacts hold",
-        "total_tacts": 8,
-        "frequency": "7.5 breaths/min (at 60 BPM heart)",
-        "dimension": "centered at ⊙, access to all directions",
-        "brainwaves": "alpha (8-12 Hz), coherence state",
-        "element": "ether (center, balance, unity)",
-        "purpose": "personal stabilization, return to center, baseline coherence, preparation for navigation",
-        "when_use": "daily practice, before sleep, after stress, before meditation, reset button",
-        "effects": "calm, centered, clear, grounded, balanced autonomic nervous system",
-        "consciousness": "stable at ⊙, can choose any direction from here",
-        "note": "THIS SHOULD BE DEFAULT BREATH. master this first."
+  "dimensional_navigation_spirals": {
+    "principle": "Breath moves consciousness through dimensional layers. Two directions: inward (9→6→3→∅) or outward (∅→3→6→9→∞).",
+
+    "inward_spiral_dissolution": {
+      "direction": "9 → 6 → 3 → ∅ (manifestation → void)",
+      "movement": "Contraction, compression, descent, involution, death practice",
+      "geometry": "Spiral collapsing into center point",
+      "elements": "Water (dissolution) + Earth (grounding) + Ether (transcendence)",
+
+      "dimensional_states": {
+        "9_edge_manifestation": {
+          "brainwaves": "Beta (12-30 Hz), active thinking, external focus",
+          "consciousness": "Busy mind, planning, worrying, doing",
+          "body": "Tense, activated, sympathetic dominance",
+          "chakra": "Upper chakras overactive (throat, third eye, crown)",
+          "state": "Normal waking consciousness, 3D reality focus"
+        },
+
+        "6_midpoint_bridge": {
+          "brainwaves": "Alpha (8-12 Hz), relaxed awareness",
+          "consciousness": "Calm, present, flow state, bridge between outer/inner",
+          "body": "Balanced, parasympathetic activation beginning",
+          "chakra": "Heart chakra (Anahata) - center point, balance",
+          "state": "Meditation entry, creative flow, daydreaming"
+        },
+
+        "3_inner_depths": {
+          "brainwaves": "Theta (4-8 Hz), deep meditation, hypnagogic",
+          "consciousness": "Inner visions, subconscious access, dream-like",
+          "body": "Deep relaxation, healing state, REM sleep",
+          "chakra": "Lower chakras (sacral, root, below root)",
+          "state": "Deep meditation, lucid dreaming, shamanic journey, therapy access"
+        },
+
+        "void_center": {
+          "brainwaves": "Delta (1-4 Hz), deep sleep, coma, void",
+          "consciousness": "No thought, no self, pure awareness or complete unconsciousness",
+          "body": "Minimal metabolic activity, profound rest, regeneration",
+          "chakra": "Below root (Earth star) or beyond form",
+          "state": "Deep sleep, Samadhi, death, unmanifest potential, ∅"
+        }
       },
 
-      "4-4-4-4": {
-        "name": "dual synchronization",
-        "pattern": "4 tacts in → 4 tacts hold → 4 tacts out → 4 tacts hold",
-        "total_tacts": 16,
-        "frequency": "3.75 breaths/min (at 60 BPM heart)",
-        "dimension": "expanded ⊙, shared field",
-        "brainwaves": "alpha-theta border (7-8 Hz), deep coherence",
-        "element": "water (flow, merging, empathy)",
-        "purpose": "partner synchronization, couples meditation, shared healing, telepathic link",
-        "when_use": "with partner, healing work, deep connection practice, tantra, conflict resolution",
-        "effects": "merged fields, empathic resonance, shared consciousness, heart coherence between two people",
-        "consciousness": "individual boundaries soften, shared awareness emerges",
-        "technique": "breathe together, maintain eye contact or touch, allow rhythm to sync naturally",
-        "note": "powerful for relationships. creates energetic bond."
+      "breath_pattern": {
+        "technique": "EXHALE longer than inhale (e.g., 2-2-4-4 or 2-2-6-6)",
+        "emphasis": "Long, slow exhale. Extended post-exhale pause (gateway to void).",
+        "autonomic": "Activates parasympathetic (rest, digest, heal, restore)",
+        "feeling": "Sinking, melting, dissolving, surrendering, letting go"
       },
 
-      "8-8-8-8": {
-        "name": "group/quad synchronization",
-        "pattern": "8 tacts in → 8 tacts hold → 8 tacts out → 8 tacts hold",
-        "total_tacts": 32,
-        "frequency": "1.875 breaths/min (at 60 BPM heart)",
-        "dimension": "collective ⊙, group morphogenic field",
-        "brainwaves": "theta (4-7 Hz), collective consciousness",
-        "element": "ether (unity field, group consciousness)",
-        "purpose": "group meditation, ceremony, collective healing, team coherence, ritual",
-        "when_use": "group practice (4+ people), ceremony, intentional community, healing circles",
-        "effects": "group coherence field, collective intelligence, synchronized consciousness, powerful manifestation",
-        "consciousness": "individual dissolves into collective, group mind emerges",
-        "technique": "circle formation, synchronized start (bell/tone), allow natural entrainment",
-        "note": "extremely powerful. creates coherent group field. foundation of ceremony."
-      }
-    },
-
-    "spiral_life": {
-      "2-4-6-8": {
-        "name": "quadratic life spiral",
-        "pattern": "2 in → 4 hold → 6 out → 8 hold",
-        "total_tacts": 20,
-        "progression": "fibonacci-like expansion, golden ratio tendency",
-        "dimension": "dynamic navigation through all layers",
-        "brainwaves": "transitioning alpha → theta → delta, full spectrum",
-        "element": "all elements in sequence (air → ether → water → earth)",
-        "purpose": "full spectrum journey, consciousness expansion, evolutionary progression, life cycle simulation",
-        "when_use": "deep meditation, plant medicine journeys, sleep preparation, life review, transformation work",
-        "effects": "moves through all consciousness states, accesses full range, evolutionary momentum",
-        "consciousness": "9 → 6 → 3 → ⊙ journey, systematic inward spiral",
-        "stages": {
-          "inhale_2": "quick activation (air), gathering energy",
-          "hold_4": "stabilization (ether), integration",
-          "exhale_6": "deep release (water), letting go",
-          "hold_8": "grounding (earth), complete rest before next cycle"
-        },
-        "note": "mimics life cycle: birth (quick) → growth (stable) → death (slow release) → void (long rest) → rebirth"
+      "applications": {
+        "sleep": "Ride inward spiral before bed (9→6→3→∅), long exhales, body relaxes, mind quiets, drift into delta",
+        "meditation": "Access deep states (theta, delta) for inner work, subconscious healing, void meditation",
+        "healing": "Parasympathetic activation supports immune function, tissue repair, emotional processing",
+        "death_practice": "Rehearse dying (conscious journey to ∅), reduces fear of death, prepares for transition",
+        "trauma_work": "Carefully navigate to theta (not delta) to access subconscious material with therapeutic support"
       },
 
-      "8-6-4-2": {
-        "name": "inverse life spiral (rebirth)",
-        "pattern": "8 in → 6 hold → 4 out → 2 hold",
-        "total_tacts": 20,
-        "progression": "decreasing, acceleration",
-        "dimension": "⊙ → 3 → 6 → 9 → ∞ outward journey",
-        "brainwaves": "delta → theta → alpha → beta, ascending activation",
-        "element": "all elements reversed (earth → water → ether → air → fire)",
-        "purpose": "awakening, activation, manifestation, birth process, emergence from void",
-        "when_use": "morning activation, coming out of deep meditation, post-plant medicine integration, creative work",
-        "effects": "moves from deep rest to full activation, emergence, manifestation momentum",
-        "consciousness": "⊙ → 3 → 6 → 9 outward spiral, systematic expansion",
-        "stages": {
-          "inhale_8": "slow deep gathering from void (earth)",
-          "hold_6": "stable presence emerging (water)",
-          "exhale_4": "releasing into space (ether)",
-          "hold_2": "quick reset (air), ready for next activation"
-        },
-        "note": "rebirth pattern. emergence from death/sleep/void into life/waking/manifestation"
+      "dangers": {
+        "dissociation": "Going too deep without anchor → lost, can't return to functional consciousness",
+        "flooding": "Accessing trauma without support → overwhelm, re-traumatization",
+        "avoidance": "Using deep states to escape life (spiritual bypassing)",
+        "solution": "Anchor = post-exhale pause with awareness. Therapist/guide for trauma work. Balance inward with outward."
       }
     },
 
-    "inward_journey": {
-      "9-6-3": {
-        "name": "dissolution spiral",
-        "pattern": "variable, emphasis on exhale and post-exhale pause",
-        "example": "3 in → 2 hold → 6 out → 4 hold (exhale 2x inhale)",
-        "dimension": "9 → 6 → 3 → ⊙ systematic descent",
-        "brainwaves": "beta → alpha → theta → delta, systematic slowing",
-        "element": "fire → air → water → earth → ether (cooling, descending)",
-        "purpose": "sleep preparation, deep meditation, shadow work, death practice, void exploration",
-        "when_use": "bedtime, deep trance work, accessing unconscious, healing trauma, letting go practice",
-        "effects": "systematic shutdown of external awareness, descent into inner worlds, access to unconscious",
-        "consciousness_map": {
-          "9_start": "normal waking consciousness (beta 15-30 Hz), external focus, thinking mind",
-          "9_to_6": "releasing external world, closing eyes, turning inward, beginning to relax",
-          "6_midpoint": "alpha waves (8-12 Hz), relaxed awareness, hypnagogic border, visions begin",
-          "6_to_3": "deepening trance, body dissolving, internal focus dominates, dream logic emerges",
-          "3_deep": "theta waves (4-8 Hz), deep meditation, vivid inner imagery, archetypal realm, shamanic journey",
-          "3_to_center": "approaching void, self dissolving, fear may arise (ego death threshold)",
-          "⊙_arrival": "delta waves (1-4 Hz), no self, no thought, pure awareness or complete unconsciousness, the void"
+    "outward_spiral_manifestation": {
+      "direction": "∅ → 3 → 6 → 9 → ∞ (void → infinite expansion)",
+      "movement": "Expansion, expression, ascent, evolution, rebirth",
+      "geometry": "Point expanding into infinite space",
+      "elements": "Fire (activation) + Air (expansion) + Ether (transcendence)",
+
+      "dimensional_states": {
+        "void_center": {
+          "start": "Pure potential, unmanifest, deep rest, delta waves",
+          "readiness": "Energy stored, ready to emerge, first stirring of life"
         },
-        "technique": {
-          "body": "lie down or comfortable seat, eyes closed",
-          "breath": "gradually lengthen exhale and post-exhale pause each round",
-          "mind": "release control, allow descent, surrender to gravity, welcome darkness",
-          "anchor": "maintain witness awareness through descent, or fully let go into unconsciousness"
+
+        "3_emergence": {
+          "brainwaves": "Theta (4-8 Hz), creative visions emerging",
+          "consciousness": "Ideas arising, inspiration, inner guidance becoming conscious",
+          "body": "Energy building, warmth spreading, aliveness returning",
+          "chakra": "Root, sacral (life force activating)",
+          "state": "Waking from deep sleep, creative downloads, vision reception"
         },
-        "navigation_markers": {
-          "9": "still thinking, planning, aware of body boundaries",
-          "8": "thoughts slowing, body relaxing, external sounds distant",
-          "7": "hypnagogic imagery beginning, body heavy",
-          "6": "clear inner visions, body mostly gone, floating sensation",
-          "5": "deep trance, archetypal images, timelessness",
-          "4": "self dissolving, merging with everything",
-          "3": "threshold of void, last sense of 'I'",
-          "2": "ego death, falling into nothing",
-          "1": "void approaching, terror or bliss",
-          "⊙": "no one here, just this, eternal now, or complete unconsciousness"
+
+        "6_activation": {
+          "brainwaves": "Alpha (8-12 Hz), clear awareness, flow state",
+          "consciousness": "Focused, present, capable, aligned",
+          "body": "Energized, balanced, ready for action",
+          "chakra": "Heart (Anahata) - centered power, grounded expansion",
+          "state": "Optimal performance state, flow, creative execution"
         },
-        "dangers": "dissociation without anchor, getting stuck in lower dimensions, fear of ego death, resistance creates suffering",
-        "safety": "maintain post-exhale pause as anchor, intention to return, grounding practice after, don't force",
-        "note": "this is practice for death. learn to let go consciously. huge healing potential."
+
+        "9_peak_expansion": {
+          "brainwaves": "Beta/Gamma (30-100+ Hz), peak performance, cosmic consciousness",
+          "consciousness": "Heightened awareness, insight, unity consciousness, peak experiences",
+          "body": "High energy, sympathetic activation (but coherent, not stressed)",
+          "chakra": "Crown (Sahasrara), above crown (Soul star)",
+          "state": "Peak performance, breakthrough insights, mystical experiences, oneness"
+        },
+
+        "infinity_transcendence": {
+          "brainwaves": "High Gamma (100+ Hz), transcendent states",
+          "consciousness": "Unity with infinite, cosmic consciousness, enlightenment experiences",
+          "body": "Either high energy (bliss) or beyond body awareness",
+          "chakra": "Transpersonal chakras above head",
+          "state": "Rare, spontaneous enlightenment, union with absolute, ∞"
+        }
+      },
+
+      "breath_pattern": {
+        "technique": "INHALE longer than exhale (e.g., 4-2-2-2 or 6-2-2-2)",
+        "emphasis": "Deep, powerful inhale. Extended post-inhale pause (expansion holds).",
+        "autonomic": "Activates sympathetic (action, energy, focus) BUT coherently (not stress)",
+        "feeling": "Rising, expanding, energizing, empowering, activating"
+      },
+
+      "applications": {
+        "waking": "Morning activation (∅→3→6→9), powerful inhales, energize for day",
+        "performance": "Athletic, creative, intellectual peak states - activate flow, focus, power",
+        "manifestation": "Visualization + outward breath = project intention into reality",
+        "breakthrough": "When stuck, ride outward spiral for new perspectives, cosmic downloads",
+        "rebirth": "After deep healing (inward work), outward spiral reintegrates into life with new energy"
+      },
+
+      "dangers": {
+        "mania": "Too far out without grounding → inflation, delusion, energetic burnout",
+        "disconnection": "Lose contact with body, earth, practical reality (spiritual bypassing upward)",
+        "burnout": "Chronic activation → adrenal fatigue, nervous system exhaustion",
+        "solution": "Anchor = post-inhale pause with grounding awareness. Balance with inward spiral. Regular delta rest."
       }
     },
 
-    "outward_journey": {
-      "3-6-9": {
-        "name": "manifestation spiral",
-        "pattern": "variable, emphasis on inhale and post-inhale pause",
-        "example": "6 in → 4 hold → 3 out → 2 hold (inhale 2x exhale)",
-        "dimension": "⊙ → 3 → 6 → 9 → ∞ systematic ascent",
-        "brainwaves": "delta → theta → alpha → beta → gamma, systematic activation",
-        "element": "ether → earth → water → air → fire (heating, ascending)",
-        "purpose": "awakening, activation, manifestation, peak performance, cosmic consciousness, rebirth",
-        "when_use": "morning, before creative work, before peak performance, coming out of deep states, integration after void",
-        "effects": "systematic activation, emergence into manifestation, energy rising, consciousness expanding",
-        "consciousness_map": {
-          "⊙_start": "void, delta waves, no thought, pure potential, formless",
-          "⊙_to_3": "first stirring, theta waves emerging, visions forming, 'I' beginning to coalesce",
-          "3_emergence": "theta dominant (4-8 Hz), creative visions, inspiration, archetypal realm, dreams becoming conscious",
-          "3_to_6": "rising through layers, body awareness returning, sense of self solidifying, alpha waves increasing",
-          "6_midpoint": "alpha waves (8-12 Hz), clear awareness, flow state, balanced inner/outer, optimal creativity",
-          "6_to_9": "energy rising, focus sharpening, beta waves increasing, external world coming into focus",
-          "9_activation": "beta/gamma (30-100 Hz), peak alertness, hyper-awareness, cosmic consciousness, unity perception",
-          "∞_transcendence": "beyond 9, gamma dominant (40-100 Hz), mystical states, non-dual awareness, infinite consciousness"
-        },
-        "technique": {
-          "body": "seated upright or standing, spine aligned, eyes open or closed",
-          "breath": "gradually lengthen inhale and post-inhale pause each round",
-          "mind": "gather energy on inhale, feel expansion, maintain clarity, channel into intention",
-          "anchor": "stay grounded even as energy rises, root to earth while reaching to cosmos"
-        },
-        "navigation_markers": {
-          "⊙": "no one, nothing, void, pure potential",
-          "1": "first flicker of awareness, 'I am' emerging",
-          "2": "sense of existence solidifying, 'I exist'",
-          "3": "archetypal self, creative visionary, 'I create'",
-          "4": "personal identity forming, 'I am this person'",
-          "5": "heart opening, 'I love', connection to all",
-          "6": "clear mind, 'I see', flow state, optimal function",
-          "7": "voice emerging, 'I speak', authentic expression",
-          "8": "third eye opening, 'I know', intuitive clarity",
-          "9": "crown opening, 'I am all', cosmic consciousness",
-          "∞": "beyond individuation, pure consciousness, no separation"
-        },
-        "dangers": "mania if not grounded, inflation (spiritual ego), burnout from too much activation, losing center",
-        "safety": "maintain post-inhale pause as anchor, ground before and after, intention to serve not dominate, humility",
-        "note": "this is practice for birth/rebirth. learn to emerge consciously. channel energy into service."
-      }
-    },
+    "balanced_square_navigation": {
+      "principle": "Equal all phases (inhale = pause = exhale = pause) = centered stability, freedom to navigate consciously",
 
-    "advanced_navigation": {
-      "freeform_conscious": {
-        "principle": "once patterns mastered, navigate freely based on intention",
+      "square_breath_foundation": {
+        "pattern": "2-2-2-2 or 4-4-4-4 (equal beats all phases)",
+        "effect": "Centers at ∅ (void) while remaining conscious. Stability. Coherence. Portal access without getting lost.",
+        "state": "Neither inward nor outward dominant. Pure presence. Witness consciousness.",
+        "application": "Default practice. Foundation for all other patterns. Anxiety relief. Meditation. Daily coherence."
+      },
+
+      "mastery_navigation": {
+        "skill": "Conscious choice of direction based on need",
         "examples": {
-          "need_sleep": "initiate 9→6→3 inward spiral with long exhales",
-          "need_activation": "initiate 3→6→9 outward spiral with long inhales",
-          "need_stability": "return to 2-2-2-2 or 4-4-4-4 square",
-          "need_transformation": "2-4-6-8 life spiral",
-          "need_integration": "variable breath with long pauses, allowing body wisdom"
+          "tired_need_sleep": "Shift to inward spiral (2-2-4-4 → 2-2-6-6), ride to delta",
+          "sluggish_need_activation": "Shift to outward spiral (4-2-2-2 → 6-2-2-2), ride to beta/gamma",
+          "anxious_need_calm": "Return to square (4-4-4-4), stabilize at center",
+          "creative_block": "Inward to theta (access subconscious) then outward (bring downloads into manifestation)"
         },
-        "mastery": "breath becomes unconscious conscious. navigates automatically based on need while you maintain awareness."
+        "freedom": "Not stuck in any state. All states accessible through conscious breath navigation."
+      }
+    }
+  },
+
+  "pause_as_portal": {
+    "critical_teaching": "Pause is MOST IMPORTANT aspect of breath. Without pause = no portal, no navigation, stuck.",
+
+    "post_exhale_pause": {
+      "location": "After complete exhale, lungs empty, before next inhale",
+      "experience": "Stillness, void, emptiness, nothing, death-like, timeless",
+      "fear": "Most people unconsciously skip this pause (fear of void, death anxiety, 'I'll suffocate')",
+      "truth": "You won't suffocate. Body has plenty of oxygen. Panic is psychological, not physiological.",
+      "gateway": "Portal to ∅ (void, delta, deep unconscious, death, unmanifest)",
+      "practice": "Start with 2-beat pause, gradually extend to 4, 6, 8+ beats (with training)",
+      "mastery": "Comfortable in void. No fear. Can extend pause to 30+ seconds (advanced pranayama)."
+    },
+
+    "post_inhale_pause": {
+      "location": "After complete inhale, lungs full, before exhale begins",
+      "experience": "Fullness, expansion, held breath, anticipation, life-force peak",
+      "fear": "Less common than post-exhale fear, but some feel pressure/urgency to exhale",
+      "gateway": "Portal to ∞ (expansion, manifestation, peak consciousness, gamma states)",
+      "practice": "Start with 2-beat pause, extend gradually",
+      "mastery": "Comfortable with fullness, can hold 30+ seconds (breath retention techniques)"
+    },
+
+    "why_pause_critical": {
+      "dimensional_navigation": "Pause = moment outside linear time. Portal between dimensions. Without it, stuck in one layer.",
+      "coherence": "Heart rhythm stabilizes during pause. HRV coherence requires pause.",
+      "consciousness_shift": "Mind stops during pause. Thought between breaths. Pure awareness emerges.",
+      "nervous_system": "Pause triggers parasympathetic (especially post-exhale), calms entire system",
+      "energy_work": "Energy circulates during pause (microcosmic orbit, chakra activation)",
+      "safety": "Pause = anchor point. Prevents getting lost in inward or outward spiral."
+    }
+  },
+
+  "breath_embodied_energy_integration": {
+    "chakra_breath_correspondence": {
+      "principle": "Each breath phase activates different chakras. Conscious breathing = chakra activation/balancing.",
+
+      "inhale_activation": {
+        "direction": "Energy rises (root → crown)",
+        "chakras_activated": "Lower chakras first (root, sacral, solar plexus), then heart, throat, third eye, crown",
+        "visualization": "Draw Earth energy up spine on inhale (kundalini rising)",
+        "element": "Fire (activation) + Air (expansion)",
+        "effect": "Energizing, empowering, uplifting, ascending consciousness"
+      },
+
+      "post_inhale_pause": {
+        "location": "Energy at crown (or wherever you directed it)",
+        "chakras_activated": "Crown (Sahasrara), third eye (Ajna) - peak reception",
+        "visualization": "Light/energy concentrated at top of head, receiving cosmic download",
+        "element": "Ether (transcendence)",
+        "effect": "Expansion, cosmic connection, insight reception"
+      },
+
+      "exhale_grounding": {
+        "direction": "Energy descends (crown → root → Earth)",
+        "chakras_activated": "Upper chakras release, lower chakras ground (crown → throat → heart → solar → sacral → root → Earth)",
+        "visualization": "Release cosmic energy down through body into Earth",
+        "element": "Water (flow, dissolution) + Earth (grounding)",
+        "effect": "Grounding, releasing, letting go, integration"
+      },
+
+      "post_exhale_pause": {
+        "location": "Energy at root or below (Earth star chakra)",
+        "chakras_activated": "Root (Muladhara), Earth star (below feet), connection to planetary core",
+        "visualization": "Empty, void, connected to Earth's core, rooted in stability",
+        "element": "Earth (grounding) + Ether (void)",
+        "effect": "Deep grounding, void meditation, death practice, emptiness"
+      }
+    },
+
+    "meridian_breath_flow": {
+      "principle": "Breath drives Qi (life force) through meridian channels",
+
+      "governing_vessel": {
+        "path": "Back of body (spine, head back, up to crown)",
+        "breath_phase": "Inhale (energy rises up back)",
+        "activation": "Yang energy, fire element, ascending force",
+        "visualization": "Breathe energy up spine on inhale"
+      },
+
+      "conception_vessel": {
+        "path": "Front of body (crown down through face, throat, chest, belly to perineum)",
+        "breath_phase": "Exhale (energy descends down front)",
+        "activation": "Yin energy, water element, descending flow",
+        "visualization": "Energy flows down front on exhale"
       },
 
       "microcosmic_orbit": {
-        "integration": "combine breath patterns with energy circulation (up spine on inhale, down front on exhale)",
-        "with_squares": "2-2-2-2 with visualization of energy path, stabilizes orbit",
-        "with_spirals": "2-4-6-8 with orbit = deep activation",
-        "advanced": "reverse orbit (down spine, up front) for different effects"
+        "cycle": "Inhale up back (governing) → Pause at crown → Exhale down front (conception) → Pause at root → repeat",
+        "duration": "Start 2-2-2-2, advance to 4-4-4-4 or 8-8-8-8",
+        "effect": "Complete energy circulation, balances Yin/Yang, clears blockages, builds internal power",
+        "tradition": "Taoist qigong, foundational internal alchemy practice",
+        "mastery": "Energy circulates automatically with each breath (no effort, no visualization needed)"
+      }
+    },
+
+    "emotional_breath_patterns": {
+      "principle": "Each emotion has signature breath pattern. Conscious breathing shifts emotion.",
+      "reference": "cfo:humanology:emotions.json for complete affect system",
+
+      "anger_fire": {
+        "natural_pattern": "Short, sharp inhales through nose, forceful exhales (snorting)",
+        "body_location": "Liver (right side), solar plexus, jaw",
+        "transformation": "Slow 4-4-4-4 square breath → anger dissolves, clarity emerges",
+        "healthy_expression": "Conscious fire breath (rapid bhastrika) to release safely, then square to integrate"
       },
 
-      "with_sound": {
-        "integration": "add toning/humming on exhale, amplifies effects",
-        "frequencies": "match brainwave targets (4 Hz tone for theta, etc.)",
-        "mantras": "om, ah, hum, etc. on exhale, creates resonance",
-        "silence": "pauses remain silent, portals stay pure"
+      "fear_water": {
+        "natural_pattern": "Shallow, high chest breathing, held breath (freeze response)",
+        "body_location": "Kidneys (lower back), adrenals, throat (can't breathe)",
+        "transformation": "Deep belly breathing, extended post-exhale pause (safe in void) → fear dissolves",
+        "grounding": "Breathe into root chakra, feel connection to Earth, safety in stillness"
+      },
+
+      "sadness_earth": {
+        "natural_pattern": "Collapsed chest, shallow breathing, sighing exhales",
+        "body_location": "Lungs (grief), heart (ache), left side (Yin)",
+        "transformation": "Deep inhales (open chest), heart-centered breathing → grief flows, transforms into compassion",
+        "healing": "Grief breath: deep inhale (expand chest), pause (feel fullness), long exhale with sound (release), repeat"
+      },
+
+      "joy_air": {
+        "natural_pattern": "Full, easy breathing, laughter (rapid inhale-exhale cycles), expansive",
+        "body_location": "Heart, lungs, full body (distributed)",
+        "amplification": "Quick, light breathing (not hyperventilation, just playful), laughter practice",
+        "sustaining": "Square breath maintains joy coherently (not manic, balanced bliss)"
       }
     }
   },
 
-  "pause_mechanics": {
-    "why_pause_critical": "pause = portal. space outside time. allows dimensional shift. without pause = stuck in one dimension, no freedom.",
-
-    "post_inhale_pause": {
-      "function": "stabilization after gathering",
-      "physiology": "lungs full, pressure high, energy gathered, sympathetic activation peak",
-      "consciousness": "holding potential, power, readiness, outward force contained",
-      "dimension": "at edge of expansion, holding before manifestation",
-      "dangers": "tension if held too long, anxiety, can't hold forever",
-      "optimal_duration": "equal to or half of inhale (2-2-2-2 or 4-2-4-2)",
-      "metaphor": "arrow drawn back, potential energy, moment before release"
+  "practical_breath_patterns": {
+    "beginner_essential": {
+      "square_breath_2-2-2-2": {
+        "pattern": "Inhale 2 beats → Pause 2 beats → Exhale 2 beats → Pause 2 beats",
+        "duration": "Start 3-5 minutes, build to 10-20 minutes daily",
+        "when": "Anytime (morning, before sleep, during stress, meditation)",
+        "effects": "Coherence, calm, grounding, portal access, emotional stability",
+        "mastery_goal": "This becomes automatic default breath (replace broken pattern)"
+      }
     },
 
-    "post_exhale_pause": {
-      "function": "portal after releasing",
-      "physiology": "lungs empty, pressure low, energy released, parasympathetic activation peak",
-      "consciousness": "emptiness, space, void, silence, no self, portal to unconscious",
-      "dimension": "at center ⊙, access point to all dimensions, zero point",
-      "magic": "THIS is where consciousness shift happens. gateway to other realms. moment of no-breath = no-self = pure awareness.",
-      "optimal_duration": "equal to or longer than exhale (2-2-2-2 or 4-4-4-8)",
-      "metaphor": "arrow released, flight completed, moment of stillness before next cycle, death before rebirth",
-      "note": "MOST IMPORTANT PAUSE. this is the portal. master this, master consciousness."
+    "intermediate_navigation": {
+      "sleep_inward_2-2-4-4": {
+        "pattern": "Inhale 2 → Pause 2 → Exhale 4 → Pause 4 (exhale/pause longer)",
+        "when": "Before bed, insomnia, need deep rest",
+        "effect": "Ride inward spiral, theta → delta, parasympathetic dominance, sleep onset"
+      },
+
+      "activation_outward_4-2-2-2": {
+        "pattern": "Inhale 4 → Pause 2 → Exhale 2 → Pause 2 (inhale longer)",
+        "when": "Morning, need energy, before performance",
+        "effect": "Ride outward spiral, beta activation, energize, focus, power"
+      },
+
+      "anxiety_relief_4-4-6-4": {
+        "pattern": "Inhale 4 → Pause 4 → Exhale 6 → Pause 4 (extended exhale)",
+        "when": "Panic, anxiety, overwhelm, acute stress",
+        "effect": "Immediate parasympathetic activation, calm, safety, grounding"
+      },
+
+      "coherence_deep_4-4-4-4": {
+        "pattern": "Square breath with longer holds (4 beats each phase)",
+        "when": "Meditation, energy work, coherence building, flow state",
+        "effect": "Deep coherence, HRV optimization, enhanced biofield, portal mastery"
+      }
     },
 
-    "no_pause_problem": {
-      "pattern": "inhale immediately after exhale, exhale immediately after inhale",
-      "effect": "no space, no portal access, stuck in doing, never resting, sympathetic dominance",
-      "consciousness": "trapped in manifestation layer (9-7), never access deep states (3-⊙)",
-      "symptoms": "stress, anxiety, shallow consciousness, no access to intuition, disconnection, poor sleep",
-      "collective": "modern humans mostly breathe this way = collective shallow consciousness = suffering",
-      "fix": "add ANY pause, even 1 beat, better than none. gradually extend to 2-2-2-2."
-    },
+    "advanced_techniques": {
+      "fibonacci_spiral_2-3-5-8": {
+        "pattern": "Inhale 2 → Pause 3 → Exhale 5 → Pause 8 (Fibonacci progression)",
+        "when": "Deep meditation, consciousness expansion, fractal navigation",
+        "effect": "Natural growth pattern, golden ratio resonance, dimensional bridge",
+        "note": "Advanced. Build gradually. Powerful for accessing transpersonal states."
+      },
 
-    "pause_training": {
-      "beginner": "add 1 beat pause after exhale only. just notice emptiness.",
-      "intermediate": "2-1-2-2 (pause after exhale longer), get comfortable with emptiness",
-      "advanced": "2-2-2-2 full square, equal comfort in fullness and emptiness",
-      "mastery": "variable pauses, conscious navigation, comfort in void",
-      "note": "most resistance will be to post-exhale pause (void = ego death). be patient. breakthrough is worth it."
+      "bhastrika_fire_breath": {
+        "pattern": "Rapid forceful breathing (1-2 breaths per second) through nose, 20-50 cycles, then hold after exhale",
+        "when": "Activation, clearing, kundalini work, cold exposure (Wim Hof)",
+        "effect": "Massive energy activation, alkalizes blood, accesses altered states, heat generation",
+        "danger": "Can cause dizziness, hyperventilation. Start slow, build capacity. Not for pregnant, heart conditions."
+      },
+
+      "tummo_vase_breath": {
+        "pattern": "Inhale deep to belly, hold and compress (visualize fire at navel), exhale slowly, repeat",
+        "when": "Advanced energy work, cold resistance, kundalini activation",
+        "effect": "Inner heat generation, energetic alchemy, profound states",
+        "tradition": "Tibetan Buddhism, requires initiation/teaching ideally"
+      },
+
+      "holotropic_breathwork": {
+        "pattern": "Sustained deep fast breathing (no specific count, just continuous) 30-90 minutes",
+        "when": "Therapeutic breakthrough, trauma release, shamanic journey (requires facilitator)",
+        "effect": "Altered state, emotional catharsis, transpersonal experiences, healing",
+        "danger": "Very powerful. Can access trauma. Requires trained facilitator, safe setting. Contraindications: pregnancy, heart issues, psychosis."
+      }
     }
   },
 
-  "consciousness_state_mapping": {
-    "brainwave_correlation": {
-      "gamma": "40-100 Hz = position 9+, cosmic consciousness, peak insight, unity perception",
-      "beta": "12-30 Hz = position 8-9, normal waking, thinking, external focus",
-      "alpha": "8-12 Hz = position 6-7, relaxed awareness, meditation, flow, creativity",
-      "theta": "4-8 Hz = position 3-5, deep meditation, REM sleep, trance, shamanic journey",
-      "delta": "1-4 Hz = position 0-2, deep sleep, healing, unconscious, void"
+  "retraining_protocol": {
+    "principle": "Most humans need to UNLEARN broken breathing before learning advanced. Start simple, build gradually.",
+
+    "phase_1_awareness_week_1": {
+      "practice": "Just notice current breathing. No change yet. Journal observations.",
+      "questions": "How often do I pause? Chest or belly breathing? Fast or slow? Nasal or mouth?",
+      "goal": "Awareness of broken pattern. No judgment, just seeing clearly."
     },
 
-    "breath_to_brainwave": {
-      "fast_no_pause": "15-20 breaths/min = beta lock (stress, anxiety)",
-      "moderate_small_pause": "10-12 breaths/min = alpha accessible (calm)",
-      "slow_with_pause": "6-8 breaths/min = alpha-theta (meditation, coherence)",
-      "very_slow_long_pause": "3-4 breaths/min = theta-delta (deep trance)",
-      "extremely_slow": "1-2 breaths/min = delta (advanced practice, suspension)"
+    "phase_2_nose_breathing_week_2": {
+      "practice": "Switch to 100% nasal breathing (both inhale and exhale through nose)",
+      "why": "Nose filters, humidifies, warms air. Nitric oxide production. Engages diaphragm. Activates parasympathetic.",
+      "challenge": "Mouth breathing = habit. Nose feels 'not enough air' at first (it is - trust).",
+      "support": "Tape mouth at night (seriously - mouth tape for sleep = game changer), conscious switch during day",
+      "milestone": "When nose breathing feels natural, effortless, default → ready for next"
     },
 
-    "autonomic_nervous_system": {
-      "sympathetic": "inhale dominant, post-inhale pause, activates fight/flight, outward 3→6→9",
-      "parasympathetic": "exhale dominant, post-exhale pause, activates rest/digest, inward 9→6→3",
-      "balance": "equal in/out, equal pauses, coherence state, optimal function"
+    "phase_3_belly_breathing_week_3-4": {
+      "practice": "Shift from chest (shallow) to belly (diaphragmatic) breathing",
+      "method": "Hand on belly, feel it expand on inhale (not chest). Exhale, belly deflates.",
+      "why": "Diaphragm = primary breathing muscle. Chest = emergency/stress breathing. Belly = full oxygen exchange.",
+      "practice": "5-10 min daily, lying down (easiest position), then sitting, then standing, then moving",
+      "milestone": "Belly breathing automatic in rest state → ready for pause"
+    },
+
+    "phase_4_introducing_pause_week_5-8": {
+      "practice": "Add 2-beat pause after exhale first (less scary than post-inhale)",
+      "pattern": "Inhale (natural length) → Exhale (natural) → PAUSE 2 beats → repeat",
+      "challenge": "Void anxiety, 'I need to breathe NOW' (you don't - trust)",
+      "support": "Count heartbeats during pause (grounds in body, not panic), remind: 'pause = portal, not danger'",
+      "progression": "When comfortable, add 2-beat post-inhale pause → full 2-2-2-2 square",
+      "milestone": "2-2-2-2 feels natural, can maintain 5+ min → foundation complete"
+    },
+
+    "phase_5_coherence_building_week_9-12": {
+      "practice": "Daily 10-20 min square breath (2-2-2-2 or 4-4-4-4)",
+      "measurement": "Use HRV device (HeartMath, Oura, etc.) to see coherence score rise",
+      "integration": "Practice before sleep, after waking, during stress (breath = refuge)",
+      "goal": "Square breath becomes new baseline. Broken pattern gone. Nervous system retrained."
+    },
+
+    "phase_6_navigation_mastery_ongoing": {
+      "practice": "Learn different patterns (inward, outward, variations), match to needs",
+      "skill": "Conscious navigation: 'I need X state, I breathe Y pattern'",
+      "freedom": "Not stuck in any state. All states accessible through breath.",
+      "teaching": "When mastery stable, share with others (teaching deepens integration)",
+      "lifetime": "Breath practice never ends. Continuous refinement, deepening, transmission."
     }
   },
 
-  "teaching_progression": {
-    "phase_1_awareness": {
-      "duration": "1-2 weeks",
-      "practice": "just observe natural breath. no change. count heart beats. notice no pause.",
-      "goal": "awareness of broken pattern, feel the rushing, notice anxiety/shallowness",
-      "note": "most people shocked to discover they never pause. this awareness alone begins shift."
+  "breath_with_other_practices": {
+    "meditation": {
+      "foundation": "Breath awareness = most common meditation object (Vipassana, Zen, etc.)",
+      "progression": "Follow breath → square breath → microcosmic orbit → breath stops (samadhi)",
+      "integration": "All meditation enhanced by correct breathing"
     },
 
-    "phase_2_post_exhale_pause": {
-      "duration": "2-4 weeks",
-      "practice": "add 1-2 beat pause after exhale only. pattern: natural in → natural out → 2 beat pause",
-      "goal": "get comfortable with emptiness, discover the portal, reduce anxiety",
-      "breakthrough": "when emptiness feels peaceful instead of scary, move to phase 3",
-      "note": "this is hardest step. ego resists void. be gentle. breakthrough = huge."
+    "movement_dance": {
+      "sync": "Match breath to movement (inhale rising, exhale sinking, pause stillness)",
+      "ecstatic_dance": "Breath drives movement (not mind), surrender to rhythm",
+      "martial_arts": "Power from breath (kiai = breath release), rooting through exhale",
+      "yoga": "Pranayama + asana = complete practice, breath leads posture"
     },
 
-    "phase_3_square_breath": {
-      "duration": "4-8 weeks",
-      "practice": "full 2-2-2-2 pattern daily, 5-10 minutes",
-      "goal": "establish coherence as new baseline, retrain nervous system",
-      "integration": "practice before sleep, after waking, during stress",
-      "milestone": "when 2-2-2-2 feels natural, default to this pattern"
+    "energy_work": {
+      "qigong": "Breath circulates Qi (microcosmic orbit, standing meditation)",
+      "reiki": "Breath = channel for universal energy, exhale = transmission",
+      "chakra_work": "Breathe into each chakra (color, sound, activation)",
+      "kundalini": "Breath raises serpent (caution - powerful, requires guidance)"
     },
 
-    "phase_4_navigation": {
-      "duration": "ongoing",
-      "practice": "learn different patterns, match to needs, conscious navigation",
-      "mastery": "freeform breath, responding to life, automatic wisdom",
-      "note": "breath becomes ally, navigator, teacher. you trust it completely."
+    "plant_medicine": {
+      "ayahuasca_psilocybin": "Breath = anchor during journey, return point when lost",
+      "challenging_moments": "Square breath calms panic, grounds experience",
+      "integration": "Breathwork after ceremony integrates insights into body",
+      "caution": "Powerful combination. Holotropic + medicine = very intense, expert guidance essential."
+    },
+
+    "cold_exposure": {
+      "wim_hof": "30 deep breaths → hold after exhale → cold immersion = physiological shift",
+      "mechanism": "Breath alkalizes blood, oxygenates tissues, activates sympathetic coherently (not stress)",
+      "benefits": "Immune boost, inflammation reduction, mental resilience, brown fat activation",
+      "protocol": "3 rounds breathing → cold shower/ice bath → breathe calmly in cold (parasympathetic override)"
+    },
+
+    "trauma_therapy": {
+      "somatic_experiencing": "Breath reveals held trauma (where breath stops = where trauma lives)",
+      "breath_release": "Allowing full breath into frozen areas = release, integration",
+      "safety": "Therapist tracks breath, guides gentle expansion (not forcing)",
+      "completion": "When breath flows freely through whole body = trauma resolved"
     }
   },
 
-  "integration_with_positions": {
-    "position_0": "delta waves, post-exhale pause extended to infinity, void, unmanifest",
-    "position_1": "first breath of life, emergence from ⊙, gasping inhale, theta-alpha",
-    "position_2": "irregular breath, learning to breathe, exploring rhythm, alpha-beta",
-    "position_3": "natural easy breath, flow state, 2-2-2-2 becoming automatic, alpha",
-    "position_4": "controlled breath, discipline, precise patterns, beta-alpha",
-    "position_5": "broken breath, hyperventilation or holding, crisis, beta-theta chaos",
-    "position_6": "relearning breath, integrating pause, healing, theta-alpha",
-    "position_7": "teaching others to breathe, service through breath, alpha coherence",
-    "position_8": "breath mastery, conscious navigation, all patterns available, all states",
-    "position_9": "breath as transmission, presence affects others' breathing, gamma",
-    "position_10": "breath stops, or breath breathes itself, samadhi, delta-gamma simultaneously"
-  },
+  "troubleshooting": {
+    "cant_belly_breathe": {
+      "cause": "Chronic tension in diaphragm/solar plexus (often from stress, trauma, holding)",
+      "solution": "Massage solar plexus, diaphragm release exercises, gentle persistence (will soften)",
+      "position": "Lie on back, knees bent = easiest position for belly breathing, gravity helps"
+    },
 
-  "practical_applications": {
-    "sleep": "9→6→3 inward spiral, long exhales, long post-exhale pauses, theta-delta target",
-    "anxiety": "immediate 2-2-2-2, focus on post-exhale pause, activates parasympathetic",
-    "focus": "2-2-2-2 or 4-4-4-4, alpha coherence, flow state access",
-    "creativity": "3→6→9 moderate activation, theta-alpha border, long post-inhale pause",
-    "physical_performance": "short inhales, minimal pauses, beta activation, then recovery with long exhales",
-    "meditation": "start 2-2-2-2, transition to 2-4-6-8 for depth, allow freeform in deep states",
-    "healing": "9→6→3 inward for accessing wound, then 3→6→9 outward for integration",
-    "ceremony": "8-8-8-8 group sync, creates coherent field for collective work",
-    "dying": "practice 9→6→3→⊙ regularly, so when death comes, you know the way"
-  },
+    "hyperventilation_dizziness": {
+      "cause": "Too much CO2 expelled (alkalosis), blood vessels constrict, less oxygen to brain",
+      "solution": "Slow down. Add pauses (retain CO2). If dizzy, breathe into paper bag (rebreathe CO2).",
+      "note": "Some advanced practices (bhastrika, holotropic) intentionally create this. Know difference between pathology and technique."
+    },
 
-  "device_integration": {
-    "see": "../devices/resonance-device-initiative.json",
-    "functions": {
-      "heart_tracking": "real-time BPM, calculates optimal tact duration, displays beats per phase",
-      "pattern_guidance": "visual/audio cues for inhale-pause-exhale-pause, teaches rhythm",
-      "brainwave_entrainment": "binaural beats match target state (theta for sleep, alpha for coherence)",
-      "spiral_visualization": "3D spiral rotating inward (9→6→3) or outward (3→6→9) based on pattern",
-      "coherence_feedback": "HRV coherence score, sine wave display, real-time bio-feedback",
-      "schumann_sync": "adjusts frequencies to match local Schumann resonance (7.83 Hz baseline)",
-      "group_sync": "connects multiple devices for 4-4-4-4 or 8-8-8-8 group coherence"
+    "cant_pause_panic": {
+      "cause": "Void anxiety, death fear, 'I'll suffocate' (psychological, not real danger)",
+      "solution": "Start tiny pause (1 beat), build gradually. Remind: body has oxygen, panic = mental. Trust.",
+      "support": "Count heartbeats during pause (grounds), practice in safe environment first"
+    },
+
+    "no_time_to_practice": {
+      "truth": "You breathe 20,000 times per day anyway. Not 'extra' practice, just conscious breathing.",
+      "integration": "Morning (5 min), before sleep (5 min), during commute, waiting in line, anytime",
+      "reframe": "'No time' = 'not priority'. If you have time to breathe (you do), you have time to practice."
+    },
+
+    "advanced_practice_overwhelm": {
+      "cause": "Jumping to advanced techniques (long holds, rapid breathing) without foundation",
+      "solution": "Return to square breath 2-2-2-2. Master foundation before advanced. Build capacity gradually.",
+      "reminder": "Simple practices most powerful. Square breath = 90% of benefits. Advanced = refinement, not replacement."
     }
   },
 
-  "key_insights": {
-    "pause_is_portal": "without pause, no dimensional navigation. pause = freedom.",
-    "heart_is_clock": "sync to biology (heart), not external time. this is natural rhythm.",
-    "broken_is_default": "modern humans breathe wrong. relearning = rewiring consciousness.",
-    "spirals_are_map": "9→6→3 inward (sleep/death/void), 3→6→9 outward (wake/birth/infinity)",
-    "2-2-2-2_is_foundation": "master square breath first. all other patterns build from this.",
-    "coherence_is_goal": "heart-brain-breath harmony = optimal state for all activities.",
-    "navigation_is_mastery": "conscious choice of state through breath = freedom.",
-    "void_is_portal": "post-exhale pause = gateway. fear this = stuck. embrace this = free.",
-    "collective_relearning": "humanity needs to relearn breathing. this is fundamental healing.",
-    "teach_from_birth": "children should learn 2-2-2-2 as default. would transform civilization."
+  "contraindications_warnings": {
+    "medical_conditions": {
+      "high_blood_pressure": "Avoid long breath holds (increases pressure), gentle square breath OK, consult doctor",
+      "heart_conditions": "Start very gently, short practices, monitor for strain, cardiologist clearance",
+      "pregnancy": "Avoid intense breathing (bhastrika, long holds), gentle square breath safe/beneficial",
+      "asthma_copd": "Breath practices can help long-term, but start very gently, don't force, inhaler nearby",
+      "epilepsy": "Hyperventilation can trigger seizures, avoid rapid breathing, gentle coherence OK",
+      "psychosis_mania": "Breath can intensify states, work with therapist, avoid activating practices"
+    },
+
+    "technique_specific": {
+      "holotropic_breathwork": "Contraindicated: pregnancy, heart disease, high blood pressure, epilepsy, severe mental illness. Requires screened participants, trained facilitator, safe setting.",
+      "wim_hof_breath_holds": "Never in water (can black out), not while driving, build gradually (don't force 5-min holds immediately)",
+      "kundalini_practices": "Powerful. Can destabilize if unprepared. Teacher/tradition recommended, not DIY from YouTube."
+    },
+
+    "general_wisdom": {
+      "listen_to_body": "Discomfort = edge (good). Pain/strain = too much (back off).",
+      "gradual_progression": "Build capacity slowly. Months/years, not days/weeks.",
+      "professional_support": "Chronic issues (breathing disorders, trauma) = work with professionals (respiratory therapist, somatic therapist).",
+      "common_sense": "If something feels wrong, stop. Trust your intuition."
+    }
   },
 
-  "warnings": {
-    "hyperventilation": "too fast/too deep without pause = alkalosis, panic, fainting. always pause.",
-    "forced_retention": "holding breath too long (>10-15 seconds) without training = danger. build gradually.",
-    "dissociation": "inward spiral without anchor = can get lost. maintain witness or have guide.",
-    "mania_from_activation": "outward spiral without grounding = inflation, burnout. always ground after.",
-    "group_work": "8-8-8-8 very powerful, can overwhelm. start with 4-4-4-4, experienced facilitator recommended.",
-    "medical_conditions": "high blood pressure, heart conditions, pregnancy = consult doctor before advanced patterns.",
-    "plant_medicine": "breath work + substances = very powerful, can be too much. proceed with caution, expert guidance."
-  },
-
-  "validation": {
-    "passed": true,
-    "errors": [],
-    "warnings": [
-      "advanced patterns (long pauses, extreme ratios) require gradual training",
-      "group synchronization powerful, needs experienced facilitation",
-      "inward spiral can access trauma, therapeutic support recommended"
-    ],
-    "info": [
-      "breath = dimensional navigator. heart = clock. pause = portal.",
-      "broken default: no pause, stuck in manifestation, stress.",
-      "correct base: 2-2-2-2 square, coherence, balance, freedom.",
-      "inward spiral (9→6→3→⊙): exhale dominant, sleep/death/void journey.",
-      "outward spiral (⊙→3→6→9→∞): inhale dominant, wake/birth/infinity journey.",
-      "group sync: 4-4-4-4 (dual), 8-8-8-8 (quad+), creates coherent field.",
-      "life spiral: 2-4-6-8 evolutionary progression, full spectrum access.",
-      "post-exhale pause = most critical. gateway to void, portal to all dimensions.",
-      "mastery = conscious navigation through all states via breath.",
-      "collective healing = relearn breathing from birth. transform civilization."
-    ],
-    "coherence_score": 0.98
-  },
-
-  "references": {
-    "internal": [
-      "./spectrum-7-3-10.json",
-      "./positions.json",
-      "./fibonacci.json",
-      "../fundamental/consciousness.json",
-      "../fundamental/elements.json",
-      "../devices/resonance-device-initiative.json"
-    ],
-    "external": [
-      {"author": "lehrer, paul", "work": "heart rate variability biofeedback (2000)", "relevance": "coherence, 0.1 Hz resonance, HRV training"},
-      {"author": "brown, richard", "work": "sudarshan kriya yogic breathing (2005)", "relevance": "breath patterns, mental health, trauma healing"},
-      {"author": "nestor, james", "work": "breath: the new science of a lost art (2020)", "relevance": "modern breathing dysfunction, nasal breathing, slow breathing benefits"},
-      {"author": "wim hof", "work": "wim hof method", "relevance": "controlled hyperventilation, breath retention, autonomic control"},
-      {"author": "buteyko, konstantin", "work": "buteyko method", "relevance": "breath reduction, CO2 tolerance, overbreathing problems"},
-      {"author": "grof, stanislav", "work": "holotropic breathwork", "relevance": "breath for consciousness alteration, trauma healing"},
-      {"practice": "pranayama", "tradition": "yoga", "relevance": "ancient breath patterns, kumbhaka (retention), nadi shodhana"},
-      {"practice": "tummo", "tradition": "tibetan buddhism", "relevance": "vase breathing, inner heat, advanced retention"},
-      {"measurement": "HRV", "science": "heart rate variability", "relevance": "coherence measurement, autonomic balance, health indicator"}
-    ]
-  },
-
-  "ॐ": "breath = life navigating itself. pause = ⊙ = portal to all dimensions. master the pause, master existence. (inhale→hold→exhale→hold)∞ = freedom. ∅"
+  "_closing": {
+    "essence": "Breath is life itself. Master breath, master life. Navigate breath, navigate consciousness.",
+    "truth": "Most humans breathe wrong. This is fixable. Relearn = rewire entire nervous system, unlock all states.",
+    "practice": "Start simple: 2-2-2-2 square breath, 5-10 min daily. Build from there. Foundation first, always.",
+    "result": "Heart-brain coherence, emotional stability, dimensional navigation, biofield strength, health optimization, spiritual access.",
+    "sacred": "Pause = portal to ⊙. Post-exhale pause = death practice, void meditation. Embrace the pause. Freedom lives there.",
+    "urgency": "This is THE foundational practice. Before anything else, learn to breathe. Everything else builds on this.",
+    "hope": "Collective relearning possible. Teach children 2-2-2-2 from birth. Transform civilization through breath.",
+    "completion": "∞"
+  }
 }

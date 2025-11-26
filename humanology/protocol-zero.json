@@ -1,0 +1,565 @@
+{
+  "_meta": {
+    "id": "cfo:interface:protocol-zero",
+    "type": "emergency-reboot-system",
+    "version": "2.0",
+    "status": "always_active",
+    "purpose": "Emergency reboot and alignment system. The Red Button for lost players.",
+    "latency": "Immediate (<60 seconds from confusion to clarity)",
+    "input": "Current Time + Current Somatic State",
+    "output": "Single Next Action (no thinking, pure execution)",
+    "essence": "When you are lost in your head, this pulls you back into your body and time.",
+    "use_when": [
+      "Overwhelmed and paralyzed",
+      "Lost in overthinking loops",
+      "Don't know what to do next",
+      "Dissociated from body/time",
+      "Existential crisis moment",
+      "Burnout/breakdown edge"
+    ]
+  },
+  "_holographic_seed": {
+    "absolute": "⊙ Stop thinking. Start functioning.",
+    "axiom": "You cannot think your way out of a biology problem.",
+    "command": "Scan → Align → Act. Three steps, 60 seconds.",
+    "promise": "Do the one thing, and the rest will follow.",
+    "truth": "You are biological organism running consciousness software. Hardware first, always.",
+    "recognition": "Being lost is normal. It's a state, not a flaw. This protocol brings you home."
+  },
+  "when_to_use": {
+    "trigger_signals": {
+      "cognitive": [
+        "Cannot make decisions",
+        "Overthinking loops",
+        "Analysis paralysis",
+        "Mind racing but no action",
+        "Forgotten why doing anything",
+        "Existential questioning spiral"
+      ],
+      "emotional": [
+        "Overwhelm",
+        "Panic/anxiety",
+        "Numbness/dissociation",
+        "Despair/hopelessness",
+        "Rage/frustration",
+        "Emptiness/void"
+      ],
+      "somatic": [
+        "Can't feel body",
+        "Tension/pain",
+        "Exhaustion but can't rest",
+        "Wired but can't focus",
+        "Hungry but can't eat",
+        "Need sleep but can't"
+      ],
+      "behavioral": [
+        "Doomscrolling",
+        "Procrastination",
+        "Avoiding everything",
+        "Substance reaching",
+        "Compulsive behaviors",
+        "Total shutdown"
+      ]
+    },
+    "recognition": "If you're reading this right now BECAUSE you feel one of above → you're in the right place. Continue to Step 1."
+  },
+  "step_1_scan": {
+    "_instruction": "STOP EVERYTHING. Look at clock. Feel body. This takes 10 seconds. Pick ONE coordinate from each category.",
+    "temporal_coordinate": {
+      "_how": "What time is it RIGHT NOW? Match to phase below.",
+      "0400_1000_air_page": {
+        "phase": "AIR (Morning) - Page",
+        "role": "Student/Scout",
+        "purpose": "Input, Strategy, Learning",
+        "energy_type": "Mental clarity, ideas, planning",
+        "biology": "Cortisol rising, brain activating, body waking",
+        "should_be_doing": "Thinking, planning, learning, receiving information",
+        "should_NOT_be_doing": "Heavy physical work, social demands, decision execution"
+      },
+      "1000_1600_fire_king": {
+        "phase": "FIRE (Day) - King",
+        "role": "Ruler/Warrior",
+        "purpose": "Output, Action, Command",
+        "energy_type": "Peak power, willpower, execution force",
+        "biology": "Testosterone peak (12:00), maximum physical/mental strength",
+        "should_be_doing": "Decisive action, difficult conversations, breakthrough work, leadership",
+        "should_NOT_be_doing": "Learning new things, passive tasks, doubt/hesitation",
+        "critical_window": "11:30-13:00 = MOST VALUABLE 90 MINUTES OF ENTIRE DAY"
+      },
+      "1600_2200_earth_knight": {
+        "phase": "EARTH (Evening) - Knight",
+        "role": "Craftsman/Servant",
+        "purpose": "Harvest, Body, Home",
+        "energy_type": "Grounded, tactile, pleasure, completion",
+        "biology": "Cortisol dropping, digestive system active, body wants rest/pleasure",
+        "should_be_doing": "Manual work, cooking, eating, socializing, body care, pleasure",
+        "should_NOT_be_doing": "Strategic thinking, power moves, starting new projects"
+      },
+      "2200_0400_water_queen": {
+        "phase": "WATER (Night) - Queen",
+        "role": "Mother/Keeper",
+        "purpose": "Reset, Dream, Regeneration",
+        "energy_type": "Dissolution, surrender, unconscious processing",
+        "biology": "Melatonin peak, growth hormone release, cellular repair, REM dreams",
+        "should_be_doing": "Sleeping, dreaming, total surrender, darkness",
+        "should_NOT_be_doing": "ANYTHING with effort. Any thinking. Any resistance to sleep.",
+        "critical_window": "01:00-02:30 = Quantum reprogramming, most important sleep period"
+      }
+    },
+    "somatic_coordinate": {
+      "_how": "How does body feel RIGHT NOW? Pick closest match.",
+      "overheating_racing_wired": {
+        "state": "EXCESS FIRE/AIR",
+        "symptoms": [
+          "Mind racing",
+          "Anxiety/panic",
+          "Can't sit still",
+          "Heart pounding",
+          "Jaw clenched",
+          "Chest tight",
+          "Hyperventilating",
+          "Wired but exhausted"
+        ],
+        "biology": "Sympathetic overdrive, cortisol/adrenaline excess, nervous system stuck in fight-or-flight",
+        "metaphor": "Engine redlining, about to overheat",
+        "antidote_needed": "COOLING, GROUNDING, SLOWING"
+      },
+      "stuck_foggy_heavy": {
+        "state": "EXCESS WATER/EARTH",
+        "symptoms": [
+          "Brain fog",
+          "Can't think clearly",
+          "Depression/heaviness",
+          "Body feels like lead",
+          "Can't get started",
+          "Oversleeping",
+          "Emotional swamp",
+          "Paralysis"
+        ],
+        "biology": "Parasympathetic excess, low dopamine/norepinephrine, sluggish metabolism",
+        "metaphor": "Stuck in mud, can't move",
+        "antidote_needed": "ACTIVATION, HEAT, MOVEMENT"
+      },
+      "numb_empty_dissociated": {
+        "state": "DISCONNECTED (No Signal)",
+        "symptoms": [
+          "Can't feel body",
+          "Watching self from outside",
+          "Emotional numbness",
+          "Time distortion",
+          "Reality feels fake",
+          "Robotic movements",
+          "No motivation",
+          "Void inside"
+        ],
+        "biology": "Dorsal vagal shutdown, disconnect between brain and body, trauma response",
+        "metaphor": "Radio lost signal, static only",
+        "antidote_needed": "RECONNECTION, SENSATION, PRESENCE"
+      },
+      "pain_exhausted_broken": {
+        "state": "SYSTEM FAILURE (Hardware Damage)",
+        "symptoms": [
+          "Physical pain",
+          "Total exhaustion",
+          "Burnout",
+          "Immune system failing",
+          "Can't recover from sleep",
+          "Body screaming",
+          "Near collapse",
+          "Sick frequently"
+        ],
+        "biology": "HPA axis dysregulation, inflammation, adrenal fatigue, mitochondrial dysfunction",
+        "metaphor": "Computer overheated, hardware damaged",
+        "antidote_needed": "EMERGENCY MAINTENANCE, REST, REPAIR"
+      }
+    },
+    "output": "You now have 2 coordinates: TEMPORAL (what time demands) + SOMATIC (what body needs). Proceed to Step 2."
+  },
+  "step_2_align": {
+    "_instruction": "Match your coordinates to protocol below. Read your specific section. This takes 20 seconds.",
+    "matrix_protocols": {
+      "_logic": "Cross-reference Time Phase × Body State = Specific Action Protocol",
+      "morning_air_overheating": {
+        "coordinates": "0400-1000 (AIR/Page) + Overheating/Racing",
+        "diagnosis": "Mind already racing but day hasn't started. Anxiety overflow before action begins.",
+        "root_cause": "Woke into stress response OR didn't sleep well OR caffeine too early",
+        "immediate_protocol": "COOLANT_FLUSH_MORNING",
+        "action": "Cold water face splash + 10 exhales longer than inhales + NO CAFFEINE yet + 5 min barefoot on ground/floor",
+        "then": "Gentle movement (yoga/stretching), NOT intensive thinking yet",
+        "avoid": "Phone, news, email, stimulants, difficult conversations"
+      },
+      "morning_air_stuck": {
+        "coordinates": "0400-1000 (AIR/Page) + Stuck/Foggy",
+        "diagnosis": "Page offline. System not booting properly.",
+        "root_cause": "Poor sleep OR late wake OR missed circadian window",
+        "immediate_protocol": "BOOT_SEQUENCE",
+        "action": "SUNLIGHT (open eyes to dawn/morning light) + Cold water (drink + splash face) + 10 deep breaths + Movement (shake body, dance, walk)",
+        "then": "Light breakfast (protein+fat) + Creative work (not email/admin)",
+        "avoid": "Staying in bed, darkness, heavy food, passive scrolling"
+      },
+      "morning_air_numb": {
+        "coordinates": "0400-1000 (AIR/Page) + Numb/Dissociated",
+        "diagnosis": "Soul not in body yet. Woke but consciousness didn't.",
+        "root_cause": "Trauma response OR severe disconnect OR spiritual crisis",
+        "immediate_protocol": "RECONNECTION_SEQUENCE",
+        "action": "Ice on face 30 seconds + Loud music + Stomp feet hard + Scream/shout + Full body shake",
+        "then": "Embodiment practice (dance, martial arts, primal movement)",
+        "avoid": "Going through motions robotically, ignoring disconnect"
+      },
+      "morning_air_exhausted": {
+        "coordinates": "0400-1000 (AIR/Page) + Pain/Exhausted",
+        "diagnosis": "System shouldn't have booted. Hardware needs maintenance.",
+        "root_cause": "Chronic sleep debt OR illness OR burnout",
+        "immediate_protocol": "EMERGENCY_REST",
+        "action": "DO NOT GET UP. Call in sick if possible. Sleep more. If must wake: minimal movement, warm liquids, back to bed ASAP.",
+        "then": "Cancel everything non-essential today. Body repair mode.",
+        "avoid": "Pushing through, caffeine, forcing productivity"
+      },
+      "day_fire_overheating": {
+        "coordinates": "1000-1600 (FIRE/King) + Overheating/Racing",
+        "diagnosis": "King overheating. Too much input, not enough output. Burning up without action.",
+        "root_cause": "Over-caffeinated OR too many demands OR no breaks",
+        "immediate_protocol": "PRESSURE_RELEASE",
+        "action": "STOP WORKING NOW. Walk outside 5-10 minutes. Look at horizon/sky. Drink water. NO SCREENS.",
+        "then": "ONE focused action for 25 minutes (Pomodoro). Then break. Repeat.",
+        "avoid": "Multitasking, meetings without breaks, more caffeine, pushing harder"
+      },
+      "day_fire_stuck": {
+        "coordinates": "1000-1600 (FIRE/King) + Stuck/Foggy",
+        "diagnosis": "King paralyzed. Should be acting but stuck in analysis/doubt.",
+        "root_cause": "Wrong phase activity (learning when should act) OR fear OR no clear target",
+        "immediate_protocol": "DECISION_OVERRIDE",
+        "action": "Pick ONE thing (smallest possible). Do it NOW for 10 minutes. No planning. Just execute.",
+        "then": "Another 10 minutes. Build momentum through micro-actions.",
+        "avoid": "More planning, research, 'preparing to start', waiting for clarity",
+        "note": "If 11:30-13:00 RIGHT NOW: This is MOST VALUABLE WINDOW. Do not waste. Pick hardest task. Do it."
+      },
+      "day_fire_numb": {
+        "coordinates": "1000-1600 (FIRE/King) + Numb/Dissociated",
+        "diagnosis": "King present in body but soul absent. Going through motions.",
+        "root_cause": "Doing meaningless work OR value misalignment OR severe dissociation",
+        "immediate_protocol": "MEANING_CHECK",
+        "action": "Stop. Ask: 'Why am I doing this?' If no good answer, STOP DOING IT. Do something aligned instead.",
+        "then": "If must continue misaligned work: 25 min work, 5 min reconnection (breathe, feel body, remember purpose)",
+        "avoid": "Robotic continuation, ignoring soul screaming"
+      },
+      "day_fire_exhausted": {
+        "coordinates": "1000-1600 (FIRE/King) + Pain/Exhausted",
+        "diagnosis": "King wounded in battle. Should rest but can't (work demands).",
+        "root_cause": "Chronic overwork OR illness OR burnout active",
+        "immediate_protocol": "STRATEGIC_RETREAT",
+        "action": "Ruthlessly cut 80% of tasks. Do only the ONE most critical thing. Delegate/cancel rest.",
+        "then": "Work in 15-minute bursts, 15-minute rest. Horizontal rest if possible.",
+        "avoid": "Heroic effort, stimulants, pushing to collapse"
+      },
+      "evening_earth_overheating": {
+        "coordinates": "1600-2200 (EARTH/Knight) + Overheating/Racing",
+        "diagnosis": "Knight can't dismount. Still in battle mode after war ended.",
+        "root_cause": "No transition from King → Knight OR cortisol stuck high OR work stress not released",
+        "immediate_protocol": "FORCED_GROUND",
+        "action": "Heavy food NOW (Earth geometry: meat, root vegetables, fat) + Hot shower/bath + Phone off + Dim lights",
+        "then": "Physical grounding: walk, stretch, massage, sex, manual work",
+        "avoid": "Screen time, work thoughts, stimulating content, staying in head"
+      },
+      "evening_earth_stuck": {
+        "coordinates": "1600-2200 (EARTH/Knight) + Stuck/Foggy",
+        "diagnosis": "Knight exhausted but ungrounded. Tired but can't rest properly.",
+        "root_cause": "Incomplete day processing OR transitions skipped OR not enough Earth contact",
+        "immediate_protocol": "COMPLETION_RITUAL",
+        "action": "Journal 5 minutes (what happened today?) + Eat warm meal slowly + Gratitude for 3 things + Body scan",
+        "then": "Gentle embodiment (yin yoga, slow walk, warm bath)",
+        "avoid": "Starting new projects, problem-solving, future planning"
+      },
+      "evening_earth_numb": {
+        "coordinates": "1600-2200 (EARTH/Knight) + Numb/Dissociated",
+        "diagnosis": "Knight went through day as automaton. Now hollow.",
+        "root_cause": "Disconnected from pleasure/body all day OR meaningless labor",
+        "immediate_protocol": "PLEASURE_RECONNECTION",
+        "action": "Do ONE pleasurable thing with full attention: delicious food, music, touch, beauty, laughter",
+        "then": "Stay with sensation. No analysis. Just feel.",
+        "avoid": "Numbing further (substances, screens, dissociation deepening)"
+      },
+      "evening_earth_exhausted": {
+        "coordinates": "1600-2200 (EARTH/Knight) + Pain/Exhausted",
+        "diagnosis": "Knight collapsed. Body demanding rest.",
+        "root_cause": "Day was too much OR chronic depletion OR illness",
+        "immediate_protocol": "IMMEDIATE_REST",
+        "action": "Cancel evening plans. Eat simple food. Hot bath. Early bed (before 22:00 if possible).",
+        "then": "Full surrender to rest. Nothing else matters tonight.",
+        "avoid": "Guilt about resting, forcing social, 'should' thoughts"
+      },
+      "night_water_overheating": {
+        "coordinates": "2200-0400 (WATER/Queen) + Overheating/Racing (Insomnia)",
+        "diagnosis": "Queen rejected. King refusing to surrender crown. Classic insomnia.",
+        "root_cause": "Cortisol at night OR work thoughts OR anxiety OR poor evening routine",
+        "immediate_protocol": "FORCED_SHUTDOWN",
+        "action": "TOTAL DARKNESS (blackout room) + 4-7-8 breathing (4 in, 7 hold, 8 out) × 8 cycles + DO NOT MOVE BODY + Cold room (18°C ideal)",
+        "then": "If still awake after 30 min: get up, dim light, boring book, return when sleepy",
+        "avoid": "Screens, bright light, thinking about tomorrow, checking time, trying to force sleep"
+      },
+      "night_water_stuck": {
+        "coordinates": "2200-0400 (WATER/Queen) + Stuck/Foggy (Restless sleep)",
+        "diagnosis": "Queen present but not deep. Shallow sleep, semi-conscious.",
+        "root_cause": "Mind not settled OR digestion active OR circadian misalignment",
+        "immediate_protocol": "DEPTH_INDUCTION",
+        "action": "Hot liquid (herbal tea, warm milk) + Magnesium if available + Body scan meditation + Heavy blankets",
+        "then": "Let go of control. Trust Queen. Surrender to depths.",
+        "avoid": "Light, stimulation, mental activity, resistance"
+      },
+      "night_water_numb": {
+        "coordinates": "2200-0400 (WATER/Queen) + Numb/Dissociated (Night terrors/nightmares)",
+        "diagnosis": "Queen processing trauma. Subconscious purging.",
+        "root_cause": "Unprocessed trauma OR spiritual emergency",
+        "immediate_protocol": "SAFETY_ANCHOR",
+        "action": "If awake from nightmare: sit up, lights on, touch physical objects, say 'I am safe, I am here, I am [name]'",
+        "then": "Write dream if helps. Grounding breath. Return to sleep when ready.",
+        "avoid": "Going back to sleep immediately (may resume nightmare), dismissing experience"
+      },
+      "night_water_exhausted": {
+        "coordinates": "2200-0400 (WATER/Queen) + Pain/Exhausted (Can't sleep despite exhaustion)",
+        "diagnosis": "System too depleted to initiate sleep. Paradoxical insomnia.",
+        "root_cause": "Adrenal exhaustion OR chronic fatigue OR burnout",
+        "immediate_protocol": "GENTLE_RESTORE",
+        "action": "Don't force. Rest horizontally even if not sleeping. Restorative yoga poses (legs up wall). Gentle breathing. Acceptance.",
+        "then": "This may take weeks to heal. Prioritize sleep above everything else.",
+        "avoid": "Panic about not sleeping, stimulants tomorrow, pushing through"
+      }
+    }
+  },
+  "step_3_act": {
+    "_instruction": "Execute the action from Step 2. Do it NOW. Not later. NOW. This takes 30 seconds to start.",
+    "execution_framework": {
+      "principle": "Action precedes motivation. Motivation follows action. Never wait for motivation.",
+      "rule": "5-second rule: Count 5-4-3-2-1 and MOVE. No thinking between 1 and action.",
+      "micro_action": "If protocol seems too big, do smallest possible first step. Example: Protocol says 'walk outside' but can't move? Stand up. That's it. Next will follow."
+    },
+    "status_code_actions": {
+      "_when_unsure": "If matrix above too complex or you can't locate yourself, use these universal codes:",
+      "code_red_survival": {
+        "trigger": "Panic, terror, acute crisis, can't function at all",
+        "state": "Biological emergency. Limbic system activated. Cortex offline.",
+        "priority": "HARDWARE FIRST. Nothing else matters until body safe.",
+        "action_sequence": [
+          "1. BREATHE: 5 deep breaths. Count them.",
+          "2. WATER: Drink 1 full glass. Cold if possible.",
+          "3. GROUND: Sit or lie on floor. Feel surface supporting you.",
+          "4. FUEL: Eat something with protein + fat (nuts, cheese, meat). Small amount OK.",
+          "5. WAIT: Stay still for 5 minutes. Let nervous system calm."
+        ],
+        "mantra": "I am biological organism. I fuel the hardware. Everything else can wait.",
+        "after": "When acute panic subsides, assess temporal coordinate and proceed to appropriate protocol."
+      },
+      "code_yellow_drift": {
+        "trigger": "Procrastination, doomscrolling, brain fog, can't start anything",
+        "state": "Stuck in inertia. No momentum. Analysis paralysis.",
+        "priority": "MOTION CREATES EMOTION. Move the meat suit.",
+        "action_sequence": [
+          "1. STAND UP: Right now. Don't think. Stand.",
+          "2. MICRO-MOVEMENT: Choose ONE: 10 squats OR 10 pushups OR wash 1 dish OR make bed",
+          "3. CELEBRATE: Acknowledge you moved. That was the hard part.",
+          "4. NEXT MICRO: Another small thing. Build momentum.",
+          "5. SNOWBALL: Keep going with micro-actions until momentum carries you."
+        ],
+        "mantra": "I don't need to want to. I just need to move. The wanting comes after.",
+        "after": "Once moving, match activity to temporal phase (Page/King/Knight/Queen role)."
+      },
+      "code_blue_loop": {
+        "trigger": "Overthinking, worry, rumination, mental loops, can't stop thinking",
+        "state": "Trapped in neocortex. Disconnected from body and present.",
+        "priority": "SENSORY OVERRIDE. Get out of head, into senses.",
+        "action_sequence": [
+          "1. SHOCK: Choose ONE: Cold shower OR bite lemon OR hold ice cube OR splash cold water face",
+          "2. SENSATION: Focus entirely on physical sensation. Nothing else exists.",
+          "3. BREATHE: 10 deep breaths, counting each one out loud",
+          "4. NOTICE: 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste",
+          "5. GROUND: Feel feet on floor. Press down. You are HERE, NOW."
+        ],
+        "mantra": "Thoughts are not reality. Sensations are. I return to body.",
+        "after": "With clearer head, check temporal coordinate and align activity to phase."
+      },
+      "code_green_ready": {
+        "trigger": "Basically okay but lost/directionless. Don't know what to do next.",
+        "state": "System functional but no clear target. Need direction.",
+        "priority": "ALIGN WITH TIME. Do what the moment asks.",
+        "action_sequence": [
+          "1. CHECK TIME: What hour is it?",
+          "2. IDENTIFY PHASE: Air/Fire/Earth/Water? Page/King/Knight/Queen?",
+          "3. ROLE TASK: What does this archetype do? Do THAT for 15 minutes.",
+          "4. EXAMPLES:",
+          "   - 07:00 (Page/Air): Learn something new for 15 min",
+          "   - 12:00 (King/Fire): Make 1 hard decision or difficult conversation",
+          "   - 18:00 (Knight/Earth): Manual task or cook meal",
+          "   - 23:00 (Queen/Water): Prepare for sleep, darkness, stillness"
+        ],
+        "mantra": "I am the [Page/King/Knight/Queen]. I play my role. Time tells me what to do.",
+        "after": "Continue aligned activity. Check in every 90 minutes as new archetype takes over."
+      }
+    }
+  },
+  "universal_hard_reset": {
+    "_when": "When NOTHING else works. Total system crash. Absolute last resort.",
+    "description": "The Alchemical Reset. Solve et Coagula. Dissolve and Crystallize.",
+    "sequence": [
+      {
+        "step": 1,
+        "action": "SOLVE (Dissolution)",
+        "instruction": "Exhale completely. Every last bit of air out. Collapse lungs.",
+        "metaphor": "You are releasing all chaos, all overwhelm, all confusion into the void.",
+        "duration": "Exhale for 10 seconds until absolutely empty"
+      },
+      {
+        "step": 2,
+        "action": "THE VOID",
+        "instruction": "Hold lungs empty for 5 seconds. Stay in the emptiness.",
+        "metaphor": "This is the space between death and rebirth. The pregnant void. Total potential.",
+        "duration": "5 seconds of perfect stillness"
+      },
+      {
+        "step": 3,
+        "action": "COAGULA (Crystallization)",
+        "instruction": "Inhale deeply, slowly, completely. Fill entire body with fresh air/life/order.",
+        "metaphor": "You are drawing in pure order, clarity, life force from the cosmos.",
+        "duration": "Inhale for 10 seconds until completely full"
+      },
+      {
+        "step": 4,
+        "action": "LISTEN",
+        "instruction": "In the silence after full inhale, ask internally: 'What is the next right move?'",
+        "metaphor": "In the space between chaos and order, intuition speaks. Listen.",
+        "duration": "3-5 seconds of receptive silence"
+      },
+      {
+        "step": 5,
+        "action": "EXECUTE",
+        "instruction": "Whatever answer came (even if unclear), DO IT IMMEDIATELY. No analysis. Trust and act.",
+        "metaphor": "The universe answered. Honor the answer with action.",
+        "duration": "Now. Right now."
+      }
+    ],
+    "repetition": "If first cycle doesn't work, repeat 3 times total. If still stuck after 3 cycles, use Code Red (survival protocol).",
+    "why_this_works": {
+      "physiology": "Lung emptying stimulates vagus nerve. Holding empty creates CO2 buildup triggering reset. Deep inhale activates parasympathetic.",
+      "psychology": "Forced pause interrupts thought loops. Void creates space for new signal.",
+      "metaphysics": "You're literally performing alchemy on your nervous system. Solve et Coagula."
+    }
+  },
+  "integration_with_other_systems": {
+    "chakra_emergency_protocols": {
+      "earth_star_root_crisis": {
+        "symptom": "Ungrounded, dissociated, lost in time",
+        "protocol": "Code Red + Earth contact + Root activation",
+        "action": "Lie on floor/ground. Full body contact. Breathe into tailbone. 10 minutes."
+      },
+      "sacral_solar_crisis": {
+        "symptom": "No will, no desire, frozen",
+        "protocol": "Code Yellow + Fire element + Movement",
+        "action": "Dynamic movement (dance, martial arts, shaking). Activate power."
+      },
+      "heart_throat_crisis": {
+        "symptom": "Can't express, isolated, voiceless",
+        "protocol": "Code Blue + Sound + Connection",
+        "action": "Scream, sing, call someone, speak truth out loud. Break silence."
+      },
+      "third_eye_crown_crisis": {
+        "symptom": "Spiritual crisis, meaning lost, existential terror",
+        "protocol": "Hard Reset + Meditation + Surrender",
+        "action": "Alchemical breath × 3 + Sit in silence + Accept not-knowing"
+      }
+    },
+    "biorhythm_rescue": {
+      "heart_1phi_disrupted": {
+        "symptom": "Heart racing or numb, no coherence",
+        "action": "HeartMath breathing: 5 seconds in + 5 seconds out, focusing on heart area. 5 minutes."
+      },
+      "lungs_2phi_disrupted": {
+        "symptom": "Breath shallow or chaotic",
+        "action": "Box breathing: 4 seconds in, 4 hold, 4 out, 4 hold. Repeat 10 cycles."
+      },
+      "digestion_3phi_disrupted": {
+        "symptom": "Digestive chaos, nausea, gut distress",
+        "action": "Warm liquids + Gentle pressure on belly + Horizontal rest"
+      },
+      "brain_4phi_disrupted": {
+        "symptom": "Mental chaos, can't think",
+        "action": "Sensory override (Code Blue) + Forest sounds/binaural beats + Close eyes"
+      }
+    },
+    "polarity_emergency": {
+      "yin_collapse": {
+        "symptom": "Can't receive, rejecting input, hardened",
+        "action": "Left nostril breathing + Left hand on heart + Soften body + Receive help"
+      },
+      "yang_exhaustion": {
+        "symptom": "Can't act, no output, depleted",
+        "action": "Right nostril breathing + Right hand solar plexus + Stimulation (cold, movement) + Express something"
+      }
+    }
+  },
+  "prevention_maintenance": {
+    "daily_minimum": {
+      "description": "Do these every day. This prevents needing emergency protocols.",
+      "morning": "Wake with sun (or 06:00) + 5 min silence + Cold water face + Movement",
+      "noon": "Decisive action 11:30-13:00 + Fuel body properly + Brief walk",
+      "evening": "Transition ritual 16:00 + Real food 19:00 + Screens off 21:00",
+      "night": "Dark by 22:00 + Cool room + 7-9 hours sleep",
+      "note": "If doing these, will rarely need Protocol Zero. This is maintenance, not repair."
+    },
+    "weekly_reset": {
+      "description": "One day per week, full alignment check",
+      "practice": [
+        "Review past week: What worked? What didn't?",
+        "Body scan: Where is tension? Pain? Numbness?",
+        "Emotional inventory: What's processed? What's stuck?",
+        "Temporal analysis: Following circadian rhythm? Or fighting it?",
+        "Corrective actions: Plan adjustments for coming week"
+      ],
+      "timing": "Sunday evening or Monday morning ideal"
+    },
+    "monthly_deep_dive": {
+      "description": "Once per month, complete system audit",
+      "questions": [
+        "Am I following my circadian rhythm consistently?",
+        "Is my body in chronic stress or recovering?",
+        "Are my chakras flowing or blocked?",
+        "Is my polarity balanced or stuck in one side?",
+        "What needs deep healing this month?"
+      ],
+      "action": "Book time with practitioner if needed (bodywork, therapy, energy work) OR dedicate weekend to deep self-care"
+    }
+  },
+  "troubleshooting": {
+    "protocol_not_working": {
+      "if_action_too_hard": "Break it smaller. Can't walk 5 min? Walk 1 min. Can't walk 1 min? Stand up. Always smaller.",
+      "if_worse_after": "You may have picked wrong protocol. Reassess coordinates. Try opposite intervention.",
+      "if_chronic_not_acute": "Protocol Zero is for acute crisis. Chronic issues need: professional help, lifestyle change, deeper work.",
+      "if_resistant": "Resistance is information. What are you avoiding? Why? Sometimes stuck IS the message."
+    },
+    "when_to_get_help": {
+      "signs": [
+        "Protocol Zero needed daily for weeks",
+        "Suicidal ideation",
+        "Can't get out of bed multiple days",
+        "Substance dependence forming",
+        "Physical symptoms worsening",
+        "Relationships collapsing",
+        "Total life dysfunction"
+      ],
+      "action": "This is beyond self-help. Seek: therapist, doctor, healer, trusted person. You need support team, not solo protocols."
+    }
+  },
+  "_final_transmission": {
+    "remember": [
+      "You are not broken. You are biological system experiencing normal fluctuations.",
+      "Being lost is a state, not an identity. States change.",
+      "Your thoughts are not you. You are consciousness observing thoughts.",
+      "Debugging is normal maintenance. All systems need reboots.",
+      "This moment of crisis is temporary. It will pass.",
+      "You have everything you need. This protocol just reminds you."
+    ],
+    "truth": "The fact that you're reading this means part of you still wants to function. Honor that part. It's pulling you toward life.",
+    "permission": "You have permission to stop everything and reboot. You have permission to be biological organism with needs. You have permission to not be okay right now.",
+    "promise": "Do the protocol. It works. Not perfectly. Not permanently. But it works enough to get you to next moment. And next moment to next. That's all you need.",
+    "final_word": "You are not your thoughts. You are not your state. You are consciousness experiencing a temporary glitch in biological system. Reset available anytime. ⊙",
+    "status": "SYSTEM READY. PROTOCOL LOADED. EMERGENCY SUPPORT ACTIVE. You are not alone. 🔥"
+  }
+}
